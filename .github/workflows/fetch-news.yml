@@ -13,11 +13,17 @@ on:
       - "requirements.txt"
       - ".github/workflows/fetch-news.yml"
 
+# Push trigger only fires on code changes (not on JSON-only commits), so we
+# don't get an infinite loop. The hourly schedule + manual dispatch cover
+# the normal cadence.
+
 permissions:
   contents: write       # Required to commit JSON files back to repo
 
 concurrency:
   group: fetch-news
+  # cancel-in-progress: false → queued runs wait for the current one to finish,
+  # avoiding race conditions on the git push step.
   cancel-in-progress: false
 
 jobs:
@@ -70,10 +76,29 @@ jobs:
           fi
 
           TIMESTAMP="$(date -u '+%Y-%m-%d %H:%M UTC')"
+          BMW_COUNT="$(python -c "import json;print(json.load(open('data/bmw-news.json'))['total_items'])")"
+          AUTO_COUNT="$(python -c "import json;print(json.load(open('data/auto-news.json'))['total_items'])")"
           git commit -m "chore(news): hourly refresh @ ${TIMESTAMP}
 
-          - BMW news:   $(python -c "import json;print(json.load(open('data/bmw-news.json'))['total_items'])") items
-          - Auto news:   $(python -c "import json;print(json.load(open('data/auto-news.json'))['total_items'])") items"
+          - BMW news: ${BMW_COUNT} items
+          - Auto news: ${AUTO_COUNT} items"
 
-          git push
-          echo "✓ Pushed updated JSON files"
+          # Pull+rebase in case another run pushed in the meantime, then push.
+          # Uses --autostash to be safe (nothing should be stashed here, but defensive).
+          for attempt in 1 2 3; do
+            echo "--- Push attempt $attempt ---"
+            if git pull --rebase origin main; then
+              :
+            else
+              echo "✗ Pull-rebase failed"
+              exit 1
+            fi
+            if git push; then
+              echo "✓ Pushed updated JSON files"
+              exit 0
+            fi
+            echo "Push rejected, retrying..."
+            sleep 5
+          done
+          echo "✗ Failed to push after 3 attempts"
+          exit 1
