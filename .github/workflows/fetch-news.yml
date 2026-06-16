@@ -83,22 +83,24 @@ jobs:
           - BMW news: ${BMW_COUNT} items
           - Auto news: ${AUTO_COUNT} items"
 
-          # Pull+rebase in case another run pushed in the meantime, then push.
-          # Uses --autostash to be safe (nothing should be stashed here, but defensive).
+          # Push with retry. If the remote moved (another concurrent run pushed
+          # first), we rebase and prefer OUR freshly-generated JSON for any
+          # conflicts (-X theirs in rebase = the commit being replayed wins).
           for attempt in 1 2 3; do
             echo "--- Push attempt $attempt ---"
-            if git pull --rebase origin main; then
+            if git pull --rebase -X theirs origin main; then
               :
             else
-              echo "✗ Pull-rebase failed"
+              echo "✗ Pull-rebase failed unexpectedly"
+              git rebase --abort 2>/dev/null || true
               exit 1
             fi
             if git push; then
               echo "✓ Pushed updated JSON files"
               exit 0
             fi
-            echo "Push rejected, retrying..."
+            echo "Push rejected, retrying in 5s..."
             sleep 5
           done
-          echo "✗ Failed to push after 3 attempts"
+          echo "✗ Failed to push after 3 attempts — another run will refresh soon."
           exit 1
