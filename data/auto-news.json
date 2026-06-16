@@ -1,12 +1,15 @@
 {
   "kind": "auto",
-  "generated_at": "2026-06-16T16:01:37.925505+00:00",
-  "generated_at_human": "2026-06-16 16:01 UTC",
-  "total_items": 150,
+  "generated_at": "2026-06-16T16:19:05.919284+00:00",
+  "generated_at_human": "2026-06-16 16:19 UTC",
+  "total_items": 250,
   "sources_used": [
     "AutoExpress",
     "Autocar",
     "Car and Driver",
+    "Car and Driver News",
+    "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops",
     "Electrek",
@@ -16,8 +19,38 @@
     "Motorious",
     "The Drive"
   ],
-  "sources_count": 11,
+  "sources_count": 14,
   "items": [
+    {
+      "id": "ee4fa352e11e1c84",
+      "title": "Toyota’s new EVs are catching on as registrations jump 225% in April",
+      "summary": "With three fully electric SUVs now on sale, Toyota’s EV registrations surged 225% in April.",
+      "url": "https://electrek.co/2026/06/16/toyotas-new-evs-catch-on-registrations-jump-225-april/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Toyota-EV-registrations-April.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-16T16:07:54+00:00"
+    },
+    {
+      "id": "b11933228526734c",
+      "title": "I Drove One Of China's Fastest EVs And Found It Surprisingly Easy To Drive—Despite Its 1,500 Horsepower",
+      "summary": "The Xiaomi SU7 Ultra could be the easiest 1,526-horsepower car I’ve ever driven. And starting at $75,000, it's a bargain.",
+      "url": "https://insideevs.com/reviews/798799/xiaom-su7-ultra-test-drive/",
+      "image": "https://cdn.motor1.com/images/mgl/ojJKXy/s3/xiaomi-su7-ultra-review-top-image.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-16T16:05:30+00:00"
+    },
+    {
+      "id": "9f2add8f02ac82f1",
+      "title": "The First Mainstream Turbocharged Car Was An Over-Engineered Masterpiece",
+      "summary": "the 1977 Saab 99 Turbo revolutionized the automotive industry by introducing reliable turbocharging technology to the mainstream.",
+      "url": "https://carbuzz.com/saab-99-turbo-was-the-first-mainstream-turbocharged-car/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/1978_saab_99_1978-saab-99-turbo-bring-a-trailer-cabiglio-garage-47-23992-scaled.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T16:00:12+00:00"
+    },
     {
       "id": "d9f816463d7ea220",
       "title": "Chevy’s 2027 Silverado Gets Two All-New V8s While The Industry Chases Turbos",
@@ -27,6 +60,36 @@
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T15:50:06+00:00"
+    },
+    {
+      "id": "7ce0d74e220fc4e9",
+      "title": "Spied: New Genesis G80 Loses Camo, Looks Ready To Battle The Mercedes E-Class",
+      "summary": "Spy shots reveal a facelifted Genesis G80 with new styling and a likely TMED-II hybrid powertrain making up to 329 hp.",
+      "url": "https://carbuzz.com/genesis-g80-spy-photos-june-16/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/genesis-g80-spy-photo-2.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:45:12+00:00"
+    },
+    {
+      "id": "7102f020ff1c904f",
+      "title": "The Last Two SUVs Left In America With A Manual Transmission",
+      "summary": "Want a three-pedal SUV in 2026? Here are your two choices.",
+      "url": "https://carbuzz.com/final-two-suvs-left-usa-manual-transmission-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/oct-30-screenshot-from-imagy-9.png",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:40:13+00:00"
+    },
+    {
+      "id": "c3be1c95edc2c5b5",
+      "title": "How One Luxury Brand Did What Lexus, Infiniti, And Acura All Failed To Do",
+      "summary": "Genesis has been making waves in the US since its inception a decade ago, primarily by going against the rulebook used by its Japanese competitors.",
+      "url": "https://carbuzz.com/genesis-success-where-luxury-brands-lexus-infiniti-acura-failed/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/original-5808-genesisprestigeblackg80229_cropped_processed_by_imagy.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:30:13+00:00"
     },
     {
       "id": "ad5d6f9cff69bea6",
@@ -59,14 +122,24 @@
       "published": "2026-06-16T15:25:00+00:00"
     },
     {
-      "id": "33e73a103e4125e3",
-      "title": "AI Chatbot Makes Reasonable Buy-Back Offer, Dealer Revokes It Because It's Too Good",
-      "summary": "Computer said yes, dealer said no.",
-      "url": "https://www.jalopnik.com/2194304/dealer-revokes-ai-chatbot-buyback-offer/",
-      "image": "https://www.jalopnik.com/img/gallery/ai-chatbot-makes-reasonable-buy-back-offer-dealer-revokes-it-because-its-too-good/l-intro-1781536953.jpg",
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-06-16T15:25:00+00:00"
+      "id": "e31543d670732c57",
+      "title": "Chevy's Overlooked Midsize V8 Street Truck Is A $10,000 Bargain",
+      "summary": "Move over Ford Ranger, because there's a bigger little boy on the block.",
+      "url": "https://carbuzz.com/chevrolet-colorado-street-truck-hummer-v8-bargain-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2011-chevrolet-colorado-v8-v8-badge.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:15:12+00:00"
+    },
+    {
+      "id": "c864f09c759f5c33",
+      "title": "The New Audi A6 Allroad Is Here, And It's Wearing The RS6's Clothes",
+      "summary": "Audi has stretched out its off-road wagon with some widebody style.",
+      "url": "https://carbuzz.com/reveal-2027-audi-a6-allroad/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-audi-a6-allroad-4.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:08:14+00:00"
     },
     {
       "id": "970e66f624607e0c",
@@ -117,6 +190,26 @@
       "source": "Motorious",
       "source_url": "https://motorious.com",
       "published": "2026-06-16T15:00:56+00:00"
+    },
+    {
+      "id": "920af5b4ac4cdc06",
+      "title": "Chevrolet's Best-Selling Vehicle Gets A Big Redesign (And Two Big V8s)",
+      "summary": "The 2027 Silverado 1500 gets two new versions of the sixth-generation small-block V8, including a 6.6-liter mill with segment-best power.",
+      "url": "https://carbuzz.com/2027-chevy-silverado-1500-debut-v8/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-chevrolet-silverado-1500-zr2-bison-exterior-grille-closeup.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:00:12+00:00"
+    },
+    {
+      "id": "60d807236f4955ee",
+      "title": "Tesla Models Compared For 2026 And 2027",
+      "summary": "The brand's lineup is undoubtedly changing. Here are all the confirmed Tesla models compared for this year and the next.",
+      "url": "https://carbuzz.com/tesla-models-compared-2026-and-2027/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/tesla-robotaxi_concept-2024-1280-bd7ed08c8adf319c6e5e0fed7118702294.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T15:00:12+00:00"
     },
     {
       "id": "7b878141b4b91928",
@@ -179,14 +272,14 @@
       "published": "2026-06-16T15:00:00+00:00"
     },
     {
-      "id": "cb53d177b10d4fea",
-      "title": "2027 Chevy Silverado Enters the Fight With New Small-Block V8s, Fresh Looks",
-      "summary": "The full-size Bowtie goes where no other half-ton truck has in years by introducing next-gen V8 engines, but there's not much old-school left in this rig. The post 2027 Chevy Silverado Enters the Fight With New Small-Block V8s, Fresh Looks appeared first on The Drive .",
-      "url": "https://www.thedrive.com/news/2027-chevy-silverado-enters-the-fight-with-new-small-block-v8s-fresh-looks",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/06/2027-Chevy-Silverado-Hero.jpg?quality=85",
-      "source": "The Drive",
-      "source_url": "https://www.thedrive.com",
-      "published": "2026-06-16T15:00:00+00:00"
+      "id": "137b52997988391c",
+      "title": "The Most Affordable Manual Transmission SUV You Can Buy In 2026",
+      "summary": "SUVs offered with manual gearboxes are few and far between in the US these days, and this is the cheapest new example you can buy in 2026.",
+      "url": "https://carbuzz.com/jeep-wrangler-most-affordable-manual-transmissioin-suv-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/08/jeep-manual-main.png",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T14:37:13+00:00"
     },
     {
       "id": "5b3881783ed01450",
@@ -247,6 +340,16 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-06-16T14:22:07+00:00"
+    },
+    {
+      "id": "0b0926291d53a055",
+      "title": "2027 Nissan Frontier Is Still A Cool, Affordable, V6-Powered Pickup Truck",
+      "summary": "Prices hardly move for Nissan's popular midsize pickup, and the new Sport trim adds less than $1,000 to the sticker.",
+      "url": "https://carbuzz.com/2027-nissan-frontier-price/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-nissan-frontier-sport-8.jpg",
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-16T14:17:47+00:00"
     },
     {
       "id": "71e6def93254ab24",
@@ -459,16 +562,6 @@
       "published": "2026-06-16T12:10:47+00:00"
     },
     {
-      "id": "42101e4e321cfa93",
-      "title": "Rivian just made it easier to save money on home EV charging",
-      "summary": "Rivian is partnering with ChargeScape to connect its EVs to utility-managed home charging programs across North America, giving owners new opportunities to save money while helping utilities manage electricity demand.",
-      "url": "https://electrek.co/2026/06/16/rivian-just-made-it-easier-to-save-money-on-home-ev-charging/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/20251217-BRAD-TORCHIA-R2-HOUSE-0967-Final.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-06-16T12:00:00+00:00"
-    },
-    {
       "id": "bb93936403faefad",
       "title": "Rivian’s Latest Partnership Unlocks Cheaper Home EV Charging",
       "summary": "Rivian partnered with ChargeScape to gain access to various utilities' managed-charging programs.",
@@ -476,6 +569,16 @@
       "image": "https://cdn.motor1.com/images/mgl/G3Qm48/s3/rivian-r2-charging.jpg",
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
+      "published": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "42101e4e321cfa93",
+      "title": "Rivian just made it easier to save money on home EV charging",
+      "summary": "Rivian is partnering with ChargeScape to connect its EVs to utility-managed home charging programs across North America, giving owners new opportunities to save money while helping utilities manage electricity demand.",
+      "url": "https://electrek.co/2026/06/16/rivian-just-made-it-easier-to-save-money-on-home-ev-charging/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/20251217-BRAD-TORCHIA-R2-HOUSE-0967-Final.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
       "published": "2026-06-16T12:00:00+00:00"
     },
     {
@@ -789,9 +892,9 @@
       "published": "2026-06-15T23:50:54+00:00"
     },
     {
-      "id": "895d522392de5918",
-      "title": "The U.S. Now Has Over 250,000 EV Charging Ports",
-      "summary": "The milestone includes both fast-charging plugs and slower Level 2 hookups.",
+      "id": "595304de7a17eac5",
+      "title": "America's Charging Network Just Hit A Major Milestone",
+      "summary": "The U.S. now has over 250,000 charging hookups across Level 1, Level 2, and DC fast chargers.",
       "url": "https://insideevs.com/news/798812/ev-charging-plugs-amount-250000/",
       "image": "https://cdn.motor1.com/images/mgl/2N4zgk/s3/chevrolet-blazer-ev-gm-energy-charging-station.jpg",
       "source": "InsideEVs",
@@ -1279,16 +1382,6 @@
       "published": "2026-06-15T18:00:00+00:00"
     },
     {
-      "id": "008d2e899c4f29d6",
-      "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
-      "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
-      "url": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX5-battery-range-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-06-15T17:53:27+00:00"
-    },
-    {
       "id": "bef5f1bb9a0b57c0",
       "title": "Tesla’s self-driving safeguards fooled by $30 doll heads",
       "summary": "A cottage industry has emerged on Chinese e-commerce platforms selling tiny plastic doll heads designed to trick Tesla’s cabin camera into thinking a driver is paying attention. The devices cost as little as $20 to $50. The products — marketed as “travel companions” and “dashboard decorations” — represent the latest and most absurd escalation in the arms race between Tesla’s driver monitoring safeguards and people determined to defeat them. It’s also incredibly dangerous and irresponsible.",
@@ -1517,6 +1610,896 @@
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
       "published": "2026-06-15T14:00:00+00:00"
+    },
+    {
+      "id": "81aa0c12b04ef151",
+      "title": "New Electric Car Sales Bounced Back Big in April: TDS",
+      "summary": "EV sales in the U.S. may be lower than they were in the era of federal rebates, but they've gotten stronger every month since the start of 2026. The post New Electric Car Sales Bounced Back Big in April: TDS appeared first on The Drive .",
+      "url": "https://www.thedrive.com/news/new-electric-car-sales-bounced-back-big-in-april-tds",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2269134969-copy.jpg?quality=85",
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-06-15T13:54:50+00:00"
+    },
+    {
+      "id": "97042c1acca56a7d",
+      "title": "This Land-Speed Chevrolet Camaro IROC-Z Is a Bonneville Bullet Built to Break Records",
+      "summary": "This is a car with real records to its name, with the seller reporting top-speed runs at both the Bonneville Salt Flats and the Texas Mile.",
+      "url": "https://www.motorious.com/articles/handpicked/this-land-speed-chevrolet-camaro/",
+      "image": "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/06/DSC05724-37197.webp",
+      "source": "Motorious",
+      "source_url": "https://motorious.com",
+      "published": "2026-06-15T13:30:04+00:00"
+    },
+    {
+      "id": "b10b35073848c814",
+      "title": "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
+      "summary": "Tesla presented self-published and inflated “Full Self-Driving” safety statistics directly to government regulators in Sweden and the Netherlands as it lobbied for European approval, according to correspondence obtained by Reuters through public records requests. The data includes a claim that FSD could have “saved 32,000 lives” — a figure that independent researchers say is based on the absurd assumption that every vehicle in the U.S., including freight trucks and motorcycles, would be replaced by an FSD-enabled Tesla.",
+      "url": "https://electrek.co/2026/06/15/tesla-fsd-misleading-safety-data-european-regulators/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-15T13:27:44+00:00"
+    },
+    {
+      "id": "c2282841e3c1dcf9",
+      "title": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas",
+      "summary": "Pulling a 4,500-pound load over a massive cross-country trip through the Rockies made a dent in the usable range, but it was still worth it.",
+      "url": "https://insideevs.com/news/798734/rivian-r1t-towing-cost/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ06m/s3/rivian-r1t-towing-a-4-500-pound-trailer.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-15T13:14:24+00:00"
+    },
+    {
+      "id": "9e0061774fa90e5e",
+      "title": "Fox Body Forever: Why the 1987 Mustang GT Captures the Spirit of '80s American Muscle",
+      "summary": "A freshly listed 1987 Mustang GT 5.0 Convertible on Hagerty Marketplace is the perfect lens through which to look at this exciting and increasingly collectible corner of the hobby.",
+      "url": "https://www.motorious.com/articles/handpicked/fox-body-forever-why/",
+      "image": "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/06/mustang-feature.jpg",
+      "source": "Motorious",
+      "source_url": "https://motorious.com",
+      "published": "2026-06-15T13:00:28+00:00"
+    },
+    {
+      "id": "5009e8492124eb20",
+      "title": "Acura Combines Olympic Partnership with Pikes Peak Record Attempt",
+      "summary": "Veteran racer Dai Yoshihara goes for the front-wheel-drive course record at the 2026 Pikes Peak International Hill Climb.",
+      "url": "https://www.caranddriver.com/news/a71574303/acura-olympic-partnership-pikes-peak-record-attempt/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d833ec4f-f689-4a77-a7aa-c914b5600b40.jpg",
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T13:00:00+00:00"
+    },
+    {
+      "id": "a4ce4358f814c960",
+      "title": "Gateway Classic Cars Brings 25 Standouts to Hagerty Marketplace",
+      "summary": "This collection spans decades of American muscle, post-war icons, off-road legends, and a few unexpected curiosities.",
+      "url": "https://www.motorious.com/articles/handpicked/gateway-classic-cars-brings/",
+      "image": "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/06/82179031_471042867125112_730683467305582592_n.jpg",
+      "source": "Motorious",
+      "source_url": "https://motorious.com",
+      "published": "2026-06-15T12:30:57+00:00"
+    },
+    {
+      "id": "1c9d68b3bf120d6b",
+      "title": "New BMW X5 prototype review: how can Audi or Mercedes compete with this?",
+      "summary": "We get an early taste of the new BMW X5 ahead of its official arrival",
+      "url": "https://www.autoexpress.co.uk/bmw/x5/369794/new-bmw-x5-prototype-review-how-can-audi-or-mercedes-compete",
+      "image": "https://media.autoexpress.co.uk/image/private/s--AaRa6kHA--/t_rss_image_w_845/v1781516579/autoexpress/2026/06/BMW%20X5%20prototype%202026-2.jpg",
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-06-15T12:03:37+00:00"
+    },
+    {
+      "id": "ecf486f21429556a",
+      "title": "New BMW X5 prototype 2026 - pictures",
+      "summary": "Pictures of a prototype version of the new BMW X5",
+      "url": "https://www.autoexpress.co.uk/bmw/x5/369793/new-bmw-x5-prototype-2026-pictures",
+      "image": "https://media.autoexpress.co.uk/image/private/s--AaRa6kHA--/t_rss_image_w_845/v1781516579/autoexpress/2026/06/BMW%20X5%20prototype%202026-2.jpg",
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-06-15T12:03:30+00:00"
+    },
+    {
+      "id": "b850df31b885cc54",
+      "title": "BMW iX5",
+      "summary": "Long-running SUV is electrified with Neue Klasse design and tech – plus a truly enormous battery BMW is going to have to start work on a jet turbine and a flux capacitor at this rate.It seems that with the new BMW X5, it’s going for the record for most power sources available in one car. It will at some point be available with mild-hybrid petrol, mild-hybrid diesel, plug-in hybrid, battery-electric and hydrogen fuel cell drivetrains.At a time when EV mandates and subsidies come and go and consumers can’t make up their minds whether diesel really is the devil’s work, BMW is not taking any…",
+      "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-reveiw-2026-63.jpg?itok=Cetv5uKk",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T12:00:44+00:00"
+    },
+    {
+      "id": "b5f810fcce4430f3",
+      "title": "New X5 tested: Business as usual for BMW's seminal SUV?",
+      "summary": "New-era styling and cabin but familiar mechanicals for the new ICE SUV A new generation of BMW’s seminal large SUV is coming, and the big news is that there will be an electric BMW iX5 with a 141kWh battery, but have no fear: there will be a fulsome range of other powertrains as well. The exact model line-up has yet to be announced, but the core will remain a set of 3.0-litre straight-six powertrains: a mild-hybrid petrol, a mild-hybrid diesel and a plug-in hybrid petrol. We expect a more powerful M60 PHEV to join the range, as well as a hot X5 M with the same powertrain as the M5. For…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-x5-tested-business-usual-bmws-seminal-suv",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-x5-reveiw-2026-30.jpg?itok=j0bP3PGh",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T12:00:21+00:00"
+    },
+    {
+      "id": "f73c957557568968",
+      "title": "Tesla's Wild Robotic Charging Arm Never Happened. Xiaomi Just Made It Reality",
+      "summary": "Forgot to plug in your EV at home? Xiaomi’s latest product takes care of it, even if you’re away.",
+      "url": "https://insideevs.com/news/798721/xiaomi-product-tesla-promised/",
+      "image": "https://cdn.motor1.com/images/mgl/8A3RyB/s3/xiaomi-robotic-charging-arm.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-15T11:07:29+00:00"
+    },
+    {
+      "id": "012a48be2cc7e68a",
+      "title": "New Hyundai i20 brings chunky look and tech upgrade",
+      "summary": "Next generation of petrol supermini is revealed in Brazil and designed to maximise interior space The next-generation Hyundai i20 has been revealed in Brazil and shows a dramatic shift in design for the small hatchback. It is notably taller and chunkier than the current i20, with black plastic cladding running around its bumpers and wheel arches giving the appearance of a small crossover rather than a traditional hatchback. The new i20 has been shaped according to the brand’s latest ‘Art of Steel’ design language. As seen on the electric Ioniq 3 , this approach emphasises hard lines and…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-hyundai-i20-brings-chunky-look-and-tech-upgrade",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/novo-hyundai-i20-1.jpg?itok=cUjAGcxS",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T10:22:58+00:00"
+    },
+    {
+      "id": "17e52c37b1533151",
+      "title": "Leapmotor B05",
+      "summary": "Stellantis presents a new Chinese take on the electric family hatchback Electric hatchbacks like the Volkswagen ID 3 Neo and Renault Megane have a new Chinese rival with the launch of Leapmotor’s aggressively priced B05.With the brand’s own £1500 ‘grant’ taking its retail price down to £28,995, the Spanish-built B05 undercuts both European competition and its MG 4 EV compatriot. Yet the resulting low cost doesn’t appear to mean a low specification, because the B05 promises 215bhp and a 300-mile range as well as a long list of standard kit.",
+      "url": "https://www.autocar.co.uk/car-review/leapmotor/b05",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/leapmotor-b05-review-2026-01.jpg?itok=wMY4Za7d",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T09:10:00+00:00"
+    },
+    {
+      "id": "f4922f55927420c7",
+      "title": "Ford's $30,000 Electric Pickup: Here’s A Closer Look",
+      "summary": "We get a glimpse at the design sketches as the first prototypes hit the public roads for testing.",
+      "url": "https://insideevs.com/news/798700/ford-affordable-electric-pickup-closer-look/",
+      "image": "https://cdn.motor1.com/images/mgl/40YRGM/s3/ford-s-30-000-electric-pickup-truck.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-15T08:05:16+00:00"
+    },
+    {
+      "id": "b0d1107d92000dcf",
+      "title": "Chevy Colorado Discount, Lease, Finance Deals For June 2026",
+      "summary": "Nationwide lease available on midsize pickup truck.",
+      "url": "https://gmauthority.com/blog/2026/06/chevy-colorado-discount-lease-finance-deals-incentives-offers-june-2026/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2025/12/2026-Chevrolet-Colorado-Stars-Steel-Special-Edition-Press-Photos-Exterior-001-front-three-quarters.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-15T07:06:29+00:00"
+    },
+    {
+      "id": "d375b2e1aaeaabcc",
+      "title": "The strange but wonderful world of the microcar",
+      "summary": "When small cars were really, like, small In the 1950s a huge industry sprang up across Europe, building microcars. Everyone wanted mobility but many couldn’t afford a ‘proper’ car, while used cars were in short supply. The answer was a glut of tiny vehicles, usually powered by two-cylinder engines and clothed in glassfibre – the new wonder material of the age. Glassfibre made small-scale production viable, although some microcars featured steel bodyshells. Throughout the fifties many of these companies flourished, but when the Mini appeared in 1959 it killed off many microcar makers at a…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/strange-wonderful-world-microcar",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_microcar_bmw_1_0_0_0.jpg?itok=wNM-jUqA",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T06:48:25+00:00"
+    },
+    {
+      "id": "ed365a9cd533a430",
+      "title": "The supercars you (probably) forgot ever existed",
+      "summary": "Think you know every supercar there’s ever been? You may need to think again For every supercar brand that has succeeded there have been plenty that have fallen by the wayside… When you're spending a lot of money on a top-end car you expect it to have some pedigree; branding count for a lot when buying most cars, but where supercars are concerned it's nothing less than crucial . In the past few decades very few new brands have emerged in the supercar arena and survived for any length of time – but dozens have come and gone having failed to make their mark. These are just some of those that…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/supercars-you-probably-forgot-ever-existed",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_spectre-42_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_0_0_0_0.jpg?itok=bK6iVK2W",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T06:38:02+00:00"
+    },
+    {
+      "id": "ac682c292ec973df",
+      "title": "Excellent & interesting Ford concept cars you may have never seen",
+      "summary": "A feast for your eyes Back to the future. The Ford Heritage Vault is one of the finest sources of publicly available archive information provided by any car maker – and it just keeps getting better. In a recent update, many previously unseen images of concept cars have been added, bringing the total to nearly 2000 . We can’t show them all here, but what we can do is take you through 50 Ford concepts, many (if not most) of which you might never have heard of . We’re presenting them in chronological order, starting with one which dates from over 70 years ago . FX-Atmos (1954) The name of the…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/excellent-interesting-ford-concept-cars-you-may-have-never-seen",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_01-intro-model-u-ford_0_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0.jpg?itok=tfeEzurN",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T06:37:54+00:00"
+    },
+    {
+      "id": "2696551f91285eab",
+      "title": "50 of the biggest missed opportunites in the automotive world",
+      "summary": "We look at the cars that could have been highly successful, but weren't for a wide variety of reasons Every time a new car is created, there's an opportunity to change the face of motoring for the better. But sometimes a car maker releases a car that's so disappointing for numerous reasons that you wonder why it was ever signed off. They could have made something good, but missed the opportunity by making a hash of things. Let's take a look at some famous examples : Tucker 48 (1948) Preston Tucker (1903-1956) was a visionary who wanted to push the boundaries with his ' Torpedo ' family…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/50-biggest-missed-opportunites-automotive-world",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-030613alf_ar_1905.jpg_afa_romeo_0_0_0_0_0_0_0_0_0_0_1_0.jpg?itok=eayweA5j",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T06:37:39+00:00"
+    },
+    {
+      "id": "6a487fea3d71b3c9",
+      "title": "The best cars ever made in Austria",
+      "summary": "Austria is a much more important car maker than many people believe Austria is not always the first country you think of as an automotive powerhouse. However, many well-known car names, from Aston Martin to Volkswagen, have turned to Austria for its car-building expertise. However, Austria has also been home to many of its own car brands and even witnessed the birth of Porsche as the sports car company we know today. Here’s a list of cars built in Austria, arranged in alphabetical order. Aston Martin Rapide Aston Martin is about as traditional a British car company as it gets, yet the 2009…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/best-cars-ever-made-austria",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_00-austrian-cars-opener-steyr-puch-pinzgauer_magnasteyr_2.jpg?itok=anbA58jg",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T06:37:08+00:00"
+    },
+    {
+      "id": "01611682dde515bc",
+      "title": "The finest cars of Buick",
+      "summary": "Buick: the story of America’s oldest auto firm still running Small to large. By a small margin, Buick is the oldest North American company still building cars today, was the first to be incorporated into General Motors, and marked its 120th birthday in 2023. To have survived so long, Buick has clearly been doing something right for the last 120 odd years, which is as good a reason as any for us to delve into its history: The founder David Dunbar Buick (1854-1929) was born in Arbroath on the east coast of Scotland , but was taken by his family to the US at the age of two. Like Henry Ford…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/finest-cars-buick-0",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_01-intro-gm_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_0_0.jpg?itok=7cj9GAU-",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T06:36:39+00:00"
+    },
+    {
+      "id": "0829c558dae67db6",
+      "title": "Porsche rules out electric 911 sports car",
+      "summary": "A battery-electric version of Porsche’s iconic sports car has been ruled out by the brand’s CEO.",
+      "url": "https://www.carexpert.com.au/car-news/porsche-rules-out-electric-911-sports-car",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2024-07-2025-porsche-911-gts-coupe-t-hybrid2838272520x1418.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-15T06:33:26+00:00"
+    },
+    {
+      "id": "b554635223f2b556",
+      "title": "What is a 125cc electric motorcycle and why are they so important right now?",
+      "summary": "When many riders hear about a new electric motorcycle, they tend to compare it to the flagship machines that dominate the headlines. Bikes like those from Zero or LiveWire have shown that electric motorcycles can be fast, powerful, and technologically impressive. They’ve also shown that they can be expensive. But a much more interesting battle may be happening lower down the power scale.",
+      "url": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/10/livewire-s4-honcho-header.webp?w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-15T05:47:39+00:00"
+    },
+    {
+      "id": "49522ef8dcce8b5a",
+      "title": "Touring Paris in a Twingo – driven by Renault's boss",
+      "summary": "Under CEO Fabrice Cambolive, Renault has its mojo back – this is why If Renault boss Fabrice Cambolive ever fancies a career change, he'd make a great tour guide. As he deftly guides me through the centre of Paris from the driver's seat of the new Twingo, Cambolive is supposed to be telling me about the French manufacturer's remarkable story of rejuvenation and success. Instead, he's busy pointing out his favourite views, comparing the city's Left and Right Banks and detailing his favourite arrondissements. It's fascinating stuff, and Cambolive is clearly enjoying himself, although I…",
+      "url": "https://www.autocar.co.uk/car-news/autocar-awards/touring-paris-twingo-%E2%80%93-driven-renaults-boss",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/renault_7.jpg?itok=EX87ci5c",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T05:00:00+00:00"
+    },
+    {
+      "id": "5abddb672322f6d3",
+      "title": "2027 Cadillac Vistiq Gets New Adobe Frost Paint Color: First Look",
+      "summary": "Flat finish for a high price.",
+      "url": "https://gmauthority.com/blog/2026/06/2027-cadillac-vistiq-gets-new-adobe-frost-paint-color-first-look/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/05/2027-Cadillac-Vistiq-Configurator-Adobe-Frost-GNR-Black-Roof-41T-Exterior-001-Front-Three-Quarters.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-15T04:03:30+00:00"
+    },
+    {
+      "id": "8955c70dac2ec42e",
+      "title": "2026 CarExpert Choice winner: Best Luxury Small SUV",
+      "summary": "The BMW X1 is a classy small SUV with nimble handling, modern technology and a well-appointed cabin.",
+      "url": "https://www.carexpert.com.au/car-news/2026-carexpert-choice-winner-best-luxury-small-suv",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-bmw-x1-cropped.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-15T03:39:06+00:00"
+    },
+    {
+      "id": "cd99e8df64a15bd5",
+      "title": "Leapmotor's electric hot hatch could be upgraded for global markets, but Australia isn’t locked in",
+      "summary": "The Chinese electric hatchback’s hotter Ultra version is under study for export markets, but Leapmotor says it may need more than the Chinese-market setup to make sense outside China.",
+      "url": "https://www.carexpert.com.au/car-news/leapmotors-electric-hot-hatch-could-be-upgraded-for-global-markets-but-australia-isnt-locked-in",
+      "image": "https://images.carexpert.com.au/cms/v1/media/leapmotor-b05-lafa-5-ultra-chinese-market-2.png",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-15T01:33:36+00:00"
+    },
+    {
+      "id": "950ce153173260cc",
+      "title": "BYD Dolphin plug-in hybrid revealed with 105km electric range",
+      "summary": "A Europe-specific version of BYD’s Dolphin hatch brings greater driving range from a plug-in hybrid powertrain, but it isn't planned for Australia.",
+      "url": "https://www.carexpert.com.au/car-news/byd-dolphin-plug-in-hybrid-revealed-with-105km-electric-range",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026byddolphingphevuk02rear.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-15T00:00:34+00:00"
+    },
+    {
+      "id": "9562d27c6078cb17",
+      "title": "Updated Volvo XC40 spied ahead of 2027 reveal",
+      "summary": "Volvo Australia’s best-seller is set for an update after its larger XC60 showroom sibling was given a suite of changes last year.",
+      "url": "https://www.carexpert.com.au/car-news/updated-volvo-xc40-spied-ahead-of-2027-reveal",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2027volvoxc40sidefl4.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T23:44:56+00:00"
+    },
+    {
+      "id": "01e719a3299c70fc",
+      "title": "Volkswagen Amarok R: High-performance ute ruled out",
+      "summary": "The sporty Amarok W600 is just around the corner, but Volkswagen says there won’t be an R version of the ute as that nameplate is ‘sacred’.",
+      "url": "https://www.carexpert.com.au/car-news/volkswagen-amarok-r-high-performance-ute-ruled-out",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2027-volkswagen-amarok-w600-walkinshaw-pre-launch-5.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T23:28:53+00:00"
+    },
+    {
+      "id": "1bc76ea4b64d2adb",
+      "title": "Leapmotor says annoying safety beeps could get better, but not disappear",
+      "summary": "The Chinese brand says regulations and safety-test requirements are making driver-assistance systems more intrusive, but it's still working with Stellantis engineers to improve the tuning.",
+      "url": "https://www.carexpert.com.au/car-news/leapmotor-says-annoying-safety-beeps-could-get-better-but-not-disappear",
+      "image": "https://images.carexpert.com.au/cms/v1/media/leapmotor-b05.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T23:21:54+00:00"
+    },
+    {
+      "id": "443bc1c774761462",
+      "title": "Bovensiepen 05 GT arrives as 790bhp super-estate",
+      "summary": "Bovensiepen – former custodian of Alpina – has launched a more refined take on the M5 Touring A successor to the Alpina B5 has arrived in the form of the Bovensiepen 05 GT – an adapted version of the BMW M5 Touring from the family who founded Alpina but recently sold the naming rights to BMW. The 05 GT comes hot on the heels of the Bovensiepen Zagato , though it is pitched at a less elevated price than the carbon-bodied coupé and demonstrates an easily repeatable format for the brand as it forges a new path. Unlike the limited-edition, M4-based Zagato, the 05 GT involves no fundamental…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/bovensiepen-05-gt-arrives-790bhp-super-estate",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/01_bovensiepen_05_gt_autocar_front.jpg?itok=0JwP_QsN",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-14T22:09:47+00:00"
+    },
+    {
+      "id": "d071dfa7d21f8719",
+      "title": "Corvette Racing Victorious In 2026 24 Hours Of Le Mans",
+      "summary": "Thanks to a fast TF Sport racer.",
+      "url": "https://gmauthority.com/blog/2026/06/corvette-racing-victorious-in-2026-24-hours-of-le-mans/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/06/Corvette-Racing-Z06-GT3.R-Le-Mans-June-2026-exterior-001-front-three-quarters.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-14T21:49:34+00:00"
+    },
+    {
+      "id": "78b2f72fde1160d4",
+      "title": "2027 Volkswagen Multivan facelift revealed in Europe",
+      "summary": "The Volkswagen Multivan and California people movers have been refreshed with a new face and a revised interior.",
+      "url": "https://www.carexpert.com.au/car-news/2027-volkswagen-multivan-facelift-revealed-in-europe",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2027-volkswagen-multivan-facelift-2.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T21:10:00+00:00"
+    },
+    {
+      "id": "c27994dc3298dd39",
+      "title": "BYD's off-roader brand has its first sports sedan and wagon leaked",
+      "summary": "BYD's Fangchengbao brand will begin sales of the Formula S liftback and wagon, its first non-SUV models, later this year.",
+      "url": "https://www.carexpert.com.au/car-news/byds-off-roader-brand-has-its-first-sports-sedan-and-wagon-leaked",
+      "image": "https://images.carexpert.com.au/cms/v1/media/byd-fangcheng-bao-formula-s-gt-2.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T20:30:00+00:00"
+    },
+    {
+      "id": "6b62ac06726500bb",
+      "title": "Trump tried to kill solar’s 5% safe harbor, a federal court brought it back",
+      "summary": "With less than a month left before the key, July 4th Federal Clean Energy tax-credit deadline , a federal judge has handed the solar industry an unexpected win, restoring the 5% safe harbor that Trump’s IRS tried to kill.",
+      "url": "https://electrek.co/2026/06/14/trump-tried-to-kill-solars-5-safe-harbor-a-federal-court-brought-it-back/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/08/pouty-man.png?w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-14T20:22:51+00:00"
+    },
+    {
+      "id": "f8a7915f6c88b004",
+      "title": "Scania scores 105 unit electric semi truck deal [video]",
+      "summary": "The bulk transport experts at Wibax have placed what’s being a “landmark” order with Swedish truck brand Scania that will see over 100 of the company’s battery-electric semi trucks put to work on European roads.",
+      "url": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/wibax-o-scania.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-14T19:25:08+00:00"
+    },
+    {
+      "id": "387456011935b55f",
+      "title": "Survey Sunday: do you still believe in Elon Musk?",
+      "summary": "Last week, we ran a sidebar survey asking if Electrek readers still believed in Elon Musk’s vision of a self-driving, robot-built future on Mars. After receiving more than 3,000 responses, here’s what you told us you think about the world’s first trillionaire.",
+      "url": "https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/muskees_2x1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-14T18:30:00+00:00"
+    },
+    {
+      "id": "9000a4ed770a2557",
+      "title": "Your Car Is Smarter, But Fixing It Will Cost You",
+      "summary": "Today's vehicles are more reliable in many ways, but maintenance costs now include a lot of tech and driver-assist equipment that can be expensive to replace.",
+      "url": "https://www.caranddriver.com/news/a71522914/your-car-is-smarter-but-fixing-it-will-cost-you/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a6e2766d-7430-475f-abd9-5c1d401d2320.jpeg",
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-14T18:00:00+00:00"
+    },
+    {
+      "id": "ced53b6dc573ffb7",
+      "title": "Cadillac Racing Just Misses Podium In 2026 24 Hours Of Le Mans",
+      "summary": "The other entries finished ninth, and one more had to retire.",
+      "url": "https://gmauthority.com/blog/2026/06/cadillac-racing-just-misses-podium-in-2026-24-hours-of-le-mans/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/06/Cadillac-V-Series.R-2026-24-Hours-of-Le-Mans-June-2026-001-side.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-14T17:39:10+00:00"
+    },
+    {
+      "id": "47602021118eba8b",
+      "title": "Darn: Some Chevy Corvette ZR1 Owners Report Paint Chipping at 180 MPH and Above",
+      "summary": "GM covered repair costs for at least one owner, whose rear wing seemed to create so much downforce that it damaged the paint. The post Darn: Some Chevy Corvette ZR1 Owners Report Paint Chipping at 180 MPH and Above appeared first on The Drive .",
+      "url": "https://www.thedrive.com/news/darn-some-chevy-corvette-zr1-owners-report-paint-chipping-at-180-mph-and-above",
+      "image": "https://www.thedrive.com/wp-content/uploads/2025/08/Corvette-ZR1-top.jpg?quality=85",
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-06-14T17:00:00+00:00"
+    },
+    {
+      "id": "f48fb61284e378c8",
+      "title": "This 1979 Jeep Cherokee on Bring a Trailer Strikes Like a Viper",
+      "summary": "It's been restored and modified with a Viper V-10 under the hood.",
+      "url": "https://www.caranddriver.com/news/a71550204/1979-jeep-cherokee-bring-a-trailer-auction/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/79ef3288-108c-4a31-be5b-562a344b4ea7.jpg",
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-14T16:30:00+00:00"
+    },
+    {
+      "id": "6590c262fc3440b2",
+      "title": "Next-Gen Camaro To Offer High-Performance Variant: Exclusive",
+      "summary": "… and it's going to be spicy.",
+      "url": "https://gmauthority.com/blog/2026/06/next-gen-camaro-to-offer-high-performance-variant-exclusive/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2021/12/2022-Chevrolet-COPO-Camaro-572-Big-Block-V8-2021-SEMA-Live-Photos-Exterior-008-black-Chevrolet-badge-logo-on-grille.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-14T15:51:42+00:00"
+    },
+    {
+      "id": "d6c2362f7d89a657",
+      "title": "My 70-year-old V8 Chevy 350 is easier to live with than a Ford Focus",
+      "summary": "This heavily modified supercharged Small-block also proves patience is a virtue Elliot Florio has been waiting rather a long time to own a supercharged, two-door '55 Chevy 350 sedan . \"I'd been looking for one for what felt like forever,\" he says. \"Since I was 19, in fact. Finally, I bought this one a few weeks ago from a guy in the owners' club. I'd waited months for him to offer it for sale. He'd had work done to it, and it finally came my way.\" An hour or so before we met, I'd followed the old Chevy , finished in Primer Gray, along the A3, hoping it might be coming to the car meet. I…",
+      "url": "https://www.autocar.co.uk/car-news/used-cars/my-70-year-old-v8-chevy-350-easier-live-ford-focus",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/1-chevy_350.jpg?itok=rkQyKQPv",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-14T15:00:00+00:00"
+    },
+    {
+      "id": "4d302fb75d63990c",
+      "title": "2026 Xpeng G6: Preliminary details confirmed for relaunched Model Y rival",
+      "summary": "Initial specifications for the updated Xpeng G6 have been confirmed for Australia ahead of a July 1 relaunch for the Chinese EV brand.",
+      "url": "https://www.carexpert.com.au/car-news/2026-xpeng-g6-preliminary-details-confirmed-for-relaunched-model-y-rival",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-xpeng-g6-7.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T14:00:00+00:00"
+    },
+    {
+      "id": "5c50571b8ec05c16",
+      "title": "2026 Tesla Model 3 Premium Long Range RWD review",
+      "summary": "The mid-spec Tesla Model 3 makes a strong case as both the sweet spot in the range and a mid-size sedan standout.",
+      "url": "https://www.carexpert.com.au/car-reviews/2026-tesla-model-3-premium-long-range-rwd-review",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-tesla-model3-longrange-rwd-11.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-14T14:00:00+00:00"
+    },
+    {
+      "id": "a87925c10b65bfb4",
+      "title": "This Electric Beach Buggy Is for Folks Who Can Afford Luxury Vacations",
+      "summary": "Finally, someone is thinking beyond the anonymous hotel shuttle golf cart, and it's a Portuguese company called Amble.",
+      "url": "https://www.caranddriver.com/news/a71573780/amble-one-beach-buggy-ev-details/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c8d6f55f-9e8a-4a79-b943-4f8dd98cc691.jpg",
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-14T13:00:00+00:00"
+    },
+    {
+      "id": "4cf59898a6c568af",
+      "title": "Chevy Colorado Wishlist: Drive Gear Indicator",
+      "summary": "A simple feature that could go a long way.",
+      "url": "https://gmauthority.com/blog/2026/06/chevy-colorado-wishlist-drive-gear-indicator/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2023/06/2023-Chevrolet-Colorado-Z71-Mexico-Press-Photos-Exterior-003-side-front-three-quarters.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-14T09:03:18+00:00"
+    },
+    {
+      "id": "cbb868c0321c4799",
+      "title": "Here Are All 8 Paint Colors For The 2027 GMC Terrain",
+      "summary": "Including two-tone options.",
+      "url": "https://gmauthority.com/blog/2026/06/here-are-all-8-paint-colors-for-the-2027-gmc-terrain/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/06/2027-GMC-Terrain-Configurator-Volcanic-Red-Tintcoat-GNT-Exterior-002-Front-Three-Quarters.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-14T08:34:34+00:00"
+    },
+    {
+      "id": "5044d1e7e1da7f7f",
+      "title": "GM’s OnStar Celebrates 13 Years Of Operations In Mexico",
+      "summary": "Found in more than 300,000 cars in the country so far.",
+      "url": "https://gmauthority.com/blog/2026/06/gms-onstar-celebrates-13-years-of-operations-in-mexico/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/06/OnStar-Celebrates-13-Years-Of-Operations-In-Mexico-Press-Photos-Image-001.jpg",
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-14T08:06:53+00:00"
+    },
+    {
+      "id": "51a89a112ea76a53",
+      "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
+      "summary": "After 18 months and just over 13,000 miles, Tesla’s own battery-health test showed a result its owner called unacceptable.",
+      "url": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
+      "image": "https://cdn.motor1.com/images/mgl/9myop1/s3/tesla-model-y.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-14T07:46:37+00:00"
+    },
+    {
+      "id": "9ab2f69fc9a4829e",
+      "title": "Why pushback is growing against New Jersey’s crazy e-bike law",
+      "summary": "New Jersey’s controversial new e-bike law was pitched as a way to improve safety, but with its July 19 implementation date rapidly approaching, a growing number of riders, advocates, and even lawmakers are arguing that the state may have gone too far.",
+      "url": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/lectric-xpedition-2_0-header-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-14T06:19:13+00:00"
+    },
+    {
+      "id": "76d9348f39969cc2",
+      "title": "Why 2026's best electric car is the easygoing Skoda Elroq",
+      "summary": "Simple, reasonably priced and perfect for everyday life, the Elroq is a star Remember when new electric cars were all huge, had a motor each end and bristled with more complexity than you could shake a stick at? Well, the Skoda Elroq , our favourite electric car on today's market, is emphatically not that and is all the better for it. Of course, the version we've chosen does have the bigger '85' battery and the meatiest, albeit single, 282bhp motor to drive its rear wheels, which pushes the price closer to £40,000 than the £32,000 where the base model starts. But there's a pleasant…",
+      "url": "https://www.autocar.co.uk/car-news/autocar-awards/why-2026s-best-electric-car-easygoing-skoda-elroq",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/skoda-elroq_1.jpg?itok=Z5MROxoO",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-14T06:00:00+00:00"
+    },
+    {
+      "id": "8855546d43961d43",
+      "title": "Why motorsport is more than marketing for Ford Racing",
+      "summary": "It’s not just the fact that a mainstream brand is competing in 35 global series that makes this division so remarkable Ford has been racing since before it officially existed, but when CEO Jim Farley says \"motorsport has never been more important to the firm\", it's not hyperbole. And it's not just Farley's infectious enthusiasm about racing that makes this clear: it's that, while we're talking in a plush, soundproofed motorhome, he has to raise his voice to be heard above the roar of a 5.0-litre naturally aspirated Ford V8 engine at full pelt. It's late March: tens of thousands of…",
+      "url": "https://www.autocar.co.uk/car-news/autocar-awards/why-motorsport-more-marketing-ford-racing",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ford-racing_awards.jpg?itok=rC50PUd4",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-14T05:00:00+00:00"
+    },
+    {
+      "id": "541e169ed0fd0e4e",
+      "title": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
+      "summary": "The biggest obstacle to buying an EV isn’t always range anxiety, it’s the negative equity on their current car loan. If that’s you, don’t worry – these EVs have enough cash on the hood to help dig you out from under that gas guzzler.",
+      "url": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/kurt_russel.png?w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-14T00:08:59+00:00"
+    },
+    {
+      "id": "05fd09519f123e1b",
+      "title": "Restomod vs. Original: Which Classic Car Build Is Right for You?",
+      "summary": "Restomod or original? We break down what each build really means, how they drive, what they're worth, and what they cost to build so you can decide which classic car path fits your goals.",
+      "url": "https://www.motorious.com/articles/features-3/restomod-vs-original-which-classic-car-build-is-right-for-you/",
+      "image": "https://images.unsplash.com/photo-1591293835940-934a7c4f2d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNsYXNzaWMlMjBjYXJjbGFzbXVzY2xlJTIwY2FyJTIwZW5naW5lc2NhciUyMGF1Y3Rpb25pYyUyMGNhciUyMGdhcmFnZXxlbnwwfHx8fDE3ODEyODI2OTZ8MA&ixlib=rb-4.1.0&q=80&w=2000",
+      "source": "Motorious",
+      "source_url": "https://motorious.com",
+      "published": "2026-06-13T22:00:46+00:00"
+    },
+    {
+      "id": "aaf840c35bb35de7",
+      "title": "Cadillac says smaller EV batteries for Australia are driven by European regulations",
+      "summary": "New Cadillac EVs for export markets feature smaller batteries that take longer to fast-charge.",
+      "url": "https://www.carexpert.com.au/car-news/cadillac-says-smaller-ev-batteries-for-australia-are-driven-by-european-regulations",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-cadillac-vistiq-europe.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-13T22:00:00+00:00"
+    },
+    {
+      "id": "ab0d8890e58a41a5",
+      "title": "New Chrome Temple Club gives members access to supercars without owning one",
+      "summary": "A new club offering access to supercars without requiring members to own one has launched in Sydney.",
+      "url": "https://www.carexpert.com.au/car-news/new-chrome-temple-club-gives-members-access-to-supercars-without-owning-one",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026chrometempleclub0865.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-13T22:00:00+00:00"
+    },
+    {
+      "id": "f6e576b2d4576de7",
+      "title": "2026 CarExpert Choice winner: Best Van",
+      "summary": "No other van on the Australian market can match the Ford Transit Custom's depth of talent and breadth of variety.",
+      "url": "https://www.carexpert.com.au/car-news/2026-carexpert-choice-winner-best-van",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-01-ford-transitcustom-trail-19.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-13T22:00:00+00:00"
+    },
+    {
+      "id": "28fc31a8c897a50f",
+      "title": "Why the Chery Tiggo 4 is a CarExpert Choice winner – again",
+      "summary": "There’s more to Chery’s smallest and most affordable model than just a low price and standard equipment galore.",
+      "url": "https://www.carexpert.com.au/car-news/why-the-chery-tiggo-4-is-a-carexpert-choice-winner-again",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-chery-tiggo4-hybrid-ultimate-lt-1.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-13T21:30:00+00:00"
+    },
+    {
+      "id": "720d8ce075b8963d",
+      "title": "1984 Aston Martin Lagonda on Bring a Trailer Is One Wild Wedge",
+      "summary": "Its vision of the future is no less striking, decades later.",
+      "url": "https://www.caranddriver.com/news/a71550240/1984-aston-martin-lagonda-bring-a-trailer-auction/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/91947d60-6a1a-4b7a-a2f7-b642d14d8448.jpg",
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T15:00:00+00:00"
+    },
+    {
+      "id": "35fa97cfe0d4a9d5",
+      "title": "Why steering wheels should always be round, not square",
+      "summary": "Audi had more than 100 steering wheel designs – soon it will have just five, all round We need to abandon the gimmick and return to the only shape that actually works: a circle I have an affliction that, when I begin to think about how difficult it is to find a pleasing steering wheel in a new car, Feargal Sharkey's 1985 hit A Good Heart begins to play on repeat in my head - only with 'wheel' replacing 'heart', of course. I've learned to live with it as something as inevitable as getting into a new car and being faced with an unnaturally awkward primary control surface – one that routinely…",
+      "url": "https://www.autocar.co.uk/opinion/new-cars/why-steering-wheels-should-always-be-round-not-square",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mp-steering-wheel-opinion.jpg?itok=IAk94P0D",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-13T15:00:00+00:00"
+    },
+    {
+      "id": "10280960f00bfbd8",
+      "title": "Electric rally car revival continues with new, 280 hp Peugeot E-208 GTi",
+      "summary": "Making its public debut at the legendary 24 Hours of LeMans this weekend, the new, 280 hp Peugeot E-208 GTi resurrects another storied hot hatch name as it takes its place alongside reborn 80s icons from Lancia and Renault.",
+      "url": "https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/dy09_208_gti_duo_front.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-13T14:56:36+00:00"
+    },
+    {
+      "id": "e4deb797a10415e8",
+      "title": "View Photos of the 1993 Coupe Comparison Test in Mexico",
+      "summary": "See the interior and exterior of the 1993 Ford Thunderbird SC, Subaru SVX, Lexus SC300 and BMW 325is from every angle.",
+      "url": "https://www.caranddriver.com/photos/g71562641/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test-gallery/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a1eeb744-e4ac-4015-bb12-ae0379d2b066.jpg",
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
+    },
+    {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
+    },
+    {
+      "id": "fd7303c510599b6e",
+      "title": "2026 Chevrolet Corvette E-Ray review",
+      "summary": "The Chevrolet Corvette has gotten even better for 2026, with an overhauled interior that makes this supercar even more liveable.",
+      "url": "https://www.carexpert.com.au/car-reviews/2026-chevrolet-corvette-e-ray-review",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-chevrolet-corvette-e-ray-review-62.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-13T14:00:00+00:00"
+    },
+    {
+      "id": "1adce509db0a4f23",
+      "title": "Super-sized slot cars: these HD electric machines NEVER need plugged in",
+      "summary": "A Kalmar Ottawa T2 EV electric terminal tractor has been successfully deployed on an in-road charging system in Ljungby, Sweden, enabling continuous operation without ever needing to be plugged in.",
+      "url": "https://electrek.co/2026/06/13/super-sized-slot-cars-these-hd-electric-machines-never-need-plugged-in/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Elonroad-Kalmar-TT-MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-13T13:48:56+00:00"
+    },
+    {
+      "id": "44b484f8aa102586",
+      "title": "Dig it: mine goes 155 consecutive hours on 100% renewable energy",
+      "summary": "Last month, the Bellevue Gold mine did something that was previously unthinkable. For over 155 consecutive hours – a full six-and-a-half day work week – the mine operated on 100% renewable energy. The future is now, kids: engines off !",
+      "url": "https://electrek.co/2026/06/13/dig-it-mine-goes-155-consecutive-hours-on-100-renewable-energy/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Bellevue-2026-0117-scaled-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-13T12:38:59+00:00"
+    },
+    {
+      "id": "12ba56fa067e11e6",
+      "title": "This Simple Trick Boosted My Plug-In Hybrid's Fuel Economy To 50 MPG",
+      "summary": "My Volvo wagon’s fuel economy was great to begin with, but a driving strategy change unlocked a new achievement.",
+      "url": "https://insideevs.com/features/798337/phev-fuel-economy-boost-driving-behavior/",
+      "image": "https://cdn.motor1.com/images/mgl/vx8Omb/s3/2023-volvo-v90-t8-recharge-plug-in-hybrid-charging.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "id": "df4855e9877522d8",
+      "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
+      "summary": "With sodium-ion batteries and vehicle-to-grid technology, General Motors' growth ambitions extend far beyond cars.",
+      "url": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4VKE/s3/gm-empower.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-13T11:30:00+00:00"
+    },
+    {
+      "id": "0ed9aa0c7b0c6b94",
+      "title": "Yes, EVs Really Are Cleaner Than Gas Cars. Here's By How Much",
+      "summary": "An MIT-led study found EVs usually beat gas cars on emissions, but the advantage varies sharply by location and driving habits.",
+      "url": "https://insideevs.com/features/798615/evs-cleaner-than-gas-cars/",
+      "image": "https://cdn.motor1.com/images/mgl/pb9oKg/s3/2025-kia-ev4-hatchback-gt-line.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-13T11:00:00+00:00"
+    },
+    {
+      "id": "618d338f79713df0",
+      "title": "This electric car company just produced its one millionth electric motorcycle",
+      "summary": "When most people in North America or Europe hear the name VinFast, they probably think of the Vietnamese electric car company trying to break into international markets with a lineup of electric SUVs. What many don’t realize is that VinFast is already a giant in another corner of the EV industry: electric two-wheelers.",
+      "url": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/vinfast-scooter-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-13T10:50:56+00:00"
+    },
+    {
+      "id": "fb626776c382a068",
+      "title": "Forget supercars: Morgan Supersport is the ultimate dream machine",
+      "summary": "A 335bhp BMW straight-six, Nitron suspension and gorgeous styling make driving this a public service The Morgan Supersport isn't one for categorisation. We knew early on that this would be one of our favourite cars of the year, but which award to give it? 'Best low-volume curio' seemed too niche and damning with faint praise for a car that, unlike many of its predecessors, has genuine performance and capability to be considered as a serious sports car. Thanks to the 335bhp BMW straight six, Nitron suspension, a limited-slip differential, sophisticated traction control and new-found chassis…",
+      "url": "https://www.autocar.co.uk/car-news/autocar-awards/forget-supercars-morgan-supersport-ultimate-dream-machine",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/morgan_4.jpg?itok=G-bc3lsP",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-13T06:00:00+00:00"
+    },
+    {
+      "id": "993554c63bbed8d8",
+      "title": "How Skoda became Europe's second biggest car brand",
+      "summary": "Skoda’s CEO shares his secrets to rapid growth, record sales and EV prosperity It says it all about the winner of our Outstanding Leader award that in between being interviewed and having his portrait taken for this feature, he jumps up from his seat to help move furniture out of the way, set up light stands and choose backdrops. Skoda CEO Klaus Zellmer is only too happy to lend a hand - and has an especially chipper outlook when we meet him at the Czech brand's museum in Mladá Boleslav, on the eve of the announcement that it sold a colossal 223,500 cars in Europe in the first quarter of…",
+      "url": "https://www.autocar.co.uk/car-news/autocar-awards/how-skoda-became-europes-second-biggest-car-brand",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/klaus_zellmer_a.jpg?itok=1vaWodzZ",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-13T05:00:00+00:00"
+    },
+    {
+      "id": "bab31e05600db38d",
+      "title": "Shell could walk away from offshore wind in $1 billion+ sell-off",
+      "summary": "Shell is planning to sell its offshore wind farm assets in a deal that could raise more than $1 billion, Bloomberg reports .",
+      "url": "https://electrek.co/2026/06/12/shell-could-walk-away-from-offshore-wind-in-1-billion-sell-off/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/floating-lng-shell-.jpg?quality=82&#038;strip=all&#038;w=1200",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-12T22:03:49+00:00"
+    },
+    {
+      "id": "b08e4d5fab6fd74a",
+      "title": "The Chevy Equinox EV is now way more expensive to lease, but the Bolt is a bit cheaper",
+      "summary": "America’s most affordable EV offering over 315 miles of range, as GM calls it, just got significantly more expensive to lease this month.",
+      "url": "https://electrek.co/2026/06/12/chevy-equinox-ev-more-expensive-lease-bolt-cheaper/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Chevy-Equinox-EV-Bolt-lease-June-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-12T22:02:57+00:00"
+    },
+    {
+      "id": "4753f4a94bfc056b",
+      "title": "Why the GWM Cannon Alpha PHEV is a CarExpert Choice winner... again",
+      "summary": "The GWM Cannon Alpha is now a two-time winner in the CarExpert Choice Awards for its mix of power, economy, luxury and capability.",
+      "url": "https://www.carexpert.com.au/car-news/why-the-gwm-cannon-alpha-phev-is-a-carexpert-choice-winner-again",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2025-06-250603gwm-cannon-alpha-phevstill-31.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-12T22:00:01+00:00"
+    },
+    {
+      "id": "b88134f9a557bb11",
+      "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
+      "summary": "CEO RJ Scaringe hinted about how far around the corner R3 is and what could come next.",
+      "url": "https://insideevs.com/news/798608/rivian-r2-r3-r2t-timeline/",
+      "image": "https://cdn.motor1.com/images/mgl/W8YXpO/s3/rivian-r2-r3-r3x.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-12T21:42:12+00:00"
+    },
+    {
+      "id": "9bd6644fe46ef677",
+      "title": "Ford Exec Says R-Rated Ranger and Bronco Raptors Not in the Cards",
+      "summary": "Ford Performance's chief engineer says the Ranger Raptor and Bronco Raptor lineups won't be getting any rowdier in the near future.",
+      "url": "https://www.caranddriver.com/news/a71573706/ford-ranger-raptor-r-bronco-raptor-r-not-happening/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-ranger-raptor-142-668c02a7239ae.jpg",
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T21:27:00+00:00"
+    },
+    {
+      "id": "60ec4b7bcd05f354",
+      "title": "Ford Recalls 255,404 Focus Models That Could Unexpectedly Stall",
+      "summary": "The affected vehicles were all incorrectly labeled as having received the appropriate software update required by a previous recall, despite not being fixed.",
+      "url": "https://www.caranddriver.com/news/a71572790/ford-focus-unexpected-stalling-recall/",
+      "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/672263/2017-ford-focus-in-depth-model-review-car-and-driver-photo-686904-s-original.jpg",
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T19:19:00+00:00"
+    },
+    {
+      "id": "252f254e92776d2a",
+      "title": "'Really Impressed': Engineering Explained's Jason Fenske On Rivian R2",
+      "summary": "On today's Plugged-In Podcast, we talk Rivian R2 driving impressions with Jason Fenske, of the YouTube channel Engineering Explained.",
+      "url": "https://insideevs.com/features/798610/rivian-r2-drive-impressions-jason-fenske-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/P3BLr4/s3/qu71wdkdoma.jpg",
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-12T17:59:33+00:00"
+    },
+    {
+      "id": "88cea2a82e2edd38",
+      "title": "2027 Chevy Bolt vs. 2026 Nissan Leaf Comparison Test: Battle of the Bargains",
+      "summary": "Two affordable hatchback EVs vie for sub-$40,000 supremacy.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71523860/2027-chevrolet-bolt-vs-nissan-leaf-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/671c42ce-ba50-4c67-be83-bed8b041c3f8.jpg",
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T17:00:00+00:00"
+    },
+    {
+      "id": "4fa4717e1e2a1a06",
+      "title": "Same car, different names – The most rebadged cars",
+      "summary": "We chart the cars that got the largest number of different identities For decades car makers have confused buyers by offering models with an array of identities. It’s a practice known as badge engineering , not to be confused with platform sharing or joint ventures , both of which have become increasingly common in recent years. Some car companies have over-indulged while others know better than to mess with their branding. Here we bring you more than six decades of the badge-engineered car – and you’ll see that the same car makers crop up time and again while others don’t get a mention at…",
+      "url": "https://www.autocar.co.uk/car-news/slideshow/same-car-different-names-%E2%80%93-most-rebadged-cars",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-trooper-montage-feb-20_1_1_0_0_0.jpg?itok=tnI9QDsM",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-12T16:33:11+00:00"
+    },
+    {
+      "id": "fede726635f1f4a9",
+      "title": "The best small electric cars 2026 - driven, rated and ranked",
+      "summary": "EVs may already be cheaper than you think – and they're set to get even cheaper. We rank the best small ones on sale Small electric cars are a more common sight on British roads, with falling production costs, evolving battery technology and competitive government incentives helping UK drivers make the switch to electric motoring. Once dominated by heavy, inefficient and expensive EVs, the small electric car class has been revolutionised by a fleet of affordable and eye-catching models that serve as credible alternatives to petrol superminis . Led by the retro-inspired Renault 5 , the…",
+      "url": "https://www.autocar.co.uk/car-news/best-cars/best-small-electric-cars",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/best_small_electric_cars_2026.jpg?itok=EeHjMEHh",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-12T15:26:44+00:00"
+    },
+    {
+      "id": "36178af09b428b0b",
+      "title": "Jeep Signs World Cup Agreement With America's Founding Father",
+      "summary": "Fancy a free Wrangler? Then it's time to offer the U.S. men's national team your support in this year's World Cup.",
+      "url": "https://www.caranddriver.com/news/a71570734/jeep-wrangler-world-cup-deal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f55ccc8b-d136-48fc-b8ce-507cc9d2ec47.jpg",
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T15:09:00+00:00"
+    },
+    {
+      "id": "ad21ce1e1cfc01a6",
+      "title": "Genesis Magma GT3 converts supercar concept into hardcore racer",
+      "summary": "Stylish supercar sprouts wings and extra lights in a conversion from road to racetrack The new Genesis Magma GT3 is the first look at how the Korean manufacturer will expand its sports car racing programme beyond its hypercar. Revealed at the Le Mans 24 Hours – the jewel in the crown of the World Endurance Championship – it is a race-prepared version of last year’s Magma GT concept . It is notably more aggressive than the road-going variant, gaining auxiliary lights on its front fascia, plus a range of carbonfibre aerodynamic addenda. Though it is described as a concept for now, Genesis…",
+      "url": "https://www.autocar.co.uk/car-news/motorsport/genesis-magma-gt3-converts-supercar-concept-hardcore-racer",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/genesis-magma-gt3-1.jpg?itok=uicKpPFz",
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-12T13:22:55+00:00"
+    },
+    {
+      "id": "3cc6147b31c94b8c",
+      "title": "BMW Hints at Upcoming Electric M3 with Eye-Catching Concept",
+      "summary": "The concept wears far more aggressive styling than the standard i3, with wide fenders, deep air intakes carved into the front bumper, and yellow headlights.",
+      "url": "https://www.caranddriver.com/news/a71563004/bmw-concept-m-neue-klasse-revealed/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg",
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T13:00:00+00:00"
+    },
+    {
+      "id": "ef4fb9a00e608e74",
+      "title": "Genesis Unveils a New GT3 Concept Ahead of the 2026 24 Hours of Le Mans",
+      "summary": "The concept isn't quite ready to hit the track yet, but Genesis Magma Racing clearly has more than just Hypercar ambitions.",
+      "url": "https://www.caranddriver.com/news/a71564714/genesis-gt3-concept-le-mans-reveal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5c09540a-ed93-42bc-94c2-e710a7e3e68c.jpg",
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T12:00:00+00:00"
     }
   ]
 }

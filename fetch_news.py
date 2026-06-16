@@ -58,11 +58,31 @@ SOURCES: list[dict[str, str]] = [
     {"name": "BMW Blog",          "url": "https://bmwblog.com/feed/",                       "category": "bmw"},
     {"name": "BMW Blog M",        "url": "https://bmwblog.com/category/bmw-m/feed/",        "category": "bmw"},
     {"name": "BMW Blog i",        "url": "https://bmwblog.com/category/bmw-i/feed/",        "category": "bmw"},
+    {"name": "BMW Blog X",        "url": "https://bmwblog.com/category/bmw-x/feed/",        "category": "bmw"},
+    {"name": "BMW Blog 3",        "url": "https://bmwblog.com/category/bmw-3-series/feed/", "category": "bmw"},
+    {"name": "BMW Blog 5",        "url": "https://bmwblog.com/category/bmw-5-series/feed/", "category": "bmw"},
+    {"name": "BMW Blog M2",       "url": "https://bmwblog.com/category/bmw-m2/feed/",       "category": "bmw"},
+    {"name": "BMW Blog M3",       "url": "https://bmwblog.com/category/bmw-m3/feed/",       "category": "bmw"},
+    {"name": "BMW Blog M4",       "url": "https://bmwblog.com/category/bmw-m4/feed/",       "category": "bmw"},
+    {"name": "BMW Blog M5",       "url": "https://bmwblog.com/category/bmw-m5/feed/",       "category": "bmw"},
+    {"name": "BMW Blog M8",       "url": "https://bmwblog.com/category/bmw-m8/feed/",       "category": "bmw"},
+    {"name": "BMW Blog concepts", "url": "https://bmwblog.com/category/concepts/feed/",     "category": "bmw"},
+    {"name": "BMW Blog Alpina",   "url": "https://bmwblog.com/tag/alpina/feed/",            "category": "bmw"},
+    {"name": "BMW Blog Mini",     "url": "https://bmwblog.com/tag/mini/feed/",              "category": "bmw"},
+    {"name": "BMW Blog X5",       "url": "https://bmwblog.com/tag/x5/feed/",                "category": "bmw"},
+    {"name": "BMW Blog X7",       "url": "https://bmwblog.com/tag/x7/feed/",                "category": "bmw"},
+    {"name": "BMW Blog XM",       "url": "https://bmwblog.com/tag/xm/feed/",                "category": "bmw"},
     {"name": "BimmerFile",        "url": "https://bimmerfile.com/feed/",                    "category": "bmw"},
+    {"name": "BimmerToday DE",    "url": "https://www.bimmertoday.de/feed/",                "category": "bmw"},
+    {"name": "Car and Driver BMW","url": "https://www.caranddriver.com/rss/bmw.xml",        "category": "bmw"},
+    {"name": "CarScoops BMW",     "url": "https://www.carscoops.com/tag/bmw/feed/",         "category": "bmw"},
+    {"name": "Electrek BMW",      "url": "https://electrek.co/guides/bmw/feed/",            "category": "bmw"},
 
     # ── General automotive (broad world coverage) ─────────────────────────────
     {"name": "CarScoops",         "url": "https://www.carscoops.com/feed/",                 "category": "auto"},
     {"name": "Car and Driver",    "url": "https://www.caranddriver.com/rss/all.xml",        "category": "auto"},
+    {"name": "Car and Driver News",   "url": "https://www.caranddriver.com/rss/news.xml",   "category": "auto"},
+    {"name": "Car and Driver Reviews","url": "https://www.caranddriver.com/rss/reviews.xml","category": "auto"},
     {"name": "Autocar",           "url": "https://www.autocar.co.uk/rss",                   "category": "auto"},
     {"name": "AutoExpress",       "url": "https://www.autoexpress.co.uk/rss",               "category": "auto"},
     {"name": "CarExpert",         "url": "https://carexpert.com.au/feed/",                  "category": "auto"},
@@ -72,6 +92,7 @@ SOURCES: list[dict[str, str]] = [
     {"name": "InsideEVs",         "url": "https://insideevs.com/feed/",                     "category": "auto"},
     {"name": "Motorious",         "url": "https://motorious.com/feed/",                     "category": "auto"},
     {"name": "GM Authority",      "url": "https://gmauthority.com/blog/feed/",              "category": "auto"},
+    {"name": "CarBuzz",           "url": "https://carbuzz.com/feed/",                       "category": "auto"},
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -432,9 +453,10 @@ def main() -> int:
         sorted(auto_items, key=image_first_key)
     )
 
-    # 6. Trim to reasonable cap (top 100 each)
-    bmw_items_sorted = bmw_items_sorted[:100]
-    auto_items_sorted = auto_items_sorted[:150]
+    # 6. Trim to reasonable cap (top 200 each — enough for downstream bots
+    #    to have choice while keeping the JSON file under ~300 KB)
+    bmw_items_sorted = bmw_items_sorted[:200]
+    auto_items_sorted = auto_items_sorted[:250]
 
     # 7. Drop helper fields that were internal-only
     def clean(it: dict[str, Any]) -> dict[str, Any]:

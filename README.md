@@ -30,24 +30,45 @@ RSS sources (15 feeds)
    └──────────────┘    └──────────────┘
 ```
 
-### Sources (hand-tested 2025-06)
+### Sources (36 hand-tested feeds — 2025-06)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
-enclosures, or `<img>` in summary).
+enclosures, or `<img>` in summary). BMW-file output uses 22 BMW-specific feeds;
+auto-file output uses 14 general automotive feeds.
 
-**BMW-specific**
+**BMW-specific (22 feeds)**
 | Source | URL |
 |---|---|
-| BMW Blog | `https://bmwblog.com/feed/` |
+| BMW Blog (main) | `https://bmwblog.com/feed/` |
 | BMW Blog M | `https://bmwblog.com/category/bmw-m/feed/` |
 | BMW Blog i | `https://bmwblog.com/category/bmw-i/feed/` |
+| BMW Blog X | `https://bmwblog.com/category/bmw-x/feed/` |
+| BMW Blog 3 | `https://bmwblog.com/category/bmw-3-series/feed/` |
+| BMW Blog 5 | `https://bmwblog.com/category/bmw-5-series/feed/` |
+| BMW Blog M2 | `https://bmwblog.com/category/bmw-m2/feed/` |
+| BMW Blog M3 | `https://bmwblog.com/category/bmw-m3/feed/` |
+| BMW Blog M4 | `https://bmwblog.com/category/bmw-m4/feed/` |
+| BMW Blog M5 | `https://bmwblog.com/category/bmw-m5/feed/` |
+| BMW Blog M8 | `https://bmwblog.com/category/bmw-m8/feed/` |
+| BMW Blog Concepts | `https://bmwblog.com/category/concepts/feed/` |
+| BMW Blog Alpina tag | `https://bmwblog.com/tag/alpina/feed/` |
+| BMW Blog Mini tag | `https://bmwblog.com/tag/mini/feed/` |
+| BMW Blog X5 tag | `https://bmwblog.com/tag/x5/feed/` |
+| BMW Blog X7 tag | `https://bmwblog.com/tag/x7/feed/` |
+| BMW Blog XM tag | `https://bmwblog.com/tag/xm/feed/` |
 | BimmerFile | `https://bimmerfile.com/feed/` |
+| BimmerToday DE | `https://www.bimmertoday.de/feed/` |
+| Car and Driver BMW | `https://www.caranddriver.com/rss/bmw.xml` |
+| CarScoops BMW | `https://www.carscoops.com/tag/bmw/feed/` |
+| Electrek BMW | `https://electrek.co/guides/bmw/feed/` |
 
-**General automotive**
+**General automotive (14 feeds)**
 | Source | URL |
 |---|---|
 | CarScoops | `https://www.carscoops.com/feed/` |
-| Car and Driver | `https://www.caranddriver.com/rss/all.xml` |
+| Car and Driver (all) | `https://www.caranddriver.com/rss/all.xml` |
+| Car and Driver News | `https://www.caranddriver.com/rss/news.xml` |
+| Car and Driver Reviews | `https://www.caranddriver.com/rss/reviews.xml` |
 | Autocar | `https://www.autocar.co.uk/rss` |
 | AutoExpress | `https://www.autoexpress.co.uk/rss` |
 | CarExpert | `https://carexpert.com.au/feed/` |
@@ -57,6 +78,7 @@ enclosures, or `<img>` in summary).
 | InsideEVs | `https://insideevs.com/feed/` |
 | Motorious | `https://motorious.com/feed/` |
 | GM Authority | `https://gmauthority.com/blog/feed/` |
+| CarBuzz | `https://carbuzz.com/feed/` |
 
 ### BMW classification
 
@@ -131,7 +153,7 @@ Defined at the top of `fetch_news.py`:
 | `MAX_ITEMS_PER_FEED` | `30` | Cap per source so one noisy feed can't dominate |
 | `MAX_AGE_DAYS` | `7` | Items older than this are dropped (items with no date are kept) |
 
-Cap on output size: BMW file = top 100, Auto file = top 150.
+Cap on output size: BMW file = top 200, Auto file = top 250.
 
 ---
 
