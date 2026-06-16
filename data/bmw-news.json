@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-16T19:49:12.547007+00:00",
-  "generated_at_human": "2026-06-16 19:49 UTC",
-  "total_items": 74,
+  "generated_at": "2026-06-16T22:22:08.552340+00:00",
+  "generated_at_human": "2026-06-16 22:22 UTC",
+  "total_items": 78,
   "sources_used": [
     "AutoExpress",
     "Autocar",
@@ -16,7 +16,6 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarExpert",
     "CarScoops",
     "CarScoops BMW",
@@ -25,8 +24,58 @@
     "InsideEVs",
     "The Drive"
   ],
-  "sources_count": 20,
+  "sources_count": 19,
   "items": [
+    {
+      "id": "aff0141122c309cd",
+      "title": "2026 CarExpert Choice winner: Best Luxury Large SUV",
+      "summary": "A new generation may be waiting in the wings, but the current BMW X5 is still the benchmark in its segment.",
+      "url": "https://www.carexpert.com.au/car-news/2026-carexpert-choice-winner-best-luxury-large-suv",
+      "image": "https://images.carexpert.com.au/cms/v1/media/bmw-x5-side.png",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-16T22:00:00+00:00"
+    },
+    {
+      "id": "5d0555b5f88c3f38",
+      "title": "BMW’s $580,000 V8 Shooting Brake Spied Undisguised",
+      "summary": "The upcoming Speedtop combines style with exclusivity and a twin-turbo V8",
+      "url": "https://www.carscoops.com/2026/06/bmw-speedtop-production-spied/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-Speedtop-17-copy-1024x576.jpg",
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-16T21:47:00+00:00"
+    },
+    {
+      "id": "ce0539bdcc0595a3",
+      "title": "BMW Group Cuts 2026 Profit Guidance as China Sales Drop",
+      "summary": "BMW AG’s Board of Management has cut its 2026 guidance for the second time this year. The company had already trimmed its expectations heading into the year; the latest revision makes clear the situation deteriorated... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/16/bmw-group-2026-guidance-cut-china-sales/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2020/08/BMW-HQ-Munich-830x515.jpg",
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-16T21:16:02+00:00"
+    },
+    {
+      "id": "1e72f95e0a6aff41",
+      "title": "Demand For The New i3 Is So High BMW Is Opening Orders Now Instead Of Fall",
+      "summary": "BMW says interest in the i3 topped the response its iX3 saw, a benchmark that helped push the order date forward ahead of schedule",
+      "url": "https://www.carscoops.com/2026/06/bmw-i3-orders-early/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90634407_highRes_the-new-bmw-i3-pre-s-copy-1024x576.jpg",
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-16T21:07:00+00:00"
+    },
+    {
+      "id": "20c2dee6d042610e",
+      "title": "Next petrol BMW M3 won't be a plug-in hybrid, may offer a manual option",
+      "summary": "With an electric BMW M3 just around the corner, the petrol-powered version will escape major electrification.",
+      "url": "https://www.carexpert.com.au/car-news/next-petrol-bmw-m3-wont-be-a-plug-in-hybrid-may-offer-a-manual-option",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-02-australiastagesfirst-everworldpremiereofabmwascoverscomeoffm3cstouringatbathurst-1.jpg",
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-16T20:35:00+00:00"
+    },
     {
       "id": "2b97880897a64c0d",
       "title": "New BMW X5 G65: How One Chassis Handles 600 KG Of Weight Difference",
@@ -46,16 +95,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T18:30:43+00:00"
-    },
-    {
-      "id": "0daf10ebc7e3b80e",
-      "title": "Purists Rejoice: The Next BMW M3 Won't Make The M5's Mistake",
-      "summary": "BMW's M Division boss confirms the upcoming Neue Klasse M3 will come with pure internal combustion or all-electric, but with no hybrid in between.",
-      "url": "https://carbuzz.com/next-bmw-m3-will-not-be-hybrid/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/bmw-m8-engine.jpg",
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-06-16T16:50:26+00:00"
     },
     {
       "id": "c388c0f5c62759b2",
@@ -173,7 +212,7 @@
       "summary": "The upcoming sedan will get a Neue Klasse design, but keep the M Ignite powertrain that debuts in the current model next month",
       "url": "https://www.carscoops.com/2026/06/2028-bmw-m3-ice-details/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M3-ICE-5-copy-1024x576.jpg",
-      "source": "CarScoops",
+      "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
     },
@@ -233,7 +272,7 @@
       "summary": "Pour one out for greats like the BMW Z4, Lexus LC, Toyota GR Supra, and more.",
       "url": "https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-15T17:00:00+00:00"
     },
@@ -453,7 +492,7 @@
       "summary": "While not the electric M3 in name, the M Concept Neue Klasse that debuted at Le Mans Friday is not far off from what we expect a production version of BMW’s halo sports sedan to... First published by https://www.bmwblog.com",
       "url": "https://www.bmwblog.com/2026/06/13/bmw-m3-touring-render-electric-wagon/",
       "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m3-eletric-touring-02-830x467.jpg",
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-13T16:50:40+00:00"
     },
