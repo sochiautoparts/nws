@@ -1,9 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-17T08:09:27.556623+00:00",
-  "generated_at_human": "2026-06-17 08:09 UTC",
-  "total_items": 90,
+  "generated_at": "2026-06-17T11:56:56.450901+00:00",
+  "generated_at_human": "2026-06-17 11:56 UTC",
+  "total_items": 92,
   "sources_used": [
+    "AutoExpress",
     "Autocar BMW",
     "BMW Blog",
     "BMW Blog M",
@@ -14,22 +15,84 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops BMW",
-    "CarScoops Porsche",
+    "CarScoops Ferrari",
     "Electrek BMW",
     "Hagerty Media",
     "InsideEVs",
     "Motor1",
     "Motor1 BMW",
+    "Road & Track",
     "Road & Track News",
-    "Road & Track Reviews",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
-  "sources_count": 22,
-  "multi_photo_items": 9,
+  "sources_count": 23,
+  "multi_photo_items": 10,
   "items": [
+    {
+      "id": "87d1275f4faf942b",
+      "title": "Petrolheads, do not despair! BMW's electric M3 is still made with you in mind",
+      "summary": "Editor Paul Barker thinks that BMW is capable of producing an electric super-saloon that will even excite petrolheads",
+      "url": "https://www.autoexpress.co.uk/opinion/369810/petrolheads-do-not-despair-bmws-electric-m3-still-made-you-mind",
+      "image": "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/t_rss_image_w_845/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/t_rss_image_w_845/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--ir9k-mqZ--/f_auto,t_author-mobile@1/v1712752862/autoexpress/2024/04/Paul%20Barker%20web%20headshot.jpg",
+        "https://www.autoexpress.co.uk/opinion/369810/t_author-desktop@1/v1712752862/autoexpress/2024/04/Paul%20Barker%20web%20headshot.jpg",
+        "https://www.autoexpress.co.uk/opinion/369810/t_author-mobile@1/v1712752862/autoexpress/2024/04/Paul%20Barker%20web%20headshot.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/f_auto,t_primary-image-mobile@1/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg",
+        "https://www.autoexpress.co.uk/opinion/369810/t_primary-image-desktop@1/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-06-17T11:45:11+00:00"
+    },
+    {
+      "id": "2b3d8dd0e2dd714a",
+      "title": "2025 Was The Best And Final Year For The Old ALPINA",
+      "summary": "Talk about going out with a bang. ALPINA concluded a successful 60-year run at the end of 2025 when the BMW Group effectively took control of the brand name. In a bittersweet announcement, former ALPINA... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/17/2025-best-and-final-year-old-alpina/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-17T11:39:32+00:00"
+    },
+    {
+      "id": "2a8adad9add4b316",
+      "title": "10 BMW Motorcycles That Age Gracefully",
+      "summary": "BMW Motorrad has evolved into one of the top luxury motorcycle brands, and these are some of the bikes that helped build the empire",
+      "url": "https://www.topspeed.com/bmw-motorcycles-that-age-gracefully/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/parked-2013-bmw-r-ninet-fuel-tank-closeup-shot.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/parked-2013-bmw-r-ninet-fuel-tank-closeup-shot.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/p90529596_highres_bmw-r-80-g-s-and-bmw.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/02/p0010746-1.JPG?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/bmw-r1200c.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2004-bmw-r-1150-r-rockster.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/07/bmw-f650-gs-bmw.jpg?q=70&fit=crop&w=825&dpr=1"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-17T11:31:09+00:00"
+    },
+    {
+      "id": "5cfdb1bfa1d6dbca",
+      "title": "BMW i3 Order Books Opening Early As Demand Runs Hot",
+      "summary": "After the early success of the new iX3, BMW appears to have another winner on its hands. Customer feedback following the i3 sedan’s debut in March has been so strong that order books will open... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/17/bmw-i3-order-books-opening-early/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-15-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-15-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-17T10:21:53+00:00"
+    },
     {
       "id": "ccdab2b2ee148919",
       "title": "BMW Is Opening i3 Orders Way Ahead Of Schedule Due To Huge Demand",
@@ -449,7 +512,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/3773c0c8-04d2-4c20-96d3-e28e60e86463.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T15:40:00+00:00"
     },
@@ -608,14 +671,9 @@
       "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
-        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
-        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg"
       ],
-      "source": "Road & Track Reviews",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T12:00:00+00:00"
     },
@@ -703,19 +761,6 @@
       "published": "2026-06-14T19:30:42+00:00"
     },
     {
-      "id": "cf251b6dd2724d95",
-      "title": "BMW Almost Won Le Mans for the First Time in 27 Years",
-      "summary": "BMW went to Le Mans this year without winning it, but came closer than it has in 27 years. The #20 BMW M Team WRT M Hybrid V8, driven by Robin Frijns, Rene Rast, and... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/14/bmw-le-mans-2026-second-place/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-hybrid-v8-le-mans-2026-02-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-hybrid-v8-le-mans-2026-02-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-14T16:20:55+00:00"
-    },
-    {
       "id": "7cc324d233390420",
       "title": "Toyota Returns to the Top, Wins the 24 Hours of Le Mans, Ends Ferrari’s Dominance",
       "summary": "Toyota and BMW take the podium at Le Mans as Ferrari's streak ends",
@@ -724,7 +769,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/135e63dc-b443-47b1-8313-f3926205bc73.jpeg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-14T14:32:00+00:00"
     },
@@ -776,7 +821,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/ee5ed5f3-c964-4590-9535-dd807d857d7f.jpeg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-14T07:58:00+00:00"
     },
@@ -789,7 +834,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-1-830x622.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-14T07:10:07+00:00"
     },
@@ -818,19 +863,6 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-13T16:50:40+00:00"
-    },
-    {
-      "id": "915f79c9f73f6c59",
-      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
-      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
-      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-13T14:21:00+00:00"
     },
     {
       "id": "7289a986e074099a",
@@ -1020,19 +1052,6 @@
       "published": "2026-06-12T13:00:05+00:00"
     },
     {
-      "id": "00247999e59e9218",
-      "title": "BMW’s Electric M3 Concept Stands Next To The E30 And Hopes You Approve",
-      "summary": "The new M Concept Neue Klasse pairs quad motors with an 800-volt pack, and BMW says it points straight at the brand's electric future",
-      "url": "https://www.carscoops.com/2026/06/bmw-electric-m3-concept-i3m/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90643899-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/P90643899-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-12T13:00:00+00:00"
-    },
-    {
       "id": "3cc6147b31c94b8c",
       "title": "BMW Hints at Upcoming Electric M3 with Eye-Catching Concept",
       "summary": "The concept wears far more aggressive styling than the standard i3, with wide fenders, deep air intakes carved into the front bumper, and yellow headlights.",
@@ -1043,6 +1062,19 @@
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T13:00:00+00:00"
+    },
+    {
+      "id": "00247999e59e9218",
+      "title": "BMW’s Electric M3 Concept Stands Next To The E30 And Hopes You Approve",
+      "summary": "The new M Concept Neue Klasse pairs quad motors with an 800-volt pack, and BMW says it points straight at the brand's electric future",
+      "url": "https://www.carscoops.com/2026/06/bmw-electric-m3-concept-i3m/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90643899-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/P90643899-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
       "published": "2026-06-12T13:00:00+00:00"
     },
     {
@@ -1202,7 +1234,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/06/i1RO6UqP6Hat2z-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/i1d22F6nw2Wz3uH-2048x1152.jpg"
       ],
-      "source": "CarScoops Porsche",
+      "source": "CarScoops Ferrari",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-10T20:01:00+00:00"
     },
