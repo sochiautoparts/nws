@@ -1,10 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-17T15:38:38.596516+00:00",
-  "generated_at_human": "2026-06-17 15:38 UTC",
-  "total_items": 87,
+  "generated_at": "2026-06-17T15:59:52.680663+00:00",
+  "generated_at_human": "2026-06-17 15:59 UTC",
+  "total_items": 92,
   "sources_used": [
-    "Autocar",
+    "AutoExpress",
+    "Autocar BMW",
     "BMW Blog",
     "BMW Blog M",
     "BMW Blog M3",
@@ -19,16 +20,18 @@
     "CarScoops BMW",
     "CarScoops Ferrari",
     "Electrek BMW",
+    "Hagerty Media",
     "InsideEVs",
     "Motor1",
     "Motor1 BMW",
+    "Road & Track",
     "Road & Track News",
     "Road & Track Reviews",
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 22,
-  "multi_photo_items": 8,
+  "sources_count": 25,
+  "multi_photo_items": 11,
   "items": [
     {
       "id": "7d1e30589e52aafd",
@@ -101,9 +104,22 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-review-13.jpg?itok=cnvDic4I",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-review-15.jpg?itok=Im2ZtrSe"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
+    },
+    {
+      "id": "87d1275f4faf942b",
+      "title": "Petrolheads, do not despair! BMW's electric M3 is still made with you in mind",
+      "summary": "Editor Paul Barker thinks that BMW is capable of producing an electric super-saloon that will even excite petrolheads",
+      "url": "https://www.autoexpress.co.uk/opinion/369810/petrolheads-do-not-despair-bmws-electric-m3-still-made-you-mind",
+      "image": "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/t_rss_image_w_845/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/t_rss_image_w_845/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-06-17T11:45:11+00:00"
     },
     {
       "id": "2b3d8dd0e2dd714a",
@@ -306,7 +322,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-zagato-review-32.jpg?itok=wuBsFiLB"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T16:25:00+00:00"
     },
@@ -322,6 +338,19 @@
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
       "published": "2026-06-16T14:36:56+00:00"
+    },
+    {
+      "id": "9ad78cb9a0d45098",
+      "title": "Bovensiepen 05 GT Is an M5 Touring-Based Follow-up to the Alpina B5",
+      "summary": "Alpina began writing the next chapter in its story when it joined the BMW Group in January 2026. The Bovensiepen family that started the company is no longer involved in running it, but it’s staying in the car industry via a new brand that wears its name. Its second model, the Bovensiepen 05 GT, made […]",
+      "url": "https://www.hagerty.com/media/news/bovensiepen-05-gt-pricing-specs-pictures/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensiepen_05_GT_04-scaled.jpg",
+      "images": [
+        "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensiepen_05_GT_04-scaled.jpg"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-06-16T14:00:00+00:00"
     },
     {
       "id": "e6b60c679e6ee4e5",
@@ -395,7 +424,12 @@
       "url": "https://www.motor1.com/news/798821/bmw-new-door-handle-design/",
       "image": "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg"
+        "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/40YRbK/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/bgPjRl/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/lEGRWl/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/XBzjRb/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/pbJRmJ/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -410,7 +444,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-awards-2026.jpg?itok=iaJugcY5"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T05:00:00+00:00"
     },
@@ -532,7 +566,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/3773c0c8-04d2-4c20-96d3-e28e60e86463.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T15:40:00+00:00"
     },
@@ -550,13 +584,31 @@
       "published": "2026-06-15T15:00:00+00:00"
     },
     {
+      "id": "6fc2917f2ee520da",
+      "title": "All Generations Praise the E46 as the Best Modern BMW",
+      "summary": "Enthusiasts lost something valuable after the 2006 model year, and it was more than just a vehicle. It was the soul of one of the most practical performance cars on the planet. The E46 generation of BMW’s iconic 3 Series (1998–2006) was a cheap beater to some, a wholly aspirational car for others, and the […]",
+      "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/all-generations-praise-the-e46-as-the-best-modern-bmw/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2024/07/P90233567_highRes_the-bmw-m3-coup-e46--scaled.jpg",
+      "images": [
+        "https://media.hagerty.com/media/wp-content/uploads/2024/07/P90233567_highRes_the-bmw-m3-coup-e46--scaled.jpg"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-06-15T15:00:00+00:00"
+    },
+    {
       "id": "4e47183362691ca3",
       "title": "BMW Confirms: The Next M3 'Won't Be Hybrid'",
       "summary": "The next-generation M3 will feature BMW's updated S58 inline-six engine with M Ignite technology.",
       "url": "https://www.motor1.com/news/798749/bmw-confrims-no-m3-hybrid/",
       "image": "https://cdn.motor1.com/images/mgl/G3QrQb/s3/2027-bmw-m3-cs-handschalter.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/G3QrQb/s3/2027-bmw-m3-cs-handschalter.jpg"
+        "https://cdn.motor1.com/images/mgl/G3QrQb/s3/2027-bmw-m3-cs-handschalter.jpg",
+        "https://cdn.motor1.com/images/mgl/wl8XWV/s5/2027-bmw-m3-cs-handschalter.jpg",
+        "https://cdn.motor1.com/images/mgl/9m838v/s5/2027-bmw-m3-cs-handschalter.jpg",
+        "https://cdn.motor1.com/images/mgl/G3QrQb/s5/2027-bmw-m3-cs-handschalter.jpg",
+        "https://cdn.motor1.com/images/mgl/jlWAWR/s5/2027-bmw-m3-cs-handschalter.jpg",
+        "https://cdn.motor1.com/images/mgl/L3yVMQ/s5/2027-bmw-m3-cs-handschalter.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -574,6 +626,19 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T14:13:47+00:00"
+    },
+    {
+      "id": "dd81d596e8f459d9",
+      "title": "Le Mans Surprises: Toyota Takes Home Sixth Win, Corvette Wins GT3",
+      "summary": "Toyota has earned its sixth (and arguably most significant) victory at the 24 Hours of Le Mans, which was held on June 13 and 14. The team fended off a long list of rivals, including BMW, Ferrari, and Cadillac, to take home the overall win. Toyota’s victory wasn’t the only surprise from the 2026 Le […]",
+      "url": "https://www.hagerty.com/media/news/2026-le-mans-results-winner-pictures/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/06/85917-tjp2614ju50190-scaled.jpg",
+      "images": [
+        "https://media.hagerty.com/media/wp-content/uploads/2026/06/85917-tjp2614ju50190-scaled.jpg"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-06-15T13:50:00+00:00"
     },
     {
       "id": "2db6076335deec45",
@@ -623,7 +688,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-reveiw-2026-63.jpg?itok=Cetv5uKk"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-15T12:00:44+00:00"
     },
@@ -636,7 +701,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-x5-reveiw-2026-30.jpg?itok=j0bP3PGh"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-15T12:00:21+00:00"
     },
@@ -665,7 +730,12 @@
       "url": "https://www.motor1.com/news/798680/bovensiepen-bmw-m5-touring/",
       "image": "https://cdn.motor1.com/images/mgl/9m8Rzv/s3/bovensiepen-05-gt.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/9m8Rzv/s3/bovensiepen-05-gt.jpg"
+        "https://cdn.motor1.com/images/mgl/9m8Rzv/s3/bovensiepen-05-gt.jpg",
+        "https://cdn.motor1.com/images/mgl/lEGRrM/s5/bovensiepen-05-gt.jpg",
+        "https://cdn.motor1.com/images/mgl/XBzjKe/s5/bovensiepen-05-gt.jpg",
+        "https://cdn.motor1.com/images/mgl/9m8Rzv/s5/bovensiepen-05-gt.jpg",
+        "https://cdn.motor1.com/images/mgl/VzWj0L/s5/bovensiepen-05-gt.jpg",
+        "https://cdn.motor1.com/images/mgl/bgPjJw/s5/bovensiepen-05-gt.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -1015,6 +1085,19 @@
       "published": "2026-06-12T13:00:05+00:00"
     },
     {
+      "id": "3cc6147b31c94b8c",
+      "title": "BMW Hints at Upcoming Electric M3 with Eye-Catching Concept",
+      "summary": "The concept wears far more aggressive styling than the standard i3, with wide fenders, deep air intakes carved into the front bumper, and yellow headlights.",
+      "url": "https://www.caranddriver.com/news/a71563004/bmw-concept-m-neue-klasse-revealed/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T13:00:00+00:00"
+    },
+    {
       "id": "00247999e59e9218",
       "title": "BMW’s Electric M3 Concept Stands Next To The E30 And Hopes You Approve",
       "summary": "The new M Concept Neue Klasse pairs quad motors with an 800-volt pack, and BMW says it points straight at the brand's electric future",
@@ -1028,16 +1111,16 @@
       "published": "2026-06-12T13:00:00+00:00"
     },
     {
-      "id": "3cc6147b31c94b8c",
-      "title": "BMW Hints at Upcoming Electric M3 with Eye-Catching Concept",
-      "summary": "The concept wears far more aggressive styling than the standard i3, with wide fenders, deep air intakes carved into the front bumper, and yellow headlights.",
-      "url": "https://www.caranddriver.com/news/a71563004/bmw-concept-m-neue-klasse-revealed/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg",
+      "id": "b3cd3c88251bf355",
+      "title": "BMW M Concept Neue Klasse Previews the First Electric M3",
+      "summary": "After years of rumors, spy shots, and speculation, BMW is finally ready to give us an official look at what the first electric M3 could look like. Unveiled during the 24 Hours of Le Mans, the BMW M Concept Neue Klasse puts a performance-focused spin on the recently unveiled i3 while hinting at a production […]",
+      "url": "https://www.hagerty.com/media/news/bmw-m-concept-neue-klasse-pictures/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/06/P90643941.jpeg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg"
+        "https://media.hagerty.com/media/wp-content/uploads/2026/06/P90643941.jpeg"
       ],
-      "source": "Car and Driver News",
-      "source_url": "https://www.caranddriver.com",
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
       "published": "2026-06-12T13:00:00+00:00"
     },
     {
