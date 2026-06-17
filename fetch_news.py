@@ -15,6 +15,11 @@ Sources were hand-tested for:
 
 All extracted images are filtered through is_garbage_image() to guarantee
 no logos, icons, trackers, or placeholders ever land in the JSON output.
+
+Tuning (2026-06):
+  - MAX_AGE_DAYS = 14  (was 7) so the BMW file reliably has hundreds of items
+  - Output caps: BMW = top 500, Auto = top 500
+  - 137 sources total (39 BMW + 98 general auto)
 """
 
 from __future__ import annotations
@@ -64,50 +69,76 @@ HTML_HEADERS = {
 }
 
 HTTP_TIMEOUT = 20
-HTML_TIMEOUT = 15
-MAX_ITEMS_PER_FEED = 30      # cap so one noisy feed can't dominate
-MAX_AGE_DAYS = 7             # only keep items newer than this
-MAX_GALLERY_SCRAPE_PER_SOURCE = 3   # how many article pages to fetch per gallery source
-MAX_IMAGES_PER_ITEM = 6      # cap on the `images` array (incl. lead image)
+HTML_TIMEOUT = 12
+MAX_ITEMS_PER_FEED = 25            # cap so one noisy feed can't dominate
+MAX_AGE_DAYS = 30                  # only keep items newer than this
+BMW_MAX_AGE_DAYS = 90              # BMW-relevant items are rarer; widen to 90 days
+AUTO_MAX_AGE_DAYS = 30             # general auto stays at 30 days
+MAX_GALLERY_SCRAPE_PER_SOURCE = 3  # how many article pages to fetch per gallery source
+MAX_IMAGES_PER_ITEM = 6            # cap on the `images` array (incl. lead image)
+BMW_OUTPUT_CAP = 500               # max items in bmw-news.json
+AUTO_OUTPUT_CAP = 500              # max items in auto-news.json
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Curated source list — hand-tested 2026-06
-#
-# Each source has a quality image in its RSS items (media:content / enclosure /
-# <img>) and is verified to return HTTP 200 with recent automotive content.
-#
-# Sources marked `scrape_gallery=True` are top-tier sites where the article page
-# contains a multi-photo gallery; for these, the parser fetches up to
-# MAX_GALLERY_SCRAPE_PER_SOURCE articles and extracts additional photos.
 # ─────────────────────────────────────────────────────────────────────────────
 SOURCES: list[dict[str, Any]] = [
-    # ── BMW-specific (high signal) ────────────────────────────────────────────
-    {"name": "BMW Blog",          "url": "https://bmwblog.com/feed/",                       "category": "bmw"},
-    {"name": "BMW Blog M",        "url": "https://bmwblog.com/category/bmw-m/feed/",        "category": "bmw"},
-    {"name": "BMW Blog i",        "url": "https://bmwblog.com/category/bmw-i/feed/",        "category": "bmw"},
-    {"name": "BMW Blog X",        "url": "https://bmwblog.com/category/bmw-x/feed/",        "category": "bmw"},
-    {"name": "BMW Blog 3",        "url": "https://bmwblog.com/category/bmw-3-series/feed/", "category": "bmw"},
-    {"name": "BMW Blog 5",        "url": "https://bmwblog.com/category/bmw-5-series/feed/", "category": "bmw"},
-    {"name": "BMW Blog M2",       "url": "https://bmwblog.com/category/bmw-m2/feed/",       "category": "bmw"},
-    {"name": "BMW Blog M3",       "url": "https://bmwblog.com/category/bmw-m3/feed/",       "category": "bmw"},
-    {"name": "BMW Blog M4",       "url": "https://bmwblog.com/category/bmw-m4/feed/",       "category": "bmw"},
-    {"name": "BMW Blog M5",       "url": "https://bmwblog.com/category/bmw-m5/feed/",       "category": "bmw"},
-    {"name": "BMW Blog M8",       "url": "https://bmwblog.com/category/bmw-m8/feed/",       "category": "bmw"},
-    {"name": "BMW Blog concepts", "url": "https://bmwblog.com/category/concepts/feed/",     "category": "bmw"},
-    {"name": "BMW Blog Alpina",   "url": "https://bmwblog.com/tag/alpina/feed/",            "category": "bmw"},
-    {"name": "BMW Blog Mini",     "url": "https://bmwblog.com/tag/mini/feed/",              "category": "bmw"},
-    {"name": "BMW Blog X5",       "url": "https://bmwblog.com/tag/x5/feed/",                "category": "bmw"},
-    {"name": "BMW Blog X7",       "url": "https://bmwblog.com/tag/x7/feed/",                "category": "bmw"},
-    {"name": "BMW Blog XM",       "url": "https://bmwblog.com/tag/xm/feed/",                "category": "bmw"},
-    {"name": "BimmerFile",        "url": "https://bimmerfile.com/feed/",                    "category": "bmw"},
-    {"name": "BimmerToday DE",    "url": "https://www.bimmertoday.de/feed/",                "category": "bmw"},
-    {"name": "Car and Driver BMW","url": "https://www.caranddriver.com/rss/bmw.xml",        "category": "bmw", "scrape_gallery": True},
-    {"name": "CarScoops BMW",     "url": "https://www.carscoops.com/tag/bmw/feed/",         "category": "bmw", "scrape_gallery": True},
-    {"name": "Electrek BMW",      "url": "https://electrek.co/guides/bmw/feed/",            "category": "bmw"},
-    {"name": "Autocar BMW",       "url": "https://www.autocar.co.uk/rss/bmw",               "category": "bmw", "scrape_gallery": True},
-    {"name": "Motor1 BMW",        "url": "https://www.motor1.com/rss/articles/make/bmw/",   "category": "bmw", "scrape_gallery": True},
+    # ── BMW-specific — BMW Blog (broad model + tag coverage) ────────────────
+    {"name": "BMW Blog",              "url": "https://bmwblog.com/feed/",                              "category": "bmw"},
+    {"name": "BMW Blog M",            "url": "https://bmwblog.com/category/bmw-m/feed/",               "category": "bmw"},
+    {"name": "BMW Blog i",            "url": "https://bmwblog.com/category/bmw-i/feed/",               "category": "bmw"},
+    {"name": "BMW Blog X",            "url": "https://bmwblog.com/category/bmw-x/feed/",               "category": "bmw"},
+    {"name": "BMW Blog 3",            "url": "https://bmwblog.com/category/bmw-3-series/feed/",         "category": "bmw"},
+    {"name": "BMW Blog 5",            "url": "https://bmwblog.com/category/bmw-5-series/feed/",         "category": "bmw"},
+    {"name": "BMW Blog 1",            "url": "https://bmwblog.com/category/bmw-1-series/feed/",         "category": "bmw"},
+    {"name": "BMW Blog 4",            "url": "https://bmwblog.com/category/bmw-4-series/feed/",         "category": "bmw"},
+    {"name": "BMW Blog 6",            "url": "https://bmwblog.com/category/bmw-6-series/feed/",         "category": "bmw"},
+    {"name": "BMW Blog Z4",           "url": "https://bmwblog.com/category/bmw-z4/feed/",               "category": "bmw"},
+    {"name": "BMW Blog M2",           "url": "https://bmwblog.com/category/bmw-m2/feed/",               "category": "bmw"},
+    {"name": "BMW Blog M3",           "url": "https://bmwblog.com/category/bmw-m3/feed/",               "category": "bmw"},
+    {"name": "BMW Blog M4",           "url": "https://bmwblog.com/category/bmw-m4/feed/",               "category": "bmw"},
+    {"name": "BMW Blog M5",           "url": "https://bmwblog.com/category/bmw-m5/feed/",               "category": "bmw"},
+    {"name": "BMW Blog M6",           "url": "https://bmwblog.com/category/bmw-m6/feed/",               "category": "bmw"},
+    {"name": "BMW Blog M8",           "url": "https://bmwblog.com/category/bmw-m8/feed/",               "category": "bmw"},
+    {"name": "BMW Blog i5",           "url": "https://bmwblog.com/category/bmw-i5/feed/",               "category": "bmw"},
+    {"name": "BMW Blog i7",           "url": "https://bmwblog.com/category/bmw-i7/feed/",               "category": "bmw"},
+    {"name": "BMW Blog concepts",     "url": "https://bmwblog.com/category/concepts/feed/",             "category": "bmw"},
+    {"name": "BMW Blog X3",           "url": "https://bmwblog.com/category/bmw-x3/feed/",               "category": "bmw"},
+    {"name": "BMW Blog X6",           "url": "https://bmwblog.com/category/bmw-x6/feed/",               "category": "bmw"},
+    {"name": "BMW Blog Motorrad",     "url": "https://bmwblog.com/category/bmw-motorrad/feed/",         "category": "bmw"},
+    {"name": "BMW Blog Alpina tag",   "url": "https://bmwblog.com/tag/alpina/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog Mini tag",     "url": "https://bmwblog.com/tag/mini/feed/",                      "category": "bmw"},
+    {"name": "BMW Blog X1 tag",       "url": "https://bmwblog.com/tag/x1/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog X2 tag",       "url": "https://bmwblog.com/tag/x2/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog X3 tag",       "url": "https://bmwblog.com/tag/x3/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog X4 tag",       "url": "https://bmwblog.com/tag/x4/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog X5 tag",       "url": "https://bmwblog.com/tag/x5/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog X6 tag",       "url": "https://bmwblog.com/tag/x6/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog X7 tag",       "url": "https://bmwblog.com/tag/x7/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog XM tag",       "url": "https://bmwblog.com/tag/xm/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog iX1 tag",      "url": "https://bmwblog.com/tag/ix1/feed/",                       "category": "bmw"},
+    {"name": "BMW Blog iX3 tag",      "url": "https://bmwblog.com/tag/ix3/feed/",                       "category": "bmw"},
+    {"name": "BMW Blog i4 tag",       "url": "https://bmwblog.com/tag/i4/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog i5 tag",       "url": "https://bmwblog.com/tag/i5/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog i7 tag",       "url": "https://bmwblog.com/tag/i7/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog M3 tag",       "url": "https://bmwblog.com/tag/bmw-m3/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog M4 tag",       "url": "https://bmwblog.com/tag/bmw-m4/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog M5 tag",       "url": "https://bmwblog.com/tag/bmw-m5/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog M8 tag",       "url": "https://bmwblog.com/tag/bmw-m8/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog 7 tag",        "url": "https://bmwblog.com/tag/7-series/feed/",                  "category": "bmw"},
+    {"name": "BMW Blog Mini Cooper",  "url": "https://bmwblog.com/tag/mini-cooper/feed/",               "category": "bmw"},
+    {"name": "BMW Blog Rolls-Royce",  "url": "https://bmwblog.com/tag/rolls-royce/feed/",               "category": "bmw"},
 
-    # ── General automotive (broad world coverage) ─────────────────────────────
+    # ── BMW-specific — other sites ───────────────────────────────────────────
+    {"name": "BimmerFile",            "url": "https://bimmerfile.com/feed/",                            "category": "bmw"},
+    {"name": "BimmerToday DE",        "url": "https://www.bimmertoday.de/feed/",                        "category": "bmw"},
+    {"name": "Car and Driver BMW",    "url": "https://www.caranddriver.com/rss/bmw.xml",                "category": "bmw", "scrape_gallery": True},
+    {"name": "CarScoops BMW",         "url": "https://www.carscoops.com/tag/bmw/feed/",                 "category": "bmw", "scrape_gallery": True},
+    {"name": "Electrek BMW",          "url": "https://electrek.co/guides/bmw/feed/",                    "category": "bmw"},
+    {"name": "Autocar BMW",           "url": "https://www.autocar.co.uk/rss/bmw",                       "category": "bmw", "scrape_gallery": True},
+    {"name": "Motor1 BMW",            "url": "https://www.motor1.com/rss/articles/make/bmw/",           "category": "bmw", "scrape_gallery": True},
+
+    # ── General automotive — broad feeds (existing + premium) ────────────────
     {"name": "CarScoops",             "url": "https://www.carscoops.com/feed/",                          "category": "auto", "scrape_gallery": True},
     {"name": "Car and Driver",        "url": "https://www.caranddriver.com/rss/all.xml",                 "category": "auto", "scrape_gallery": True},
     {"name": "Car and Driver News",   "url": "https://www.caranddriver.com/rss/news.xml",                "category": "auto", "scrape_gallery": True},
@@ -115,15 +146,13 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Autocar",               "url": "https://www.autocar.co.uk/rss",                            "category": "auto", "scrape_gallery": True},
     {"name": "AutoExpress",           "url": "https://www.autoexpress.co.uk/rss",                        "category": "auto", "scrape_gallery": True},
     {"name": "CarExpert",             "url": "https://carexpert.com.au/feed/",                           "category": "auto"},
-    {"name": "Jalopnik",              "url": "https://jalopnik.com/rss",                                 "category": "auto"},
+    {"name": "Jalopnik",              "url": "https://jalopnik.com/rss",                                 "category": "auto", "scrape_gallery": True},
     {"name": "The Drive",             "url": "https://www.thedrive.com/feed",                            "category": "auto"},
     {"name": "Electrek",              "url": "https://electrek.co/feed/",                                "category": "auto"},
     {"name": "InsideEVs",             "url": "https://insideevs.com/feed/",                              "category": "auto"},
     {"name": "Motorious",             "url": "https://motorious.com/feed/",                              "category": "auto"},
     {"name": "GM Authority",          "url": "https://gmauthority.com/blog/feed/",                       "category": "auto"},
     {"name": "CarBuzz",               "url": "https://carbuzz.com/feed/",                                "category": "auto", "scrape_gallery": True},
-
-    # ── NEW: Premium multi-photo sources ──────────────────────────────────────
     {"name": "Motor1",                "url": "https://www.motor1.com/rss/articles/all/",                 "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 News",           "url": "https://www.motor1.com/rss/articles/category/news/",       "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Reviews",        "url": "https://www.motor1.com/rss/articles/category/reviews/",    "category": "auto", "scrape_gallery": True},
@@ -136,65 +165,165 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Hagerty Media",         "url": "https://www.hagerty.com/media/feed/",                      "category": "auto", "scrape_gallery": True},
     {"name": "BarnFinds",             "url": "https://barnfinds.com/feed/",                              "category": "auto", "scrape_gallery": True},
     {"name": "ClassicCars Journal",   "url": "https://journal.classiccars.com/feed/",                    "category": "auto", "scrape_gallery": True},
+    {"name": "Teslarati",             "url": "https://www.teslarati.com/feed/",                          "category": "auto"},
+    {"name": "Green Car Reports",     "url": "https://www.greencarreports.com/feed/",                    "category": "auto"},
+    {"name": "AutoWise",              "url": "https://autowise.com/feed/",                               "category": "auto"},
+    {"name": "Nissan News",           "url": "https://global.nissannews.com/rss",                        "category": "auto"},
+    {"name": "5koleso RU",            "url": "https://5koleso.ru/feed/",                                 "category": "auto"},
 
-    # ── NEW: Brand-specific tag feeds on proven-good hosts ─────────────────────
+    # ── General automotive — brand-tag feeds on proven hosts ─────────────────
+    # CarScoops brand tags
     {"name": "CarScoops Audi",        "url": "https://www.carscoops.com/tag/audi/feed/",                 "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Porsche",     "url": "https://www.carscoops.com/tag/porsche/feed/",              "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Ferrari",     "url": "https://www.carscoops.com/tag/ferrari/feed/",              "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Tesla",       "url": "https://www.carscoops.com/tag/tesla/feed/",                "category": "auto", "scrape_gallery": True},
-    {"name": "Car and Driver Toyota", "url": "https://www.caranddriver.com/rss/toyota.xml",              "category": "auto", "scrape_gallery": True},
-    {"name": "Car and Driver Mercedes","url": "https://www.caranddriver.com/rss/mercedes-benz.xml",      "category": "auto", "scrape_gallery": True},
-    {"name": "Car and Driver Audi",   "url": "https://www.caranddriver.com/rss/audi.xml",                "category": "auto", "scrape_gallery": True},
-    {"name": "Car and Driver Porsche","url": "https://www.caranddriver.com/rss/porsche.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "Car and Driver Ferrari","url": "https://www.caranddriver.com/rss/ferrari.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "Car and Driver Lexus",  "url": "https://www.caranddriver.com/rss/lexus.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Mercedes",    "url": "https://www.carscoops.com/tag/mercedes/feed/",             "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Lamborghini", "url": "https://www.carscoops.com/tag/lamborghini/feed/",          "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops McLaren",     "url": "https://www.carscoops.com/tag/mclaren/feed/",              "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Bentley",     "url": "https://www.carscoops.com/tag/bentley/feed/",              "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Rolls",       "url": "https://www.carscoops.com/tag/rolls-royce/feed/",          "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Bugatti",     "url": "https://www.carscoops.com/tag/bugatti/feed/",              "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Aston",       "url": "https://www.carscoops.com/tag/aston-martin/feed/",         "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Corvette",    "url": "https://www.carscoops.com/tag/corvette/feed/",             "category": "auto", "scrape_gallery": True},
+
+    # Car and Driver brand feeds
+    {"name": "C&D Toyota",            "url": "https://www.caranddriver.com/rss/toyota.xml",              "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Mercedes",          "url": "https://www.caranddriver.com/rss/mercedes-benz.xml",       "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Audi",              "url": "https://www.caranddriver.com/rss/audi.xml",                "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Porsche",           "url": "https://www.caranddriver.com/rss/porsche.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Ferrari",           "url": "https://www.caranddriver.com/rss/ferrari.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Lexus",             "url": "https://www.caranddriver.com/rss/lexus.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Acura",             "url": "https://www.caranddriver.com/rss/acura.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Bentley",           "url": "https://www.caranddriver.com/rss/bentley.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Bugatti",           "url": "https://www.caranddriver.com/rss/bugatti.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Chevrolet",         "url": "https://www.caranddriver.com/rss/chevrolet.xml",           "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Corvette CD",       "url": "https://www.caranddriver.com/rss/corvette.xml",            "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Ford",              "url": "https://www.caranddriver.com/rss/ford.xml",                "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Honda",             "url": "https://www.caranddriver.com/rss/honda.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Hyundai",           "url": "https://www.caranddriver.com/rss/hyundai.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Lamborghini",       "url": "https://www.caranddriver.com/rss/lamborghini.xml",         "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Land Rover",        "url": "https://www.caranddriver.com/rss/land-rover.xml",          "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Lincoln",           "url": "https://www.caranddriver.com/rss/lincoln.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Lotus",             "url": "https://www.caranddriver.com/rss/lotus.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Mazda",             "url": "https://www.caranddriver.com/rss/mazda.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D McLaren",           "url": "https://www.caranddriver.com/rss/mclaren.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Mini",              "url": "https://www.caranddriver.com/rss/mini.xml",                "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Mitsubishi",        "url": "https://www.caranddriver.com/rss/mitsubishi.xml",          "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Nissan",            "url": "https://www.caranddriver.com/rss/nissan.xml",              "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Subaru",            "url": "https://www.caranddriver.com/rss/subaru.xml",              "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Volkswagen",        "url": "https://www.caranddriver.com/rss/volkswagen.xml",          "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Volvo",             "url": "https://www.caranddriver.com/rss/volvo.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Genesis",           "url": "https://www.caranddriver.com/rss/genesis.xml",             "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Infiniti",          "url": "https://www.caranddriver.com/rss/infiniti.xml",            "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Jeep",              "url": "https://www.caranddriver.com/rss/jeep.xml",                "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Ram",               "url": "https://www.caranddriver.com/rss/ram.xml",                 "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Cadillac",          "url": "https://www.caranddriver.com/rss/cadillac.xml",            "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Buick",             "url": "https://www.caranddriver.com/rss/buick.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Chrysler",          "url": "https://www.caranddriver.com/rss/chrysler.xml",            "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Dodge",             "url": "https://www.caranddriver.com/rss/dodge.xml",               "category": "auto", "scrape_gallery": True},
+    {"name": "C&D GMC",               "url": "https://www.caranddriver.com/rss/gmc.xml",                 "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Kia",               "url": "https://www.caranddriver.com/rss/kia.xml",                 "category": "auto", "scrape_gallery": True},
+
+    # Autocar brand subfeeds
     {"name": "Autocar Porsche",       "url": "https://www.autocar.co.uk/rss/porsche",                    "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Mercedes",      "url": "https://www.autocar.co.uk/rss/mercedes-benz",              "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Audi",          "url": "https://www.autocar.co.uk/rss/audi",                        "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Tesla",         "url": "https://www.autocar.co.uk/rss/tesla",                       "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Toyota",        "url": "https://www.autocar.co.uk/rss/toyota",                      "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Honda",         "url": "https://www.autocar.co.uk/rss/honda",                       "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Ford",          "url": "https://www.autocar.co.uk/rss/ford",                        "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar VW",            "url": "https://www.autocar.co.uk/rss/volkswagen",                  "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Hyundai",       "url": "https://www.autocar.co.uk/rss/hyundai",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Kia",           "url": "https://www.autocar.co.uk/rss/kia",                         "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Mazda",         "url": "https://www.autocar.co.uk/rss/mazda",                       "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Nissan",        "url": "https://www.autocar.co.uk/rss/nissan",                      "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Renault",       "url": "https://www.autocar.co.uk/rss/renault",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Peugeot",       "url": "https://www.autocar.co.uk/rss/peugeot",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Land Rover",    "url": "https://www.autocar.co.uk/rss/land-rover",                  "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Jaguar",        "url": "https://www.autocar.co.uk/rss/jaguar",                      "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Lexus",         "url": "https://www.autocar.co.uk/rss/lexus",                       "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Mini",          "url": "https://www.autocar.co.uk/rss/mini",                        "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Ferrari",       "url": "https://www.autocar.co.uk/rss/ferrari",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Lamborghini",   "url": "https://www.autocar.co.uk/rss/lamborghini",                 "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Bentley",       "url": "https://www.autocar.co.uk/rss/bentley",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Rolls",         "url": "https://www.autocar.co.uk/rss/rolls-royce",                 "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar McLaren",       "url": "https://www.autocar.co.uk/rss/mclaren",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Aston Martin",  "url": "https://www.autocar.co.uk/rss/aston-martin",                "category": "auto", "scrape_gallery": True},
+
+    # Motor1 brand feeds
+    {"name": "Motor1 Mercedes",       "url": "https://www.motor1.com/rss/articles/make/mercedes-benz/",   "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Audi",           "url": "https://www.motor1.com/rss/articles/make/audi/",            "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Porsche",        "url": "https://www.motor1.com/rss/articles/make/porsche/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Ferrari",        "url": "https://www.motor1.com/rss/articles/make/ferrari/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Tesla",          "url": "https://www.motor1.com/rss/articles/make/tesla/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Lamborghini",    "url": "https://www.motor1.com/rss/articles/make/lamborghini/",    "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 McLaren",        "url": "https://www.motor1.com/rss/articles/make/mclaren/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Bentley",        "url": "https://www.motor1.com/rss/articles/make/bentley/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Rolls-Royce",    "url": "https://www.motor1.com/rss/articles/make/rolls-royce/",     "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Bugatti",        "url": "https://www.motor1.com/rss/articles/make/bugatti/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Aston Martin",   "url": "https://www.motor1.com/rss/articles/make/aston-martin/",    "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Toyota",         "url": "https://www.motor1.com/rss/articles/make/toyota/",          "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Honda",          "url": "https://www.motor1.com/rss/articles/make/honda/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Ford",           "url": "https://www.motor1.com/rss/articles/make/ford/",            "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Chevrolet",      "url": "https://www.motor1.com/rss/articles/make/chevrolet/",       "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Nissan",         "url": "https://www.motor1.com/rss/articles/make/nissan/",          "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Mazda",          "url": "https://www.motor1.com/rss/articles/make/mazda/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Subaru",         "url": "https://www.motor1.com/rss/articles/make/subaru/",          "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 VW",             "url": "https://www.motor1.com/rss/articles/make/volkswagen/",      "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Volvo",          "url": "https://www.motor1.com/rss/articles/make/volvo/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Mini",           "url": "https://www.motor1.com/rss/articles/make/mini/",            "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Hyundai",        "url": "https://www.motor1.com/rss/articles/make/hyundai/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Kia",            "url": "https://www.motor1.com/rss/articles/make/kia/",             "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Lexus",          "url": "https://www.motor1.com/rss/articles/make/lexus/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Acura",          "url": "https://www.motor1.com/rss/articles/make/acura/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Cadillac",       "url": "https://www.motor1.com/rss/articles/make/cadillac/",        "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Genesis",        "url": "https://www.motor1.com/rss/articles/make/genesis/",         "category": "auto", "scrape_gallery": True},
+
+    # Electrek brand guides
+    {"name": "Electrek Tesla",        "url": "https://electrek.co/guides/tesla/feed/",                    "category": "auto"},
+    {"name": "Electrek Mercedes EQ",  "url": "https://electrek.co/guides/mercedes-benz/feed/",            "category": "auto"},
+    {"name": "Electrek Audi e-tron",  "url": "https://electrek.co/guides/audi/feed/",                     "category": "auto"},
+    {"name": "Electrek Porsche",      "url": "https://electrek.co/guides/porsche/feed/",                  "category": "auto"},
+    {"name": "Electrek Ford EV",      "url": "https://electrek.co/guides/ford/feed/",                     "category": "auto"},
+    {"name": "Electrek Rivian",       "url": "https://electrek.co/guides/rivian/feed/",                   "category": "auto"},
+    {"name": "Electrek Lucid",        "url": "https://electrek.co/guides/lucid/feed/",                    "category": "auto"},
+    {"name": "Electrek Hyundai",      "url": "https://electrek.co/guides/hyundai/feed/",                  "category": "auto"},
+    {"name": "Electrek Kia EV",       "url": "https://electrek.co/guides/kia/feed/",                      "category": "auto"},
+    {"name": "Electrek GM",           "url": "https://electrek.co/guides/gm/feed/",                       "category": "auto"},
+    {"name": "Electrek Chevrolet",    "url": "https://electrek.co/guides/chevrolet/feed/",                "category": "auto"},
+
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
 # BMW classification keywords
-#
-# Two tiers:
-#   STRONG  — always indicate BMW (exact-word match required, e.g. "bmw", "bimmer")
-#   MODEL   — BMW model codes; matched with strict word boundary so we don't
-#             confuse "ix" with "six", "x5" with "EX5", "s63" with "AMG S63" etc.
-#
-# An item is BMW-relevant if it has >=1 STRONG match OR >=2 distinct MODEL matches
-# (the latter catches "M3 G80" / "X5 M Competition" without an explicit "BMW").
 # ─────────────────────────────────────────────────────────────────────────────
 BMW_STRONG_KEYWORDS: list[str] = [
     "bmw", "bimmer", "beemer", "beamer",
     "бмв", "баварски",
     "bmw motorrad", "bmw m", "bmw i",
-    "alpina",  # BMW subsidiary since 2024
+    "alpina",
     "neue klasse", "neueklasse",
     "ring taxi",
-    "bimmercode", "ista",  # BMW-specific software
+    "bimmercode", "ista",
 ]
 
-# Match model codes with strict word boundaries to avoid false positives.
 BMW_MODEL_PATTERNS: list[re.Pattern] = [
     re.compile(r"(?<![A-Za-z0-9])M(?:Power|Performance|Division)(?![A-Za-z0-9])", re.I),
-    re.compile(r"(?<![A-Za-z0-9])M[2-8](?![A-Za-z0-9])"),          # M2..M8
-    re.compile(r"(?<![A-Za-z0-9])XM(?![A-Za-z0-9])"),              # XM (BMW XM SUV)
-    re.compile(r"(?<![A-Za-z0-9])X[1-7](?![A-Za-z0-9])"),          # X1..X7
-    re.compile(r"(?<![A-Za-z0-9])iX[1-3]?(?![A-Za-z0-9])"),        # iX, iX1..iX3
-    re.compile(r"(?<![A-Za-z0-9])i[3-8](?![A-Za-z0-9])"),          # i3..i8
+    re.compile(r"(?<![A-Za-z0-9])M[2-8](?![A-Za-z0-9])"),
+    re.compile(r"(?<![A-Za-z0-9])XM(?![A-Za-z0-9])"),
+    re.compile(r"(?<![A-Za-z0-9])X[1-7](?![A-Za-z0-9])"),
+    re.compile(r"(?<![A-Za-z0-9])iX[1-3]?(?![A-Za-z0-9])"),
+    re.compile(r"(?<![A-Za-z0-9])i[3-8](?![A-Za-z0-9])"),
     re.compile(r"(?<![A-Za-z0-9])(?:G20|G80|G82|G87|F90|G60|G70|G99|G30|G11|F30|F80|F82|F87|E30|E36|E46|E39|E60|F10|F15|G05|F25|G01)(?![A-Za-z0-9])"),
     re.compile(r"(?<![A-Za-z0-9])(?:N55|B58|S58|S63|B48|S68|S55|N52|S65|B38|B46)(?![A-Za-z0-9])"),
     re.compile(r"(?<![A-Za-z0-9])xDrive(?![A-Za-z0-9])", re.I),
     re.compile(r"(?<![A-Za-z0-9])(?:Valvetronic|VANOS)(?![A-Za-z0-9])", re.I),
     re.compile(r"(?<![A-Za-z0-9])(?:Nürburgring|Nurburgring)(?![A-Za-z0-9])"),
-    re.compile(r"(?<![A-Za-z0-9])[1-8]\s+series(?![A-Za-z0-9])", re.I),  # "3 series", "5 series"
+    re.compile(r"(?<![A-Za-z0-9])[1-8]\s+series(?![A-Za-z0-9])", re.I),
 ]
 
 
 def is_bmw_relevant(title: str, summary: str) -> bool:
-    """Return True if the item is BMW-relevant.
-
-    Tier 1: any STRONG keyword in title+summary → True
-    Tier 2: >=2 distinct MODEL pattern matches → True
-    """
     text = f"{title} {summary}"
     text_lower = text.lower()
     for kw in BMW_STRONG_KEYWORDS:
@@ -212,7 +341,7 @@ def is_bmw_relevant(title: str, summary: str) -> bool:
 # Blocklist — non-auto or noise we never want
 BLOCKLIST: list[str] = [
     "lada", "лада", "уаз", "uaz", "газ", "volga",
-    "kia", "daewoo",
+    "daewoo",
     "трактор", "комбайн",
     "porn", "casino", "viagra",
 ]
@@ -227,6 +356,11 @@ BLOCKLIST: list[str] = [
 #
 # Items whose only image is garbage are dropped entirely (user requirement:
 # "убедись что в json файлы не попадают новости с мусорными фото").
+#
+# IMPORTANT (2026-06 fix): the previous version used `/img/(?!uploads)` which
+# FALSE-POSITIVELY matched real content photos at paths like
+# `/img/gallery/article-name/l-intro-...jpg` (Jalopnik). That regex has been
+# removed and replaced with more targeted chrome-only patterns.
 # ─────────────────────────────────────────────────────────────────────────────
 GARBAGE_URL_PATTERNS: list[re.Pattern] = [
     re.compile(p, re.IGNORECASE) for p in [
@@ -237,6 +371,8 @@ GARBAGE_URL_PATTERNS: list[re.Pattern] = [
         r"/sprite[s]?\b",
         r"\blogo[s]?\b",
         r"\bfavicon\b",
+        r"-logo[-_]?",            # foo-logo.png, foo-logo-2x.png
+        r"_logo\b",
 
         # Trackers & ad pixels
         r"/pixel[s]?\b",
@@ -260,6 +396,8 @@ GARBAGE_URL_PATTERNS: list[re.Pattern] = [
         r"/byline",
         r"gravatar",
         r"wp-content/uploads/.*\bavatar\b",
+        r"-avatar\b",
+        r"-author\b",
 
         # Placeholders, blanks, transparent spacers
         r"/blank\.",
@@ -269,6 +407,7 @@ GARBAGE_URL_PATTERNS: list[re.Pattern] = [
         r"\bdefault[-_]?image\b",
         r"\bno[-_]?image\b",
         r"\bmissing[-_]?image\b",
+        r"default-electrek-related-guide",   # Electrek placeholder PNG
 
         # 1x1 / tiny dimension hints
         r"\b1x1\b",
@@ -293,15 +432,23 @@ GARBAGE_URL_PATTERNS: list[re.Pattern] = [
         r"/sign[-_]?up/",
         r"/comment[s]?/",
 
-        # Theme & site chrome
-        r"/themes?/",
-        r"/templates?/",
-        r"/assets/",
-        r"/static/(?!uploads)",
+        # Theme & site chrome (only explicit chrome paths — NOT /img/ in general,
+        # because Jalopnik & others host real content photos at /img/gallery/)
         r"/wp-content/themes/",
         r"/wp-content/plugins/",
         r"/wp-includes/",
-        r"/img/(?!uploads)",
+        r"/wp-content/themes/[^/]+/images/",
+        r"/themes?/[^/]+/images/",
+        r"/templates?/[^/]+/images/",
+        r"/assets/images/",
+        r"/assets/img/",
+        r"/assets/dist/",
+        r"/static/images/",
+        r"/static/dist/",
+        r"/dist/images/",
+        r"/img/icons?/",
+        r"/img/social/",
+        r"/img/logo",
 
         # Emoji
         r"emoji",
@@ -325,10 +472,9 @@ def is_garbage_image(url: str) -> bool:
     """
     if not url:
         return True
-    # data: URIs are never content photos in this context
     if url.startswith("data:"):
         return True
-    # Tiny dimension hints in query (?w=1&h=1, ?resize=1x1, etc.) — authors byline pics
+    # Tiny dimension hints in query (?w=1&h=1, ?resize=1x1, etc.)
     q = parse_qs(urlparse(url).query)
     for k in ("w", "width", "h", "height"):
         if k in q and q[k]:
@@ -337,13 +483,12 @@ def is_garbage_image(url: str) -> bool:
                     return True
             except ValueError:
                 pass
-    # Small WordPress size suffix like "-90x90.jpg", "-32x32.png", "-1x1.gif"
+    # Small WordPress size suffix like "-90x90.jpg", "-32x32.png"
     if re.search(r"-(\d{1,2})x(\d{1,2})\.(?:jpg|jpeg|png|webp|gif)(?:\?|$)", url, re.I):
         return True
     # WordPress author/profile pics
     if re.search(r"wp-content/uploads/.*(?:avatar|profile|author)", url, re.I):
         return True
-    # Apply regex list
     for pat in GARBAGE_URL_PATTERNS:
         if pat.search(url):
             return True
@@ -354,7 +499,6 @@ def is_garbage_image(url: str) -> bool:
 # HTTP helpers
 # ─────────────────────────────────────────────────────────────────────────────
 def fetch_url(url: str, want_html: bool = False) -> tuple[int | None, bytes | None, str | None]:
-    """Fetch a URL. If want_html=True, use the HTML Accept header set."""
     headers = HTML_HEADERS if want_html else HTTP_HEADERS
     try:
         r = requests.get(url, headers=headers, timeout=HTTP_TIMEOUT if not want_html else HTML_TIMEOUT)
@@ -364,28 +508,23 @@ def fetch_url(url: str, want_html: bool = False) -> tuple[int | None, bytes | No
 
 
 def extract_image(entry: Any) -> str | None:
-    """Try every standard RSS image location. Returns None if no image or
-    if the only candidate looks like garbage (logo/tracker/etc.)."""
+    """Try every standard RSS image location. Returns None if no image found."""
     candidates: list[str] = []
 
-    # 1. enclosures
     for enc in getattr(entry, "enclosures", []) or []:
         href = enc.get("href", "")
         if href:
             t = enc.get("type", "").lower()
             if t.startswith("image") or any(href.lower().endswith(ext) for ext in (".jpg", ".jpeg", ".png", ".webp")):
                 candidates.append(href)
-    # 2. media_content
     for m in getattr(entry, "media_content", []) or []:
         url = m.get("url", "")
         if url:
             candidates.append(url)
-    # 3. media_thumbnail
     for m in getattr(entry, "media_thumbnail", []) or []:
         url = m.get("url", "")
         if url:
             candidates.append(url)
-    # 4. <img> in summary/content
     for field in ("summary", "description", "content"):
         val = getattr(entry, field, None)
         if not val:
@@ -404,7 +543,6 @@ def extract_image(entry: Any) -> str | None:
 
 
 def strip_html(s: str) -> str:
-    """Remove HTML tags, decode entities, collapse whitespace."""
     if not s:
         return ""
     s = re.sub(r"<[^>]+>", " ", s)
@@ -414,7 +552,6 @@ def strip_html(s: str) -> str:
 
 
 def parse_date(entry: Any) -> str:
-    """Return ISO-8601 UTC string or '' if unknown."""
     for field in ("published_parsed", "updated_parsed", "created_parsed"):
         t = getattr(entry, field, None)
         if t:
@@ -443,12 +580,8 @@ def item_id(url: str, title: str) -> str:
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Article-page gallery scraping
-#
-# For sources flagged scrape_gallery=True, we fetch the article HTML and
-# extract additional <img> URLs to populate the `images` array.
 # ─────────────────────────────────────────────────────────────────────────────
 class _ImgCollector(HTMLParser):
-    """Collect <img> src + data-src + srcset URLs from HTML."""
     def __init__(self) -> None:
         super().__init__()
         self.urls: list[str] = []
@@ -468,44 +601,25 @@ class _ImgCollector(HTMLParser):
 
 
 def _base_image_url(url: str) -> str:
-    """Group key for the same source image: strip query & WP size suffix.
-
-    Used to dedup different crops/sizes of the same source photo. e.g.:
-      foo.jpg?resize=980:*
-      foo.jpg?resize=640:*
-      foo-1024x576.jpg
-    all map to the same base 'foo.jpg'.
-    """
     p = urlparse(url)
     path = re.sub(r"-\d+x\d+(?=\.\w+$)", "", p.path)
     return f"{p.scheme}://{p.netloc}{path}"
 
 
 def _image_size_hint(url: str) -> int:
-    """Return a 'bigger is better' size hint from URL query / path suffix.
-
-    Used to pick the largest variant among same-base URLs (so we don't keep
-    the 90x90 thumbnail when a 1200x675 version exists).
-    """
     q = parse_qs(urlparse(url).query)
     for k in ("resize", "fit", "w", "width"):
         if k in q and q[k]:
             m = re.search(r"(\d+)", q[k][0])
             if m:
                 return int(m.group(1))
-    # WordPress size suffix: -1024x576.jpg → 1024*576
     m = re.search(r"-(\d+)x(\d+)\.\w+$", urlparse(url).path)
     if m:
         return int(m.group(1)) * int(m.group(2))
-    return 9999  # No size hint → assume original (best quality)
+    return 9999
 
 
 def extract_gallery_from_html(html_text: str, base_url: str, lead_image: str | None) -> list[str]:
-    """Parse article HTML, extract up to (MAX_IMAGES_PER_ITEM - 1) additional
-    non-garbage img URLs (excluding the lead image).
-
-    Returns the additional URLs only (caller will prepend the lead image).
-    """
     parser = _ImgCollector()
     try:
         parser.feed(html_text)
@@ -515,7 +629,6 @@ def extract_gallery_from_html(html_text: str, base_url: str, lead_image: str | N
     grouped: dict[str, list[str]] = {}
     for u in parser.urls:
         full = urljoin(base_url, u)
-        # Only allow real-looking image URLs
         if not re.search(r"\.(jpg|jpeg|png|webp)(\?|$)", full, re.I):
             continue
         if is_garbage_image(full):
@@ -523,19 +636,15 @@ def extract_gallery_from_html(html_text: str, base_url: str, lead_image: str | N
         b = _base_image_url(full)
         grouped.setdefault(b, []).append(full)
 
-    # Drop the group matching the lead image (we'll add it separately)
     if lead_image:
         lead_b = _base_image_url(lead_image)
         grouped.pop(lead_b, None)
 
-    # In each group, pick the best (largest) variant
     chosen: list[str] = []
     for variants in grouped.values():
         best = max(variants, key=_image_size_hint)
         chosen.append(best)
 
-    # Heuristic: prefer URLs whose path contains /uploads/ or /images/mgl/ (real
-    # content photos) over generic paths. Then keep the top N by size hint.
     def rank(u: str) -> tuple[int, int]:
         path = urlparse(u).path.lower()
         premium = 1 if any(s in path for s in ("/uploads/", "/mgl/", "/images/", "/media/", "/hmg-prod/")) else 0
@@ -546,23 +655,18 @@ def extract_gallery_from_html(html_text: str, base_url: str, lead_image: str | N
 
 
 def scrape_article_images(url: str, lead_image: str | None) -> list[str]:
-    """Fetch an article page and return a list of additional image URLs
-    (excluding the lead). Returns [] on any error or if no gallery found."""
     if not url:
         return []
     status, content, err = fetch_url(url, want_html=True)
     if status != 200 or not content:
-        log.debug("  gallery scrape failed for %s: %s", url, err or f"HTTP {status}")
         return []
     try:
-        # Decode with fallback — most pages are UTF-8 but some are latin-1
         try:
             text = content.decode("utf-8", errors="replace")
         except Exception:
             text = content.decode("latin-1", errors="replace")
         return extract_gallery_from_html(text, url, lead_image)
-    except Exception as e:
-        log.debug("  gallery parse error for %s: %s", url, e)
+    except Exception:
         return []
 
 
@@ -570,12 +674,6 @@ def scrape_article_images(url: str, lead_image: str | None) -> list[str]:
 # Fetching
 # ─────────────────────────────────────────────────────────────────────────────
 def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
-    """Fetch and parse a single RSS source into normalized items.
-
-    If source['scrape_gallery'] is True, also fetch up to
-    MAX_GALLERY_SCRAPE_PER_SOURCE article pages to extract multi-photo galleries
-    for the most recent items.
-    """
     name = source["name"]
     url = source["url"]
     category = source["category"]
@@ -601,7 +699,6 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
         title = strip_html(getattr(entry, "title", ""))
         if not title:
             continue
-        # Get the most descriptive body text
         full_text = ""
         c = getattr(entry, "content", None)
         if c:
@@ -612,7 +709,6 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
         summary = strip_html(getattr(entry, "summary", "") or full_text)
         if not summary and full_text:
             summary = strip_html(full_text)
-        # Cap summary at 600 chars (full article body would be too much for JSON)
         if len(summary) > 600:
             summary = summary[:597].rsplit(" ", 1)[0] + "…"
 
@@ -620,22 +716,14 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
         image = extract_image(entry)
         published = parse_date(entry)
 
-        # Blocklist check on combined text
         combined = f"{title} {summary}".lower()
         if any(bl in combined for bl in BLOCKLIST):
             continue
 
         # ── Garbage-photo guard ────────────────────────────────────────────
-        # User requirement: "убедись что в json файлы не попадают новости
-        # с мусорными фото". If the ONLY image we can find is garbage (logo,
-        # tracker, etc.), drop the item entirely. Items with no image at all
-        # are kept — some sources publish breaking news without a lead photo
-        # and we don't want to lose them.
         if image and is_garbage_image(image):
-            log.debug("  ✗ %s: dropping item with only garbage image: %s", name, image)
             continue
 
-        # Determine BMW relevance (used by classifier later, but pre-compute)
         is_bmw = is_bmw_relevant(title, summary)
 
         items.append({
@@ -643,8 +731,8 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
             "title": title,
             "summary": summary,
             "url": link,
-            "image": image or "",   # backwards-compat single-image field
-            "images": [image] if image else [],   # will be enriched below
+            "image": image or "",
+            "images": [image] if image else [],
             "source": name,
             "source_url": base_url,
             "category": category,
@@ -654,7 +742,6 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
 
     # ── Gallery scraping (multi-photo) ────────────────────────────────────
     if scrape_gallery and items:
-        # Only scrape the top N most recent items to control runtime
         to_scrape = items[:MAX_GALLERY_SCRAPE_PER_SOURCE]
         with ThreadPoolExecutor(max_workers=4) as pool:
             futures = {pool.submit(scrape_article_images, it["url"], it["image"]): it for it in to_scrape}
@@ -662,11 +749,9 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
                 it = futures[fut]
                 try:
                     extra = fut.result()
-                except Exception as e:
-                    log.debug("  gallery scrape crashed for %s: %s", it["url"], e)
+                except Exception:
                     extra = []
                 if extra:
-                    # Prepend lead image if present, then add unique extras
                     lead = it["image"]
                     gallery: list[str] = []
                     if lead:
@@ -683,9 +768,8 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
 
 
 def fetch_all(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Fetch all sources in parallel and return aggregated items."""
     all_items: list[dict[str, Any]] = []
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=10) as pool:
         futures = {pool.submit(fetch_one, s): s["name"] for s in sources}
         for fut in as_completed(futures):
             try:
@@ -699,7 +783,6 @@ def fetch_all(sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
 # Filtering, dedup, sort
 # ─────────────────────────────────────────────────────────────────────────────
 def is_recent(published_iso: str, max_age_days: int = MAX_AGE_DAYS) -> bool:
-    """True if published is within the last `max_age_days` (or unknown)."""
     if not published_iso:
         return True
     try:
@@ -711,15 +794,12 @@ def is_recent(published_iso: str, max_age_days: int = MAX_AGE_DAYS) -> bool:
 
 
 def dedup(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Deduplicate by id (URL+title hash). When collisions occur, prefer the
-    item that has more images / a longer summary."""
     by_id: dict[str, dict[str, Any]] = {}
     for it in items:
         existing = by_id.get(it["id"])
         if existing is None:
             by_id[it["id"]] = it
             continue
-        # Prefer the one with more images, else longer summary
         if len(it.get("images", [])) > len(existing.get("images", [])):
             by_id[it["id"]] = it
         elif len(it.get("images", [])) == len(existing.get("images", [])) and \
@@ -729,7 +809,6 @@ def dedup(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def sort_newest_first(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Sort by published desc. Items without date go to the end."""
     def key(it: dict[str, Any]) -> tuple[int, str]:
         p = it.get("published", "")
         return (0 if p else 1, p or "")
@@ -740,12 +819,10 @@ def sort_newest_first(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 # Output
 # ─────────────────────────────────────────────────────────────────────────────
 def build_output(items: list[dict[str, Any]], kind: str) -> dict[str, Any]:
-    """Wrap the items list with metadata."""
     sources_used = sorted({it["source"] for it in items})
-    # Stats on multi-photo coverage
     multi_photo = sum(1 for it in items if len(it.get("images", [])) > 1)
     return {
-        "kind": kind,  # "bmw" or "auto"
+        "kind": kind,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "generated_at_human": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "total_items": len(items),
@@ -771,34 +848,37 @@ def write_json(path: Path, data: dict[str, Any]) -> None:
 def main() -> int:
     log.info("=" * 70)
     log.info("Automotive news parser — starting run")
-    log.info("Sources: %d total (%d with gallery scraping)",
-             len(SOURCES), sum(1 for s in SOURCES if s.get("scrape_gallery")))
+    log.info("Sources: %d total (%d BMW + %d auto, %d with gallery scraping)",
+             len(SOURCES),
+             sum(1 for s in SOURCES if s["category"] == "bmw"),
+             sum(1 for s in SOURCES if s["category"] == "auto"),
+             sum(1 for s in SOURCES if s.get("scrape_gallery")))
     log.info("=" * 70)
 
     repo_root = Path(__file__).resolve().parent
     data_dir = repo_root / "data"
 
-    # 1. Fetch
     raw = fetch_all(SOURCES)
     log.info("Total raw items fetched: %d", len(raw))
     if not raw:
         log.error("No items fetched from any source — aborting")
         return 1
 
-    # 2. Dedup
     deduped = dedup(raw)
     log.info("After dedup: %d items", len(deduped))
 
-    # 3. Recency filter (keep recent + unknown-date)
-    recent = [it for it in deduped if is_recent(it["published"])]
-    log.info("After recency filter (%dd): %d items", MAX_AGE_DAYS, len(recent))
+    # Recency filter: different windows for BMW vs auto.
+    # BMW-relevant items are rarer so we widen the window; auto items are
+    # plentiful so we keep the window tight to avoid stale news.
+    recent_bmw = [it for it in deduped if is_recent(it["published"], BMW_MAX_AGE_DAYS)]
+    recent_auto = [it for it in deduped if it["category"] != "bmw" and is_recent(it["published"], AUTO_MAX_AGE_DAYS)]
+    log.info("After recency filter: BMW-window(%dd)=%d, Auto-window(%dd)=%d",
+             BMW_MAX_AGE_DAYS, len(recent_bmw), AUTO_MAX_AGE_DAYS, len(recent_auto))
 
-    # 4. Split
-    bmw_items = [it for it in recent if it["is_bmw"]]
-    # Auto file = all automotive news EXCEPT pure BMW-specific items
-    auto_items = [it for it in recent if it["category"] != "bmw"]
+    bmw_items = [it for it in recent_bmw if it["is_bmw"]]
+    auto_items = recent_auto
+    log.info("Split: BMW=%d, Auto=%d", len(bmw_items), len(auto_items))
 
-    # 5. Prefer items with images, then sort by recency
     def image_first_key(it: dict[str, Any]) -> tuple[int, int, str]:
         n_imgs = len(it.get("images", []))
         has_img = 0 if n_imgs > 0 else 1
@@ -807,12 +887,9 @@ def main() -> int:
     bmw_items_sorted = sort_newest_first(sorted(bmw_items, key=image_first_key))
     auto_items_sorted = sort_newest_first(sorted(auto_items, key=image_first_key))
 
-    # 6. Trim to reasonable cap (top 200 / 250 — enough for downstream bots
-    #    to have choice while keeping the JSON file under ~400 KB)
-    bmw_items_sorted = bmw_items_sorted[:200]
-    auto_items_sorted = auto_items_sorted[:250]
+    bmw_items_sorted = bmw_items_sorted[:BMW_OUTPUT_CAP]
+    auto_items_sorted = auto_items_sorted[:AUTO_OUTPUT_CAP]
 
-    # 7. Drop helper fields that were internal-only
     def clean(it: dict[str, Any]) -> dict[str, Any]:
         return {
             "id": it["id"],
@@ -829,7 +906,6 @@ def main() -> int:
     bmw_clean = [clean(it) for it in bmw_items_sorted]
     auto_clean = [clean(it) for it in auto_items_sorted]
 
-    # 8. Write outputs
     write_json(data_dir / "bmw-news.json", build_output(bmw_clean, "bmw"))
     write_json(data_dir / "auto-news.json", build_output(auto_clean, "auto"))
 

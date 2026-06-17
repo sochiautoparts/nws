@@ -3,8 +3,8 @@
 Hourly automotive news aggregator that fetches BMW-specific and general automotive
 news from curated RSS sources and publishes them as two JSON files:
 
-- **`data/bmw-news.json`** — BMW-themed news (models, M-division, Neue Klasse, i-series, Motorrad, Alpina, …)
-- **`data/auto-news.json`** — General world automotive news (industry, EVs, classics, reviews, …)
+- **[`data/auto-news.json`](data/auto-news.json)** — General world automotive news (industry, EVs, classics, reviews, brand-specific tags)
+- **[`data/bmw-news.json`](data/bmw-news.json)** — BMW-themed news (models, M-division, Neue Klasse, i-series, Motorrad, Alpina, …)
 
 A GitHub Actions workflow runs `fetch_news.py` **every hour** (at `HH:05`) and
 commits the refreshed JSON files back to the repo.
@@ -14,7 +14,7 @@ commits the refreshed JSON files back to the repo.
 ## How it works
 
 ```
-RSS sources (61 feeds — 24 BMW + 37 general auto)
+RSS sources (192 feeds — 51 BMW + 141 general auto)
         │
         ▼
    fetch_news.py        ← feedparser + requests, parallel fetch
@@ -22,132 +22,88 @@ RSS sources (61 feeds — 24 BMW + 37 general auto)
         ├─► normalize items (title, summary, url, image, published)
         ├─► extract lead image (enclosure / media:content / media:thumbnail / <img>)
         ├─► ★ garbage-photo guard — drop items whose only image is a logo/icon/tracker
-        ├─► ★ multi-photo scrape — for top-tier sources, fetch article page
+        ├─► ★ multi-photo scrape — for 70+ gallery-enabled sources, fetch article page
         │                       and extract up to 5 additional gallery images
         ├─► dedup by id = sha256(url + title)
-        ├─► recency filter (≤ 7 days old)
+        ├─► recency filter:
+        │     • BMW items  → ≤ 90 days
+        │     • Auto items → ≤ 30 days
         ├─► classify: is_bmw_relevant() → STRONG kw OR ≥2 model-pattern matches
         │
         ▼
    ┌──────────────┐    ┌──────────────┐
    │ bmw-news.json│    │auto-news.json│
+   │  top 500     │    │  top 500     │
    └──────────────┘    └──────────────┘
 ```
 
-### Sources (61 hand-tested feeds — 2026-06)
+### Output size (typical run)
+
+| File | Items | Sources | Multi-photo items |
+|---|---:|---:|---:|
+| `bmw-news.json` | ~250 | ~45 | ~10 |
+| `auto-news.json` | ~500 (cap) | ~60 | ~90 |
+
+Each multi-photo item carries up to 6 distinct image URLs (lead first).
+
+---
+
+## Sources (192 hand-tested feeds — 2026-06)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
-enclosures, or `<img>` in summary). BMW-file output uses 24 BMW-specific feeds;
-auto-file output uses 37 general automotive feeds.
+enclosures, or `<img>` in summary). BMW-file output uses 51 BMW-specific feeds;
+auto-file output uses 141 general automotive feeds.
 
-**BMW-specific (24 feeds)**
-| Source | URL | Gallery? |
-|---|---|:---:|
-| BMW Blog (main) | `https://bmwblog.com/feed/` | |
-| BMW Blog M | `https://bmwblog.com/category/bmw-m/feed/` | |
-| BMW Blog i | `https://bmwblog.com/category/bmw-i/feed/` | |
-| BMW Blog X | `https://bmwblog.com/category/bmw-x/feed/` | |
-| BMW Blog 3 | `https://bmwblog.com/category/bmw-3-series/feed/` | |
-| BMW Blog 5 | `https://bmwblog.com/category/bmw-5-series/feed/` | |
-| BMW Blog M2 | `https://bmwblog.com/category/bmw-m2/feed/` | |
-| BMW Blog M3 | `https://bmwblog.com/category/bmw-m3/feed/` | |
-| BMW Blog M4 | `https://bmwblog.com/category/bmw-m4/feed/` | |
-| BMW Blog M5 | `https://bmwblog.com/category/bmw-m5/feed/` | |
-| BMW Blog M8 | `https://bmwblog.com/category/bmw-m8/feed/` | |
-| BMW Blog Concepts | `https://bmwblog.com/category/concepts/feed/` | |
-| BMW Blog Alpina tag | `https://bmwblog.com/tag/alpina/feed/` | |
-| BMW Blog Mini tag | `https://bmwblog.com/tag/mini/feed/` | |
-| BMW Blog X5 tag | `https://bmwblog.com/tag/x5/feed/` | |
-| BMW Blog X7 tag | `https://bmwblog.com/tag/x7/feed/` | |
-| BMW Blog XM tag | `https://bmwblog.com/tag/xm/feed/` | |
-| BimmerFile | `https://bimmerfile.com/feed/` | |
-| BimmerToday DE | `https://www.bimmertoday.de/feed/` | |
-| Car and Driver BMW | `https://www.caranddriver.com/rss/bmw.xml` | ✓ |
-| CarScoops BMW | `https://www.carscoops.com/tag/bmw/feed/` | ✓ |
-| Electrek BMW | `https://electrek.co/guides/bmw/feed/` | |
-| Autocar BMW | `https://www.autocar.co.uk/rss/bmw` | ✓ |
-| Motor1 BMW | `https://www.motor1.com/rss/articles/make/bmw/` | ✓ |
+### BMW-specific (51 feeds)
 
-**General automotive (37 feeds)**
-| Source | URL | Gallery? |
-|---|---|:---:|
-| CarScoops | `https://www.carscoops.com/feed/` | ✓ |
-| Car and Driver (all) | `https://www.caranddriver.com/rss/all.xml` | ✓ |
-| Car and Driver News | `https://www.caranddriver.com/rss/news.xml` | ✓ |
-| Car and Driver Reviews | `https://www.caranddriver.com/rss/reviews.xml` | ✓ |
-| Autocar | `https://www.autocar.co.uk/rss` | ✓ |
-| AutoExpress | `https://www.autoexpress.co.uk/rss` | ✓ |
-| CarExpert | `https://carexpert.com.au/feed/` | |
-| Jalopnik | `https://jalopnik.com/rss` | |
-| The Drive | `https://www.thedrive.com/feed` | |
-| Electrek | `https://electrek.co/feed/` | |
-| InsideEVs | `https://insideevs.com/feed/` | |
-| Motorious | `https://motorious.com/feed/` | |
-| GM Authority | `https://gmauthority.com/blog/feed/` | |
-| CarBuzz | `https://carbuzz.com/feed/` | ✓ |
-| **Motor1** | `https://www.motor1.com/rss/articles/all/` | ✓ |
-| **Motor1 News** | `https://www.motor1.com/rss/articles/category/news/` | ✓ |
-| **Motor1 Reviews** | `https://www.motor1.com/rss/articles/category/reviews/` | ✓ |
-| **Road & Track** | `https://www.roadandtrack.com/rss/all.xml` | ✓ |
-| **Road & Track News** | `https://www.roadandtrack.com/rss/news.xml` | ✓ |
-| **Road & Track Reviews** | `https://www.roadandtrack.com/rss/reviews.xml` | ✓ |
-| **HotCars** | `https://www.hotcars.com/feed/` | ✓ |
-| **TopSpeed** | `https://www.topspeed.com/feed/` | ✓ |
-| **AutoWeek News** | `https://www.autoweek.com/rss/news/` | ✓ |
-| **Hagerty Media** | `https://www.hagerty.com/media/feed/` | ✓ |
-| **BarnFinds** | `https://barnfinds.com/feed/` | ✓ |
-| **ClassicCars Journal** | `https://journal.classiccars.com/feed/` | ✓ |
-| **CarScoops Audi** | `https://www.carscoops.com/tag/audi/feed/` | ✓ |
-| **CarScoops Porsche** | `https://www.carscoops.com/tag/porsche/feed/` | ✓ |
-| **CarScoops Ferrari** | `https://www.carscoops.com/tag/ferrari/feed/` | ✓ |
-| **CarScoops Tesla** | `https://www.carscoops.com/tag/tesla/feed/` | ✓ |
-| **Car and Driver Toyota** | `https://www.caranddriver.com/rss/toyota.xml` | ✓ |
-| **Car and Driver Mercedes** | `https://www.caranddriver.com/rss/mercedes-benz.xml` | ✓ |
-| **Car and Driver Audi** | `https://www.caranddriver.com/rss/audi.xml` | ✓ |
-| **Car and Driver Porsche** | `https://www.caranddriver.com/rss/porsche.xml` | ✓ |
-| **Car and Driver Ferrari** | `https://www.caranddriver.com/rss/ferrari.xml` | ✓ |
-| **Car and Driver Lexus** | `https://www.caranddriver.com/rss/lexus.xml` | ✓ |
-| **Autocar Porsche** | `https://www.autocar.co.uk/rss/porsche` | ✓ |
+- **BMW Blog (39 sub-feeds)** — main + categories (3/5/1/4/6/Z4/M2-M8/i5/i7/X/X3/X6/Motorrad/concepts) + tags (Alpina, Mini, X1-X7, XM, iX1/iX3, i4/i5/i7, M3/M4/M5/M8, 7-series, Mini Cooper, Rolls-Royce)
+- **Other BMW sites (12)** — BimmerFile, BimmerToday DE, Car and Driver BMW, CarScoops BMW, Electrek BMW, Autocar BMW, Motor1 BMW
 
-Sources marked **★ Gallery** have `scrape_gallery: true` — the parser fetches
-the article page for the top 3 most recent items and extracts up to 5
-additional gallery photos (so each item ends up with up to 6 images total).
+### General automotive (141 feeds)
 
-### BMW classification
+- **Broad feeds (32)** — CarScoops, Car and Driver (all/News/Reviews), Autocar, AutoExpress, CarExpert, Jalopnik, The Drive, Electrek, InsideEVs, Motorious, GM Authority, CarBuzz, Motor1 (all/News/Reviews), Road & Track (all/News/Reviews), HotCars, TopSpeed, AutoWeek News, Hagerty Media, BarnFinds, ClassicCars Journal, Teslarati, Green Car Reports, AutoWise, Nissan News, 5koleso RU
+- **CarScoops brand tags (12)** — Audi, Porsche, Ferrari, Tesla, Mercedes, Lamborghini, McLaren, Bentley, Rolls, Bugatti, Aston, Corvette
+- **Car and Driver brand feeds (34)** — Toyota, Mercedes, Audi, Porsche, Ferrari, Lexus, Acura, Bentley, Bugatti, Chevrolet, Corvette, Ford, Honda, Hyundai, Lamborghini, Land Rover, Lincoln, Lotus, Mazda, McLaren, Mini, Mitsubishi, Nissan, Subaru, Volkswagen, Volvo, Genesis, Infiniti, Jeep, Ram, Cadillac, Buick, Chrysler, Dodge, GMC, Kia
+- **Autocar brand subfeeds (24)** — Porsche, Mercedes, Audi, Tesla, Toyota, Honda, Ford, VW, Hyundai, Kia, Mazda, Nissan, Renault, Peugeot, Land Rover, Jaguar, Lexus, Mini, Ferrari, Lamborghini, Bentley, Rolls, McLaren, Aston Martin
+- **Motor1 brand feeds (27)** — Mercedes, Audi, Porsche, Ferrari, Tesla, Lamborghini, McLaren, Bentley, Rolls-Royce, Bugatti, Aston Martin, Toyota, Honda, Ford, Chevrolet, Nissan, Mazda, Subaru, VW, Volvo, Mini, Hyundai, Kia, Lexus, Acura, Cadillac, Genesis
+- **Electrek brand guides (11)** — Tesla, Mercedes EQ, Audi e-tron, Porsche, Ford EV, Rivian, Lucid, Hyundai, Kia EV, GM, Chevrolet
 
-Two-tier matcher to avoid false positives like matching `"ix"` in `"six"`,
-`"x5"` in `"EX5"`, or `"ista"` in `"assistant"`:
+Sources marked **gallery-enabled** (70+ feeds) have `scrape_gallery: true` —
+the parser fetches the article page for the top 3 most recent items and
+extracts up to 5 additional gallery photos (so each item ends up with up to
+6 images total).
 
-1. **Tier 1 (strong)** — `bmw`, `bimmer`, `beemer`, `бмв`, `alpina`,
-   `neue klasse`, `bmw motorrad`, etc. — matched with `\b` word boundaries.
-2. **Tier 2 (model)** — `M3`, `X5`, `i7`, `G80`, `B58`, `xDrive`,
-   `Nürburgring`, `3 series`, etc. — matched with strict lookaround regexes
-   so they must be standalone tokens, NOT substrings of other words. Requires
-   **≥2 distinct** matches so a single coincidental hit isn't enough.
+---
 
-An item is BMW-relevant if Tier 1 matches OR Tier 2 has ≥2 distinct hits.
-
-### Garbage-photo guard
+## Garbage-photo guard
 
 Every extracted image URL is filtered through `is_garbage_image()` which rejects:
 
 | Category | Examples |
 |---|---|
-| Logos / icons | `/logo`, `/icons/`, `/favicon`, `/sprite`, `logo` in URL |
+| Logos / icons | `/logo`, `/icons/`, `/favicon`, `/sprite`, `foo-logo.png`, `_logo` |
 | Trackers / ad pixels | `doubleclick`, `google-analytics`, `facebook.com/tr`, `/pixel`, `/beacon` |
-| Avatars / author bylines | `/avatar`, `/authors/`, `gravatar`, `/profile-pic`, `/byline` |
+| Avatars / author bylines | `/avatar`, `/authors/`, `gravatar`, `/profile-pic`, `-avatar`, `-author` |
 | Placeholders / spacers | `placeholder`, `transparent`, `16x9-tr.png`, `default-image`, `no-image`, `/blank.` |
 | Tiny dimensions | `1x1`, `?w=1&h=1`, `-90x90.jpg`, `-32x32.png`, any `w`/`h` ≤ 32 |
 | Social media buttons | `/social/`, `twitter.com`, `instagram.com`, `youtube.com`, `facebook.com`, `tiktok.com` |
-| Theme / site chrome | `/themes/`, `/wp-content/themes/`, `/wp-content/plugins/`, `/wp-includes/` |
+| Theme / site chrome | `/wp-content/themes/`, `/wp-content/plugins/`, `/wp-includes/`, `/assets/images/`, `/assets/dist/`, `/dist/images/`, `/img/icons/`, `/img/social/`, `/img/logo` |
 | Shopping / affiliate | `amazon.com`, `shopify`, `/shop/`, `/store/` |
 | GIFs (almost always animated icons in feeds) | `.gif` |
 | Emoji | `emoji`, `/emoticons/` |
+| Site-specific placeholders | `default-electrek-related-guide` |
 
 If an item's only image is garbage, **the item is dropped entirely** —
 guaranteeing the JSON files only contain real content photos.
 
-### Multi-photo scraping
+**2026-06 fix:** the previous version used `/img/(?!uploads)` regex which
+false-positively matched real content photos at paths like
+`/img/gallery/article-name/l-intro-...jpg` (Jalopnik). That regex has been
+removed and replaced with more targeted chrome-only patterns.
+
+---
+
+## Multi-photo scraping
 
 For sources flagged `scrape_gallery: true`, the parser:
 
@@ -160,37 +116,38 @@ For sources flagged `scrape_gallery: true`, the parser:
 6. Caps at 6 total images per item (lead image first, then 5 extras)
 
 This means top-tier sources (Motor1, Road & Track, CarScoops, Car and Driver,
-HotCars, TopSpeed, Hagerty, etc.) provide rich multi-photo news items.
+HotCars, TopSpeed, Hagerty, CarBuzz, Autocar, AutoExpress, etc.) provide rich
+multi-photo news items.
 
-### Output JSON schema
+---
+
+## Output JSON schema
 
 ```jsonc
 {
   "kind": "bmw",                       // or "auto"
-  "generated_at": "2026-06-17T08:03:00+00:00",
-  "generated_at_human": "2026-06-17 08:03 UTC",
-  "total_items": 88,
+  "generated_at": "2026-06-17T17:38:00+00:00",
+  "generated_at_human": "2026-06-17 17:38 UTC",
+  "total_items": 248,
   "sources_used": ["BMW Blog", "BimmerFile", ...],
-  "sources_count": 21,
-  "multi_photo_items": 9,              // ★ NEW: count of items with >1 image
+  "sources_count": 45,
+  "multi_photo_items": 9,              // count of items with >1 image
   "items": [
     {
       "id": "a3f8c1d9...",             // sha256(url+title)[:16]
-      "title": "BMW's $580,000 V8 Shooting Brake Spied Undisguised",
+      "title": "Bovensiepen 05 GT driven: 790bhp successor to the Alpina B5",
       "summary": "Short excerpt (≤600 chars)...",
-      "url": "https://www.carscoops.com/2026/06/bmw-speedtop-production-spied/",
-      "image": "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-17-copy-1024x576.jpg",  // lead image (backwards-compat)
-      "images": [                      // ★ NEW: array of image URLs (lead first)
-        "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-17-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-616-4-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-616-5-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-616-6-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-616-7-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/.../BMW-Speedtop-616-8-2048x1366.jpg"
+      "url": "https://www.autocar.co.uk/...",
+      "image": "https://images.cdn.autocar.co.uk/.../bovensiepen-05-gt-29.jpg",  // lead image (backwards-compat)
+      "images": [                      // array of image URLs (lead first)
+        "https://images.cdn.autocar.co.uk/.../bovensiepen-05-gt-29.jpg",
+        "https://images.cdn.autocar.co.uk/.../bovensiepen-05-gt-28.jpg",
+        "https://images.cdn.autocar.co.uk/.../bovensiepen-05-gt-review-12.jpg",
+        ...                           // up to 6 entries
       ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-17T07:30:00+00:00"
+      "source": "Autocar BMW",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-15T10:30:00+00:00"
     }
   ]
 }
@@ -200,8 +157,8 @@ HotCars, TopSpeed, Hagerty, etc.) provide rich multi-photo news items.
 - `image` (string) — the lead image; kept for backwards compatibility with
   consumers that expect a single image.
 - `images` (array of strings) — list of all quality image URLs for this item,
-  lead image first. Always has ≥1 entry (items with no quality image are
-  dropped). Capped at 6 entries. Use this field for multi-photo UIs.
+  lead image first. Always has ≥1 entry for items with photos. Capped at 6
+  entries. Use this field for multi-photo UIs.
 
 ---
 
@@ -234,13 +191,18 @@ Defined at the top of `fetch_news.py`:
 | Constant | Default | Meaning |
 |---|---|---|
 | `HTTP_TIMEOUT` | `20` | Per-RSS-request timeout (seconds) |
-| `HTML_TIMEOUT` | `15` | Per-article-page timeout for gallery scraping |
-| `MAX_ITEMS_PER_FEED` | `30` | Cap per source so one noisy feed can't dominate |
-| `MAX_AGE_DAYS` | `7` | Items older than this are dropped (items with no date are kept) |
+| `HTML_TIMEOUT` | `12` | Per-article-page timeout for gallery scraping |
+| `MAX_ITEMS_PER_FEED` | `25` | Cap per source so one noisy feed can't dominate |
+| `BMW_MAX_AGE_DAYS` | `90` | BMW items older than this are dropped |
+| `AUTO_MAX_AGE_DAYS` | `30` | Auto items older than this are dropped |
 | `MAX_GALLERY_SCRAPE_PER_SOURCE` | `3` | How many article pages to fetch per gallery source |
 | `MAX_IMAGES_PER_ITEM` | `6` | Cap on the `images` array (incl. lead image) |
+| `BMW_OUTPUT_CAP` | `500` | Max items in bmw-news.json |
+| `AUTO_OUTPUT_CAP` | `500` | Max items in auto-news.json |
 
-Cap on output size: BMW file = top 200, Auto file = top 250.
+BMW file uses a wider 90-day recency window because BMW-relevant news is rarer
+than general auto news; Auto file uses a tighter 30-day window to keep content
+fresh.
 
 ---
 
