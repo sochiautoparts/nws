@@ -1,15 +1,13 @@
 {
   "kind": "auto",
-  "generated_at": "2026-06-17T17:42:03.178517+00:00",
-  "generated_at_human": "2026-06-17 17:42 UTC",
+  "generated_at": "2026-06-17T17:43:49.484623+00:00",
+  "generated_at_human": "2026-06-17 17:43 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek News",
     "BarnFinds",
-    "C&D Audi",
-    "C&D Toyota",
     "Car and Driver",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -20,6 +18,7 @@
     "CarScoops Audi",
     "CarScoops Bentley",
     "CarScoops Bugatti",
+    "CarScoops Corvette",
     "CarScoops Ferrari",
     "CarScoops Lamborghini",
     "CarScoops McLaren",
@@ -65,8 +64,8 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 81,
+  "sources_count": 59,
+  "multi_photo_items": 79,
   "items": [
     {
       "id": "bb19c97c5119eb43",
@@ -198,7 +197,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/5fa37162-e96f-452c-8fcb-3fa597e71ac8.jpeg?crop=0.580xw:0.877xh;0.122xw,0.0896xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/9aae3ab8-9aa8-4751-b155-14f296c04eed.jpg?crop=0.657xw:0.983xh;0.130xw,0&resize=360:*"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-17T17:09:00+00:00"
     },
@@ -531,7 +530,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/e5a5c314-c8d8-4813-a718-8a0351e3bc0a.jpg?crop=0.476xw:0.712xh;0.271xw,0.223xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/884ede50-98b1-4780-ab54-b1327ea1788e.jpeg?crop=0.667xw:1.00xh;0.0190xw,0&resize=360:*"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-17T16:02:00+00:00"
     },
@@ -704,7 +703,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/e5a5c314-c8d8-4813-a718-8a0351e3bc0a.jpg?crop=0.476xw:0.712xh;0.271xw,0.223xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/884ede50-98b1-4780-ab54-b1327ea1788e.jpeg?crop=0.667xw:1.00xh;0.0190xw,0&resize=360:*"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-17T15:40:00+00:00"
     },
@@ -1067,19 +1066,6 @@
       "published": "2026-06-17T14:25:12+00:00"
     },
     {
-      "id": "5d17ac9f76ce1d8f",
-      "title": "These Are The Cars With The Strongest Cult Followings",
-      "summary": "At what point does \"enthusiast\" become \"willing cult-member?\"",
-      "url": "https://www.jalopnik.com/2196106/cars-strongest-cult-followings-reader-answers/",
-      "image": "https://www.jalopnik.com/img/gallery/these-are-the-cars-with-the-strongest-cult-followings/l-intro-1781660862.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/these-are-the-cars-with-the-strongest-cult-followings/l-intro-1781660862.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-06-17T14:25:00+00:00"
-    },
-    {
       "id": "5e89e58a80b3121b",
       "title": "GM Said It Crushed Every 4.5L Duramax V8 Prototype. One Is in Sweden",
       "summary": "GM's 4.5L Duramax V8 could have rewritten truck history. At least one survived — despite what GM claimed. The post GM Said It Crushed Every 4.5L Duramax V8 Prototype. One Is in Sweden appeared first on The Drive .",
@@ -1090,6 +1076,19 @@
       ],
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
+      "published": "2026-06-17T14:25:00+00:00"
+    },
+    {
+      "id": "5d17ac9f76ce1d8f",
+      "title": "These Are The Cars With The Strongest Cult Followings",
+      "summary": "At what point does \"enthusiast\" become \"willing cult-member?\"",
+      "url": "https://www.jalopnik.com/2196106/cars-strongest-cult-followings-reader-answers/",
+      "image": "https://www.jalopnik.com/img/gallery/these-are-the-cars-with-the-strongest-cult-followings/l-intro-1781660862.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/these-are-the-cars-with-the-strongest-cult-followings/l-intro-1781660862.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
       "published": "2026-06-17T14:25:00+00:00"
     },
     {
@@ -1780,19 +1779,6 @@
       "published": "2026-06-17T12:00:00+00:00"
     },
     {
-      "id": "30d107fd6a9105cd",
-      "title": "2027 Porsche Taycan adds fake gear shifts so you can make your car slower",
-      "summary": "Porsche is updating its four-door electric sportscar for the 2027 model year, with a few consequential updates and one new optional feature that I still cannot fathom why anybody would want.",
-      "url": "https://electrek.co/2026/06/17/2027-porsche-taycan-adds-fake-gear-shifts-so-you-can-make-your-car-slower/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/m10.jpg?quality=82&#038;strip=all&#038;w=1499",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/06/m10.jpg?quality=82&#038;strip=all&#038;w=1499"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-06-17T12:00:00+00:00"
-    },
-    {
       "id": "f5ad028a34e5010c",
       "title": "2027 Porsche Taycan Gets Simulated Shifts Because The Hyundai Ioniq 5 N Was So Impressive",
       "summary": "The new (and optional) E-Shift system has 8 gears selected by steering wheel paddles, and it simulates engine braking and has a rev limiter.",
@@ -1806,6 +1792,19 @@
       "published": "2026-06-17T12:00:00+00:00"
     },
     {
+      "id": "30d107fd6a9105cd",
+      "title": "2027 Porsche Taycan adds fake gear shifts so you can make your car slower",
+      "summary": "Porsche is updating its four-door electric sportscar for the 2027 model year, with a few consequential updates and one new optional feature that I still cannot fathom why anybody would want.",
+      "url": "https://electrek.co/2026/06/17/2027-porsche-taycan-adds-fake-gear-shifts-so-you-can-make-your-car-slower/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/m10.jpg?quality=82&#038;strip=all&#038;w=1499",
+      "images": [
+        "https://electrek.co/wp-content/uploads/sites/3/2026/06/m10.jpg?quality=82&#038;strip=all&#038;w=1499"
+      ],
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-17T12:00:00+00:00"
+    },
+    {
       "id": "b7223abc2f2cf2ed",
       "title": "2027 Porsche Taycan Adds Simulated Shifts Across the Lineup",
       "summary": "A bigger battery is now standard in lower-end models, too.",
@@ -1814,7 +1813,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/9aae3ab8-9aa8-4751-b155-14f296c04eed.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-17T12:00:00+00:00"
     },
@@ -2834,14 +2833,9 @@
       "url": "https://www.caranddriver.com/toyota/c-hr-2027",
       "image": "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/05e2fc58-ab28-42a7-a1f3-c16c42862a26.jpg?crop=0.575xw:0.486xh;0.170xw",
-        "https://hips.hearstapps.com/hmg-prod/images/f570a798-b868-4de6-bb00-a8aa02647adb.jpg?crop=1.00xw:0.845xh;0",
-        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/2027-chevrolet-bolt-107-68e7d4d0ec0cb.jpg?crop=0.575xw:0.483xh;0.205xw,0.376xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-nissan-leaf-114-68c2d5371c728.jpg?crop=0.833xw:0.702xh;0.0732xw,0.217xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg"
       ],
-      "source": "C&D Toyota",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-16T20:44:00+00:00"
     },
@@ -2852,14 +2846,9 @@
       "url": "https://www.caranddriver.com/toyota/c-hr",
       "image": "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/05e2fc58-ab28-42a7-a1f3-c16c42862a26.jpg?crop=0.578xw:0.488xh;0.169xw",
-        "https://hips.hearstapps.com/hmg-prod/images/f570a798-b868-4de6-bb00-a8aa02647adb.jpg?crop=1.00xw:0.845xh;0",
-        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/2027-chevrolet-bolt-107-68e7d4d0ec0cb.jpg?crop=0.575xw:0.483xh;0.205xw,0.376xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-nissan-leaf-114-68c2d5371c728.jpg?crop=0.833xw:0.702xh;0.0732xw,0.217xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg"
       ],
-      "source": "C&D Toyota",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-16T20:38:00+00:00"
     },
@@ -2896,7 +2885,12 @@
       "url": "https://www.carscoops.com/2026/06/bentley-bespoke-series-2026/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Bespoke-Series-by-Mulliner-1-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Bespoke-Series-by-Mulliner-1-copy-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bespoke-Series-by-Mulliner-1-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bentley-Bespoke-Series-2026-616-1-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bentley-Bespoke-Series-2026-616-2-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bentley-Bespoke-Series-2026-616-5-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bentley-Bespoke-Series-2026-616-3-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bentley-Bespoke-Series-2026-616-4-2048x1152.jpg"
       ],
       "source": "CarScoops Bentley",
       "source_url": "https://www.carscoops.com",
@@ -2924,7 +2918,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e5a5c314-c8d8-4813-a718-8a0351e3bc0a.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T20:17:00+00:00"
     },
@@ -3013,7 +3007,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/884ede50-98b1-4780-ab54-b1327ea1788e.jpeg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T19:34:00+00:00"
     },
@@ -3122,7 +3116,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/f6869791-6e09-43a8-bf1b-e84972df10d1.jpeg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T18:46:00+00:00"
     },
@@ -3133,14 +3127,9 @@
       "url": "https://www.caranddriver.com/audi/a6-allroad-2028",
       "image": "https://hips.hearstapps.com/hmg-prod/images/2df76265-9f3d-49b2-9f6c-ce64930b49d0.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/2df76265-9f3d-49b2-9f6c-ce64930b49d0.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/48cefea9-614e-4270-bd57-c0f6aff7381a.jpg?crop=1.00xw:0.751xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/b758f655-1cf2-4a44-bd4d-d358704474a1.jpg?crop=0.557xw:0.417xh;0.194xw",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-e450-all-terrain-246-68e680588b734.jpg?crop=0.764xw:0.644xh;0.177xw,0.276xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-amg-e53-wagon-102-694413463f2f6.jpg?crop=1.00xw:0.847xh;0,0.0925xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-audi-rs6-avant-performance-109-692f1db9029cf.jpg?crop=0.857xw:0.725xh;0.0617xw,0.117xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2df76265-9f3d-49b2-9f6c-ce64930b49d0.jpg"
       ],
-      "source": "C&D Audi",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-16T18:43:00+00:00"
     },
@@ -3473,7 +3462,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/153a6a5e-11ff-405e-997c-721aaee74544.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T16:20:00+00:00"
     },
@@ -3512,7 +3501,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/332fc18d-f31e-4603-90f4-66a9fbec31ba.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T16:03:00+00:00"
     },
@@ -3543,19 +3532,6 @@
       "published": "2026-06-16T16:00:00+00:00"
     },
     {
-      "id": "b7cb0ae6c82b2962",
-      "title": "See the 2027 Audi A6 Allroad From Every Angle",
-      "summary": "Go-almost-anywhere capability, now paired with RS6 Avant-style looks.",
-      "url": "https://www.roadandtrack.com/photos/g71601699/photos-2027-audi-a6-allroad/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/67b9a0ca-fd40-4c7c-aadd-667859f5ed1b.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/67b9a0ca-fd40-4c7c-aadd-667859f5ed1b.jpg"
-      ],
-      "source": "Road & Track",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-16T16:00:00+00:00"
-    },
-    {
       "id": "28e442d1f18e4198",
       "title": "When Did These Brands Introduce Quad Headlamps?",
       "summary": "Think ya know your cars? Prove it!",
@@ -3566,6 +3542,19 @@
       ],
       "source": "ClassicCars Journal",
       "source_url": "https://journal.classiccars.com",
+      "published": "2026-06-16T16:00:00+00:00"
+    },
+    {
+      "id": "b7cb0ae6c82b2962",
+      "title": "See the 2027 Audi A6 Allroad From Every Angle",
+      "summary": "Go-almost-anywhere capability, now paired with RS6 Avant-style looks.",
+      "url": "https://www.roadandtrack.com/photos/g71601699/photos-2027-audi-a6-allroad/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/67b9a0ca-fd40-4c7c-aadd-667859f5ed1b.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/67b9a0ca-fd40-4c7c-aadd-667859f5ed1b.jpg"
+      ],
+      "source": "Road & Track",
+      "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T16:00:00+00:00"
     },
     {
@@ -3588,7 +3577,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/robotaxi-87-6708a34fcb4a9.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T15:37:00+00:00"
     },
@@ -3780,7 +3769,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/b6737b44-bcfe-4332-8757-1bbd5f0729cc.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T15:00:00+00:00"
     },
@@ -3806,7 +3795,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/118d1c10-4434-419d-b2b3-744c56492442.jpeg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-16T14:45:00+00:00"
     },
@@ -4495,7 +4484,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/fc7fd44a-6f60-415e-b10a-5c9a30d407a9.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T22:01:00+00:00"
     },
@@ -4612,7 +4601,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/35cb38d0-8b4f-4af2-8c8c-53eee1b0a126.jpeg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T20:04:00+00:00"
     },
@@ -4882,7 +4871,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/61a87f29-f150-4372-8e45-9a32088885c6.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T15:51:00+00:00"
     },
@@ -4895,7 +4884,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/3773c0c8-04d2-4c20-96d3-e28e60e86463.jpg"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T15:40:00+00:00"
     },
@@ -4921,7 +4910,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/0fb8fa61-f931-4574-80f9-231aac46a74b.png"
       ],
-      "source": "Road & Track News",
+      "source": "Road & Track",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T15:28:00+00:00"
     },
@@ -5840,37 +5829,6 @@
       "published": "2026-06-11T15:00:00+00:00"
     },
     {
-      "id": "0d34bf66c0421aa2",
-      "title": "2027 Toyota bZ",
-      "summary": "Review, Pricing, and Specs",
-      "url": "https://www.caranddriver.com/toyota/bz-2027",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/893f4c1a-b9ea-4b99-af8a-37239f19d563.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/893f4c1a-b9ea-4b99-af8a-37239f19d563.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/19fa2b84-f6ca-42fd-a177-f91160dac393.jpg?crop=1.00xw:0.845xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/f398df5f-9396-4453-a77b-43a53e5a8037.jpg?crop=1.00xw:0.845xh;0",
-        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-hyundai-ioniq-5-n-103-68a6149fb6084.jpg?crop=0.670xw:0.567xh;0.313xw,0.243xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-hyundai-ioniq5-xrt-961-67ed60da7ecbd.jpg?crop=0.710xw:0.601xh;0.218xw,0.334xh&resize=700:*"
-      ],
-      "source": "C&D Toyota",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-11T14:55:00+00:00"
-    },
-    {
-      "id": "57681336a57e641d",
-      "title": "2026 Toyota bZ",
-      "summary": "Review, Pricing, and Specs",
-      "url": "https://www.caranddriver.com/toyota/bz",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/4d27093a-7de8-4308-9ed2-6c53558844b6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/4d27093a-7de8-4308-9ed2-6c53558844b6.jpg"
-      ],
-      "source": "C&D Toyota",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-11T14:41:00+00:00"
-    },
-    {
       "id": "7ea1344a087ce468",
       "title": "2026 Polestar 4 Dual Motor Test: Camera Obscura",
       "summary": "The Polestar 4 is a forward-looking vehicle, in part because there's no rear glass.",
@@ -5884,6 +5842,19 @@
       "published": "2026-06-11T14:35:00+00:00"
     },
     {
+      "id": "6700f8e511a99716",
+      "title": "The Next C9 Corvette Will Be Designed With The Help Of AI, But This Isn’t It",
+      "summary": "Using artificial intelligence will allow GM to speed up the design and development of future models",
+      "url": "https://www.carscoops.com/2026/06/chevrolet-c9-corvette-ai-design/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Chevrolet-CX-concept-design-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Chevrolet-CX-concept-design-1024x576.jpg"
+      ],
+      "source": "CarScoops Corvette",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-11T13:20:00+00:00"
+    },
+    {
       "id": "6a154e1833a2decc",
       "title": "The Cars Americans Drive The Most—And The Least",
       "summary": "Family vehicles like the Chrysler Pacifica, Toyota Sequoia, and Chevrolet Suburban top the most-driven list.",
@@ -5892,7 +5863,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/MkgElE/s3/c8-chevrolet-corvette.jpg"
       ],
-      "source": "Motor1 Ford",
+      "source": "Motor1 Chevrolet",
       "source_url": "https://www.motor1.com",
       "published": "2026-06-11T13:00:00+00:00"
     },
@@ -5903,12 +5874,7 @@
       "url": "https://www.motor1.com/news/798432/2027-ford-explorer-st-sinister-package/",
       "image": "https://cdn.motor1.com/images/mgl/y2lWjo/s3/2027-ford-explorer-st-sinister-package.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/y2lWjo/s3/2027-ford-explorer-st-sinister-package.jpg",
-        "https://cdn.motor1.com/images/mgl/JONEeM/s5/2027-ford-explorer-st-sinister-package.jpg",
-        "https://cdn.motor1.com/images/mgl/rKJ9Qr/s5/2027-ford-explorer-st-sinister-package.jpg",
-        "https://cdn.motor1.com/images/mgl/Qe7VE9/s5/2027-ford-explorer-st-sinister-package.jpg",
-        "https://cdn.motor1.com/images/mgl/eo7AxV/s5/2027-ford-explorer-st-sinister-package.jpg",
-        "https://cdn.motor1.com/images/mgl/qkYPNJ/s5/2027-ford-explorer-st-sinister-package.jpg"
+        "https://cdn.motor1.com/images/mgl/y2lWjo/s3/2027-ford-explorer-st-sinister-package.jpg"
       ],
       "source": "Motor1 Ford",
       "source_url": "https://www.motor1.com",
@@ -5957,7 +5923,12 @@
       "url": "https://www.carscoops.com/2026/06/mclaren-765lt-spider-fire-salvage/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-765LT-Spider-Copart-4aa-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-765LT-Spider-Copart-4aa-copy-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-765LT-Spider-Copart-4aa-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-765LT-Spider-Copart-6aa-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/IZGqY-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Tesla-Driver-Monitoring-Head-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2008_dodge_charger_IMG_9487-11572-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2020_Toyota_Camry_XLE_Hybrid_19_F3D95E2DC2D4687A58789B6817837A24D374C4B8-copy-2048x1152.jpg"
       ],
       "source": "CarScoops McLaren",
       "source_url": "https://www.carscoops.com",
@@ -6245,7 +6216,12 @@
       "url": "https://www.carscoops.com/2026/06/mclaren-p1-body-panels-auction/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-P1-Body-Panels-For-Sale-1aaa-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-P1-Body-Panels-For-Sale-1aaa-copy-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/McLaren-P1-Body-Panels-For-Sale-1aaa-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/ICON_C10_Drvr_F34_Dirt_DSC06024-copy-1-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/czinger_21c_002aaa-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/IZGqY-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/50779-premedia-26c0060-011-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/00000025-10888-scaled-copy-2048x1152.jpg"
       ],
       "source": "CarScoops McLaren",
       "source_url": "https://www.carscoops.com",
@@ -6359,19 +6335,6 @@
       "source": "Motor1 Ford",
       "source_url": "https://www.motor1.com",
       "published": "2026-06-09T20:00:00+00:00"
-    },
-    {
-      "id": "2ea1e2705b18b19c",
-      "title": "2027 Toyota GR86",
-      "summary": "Review, Pricing, and Specs",
-      "url": "https://www.caranddriver.com/toyota/gr86-2027",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-toyota-gr86-5-1629156035.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/2022-toyota-gr86-5-1629156035.jpg"
-      ],
-      "source": "C&D Toyota",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-09T17:21:00+00:00"
     },
     {
       "id": "e491e2a91f666791",
@@ -6525,24 +6488,6 @@
       "source": "AutoWeek News",
       "source_url": "https://www.autoweek.com",
       "published": "2026-06-09T13:00:00+00:00"
-    },
-    {
-      "id": "5f0b644ea4b4d625",
-      "title": "2027 Audi SQ7",
-      "summary": "What We Know So Far",
-      "url": "https://www.caranddriver.com/audi/sq7-2027",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d40b11c1-3823-4a10-a5d0-2b53e782aa4d.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d40b11c1-3823-4a10-a5d0-2b53e782aa4d.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/fb14be01-5b55-4c12-ab5f-df2956b3931b.jpg?crop=0.362xw:0.271xh;0.296xw",
-        "https://hips.hearstapps.com/hmg-prod/images/ff8f014f-1ca9-4f86-93ac-4e86c773e332.jpg?crop=1.00xw:0.564xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-cayenne-gts-153-6671d38fbe4b9.jpg?crop=0.623xw:0.526xh;0.200xw,0.305xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2024-porsche-cayenne-turbo-e-hybrid-119-652e9b3ba9149.jpg?crop=0.833xw:0.704xh;0.0529xw,0.180xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2024-audi-sq8-pr-101-690382d75615a.jpg?crop=0.639xw:0.538xh;0.168xw,0.267xh&resize=700:*"
-      ],
-      "source": "C&D Audi",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-09T12:01:00+00:00"
     },
     {
       "id": "39d23ef5c18cef40",
@@ -6790,6 +6735,19 @@
       "published": "2026-06-08T12:11:00+00:00"
     },
     {
+      "id": "d34ce9e8a6d257c2",
+      "title": "You’ll Have To Pay Extra For Center Exhausts On The 2027 Corvette Grand Sport",
+      "summary": "Tick the right boxes and the new Grand Sport wears the Z06's carbon aero kit, splitter, canards, and a towering rear wing",
+      "url": "https://www.carscoops.com/2026/06/corvette-grand-sport-configurator/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Chevrolet-Corvette-Grand-Sport-Configurator-aaa-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Chevrolet-Corvette-Grand-Sport-Configurator-aaa-1024x576.jpg"
+      ],
+      "source": "CarScoops Corvette",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T12:03:06+00:00"
+    },
+    {
       "id": "f3ddf79042c05de1",
       "title": "Listen To Audi's New Supercar Race Around Monaco",
       "summary": "Tired of the modern car's busy design? Audi has a cure.",
@@ -6936,6 +6894,37 @@
       "source": "Motor1 Honda",
       "source_url": "https://www.motor1.com",
       "published": "2026-06-05T21:00:00+00:00"
+    },
+    {
+      "id": "d7193e16ecf3ba0b",
+      "title": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
+      "summary": "Tesla has pushed the planned public demo of its next-generation Roadster to August or later, according to a report from The Information citing four people with knowledge of the program. It marks yet another delay for the vehicle first unveiled as a prototype nearly nine years ago. The demo, expected to take place in Texas, is meant to showcase the SpaceX cold gas thruster system that Tesla claims will allow the Roadster to achieve extreme acceleration and even lift off the ground.",
+      "url": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Roadster-hovering.png?w=1600",
+      "images": [
+        "https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Roadster-hovering.png?w=1600"
+      ],
+      "source": "Electrek Tesla",
+      "source_url": "https://electrek.co",
+      "published": "2026-06-05T19:51:00+00:00"
+    },
+    {
+      "id": "6214bd49d2b908d6",
+      "title": "For $558, You Can Smell Like A Lambo Since You’ll Never Park One",
+      "summary": "The supercar maker now sells perfumes, and the cheapest bottle costs more than most people spend on a designer fragrance",
+      "url": "https://www.carscoops.com/2026/06/lamborghini-xerjoff-fragrances/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-1aa-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-1aa-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-4-2048x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-5-2048x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-6-2048x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-2-2048x1335.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Lamborghini-Fragrance-1-2048x1335.jpg"
+      ],
+      "source": "CarScoops Lamborghini",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-05T18:19:00+00:00"
     }
   ]
 }
