@@ -1,11 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-17T21:20:29.154174+00:00",
-  "generated_at_human": "2026-06-17 21:20 UTC",
-  "total_items": 258,
+  "generated_at": "2026-06-17T23:48:30.957952+00:00",
+  "generated_at_human": "2026-06-17 23:48 UTC",
+  "total_items": 256,
   "sources_used": [
     "AutoExpress",
-    "Autocar BMW",
+    "Autocar",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -36,7 +36,6 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -44,18 +43,36 @@
     "CarScoops Rolls",
     "Electrek BMW",
     "Hagerty Media",
+    "HotCars",
     "InsideEVs",
     "Motor1 BMW",
-    "Motor1 Mazda",
     "Motor1 Mini",
+    "Motor1 Subaru",
     "Motor1 Volvo",
     "Road & Track News",
-    "Road & Track Reviews",
     "The Drive"
   ],
-  "sources_count": 48,
-  "multi_photo_items": 12,
+  "sources_count": 47,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "9c9abbe592444f6e",
+      "title": "BMW's Hand-Built Wagon American Buyers Never Got",
+      "summary": "BMW finally sells an M5 wagon in America, but a rare hand-built version started the story decades earlier.",
+      "url": "https://www.hotcars.com/bmw-hand-built-wagon-america-missed/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-106-40526.jpeg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-106-40526.jpeg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/2025-bmw-m5-touring-25.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/11/bmw-m5-generations-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-195-40897.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/1993-bmw-m5-touring.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/03/bmw-m5-touring-e34-di-02.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-06-17T23:00:17+00:00"
+    },
     {
       "id": "2f34f9e8ddba444c",
       "title": "BMW will open i3 orders this week, months ahead of schedule, as demand takes off",
@@ -81,19 +98,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-17T19:27:27+00:00"
-    },
-    {
-      "id": "0e4d295bec1b6ad5",
-      "title": "Jaguar Warrant Covers Is The One Area Where It Beats BMW",
-      "summary": "Jaguar may be in a transitional phase, but it does offer better peace of mind than rivals - at least, on paper.",
-      "url": "https://carbuzz.com/jaguar-warranty-overview-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/jaguar-xe-main.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/jaguar-xe-main.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-06-17T18:54:20+00:00"
     },
     {
       "id": "48627b13d317b943",
@@ -161,7 +165,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-review-13.jpg?itok=cnvDic4I",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-review-15.jpg?itok=Im2ZtrSe"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
     },
@@ -366,7 +370,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-zagato-review-32.jpg?itok=wuBsFiLB"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T16:25:00+00:00"
     },
@@ -455,12 +459,7 @@
       "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-01-1639x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-10-1639x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-13-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-06-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-07-1366x2048.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
       ],
       "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
@@ -493,7 +492,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-awards-2026.jpg?itok=iaJugcY5"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T05:00:00+00:00"
     },
@@ -711,7 +710,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-reveiw-2026-63.jpg?itok=Cetv5uKk"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-15T12:00:44+00:00"
     },
@@ -724,27 +723,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-x5-reveiw-2026-30.jpg?itok=j0bP3PGh"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-15T12:00:21+00:00"
-    },
-    {
-      "id": "036177e7352b9920",
-      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
-      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
-      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
-        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
-        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
-      ],
-      "source": "Road & Track Reviews",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-15T12:00:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -1823,7 +1804,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -1945,19 +1926,6 @@
       "published": "2026-05-26T18:21:33+00:00"
     },
     {
-      "id": "52a96224feb9ef6c",
-      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
-      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
-      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
-      ],
-      "source": "Road & Track Reviews",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-05-26T17:06:00+00:00"
-    },
-    {
       "id": "e9dbe0abaf477b35",
       "title": "BMW’s Gorgeous V8 Two-Door Wagon Caught High-Speed Testing",
       "summary": "People have mixed feelings about BMW’s design language of the early 2020s. Nevertheless, many seem to agree the Speedtop is among the company’s best work in recent years. It’s already been a year since the... First published by https://www.bmwblog.com",
@@ -1979,7 +1947,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3401,7 +3369,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Mazda",
+      "source": "Motor1 Subaru",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
