@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-17T17:38:44.832329+00:00",
-  "generated_at_human": "2026-06-17 17:38 UTC",
-  "total_items": 248,
+  "generated_at": "2026-06-17T17:42:03.174377+00:00",
+  "generated_at_human": "2026-06-17 17:42 UTC",
+  "total_items": 261,
   "sources_used": [
     "AutoExpress",
     "Autocar BMW",
@@ -33,6 +33,9 @@
     "BMW Blog iX3 tag",
     "BimmerFile",
     "BimmerToday DE",
+    "Car and Driver BMW",
+    "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
@@ -47,11 +50,13 @@
     "Motor1 Mazda",
     "Motor1 Mini",
     "Motor1 Volvo",
-    "Road & Track",
+    "Road & Track News",
+    "Road & Track Reviews",
+    "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 45,
-  "multi_photo_items": 9,
+  "sources_count": 50,
+  "multi_photo_items": 12,
   "items": [
     {
       "id": "48984bc29206f2c5",
@@ -171,7 +176,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-15-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-17T10:21:53+00:00"
     },
@@ -340,6 +345,19 @@
       "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T16:25:00+00:00"
+    },
+    {
+      "id": "5b3881783ed01450",
+      "title": "2026 Genesis GV80 Coupe Quick Review: Beats the Germans, but Not Around Corners",
+      "summary": "As the brand's flagship SUV, the Genesis GV80 offers a swankier and more refined package than BMW or Mercedes, but there's one area where those Germans still shine. The post 2026 Genesis GV80 Coupe Quick Review: Beats the Germans, but Not Around Corners appeared first on The Drive .",
+      "url": "https://www.thedrive.com/car-reviews/2026-genesis-gv80-coupe-quick-review",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6386.jpeg?quality=85",
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6386.jpeg?quality=85"
+      ],
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-06-16T14:36:56+00:00"
     },
     {
       "id": "9ad78cb9a0d45098",
@@ -513,6 +531,19 @@
       "published": "2026-06-15T21:15:15+00:00"
     },
     {
+      "id": "7a1e2a6a9a3086dd",
+      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
+      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
+      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T19:49:00+00:00"
+    },
+    {
       "id": "008d2e899c4f29d6",
       "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
       "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
@@ -524,6 +555,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-15T17:53:27+00:00"
+    },
+    {
+      "id": "aaa768725b8981cd",
+      "title": "These Vehicles Are Dead for 2027",
+      "summary": "Pour one out for greats like the BMW Z4, Lexus LC, Toyota GR Supra, and more.",
+      "url": "https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T17:00:00+00:00"
     },
     {
       "id": "8d9f5ecec57c2bae",
@@ -547,7 +591,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/3773c0c8-04d2-4c20-96d3-e28e60e86463.jpg"
       ],
-      "source": "Road & Track",
+      "source": "Road & Track News",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-15T15:40:00+00:00"
     },
@@ -687,6 +731,24 @@
       "published": "2026-06-15T12:00:21+00:00"
     },
     {
+      "id": "036177e7352b9920",
+      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
+      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
+      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
+        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
+        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-15T12:00:00+00:00"
+    },
+    {
       "id": "57ded44a7b2eb04f",
       "title": "Ex-BMW Designer Makes The M5 Touring Look More Elegant",
       "summary": "The Frank Stephenson-styled super wagon is far more expensive than the regular car.",
@@ -752,6 +814,19 @@
       "published": "2026-06-14T19:30:42+00:00"
     },
     {
+      "id": "7cc324d233390420",
+      "title": "Toyota Returns to the Top, Wins the 24 Hours of Le Mans, Ends Ferrari’s Dominance",
+      "summary": "Toyota and BMW take the podium at Le Mans as Ferrari's streak ends",
+      "url": "https://www.roadandtrack.com/news/a71581389/toyota-wins-24-hours-le-mans-win-ending-ferraris-dominance/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/135e63dc-b443-47b1-8313-f3926205bc73.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/135e63dc-b443-47b1-8313-f3926205bc73.jpeg"
+      ],
+      "source": "Road & Track News",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-14T14:32:00+00:00"
+    },
+    {
       "id": "f81a8a85beec1c5f",
       "title": "24h Le Mans 2026: Nach 24 Stunden fehlen BMW 11 Sekunden zum Triumph",
       "summary": "Erstmals seit dem Triumph von 1999 konnte BMW Motorsport bis zum Schluss um den Gesamtsieg in Le Mans kämpfen. Auch wenn es am Ende nicht...",
@@ -791,6 +866,19 @@
       "published": "2026-06-14T09:59:00+00:00"
     },
     {
+      "id": "681e2edd06e02e77",
+      "title": "BMW Seizes Control of Le Mans After Cadillac Penalty",
+      "summary": "Here's what you missed overnight at the 24 Hours of Le Mans.",
+      "url": "https://www.roadandtrack.com/news/a71580622/bmw-seizes-control-of-le-mans-after-cadillac-penalty/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ee5ed5f3-c964-4590-9535-dd807d857d7f.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ee5ed5f3-c964-4590-9535-dd807d857d7f.jpeg"
+      ],
+      "source": "Road & Track News",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-14T07:58:00+00:00"
+    },
+    {
       "id": "4d6dc379f9411c75",
       "title": "BMW’s Electric M3 Has Shift Paddles, And They’re Not A Gimmick",
       "summary": "It’s safe to say that BMW’s M Concept Neue Klasse is an electric M3 in all but name. This weekend, company higher-ups revealed that the production-ready car debuting next year will closely echo the concept.... First published by https://www.bmwblog.com",
@@ -815,6 +903,19 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-13T16:50:40+00:00"
+    },
+    {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
     },
     {
       "id": "7289a986e074099a",
@@ -926,6 +1027,24 @@
       "published": "2026-06-12T16:01:26+00:00"
     },
     {
+      "id": "584be7cad072a8e2",
+      "title": "2028 BMW iM3",
+      "summary": "What We Know So Far",
+      "url": "https://www.caranddriver.com/bmw/im3",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/0e0618e0-2efe-4930-bdb9-4786007f54c5.jpg?crop=0.889xw:0.750xh;0.104xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2a021208-3cd2-4e83-b990-83b94f50cd9f.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-x5-m-competition-lightning-lap-103-65cf7f33d7108.jpg?crop=0.644xw:0.542xh;0.240xw,0.362xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/95e6eaed-83cb-4495-83a4-87d8ea332497.jpg?crop=0.712xw:0.710xh;0.0817xw,0.179xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-2-series-gran-coupe-143-670eb6c2ab24e.jpg?crop=0.803xw:0.678xh;0.103xw,0.132xh&resize=700:*"
+      ],
+      "source": "Car and Driver BMW",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T15:12:00+00:00"
+    },
+    {
       "id": "76c82a51c642dd75",
       "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
       "summary": "BMW unveiled the M Concept Neue Klasse on Friday, offering a sneak peek at the all-electric quad-motor i3 M EV.",
@@ -976,6 +1095,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-12T13:00:05+00:00"
+    },
+    {
+      "id": "3cc6147b31c94b8c",
+      "title": "BMW Hints at Upcoming Electric M3 with Eye-Catching Concept",
+      "summary": "The concept wears far more aggressive styling than the standard i3, with wide fenders, deep air intakes carved into the front bumper, and yellow headlights.",
+      "url": "https://www.caranddriver.com/news/a71563004/bmw-concept-m-neue-klasse-revealed/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/de11ffaf-3dd1-4fd0-9f41-fdf53e1d3139.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T13:00:00+00:00"
     },
     {
       "id": "00247999e59e9218",
@@ -1477,19 +1609,6 @@
       "published": "2026-06-02T23:26:57+00:00"
     },
     {
-      "id": "9b7eb40ff86d9aa6",
-      "title": "The BMW M2 Gets Quicker With A New Trim",
-      "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
-      "url": "https://www.motor1.com/news/797612/2027-bmw-m2-xdrive-specs-price-horsepower/",
-      "image": "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-02T22:01:00+00:00"
-    },
-    {
       "id": "994be73ff06c5ec3",
       "title": "2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only",
       "summary": "BMW has officially confirmed the 2027 M2 with M xDrive, the first all-wheel-drive variant in the model’s history. It arrives in late summer 2026... The post 2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only appeared first on BimmerFile .",
@@ -1500,6 +1619,19 @@
       ],
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
+      "published": "2026-06-02T22:01:00+00:00"
+    },
+    {
+      "id": "9b7eb40ff86d9aa6",
+      "title": "The BMW M2 Gets Quicker With A New Trim",
+      "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
+      "url": "https://www.motor1.com/news/797612/2027-bmw-m2-xdrive-specs-price-horsepower/",
+      "image": "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
       "published": "2026-06-02T22:01:00+00:00"
     },
     {
@@ -1527,6 +1659,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-02T17:41:02+00:00"
+    },
+    {
+      "id": "a2b21f664e4d7b04",
+      "title": "1993 BMW 525i Touring Tested: BMW's First Wagon in America",
+      "summary": "From the archive: Handy for heists, Willie would've loved it.",
+      "url": "https://www.caranddriver.com/reviews/a71431519/1993-bmw-525i-touring-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-02T13:43:00+00:00"
     },
     {
       "id": "5a160d50249e9df1",
@@ -1592,6 +1737,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-30T18:10:08+00:00"
+    },
+    {
+      "id": "005ca87b561df1b2",
+      "title": "2001 Topless Toys Comparo: Can Chevy Keep Up With the Germans?",
+      "summary": "Four ideal vehicles in which to find one's inner child: BMW M Roadster, Chevrolet Corvette, Mercedes-Benz SLK32 AMG, Porsche Boxster S.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71420674/2001-bmw-m-roadster-chevrolet-corvette-mercedes-benz-slk32-amg-porsche-boxster-s-roadster-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/32cd5e7a-ede7-4aa9-90ab-4c711991872f.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/32cd5e7a-ede7-4aa9-90ab-4c711991872f.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-05-30T13:41:00+00:00"
     },
     {
       "id": "a96b484d117df182",
@@ -1706,7 +1864,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -1828,6 +1986,19 @@
       "published": "2026-05-26T18:21:33+00:00"
     },
     {
+      "id": "52a96224feb9ef6c",
+      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
+      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
+      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-05-26T17:06:00+00:00"
+    },
+    {
       "id": "e9dbe0abaf477b35",
       "title": "BMW’s Gorgeous V8 Two-Door Wagon Caught High-Speed Testing",
       "summary": "People have mixed feelings about BMW’s design language of the early 2020s. Nevertheless, many seem to agree the Speedtop is among the company’s best work in recent years. It’s already been a year since the... First published by https://www.bmwblog.com",
@@ -1849,7 +2020,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -1969,6 +2140,24 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-19T14:14:13+00:00"
+    },
+    {
+      "id": "7f1a68792db2d8bc",
+      "title": "2027 BMW M5",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/bmw/m5-2027",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-101-671a7a863cbf6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-101-671a7a863cbf6.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-104-671a7a7ec8e96.jpg?crop=0.867xw:0.731xh;0.106xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-120-671a7345e23c8.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/hybrid-buyers-guide-thumbnail-67350e1b932fa.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-cadillac-ct5-v-blackwing-php-1428-66a7cc2dd4cd1.jpg?crop=0.795xw:0.673xh;0.170xw,0.272xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2024-porsche-panamera-turbo-s-e-hybrid-101-670fd23801afa.jpg?crop=0.755xw:0.637xh;0.155xw,0.279xh&resize=700:*"
+      ],
+      "source": "Car and Driver BMW",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-05-19T13:12:00+00:00"
     },
     {
       "id": "2ac65a9f0c677bde",
