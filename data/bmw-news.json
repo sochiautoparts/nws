@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-18T20:38:10.316031+00:00",
-  "generated_at_human": "2026-06-18 20:38 UTC",
-  "total_items": 250,
+  "generated_at": "2026-06-18T23:01:49.002436+00:00",
+  "generated_at_human": "2026-06-18 23:01 UTC",
+  "total_items": 245,
   "sources_used": [
     "Autocar BMW",
     "BMW Blog",
@@ -32,9 +32,9 @@
     "BMW Blog iX3 tag",
     "BimmerFile",
     "BimmerToday DE",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
@@ -45,16 +45,29 @@
     "Hagerty Media",
     "InsideEVs",
     "Motor1 BMW",
-    "Motor1 Mazda",
     "Motor1 Mini",
+    "Motor1 Subaru",
     "Motor1 Volvo",
     "Road & Track",
     "Road & Track News",
     "TopSpeed"
   ],
   "sources_count": 47,
-  "multi_photo_items": 13,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "f9db0307dc1ce8dc",
+      "title": "BMW Pulls Three China-Built EVs to Make Room for Neue Klasse",
+      "summary": "BMW Brilliance Automotive will reportedly end local production of two CLAR-based electric models, and one FAAR, in Shenyang this July. The iX1, the China-spec G28 i3 sedan, and the long-wheelbase i5 are all on the... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/18/bmw-clar-ev-production-china-neue-klasse/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/04/bmw-ix1-long-wheelbase-19-830x623.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2023/04/bmw-ix1-long-wheelbase-19-830x623.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-18T22:51:46+00:00"
+    },
     {
       "id": "97147e0bc6f52371",
       "title": "BMW Opens i3 Orders With New 463-HP First Edition",
@@ -124,12 +137,7 @@
       "url": "https://www.topspeed.com/hidden-lexus-sedan-outhandles-bmw-m5/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/todayqqdcxswk.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/todayqqdcxswk.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-5366.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/2025-toyota-camry-assembly-georgetown-kentucky.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-5411.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/2019-lexus-gs-f-sport-4.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/11/2015-bmw-m5.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/todayqqdcxswk.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -186,14 +194,9 @@
       "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7bec5391-6d19-4bfb-856e-33cf82bc7c3c.jpg?crop=1.00xw:1.00xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/55c0b1c8-cba7-41a8-8812-89ab92e413cc.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/d9e55d36-3a92-40f2-b8a6-7d3b72530f9f.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a5275cbe-2f6c-4251-a624-89b0180b7141.jpg?resize=980:*"
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T14:39:00+00:00"
     },
@@ -432,19 +435,6 @@
       "published": "2026-06-17T05:11:10+00:00"
     },
     {
-      "id": "aff0141122c309cd",
-      "title": "2026 CarExpert Choice winner: Best Luxury Large SUV",
-      "summary": "A new generation may be waiting in the wings, but the current BMW X5 is still the benchmark in its segment.",
-      "url": "https://www.carexpert.com.au/car-news/2026-carexpert-choice-winner-best-luxury-large-suv",
-      "image": "https://images.carexpert.com.au/cms/v1/media/bmw-x5-side.png",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/bmw-x5-side.png"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-06-16T22:00:00+00:00"
-    },
-    {
       "id": "5d0555b5f88c3f38",
       "title": "BMW’s $580,000 V8 Shooting Brake Spied Undisguised",
       "summary": "The upcoming Speedtop combines style with exclusivity and a twin-turbo V8",
@@ -492,19 +482,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T21:09:00+00:00"
-    },
-    {
-      "id": "20c2dee6d042610e",
-      "title": "Next petrol BMW M3 won't be a plug-in hybrid, may offer a manual option",
-      "summary": "While an electric BMW M3 is just around the corner, the petrol-powered version will escape major electrification.",
-      "url": "https://www.carexpert.com.au/car-news/next-petrol-bmw-m3-wont-be-a-plug-in-hybrid-may-offer-a-manual-option",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2024-05-2025-bmw-m3-competition-xdrive-1.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2024-05-2025-bmw-m3-competition-xdrive-1.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-06-16T20:35:00+00:00"
     },
     {
       "id": "2b97880897a64c0d",
@@ -593,7 +570,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -617,7 +594,12 @@
       "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-01-1639x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-10-1639x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-13-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-06-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-07-1366x2048.jpg"
       ],
       "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
@@ -653,19 +635,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
-    },
-    {
-      "id": "7a1e2a6a9a3086dd",
-      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
-      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
-      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-15T19:49:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -905,19 +874,6 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-13T16:50:40+00:00"
-    },
-    {
-      "id": "915f79c9f73f6c59",
-      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
-      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
-      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-13T14:21:00+00:00"
     },
     {
       "id": "7289a986e074099a",
@@ -1559,19 +1515,6 @@
       "published": "2026-06-02T17:41:02+00:00"
     },
     {
-      "id": "a2b21f664e4d7b04",
-      "title": "1993 BMW 525i Touring Tested: BMW's First Wagon in America",
-      "summary": "From the archive: Handy for heists, Willie would've loved it.",
-      "url": "https://www.caranddriver.com/reviews/a71431519/1993-bmw-525i-touring-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-02T13:43:00+00:00"
-    },
-    {
       "id": "5a160d50249e9df1",
       "title": "BMW M2 With Track Kit Honors Two Race Car Legends",
       "summary": "BMW has built only four M2s equipped with the newly launched M Performance Track Kit so far. One of them is in the Czech Republic, where the company’s local division is celebrating its 20th anniversary.... First published by https://www.bmwblog.com",
@@ -1635,19 +1578,6 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-30T18:10:08+00:00"
-    },
-    {
-      "id": "005ca87b561df1b2",
-      "title": "2001 Topless Toys Comparo: Can Chevy Keep Up With the Germans?",
-      "summary": "Four ideal vehicles in which to find one's inner child: BMW M Roadster, Chevrolet Corvette, Mercedes-Benz SLK32 AMG, Porsche Boxster S.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71420674/2001-bmw-m-roadster-chevrolet-corvette-mercedes-benz-slk32-amg-porsche-boxster-s-roadster-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/32cd5e7a-ede7-4aa9-90ab-4c711991872f.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/32cd5e7a-ede7-4aa9-90ab-4c711991872f.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-05-30T13:41:00+00:00"
     },
     {
       "id": "a96b484d117df182",
@@ -3301,7 +3231,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Mazda",
+      "source": "Motor1 Subaru",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
