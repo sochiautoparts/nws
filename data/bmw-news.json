@@ -1,11 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-18T09:24:50.497932+00:00",
-  "generated_at_human": "2026-06-18 09:24 UTC",
-  "total_items": 254,
+  "generated_at": "2026-06-18T13:39:01.208443+00:00",
+  "generated_at_human": "2026-06-18 13:39 UTC",
+  "total_items": 253,
   "sources_used": [
-    "AutoExpress",
-    "Autocar BMW",
+    "Autocar",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -50,6 +49,7 @@
     "Motor1 Mazda",
     "Motor1 Mini",
     "Motor1 Volvo",
+    "Road & Track",
     "Road & Track News",
     "Road & Track Reviews",
     "The Drive"
@@ -57,6 +57,76 @@
   "sources_count": 49,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "3d82d68113852cb0",
+      "title": "Tested: 2026 BMW 550e Makes the Case for a Softer 5 Series PHEV",
+      "summary": "The M5 certainly has its delights, but its six-cylinder hybrid sibling charms in its own way.",
+      "url": "https://www.roadandtrack.com/reviews/a71296205/tested-2026-bmw-550e-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cea29f6f-8a07-493a-b7fb-aa1cd040eeb0.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/a8d0d3eb-e1df-4e66-83b0-9935e55b973d.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/13b4bbf5-10ee-4884-b44f-4a1c59e1c040.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/907a8845-df6e-4532-a5ea-d44ce82697f0.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/99fdf12e-93fc-48f8-81a3-604f60eb31b7.jpg?crop=1.00xw:0.892xh;0"
+      ],
+      "source": "Road & Track",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-18T13:29:00+00:00"
+    },
+    {
+      "id": "21f774dd97313815",
+      "title": "BMW i3 First Edition: Neue Klasse ab sofort bestellbar, Preis ab 65.900 Euro",
+      "summary": "Mit der BMW i3 First Edition ist das zweite Modell der Neuen Klasse ab sofort bestellbar. Die Preise für die Elektro-Limousine im 3er-Format beginnen im...",
+      "url": "https://www.bimmertoday.de/2026/06/18/bmw-i3-first-edition-neue-klasse-ab-sofort-bestellbar-preis-ab-65-900-euro/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-i3-First-Edition-NA0-M-Sport-weiss-06.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-i3-First-Edition-NA0-M-Sport-weiss-06.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-06-18T13:26:46+00:00"
+    },
+    {
+      "id": "b2873bf42f04a2f6",
+      "title": "BMW Defends The Electric M3’s Simulated Gearbox: ‘It’s Essential’",
+      "summary": "When the M Concept Neue Klasse broke cover at Le Mans over the weekend, just about everyone focused on the styling, and rightfully so. BMW didn’t share any new technical specifications, aside from reiterating that... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/18/bmw-defends-electric-m3-simulated-gearbox/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-44-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-44-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-18T13:18:28+00:00"
+    },
+    {
+      "id": "b1cdb957d03aa243",
+      "title": "BMW Profit Warning: What It Means For Buyers and Future Models",
+      "summary": "BMW slashed its 2026 earnings guidance by more than half this week, The Deep Dive blaming deteriorating conditions in China and the economic fallout... The post BMW Profit Warning: What It Means For Buyers and Future Models appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/18/bmw-profit-warning-what-it-means-for-buyers-and-future-models/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2016/03/P90055153-highRes.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2016/03/P90055153-highRes.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-18T12:30:01+00:00"
+    },
+    {
+      "id": "86c09587517739ad",
+      "title": "BMW Reveals 2026 Schedule For Its Four-Cylinder M2 Race Car",
+      "summary": "It’s been over a year since BMW M Motorsport unveiled the M2 Racing as its new entry-level track machine. It picks up where the old F87-generation M2 CS Racing left off but takes a different... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/18/bmw-reveals-2026-schedule-for-its-four-cylinder-m2-race-car/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/04/2025-bmw-m2-racing-g87-5-830x546.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2025/04/2025-bmw-m2-racing-g87-5-830x546.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-18T12:12:48+00:00"
+    },
     {
       "id": "4e7d791d084dd701",
       "title": "Historischer Tourist Trophy-Sieg 1906: Rolls-Royce Ghost feiert mit BMW-V12",
@@ -108,12 +178,7 @@
       "url": "https://www.hotcars.com/bmw-hand-built-wagon-america-missed/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-106-40526.jpeg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-106-40526.jpeg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/2025-bmw-m5-touring-25.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/11/bmw-m5-generations-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-195-40897.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/1993-bmw-m5-touring.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/03/bmw-m5-touring-e34-di-02.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/imgi_1_bmw-e34-m5-wagon-106-40526.jpeg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -206,22 +271,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-29.jpg?itok=9EiO9OoE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
-    },
-    {
-      "id": "87d1275f4faf942b",
-      "title": "Petrolheads, do not despair! BMW's electric M3 is still made with you in mind",
-      "summary": "Editor Paul Barker thinks that BMW is capable of producing an electric super-saloon that will even excite petrolheads",
-      "url": "https://www.autoexpress.co.uk/opinion/369810/petrolheads-do-not-despair-bmws-electric-m3-still-made-you-mind",
-      "image": "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/t_rss_image_w_845/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--Tj1BkY9E--/t_rss_image_w_845/v1781696574/autoexpress/2026/06/Opinion%20-%20BMW%20M3%20concept.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-06-17T11:45:11+00:00"
     },
     {
       "id": "2b3d8dd0e2dd714a",
@@ -411,7 +463,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-zagato-review-32.jpg?itok=wuBsFiLB"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T16:25:00+00:00"
     },
@@ -538,7 +590,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-awards-2026.jpg?itok=iaJugcY5"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-16T05:00:00+00:00"
     },
@@ -559,19 +611,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
-    },
-    {
-      "id": "2afe2cd315269e64",
-      "title": "The 2027 BMW iX5’s Monster Battery Pack Dwarfs The Competition",
-      "summary": "The electric X5 is coming soon. Expect it to be a range king thanks to one of the biggest battery packs in the segment.",
-      "url": "https://insideevs.com/news/798787/bmw-ix5-large-battery-pack-range-king/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWj1R/s3/bmw-x5-prototype.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/VzWj1R/s3/bmw-x5-prototype.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-06-15T21:15:15+00:00"
     },
     {
       "id": "7a1e2a6a9a3086dd",
@@ -683,19 +722,6 @@
       "published": "2026-06-15T14:30:00+00:00"
     },
     {
-      "id": "93002b99ba292b41",
-      "title": "New BMW X5 Parks Itself, Dodges Cyclists, And Adapts To Your Garage",
-      "summary": "The new BMW X5 (G65) sits at SAE Level 2 automation, and during a recent prototype drive, BMW was clear about what that means and what it doesn’t. Last week in Spartanburg, engineers told us... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/15/bmw-x5-parking-assist-explained/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-x5-parking-driving-assistance-systems-00-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-x5-parking-driving-assistance-systems-00-830x467.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-15T14:13:47+00:00"
-    },
-    {
       "id": "dd81d596e8f459d9",
       "title": "Le Mans Surprises: Toyota Takes Home Sixth Win, Corvette Wins GT3",
       "summary": "Toyota has earned its sixth (and arguably most significant) victory at the 24 Hours of Le Mans, which was held on June 13 and 14. The team fended off a long list of rivals, including BMW, Ferrari, and Cadillac, to take home the overall win. Toyota’s victory wasn’t the only surprise from the 2026 Le […]",
@@ -730,7 +756,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/10/2028-bmw-m3-g84-spy-photos-17-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T13:13:46+00:00"
     },
@@ -1062,19 +1088,6 @@
       "published": "2026-06-12T13:00:54+00:00"
     },
     {
-      "id": "1ca2bf462bd93213",
-      "title": "BMW M3 ZA0: M Concept Neue Klasse macht Lust auf den Elektro-M3!",
-      "summary": "Seit Monaten bereitet uns die M GmbH auf den ersten elektrischen BMW M3 vor, nun liefern die Garchinger nach einigen Details zur Technik auch einen...",
-      "url": "https://www.bimmertoday.de/2026/06/12/bmw-m3-za0-m-concept-neue-klasse-macht-lust-auf-den-elektro-m3/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-M3-ZA0-Concept-M-Neue-Klasse-07.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-M3-ZA0-Concept-M-Neue-Klasse-07.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-06-12T13:00:05+00:00"
-    },
-    {
       "id": "00247999e59e9218",
       "title": "BMW’s Electric M3 Concept Stands Next To The E30 And Hopes You Approve",
       "summary": "The new M Concept Neue Klasse pairs quad motors with an 800-volt pack, and BMW says it points straight at the brand's electric future",
@@ -1390,19 +1403,6 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-05T16:00:44+00:00"
-    },
-    {
-      "id": "b23a0040741072f3",
-      "title": "Electric BMW M3 Racks Up 5,000 Miles Of Nürburgring Testing",
-      "summary": "Never in BMW’s history has there been such a long teaser campaign for an upcoming product. The M division has been previewing the electric M3 since 2024, when it was still a test mule based... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/05/electric-bmw-m3-5000-miles-nurburgring-testing/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2027-bmw-m3-electric-za0-06-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2027-bmw-m3-electric-za0-06-830x554.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-05T15:41:49+00:00"
     },
     {
       "id": "8a721a365a3407df",
@@ -2994,19 +2994,6 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-17T11:00:24+00:00"
-    },
-    {
-      "id": "a2e8e87b9b44cc92",
-      "title": "BMW Dealer Shows The M2 With Track Kit At Special M Event",
-      "summary": "BMW has built only two M2s with the M Performance Track Kit, and one of them is currently in the Czech Republic. You have until April 17 to see the hardcore G87 at the CarTec... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/16/bmw-dealer-shows-m2-track-kit-special-m-event/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/04/BMW-CarTec-Olomouc-dealer-19-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/04/BMW-CarTec-Olomouc-dealer-19-830x553.jpg"
-      ],
-      "source": "BMW Blog M2",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-16T12:56:17+00:00"
     },
     {
       "id": "b0f16e360b3cd102",
