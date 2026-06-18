@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-17T23:48:30.957952+00:00",
-  "generated_at_human": "2026-06-17 23:48 UTC",
-  "total_items": 256,
+  "generated_at": "2026-06-18T04:58:53.854157+00:00",
+  "generated_at_human": "2026-06-18 04:58 UTC",
+  "total_items": 260,
   "sources_used": [
     "AutoExpress",
     "Autocar",
@@ -36,6 +36,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -46,15 +47,47 @@
     "HotCars",
     "InsideEVs",
     "Motor1 BMW",
+    "Motor1 Mazda",
     "Motor1 Mini",
-    "Motor1 Subaru",
     "Motor1 Volvo",
     "Road & Track News",
+    "Road & Track Reviews",
     "The Drive"
   ],
-  "sources_count": 47,
-  "multi_photo_items": 11,
+  "sources_count": 49,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "0c4f1430ef319fbd",
+      "title": "The 2009 BMW 3 Series With The Right Badge Is Cheaper And More Reliable Than A Used Camry",
+      "summary": "You don't expect a Bimmer to be low-maintenance, but BMW cracked the code with the N52 engine.",
+      "url": "https://carbuzz.com/2009-bmw-3-series-cheaper-more-reliable-used-toyota-camry/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2009-bmw-328i-nose.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2009-bmw-328i-nose.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2009-bmw-328i.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2009-bmw-328i-engine.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/112_bmw335iscoupe.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/3convert-211.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/bmw-335d_05.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-18T01:15:11+00:00"
+    },
+    {
+      "id": "67d360a3cd580376",
+      "title": "BMW iX5 electric SUV revealed with brand’s largest-ever battery",
+      "summary": "The new-generation X5 SUV will offer petrol, diesel, hybrid and hydrogen options, as well as BMW’s biggest EV battery yet in the electric iX5.",
+      "url": "https://www.carexpert.com.au/car-news/bmw-ix5-electric-suv-revealed-with-brands-largest-ever-battery",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026bmwx5ix5the-new-bmw-x5-proto02.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2026bmwx5ix5the-new-bmw-x5-proto02.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-17T23:42:16+00:00"
+    },
     {
       "id": "9c9abbe592444f6e",
       "title": "BMW's Hand-Built Wagon American Buyers Never Got",
@@ -459,7 +492,12 @@
       "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-01-1639x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-10-1639x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-13-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-06-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Mercedes-AMG-GT-4-Door-EV-07-1366x2048.jpg"
       ],
       "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
@@ -726,6 +764,24 @@
       "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-15T12:00:21+00:00"
+    },
+    {
+      "id": "036177e7352b9920",
+      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
+      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
+      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
+        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
+        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-15T12:00:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -1924,6 +1980,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T18:21:33+00:00"
+    },
+    {
+      "id": "52a96224feb9ef6c",
+      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
+      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
+      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-05-26T17:06:00+00:00"
     },
     {
       "id": "e9dbe0abaf477b35",
@@ -3369,7 +3438,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Subaru",
+      "source": "Motor1 Mazda",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
