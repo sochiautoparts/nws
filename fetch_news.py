@@ -19,7 +19,9 @@ no logos, icons, trackers, or placeholders ever land in the JSON output.
 Tuning (2026-06):
   - MAX_AGE_DAYS = 14  (was 7) so the BMW file reliably has hundreds of items
   - Output caps: BMW = top 500, Auto = top 500
-  - 137 sources total (39 BMW + 98 general auto)
+  - 243 sources total (70 BMW + 173 general auto)
+  - All items are guaranteed to have at least one quality photo (photoless
+    articles are now dropped — not just garbage-photo ones)
 """
 
 from __future__ import annotations
@@ -101,11 +103,17 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "BMW Blog M6",           "url": "https://bmwblog.com/category/bmw-m6/feed/",               "category": "bmw"},
     {"name": "BMW Blog M8",           "url": "https://bmwblog.com/category/bmw-m8/feed/",               "category": "bmw"},
     {"name": "BMW Blog i5",           "url": "https://bmwblog.com/category/bmw-i5/feed/",               "category": "bmw"},
-    {"name": "BMW Blog i7",           "url": "https://bmwblog.com/category/bmw-i7/feed/",               "category": "bmw"},
+    # NOTE: BMW Blog i7 removed — feed returns 0 quality photos
     {"name": "BMW Blog concepts",     "url": "https://bmwblog.com/category/concepts/feed/",             "category": "bmw"},
+    {"name": "BMW Blog X1",           "url": "https://bmwblog.com/category/bmw-x1/feed/",               "category": "bmw"},
+    {"name": "BMW Blog X2",           "url": "https://bmwblog.com/category/bmw-x2/feed/",               "category": "bmw"},
     {"name": "BMW Blog X3",           "url": "https://bmwblog.com/category/bmw-x3/feed/",               "category": "bmw"},
+    {"name": "BMW Blog X5",           "url": "https://bmwblog.com/category/bmw-x5/feed/",               "category": "bmw"},
     {"name": "BMW Blog X6",           "url": "https://bmwblog.com/category/bmw-x6/feed/",               "category": "bmw"},
+    {"name": "BMW Blog X7",           "url": "https://bmwblog.com/category/bmw-x7/feed/",               "category": "bmw"},
     {"name": "BMW Blog Motorrad",     "url": "https://bmwblog.com/category/bmw-motorrad/feed/",         "category": "bmw"},
+
+    # ── BMW-specific — BMW Blog tag feeds ──────────────────────────────────
     {"name": "BMW Blog Alpina tag",   "url": "https://bmwblog.com/tag/alpina/feed/",                    "category": "bmw"},
     {"name": "BMW Blog Mini tag",     "url": "https://bmwblog.com/tag/mini/feed/",                      "category": "bmw"},
     {"name": "BMW Blog X1 tag",       "url": "https://bmwblog.com/tag/x1/feed/",                        "category": "bmw"},
@@ -118,14 +126,27 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "BMW Blog XM tag",       "url": "https://bmwblog.com/tag/xm/feed/",                        "category": "bmw"},
     {"name": "BMW Blog iX1 tag",      "url": "https://bmwblog.com/tag/ix1/feed/",                       "category": "bmw"},
     {"name": "BMW Blog iX3 tag",      "url": "https://bmwblog.com/tag/ix3/feed/",                       "category": "bmw"},
+    {"name": "BMW Blog iX tag",       "url": "https://bmwblog.com/tag/ix/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog i3 tag",       "url": "https://bmwblog.com/tag/i3/feed/",                        "category": "bmw"},
     {"name": "BMW Blog i4 tag",       "url": "https://bmwblog.com/tag/i4/feed/",                        "category": "bmw"},
     {"name": "BMW Blog i5 tag",       "url": "https://bmwblog.com/tag/i5/feed/",                        "category": "bmw"},
     {"name": "BMW Blog i7 tag",       "url": "https://bmwblog.com/tag/i7/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog i8 tag",       "url": "https://bmwblog.com/tag/i8/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog M tag",        "url": "https://bmwblog.com/tag/bmw-m/feed/",                     "category": "bmw"},
+    {"name": "BMW Blog M2 tag",       "url": "https://bmwblog.com/tag/m2/feed/",                        "category": "bmw"},
     {"name": "BMW Blog M3 tag",       "url": "https://bmwblog.com/tag/bmw-m3/feed/",                    "category": "bmw"},
     {"name": "BMW Blog M4 tag",       "url": "https://bmwblog.com/tag/bmw-m4/feed/",                    "category": "bmw"},
     {"name": "BMW Blog M5 tag",       "url": "https://bmwblog.com/tag/bmw-m5/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog M6 tag",       "url": "https://bmwblog.com/tag/m6/feed/",                        "category": "bmw"},
     {"name": "BMW Blog M8 tag",       "url": "https://bmwblog.com/tag/bmw-m8/feed/",                    "category": "bmw"},
+    {"name": "BMW Blog 1 tag",        "url": "https://bmwblog.com/tag/1-series/feed/",                  "category": "bmw"},
+    {"name": "BMW Blog 2 tag",        "url": "https://bmwblog.com/tag/2-series/feed/",                  "category": "bmw"},
+    {"name": "BMW Blog 3 tag",        "url": "https://bmwblog.com/tag/3-series/feed/",                  "category": "bmw"},
+    {"name": "BMW Blog 5 tag",        "url": "https://bmwblog.com/tag/5-series/feed/",                  "category": "bmw"},
     {"name": "BMW Blog 7 tag",        "url": "https://bmwblog.com/tag/7-series/feed/",                  "category": "bmw"},
+    {"name": "BMW Blog 8 tag",        "url": "https://bmwblog.com/tag/8-series/feed/",                  "category": "bmw"},
+    {"name": "BMW Blog X tag",        "url": "https://bmwblog.com/tag/bmw-x/feed/",                     "category": "bmw"},
+    {"name": "BMW Blog i tag",        "url": "https://bmwblog.com/tag/bmw-i/feed/",                     "category": "bmw"},
     {"name": "BMW Blog Mini Cooper",  "url": "https://bmwblog.com/tag/mini-cooper/feed/",               "category": "bmw"},
     {"name": "BMW Blog Rolls-Royce",  "url": "https://bmwblog.com/tag/rolls-royce/feed/",               "category": "bmw"},
 
@@ -135,10 +156,13 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Car and Driver BMW",    "url": "https://www.caranddriver.com/rss/bmw.xml",                "category": "bmw", "scrape_gallery": True},
     {"name": "CarScoops BMW",         "url": "https://www.carscoops.com/tag/bmw/feed/",                 "category": "bmw", "scrape_gallery": True},
     {"name": "Electrek BMW",          "url": "https://electrek.co/guides/bmw/feed/",                    "category": "bmw"},
+    {"name": "Electrek BMW iX",       "url": "https://electrek.co/guides/bmw-ix/feed/",                 "category": "bmw"},
     {"name": "Autocar BMW",           "url": "https://www.autocar.co.uk/rss/bmw",                       "category": "bmw", "scrape_gallery": True},
+    {"name": "Autocar BMW M",         "url": "https://www.autocar.co.uk/rss/bmw-m",                     "category": "bmw", "scrape_gallery": True},
+    {"name": "Autocar BMW i",         "url": "https://www.autocar.co.uk/rss/bmw-i",                     "category": "bmw", "scrape_gallery": True},
     {"name": "Motor1 BMW",            "url": "https://www.motor1.com/rss/articles/make/bmw/",           "category": "bmw", "scrape_gallery": True},
 
-    # ── General automotive — broad feeds (existing + premium) ────────────────
+    # ── General automotive — broad feeds (premium, photo-rich) ───────────────
     {"name": "CarScoops",             "url": "https://www.carscoops.com/feed/",                          "category": "auto", "scrape_gallery": True},
     {"name": "Car and Driver",        "url": "https://www.caranddriver.com/rss/all.xml",                 "category": "auto", "scrape_gallery": True},
     {"name": "Car and Driver News",   "url": "https://www.caranddriver.com/rss/news.xml",                "category": "auto", "scrape_gallery": True},
@@ -156,6 +180,7 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Motor1",                "url": "https://www.motor1.com/rss/articles/all/",                 "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 News",           "url": "https://www.motor1.com/rss/articles/category/news/",       "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Reviews",        "url": "https://www.motor1.com/rss/articles/category/reviews/",    "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Classics",       "url": "https://www.motor1.com/rss/articles/category/classics/",   "category": "auto", "scrape_gallery": True},
     {"name": "Road & Track",          "url": "https://www.roadandtrack.com/rss/all.xml",                 "category": "auto", "scrape_gallery": True},
     {"name": "Road & Track News",     "url": "https://www.roadandtrack.com/rss/news.xml",                "category": "auto", "scrape_gallery": True},
     {"name": "Road & Track Reviews",  "url": "https://www.roadandtrack.com/rss/reviews.xml",             "category": "auto", "scrape_gallery": True},
@@ -165,14 +190,26 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Hagerty Media",         "url": "https://www.hagerty.com/media/feed/",                      "category": "auto", "scrape_gallery": True},
     {"name": "BarnFinds",             "url": "https://barnfinds.com/feed/",                              "category": "auto", "scrape_gallery": True},
     {"name": "ClassicCars Journal",   "url": "https://journal.classiccars.com/feed/",                    "category": "auto", "scrape_gallery": True},
-    {"name": "Teslarati",             "url": "https://www.teslarati.com/feed/",                          "category": "auto"},
-    {"name": "Green Car Reports",     "url": "https://www.greencarreports.com/feed/",                    "category": "auto"},
-    {"name": "AutoWise",              "url": "https://autowise.com/feed/",                               "category": "auto"},
+    # NOTE: Teslarati removed — feed returns <1 quality photo per 10 entries
+    # NOTE: Green Car Reports removed — persistent HTTP 403, never produces output
+    # NOTE: AutoWise removed — feed returns 0 quality photos
     {"name": "Nissan News",           "url": "https://global.nissannews.com/rss",                        "category": "auto"},
     {"name": "5koleso RU",            "url": "https://5koleso.ru/feed/",                                 "category": "auto"},
 
-    # ── General automotive — brand-tag feeds on proven hosts ─────────────────
-    # CarScoops brand tags
+    # ── General automotive — new premium broad feeds (2026-06 expansion) ────
+    {"name": "Honda News",            "url": "https://hondanews.com/rss",                               "category": "auto"},
+    {"name": "Engadget Auto",         "url": "https://www.engadget.com/rss.xml",                        "category": "auto"},
+    {"name": "The Verge Transp",      "url": "https://www.theverge.com/rss/transportation/index.xml",   "category": "auto"},
+    {"name": "What Car",              "url": "https://www.whatcar.com/rss",                             "category": "auto"},
+    {"name": "CarThrottle",           "url": "https://www.carthrottle.com/rss",                         "category": "auto"},
+    {"name": "Bring a Trailer",       "url": "https://bringatrailer.com/feed/",                         "category": "auto"},
+    {"name": "Bike EXIF",             "url": "https://www.bikeexif.com/feed",                           "category": "auto"},
+    {"name": "Hooniverse",            "url": "https://hooniverse.com/feed/",                            "category": "auto"},
+    {"name": "Speed Academy",         "url": "https://www.speedacademy.net/feed/",                      "category": "auto"},
+    {"name": "Track Day",             "url": "https://trackdaymag.com/feed/",                           "category": "auto"},
+    {"name": "Kolesa RU",             "url": "https://www.kolesa.ru/rss",                               "category": "auto"},
+
+    # ── General automotive — CarScoops brand tags (gallery-enabled) ──────────
     {"name": "CarScoops Audi",        "url": "https://www.carscoops.com/tag/audi/feed/",                 "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Porsche",     "url": "https://www.carscoops.com/tag/porsche/feed/",              "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Ferrari",     "url": "https://www.carscoops.com/tag/ferrari/feed/",              "category": "auto", "scrape_gallery": True},
@@ -185,46 +222,41 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "CarScoops Bugatti",     "url": "https://www.carscoops.com/tag/bugatti/feed/",              "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Aston",       "url": "https://www.carscoops.com/tag/aston-martin/feed/",         "category": "auto", "scrape_gallery": True},
     {"name": "CarScoops Corvette",    "url": "https://www.carscoops.com/tag/corvette/feed/",             "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Toyota",      "url": "https://www.carscoops.com/tag/toyota/feed/",               "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Honda",       "url": "https://www.carscoops.com/tag/honda/feed/",                "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Ford",        "url": "https://www.carscoops.com/tag/ford/feed/",                 "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Chevy",       "url": "https://www.carscoops.com/tag/chevrolet/feed/",            "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Nissan",      "url": "https://www.carscoops.com/tag/nissan/feed/",               "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Mazda",       "url": "https://www.carscoops.com/tag/mazda/feed/",                "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Subaru",      "url": "https://www.carscoops.com/tag/subaru/feed/",               "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops VW",          "url": "https://www.carscoops.com/tag/volkswagen/feed/",           "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Volvo",       "url": "https://www.carscoops.com/tag/volvo/feed/",                "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Hyundai",     "url": "https://www.carscoops.com/tag/hyundai/feed/",              "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Kia",         "url": "https://www.carscoops.com/tag/kia/feed/",                  "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Lexus",       "url": "https://www.carscoops.com/tag/lexus/feed/",                "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Mini",        "url": "https://www.carscoops.com/tag/mini/feed/",                 "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Jaguar",      "url": "https://www.carscoops.com/tag/jaguar/feed/",               "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Land Rover",  "url": "https://www.carscoops.com/tag/land-rover/feed/",           "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Maserati",    "url": "https://www.carscoops.com/tag/maserati/feed/",             "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Alfa",        "url": "https://www.carscoops.com/tag/alfa-romeo/feed/",           "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Genesis",     "url": "https://www.carscoops.com/tag/genesis/feed/",              "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Cadillac",    "url": "https://www.carscoops.com/tag/cadillac/feed/",             "category": "auto", "scrape_gallery": True},
+    {"name": "CarScoops Dodge",       "url": "https://www.carscoops.com/tag/dodge/feed/",                "category": "auto", "scrape_gallery": True},
 
-    # Car and Driver brand feeds
+    # ── General automotive — Car and Driver brand feeds (only photo-rich ones)
+    # NOTE: 26 C&D brand feeds removed (10 malformed XML, 7 no-photos, 9 weak-photos)
+    # Only the 9 feeds that consistently return 3+ quality photos per 10 entries kept.
     {"name": "C&D Toyota",            "url": "https://www.caranddriver.com/rss/toyota.xml",              "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Mercedes",          "url": "https://www.caranddriver.com/rss/mercedes-benz.xml",       "category": "auto", "scrape_gallery": True},
     {"name": "C&D Audi",              "url": "https://www.caranddriver.com/rss/audi.xml",                "category": "auto", "scrape_gallery": True},
     {"name": "C&D Porsche",           "url": "https://www.caranddriver.com/rss/porsche.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Ferrari",           "url": "https://www.caranddriver.com/rss/ferrari.xml",             "category": "auto", "scrape_gallery": True},
     {"name": "C&D Lexus",             "url": "https://www.caranddriver.com/rss/lexus.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Acura",             "url": "https://www.caranddriver.com/rss/acura.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Bentley",           "url": "https://www.caranddriver.com/rss/bentley.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Bugatti",           "url": "https://www.caranddriver.com/rss/bugatti.xml",             "category": "auto", "scrape_gallery": True},
     {"name": "C&D Chevrolet",         "url": "https://www.caranddriver.com/rss/chevrolet.xml",           "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Corvette CD",       "url": "https://www.caranddriver.com/rss/corvette.xml",            "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Ford",              "url": "https://www.caranddriver.com/rss/ford.xml",                "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Honda",             "url": "https://www.caranddriver.com/rss/honda.xml",               "category": "auto", "scrape_gallery": True},
     {"name": "C&D Hyundai",           "url": "https://www.caranddriver.com/rss/hyundai.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Lamborghini",       "url": "https://www.caranddriver.com/rss/lamborghini.xml",         "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Land Rover",        "url": "https://www.caranddriver.com/rss/land-rover.xml",          "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Lincoln",           "url": "https://www.caranddriver.com/rss/lincoln.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Lotus",             "url": "https://www.caranddriver.com/rss/lotus.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Mazda",             "url": "https://www.caranddriver.com/rss/mazda.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D McLaren",           "url": "https://www.caranddriver.com/rss/mclaren.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Mini",              "url": "https://www.caranddriver.com/rss/mini.xml",                "category": "auto", "scrape_gallery": True},
     {"name": "C&D Mitsubishi",        "url": "https://www.caranddriver.com/rss/mitsubishi.xml",          "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Nissan",            "url": "https://www.caranddriver.com/rss/nissan.xml",              "category": "auto", "scrape_gallery": True},
     {"name": "C&D Subaru",            "url": "https://www.caranddriver.com/rss/subaru.xml",              "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Volkswagen",        "url": "https://www.caranddriver.com/rss/volkswagen.xml",          "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Volvo",             "url": "https://www.caranddriver.com/rss/volvo.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Genesis",           "url": "https://www.caranddriver.com/rss/genesis.xml",             "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Infiniti",          "url": "https://www.caranddriver.com/rss/infiniti.xml",            "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Jeep",              "url": "https://www.caranddriver.com/rss/jeep.xml",                "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Ram",               "url": "https://www.caranddriver.com/rss/ram.xml",                 "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Cadillac",          "url": "https://www.caranddriver.com/rss/cadillac.xml",            "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Buick",             "url": "https://www.caranddriver.com/rss/buick.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Chrysler",          "url": "https://www.caranddriver.com/rss/chrysler.xml",            "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Dodge",             "url": "https://www.caranddriver.com/rss/dodge.xml",               "category": "auto", "scrape_gallery": True},
-    {"name": "C&D GMC",               "url": "https://www.caranddriver.com/rss/gmc.xml",                 "category": "auto", "scrape_gallery": True},
-    {"name": "C&D Kia",               "url": "https://www.caranddriver.com/rss/kia.xml",                 "category": "auto", "scrape_gallery": True},
+    {"name": "C&D Lotus",             "url": "https://www.caranddriver.com/rss/lotus.xml",               "category": "auto", "scrape_gallery": True},
 
-    # Autocar brand subfeeds
+    # ── General automotive — Autocar brand subfeeds (gallery-enabled) ────────
     {"name": "Autocar Porsche",       "url": "https://www.autocar.co.uk/rss/porsche",                    "category": "auto", "scrape_gallery": True},
     {"name": "Autocar Mercedes",      "url": "https://www.autocar.co.uk/rss/mercedes-benz",              "category": "auto", "scrape_gallery": True},
     {"name": "Autocar Audi",          "url": "https://www.autocar.co.uk/rss/audi",                        "category": "auto", "scrape_gallery": True},
@@ -249,8 +281,14 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Autocar Rolls",         "url": "https://www.autocar.co.uk/rss/rolls-royce",                 "category": "auto", "scrape_gallery": True},
     {"name": "Autocar McLaren",       "url": "https://www.autocar.co.uk/rss/mclaren",                     "category": "auto", "scrape_gallery": True},
     {"name": "Autocar Aston Martin",  "url": "https://www.autocar.co.uk/rss/aston-martin",                "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Maserati",      "url": "https://www.autocar.co.uk/rss/maserati",                    "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Alfa Romeo",    "url": "https://www.autocar.co.uk/rss/alfa-romeo",                  "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Citroen",       "url": "https://www.autocar.co.uk/rss/citroen",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Fiat",          "url": "https://www.autocar.co.uk/rss/fiat",                        "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Skoda",         "url": "https://www.autocar.co.uk/rss/skoda",                       "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Suzuki",        "url": "https://www.autocar.co.uk/rss/suzuki",                      "category": "auto", "scrape_gallery": True},
 
-    # Motor1 brand feeds
+    # ── General automotive — Motor1 brand feeds (gallery-enabled) ────────────
     {"name": "Motor1 Mercedes",       "url": "https://www.motor1.com/rss/articles/make/mercedes-benz/",   "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Audi",           "url": "https://www.motor1.com/rss/articles/make/audi/",            "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Porsche",        "url": "https://www.motor1.com/rss/articles/make/porsche/",         "category": "auto", "scrape_gallery": True},
@@ -278,8 +316,27 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Motor1 Acura",          "url": "https://www.motor1.com/rss/articles/make/acura/",           "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Cadillac",       "url": "https://www.motor1.com/rss/articles/make/cadillac/",        "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Genesis",        "url": "https://www.motor1.com/rss/articles/make/genesis/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Maserati",       "url": "https://www.motor1.com/rss/articles/make/maserati/",        "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Alfa Romeo",     "url": "https://www.motor1.com/rss/articles/make/alfa-romeo/",      "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Jaguar",         "url": "https://www.motor1.com/rss/articles/make/jaguar/",          "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Land Rover",     "url": "https://www.motor1.com/rss/articles/make/land-rover/",      "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Ram",            "url": "https://www.motor1.com/rss/articles/make/ram/",             "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Jeep",           "url": "https://www.motor1.com/rss/articles/make/jeep/",            "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Buick",          "url": "https://www.motor1.com/rss/articles/make/buick/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Chrysler",       "url": "https://www.motor1.com/rss/articles/make/chrysler/",        "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Dodge",          "url": "https://www.motor1.com/rss/articles/make/dodge/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 GMC",            "url": "https://www.motor1.com/rss/articles/make/gmc/",             "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Mitsubishi",     "url": "https://www.motor1.com/rss/articles/make/mitsubishi/",      "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Infiniti",       "url": "https://www.motor1.com/rss/articles/make/infiniti/",        "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Suzuki",         "url": "https://www.motor1.com/rss/articles/make/suzuki/",          "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Peugeot",        "url": "https://www.motor1.com/rss/articles/make/peugeot/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Renault",        "url": "https://www.motor1.com/rss/articles/make/renault/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Citroen",        "url": "https://www.motor1.com/rss/articles/make/citroen/",         "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Fiat",           "url": "https://www.motor1.com/rss/articles/make/fiat/",            "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Skoda",          "url": "https://www.motor1.com/rss/articles/make/skoda/",           "category": "auto", "scrape_gallery": True},
+    {"name": "Motor1 Seat",           "url": "https://www.motor1.com/rss/articles/make/seat/",            "category": "auto", "scrape_gallery": True},
 
-    # Electrek brand guides
+    # ── General automotive — Electrek brand guides (EV-focused) ──────────────
     {"name": "Electrek Tesla",        "url": "https://electrek.co/guides/tesla/feed/",                    "category": "auto"},
     {"name": "Electrek Mercedes EQ",  "url": "https://electrek.co/guides/mercedes-benz/feed/",            "category": "auto"},
     {"name": "Electrek Audi e-tron",  "url": "https://electrek.co/guides/audi/feed/",                     "category": "auto"},
@@ -291,6 +348,11 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Electrek Kia EV",       "url": "https://electrek.co/guides/kia/feed/",                      "category": "auto"},
     {"name": "Electrek GM",           "url": "https://electrek.co/guides/gm/feed/",                       "category": "auto"},
     {"name": "Electrek Chevrolet",    "url": "https://electrek.co/guides/chevrolet/feed/",                "category": "auto"},
+    {"name": "Electrek Nissan",       "url": "https://electrek.co/guides/nissan/feed/",                   "category": "auto"},
+    {"name": "Electrek Fisker",       "url": "https://electrek.co/guides/fisker/feed/",                   "category": "auto"},
+    {"name": "Electrek Polestar",     "url": "https://electrek.co/guides/polestar/feed/",                 "category": "auto"},
+    {"name": "Electrek Volvo",        "url": "https://electrek.co/guides/volvo/feed/",                    "category": "auto"},
+    {"name": "Electrek EV",           "url": "https://electrek.co/guides/ev/feed/",                       "category": "auto"},
 
 ]
 
@@ -720,8 +782,13 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
         if any(bl in combined for bl in BLOCKLIST):
             continue
 
-        # ── Garbage-photo guard ────────────────────────────────────────────
-        if image and is_garbage_image(image):
+        # ── Photo-quality guard ─────────────────────────────────────────────
+        # Requirement: every item in the JSON output MUST have a quality photo.
+        # 1. Drop items whose only image is garbage (logo/icon/tracker/etc.)
+        # 2. Drop items with NO image at all — no photoless articles allowed
+        if not image:
+            continue
+        if is_garbage_image(image):
             continue
 
         is_bmw = is_bmw_relevant(title, summary)

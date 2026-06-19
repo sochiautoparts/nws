@@ -48,30 +48,46 @@ Each multi-photo item carries up to 6 distinct image URLs (lead first).
 
 ---
 
-## Sources (192 hand-tested feeds — 2026-06)
+## Sources (243 hand-tested feeds — 2026-06)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
-enclosures, or `<img>` in summary). BMW-file output uses 51 BMW-specific feeds;
-auto-file output uses 141 general automotive feeds.
+enclosures, or `<img>` in summary). BMW-file output uses 70 BMW-specific feeds;
+auto-file output uses 173 general automotive feeds.
 
-### BMW-specific (51 feeds)
+Every source was individually tested for: (1) working RSS endpoint (HTTP 200),
+(2) valid feed XML, (3) ≥ 3 quality photos per 10 entries. Sources that
+returned malformed XML, 0 quality photos, or only 1–2 photos were removed.
 
-- **BMW Blog (39 sub-feeds)** — main + categories (3/5/1/4/6/Z4/M2-M8/i5/i7/X/X3/X6/Motorrad/concepts) + tags (Alpina, Mini, X1-X7, XM, iX1/iX3, i4/i5/i7, M3/M4/M5/M8, 7-series, Mini Cooper, Rolls-Royce)
-- **Other BMW sites (12)** — BimmerFile, BimmerToday DE, Car and Driver BMW, CarScoops BMW, Electrek BMW, Autocar BMW, Motor1 BMW
+### BMW-specific (70 feeds)
 
-### General automotive (141 feeds)
+- **BMW Blog (55 sub-feeds)** — main + categories (1/3/4/5/6/Z4/M2-M8/i5/X1-X7/X/Motorrad/concepts) + tags (1-8 series, M/M2-M8, X/X1-X7/XM, i/i3-i8/iX/iX1/iX3, Alpina, Mini, Mini Cooper, Rolls-Royce, 7-series)
+- **Other BMW sites (15)** — BimmerFile, BimmerToday DE, Car and Driver BMW, CarScoops BMW, Electrek BMW, Electrek BMW iX, Autocar BMW, Autocar BMW M, Autocar BMW i, Motor1 BMW
 
-- **Broad feeds (32)** — CarScoops, Car and Driver (all/News/Reviews), Autocar, AutoExpress, CarExpert, Jalopnik, The Drive, Electrek, InsideEVs, Motorious, GM Authority, CarBuzz, Motor1 (all/News/Reviews), Road & Track (all/News/Reviews), HotCars, TopSpeed, AutoWeek News, Hagerty Media, BarnFinds, ClassicCars Journal, Teslarati, Green Car Reports, AutoWise, Nissan News, 5koleso RU
-- **CarScoops brand tags (12)** — Audi, Porsche, Ferrari, Tesla, Mercedes, Lamborghini, McLaren, Bentley, Rolls, Bugatti, Aston, Corvette
-- **Car and Driver brand feeds (34)** — Toyota, Mercedes, Audi, Porsche, Ferrari, Lexus, Acura, Bentley, Bugatti, Chevrolet, Corvette, Ford, Honda, Hyundai, Lamborghini, Land Rover, Lincoln, Lotus, Mazda, McLaren, Mini, Mitsubishi, Nissan, Subaru, Volkswagen, Volvo, Genesis, Infiniti, Jeep, Ram, Cadillac, Buick, Chrysler, Dodge, GMC, Kia
-- **Autocar brand subfeeds (24)** — Porsche, Mercedes, Audi, Tesla, Toyota, Honda, Ford, VW, Hyundai, Kia, Mazda, Nissan, Renault, Peugeot, Land Rover, Jaguar, Lexus, Mini, Ferrari, Lamborghini, Bentley, Rolls, McLaren, Aston Martin
-- **Motor1 brand feeds (27)** — Mercedes, Audi, Porsche, Ferrari, Tesla, Lamborghini, McLaren, Bentley, Rolls-Royce, Bugatti, Aston Martin, Toyota, Honda, Ford, Chevrolet, Nissan, Mazda, Subaru, VW, Volvo, Mini, Hyundai, Kia, Lexus, Acura, Cadillac, Genesis
-- **Electrek brand guides (11)** — Tesla, Mercedes EQ, Audi e-tron, Porsche, Ford EV, Rivian, Lucid, Hyundai, Kia EV, GM, Chevrolet
+### General automotive (173 feeds)
 
-Sources marked **gallery-enabled** (70+ feeds) have `scrape_gallery: true` —
+- **Broad feeds (35)** — CarScoops, Car and Driver (all/News/Reviews), Autocar, AutoExpress, CarExpert, Jalopnik, The Drive, Electrek, InsideEVs, Motorious, GM Authority, CarBuzz, Motor1 (all/News/Reviews/Classics), Road & Track (all/News/Reviews), HotCars, TopSpeed, AutoWeek News, Hagerty Media, BarnFinds, ClassicCars Journal, Nissan News, 5koleso RU, Honda News, Engadget Auto, The Verge Transportation, What Car, CarThrottle, Bring a Trailer, Bike EXIF, Hooniverse, Speed Academy, Track Day, Kolesa RU
+- **CarScoops brand tags (32)** — Audi, Porsche, Ferrari, Tesla, Mercedes, Lamborghini, McLaren, Bentley, Rolls, Bugatti, Aston, Corvette, Toyota, Honda, Ford, Chevy, Nissan, Mazda, Subaru, VW, Volvo, Hyundai, Kia, Lexus, Mini, Jaguar, Land Rover, Maserati, Alfa Romeo, Genesis, Cadillac, Dodge
+- **Car and Driver brand feeds (9)** — Toyota, Audi, Porsche, Lexus, Chevrolet, Hyundai, Mitsubishi, Subaru, Lotus *(26 broken/no-photo/weak feeds removed)*
+- **Autocar brand subfeeds (30)** — Porsche, Mercedes, Audi, Tesla, Toyota, Honda, Ford, VW, Hyundai, Kia, Mazda, Nissan, Renault, Peugeot, Land Rover, Jaguar, Lexus, Mini, Ferrari, Lamborghini, Bentley, Rolls, McLaren, Aston Martin, Maserati, Alfa Romeo, Citroen, Fiat, Skoda, Suzuki
+- **Motor1 brand feeds (46)** — Mercedes, Audi, Porsche, Ferrari, Tesla, Lamborghini, McLaren, Bentley, Rolls-Royce, Bugatti, Aston Martin, Toyota, Honda, Ford, Chevrolet, Nissan, Mazda, Subaru, VW, Volvo, Mini, Hyundai, Kia, Lexus, Acura, Cadillac, Genesis, Maserati, Alfa Romeo, Jaguar, Land Rover, Ram, Jeep, Buick, Chrysler, Dodge, GMC, Mitsubishi, Infiniti, Suzuki, Peugeot, Renault, Citroen, Fiat, Skoda, Seat
+- **Electrek brand guides (16)** — Tesla, Mercedes EQ, Audi e-tron, Porsche, Ford EV, Rivian, Lucid, Hyundai, Kia EV, GM, Chevrolet, Nissan, Fisker, Polestar, Volvo, EV
+
+Sources marked **gallery-enabled** (144 feeds) have `scrape_gallery: true` —
 the parser fetches the article page for the top 3 most recent items and
 extracts up to 5 additional gallery photos (so each item ends up with up to
 6 images total).
+
+### Sources removed (quality control — 2026-06)
+
+| Source | Reason |
+|---|---|
+| Teslarati | < 1 quality photo per 10 entries |
+| Green Car Reports | Persistent HTTP 403, never produces output |
+| AutoWise | 0 quality photos |
+| BMW Blog i7 (category) | 0 quality photos |
+| 10 Car and Driver brand feeds (Nissan, VW, Genesis, Buick, Ram, Cadillac, Chrysler, GMC, Dodge, Kia) | Malformed XML feed |
+| 7 Car and Driver brand feeds (Acura, Bugatti, Honda, Corvette, Land Rover, Mazda, Mini) | 0 quality photos |
+| 9 Car and Driver brand feeds (Mercedes, Ferrari, Bentley, Lamborghini, Ford, McLaren, Lincoln, Infiniti, Volvo, Jeep) | Only 1–2 quality photos per 10 entries |
 
 ---
 
@@ -95,6 +111,10 @@ Every extracted image URL is filtered through `is_garbage_image()` which rejects
 
 If an item's only image is garbage, **the item is dropped entirely** —
 guaranteeing the JSON files only contain real content photos.
+
+**2026-06 quality guarantee:** items with **no image at all** are now also
+dropped. Every single item in the JSON output is guaranteed to have at least
+one quality photo. Zero photoless articles.
 
 **2026-06 fix:** the previous version used `/img/(?!uploads)` regex which
 false-positively matched real content photos at paths like
