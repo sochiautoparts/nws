@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-19T01:51:47.954278+00:00",
-  "generated_at_human": "2026-06-19 01:51 UTC",
-  "total_items": 248,
+  "generated_at": "2026-06-19T07:23:11.968221+00:00",
+  "generated_at_human": "2026-06-19 07:23 UTC",
+  "total_items": 250,
   "sources_used": [
     "Autocar",
     "BMW Blog",
@@ -41,6 +41,7 @@
     "CarScoops Ferrari",
     "CarScoops Mercedes",
     "CarScoops Rolls",
+    "Electrek",
     "Electrek BMW",
     "Hagerty Media",
     "InsideEVs",
@@ -48,11 +49,12 @@
     "Motor1 Mazda",
     "Motor1 Mini",
     "Motor1 Volvo",
-    "Road & Track",
+    "Road & Track News",
+    "Road & Track Reviews",
     "TopSpeed"
   ],
-  "sources_count": 46,
-  "multi_photo_items": 13,
+  "sources_count": 48,
+  "multi_photo_items": 14,
   "items": [
     {
       "id": "30704b4445f04c77",
@@ -125,7 +127,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-orders-1.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-06-18T19:29:11+00:00"
     },
@@ -162,12 +164,7 @@
       "url": "https://www.autocar.co.uk/car-news/electric-cars/electric-3-series-bmw-i3-brings-567-mile-range-%C2%A353k",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=5m17xYpb",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-1.jpg?itok=WH2svqe8",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-0.jpg?itok=T9GVA6t0",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw-i3-2026-028.jpg?itok=51I8bNqw",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw-i3-2026-001_0.jpg?itok=kaK1MnD9"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
       "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
@@ -224,9 +221,14 @@
       "url": "https://www.roadandtrack.com/reviews/a71296205/tested-2026-bmw-550e-review/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cea29f6f-8a07-493a-b7fb-aa1cd040eeb0.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/a8d0d3eb-e1df-4e66-83b0-9935e55b973d.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/13b4bbf5-10ee-4884-b44f-4a1c59e1c040.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/907a8845-df6e-4532-a5ea-d44ce82697f0.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/99fdf12e-93fc-48f8-81a3-604f60eb31b7.jpg?crop=1.00xw:0.892xh;0"
       ],
-      "source": "Road & Track",
+      "source": "Road & Track Reviews",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-18T13:29:00+00:00"
     },
@@ -574,7 +576,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -680,6 +682,19 @@
       "published": "2026-06-15T17:00:00+00:00"
     },
     {
+      "id": "e43e2aaa13876497",
+      "title": "The Bovensiepen 05 GT Is the Alpina B5 Touring Successor BMW Hasn't Built Yet",
+      "summary": "Built in the same Buchloe factory as Alpinas of yore, this new super-wagon might be Germany's best autobahn crusher.",
+      "url": "https://www.roadandtrack.com/news/a71590811/bovensiepen-05-gt-the-alpina-b5-touring-successor-bmw-hasnt-built-yet/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3773c0c8-04d2-4c20-96d3-e28e60e86463.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3773c0c8-04d2-4c20-96d3-e28e60e86463.jpg"
+      ],
+      "source": "Road & Track News",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-15T15:40:00+00:00"
+    },
+    {
       "id": "5248e0f57bd05258",
       "title": "BMW Just Stuffed Its Biggest Battery Ever Into The New X5",
       "summary": "Huge 144 kWh battery confirmed for iX5, plus hydrogen and ICE models on the way, all with Neue Klasse style",
@@ -761,6 +776,24 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T13:13:46+00:00"
+    },
+    {
+      "id": "036177e7352b9920",
+      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
+      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
+      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
+        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
+        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-15T12:00:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -1610,19 +1643,6 @@
       "published": "2026-05-30T18:10:08+00:00"
     },
     {
-      "id": "005ca87b561df1b2",
-      "title": "2001 Topless Toys Comparo: Can Chevy Keep Up With the Germans?",
-      "summary": "Four ideal vehicles in which to find one's inner child: BMW M Roadster, Chevrolet Corvette, Mercedes-Benz SLK32 AMG, Porsche Boxster S.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71420674/2001-bmw-m-roadster-chevrolet-corvette-mercedes-benz-slk32-amg-porsche-boxster-s-roadster-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/32cd5e7a-ede7-4aa9-90ab-4c711991872f.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/32cd5e7a-ede7-4aa9-90ab-4c711991872f.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-05-30T13:41:00+00:00"
-    },
-    {
       "id": "a96b484d117df182",
       "title": "BMW iX3 Long Wheelbase Gets Final Real-World Testing In China",
       "summary": "BMW is putting the upcoming iX3 Long Wheelbase through an extensive final testing program in China, ahead of the model’s local launch. The electric SUV will be the first Neue Klasse model developed specifically for... First published by https://www.bmwblog.com",
@@ -1855,6 +1875,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T18:21:33+00:00"
+    },
+    {
+      "id": "52a96224feb9ef6c",
+      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
+      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
+      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-05-26T17:06:00+00:00"
     },
     {
       "id": "e9dbe0abaf477b35",
