@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-19T15:49:29.577271+00:00",
-  "generated_at_human": "2026-06-19 15:49 UTC",
-  "total_items": 285,
+  "generated_at": "2026-06-19T15:52:32.873192+00:00",
+  "generated_at_human": "2026-06-19 15:52 UTC",
+  "total_items": 288,
   "sources_used": [
-    "Autocar BMW",
+    "Autocar BMW M",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -46,11 +46,9 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
-    "CarScoops Alfa",
     "CarScoops BMW",
     "CarScoops Ferrari",
     "CarScoops Ford",
-    "CarScoops Genesis",
     "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarScoops Rolls",
@@ -58,19 +56,21 @@
     "CarScoops Volvo",
     "CarThrottle",
     "Electrek BMW",
+    "Electrek BMW iX",
+    "Hagerty Media",
     "InsideEVs",
     "Kolesa RU",
     "Motor1 BMW",
     "Motor1 Mazda",
     "Motor1 Mini",
     "Motor1 Volvo",
-    "Road & Track",
+    "Road & Track Reviews",
     "The Verge Transp",
     "TopSpeed",
     "What Car"
   ],
   "sources_count": 64,
-  "multi_photo_items": 10,
+  "multi_photo_items": 13,
   "items": [
     {
       "id": "d47960548191eae2",
@@ -227,7 +227,12 @@
       "url": "https://www.motor1.com/news/799237/2026-bmw-i3-first-edition/",
       "image": "https://cdn.motor1.com/images/mgl/pbJ2qr/s3/bmw-i3-50-xdrive-2026-first-edition.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/pbJ2qr/s3/bmw-i3-50-xdrive-2026-first-edition.jpg"
+        "https://cdn.motor1.com/images/mgl/pbJ2qr/s3/bmw-i3-50-xdrive-2026-first-edition.jpg",
+        "https://cdn.motor1.com/images/mgl/40YG9A/s5/bmw-i3-50-xdrive-2026-first-edition.jpg",
+        "https://cdn.motor1.com/images/mgl/lEG1wJ/s5/bmw-i3-50-xdrive-2026-first-edition.jpg",
+        "https://cdn.motor1.com/images/mgl/pbJ2qr/s5/bmw-i3-50-xdrive-2026-first-edition.jpg",
+        "https://cdn.motor1.com/images/mgl/P3B76L/s5/bmw-i3-50-xdrive-2026-first-edition.jpg",
+        "https://cdn.motor1.com/images/mgl/bgPL2M/s5/bmw-i3-50-xdrive-2026-first-edition.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -278,6 +283,19 @@
       "published": "2026-06-18T20:17:00+00:00"
     },
     {
+      "id": "b97851918ac87ba3",
+      "title": "First Drive: Bovensiepen Zagato and 05 GT Point the Way Forward for Alpina’s Founding Family",
+      "summary": "Bovensiepen no longer owns the Alpina name, but as it enters the next phase of its performance-car venture, the company’s tuning spirit lives on in two new models: the Zagato, a coachbuilt M4-based coupe, and the 800-horsepower 05 GT derived from the M5 Touring. We drove both on Austria’s Salzburgring and sat down with CEO […]",
+      "url": "https://www.hagerty.com/media/new-car-reviews/first-drive-bovensiepen-zagato-and-05-gt-point-the-way-forward-for-alpinas-founding-family/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensapien-Zagato-Drive-lede.jpg",
+      "images": [
+        "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensapien-Zagato-Drive-lede.jpg"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-06-18T20:00:00+00:00"
+    },
+    {
       "id": "affc01ef38c6bb3a",
       "title": "BMW opens i3 orders months ahead of schedule as demand takes off",
       "summary": "The new i3 was set to go on sale this fall, but BMW opened orders on Thursday, months ahead of schedule, due to strong demand.",
@@ -312,7 +330,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -367,9 +385,14 @@
       "url": "https://www.roadandtrack.com/reviews/a71296205/tested-2026-bmw-550e-review/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cea29f6f-8a07-493a-b7fb-aa1cd040eeb0.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/a8d0d3eb-e1df-4e66-83b0-9935e55b973d.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/13b4bbf5-10ee-4884-b44f-4a1c59e1c040.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/907a8845-df6e-4532-a5ea-d44ce82697f0.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/99fdf12e-93fc-48f8-81a3-604f60eb31b7.jpg?crop=1.00xw:0.892xh;0"
       ],
-      "source": "Road & Track",
+      "source": "Road & Track Reviews",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-18T13:29:00+00:00"
     },
@@ -525,7 +548,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-29.jpg?itok=9EiO9OoE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
     },
@@ -683,6 +706,19 @@
       "published": "2026-06-16T16:43:03+00:00"
     },
     {
+      "id": "9ad78cb9a0d45098",
+      "title": "Bovensiepen 05 GT Is an M5 Touring-Based Follow-up to the Alpina B5",
+      "summary": "Alpina began writing the next chapter in its story when it joined the BMW Group in January 2026. The Bovensiepen family that started the company is no longer involved in running it, but it’s staying in the car industry via a new brand that wears its name. Its second model, the Bovensiepen 05 GT, made […]",
+      "url": "https://www.hagerty.com/media/news/bovensiepen-05-gt-pricing-specs-pictures/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensiepen_05_GT_04-scaled.jpg",
+      "images": [
+        "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensiepen_05_GT_04-scaled.jpg"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-06-16T14:00:00+00:00"
+    },
+    {
       "id": "e6b60c679e6ee4e5",
       "title": "The 2026 BMW M Drive Tour Lets You Test Many M Cars",
       "summary": "BMW Bulgaria’s M Drive Tour is back for 2026, and for the first time, it’s being held at A1 Motor Park. The circuit was inaugurated just months ago near Samokov in the southwestern part of... First published by https://www.bmwblog.com",
@@ -691,7 +727,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -746,7 +782,12 @@
       "url": "https://www.motor1.com/news/798821/bmw-new-door-handle-design/",
       "image": "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg"
+        "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/40YRbK/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/bgPjRl/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/lEGRWl/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/XBzjRb/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
+        "https://cdn.motor1.com/images/mgl/pbJRmJ/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -831,6 +872,19 @@
       "published": "2026-06-15T15:00:00+00:00"
     },
     {
+      "id": "6fc2917f2ee520da",
+      "title": "All Generations Praise the E46 as the Best Modern BMW",
+      "summary": "Enthusiasts lost something valuable after the 2006 model year, and it was more than just a vehicle. It was the soul of one of the most practical performance cars on the planet. The E46 generation of BMW’s iconic 3 Series (1998–2006) was a cheap beater to some, a wholly aspirational car for others, and the […]",
+      "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/all-generations-praise-the-e46-as-the-best-modern-bmw/",
+      "image": "https://media.hagerty.com/media/wp-content/uploads/2024/07/P90233567_highRes_the-bmw-m3-coup-e46--scaled.jpg",
+      "images": [
+        "https://media.hagerty.com/media/wp-content/uploads/2024/07/P90233567_highRes_the-bmw-m3-coup-e46--scaled.jpg"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-06-15T15:00:00+00:00"
+    },
+    {
       "id": "4e47183362691ca3",
       "title": "BMW Confirms: The Next M3 'Won't Be Hybrid'",
       "summary": "The next-generation M3 will feature BMW's updated S58 inline-six engine with M Ignite technology.",
@@ -894,6 +948,24 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T12:20:37+00:00"
+    },
+    {
+      "id": "036177e7352b9920",
+      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
+      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
+      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
+        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
+        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-15T12:00:00+00:00"
     },
     {
       "id": "0b2ba87a832a5e7f",
@@ -1782,19 +1854,6 @@
       "published": "2026-06-02T23:26:57+00:00"
     },
     {
-      "id": "9b7eb40ff86d9aa6",
-      "title": "The BMW M2 Gets Quicker With A New Trim",
-      "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
-      "url": "https://www.motor1.com/news/797612/2027-bmw-m2-xdrive-specs-price-horsepower/",
-      "image": "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-02T22:01:00+00:00"
-    },
-    {
       "id": "994be73ff06c5ec3",
       "title": "2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only",
       "summary": "BMW has officially confirmed the 2027 M2 with M xDrive, the first all-wheel-drive variant in the model’s history. It arrives in late summer 2026... The post 2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only appeared first on BimmerFile .",
@@ -1805,6 +1864,19 @@
       ],
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
+      "published": "2026-06-02T22:01:00+00:00"
+    },
+    {
+      "id": "9b7eb40ff86d9aa6",
+      "title": "The BMW M2 Gets Quicker With A New Trim",
+      "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
+      "url": "https://www.motor1.com/news/797612/2027-bmw-m2-xdrive-specs-price-horsepower/",
+      "image": "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
       "published": "2026-06-02T22:01:00+00:00"
     },
     {
@@ -2198,6 +2270,19 @@
       "published": "2026-05-26T18:21:33+00:00"
     },
     {
+      "id": "52a96224feb9ef6c",
+      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
+      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
+      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-05-26T17:06:00+00:00"
+    },
+    {
       "id": "e9dbe0abaf477b35",
       "title": "BMW’s Gorgeous V8 Two-Door Wagon Caught High-Speed Testing",
       "summary": "People have mixed feelings about BMW’s design language of the early 2020s. Nevertheless, many seem to agree the Speedtop is among the company’s best work in recent years. It’s already been a year since the... First published by https://www.bmwblog.com",
@@ -2235,24 +2320,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
-    },
-    {
-      "id": "7916c0fbced4069a",
-      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
-      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
-      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Alfa_Romeo_147_GTA-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Alfa_Romeo_147_GTA_2003_and_GTA_Junior_1968-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Stelantis-FaSTLAne-2030-Alfa-Romeo-4-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Stelantis-FaSTLAne-2030-Alfa-Romeo-3-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/05/Stelantis-FaSTLAne-2030-Alfa-Romeo-2-2048x1152.jpg"
-      ],
-      "source": "CarScoops Alfa",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "0eeb5ea10879cc0a",
@@ -3446,7 +3513,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3631,19 +3698,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-02T13:30:17+00:00"
-    },
-    {
-      "id": "3c621a25961ea260",
-      "title": "A 22-Vehicle Plan By 2030 Is Genesis’s Answer To BMW, Mercedes, And Everyone Else",
-      "summary": "The luxury brand that reached one million global sales faster than any rival is now targeting BMW, Mercedes, and Lexus with its biggest product push yet",
-      "url": "https://www.carscoops.com/2026/04/genesis-2030-lineup-expansion/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/Original-5960-DSM6745-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/04/Original-5960-DSM6745-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Genesis",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-04-01T18:02:25+00:00"
     },
     {
       "id": "3cb56155d6f63519",
