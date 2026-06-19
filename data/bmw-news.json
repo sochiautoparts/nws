@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-19T16:13:37.404123+00:00",
-  "generated_at_human": "2026-06-19 16:13 UTC",
-  "total_items": 284,
+  "generated_at": "2026-06-19T16:16:05.278774+00:00",
+  "generated_at_human": "2026-06-19 16:16 UTC",
+  "total_items": 285,
   "sources_used": [
-    "Autocar BMW M",
+    "Autocar BMW i",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -40,6 +40,7 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -47,25 +48,27 @@
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Ford",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarScoops Rolls",
+    "CarScoops Toyota",
+    "CarScoops Volvo",
     "CarThrottle",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
     "InsideEVs",
     "Kolesa RU",
     "Motor1 BMW",
+    "Motor1 Mazda",
     "Motor1 Mini",
-    "Motor1 Subaru",
     "Motor1 Volvo",
-    "Road & Track Reviews",
     "The Verge Transp",
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 59,
-  "multi_photo_items": 13,
+  "sources_count": 62,
+  "multi_photo_items": 11,
   "items": [
     {
       "id": "d47960548191eae2",
@@ -133,7 +136,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/df578bd3-6191-4b0d-b60c-4fc67bb30305.jpg?crop=0.421xw:0.628xh;0.365xw,0.237xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/mitsubishi-montero-1-copy-695546ec9eff6.jpg?crop=0.663xw:0.906xh;0.189xw,0&resize=360:*"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-19T14:00:00+00:00"
     },
@@ -325,7 +328,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -372,24 +375,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:02:18+00:00"
-    },
-    {
-      "id": "3d82d68113852cb0",
-      "title": "Tested: 2026 BMW 550e Makes the Case for a Softer 5 Series PHEV",
-      "summary": "The M5 certainly has its delights, but its six-cylinder hybrid sibling charms in its own way.",
-      "url": "https://www.roadandtrack.com/reviews/a71296205/tested-2026-bmw-550e-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/cea29f6f-8a07-493a-b7fb-aa1cd040eeb0.jpg?crop=1.00xw:0.892xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/a8d0d3eb-e1df-4e66-83b0-9935e55b973d.jpg?crop=1.00xw:0.892xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/13b4bbf5-10ee-4884-b44f-4a1c59e1c040.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/907a8845-df6e-4532-a5ea-d44ce82697f0.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/99fdf12e-93fc-48f8-81a3-604f60eb31b7.jpg?crop=1.00xw:0.892xh;0"
-      ],
-      "source": "Road & Track Reviews",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-18T13:29:00+00:00"
     },
     {
       "id": "21f774dd97313815",
@@ -543,7 +528,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-29.jpg?itok=9EiO9OoE"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
     },
@@ -945,22 +930,17 @@
       "published": "2026-06-15T12:20:37+00:00"
     },
     {
-      "id": "036177e7352b9920",
-      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
-      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
-      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+      "id": "0b2ba87a832a5e7f",
+      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
+      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
+      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
-        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
-        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
       ],
-      "source": "Road & Track Reviews",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-15T12:00:00+00:00"
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-15T10:22:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -1537,6 +1517,19 @@
       "published": "2026-06-08T20:11:00+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Toyota",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "509df123f79cebdf",
       "title": "There Were Only 356 E36 M3 GTs. Here’s Why It Beats the Lightweight",
       "summary": "The argument over which E36 M3 is the one to own has been going on for thirty years. Americans who got the Lightweight will tell you their stripped-out, Alpine White track special is the definitive... First published by https://www.bmwblog.com",
@@ -1823,19 +1816,6 @@
       "published": "2026-06-02T23:26:57+00:00"
     },
     {
-      "id": "9b7eb40ff86d9aa6",
-      "title": "The BMW M2 Gets Quicker With A New Trim",
-      "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
-      "url": "https://www.motor1.com/news/797612/2027-bmw-m2-xdrive-specs-price-horsepower/",
-      "image": "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-02T22:01:00+00:00"
-    },
-    {
       "id": "994be73ff06c5ec3",
       "title": "2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only",
       "summary": "BMW has officially confirmed the 2027 M2 with M xDrive, the first all-wheel-drive variant in the model’s history. It arrives in late summer 2026... The post 2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only appeared first on BimmerFile .",
@@ -1846,6 +1826,19 @@
       ],
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
+      "published": "2026-06-02T22:01:00+00:00"
+    },
+    {
+      "id": "9b7eb40ff86d9aa6",
+      "title": "The BMW M2 Gets Quicker With A New Trim",
+      "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
+      "url": "https://www.motor1.com/news/797612/2027-bmw-m2-xdrive-specs-price-horsepower/",
+      "image": "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/y2lAXe/s3/2027-bmw-m2-xdrive-european-model-shown.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
       "published": "2026-06-02T22:01:00+00:00"
     },
     {
@@ -2003,6 +1996,19 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-05-29T14:00:00+00:00"
+    },
+    {
+      "id": "eb3c52798b89321d",
+      "title": "Lexus’s BMW i3 Sedan Rival Is Dead, But Its Most Ambitious Tech Isn’t",
+      "summary": "Lexus reportedly shelves its next-generation electric sedan while parent company Toyota doubles down on SUVs and waits for the EV market to recover",
+      "url": "https://www.carscoops.com/2026/05/lexus-lf-zc-cancellation/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-29T13:11:00+00:00"
     },
     {
       "id": "2fe92be657f3a6fc",
@@ -2226,19 +2232,6 @@
       "published": "2026-05-26T18:21:33+00:00"
     },
     {
-      "id": "52a96224feb9ef6c",
-      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
-      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
-      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
-      ],
-      "source": "Road & Track Reviews",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-05-26T17:06:00+00:00"
-    },
-    {
       "id": "e9dbe0abaf477b35",
       "title": "BMW’s Gorgeous V8 Two-Door Wagon Caught High-Speed Testing",
       "summary": "People have mixed feelings about BMW’s design language of the early 2020s. Nevertheless, many seem to agree the Speedtop is among the company’s best work in recent years. It’s already been a year since the... First published by https://www.bmwblog.com",
@@ -2419,6 +2412,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -2728,7 +2734,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
@@ -3456,7 +3462,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3755,7 +3761,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Subaru",
+      "source": "Motor1 Mazda",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
