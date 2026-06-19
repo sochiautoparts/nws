@@ -10,6 +10,10 @@
     "BarnFinds",
     "Bike EXIF",
     "Bring a Trailer",
+    "C&D Audi",
+    "C&D Lexus",
+    "C&D Porsche",
+    "C&D Toyota",
     "Car and Driver",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -30,8 +34,8 @@
     "CarThrottle",
     "ClassicCars Journal",
     "Electrek",
-    "Electrek Chevrolet",
     "Electrek Ford EV",
+    "Electrek Hyundai",
     "Electrek Kia EV",
     "Electrek Porsche",
     "Electrek Rivian",
@@ -49,6 +53,7 @@
     "Motor1 Audi",
     "Motor1 Chevrolet",
     "Motor1 Ford",
+    "Motor1 Genesis",
     "Motor1 Honda",
     "Motor1 Jeep",
     "Motor1 Maserati",
@@ -708,19 +713,6 @@
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
       "published": "2026-06-19T14:50:04+00:00"
-    },
-    {
-      "id": "34a3a78a6c769642",
-      "title": "Mercedes VLE Review",
-      "summary": "Wandering Albatross are big birds, and their long wingspans (of nearly 12 feet) help them soar over ocean winds for hours without flapping. So, they’re big and they can travel far. You might be able to see where this is going in regards to the new Mercedes VLE . The VLE is more than 5.3m long; it’s a massive MPV. However, thanks to a big battery and clever aerodynamics – it has a Toyota Prius -beating drag coefficient – the VLE can travel a good distance on charge. The distance in question will worry the Volkswagen ID Buzz . It’s going to do the same for electric seven-seat SUVs, too, like…",
-      "url": "https://www.whatcar.com/mercedes-benz/vle/mpv/review/n29140",
-      "image": "https://media.whatcar.com/wc-image/2026-06/mercedes-vle-driving-front-left.jpg",
-      "images": [
-        "https://media.whatcar.com/wc-image/2026-06/mercedes-vle-driving-front-left.jpg"
-      ],
-      "source": "What Car",
-      "source_url": "https://www.whatcar.com",
-      "published": "2026-06-19T14:49:00+00:00"
     },
     {
       "id": "991bdfdabd9cd32d",
@@ -2643,19 +2635,6 @@
       "published": "2026-06-18T20:58:00+00:00"
     },
     {
-      "id": "9e0cd61a1472ed04",
-      "title": "Best Affordable Luxury Vehicles for 2026",
-      "summary": "These luxury-badged cars and SUVs offer great driving experiences, premium interiors, and plenty of curb appeal—and they all start at less than $47,000.",
-      "url": "https://www.roadandtrack.com/rankings/g63958835/best-affordable-luxury-vehicles/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/88420c6a-3f3c-48ca-8eef-fc36a2e6f656.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/88420c6a-3f3c-48ca-8eef-fc36a2e6f656.jpg"
-      ],
-      "source": "Road & Track",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-18T20:51:00+00:00"
-    },
-    {
       "id": "e9bd4a25e19252bd",
       "title": "Google has discontinued the Nest Home Mini and Nest Audio",
       "summary": "On to the next one.",
@@ -3760,19 +3739,6 @@
       "published": "2026-06-18T14:00:22+00:00"
     },
     {
-      "id": "30609f62a0265cdc",
-      "title": "We toured the Aptera factory to see if the solar EV company is gonna make it",
-      "summary": "Alongside finally getting a chance to drive the Aptera 3-wheeled solar EV , we got a short tour around the company’s facility. It was illuminating – showing off the progress Aptera has made and the challenges still to come for the company.",
-      "url": "https://electrek.co/2026/06/18/we-toured-the-aptera-factory-to-see-if-the-company-is-gonna-make-it/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/aptera-factory-header-wide-e1781557734625.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/06/aptera-factory-header-wide-e1781557734625.jpg?quality=82&#038;strip=all&#038;w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-06-18T14:00:00+00:00"
-    },
-    {
       "id": "d142fad86eeba374",
       "title": "This Is The World's Fastest Lego Car",
       "summary": "The full-size Lego Technic build took more than 9,000 hours and features over 327,000 pieces, yet still managed to reach 69 mph at Goodwood.",
@@ -3796,6 +3762,19 @@
       ],
       "source": "Engadget Auto",
       "source_url": "https://www.engadget.com",
+      "published": "2026-06-18T14:00:00+00:00"
+    },
+    {
+      "id": "30609f62a0265cdc",
+      "title": "We toured the Aptera factory to see if the solar EV company is gonna make it",
+      "summary": "Alongside finally getting a chance to drive the Aptera 3-wheeled solar EV , we got a short tour around the company’s facility. It was illuminating – showing off the progress Aptera has made and the challenges still to come for the company.",
+      "url": "https://electrek.co/2026/06/18/we-toured-the-aptera-factory-to-see-if-the-company-is-gonna-make-it/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/aptera-factory-header-wide-e1781557734625.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "images": [
+        "https://electrek.co/wp-content/uploads/sites/3/2026/06/aptera-factory-header-wide-e1781557734625.jpg?quality=82&#038;strip=all&#038;w=1600"
+      ],
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
       "published": "2026-06-18T14:00:00+00:00"
     },
     {
@@ -4473,6 +4452,32 @@
       "published": "2026-06-18T08:00:00+00:00"
     },
     {
+      "id": "1a05c821f5169642",
+      "title": "Maserati's refreshed lineup brings more V6 power, more EV range",
+      "summary": "The Italian brand has shown off its updated GranTurismo, GranCabrio, and Grecale, with subtle tweaks and enhancements aimed at improving the driver experience.",
+      "url": "https://www.carexpert.com.au/car-news/maseratis-refreshed-lineup-brings-more-v6-power-more-ev-range",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-maserati-granturismo-trofeo-facelift.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2026-maserati-granturismo-trofeo-facelift.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-18T08:00:00+00:00"
+    },
+    {
+      "id": "5837cb216e674214",
+      "title": "Maserati eyeing two potential partners, Chinese involvement likely",
+      "summary": "An international partnership is effectively guaranteed for Maserati, as its parent company looks to external partners for help with future electrified models.",
+      "url": "https://www.carexpert.com.au/car-news/maserati-eyeing-two-potential-partners-chinese-involvement-likely",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2024-08-maserati-quattroporte-grand-finale-v8-edit-3x2-3.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2024-08-maserati-quattroporte-grand-finale-v8-edit-3x2-3.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-18T08:00:00+00:00"
+    },
+    {
       "id": "98beb49b6a486ab8",
       "title": "Maserati Refreshes Grecale, GranTurismo And GranCabrio For 2027, Even If You'll Probably Never Notice",
       "summary": "The changes largely amount to redesigned bumpers and a new clock inside, and shocking Maserati is continuing to sell the Folgore EV versions of all three cars.",
@@ -4916,19 +4921,6 @@
       "published": "2026-06-17T21:00:00+00:00"
     },
     {
-      "id": "f52915c755ec661a",
-      "title": "The Best Watches Under $400 for Enthusiasts Who Know Better",
-      "summary": "Don't be fooled by these affordable prices. You'll find at least one of these timepieces in any discerning horologist's collection.",
-      "url": "https://www.roadandtrack.com/gear/lifestyle/g43625288/best-watches-under-400/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d5cfdc2a-c5d1-4ad0-a1c1-795b02704d6b.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d5cfdc2a-c5d1-4ad0-a1c1-795b02704d6b.jpg"
-      ],
-      "source": "Road & Track",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-17T20:49:00+00:00"
-    },
-    {
       "id": "dc209efdd2e704f2",
       "title": "Land Rover Is Planning a Stellantis-Based Defender for the U.S.",
       "summary": "Jaguar Land Rover announced that its partnership with Stellantis will produce a Defender for the U.S. market, as the British automaker shifts focus from China.",
@@ -5072,19 +5064,6 @@
       "source": "CarScoops Tesla",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-17T17:48:00+00:00"
-    },
-    {
-      "id": "2ebbc70fe8ff9e2b",
-      "title": "Best Car Tire Shines of 2026, Tested",
-      "summary": "Your sidewalls can shine as bright as your paint. These are the tire dressings that prove it.",
-      "url": "https://www.roadandtrack.com/gear/g65477752/best-tire-shines-tested/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/tire-shine-688bb95112aa9.png",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/tire-shine-688bb95112aa9.png"
-      ],
-      "source": "Road & Track",
-      "source_url": "https://www.roadandtrack.com",
-      "published": "2026-06-17T17:44:00+00:00"
     },
     {
       "id": "0cfbf98283e0b9f7",
@@ -5795,6 +5774,24 @@
       "published": "2026-06-16T21:22:00+00:00"
     },
     {
+      "id": "b91db6878647d14d",
+      "title": "2026 Lexus ES EV",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/lexus/es-ev",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cb0780f6-0c5d-447f-a225-66b8de4fea5a.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/cb0780f6-0c5d-447f-a225-66b8de4fea5a.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/9c342613-c7c5-41b0-b88e-bf3d2f47c9db.jpg?crop=0.888xw:0.749xh;0.0723xw",
+        "https://hips.hearstapps.com/hmg-prod/images/c09f885b-8e8c-484f-ac9f-8ddd958f6d53.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-tesla-model-3-standard-120-68e3fb1f4d3ec.jpg?crop=0.792xw:0.668xh;0.159xw,0.221xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/hyundai-ioniq-6-141-64594931612f1.jpg?crop=0.681xw:0.575xh;0.207xw,0.409xh&resize=700:*"
+      ],
+      "source": "C&D Lexus",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T21:04:00+00:00"
+    },
+    {
       "id": "f44c173a4dcf265a",
       "title": "Honda Gives SUV Owners A Free Way To Have More Fun Off-Road",
       "summary": "The Japanese automaker takes a page out of Jeep’s playbook to make its TrailSport models more enjoyable.",
@@ -5824,6 +5821,42 @@
       "source": "AutoWeek News",
       "source_url": "https://www.autoweek.com",
       "published": "2026-06-16T20:54:00+00:00"
+    },
+    {
+      "id": "972a721fee201fe0",
+      "title": "2027 Toyota C-HR",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/toyota/c-hr-2027",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/05e2fc58-ab28-42a7-a1f3-c16c42862a26.jpg?crop=0.575xw:0.486xh;0.170xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f570a798-b868-4de6-bb00-a8aa02647adb.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/f5ba5e75-d61e-4021-9fd4-5f73dda1877c.jpg?crop=0.696xw:0.586xh;0.149xw,0.287xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-nissan-leaf-114-68c2d5371c728.jpg?crop=0.833xw:0.702xh;0.0732xw,0.217xh&resize=700:*"
+      ],
+      "source": "C&D Toyota",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T20:44:00+00:00"
+    },
+    {
+      "id": "a27353982533a210",
+      "title": "2026 Toyota C-HR",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/toyota/c-hr",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/05e2fc58-ab28-42a7-a1f3-c16c42862a26.jpg?crop=0.578xw:0.488xh;0.169xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f570a798-b868-4de6-bb00-a8aa02647adb.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/f5ba5e75-d61e-4021-9fd4-5f73dda1877c.jpg?crop=0.696xw:0.586xh;0.149xw,0.287xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-nissan-leaf-114-68c2d5371c728.jpg?crop=0.833xw:0.702xh;0.0732xw,0.217xh&resize=700:*"
+      ],
+      "source": "C&D Toyota",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T20:38:00+00:00"
     },
     {
       "id": "a9f86e05b6be3add",
@@ -5948,7 +5981,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/02/Hyundai-IONIQ-5-best-EV-4.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek Chevrolet",
+      "source": "Electrek Hyundai",
       "source_url": "https://electrek.co",
       "published": "2026-06-16T17:42:00+00:00"
     },

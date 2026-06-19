@@ -19,7 +19,7 @@ no logos, icons, trackers, or placeholders ever land in the JSON output.
 Tuning (2026-06):
   - MAX_AGE_DAYS = 14  (was 7) so the BMW file reliably has hundreds of items
   - Output caps: BMW = top 500, Auto = top 500
-  - 243 sources total (70 BMW + 173 general auto)
+  - 251 sources total (76 BMW + 175 general auto)
   - All items are guaranteed to have at least one quality photo (photoless
     articles are now dropped — not just garbage-photo ones)
 """
@@ -149,6 +149,13 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "BMW Blog i tag",        "url": "https://bmwblog.com/tag/bmw-i/feed/",                     "category": "bmw"},
     {"name": "BMW Blog Mini Cooper",  "url": "https://bmwblog.com/tag/mini-cooper/feed/",               "category": "bmw"},
     {"name": "BMW Blog Rolls-Royce",  "url": "https://bmwblog.com/tag/rolls-royce/feed/",               "category": "bmw"},
+    # ── NEW (r6-r7): BMW Blog tag feeds verified quality-photo ──────────────
+    {"name": "BMW Blog M3 tag2",      "url": "https://bmwblog.com/tag/m3/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog M4 tag2",      "url": "https://bmwblog.com/tag/m4/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog M5 tag2",      "url": "https://bmwblog.com/tag/m5/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog M8 tag2",      "url": "https://bmwblog.com/tag/m8/feed/",                        "category": "bmw"},
+    {"name": "BMW Blog Motorrad tag", "url": "https://bmwblog.com/tag/bmw-motorrad/feed/",              "category": "bmw"},
+    {"name": "BMW Blog Concepts tag", "url": "https://bmwblog.com/tag/concepts/feed/",                  "category": "bmw"},
 
     # ── BMW-specific — other sites ───────────────────────────────────────────
     {"name": "BimmerFile",            "url": "https://bimmerfile.com/feed/",                            "category": "bmw"},
@@ -181,9 +188,8 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Motor1 News",           "url": "https://www.motor1.com/rss/articles/category/news/",       "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Reviews",        "url": "https://www.motor1.com/rss/articles/category/reviews/",    "category": "auto", "scrape_gallery": True},
     {"name": "Motor1 Classics",       "url": "https://www.motor1.com/rss/articles/category/classics/",   "category": "auto", "scrape_gallery": True},
-    {"name": "Road & Track",          "url": "https://www.roadandtrack.com/rss/all.xml",                 "category": "auto", "scrape_gallery": True},
-    {"name": "Road & Track News",     "url": "https://www.roadandtrack.com/rss/news.xml",                "category": "auto", "scrape_gallery": True},
-    {"name": "Road & Track Reviews",  "url": "https://www.roadandtrack.com/rss/reviews.xml",             "category": "auto", "scrape_gallery": True},
+    # NOTE: Road & Track (all/News/Reviews) removed per request — replaced
+    # with broader quality sources (Auto.Mail.RU, Motoring Research, etc.)
     {"name": "HotCars",               "url": "https://www.hotcars.com/feed/",                            "category": "auto", "scrape_gallery": True},
     {"name": "TopSpeed",              "url": "https://www.topspeed.com/feed/",                           "category": "auto", "scrape_gallery": True},
     {"name": "AutoWeek News",         "url": "https://www.autoweek.com/rss/news/",                       "category": "auto", "scrape_gallery": True},
@@ -208,6 +214,12 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Speed Academy",         "url": "https://www.speedacademy.net/feed/",                      "category": "auto"},
     {"name": "Track Day",             "url": "https://trackdaymag.com/feed/",                           "category": "auto"},
     {"name": "Kolesa RU",             "url": "https://www.kolesa.ru/rss",                               "category": "auto"},
+    # ── General automotive — NEW premium broad feeds (2026-06 expansion r5-r7) ─
+    {"name": "Auto.Mail.RU",          "url": "https://news.mail.ru/rss/auto/",                          "category": "auto"},
+    {"name": "Motoring Research",     "url": "https://www.motoringresearch.com/feed/",                  "category": "auto"},
+    {"name": "TopSpeed main",         "url": "https://www.topspeed.com/feed",                           "category": "auto", "scrape_gallery": True},
+    {"name": "GM Authority News",     "url": "https://gmauthority.com/blog/category/news/feed/",        "category": "auto"},
+    {"name": "Carscoops News",        "url": "https://www.carscoops.com/category/news/feed/",           "category": "auto", "scrape_gallery": True},
 
     # ── General automotive — CarScoops brand tags (gallery-enabled) ──────────
     {"name": "CarScoops Audi",        "url": "https://www.carscoops.com/tag/audi/feed/",                 "category": "auto", "scrape_gallery": True},
