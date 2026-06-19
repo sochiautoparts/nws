@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-19T13:01:24.880532+00:00",
-  "generated_at_human": "2026-06-19 13:01 UTC",
-  "total_items": 243,
+  "generated_at": "2026-06-19T14:49:17.195772+00:00",
+  "generated_at_human": "2026-06-19 14:49 UTC",
+  "total_items": 248,
   "sources_used": [
     "5koleso RU",
     "Autocar",
@@ -36,6 +36,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -48,11 +49,66 @@
     "Motor1 Mazda",
     "Motor1 Mini",
     "Motor1 Volvo",
-    "Road & Track"
+    "Road & Track Reviews",
+    "TopSpeed"
   ],
-  "sources_count": 45,
-  "multi_photo_items": 10,
+  "sources_count": 47,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "6e46eb2892e676a0",
+      "title": "The Japanese Luxury Sedan That Left The BMW 3 Series In Its Dust",
+      "summary": "This Japanese manufacturer made a big statement in the luxury sedan market in 2025. It's also got big plans ahead.",
+      "url": "https://carbuzz.com/lexus-es-outsold-bmw-3-series-in-2025/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2024-lexus-es-front-fender.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2024-lexus-es-front-fender.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2025-lexus-es-black-line-exterior-2-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/08/2025-lexus-es-350-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/cropped-p90549616_highres_the-new-bmw-330i-sed.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/2025-lexus-es-250-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2026-lexus-es-350e-studio-shots-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-19T14:15:12+00:00"
+    },
+    {
+      "id": "6e0d41daad34dd1e",
+      "title": "BMW Hasn't Ruled Out More Fast Wagons for the U.S.",
+      "summary": "The M5 is selling almost 50 percent in the Touring variant, and BMW is listening to what its M customers want.",
+      "url": "https://www.caranddriver.com/news/a71630579/bmw-hasnt-ruled-out-more-fast-wagons-for-the-us/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-3-series-wagon-106-1560356711.jpg?crop=1xw:0.9167590632664718xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/bcfe3526-64d7-4a89-ba0d-c46b0772d19f.jpg?crop=0.644xw:0.857xh;0.140xw,0.0844xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/df578bd3-6191-4b0d-b60c-4fc67bb30305.jpg?crop=0.421xw:0.628xh;0.365xw,0.237xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/mitsubishi-montero-1-copy-695546ec9eff6.jpg?crop=0.663xw:0.906xh;0.189xw,0&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-19T14:00:00+00:00"
+    },
+    {
+      "id": "2b03a448677cecb7",
+      "title": "The $3,000 BMW Adventure Bike That Costs Less Than A Tenere 700 Deposit",
+      "summary": "This Beemer ADV can do most things a modern middleweight ADV can while being an absolute bargain in the used market.",
+      "url": "https://www.topspeed.com/bmw-adventure-bike-costs-less-than-tenere-deposit/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/bmw-f-650-gs-dakar-6.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/bmw-f-650-gs-dakar-6.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2026-yamaha-tenere-700.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/rider-on-a-2025-yamaha-t-n-r-700-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/rider-on-a-2025-yamaha-t-n-r-700-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/bmw-f-650-gs-dakar-12.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/bmw-f-650-gs-dakar-15.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-19T13:31:19+00:00"
+    },
     {
       "id": "be7434fb97674d92",
       "title": "BMW’s Rare New Wagon Loses Most Of Its Camouflage",
@@ -75,7 +131,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-07-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T11:03:55+00:00"
     },
@@ -268,9 +324,14 @@
       "url": "https://www.roadandtrack.com/reviews/a71296205/tested-2026-bmw-550e-review/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/908a5632-d67a-4dbe-85d6-9d4b8910c7fb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cea29f6f-8a07-493a-b7fb-aa1cd040eeb0.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/a8d0d3eb-e1df-4e66-83b0-9935e55b973d.jpg?crop=1.00xw:0.892xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/13b4bbf5-10ee-4884-b44f-4a1c59e1c040.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/907a8845-df6e-4532-a5ea-d44ce82697f0.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/99fdf12e-93fc-48f8-81a3-604f60eb31b7.jpg?crop=1.00xw:0.892xh;0"
       ],
-      "source": "Road & Track",
+      "source": "Road & Track Reviews",
       "source_url": "https://www.roadandtrack.com",
       "published": "2026-06-18T13:29:00+00:00"
     },
@@ -579,7 +640,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -761,6 +822,24 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T13:13:46+00:00"
+    },
+    {
+      "id": "036177e7352b9920",
+      "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
+      "summary": "We experience the new X5 in gas, PHEV, and EV forms before its reveal.",
+      "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/7e7a7b6d-87f2-4067-8a84-c52b9e782e5d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/b3f928eb-b823-495b-b741-cee98bfba7d1.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/e42013a7-bc6b-4a12-b108-42be562e88e0.jpg?crop=0.956xw:0.806xh;0.0442xw",
+        "https://hips.hearstapps.com/hmg-prod/images/62ece23d-f0eb-4843-9584-80ae34f64aa2.jpg?crop=0.774xw:0.653xh;0.0986xw",
+        "https://hips.hearstapps.com/hmg-prod/images/28500e48-6c13-4b47-9fcf-66a304a1a53a.jpg?crop=1.00xw:0.847xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/ef05d3da-a48d-483e-a670-72bfed6dfaab.jpg?crop=0.867xw:0.732xh;0.133xw"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-06-15T12:00:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -1831,6 +1910,19 @@
       "published": "2026-05-26T18:21:33+00:00"
     },
     {
+      "id": "52a96224feb9ef6c",
+      "title": "Tested: 2026 BMW M3 Competition xDrive Is Excellent at Almost Everything",
+      "summary": "Small revisions strengthen the case for the all-wheel-drive version of BMW's scintillating sports sedan.",
+      "url": "https://www.roadandtrack.com/reviews/a71138097/tested-2026-bmw-m3-competition-xdrive-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/82a6e373-d799-45c9-93da-52153224ec31.jpg"
+      ],
+      "source": "Road & Track Reviews",
+      "source_url": "https://www.roadandtrack.com",
+      "published": "2026-05-26T17:06:00+00:00"
+    },
+    {
       "id": "e9dbe0abaf477b35",
       "title": "BMW’s Gorgeous V8 Two-Door Wagon Caught High-Speed Testing",
       "summary": "People have mixed feelings about BMW’s design language of the early 2020s. Nevertheless, many seem to agree the Speedtop is among the company’s best work in recent years. It’s already been a year since the... First published by https://www.bmwblog.com",
@@ -2255,7 +2347,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
