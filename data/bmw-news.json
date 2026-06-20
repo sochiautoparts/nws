@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-20T12:09:57.332250+00:00",
-  "generated_at_human": "2026-06-20 12:09 UTC",
-  "total_items": 281,
+  "generated_at": "2026-06-20T14:27:53.966727+00:00",
+  "generated_at_human": "2026-06-20 14:27 UTC",
+  "total_items": 284,
   "sources_used": [
-    "Autocar BMW",
+    "Autocar",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -40,19 +40,20 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops BMW",
     "CarScoops Ferrari",
-    "CarScoops Ford",
     "CarScoops Mercedes",
     "CarScoops Rolls",
-    "CarScoops Toyota",
     "CarThrottle",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
-    "InsideEVs",
+    "HotCars",
     "Kolesa RU",
     "Motor1 BMW",
     "Motor1 Mazda",
@@ -63,9 +64,143 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 58,
-  "multi_photo_items": 13,
+  "sources_count": 59,
+  "multi_photo_items": 17,
   "items": [
+    {
+      "id": "de6e7d55f6215160",
+      "title": "Ferrari's Family Car Is Now Cheaper Than A Brand-New BMW M5",
+      "summary": "While the new BMW M5 is as much of a powerhouse as ever, if you play the used market correctly, you could have Ferrari's family car for less.",
+      "url": "https://carbuzz.com/ferrari-ff-family-car-cheaper-than-2026-bmw-m5/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2012-ferrari-ff.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2012-ferrari-ff.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-front.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/ferrari-ff.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-trunk.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-rear-seat.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-20T14:15:12+00:00"
+    },
+    {
+      "id": "fb5866744baabe96",
+      "title": "The Naturally Aspirated V8 Enthusiasts Should Hoard Before 2026 Ends",
+      "summary": "The BMW S65, Ford Voodoo, Ferrari F136, Lexus 2UR-GSE, and Dodge 392 HEMI are appreciating fast. Here's why collectors are hoarding them now.",
+      "url": "https://www.topspeed.com/naturally-aspirated-v8-to-hoard/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-22-1.jpeg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-22-1.jpeg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/2025_lexus-lc-0046.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/05/5ee8ea1d-3f3f-4808-a893-97e7b0e6a373.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/2025-lamborghini-temerario-porto-cervo-11.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/fdd.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/06/ferrari-458_italia-2011-1600-1c.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-20T14:00:21+00:00"
+    },
+    {
+      "id": "0939c1630c4f22fb",
+      "title": "How Acura's Coupe Outdrove A BMW 535i In '92",
+      "summary": "The 1993 Acura Legend Type II made 230 hp and cost far less than the BMW 535i — a comparison the automotive press never ran.",
+      "url": "https://www.hotcars.com/how-acuras-coupe-outdrove-a-bmw-535i/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/acura-legend-front-closeup.jpeg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/acura-legend-front-closeup.jpeg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/02/lincoln-mk-viii-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/web-50705-2012-cadillac-ctsv-185-36073.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/1995-acura-legend-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/bmw-535i-e34-front-right-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/acura-legend-1993.jpeg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-06-20T14:00:17+00:00"
+    },
+    {
+      "id": "de528ce4263bf4e0",
+      "title": "Original-Owner 2003 BMW M3 Convertible 6-Speed",
+      "summary": "This 2003 BMW M3 convertible was purchased new by the seller from Leith Motors in Raleigh, North Carolina, and has 59k miles. Powered by a 3.2-liter inline-six linked with a six-speed manual transmission and a limited-slip differential, the car is finished in Imola Red over black Nappa leather upholstery. Features include a black soft top, 19\" M double-spoke Style 67 wheels, xenon headlights, heated power-adjustable front sport seats, a Harman Kardon sound system, and automatic climate control. This E46 M3 is offered with manufacturer's literature, a clean Carfax report, and a clean Utah…",
+      "url": "https://bringatrailer.com/listing/2003-bmw-m3-convertible-175/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/04/2003_bmw_m3-convertible_2003_bmw_m3-convertible_56515765-96c0-425f-8675-6a77079ebccc-BjwpkN-55274-55275-scaled.jpg?fit=940%2C627",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/04/2003_bmw_m3-convertible_2003_bmw_m3-convertible_56515765-96c0-425f-8675-6a77079ebccc-BjwpkN-55274-55275-scaled.jpg?fit=940%2C627"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-06-20T13:40:10+00:00"
+    },
+    {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/61525f3e-7f69-47d9-af90-e0f70b722947.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2af20829-a49e-4332-9d30-679d5194391d.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/4e0afd62-86f1-4b01-9c93-899252da0511.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/503f88d6-1aff-4c7d-891d-d5f9a1412238.jpg?resize=980:*"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
+    },
+    {
+      "id": "b44ff322b9befe0d",
+      "title": "View Photos of the 1997 Luxury Sedan Comparison Test",
+      "summary": "See the interior and exterior of the 1997 Infiniti Q45t, Lexus LS400, BMW 540i and Mercedes-Benz E420 from every angle.",
+      "url": "https://www.caranddriver.com/photos/g71621402/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test-gallery/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/61525f3e-7f69-47d9-af90-e0f70b722947.jpg?crop=1xw:1xh;center,top",
+        "https://hips.hearstapps.com/hmg-prod/images/1f80b81f-d3b3-4276-bdca-439396edea90.jpg?crop=1xw:1xh;center,top",
+        "https://hips.hearstapps.com/hmg-prod/images/33abb8b6-8fe7-4248-ac14-eb695be7b05f.jpg?crop=1xw:1xh;center,top",
+        "https://hips.hearstapps.com/hmg-prod/images/4e0afd62-86f1-4b01-9c93-899252da0511.jpg?crop=1xw:1xh;center,top",
+        "https://hips.hearstapps.com/hmg-prod/images/fba9cf07-9b46-4ed7-898f-91e3ff8d0ca6.jpg?crop=1xw:1xh;center,top"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
+    },
+    {
+      "id": "0084eaa0098c98d4",
+      "title": "16k-Mile 2009 BMW M3 Coupe",
+      "summary": "This 2009 BMW M3 coupe was specified in Jerez Black Metallic and with the Cold Weather, Technology, and Premium Packages. Indicating 16k miles, the car was purchased by the seller in 2010 and is powered by a 4.0-liter V8 paired with a seven-speed dual-clutch transmission. Features include a black leather interior, a limited-slip differential, xenon headlights, a carbon-fiber roof panel, 19\" forged Style 220 wheels, heated front seats, navigation, dual-zone automatic climate control, and cruise control. This E92 M3 is offered with a clean Carfax report and a clean North Carolina title in…",
+      "url": "https://bringatrailer.com/listing/2009-bmw-m3-coupe-65/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/A_1_Driver_Side-7-47330-scaled.jpg?fit=940%2C592",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/A_1_Driver_Side-7-47330-scaled.jpg?fit=940%2C592"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-06-20T13:10:08+00:00"
+    },
+    {
+      "id": "670e627b91f952b0",
+      "title": "The Sports Sedan With Honda Reliability And BMW M-Car Reflexes",
+      "summary": "This compact Korean sports sedan introduces the best of both worlds to cautious gear heads.",
+      "url": "https://www.topspeed.com/sports-sedan-honda-reliability-bmw-m-reflexes/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/2025-hyundai-elantra-n-tcr-topspeed-9.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/2025-hyundai-elantra-n-tcr-topspeed-9.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/08/2025-hyundai-elantra-n-tcr-topspeed-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/hyundai-veloster-n-side-trak.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/2026-hyundai-ioniq-6-n-8.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/2025-hyundai-elantra-n-tcr-topspeed-50.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/08/2025-hyundai-elantra-n-tcr-topspeed-13.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-20T13:01:19+00:00"
+    },
     {
       "id": "cc73a3452cd138cc",
       "title": "This Japanese SUV Quietly Outsmarts Luxury Brands",
@@ -73,12 +208,7 @@
       "url": "https://www.topspeed.com/japanese-suv-quietly-outsmarts-luxury-brands/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-mazda-cx-70-16.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-mazda-cx-70-16.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/p90568111_highres_the-new-bmw-x3-m50-x.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/a243945_large.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-mazda-cx-70-14.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-mazda-cx-70-13.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/01/2025_cx-70_04.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-mazda-cx-70-16.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -135,22 +265,9 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/will-rimell-2024-jb20240912_5562_2_0.jpg?itok=Ma_qqi2K"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-20T05:00:00+00:00"
-    },
-    {
-      "id": "27549bc342e7d3dc",
-      "title": "2011 BMW M3 Coupe Competition Package 6-Speed",
-      "summary": "This 2011 BMW M3 coupe remained registered in California to its original owner until it was purchased by its current owner on BaT in June 2022 and relocated to Texas. Subsequent work included replacing the EDC module, tires, connecting-rod bearings, brake pads and rotors, and valve and VANOS covers along with powder-coating the 19\" Style 359 wheels and fitting a Valvetronic exhaust system, headlight \"angel eyes,\" and carbon-fiber exterior trim. Now with 63k miles, the car is finished in Jet Black over matching Novillo leather and is powered by a 4.0-liter V8 mated to a six-speed manual…",
-      "url": "https://bringatrailer.com/listing/2011-bmw-m3-178-2-2/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/DSC01318-21147-scaled-5p2uO1-1-copy-2026-06-19-ohc-48394.jpg?fit=940%2C627",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/DSC01318-21147-scaled-5p2uO1-1-copy-2026-06-19-ohc-48394.jpg?fit=940%2C627"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-19T23:21:24+00:00"
     },
     {
       "id": "b4996f1a2fe99d3c",
@@ -231,7 +348,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-07-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T11:03:55+00:00"
     },
@@ -257,7 +374,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-4-830x603.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T10:12:22+00:00"
     },
@@ -358,7 +475,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -371,7 +488,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
     },
@@ -382,14 +499,9 @@
       "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7bec5391-6d19-4bfb-856e-33cf82bc7c3c.jpg?crop=1.00xw:1.00xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/55c0b1c8-cba7-41a8-8812-89ab92e413cc.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/d9e55d36-3a92-40f2-b8a6-7d3b72530f9f.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a5275cbe-2f6c-4251-a624-89b0180b7141.jpg?resize=980:*"
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T14:39:00+00:00"
     },
@@ -558,22 +670,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-15-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-17T10:21:53+00:00"
-    },
-    {
-      "id": "ccdab2b2ee148919",
-      "title": "BMW Is Opening i3 Orders Way Ahead Of Schedule Due To Huge Demand",
-      "summary": "BMW had originally planned to open the order books for the all-electric 3 Series this fall. Customers had other ideas.",
-      "url": "https://insideevs.com/news/798955/bmw-i3-orders-ahead-of-schedule/",
-      "image": "https://cdn.motor1.com/images/mgl/xq3ojw/s3/the-new-bmw-i3.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/xq3ojw/s3/the-new-bmw-i3.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-06-17T07:30:09+00:00"
     },
     {
       "id": "89118454abaf7609",
@@ -919,19 +1018,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T12:20:37+00:00"
-    },
-    {
-      "id": "0b2ba87a832a5e7f",
-      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
-      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
-      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-15T10:22:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -1495,19 +1581,6 @@
       "published": "2026-06-08T20:11:00+00:00"
     },
     {
-      "id": "61727afbda653219",
-      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
-      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
-      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Toyota",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-08T17:23:00+00:00"
-    },
-    {
       "id": "509df123f79cebdf",
       "title": "There Were Only 356 E36 M3 GTs. Here’s Why It Beats the Lightweight",
       "summary": "The argument over which E36 M3 is the one to own has been going on for thirty years. Americans who got the Lightweight will tell you their stripped-out, Alpine White track special is the definitive... First published by https://www.bmwblog.com",
@@ -1859,19 +1932,6 @@
       "published": "2026-06-02T13:46:26+00:00"
     },
     {
-      "id": "a2b21f664e4d7b04",
-      "title": "1993 BMW 525i Touring Tested: BMW's First Wagon in America",
-      "summary": "From the archive: Handy for heists, Willie would've loved it.",
-      "url": "https://www.caranddriver.com/reviews/a71431519/1993-bmw-525i-touring-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-02T13:43:00+00:00"
-    },
-    {
       "id": "5a160d50249e9df1",
       "title": "BMW M2 With Track Kit Honors Two Race Car Legends",
       "summary": "BMW has built only four M2s equipped with the newly launched M Performance Track Kit so far. One of them is in the Czech Republic, where the company’s local division is celebrating its 20th anniversary.... First published by https://www.bmwblog.com",
@@ -2062,7 +2122,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2218,7 +2278,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3414,7 +3474,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
