@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-20T11:06:05.543929+00:00",
-  "generated_at_human": "2026-06-20 11:06 UTC",
-  "total_items": 278,
+  "generated_at": "2026-06-20T11:25:29.895667+00:00",
+  "generated_at_human": "2026-06-20 11:25 UTC",
+  "total_items": 274,
   "sources_used": [
-    "Autocar BMW M",
+    "Autocar BMW",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -40,28 +40,28 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarScoops BMW",
     "CarScoops Ferrari",
-    "CarScoops Ford",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
     "InsideEVs",
     "Kolesa RU",
     "Motor1 BMW",
-    "Motor1 Mazda",
     "Motor1 Mini",
+    "Motor1 Subaru",
     "Motor1 Volvo",
     "The Verge Transp",
     "What Car"
   ],
   "sources_count": 55,
-  "multi_photo_items": 12,
+  "multi_photo_items": 11,
   "items": [
     {
       "id": "e73e5c773580a662",
@@ -88,7 +88,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/will-rimell-2024-jb20240912_5562_2_0.jpg?itok=Ma_qqi2K"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-20T05:00:00+00:00"
     },
@@ -184,7 +184,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-07-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T11:03:55+00:00"
     },
@@ -210,7 +210,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-4-830x603.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T10:12:22+00:00"
     },
@@ -311,7 +311,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -324,7 +324,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
     },
@@ -335,14 +335,9 @@
       "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7bec5391-6d19-4bfb-856e-33cf82bc7c3c.jpg?crop=1.00xw:1.00xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/55c0b1c8-cba7-41a8-8812-89ab92e413cc.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/d9e55d36-3a92-40f2-b8a6-7d3b72530f9f.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a5275cbe-2f6c-4251-a624-89b0180b7141.jpg?resize=980:*"
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T14:39:00+00:00"
     },
@@ -498,7 +493,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-29.jpg?itok=9EiO9OoE"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
     },
@@ -524,7 +519,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-15-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-17T10:21:53+00:00"
     },
@@ -757,19 +752,6 @@
       "published": "2026-06-16T00:29:00+00:00"
     },
     {
-      "id": "7a1e2a6a9a3086dd",
-      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
-      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
-      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-15T19:49:00+00:00"
-    },
-    {
       "id": "008d2e899c4f29d6",
       "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
       "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
@@ -887,19 +869,6 @@
       "published": "2026-06-15T12:20:37+00:00"
     },
     {
-      "id": "0b2ba87a832a5e7f",
-      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
-      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
-      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-15T10:22:00+00:00"
-    },
-    {
       "id": "57ded44a7b2eb04f",
       "title": "Ex-BMW Designer Makes The M5 Touring Look More Elegant",
       "summary": "The Frank Stephenson-styled super wagon is far more expensive than the regular car.",
@@ -1002,19 +971,6 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-13T16:50:40+00:00"
-    },
-    {
-      "id": "915f79c9f73f6c59",
-      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
-      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
-      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-13T14:21:00+00:00"
     },
     {
       "id": "7289a986e074099a",
@@ -1812,19 +1768,6 @@
       "published": "2026-06-02T13:46:26+00:00"
     },
     {
-      "id": "a2b21f664e4d7b04",
-      "title": "1993 BMW 525i Touring Tested: BMW's First Wagon in America",
-      "summary": "From the archive: Handy for heists, Willie would've loved it.",
-      "url": "https://www.caranddriver.com/reviews/a71431519/1993-bmw-525i-touring-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/e9c49452-c59a-41ff-bdd5-c46301fc83cc.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-02T13:43:00+00:00"
-    },
-    {
       "id": "5a160d50249e9df1",
       "title": "BMW M2 With Track Kit Honors Two Race Car Legends",
       "summary": "BMW has built only four M2s equipped with the newly launched M Performance Track Kit so far. One of them is in the Czech Republic, where the company’s local division is celebrating its 20th anniversary.... First published by https://www.bmwblog.com",
@@ -2015,7 +1958,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2171,7 +2114,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3367,7 +3310,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3666,7 +3609,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Mazda",
+      "source": "Motor1 Subaru",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
