@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-20T08:28:33.538298+00:00",
-  "generated_at_human": "2026-06-20 08:28 UTC",
-  "total_items": 276,
+  "generated_at": "2026-06-20T11:06:05.543929+00:00",
+  "generated_at_human": "2026-06-20 11:06 UTC",
+  "total_items": 278,
   "sources_used": [
-    "Autocar",
+    "Autocar BMW M",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -45,10 +45,11 @@
     "Car and Driver Reviews",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Ford",
     "CarScoops Mercedes",
+    "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
     "InsideEVs",
     "Kolesa RU",
@@ -59,9 +60,22 @@
     "The Verge Transp",
     "What Car"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "e73e5c773580a662",
+      "title": "3 BMW-V8 im Dragrace: X5 M trifft Defender Octa & Range Rover Sport SV",
+      "summary": "Wer ein aktuelles Power-SUV mit einem V8-Biturbo der BMW M GmbH fahren will, hat gleich zwei interessante Alternativen zu BMW X5 M, X6 M und...",
+      "url": "https://www.bimmertoday.de/2026/06/20/3-bmw-v8-im-dragrace-x5-m-trifft-defender-octa-range-rover-sport-sv/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-06-20T09:18:35+00:00"
+    },
     {
       "id": "dc30be59e1fd025f",
       "title": "Bore no more: Slick new Toyota Prius vs 300k-mile Mk3",
@@ -74,7 +88,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/will-rimell-2024-jb20240912_5562_2_0.jpg?itok=Ma_qqi2K"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-20T05:00:00+00:00"
     },
@@ -170,7 +184,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-07-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T11:03:55+00:00"
     },
@@ -196,7 +210,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-4-830x603.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T10:12:22+00:00"
     },
@@ -297,7 +311,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -310,7 +324,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
     },
@@ -484,7 +498,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-29.jpg?itok=9EiO9OoE"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-17T12:00:14+00:00"
     },
@@ -510,7 +524,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-15-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-17T10:21:53+00:00"
     },
@@ -873,6 +887,19 @@
       "published": "2026-06-15T12:20:37+00:00"
     },
     {
+      "id": "0b2ba87a832a5e7f",
+      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
+      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
+      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-15T10:22:00+00:00"
+    },
+    {
       "id": "57ded44a7b2eb04f",
       "title": "Ex-BMW Designer Makes The M5 Touring Look More Elegant",
       "summary": "The Frank Stephenson-styled super wagon is far more expensive than the regular car.",
@@ -936,19 +963,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-14T14:09:39+00:00"
-    },
-    {
-      "id": "9255442685a87ecb",
-      "title": "Jetzt in der BMW Welt München: Neue Eindrücke vom Vision BMW Alpina",
-      "summary": "Bei der exklusiven Weltpremiere des Vision BMW Alpina am Comer See zeigte sich das Concept Car nur einem kleinen Kreis, nun darf sich endlich jeder...",
-      "url": "https://www.bimmertoday.de/2026/06/14/jetzt-in-der-bmw-welt-munchen-neue-eindrucke-vom-vision-bmw-alpina/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/Vision-BMW-Alpina-Live-BMW-Welt-2026-jk-03.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/Vision-BMW-Alpina-Live-BMW-Welt-2026-jk-03.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-06-14T10:29:34+00:00"
     },
     {
       "id": "5eaa80235286b401",
@@ -2851,6 +2865,19 @@
       "published": "2026-05-05T13:42:08+00:00"
     },
     {
+      "id": "396585c8412214fb",
+      "title": "BMW’s First Million EVs Took 11 Years. The Second Took Two",
+      "summary": "BMW Group just built its 2 millionth fully electric car, yet slowing demand in key markets complicates the next milestone",
+      "url": "https://www.carscoops.com/2026/05/bmw-two-million-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg"
+      ],
+      "source": "CarScoops Rolls",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-05T12:21:00+00:00"
+    },
+    {
       "id": "c0e61115528a7c7a",
       "title": "BMW Put Ferrari’s Rosso Corsa On The BMW M5 Touring. It Actually Works",
       "summary": "Rosso Corsa doesn’t really belong to BMW. But that’s exactly what makes it interesting. The color — paint code P7K, Rosso Corsa Uni, available through BMW Individual for around $5,000 over base — traces its... First published by https://www.bmwblog.com",
@@ -3340,7 +3367,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
