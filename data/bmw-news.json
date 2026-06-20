@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-20T20:24:52.319930+00:00",
-  "generated_at_human": "2026-06-20 20:24 UTC",
-  "total_items": 279,
+  "generated_at": "2026-06-20T22:20:40.190915+00:00",
+  "generated_at_human": "2026-06-20 22:20 UTC",
+  "total_items": 285,
   "sources_used": [
     "Autocar BMW",
     "BMW Blog",
@@ -44,27 +44,43 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
+    "HotCars",
     "Kolesa RU",
     "Motor1 BMW",
+    "Motor1 Mazda",
     "Motor1 Mini",
-    "Motor1 Subaru",
     "Motor1 Volvo",
     "Motoring Research",
     "The Drive",
     "The Verge Transp",
+    "TopSpeed",
     "What Car"
   ],
-  "sources_count": 57,
+  "sources_count": 60,
   "multi_photo_items": 11,
   "items": [
+    {
+      "id": "bdf28c72a8e95f10",
+      "title": "The New BMW i3 Sedan Is The EV Set To Steal Tesla's Thunder",
+      "summary": "BMW's new i3 sedan delivers 463 hp, 440 miles of range, and 400 kW charging on the Neue Klasse platform to rival the Tesla Model 3.",
+      "url": "https://www.topspeed.com/new-bmw-i3-sedan-ev-set-to-steal-teslas-thunder/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2027-bmw-i3-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2027-bmw-i3-1.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-20T19:01:20+00:00"
+    },
     {
       "id": "4c5cfa97f94a25bc",
       "title": "Rising from the Ashes: Hellgate Moto’s BMW K1100RS",
@@ -103,6 +119,45 @@
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
       "published": "2026-06-20T16:50:10+00:00"
+    },
+    {
+      "id": "7f68d52420c64713",
+      "title": "An AI Chatbot Cost This Car Dealership $7,000",
+      "summary": "When a BMW owner got a good offer from a dealer to buy his X3, he took it. Unfortunately, the offer didn't come from a person.",
+      "url": "https://carbuzz.com/ai-chatbot-cost-car-dealership-7000/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmwtoronto-interior-new-banner.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmwtoronto-interior-new-banner.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-20T16:30:12+00:00"
+    },
+    {
+      "id": "bdacb2dcfab45b62",
+      "title": "A Used BMW Alpina B7 Is Perfect For Bargain Hunters Who Want More Than A 7 Series",
+      "summary": "Hand-finished and powerful, this super sedan offers six-figure performance at a fraction of the cost. The BMW Alpina B7 is a hidden gem.",
+      "url": "https://carbuzz.com/used-bmw-alpina-b7-bargain-smart-luxury-buyers-hunt/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/alpina-b7-main.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/alpina-b7-main.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-20T16:15:12+00:00"
+    },
+    {
+      "id": "756d0af56a695b7b",
+      "title": "The First Production Motorcycle With Factory Traction Control",
+      "summary": "The 1988 BMW K1 was the first production motorcycle with factory traction control, using ABS sensors to monitor wheel speed and prevent wheelspin.",
+      "url": "https://www.hotcars.com/first-production-motorcycle-with-factory-traction-control/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/36a8310-99414-scaled.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/36a8310-99414-scaled.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-06-20T16:00:15+00:00"
     },
     {
       "id": "0b47c5876be6b9b5",
@@ -726,7 +781,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -1497,6 +1552,19 @@
       "published": "2026-06-08T20:11:00+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "509df123f79cebdf",
       "title": "There Were Only 356 E36 M3 GTs. Here’s Why It Beats the Lightweight",
       "summary": "The argument over which E36 M3 is the one to own has been going on for thirty years. Americans who got the Lightweight will tell you their stripped-out, Alpine White track special is the definitive... First published by https://www.bmwblog.com",
@@ -1783,19 +1851,6 @@
       "published": "2026-06-02T23:26:57+00:00"
     },
     {
-      "id": "994be73ff06c5ec3",
-      "title": "2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only",
-      "summary": "BMW has officially confirmed the 2027 M2 with M xDrive, the first all-wheel-drive variant in the model’s history. It arrives in late summer 2026... The post 2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/06/02/2027-bmw-m2-with-m-xdrive-is-here-quicker-heavier-and-auto-only/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/02155106/M2_xDrive_08-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/02155106/M2_xDrive_08-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-06-02T22:01:00+00:00"
-    },
-    {
       "id": "9b7eb40ff86d9aa6",
       "title": "The BMW M2 Gets Quicker With A New Trim",
       "summary": "The M2 gets BMW’s xDrive all-wheel-drive system for the first time.",
@@ -1806,6 +1861,19 @@
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
+      "published": "2026-06-02T22:01:00+00:00"
+    },
+    {
+      "id": "994be73ff06c5ec3",
+      "title": "2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only",
+      "summary": "BMW has officially confirmed the 2027 M2 with M xDrive, the first all-wheel-drive variant in the model’s history. It arrives in late summer 2026... The post 2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/02/2027-bmw-m2-with-m-xdrive-is-here-quicker-heavier-and-auto-only/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/02155106/M2_xDrive_08-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/02155106/M2_xDrive_08-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
       "published": "2026-06-02T22:01:00+00:00"
     },
     {
@@ -1950,6 +2018,19 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-05-29T14:00:00+00:00"
+    },
+    {
+      "id": "eb3c52798b89321d",
+      "title": "Lexus’s BMW i3 Sedan Rival Is Dead, But Its Most Ambitious Tech Isn’t",
+      "summary": "Lexus reportedly shelves its next-generation electric sedan while parent company Toyota doubles down on SUVs and waits for the EV market to recover",
+      "url": "https://www.carscoops.com/2026/05/lexus-lf-zc-cancellation/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-29T13:11:00+00:00"
     },
     {
       "id": "2fe92be657f3a6fc",
@@ -3390,7 +3471,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3689,7 +3770,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Subaru",
+      "source": "Motor1 Mazda",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
