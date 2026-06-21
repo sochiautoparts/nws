@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-21T00:19:40.803179+00:00",
-  "generated_at_human": "2026-06-21 00:19 UTC",
-  "total_items": 279,
+  "generated_at": "2026-06-21T03:37:25.791653+00:00",
+  "generated_at_human": "2026-06-21 03:37 UTC",
+  "total_items": 281,
   "sources_used": [
     "Autocar BMW",
     "BMW Blog",
@@ -46,14 +46,16 @@
     "Car and Driver Reviews",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Ford",
     "CarScoops Mercedes",
+    "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
     "Hagerty Media",
     "Kolesa RU",
     "Motor1 BMW",
+    "Motor1 Mazda",
     "Motor1 Mini",
-    "Motor1 Subaru",
     "Motor1 Volvo",
     "Motoring Research",
     "The Drive",
@@ -61,7 +63,7 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 56,
+  "sources_count": 58,
   "multi_photo_items": 11,
   "items": [
     {
@@ -250,7 +252,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-19T14:00:00+00:00"
     },
@@ -315,7 +317,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-4-830x603.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T10:12:22+00:00"
     },
@@ -429,7 +431,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
     },
@@ -946,6 +948,19 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T12:20:37+00:00"
+    },
+    {
+      "id": "0b2ba87a832a5e7f",
+      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
+      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
+      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-15T10:22:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -2050,7 +2065,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2206,7 +2221,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -2898,6 +2913,19 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-05T13:42:08+00:00"
+    },
+    {
+      "id": "396585c8412214fb",
+      "title": "BMW’s First Million EVs Took 11 Years. The Second Took Two",
+      "summary": "BMW Group just built its 2 millionth fully electric car, yet slowing demand in key markets complicates the next milestone",
+      "url": "https://www.carscoops.com/2026/05/bmw-two-million-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg"
+      ],
+      "source": "CarScoops Rolls",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-05T12:21:00+00:00"
     },
     {
       "id": "c0e61115528a7c7a",
@@ -3688,7 +3716,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Subaru",
+      "source": "Motor1 Mazda",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
