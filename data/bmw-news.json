@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-21T06:16:41.552992+00:00",
-  "generated_at_human": "2026-06-21 06:16 UTC",
-  "total_items": 281,
+  "generated_at": "2026-06-21T10:41:37.868167+00:00",
+  "generated_at_human": "2026-06-21 10:41 UTC",
+  "total_items": 282,
   "sources_used": [
-    "Autocar BMW M",
+    "Autocar BMW",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -32,6 +32,7 @@
     "BMW Blog X7 tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i3 tag",
     "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog iX tag",
@@ -46,16 +47,16 @@
     "Car and Driver Reviews",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Ford",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
     "Kolesa RU",
     "Motor1 BMW",
+    "Motor1 Mazda",
     "Motor1 Mini",
-    "Motor1 Subaru",
     "Motor1 Volvo",
     "Motoring Research",
     "The Drive",
@@ -63,7 +64,7 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 58,
+  "sources_count": 59,
   "multi_photo_items": 11,
   "items": [
     {
@@ -78,7 +79,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/matt-saunders-autocar.jpg?itok=Wa99gg9e"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-21T05:00:00+00:00"
     },
@@ -226,7 +227,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/totota-prius-lt-2026-wr-jb20260220_0679.jpg?itok=jJO6zBQY"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-20T05:00:00+00:00"
     },
@@ -265,7 +266,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-19T14:00:00+00:00"
     },
@@ -431,7 +432,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -961,6 +962,19 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T12:20:37+00:00"
+    },
+    {
+      "id": "0b2ba87a832a5e7f",
+      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
+      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
+      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-15T10:22:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -3417,7 +3431,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3495,7 +3509,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-ix3-long-wheelbase-china-camera-rear-00-830x467.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog i3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-08T17:45:00+00:00"
     },
@@ -3716,7 +3730,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Subaru",
+      "source": "Motor1 Mazda",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
