@@ -1,16 +1,20 @@
 {
   "kind": "auto",
-  "generated_at": "2026-06-21T03:37:25.796500+00:00",
-  "generated_at_human": "2026-06-21 03:37 UTC",
+  "generated_at": "2026-06-21T06:16:41.557445+00:00",
+  "generated_at_human": "2026-06-21 06:16 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek News",
-    "BarnFinds",
+    "Autocar",
     "Bike EXIF",
     "Bring a Trailer",
+    "C&D Audi",
+    "C&D Lexus",
+    "C&D Porsche",
+    "C&D Toyota",
     "Car and Driver",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -22,7 +26,6 @@
     "CarScoops Bentley",
     "CarScoops Bugatti",
     "CarScoops Ferrari",
-    "CarScoops Ford",
     "CarScoops Lamborghini",
     "CarScoops Mercedes",
     "CarScoops Porsche",
@@ -31,8 +34,8 @@
     "CarThrottle",
     "ClassicCars Journal",
     "Electrek",
+    "Electrek Chevrolet",
     "Electrek Ford EV",
-    "Electrek Hyundai",
     "Electrek Kia EV",
     "Electrek Porsche",
     "Electrek Rivian",
@@ -51,8 +54,10 @@
     "Motor1 Audi",
     "Motor1 Chevrolet",
     "Motor1 Ford",
+    "Motor1 Genesis",
     "Motor1 Honda",
     "Motor1 Jeep",
+    "Motor1 Lamborghini",
     "Motor1 Maserati",
     "Motor1 Mazda",
     "Motor1 Mercedes",
@@ -70,9 +75,35 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 71,
+  "sources_count": 70,
+  "multi_photo_items": 75,
   "items": [
+    {
+      "id": "e323f96e42906b4d",
+      "title": "2027 Chevy Equinox Fuel Economy Drops Slightly Without CVT",
+      "summary": "FWD models now less efficient.",
+      "url": "https://gmauthority.com/blog/2026/06/2027-chevy-equinox-fuel-economy-drops-slightly-without-cvt/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2024/01/2025-Chevrolet-Equinox-RS-Press-Photos-Exterior-002-side-front-three-quarters.jpg",
+      "images": [
+        "https://gmauthority.com/blog/wp-content/uploads/2024/01/2025-Chevrolet-Equinox-RS-Press-Photos-Exterior-002-side-front-three-quarters.jpg"
+      ],
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-21T06:02:16+00:00"
+    },
+    {
+      "id": "51fde855387d8279",
+      "title": "Poll: Chevy Silverado HD Stars & Steel Edition Or Ford Super Duty Proud To Honor Package?",
+      "summary": "Two patriotic pickups, but which looks better?",
+      "url": "https://gmauthority.com/blog/2026/06/poll-chevy-silverado-hd-stars-steel-edition-or-ford-super-duty-proud-to-honor-package/",
+      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/06/2027-Ford-Super-Duty-F-Series-Proud-To-Honor-Package-Press-Photos-Exterior-002-Front-Three-Quarters.jpg",
+      "images": [
+        "https://gmauthority.com/blog/wp-content/uploads/2026/06/2027-Ford-Super-Duty-F-Series-Proud-To-Honor-Package-Press-Photos-Exterior-002-Front-Three-Quarters.jpg"
+      ],
+      "source": "GM Authority",
+      "source_url": "https://gmauthority.com",
+      "published": "2026-06-21T04:33:59+00:00"
+    },
     {
       "id": "76affd8eb625273d",
       "title": "Why There's A Wall Of Junk Cars In A Utah Canyon",
@@ -86,24 +117,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-06-21T03:25:00+00:00"
-    },
-    {
-      "id": "cea4dfe7207a9cdc",
-      "title": "Junkyard Bound: 1970 Plymouth Satellite",
-      "summary": "When Plymouth finally brought back true full-size cars in 1965, the former B-bodies became intermediates. And the Satellite was launched as the high-end version in the Belvedere line-up. The B-bodies were redesigned in 1968-70 and it would be the... Read More »",
-      "url": "https://barnfinds.com/junkyard-bound-1970-plymouth-satellite/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1970-Plymouth-Satellite-2-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Plymouth-Satellite-2-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Plymouth-Satellite-1-e1782005844497-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Plymouth-Satellite-3-e1782005803486-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2021/05/Russ-Dixon-120x120.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1960-Jaguar-MK-2-5-e1781715134117-120x120.jpeg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/Porsche-924S-3-e1781883286782-120x120.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-21T03:00:00+00:00"
     },
     {
       "id": "3a338c6719c0a5b5",
@@ -170,24 +183,6 @@
       "published": "2026-06-21T02:04:13+00:00"
     },
     {
-      "id": "1d53414436ae9154",
-      "title": "Barn-Stored Since Reagan: 1968 Chevrolet Corvette L79",
-      "summary": "Update 06/20/2026: The classic market can be cruel, as the seller of this 1968 Chevrolet Corvette has discovered. We saw this once-glorious sports car in May, and the previous listing indicated it had sold. However, it appears the seller... Read More »",
-      "url": "https://barnfinds.com/barn-stored-since-reagan-1968-chevrolet-corvette-l79/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4383-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4383-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4380-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4384-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4387-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4389-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/05/1968-chevy-corvette-4381-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-21T02:00:00+00:00"
-    },
-    {
       "id": "c9663cf86fad8899",
       "title": "Tesla driver says it was on Autopilot before fatal Texas home crash",
       "summary": "A driver told Harris County investigators that his Tesla was on Autopilot before it left a residential road in Katy, Texas, crashed through the brick wall of a home, and killed a 76-year-old woman inside. The crash happened around 8 p.m. Friday in the 21300 block of Rose Hollow Lane, according to the Harris County Precinct 5 Constable’s Office and the Harris County Sheriff’s Office.",
@@ -232,24 +227,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-06-21T01:25:00+00:00"
-    },
-    {
-      "id": "adeae92dc6f113a4",
-      "title": "43k Original Miles: One Owner 1970 Cadillac Eldorado",
-      "summary": "We’re no strangers to low-mile claims at Barn Finds, and these claims must sometimes be taken with a grain of salt. However, the history and condition of this 1970 Cadillac Eldorado make the odometer reading of 43,000 original miles... Read More »",
-      "url": "https://barnfinds.com/43k-original-miles-one-owner-1970-cadillac-eldorado/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1970-Cadillac-Eldorado-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Cadillac-Eldorado-1-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Cadillac-Eldorado-2-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Cadillac-Eldorado-3-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Cadillac-Eldorado-4-e1782001926493-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Cadillac-Eldorado-5-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/06/1960-Jaguar-MK-2-5-e1781715134117-120x120.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-21T01:07:21+00:00"
     },
     {
       "id": "1c49f0d8bb189ffd",
@@ -410,19 +387,6 @@
       "published": "2026-06-20T23:50:14+00:00"
     },
     {
-      "id": "6a8e8937a28f3798",
-      "title": "Holy Grail LS6: 1970 Chevrolet Chevelle SS 454",
-      "summary": "Chevrolet introduced the 454 cubic inch big block V8 in 1970. The LS6 version was the most powerful at 450 factory horsepower and 500 lb.-ft of torque. These are considered the Holy Grail of Chevy muscle cars and command... Read More »",
-      "url": "https://barnfinds.com/holy-grail-ls6-1970-chevrolet-chevelle-ss-454/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1970-Chevelle-SS-454-Rear-e1781986584221-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1970-Chevelle-SS-454-Rear-e1781986584221-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T23:45:40+00:00"
-    },
-    {
       "id": "ddce1cb3957fc53f",
       "title": "468-Powered 1967 Chevrolet Camaro RS/SS Coupe 4-Speed",
       "summary": "This 1967 Chevrolet Camaro coupe is powered by a 468ci big-block V8 that was built and installed circa 2013 and is linked to a Muncie four-speed manual transmission and a 12-bolt rear end with an Eaton Truetrac differential and Strange Engineering axles. The seller purchased the car in 2022, and the body was repainted in Subaru metallic gray in 2023. Inside, the front bucket seats and rear seat are trimmed in black leather and accompanied by an aftermarket center console, a Hurst shifter, an SS-branded steering wheel, and a set of Classic Dash gauges. The car rides on 18\" Ridler wheels…",
@@ -576,19 +540,6 @@
       "published": "2026-06-20T22:55:16+00:00"
     },
     {
-      "id": "c2d284fef526f5f8",
-      "title": "Big Block Project: 1957 Chevrolet 210 Wagon",
-      "summary": "It’s hard to say anything new about a 1957 Chevy that hasn’t already been said, but this Los Angeles, California, subject has an interesting feature or two, so I thought I’d present it for your review. It’s claimed to... Read More »",
-      "url": "https://barnfinds.com/big-block-project-1957-chevrolet-210-wagon/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1957-Chev-main-e1781985651112-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1957-Chev-main-e1781985651112-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T22:45:40+00:00"
-    },
-    {
       "id": "716e731f2d18c3ac",
       "title": "52-Years-Owned 1967 MG MGB GT",
       "summary": "This 1967 MGB GT is said to have belonged to a friend of the seller from new until its acquisition by the seller in 1974, and a refurbishment carried out during the 1990s involved repainting the car in green and reupholstering the seats in black leather with white piping. Powered by a 1.8-liter inline-four linked with a four-speed manual gearbox, the car also has a grille guard, pop-out rear windows, front disc brakes, 14\" wire-spoke wheels, a heater, a locking glove box, and an AM/FM radio. Work in March 2026 included rebuilding the dual SU carburetors, servicing the clutch and brake…",
@@ -716,19 +667,6 @@
       "published": "2026-06-20T22:00:00+00:00"
     },
     {
-      "id": "847fa92612ca271c",
-      "title": "Rare Beast: 1973 Suzuki TS-400K Apache",
-      "summary": "It’s hard to believe that we haven’t seen a Suzuki 400 here on Barn Finds; this is the very first one for any configuration – street, trail, on/off, etc. It’s also one of the rarest and most desirable, at... Read More »",
-      "url": "https://barnfinds.com/rare-beast-1973-suzuki-ts-400k-apache/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/062026-1973-Suzuki-TS-400K-Apache-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/062026-1973-Suzuki-TS-400K-Apache-1-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T21:45:40+00:00"
-    },
-    {
       "id": "fd437097b8688505",
       "title": "A Free Tool Maps The License Plate Readers On Your Route, Then Lets You Slide Right Past Them",
       "summary": "Drivers can compare standard routes against camera-free alternatives with DeFlock’s growing surveillance database",
@@ -843,19 +781,6 @@
       "published": "2026-06-20T21:00:16+00:00"
     },
     {
-      "id": "8ac6286103df156c",
-      "title": "Pizza Delivery Wagon: 1985 Mercedes-Benz 300TD",
-      "summary": "Is there a better color for a Mercedes diesel wagon than orange? No, no there isn’t. But, there’s probably not a better color for any vehicle. This one was painted orange by a previous owner to use as a... Read More »",
-      "url": "https://barnfinds.com/pizza-delivery-wagon-1985-mercedes-benz-300td/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/062126-1985-Mercedes-Benz-300TD-Wagon-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/062126-1985-Mercedes-Benz-300TD-Wagon-1-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T20:45:40+00:00"
-    },
-    {
       "id": "9b6ab5890556eba0",
       "title": "6 Abandoned F1 Tracks You Can Still (Kind Of) Explore",
       "summary": "Formula 1 racetracks aren't always reserved indefinitely for future events. Some are abandoned or repurposed, like these that you can still explore today.",
@@ -947,7 +872,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg?crop=0.672xw:1.00xh;0.246xw,0&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/df578bd3-6191-4b0d-b60c-4fc67bb30305.jpg?crop=0.421xw:0.628xh;0.365xw,0.237xh&resize=360:*"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-20T20:00:00+00:00"
     },
@@ -963,19 +888,6 @@
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-20T20:00:00+00:00"
-    },
-    {
-      "id": "056c6bce95813703",
-      "title": "Patina Project: 1954 Ford F-100 Roller",
-      "summary": "Early F-Series pickups remain popular with builders, and this 1954 Ford F-100 looks like a straightforward starting point for someone wanting to build one their own way. Purchased as a barn find in Texas, this truck is now located... Read More »",
-      "url": "https://barnfinds.com/patina-project-1954-ford-f-100-roller/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1954-Ford-F-100-2-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1954-Ford-F-100-2-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T19:45:40+00:00"
     },
     {
       "id": "c235ba888bbce2f1",
@@ -1028,19 +940,6 @@
       "source": "Engadget Auto",
       "source_url": "https://www.engadget.com",
       "published": "2026-06-20T18:52:32+00:00"
-    },
-    {
-      "id": "c0b933db57415abc",
-      "title": "Hidden 77 Years: 1929 Pierce-Arrow 133 Dual Cowl Phaeton",
-      "summary": "There are still unknown treasures tucked away in long-held estates, and this 1929 Pierce-Arrow 133 Dual Cowl Phaeton is proof. Hidden from public view for 77 years, this rare Pierce-Arrow emerged from Spencer, Massachusetts, in 2025 and is now... Read More »",
-      "url": "https://barnfinds.com/hidden-77-years-1929-pierce-arrow-133-dual-cowl-phaeton/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1929-Pierce-Arrow-133-630x390.jpeg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1929-Pierce-Arrow-133-630x390.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T18:45:40+00:00"
     },
     {
       "id": "a8fbb2e491c9548b",
@@ -1379,14 +1278,9 @@
       "url": "https://www.carscoops.com/2026/06/ford-edge-firesale/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Edge-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Edge-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Explorer-Dealers-Sales-2048x1175.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2025-ford-maverick-lobo_04-4096x2701-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-EV-Truck-teaser-23668-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Racing-Parts_Landscape_03-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2019_Ford_Mustang_Bullitt-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Edge-copy-1024x576.jpg"
       ],
-      "source": "CarScoops Ford",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-20T16:40:00+00:00"
     },
@@ -1510,7 +1404,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/74099168-91c0-4351-9d2a-7867b9e7e855.jpeg?crop=1.00xw:0.751xh;0",
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-20T15:00:00+00:00"
     },
@@ -1572,19 +1466,6 @@
       "published": "2026-06-20T14:00:00+00:00"
     },
     {
-      "id": "877d1b9368a902fa",
-      "title": "2026 BYD Atto 2 DM-i review: Quick drive",
-      "summary": "BYD already has the cheapest PHEV on Australia’s roads, but here’s an even more affordable part-electric newcomer in the form of the Atto 2 DM-i.",
-      "url": "https://www.carexpert.com.au/car-reviews/2026-byd-atto-2-dm-i-review-quick-drive",
-      "image": "https://images.carexpert.com.au/cms/v1/media/byd-atto-2-dm-i-exteriors-23.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/byd-atto-2-dm-i-exteriors-23.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-06-20T14:00:00+00:00"
-    },
-    {
       "id": "dabee7bc374dde42",
       "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
       "summary": "The automaker is making charging seamless for EX60 and EX90 owners with a new feature.",
@@ -1598,6 +1479,19 @@
       "published": "2026-06-20T14:00:00+00:00"
     },
     {
+      "id": "877d1b9368a902fa",
+      "title": "2026 BYD Atto 2 DM-i review: Quick drive",
+      "summary": "BYD already has the cheapest PHEV on Australia’s roads, but here’s an even more affordable part-electric newcomer in the form of the Atto 2 DM-i.",
+      "url": "https://www.carexpert.com.au/car-reviews/2026-byd-atto-2-dm-i-review-quick-drive",
+      "image": "https://images.carexpert.com.au/cms/v1/media/byd-atto-2-dm-i-exteriors-23.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/byd-atto-2-dm-i-exteriors-23.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-06-20T14:00:00+00:00"
+    },
+    {
       "id": "c86b3801354489eb",
       "title": "Carvana Now Offers (Some) Test Drives, and There’s No Salesman to Twist Your Arm",
       "summary": "The online retailer opened a dedicated \"Test Drive Center\" at one of its brick-and-mortar Stellantis showrooms. The post Carvana Now Offers (Some) Test Drives, and There’s No Salesman to Twist Your Arm appeared first on The Drive .",
@@ -1608,19 +1502,6 @@
       ],
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
-      "published": "2026-06-20T14:00:00+00:00"
-    },
-    {
-      "id": "8c4a783a2a4fec3e",
-      "title": "46K Original Miles: 1982 Maserati Quattroporte",
-      "summary": "If brute force could be expressed in sedan form, the Maserati Quattroporte would be on my short list of cars that fit the definition to the proverbial T. This stately sedan is an Italian Buick, a car capable of... Read More »",
-      "url": "https://barnfinds.com/46k-original-miles-1982-maserati-quattroporte/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1982-Maserati-Quattroporte-front-e1781071425466-630x390.webp",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1982-Maserati-Quattroporte-front-e1781071425466-630x390.webp"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-06-20T14:00:00+00:00"
     },
     {
@@ -1738,19 +1619,6 @@
       "published": "2026-06-20T13:00:00+00:00"
     },
     {
-      "id": "f03562ffb34cf4c9",
-      "title": "327 V8 Survivor? 1965 Chevrolet Corvette",
-      "summary": "The Chevy Corvette was in its third year of the second generation when the 1965 model year rolled around. The big news that year was the availability of a 396 cubic inch “big block” V8, though most were equipped... Read More »",
-      "url": "https://barnfinds.com/327-v8-survivor-1965-chevrolet-corvette/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1965-Chevy-Corvette-2-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1965-Chevy-Corvette-2-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T13:00:00+00:00"
-    },
-    {
       "id": "7d71264e075169a4",
       "title": "Fifth Gear Classic's Full-Length Episode YouTube Playlist Revisits The Excellent Cars And Fashion Of The Early 2000s",
       "summary": "If your weekend calendar is looking bleak and your hunger for nostalgic car content is strong, I suggest spending some time watching old \"Fifth Gear\" episodes.",
@@ -1805,19 +1673,6 @@
       ],
       "source": "ClassicCars Journal",
       "source_url": "https://journal.classiccars.com",
-      "published": "2026-06-20T12:00:00+00:00"
-    },
-    {
-      "id": "9de1cebeb62d1555",
-      "title": "468 V8 Project: 1974 Chevrolet Nova SS",
-      "summary": "When it came to fulfilling the needs of compact car buyers, the Chevrolet Nova was usually at the top of the heap. It was in production from 1962 to 1979, with the generation from 1968 to 1972 perhaps being... Read More »",
-      "url": "https://barnfinds.com/468-v8-project-1974-chevrolet-nova-ss/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1974-Chevy-Nova-SS-e1781912605826-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1974-Chevy-Nova-SS-e1781912605826-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-06-20T12:00:00+00:00"
     },
     {
@@ -1932,19 +1787,6 @@
       ],
       "source": "Engadget Auto",
       "source_url": "https://www.engadget.com",
-      "published": "2026-06-20T11:00:00+00:00"
-    },
-    {
-      "id": "411a89f9e07c4524",
-      "title": "BF Exclusive: 1948 Chevrolet 5100 Loadmaster",
-      "summary": "Cabover trucks always seem to draw a crowd, and this restored 1948 Chevrolet 5100 Loadmaster has the kind of presence that would be difficult to ignore. With its short nose, upright cab, bright blue finish, and working-truck proportions, this... Read More »",
-      "url": "https://barnfinds.com/bf-exclusive-1948-chevrolet-5100-loadmaster/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1948-Chevrolet-5100-Loadmaster-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1948-Chevrolet-5100-Loadmaster-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-06-20T11:00:00+00:00"
     },
     {
@@ -2195,6 +2037,23 @@
       "published": "2026-06-20T06:35:28+00:00"
     },
     {
+      "id": "aedfb483fef1a8fa",
+      "title": "It's Pikes Peak time: Why you should watch mad hillclimb this weekend",
+      "summary": "Twisting, 12.42-mile hillclimb is an icon – and one of the most gruelling races of the year There are hillclimbs and then there's Pikes Peak. Cars have been driven up steep roads against the clock for about as long as motorsport has existed but, unless someone builds a paved road to the summit of Everest, it's unlikely that any hillclimb course will ever match the twisting, 12.42-mile, hairpin-riddled road to the top of this Colorado mountain. With its raw nature and extreme dangers, Pikes Peak-the 104th running of which takes place this weekend - is reminiscent of the Isle of Man TT: if…",
+      "url": "https://www.autocar.co.uk/opinion/motorsport/its-pikes-peak-time-why-you-should-watch-mad-hillclimb-weekend",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/pikes-peak-opinion.jpg?itok=6tMhD4ES",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/pikes-peak-opinion.jpg?itok=6tMhD4ES",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/pikes-peak-opinion.jpg?itok=fqxWOz02",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/attersmug.jpg?itok=RIXPYyaD",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/attersmug.jpg"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-20T06:00:00+00:00"
+    },
+    {
       "id": "9bef18664cf66d92",
       "title": "2027 Chevy Equinox Drops This Paint Color",
       "summary": "Replaced by a new hue.",
@@ -2206,32 +2065,6 @@
       "source": "GM Authority",
       "source_url": "https://gmauthority.com",
       "published": "2026-06-20T05:33:31+00:00"
-    },
-    {
-      "id": "7ef36ee4c8ad459f",
-      "title": "Deal of the Century! 1994 Buick Century",
-      "summary": "Having been repainted four years ago, this Century isn’t what I’d call a 100% original survivor, but it still looks like a gem. This 1994 Buick Century can be found posted here on craigslist in Prospect, Kentucky, and the... Read More »",
-      "url": "https://barnfinds.com/deal-of-the-century-1994-buick-century/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/061926-1994-Buick-Century-1-e1781908960491-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/061926-1994-Buick-Century-1-e1781908960491-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T03:00:00+00:00"
-    },
-    {
-      "id": "ebabe1000b805a9c",
-      "title": "53K Miles: 1986 Honda Accord LX-I Survivor",
-      "summary": "Finding a well-preserved Japanese car made in the 1980s is not exactly easy. These cars were vulnerable to rust and certainly dealt with their fair share of abuse from drivers who knew they could be driven into the ground.... Read More »",
-      "url": "https://barnfinds.com/53k-miles-1986-honda-accord-lx-i-survivor/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1986-Accord-front-e1781909046475-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1986-Accord-front-e1781909046475-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T02:00:00+00:00"
     },
     {
       "id": "eee43eae6c1f13c0",
@@ -2247,33 +2080,15 @@
       "published": "2026-06-20T01:03:00+00:00"
     },
     {
-      "id": "67c68eb15ecc403b",
-      "title": "1 Of 200 Made? Autoform Pontiac Firebird",
-      "summary": "It’s truly amazing how captivating the concept of a convertible automobile has been for large portions of the general population. Despite roadster bodies and folding-top models aplenty during the brass era, Americans have always been infatuated with convertibles, especially... Read More »",
-      "url": "https://barnfinds.com/1-of-200-made-autoform-pontiac-firebird/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/autoform-firebird-front-e1781905738763-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/autoform-firebird-front-e1781905738763-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-20T01:00:00+00:00"
-    },
-    {
       "id": "1e177b6c36cb98f8",
       "title": "Detroit Automakers Slashed Canadian Production, Setting Up Tense Union Talks",
       "summary": "Unifor is looking for job and retirement security as talks get underway next week",
       "url": "https://www.carscoops.com/2026/06/detroit-three-unifor-talks/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Dodge-Charger-Production-Windsor-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Dodge-Charger-Production-Windsor-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/WindsorAssembly-619-1-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2025-Ford-F-350-619-1-2048x1213.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2025-ford-maverick-lobo_04-4096x2701-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/DEF_OCTA_26MY_EXTERIOR_25052025_03-1-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Canada-China-EV-Deal-USA-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Dodge-Charger-Production-Windsor-1024x576.jpg"
       ],
-      "source": "CarScoops Ford",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-20T00:20:00+00:00"
     },
@@ -2533,19 +2348,6 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-06-19T19:02:36+00:00"
-    },
-    {
-      "id": "aa3c7a7290152533",
-      "title": "Ford Accuses Law Firm Of Billing $950 An Hour For $13 Work In Mexico And The Philippines",
-      "summary": "A California lemon law firm says it fights for consumers, while Ford says its billing hid a markup as steep as 7,000%",
-      "url": "https://www.carscoops.com/2026/06/ford-lemon-law-lawsuit/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2025-ford-maverick-lobo_04-4096x2701-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2025-ford-maverick-lobo_04-4096x2701-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-19T19:01:00+00:00"
     },
     {
       "id": "f68f163f4dadb604",
@@ -3065,7 +2867,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-19T14:00:00+00:00"
     },
@@ -3182,7 +2984,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/df578bd3-6191-4b0d-b60c-4fc67bb30305.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-19T13:00:00+00:00"
     },
@@ -3416,7 +3218,7 @@
       "images": [
         "https://gmauthority.com/blog/wp-content/uploads/2017/09/GM-Cadillac-Jinqiao-Shanghai-China-Factory-Plant-010-body-shop-robots.jpg"
       ],
-      "source": "GM Authority",
+      "source": "GM Authority News",
       "source_url": "https://gmauthority.com",
       "published": "2026-06-19T11:06:04+00:00"
     },
@@ -3510,19 +3312,6 @@
       "source": "Kolesa RU",
       "source_url": "https://www.kolesa.ru",
       "published": "2026-06-19T10:10:00+00:00"
-    },
-    {
-      "id": "92a1c47493ad0c5a",
-      "title": "GM President Mark Reuss Wishes These Cars Would Have Done Better",
-      "summary": "Regal, Aurora, and Riviera, to name a few.",
-      "url": "https://gmauthority.com/blog/2026/06/gm-president-mark-reuss-wishes-these-cars-would-have-done-better/",
-      "image": "https://gmauthority.com/blog/wp-content/uploads/2019/06/Mark-Reuss-AN-World-Congress.jpg",
-      "images": [
-        "https://gmauthority.com/blog/wp-content/uploads/2019/06/Mark-Reuss-AN-World-Congress.jpg"
-      ],
-      "source": "GM Authority",
-      "source_url": "https://gmauthority.com",
-      "published": "2026-06-19T10:04:43+00:00"
     },
     {
       "id": "1c29b2d4d74179ce",
@@ -3629,19 +3418,6 @@
       "published": "2026-06-19T08:48:30+00:00"
     },
     {
-      "id": "9c7ddc0c3cccf5f6",
-      "title": "GM Releases Fix For Missing Chevy Silverado HD And GMC Sierra HD Transmission Bolt",
-      "summary": "Very few trucks are affected.",
-      "url": "https://gmauthority.com/blog/2026/06/gm-releases-fix-for-missing-chevy-silverado-hd-and-gmc-sierra-hd-transmission-bolt/",
-      "image": "https://gmauthority.com/blog/wp-content/uploads/2022/09/2024-Chevrolet-Silverado-HD-High-Country-Press-Photos-Exterior-005-front-three-quarters.jpg",
-      "images": [
-        "https://gmauthority.com/blog/wp-content/uploads/2022/09/2024-Chevrolet-Silverado-HD-High-Country-Press-Photos-Exterior-005-front-three-quarters.jpg"
-      ],
-      "source": "GM Authority News",
-      "source_url": "https://gmauthority.com",
-      "published": "2026-06-19T08:02:47+00:00"
-    },
-    {
       "id": "85fa7534b12f5c56",
       "title": "New Honda Super-N 2026 UK - pictures",
       "summary": "Pictures of the Honda Super-N in the UK",
@@ -3725,6 +3501,19 @@
       "published": "2026-06-19T07:00:00+00:00"
     },
     {
+      "id": "7748dde5cdf307f0",
+      "title": "The Mercedes VLE Is A Brave Gamble. Will It Pay Off?",
+      "summary": "Mercedes' ultra-luxury van could crack Americans' van stigma. But that's only if they don't balk at the price.",
+      "url": "https://insideevs.com/reviews/799181/mercedes-vle-first-drive/",
+      "image": "https://cdn.motor1.com/images/mgl/NGP9rY/s3/mercedes-vle-first-drive.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/NGP9rY/s3/mercedes-vle-first-drive.jpg"
+      ],
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-06-19T07:00:00+00:00"
+    },
+    {
       "id": "2c528f730217ac5d",
       "title": "Why Kia thinks you should buy its electric vans instead of cheaper Chinese rivals",
       "summary": "Kia isn't worried that its new PV5 Cargo isn't the cheapest electric van, and is confident its dealer network and aftersales support will sway buyers.",
@@ -3761,19 +3550,6 @@
       ],
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
-      "published": "2026-06-19T07:00:00+00:00"
-    },
-    {
-      "id": "7748dde5cdf307f0",
-      "title": "The Mercedes VLE Is A Brave Gamble. Will It Pay Off?",
-      "summary": "Mercedes' ultra-luxury van could crack Americans' van stigma. But that's only if they don't balk at the price.",
-      "url": "https://insideevs.com/reviews/799181/mercedes-vle-first-drive/",
-      "image": "https://cdn.motor1.com/images/mgl/NGP9rY/s3/mercedes-vle-first-drive.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/NGP9rY/s3/mercedes-vle-first-drive.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
       "published": "2026-06-19T07:00:00+00:00"
     },
     {
@@ -3889,19 +3665,6 @@
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
       "published": "2026-06-19T00:26:09+00:00"
-    },
-    {
-      "id": "fa31fc6849813a97",
-      "title": "Ford’s New Package Turns Super Duty Into Rolling Tribute To America",
-      "summary": "The 2027 F-Series Super Duty wraps itself in the American flag thanks to a new Proud to Honor Package",
-      "url": "https://www.carscoops.com/2026/06/ford-proud-to-honor/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Ford-F-Series-Super-Du-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Ford-F-Series-Super-Du-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-19T00:23:00+00:00"
     },
     {
       "id": "8706c7f48eb1fb78",
@@ -4125,7 +3888,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/mitsubishi-montero-1-copy-695546ec9eff6.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T20:25:00+00:00"
     },
@@ -4203,7 +3966,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/f78e93cc-432e-437b-9f01-953056d44383.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T19:57:00+00:00"
     },
@@ -4494,7 +4257,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/slate-truck-109-68b9bca434157.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T16:01:00+00:00"
     },
@@ -4546,7 +4309,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-gts-sport-turismo-730-68a3459ab7d29.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-18T15:25:00+00:00"
     },
@@ -5192,12 +4955,7 @@
       "url": "https://www.carscoops.com/2026/06/aston-martin-valkyrie-recall/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Aston-Martin-Valkyrie-Le-Mans-2-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Aston-Martin-Valkyrie-Le-Mans-2-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Aston_Martin_Valkyrie_3-2048x1365.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/saergrthsegrawef-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Designer_Specification__SPIRIT-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/fg4235rvfe-wd-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/V2G-IONIQ-9-StarCharge-01-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Aston-Martin-Valkyrie-Le-Mans-2-1024x576.jpg"
       ],
       "source": "CarScoops Aston",
       "source_url": "https://www.carscoops.com",
@@ -5232,6 +4990,19 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-06-17T23:59:37+00:00"
+    },
+    {
+      "id": "0657ad48de5a237d",
+      "title": "Ferrari 296 Speciale A",
+      "summary": "Maranello continues near-twenty-year-old tradition of peeling back the roof on its mid-engined trackday hero The greatest supercars very often don’t make the most perfect sense. Logic would have allowed no need, nearly twenty years ago, for Ferrari to have built a limited-run of 499 open-topped versions of the untamed 430 Scuderia to celebrate the 16th constructor’s championship of its Formula 1 team. Who would want a Scuderia Spider ‘16M’ anyway, when they could just have a lighter, quicker and even more focussed 430 Scuderia coupe instead?As it turned out, the car was admired and…",
+      "url": "https://www.autocar.co.uk/car-review/ferrari/296-speciale-aperta",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/ferrari-296-speciale-aperta-review-2026-35.jpg?itok=66-_Lb8p",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/ferrari-296-speciale-aperta-review-2026-35.jpg?itok=66-_Lb8p"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-17T23:01:00+00:00"
     },
     {
       "id": "83f34d3e50bc6302",
@@ -5297,7 +5068,12 @@
       "url": "https://www.autoweek.com/news/a71618291/world-cup-traffic-robotaxi-problem/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/8a38599b-9b71-41df-9443-44a59ebe87ec.jpeg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/8a38599b-9b71-41df-9443-44a59ebe87ec.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/8a38599b-9b71-41df-9443-44a59ebe87ec.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/a8d04ef9-8662-487d-8b55-15d287376d21.jpg?crop=1.00xw:0.753xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/7d15b216-8e29-4717-b050-2876aa22ae90.jpeg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/893803ce-6248-42a2-8516-6dadd51cebf6.jpeg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/b3d8e9ba-810e-4a8e-af86-9fe4d99a8d88.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/cc656693-c960-49a7-bb40-241a32588f12.png?crop=0.499xw:1.00xh;0.454xw,0&resize=360:*"
       ],
       "source": "AutoWeek News",
       "source_url": "https://www.autoweek.com",
@@ -5421,19 +5197,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-06-17T16:41:07+00:00"
-    },
-    {
-      "id": "d21b911264e271ee",
-      "title": "Ford Botched Repairs On Over 125,000 Vehicles, Leading To Four New Recalls",
-      "summary": "With as many recalls as Ford conducts, you'd figure they at least be good at fixing them",
-      "url": "https://www.carscoops.com/2026/06/ford-issues-five-new-recalls/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-F-150-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-F-150-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-17T16:22:00+00:00"
     },
     {
       "id": "8fe1a2d49d9dd973",
@@ -5628,6 +5391,24 @@
       "published": "2026-06-17T12:10:00+00:00"
     },
     {
+      "id": "6785e6f2dd62166f",
+      "title": "2027 Porsche Taycan",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/porsche/taycan-2027",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-4s-139-6862bceca4685.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-4s-139-6862bceca4685.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-4s-120-6862bbaf8b457.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-4s-140-6862bced9561e.jpg?crop=0.559xw:0.472xh;0.255xw",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-cross-turismo-105-6887a5436cde1.jpg?crop=0.545xw:0.459xh;0.221xw,0.385xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2024-lucid-air-pure-rwd-101-6581b07732c3e.jpg?crop=0.561xw:0.475xh;0.296xw,0.405xh&resize=700:*"
+      ],
+      "source": "C&D Porsche",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-17T12:00:00+00:00"
+    },
+    {
       "id": "463062a47474436b",
       "title": "2027 Porsche Taycan Gets Simulated Shifts, Larger Standard Battery",
       "summary": "And it costs a pretty penny more than before as well.",
@@ -5771,19 +5552,6 @@
       "published": "2026-06-17T09:38:00+00:00"
     },
     {
-      "id": "be429a45df5c38f3",
-      "title": "Ford’s $30,000 Electric Pickup Just Got Its First Official Look",
-      "summary": "A new teaser site and winter testing clips tease Ford's baby electric truck ahead of its launch next year",
-      "url": "https://www.carscoops.com/2026/06/ford-electric-pickup-teaser/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-EV-Truck-teaser-23668-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-EV-Truck-teaser-23668-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-17T08:49:00+00:00"
-    },
-    {
       "id": "c185b3b3976a47b6",
       "title": "Porsche GB marks 75 years with 911 GT3 Earls Court 51 Edition",
       "summary": "Built to celebrate 75 years of Porsche in the UK, only 51 examples of the special 911 GT3 Touring will be offered to enthusiasts. The post Porsche GB marks 75 years with 911 GT3 Earls Court 51 Edition appeared first on Motoring Research .",
@@ -5887,6 +5655,24 @@
       "published": "2026-06-16T21:22:00+00:00"
     },
     {
+      "id": "b91db6878647d14d",
+      "title": "2026 Lexus ES EV",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/lexus/es-ev",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cb0780f6-0c5d-447f-a225-66b8de4fea5a.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/cb0780f6-0c5d-447f-a225-66b8de4fea5a.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/9c342613-c7c5-41b0-b88e-bf3d2f47c9db.jpg?crop=0.888xw:0.749xh;0.0723xw",
+        "https://hips.hearstapps.com/hmg-prod/images/c09f885b-8e8c-484f-ac9f-8ddd958f6d53.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-tesla-model-3-standard-120-68e3fb1f4d3ec.jpg?crop=0.792xw:0.668xh;0.159xw,0.221xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/hyundai-ioniq-6-141-64594931612f1.jpg?crop=0.681xw:0.575xh;0.207xw,0.409xh&resize=700:*"
+      ],
+      "source": "C&D Lexus",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T21:04:00+00:00"
+    },
+    {
       "id": "f44c173a4dcf265a",
       "title": "Honda Gives SUV Owners A Free Way To Have More Fun Off-Road",
       "summary": "The Japanese automaker takes a page out of Jeep’s playbook to make its TrailSport models more enjoyable.",
@@ -5916,6 +5702,42 @@
       "source": "AutoWeek News",
       "source_url": "https://www.autoweek.com",
       "published": "2026-06-16T20:54:00+00:00"
+    },
+    {
+      "id": "972a721fee201fe0",
+      "title": "2027 Toyota C-HR",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/toyota/c-hr-2027",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/05e2fc58-ab28-42a7-a1f3-c16c42862a26.jpg?crop=0.575xw:0.486xh;0.170xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f570a798-b868-4de6-bb00-a8aa02647adb.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/f5ba5e75-d61e-4021-9fd4-5f73dda1877c.jpg?crop=0.696xw:0.586xh;0.149xw,0.287xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-nissan-leaf-114-68c2d5371c728.jpg?crop=0.833xw:0.702xh;0.0732xw,0.217xh&resize=700:*"
+      ],
+      "source": "C&D Toyota",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T20:44:00+00:00"
+    },
+    {
+      "id": "a27353982533a210",
+      "title": "2026 Toyota C-HR",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/toyota/c-hr",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/05321848-b855-4d44-8973-9e155b6e7bca.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/05e2fc58-ab28-42a7-a1f3-c16c42862a26.jpg?crop=0.578xw:0.488xh;0.169xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f570a798-b868-4de6-bb00-a8aa02647adb.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/f5ba5e75-d61e-4021-9fd4-5f73dda1877c.jpg?crop=0.696xw:0.586xh;0.149xw,0.287xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-nissan-leaf-114-68c2d5371c728.jpg?crop=0.833xw:0.702xh;0.0732xw,0.217xh&resize=700:*"
+      ],
+      "source": "C&D Toyota",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T20:38:00+00:00"
     },
     {
       "id": "a9f86e05b6be3add",
@@ -5962,6 +5784,24 @@
       "published": "2026-06-16T19:00:00+00:00"
     },
     {
+      "id": "2189c38368cc839e",
+      "title": "2028 Audi A6 Allroad",
+      "summary": "What We Know So Far",
+      "url": "https://www.caranddriver.com/audi/a6-allroad-2028",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2df76265-9f3d-49b2-9f6c-ce64930b49d0.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2df76265-9f3d-49b2-9f6c-ce64930b49d0.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/48cefea9-614e-4270-bd57-c0f6aff7381a.jpg?crop=1.00xw:0.751xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/b758f655-1cf2-4a44-bd4d-d358704474a1.jpg?crop=0.557xw:0.417xh;0.194xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-mercedes-benz-e450-all-terrain-246-68e680588b734.jpg?crop=0.764xw:0.644xh;0.177xw,0.276xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-amg-e53-wagon-102-694413463f2f6.jpg?crop=1.00xw:0.847xh;0,0.0925xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-audi-rs6-avant-performance-109-692f1db9029cf.jpg?crop=0.857xw:0.725xh;0.0617xw,0.117xh&resize=700:*"
+      ],
+      "source": "C&D Audi",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T18:43:00+00:00"
+    },
+    {
       "id": "f2ceaf04d13910d1",
       "title": "Tesla Cybercab Finally Reveals Key Specs—Including 418 Miles Of Range",
       "summary": "New EPA documents show that the Tesla Cybercab will have impressive range even with a tiny battery.",
@@ -5993,6 +5833,24 @@
       "published": "2026-06-16T18:00:00+00:00"
     },
     {
+      "id": "20467517c47b414f",
+      "title": "2027 Lexus RZ",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/lexus/rz-2027",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3767e631-3335-45f5-b2d2-e672e122adbc.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3767e631-3335-45f5-b2d2-e672e122adbc.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/1ce91a65-7634-4a33-ae33-accc9a2e9950.jpg?crop=0.594xw:0.501xh;0.193xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-lexus-rz550e-136-686bea218cc82.jpg?crop=1.00xw:0.845xh;0",
+        "https://hips.hearstapps.com/vidthumb/images/ev-buyers-guide-thumbnail-666c823cf1cc1.jpg?crop=1.00xw:1.00xh;0",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-macan-electric-112-686bf0f711529.jpg?crop=0.738xw:0.622xh;0.125xw,0.334xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-ix3-108-68ae1496623a1.jpg?crop=0.702xw:0.592xh;0.117xw,0.293xh&resize=700:*"
+      ],
+      "source": "C&D Lexus",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-16T17:53:00+00:00"
+    },
+    {
       "id": "588dae23d2e3fb2e",
       "title": "Hyundai is closing in on Chevy as the #2 EV brand in the US",
       "summary": "Hyundai is on track for its sixth straight year of record sales in the US. In the EV market, Hyundai has its sights set on Chevrolet as it looks to become the second-best-selling brand behind Tesla.",
@@ -6001,7 +5859,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/02/Hyundai-IONIQ-5-best-EV-4.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek Hyundai",
+      "source": "Electrek Chevrolet",
       "source_url": "https://electrek.co",
       "published": "2026-06-16T17:42:00+00:00"
     },
@@ -6100,19 +5958,6 @@
       "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-16T15:25:00+00:00"
-    },
-    {
-      "id": "970e66f624607e0c",
-      "title": "Ford Now Destroys One New Engine A Day, And It Thinks It’s Working",
-      "summary": "Ford takes lessons learned from its Spanish factory to improve the quality of its engines",
-      "url": "https://www.carscoops.com/2026/06/ford-engine-teardown-quality/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Racing-Parts_Landscape_03-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Racing-Parts_Landscape_03-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-16T15:08:00+00:00"
     },
     {
       "id": "1c5e53ac2cfa479f",
@@ -6566,19 +6411,6 @@
       "published": "2026-06-15T19:00:09+00:00"
     },
     {
-      "id": "3b309ed6a2473956",
-      "title": "Ford’s Giving Escape Owners A $10,000 Reason To Size Up To An Explorer",
-      "summary": "A strong legacy and familiarity has helped the Ford Explorer retain its popularity",
-      "url": "https://www.carscoops.com/2026/06/ford-escape-explorer-incentives/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Explorer-Dealers-Sales-1024x588.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Explorer-Dealers-Sales-1024x588.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-15T18:20:00+00:00"
-    },
-    {
       "id": "ab76db8d92822b33",
       "title": "Iron Maidens: 7 of Our Favorite Harley-Davidson Ironhead Customs",
       "summary": "The Harley-Davidson Sportster is often called ‘America’s Horse,’ a blue-collar h...",
@@ -6637,12 +6469,7 @@
       "url": "https://www.carscoops.com/2026/06/mansory-urus-se/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/720846521_18594126535004831_8061145434959915612_n-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/720846521_18594126535004831_8061145434959915612_n-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mansory-Lamborghini-Urus-Softkit-4-1639x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mansory-Lamborghini-Urus-Softkit-5-1639x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mansory-Lamborghini-Urus-Softkit-3-1638x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mansory-Lamborghini-Urus-Softkit-6-1638x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mansory-Lamborghini-Urus-Softkit-1-1637x2048.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/720846521_18594126535004831_8061145434959915612_n-copy-1024x576.jpg"
       ],
       "source": "CarScoops Lamborghini",
       "source_url": "https://www.carscoops.com",
@@ -6725,19 +6552,6 @@
       "source": "Electrek Kia EV",
       "source_url": "https://electrek.co",
       "published": "2026-06-15T14:22:08+00:00"
-    },
-    {
-      "id": "0668f0f28adf5fca",
-      "title": "Ford Admits Thousands Of Dashboards Can Still Go Blank Seven Years After The Fix",
-      "summary": "More than 4,000 Navigator, Nautilus, and Mustang models were marked fixed seven years ago and still have gauges that can go dark",
-      "url": "https://www.carscoops.com/2026/06/ford-lincoln-cluster-recall/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2019_Ford_Mustang_Bullitt-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2019_Ford_Mustang_Bullitt-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-15T14:21:00+00:00"
     },
     {
       "id": "6c3537399e79cb23",
@@ -6831,19 +6645,6 @@
       "published": "2026-06-15T10:34:30+00:00"
     },
     {
-      "id": "0b2ba87a832a5e7f",
-      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
-      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
-      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-15T10:22:00+00:00"
-    },
-    {
       "id": "a1f5fd367b2283b1",
       "title": "The most efficient electric cars revealed – the EVs which will keep you moving",
       "summary": "What are the most efficient electric cars that you can buy? While range is very important for some buyers, making an electric car capable of going a long way between charges isn’t actually that difficult. Sure, good efficiency helps, but the main thing you need is a massive battery that can store lots of energy – and big batteries are actually counterproductive for efficiency. So what if your main priority is efficiency? Either because you want to spend as little as possible on electricity, or because you want to reduce your carbon footprint? That's the question we'll answer here. If you…",
@@ -6896,17 +6697,240 @@
       "published": "2026-06-14T17:00:00+00:00"
     },
     {
-      "id": "7dfb2eab44a778df",
-      "title": "The Mustang Is America’s Least-Driven Car Only If You Count One Kind Of Owner",
-      "summary": "iSeeCars ranked the Mustang dead last for annual mileage, but the study only counted three-year-olds sold in 2025, not the owners who kept driving theirs",
-      "url": "https://www.carscoops.com/2026/06/chrysler-pacificas-are-driven-10-times-more-miles-than-ford-mustangs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/RTR-Ford-Mustang-Signbtg-vbgr-1024x576.jpg",
+      "id": "6b3d64cd4337dd67",
+      "title": "Solid-state batteries still aren’t ready, but gels are",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Lithium-ion batteries are everywhere as we […]",
+      "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/RTR-Ford-Mustang-Signbtg-vbgr-1024x576.jpg"
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       ],
-      "source": "CarScoops Ford",
+      "source": "The Verge Transp",
+      "source_url": "https://www.theverge.com",
+      "published": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "id": "dc271a30c891bc5d",
+      "title": "New Seat Ibiza vs Renault Clio",
+      "summary": "The contenders NEW Seat Ibiza 1.0 TSI 95 SE List price £20,995 Best price £16,380 A facelift brings much-needed improvements to the Ibiza's interior while retaining its other fine qualities. Can it justify its slightly higher price compared with the Clio, though? Renault Clio 1.0 TCe 90 Generation List price £17,995 Best price £15,680 Previously named Small Car of the Year, twice, the Clio's new entry-level trim lowers the price and adds more equipment. Does that make it even more tempting? If you ever needed proof that good things come in small packages, look no further than the Renault…",
+      "url": "https://www.whatcar.com/news/new-seat-ibiza-vs-renault-clio/n29123",
+      "image": "https://media.whatcar.com/wc-image/2026-06/seat_ibiza_and_renault_clio_twin_front_driving.jpg",
+      "images": [
+        "https://media.whatcar.com/wc-image/2026-06/seat_ibiza_and_renault_clio_twin_front_driving.jpg"
+      ],
+      "source": "What Car",
+      "source_url": "https://www.whatcar.com",
+      "published": "2026-06-14T07:40:00+00:00"
+    },
+    {
+      "id": "50c9ef931efd39ba",
+      "title": "BYD Sealion 5 long-term test",
+      "summary": "The car BYD Sealion 5 DM-i Design Run by John Bradshaw , chief photographer Why it’s here To find out if this family SUV combines economy and convenience. Needs to Be economical and relaxing on long trips, and endlessly practical. Mileage 1013 List price £32,995 Best Price £29,990 Price as tested £32,995 Official economy 134.5mpg Test economy 41.5mpg Options none 14 June 2026 – A level playing field My BYD Sealion 5 has me thinking about dating apps. Of course, as a joyously married bloke, I have no need for them, but I can understand their appeal. If you’re looking for that special…",
+      "url": "https://www.whatcar.com/news/byd-sealion-5-long-term-test/n29121",
+      "image": "https://media.whatcar.com/wc-image/2026-06/byd_sealion_5_2026_long-term_test_hello.jpg",
+      "images": [
+        "https://media.whatcar.com/wc-image/2026-06/byd_sealion_5_2026_long-term_test_hello.jpg"
+      ],
+      "source": "What Car",
+      "source_url": "https://www.whatcar.com",
+      "published": "2026-06-14T07:20:00+00:00"
+    },
+    {
+      "id": "b1a12378f8ecec5d",
+      "title": "Porsche’s Facelifted Panamera May Be Killing Its Last Physical Switches",
+      "summary": "New spy shots suggest Porsche's luxury sedan is about to get even more digital",
+      "url": "https://www.carscoops.com/2026/06/porsche-panamera-facelift-interior/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/IMG_2214-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/IMG_2214-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Porsche",
       "source_url": "https://www.carscoops.com",
-      "published": "2026-06-14T16:53:00+00:00"
+      "published": "2026-06-13T23:22:00+00:00"
+    },
+    {
+      "id": "f3906223b0f91fca",
+      "title": "Micro-Muscle: Cohn Racers Honda Powered Mini Bike",
+      "summary": "The idea of a mini bike usually conjures up images of crude, garage-built contra...",
+      "url": "https://www.bikeexif.com/cohn-racers-honda-mini-bike",
+      "image": "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Cohn-Racer-MM1-Mini-Bike-12.jpg?v=1779379077",
+      "images": [
+        "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Cohn-Racer-MM1-Mini-Bike-12.jpg?v=1779379077"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-13T18:00:00+00:00"
+    },
+    {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
+    },
+    {
+      "id": "e85f2940ab28de9d",
+      "title": "«Горизонт» будет делать компоненты для автомобилей «Белджи»",
+      "summary": "МИНСК, 13 июн — Sputnik. Холдинг «Горизонт» и СЗАО «БЕЛДЖИ» начинают проект по развитию автомобильной электроники, сообщил Минпром Беларуси.",
+      "url": "https://news.mail.ru/economics/71252447/",
+      "image": "https://resizer.mail.ru/p/6fa3ab1c-fe8d-5ac2-8a4a-164dca089f5a/AQAG-hS_STVwfzV1BXWd_02l5GC7GPb6cYFAOFVbXrzZXuFV_P7trraJzu0X6cE78GvxoxWGAtBDkAkqVp9-PZKVKsU.jpg",
+      "images": [
+        "https://resizer.mail.ru/p/6fa3ab1c-fe8d-5ac2-8a4a-164dca089f5a/AQAG-hS_STVwfzV1BXWd_02l5GC7GPb6cYFAOFVbXrzZXuFV_P7trraJzu0X6cE78GvxoxWGAtBDkAkqVp9-PZKVKsU.jpg"
+      ],
+      "source": "Auto.Mail.RU",
+      "source_url": "https://news.mail.ru",
+      "published": "2026-06-13T10:23:49+00:00"
+    },
+    {
+      "id": "b8c6fefd4614c013",
+      "title": "Watch Audi’s New 987-HP Nuvolari Flex On The Track",
+      "summary": "The plug-in hybrid supercar is being tested and perfected at tracks around the world",
+      "url": "https://www.carscoops.com/2026/06/audi-nuvolari-hits-the-track/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Audi-Nuvolari-2-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Audi-Nuvolari-2-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Audi-Nuvolari-612-5-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Audi-Nuvolari-612-1-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Audi-Nuvolari-612-2-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Audi-Nuvolari-612-3-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Audi-Nuvolari-612-4-2048x1365.jpg"
+      ],
+      "source": "CarScoops Audi",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-12T23:19:00+00:00"
+    },
+    {
+      "id": "93de252ef44b62db",
+      "title": "A British Motoring Icon Edges Closer to a Return",
+      "summary": "Morris Commercial unveils a new version of its retro-inspired JE electric van.",
+      "url": "https://www.autoweek.com/news/a71574952/morris-commerical-je-van-reveal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2d8d979e-b44a-43dc-8ce4-e8c59e080694.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2d8d979e-b44a-43dc-8ce4-e8c59e080694.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-06-12T22:16:00+00:00"
+    },
+    {
+      "id": "40be1e28eea31ffe",
+      "title": "A Hotter Lamborghini Revuelto Should Show Up Later This Year",
+      "summary": "A Revuelto SV is reportedly on the way, with a few upgrades designed for the track.",
+      "url": "https://www.motor1.com/news/798621/lamborghini-revuelto-sv-debut/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZER4q/s3/revuelto-sv-spy-photos.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/7ZER4q/s3/revuelto-sv-spy-photos.jpg"
+      ],
+      "source": "Motor1 Lamborghini",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-06-12T21:00:00+00:00"
+    },
+    {
+      "id": "7f5a69e4c03e768c",
+      "title": "Honda Recalls 880,000 SUVs For Wheels That Could Fall Off",
+      "summary": "Honda's latest recall affects the Passport, Pilot, Ridgeline, and Acura MDX.",
+      "url": "https://www.motor1.com/news/798614/honda-recalls-suvs-rust-rear-wheels-fall-off/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8R60/s3/2022-honda-passport-trailsport.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/9m8R60/s3/2022-honda-passport-trailsport.jpg"
+      ],
+      "source": "Motor1 Honda",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-06-12T19:00:47+00:00"
+    },
+    {
+      "id": "af2ba8f7ef9bfb6c",
+      "title": "Spied: Lamborghini's Next Temerario Is Already On The Way",
+      "summary": "A drop-top Temerario Spyder is in the works, and Lamborghini is putting it to the test.",
+      "url": "https://www.motor1.com/news/798601/lamborghini-temerario-spyder-spied-testing/",
+      "image": "https://cdn.motor1.com/images/mgl/XBzjrp/s3/lamborghini-temerario-spyder-prototype-testing.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/XBzjrp/s3/lamborghini-temerario-spyder-prototype-testing.jpg"
+      ],
+      "source": "Motor1 Lamborghini",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-06-12T18:00:00+00:00"
+    },
+    {
+      "id": "88cea2a82e2edd38",
+      "title": "2027 Chevy Bolt vs. 2026 Nissan Leaf Comparison Test: Battle of the Bargains",
+      "summary": "Two affordable hatchback EVs vie for sub-$40,000 supremacy.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71523860/2027-chevrolet-bolt-vs-nissan-leaf-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/671c42ce-ba50-4c67-be83-bed8b041c3f8.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/671c42ce-ba50-4c67-be83-bed8b041c3f8.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-12T17:00:00+00:00"
+    },
+    {
+      "id": "3b345df5c91d866b",
+      "title": "Minimoto Maestro: A Turbocharged, Twin-Cam Honda Monkey from Japan",
+      "summary": "Minimoto has gone global, but the world will never catch up to Japan. The cultur...",
+      "url": "https://www.bikeexif.com/turbocharged-twin-cam-honda-monkey-from-japan",
+      "image": "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/turbo-honda-monkey-15.jpg?v=1779394835",
+      "images": [
+        "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/turbo-honda-monkey-15.jpg?v=1779394835"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-12T17:00:00+00:00"
+    },
+    {
+      "id": "13b21450c2068708",
+      "title": "Here’s the Toyota GR GT in Red, What Do You Think?",
+      "summary": "We saw it last week at the Petersen Museum’s Japanese Car Cruise-In.",
+      "url": "https://www.autoweek.com/news/g71571475/toyota-gr-gt-in-red/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5c688436-f7dd-49c6-86d8-47ec51b60dbb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5c688436-f7dd-49c6-86d8-47ec51b60dbb.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-06-12T16:57:00+00:00"
+    },
+    {
+      "id": "cec5df5b47cb277e",
+      "title": "Two Months Was All BMW’s iX3 Needed To Crack 10,000 Sales In Europe",
+      "summary": "A third of the people buying the new iX3 have never owned a BMW, which says something about who the electric SUV is reaching",
+      "url": "https://www.carscoops.com/2026/06/bmw-ix3-sales-europe/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90626851_highRes_the-new-bmw-ix3-50-x-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/P90626851_highRes_the-new-bmw-ix3-50-x-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90626616_highRes_the-new-bmw-ix3-50-x-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90615630_highRes_the-new-bmw-ix3-50-x-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90615625_highRes_the-new-bmw-ix3-50-x-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90626612_highRes_the-new-bmw-ix3-50-x-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2026-Mercedes-GLC-Electric-609-4-2048x1363.jpg"
+      ],
+      "source": "CarScoops Mercedes",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-12T16:33:00+00:00"
+    },
+    {
+      "id": "10bbd76cfdc5b29a",
+      "title": "Genesis Teases Its Racing Future With A Crazy New Concept",
+      "summary": "Genesis also gives the Magma GT concept a proper, and luxurious, interior.",
+      "url": "https://www.motor1.com/news/798590/genesis-magma-gt3-concept-racing/",
+      "image": "https://cdn.motor1.com/images/mgl/YAzj6W/s3/genesis-magma-gt3-concept-2026.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/YAzj6W/s3/genesis-magma-gt3-concept-2026.jpg",
+        "https://cdn.motor1.com/images/mgl/pbJRXW/s5/genesis-magma-gt-concept-2026.jpg",
+        "https://cdn.motor1.com/images/mgl/XBzjJv/s5/genesis-magma-gt-concept-2026.jpg",
+        "https://cdn.motor1.com/images/mgl/P3BLvr/s5/genesis-magma-gt-concept-2026.jpg",
+        "https://cdn.motor1.com/images/mgl/bgPj8n/s5/genesis-magma-gt-concept-2026.jpg",
+        "https://cdn.motor1.com/images/mgl/RqkeyK/s5/genesis-magma-gt-concept-2026.jpg"
+      ],
+      "source": "Motor1 Genesis",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-06-12T15:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-21T03:37:25.791653+00:00",
-  "generated_at_human": "2026-06-21 03:37 UTC",
+  "generated_at": "2026-06-21T06:16:41.552992+00:00",
+  "generated_at_human": "2026-06-21 06:16 UTC",
   "total_items": 281,
   "sources_used": [
-    "Autocar BMW",
+    "Autocar BMW M",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -46,16 +46,16 @@
     "Car and Driver Reviews",
     "CarScoops BMW",
     "CarScoops Ferrari",
-    "CarScoops Ford",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
     "Kolesa RU",
     "Motor1 BMW",
-    "Motor1 Mazda",
     "Motor1 Mini",
+    "Motor1 Subaru",
     "Motor1 Volvo",
     "Motoring Research",
     "The Drive",
@@ -66,6 +66,22 @@
   "sources_count": 58,
   "multi_photo_items": 11,
   "items": [
+    {
+      "id": "f416c2a5a4b1b1b3",
+      "title": "Ultimate track toy? 525bhp Ariel Atom 4RR takes on BMW M2 CS",
+      "summary": "The newest, maddest Atom has 799bhp per tonne – enough for total sensory overload Going parachute jumping in a storm-force wind isn't something your author has ever done but, thanks to the Ariel Atom, I feel oddly familiar with the idea. To appreciate the full effect, you need a proper circuit-and quite a quick one at that. Somewhere you can get this totally tubular flyweight driver's car near the business end of its rev range in fifth and sixth gears, well beyond 100mph, just to feel what it's like. And what it's like is... well, fresh. Breezy, if you prefer. To me, parachuting through a…",
+      "url": "https://www.autocar.co.uk/car-news/features/ultimate-track-toy-525bhp-ariel-atom-4rr-takes-bmw-m2-cs",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ariel-atom-4-vs-bmw-m2-cs-feature-6.5.26-me-9.jpg?itok=lw2duxGa",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ariel-atom-4-vs-bmw-m2-cs-feature-6.5.26-me-9.jpg?itok=lw2duxGa",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/ariel-atom-4-vs-bmw-m2-cs-feature-6.5.26-me-9.jpg?itok=BVKDORLa",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/matt-saunders-autocar.jpg?itok=Wa99gg9e"
+      ],
+      "source": "Autocar BMW M",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-21T05:00:00+00:00"
+    },
     {
       "id": "bdf28c72a8e95f10",
       "title": "The New BMW i3 Sedan Is The EV Set To Steal Tesla's Thunder",
@@ -208,12 +224,9 @@
       "url": "https://www.autocar.co.uk/car-news/features/bore-no-more-slick-new-toyota-prius-vs-300k-mile-mk3",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/totota-prius-lt-2026-wr-jb20260220_0679.jpg?itok=jJO6zBQY",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/totota-prius-lt-2026-wr-jb20260220_0679.jpg?itok=jJO6zBQY",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/totota-prius-lt-2026-wr-jb20260220_0679.jpg?itok=tXSsRhrM",
-        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/will-rimell-2024-jb20240912_5562_2_0.jpg?itok=Ma_qqi2K"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/totota-prius-lt-2026-wr-jb20260220_0679.jpg?itok=jJO6zBQY"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-20T05:00:00+00:00"
     },
@@ -252,7 +265,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-101-69989b9d20124.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-19T14:00:00+00:00"
     },
@@ -291,7 +304,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-07-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T11:03:55+00:00"
     },
@@ -317,7 +330,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-4-830x603.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T10:12:22+00:00"
     },
@@ -418,7 +431,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-i3-reveal-2.jpg?itok=GeV_XlEL"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-18T15:21:14+00:00"
     },
@@ -431,7 +444,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
     },
@@ -948,19 +961,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-15T12:20:37+00:00"
-    },
-    {
-      "id": "0b2ba87a832a5e7f",
-      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
-      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
-      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Ford",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-15T10:22:00+00:00"
     },
     {
       "id": "57ded44a7b2eb04f",
@@ -2065,7 +2065,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2221,7 +2221,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3417,7 +3417,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3716,7 +3716,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/6Z8NOb/s3/every-manual-car-2026.jpg"
       ],
-      "source": "Motor1 Mazda",
+      "source": "Motor1 Subaru",
       "source_url": "https://www.motor1.com",
       "published": "2026-03-26T14:00:00+00:00"
     },
