@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-22T06:39:55.718198+00:00",
-  "generated_at_human": "2026-06-22 06:39 UTC",
-  "total_items": 279,
+  "generated_at": "2026-06-22T09:36:05.138051+00:00",
+  "generated_at_human": "2026-06-22 09:36 UTC",
+  "total_items": 269,
   "sources_used": [
     "Autocar",
     "BMW Blog",
@@ -17,7 +17,7 @@
     "BMW Blog M tag",
     "BMW Blog M2",
     "BMW Blog M2 tag",
-    "BMW Blog M3",
+    "BMW Blog M3 tag2",
     "BMW Blog M4",
     "BMW Blog M5",
     "BMW Blog M6",
@@ -46,17 +46,17 @@
     "Car and Driver Reviews",
     "CarScoops",
     "CarScoops BMW",
-    "CarScoops Ferrari",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
+    "ClassicCars Journal",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
     "Kolesa RU",
     "Motor1 BMW",
     "Motor1 Mazda",
     "Motor1 Volvo",
+    "Motoring Research",
     "The Drive",
     "The Verge Transp",
     "What Car"
@@ -64,6 +64,24 @@
   "sources_count": 56,
   "multi_photo_items": 11,
   "items": [
+    {
+      "id": "80b75d1f97f8725c",
+      "title": "Pick of the Day: 2000 BMW M5",
+      "summary": "Unmodified E39 with only 80,000 miles",
+      "url": "https://journal.classiccars.com/2026/06/22/pick-of-the-day-2000-bmw-m5/",
+      "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-70.jpg",
+      "images": [
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-70.jpg",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-3-1536x865.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-1-1536x864.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-99-1-1536x864.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-Gauges-1536x864.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/2000-BMW-M5-70-768x432.webp"
+      ],
+      "source": "ClassicCars Journal",
+      "source_url": "https://journal.classiccars.com",
+      "published": "2026-06-22T09:00:00+00:00"
+    },
     {
       "id": "ed2c26213971500d",
       "title": "BMW i1 NB0? BMW Werk Leipzig wird auf Neue Klasse vorbereitet",
@@ -143,7 +161,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-monte-carlo-blue-00-830x552.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-21T17:39:23+00:00"
     },
@@ -296,6 +314,19 @@
       "published": "2026-06-20T09:18:35+00:00"
     },
     {
+      "id": "4cac0641c73247b6",
+      "title": "Electric BMW i3 First Edition now available for UK orders",
+      "summary": "Prices for the launch-spec BMW i3 50 xDrive First Edition will start from £57,905. Here's what you need to know. The post Electric BMW i3 First Edition now available for UK orders appeared first on Motoring Research .",
+      "url": "https://www.motoringresearch.com/car-news/2026-bmw-i3-50-xdrive-first-edition/",
+      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/06/001-2026-BMW-i3-50-xDrive-First-Edition.jpg",
+      "images": [
+        "https://www.motoringresearch.com/wp-content/uploads/2026/06/001-2026-BMW-i3-50-xDrive-First-Edition.jpg"
+      ],
+      "source": "Motoring Research",
+      "source_url": "https://www.motoringresearch.com",
+      "published": "2026-06-20T09:00:43+00:00"
+    },
+    {
       "id": "dc30be59e1fd025f",
       "title": "Bore no more: Slick new Toyota Prius vs 300k-mile Mk3",
       "summary": "Leggy ex-taxi proves just how far Toyota's hybrid hatch has come in the pursuit of efficiency and dynamics My wife had a drive of the Autocar Prius this week while her (our) BMW Z4 was in the shop. \"Super-boring car\" was her three-word review. I found that assessment harsh but, honestly, I'd started to have similar thoughts myself as it approached the 6000-mile mark. The latest Prius is designed to do one thing: be as efficient as possible. This is something it is very good at. But, like most things that are designed for one specific purpose, it can fall short in other areas - in this case…",
@@ -348,19 +379,6 @@
       "published": "2026-06-19T14:00:00+00:00"
     },
     {
-      "id": "e80fc1ed99b14c04",
-      "title": "Honda Prelude Review",
-      "summary": "We’ve seen baggy jeans and Tamagotchis make a reappearance, and CDs are enjoying a resurgence in sales too, so it begs the question: are the 1990s coming back? Well, if the return of the Honda Prelude is anything to go by, the answer is: \"Yes.\" Like previous generations, the new Prelude is a two-door, four-seat coupé. However, for the first time, it’s built using Honda Civic underpinnings, and it has that car’s hybrid engine. Being a hybrid, the Prelude lacks any direct rivals. The closest competitor (in terms of power, size and list price) is the BMW 2 Series 220i. So, how well does the…",
-      "url": "https://www.whatcar.com/honda/prelude/coupe/review/n28307",
-      "image": "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg",
-      "images": [
-        "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg"
-      ],
-      "source": "What Car",
-      "source_url": "https://www.whatcar.com",
-      "published": "2026-06-19T13:00:00+00:00"
-    },
-    {
       "id": "be7434fb97674d92",
       "title": "BMW’s Rare New Wagon Loses Most Of Its Camouflage",
       "summary": "When someone says BMW doesn’t know how to build a beautiful car anymore, point them to these images. While looks are subjective, it’s hard to find a bad angle on the Speedtop. Fresh spy photos... First published by https://www.bmwblog.com",
@@ -382,7 +400,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-07-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-19T11:03:55+00:00"
     },
@@ -766,7 +784,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/bmw-m3-cs-manual-g80-40-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M3 tag2",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T16:46:51+00:00"
     },
@@ -976,19 +994,6 @@
       "published": "2026-06-15T13:35:26+00:00"
     },
     {
-      "id": "3dce8cacc7d8e143",
-      "title": "BMW Confirms The New Gas M3 Won’t Be A Plug-In Hybrid",
-      "summary": "The M Concept Neue Klasse made a splash over the weekend at Le Mans for all the right reasons. It’s a near-production preview of next year’s electric M3, the ZA0. But what about the combustion-engine... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/15/bmw-confirms-m3-g84-not-phev/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/10/2028-bmw-m3-g84-spy-photos-17-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/10/2028-bmw-m3-g84-spy-photos-17-830x553.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-15T13:13:46+00:00"
-    },
-    {
       "id": "bddbaca09f8a004b",
       "title": "New 2027 BMW X5 Gets Electric, Hydrogen, and 578 HP iX5",
       "summary": "BMW is wrapping up development on the next X5, with final calibration drives happening right now around Plant Spartanburg in South Carolina. It is the first BMW production model to cover five different powertrains at... First published by https://www.bmwblog.com",
@@ -1054,32 +1059,6 @@
       "published": "2026-06-14T09:59:00+00:00"
     },
     {
-      "id": "4d6dc379f9411c75",
-      "title": "BMW’s Electric M3 Has Shift Paddles, And They’re Not A Gimmick",
-      "summary": "It’s safe to say that BMW’s M Concept Neue Klasse is an electric M3 in all but name. This weekend, company higher-ups revealed that the production-ready car debuting next year will closely echo the concept.... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/14/bmw-electric-m3-shift-paddles/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-1-830x622.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-1-830x622.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-14T07:10:07+00:00"
-    },
-    {
-      "id": "32ea6297ebcd7de8",
-      "title": "BMW M3 Touring Render Imagines the Electric Wagon We Want",
-      "summary": "While not the electric M3 in name, the M Concept Neue Klasse that debuted at Le Mans Friday is not far off from what we expect a production version of BMW’s halo sports sedan to... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/13/bmw-m3-touring-render-electric-wagon/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m3-eletric-touring-02-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m3-eletric-touring-02-830x467.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-13T16:50:40+00:00"
-    },
-    {
       "id": "915f79c9f73f6c59",
       "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
       "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
@@ -1091,45 +1070,6 @@
       "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-13T14:21:00+00:00"
-    },
-    {
-      "id": "7289a986e074099a",
-      "title": "BMW Just Hinted That The Electric M3 Won’t Be Called iM3 — Here’s Why",
-      "summary": "Le Mans is a strange place to discuss an electric sedan that’s still a year away. But there we were, in a panel with Frank Van Meel, BMW M CEO, and Oliver Heilmer, Head of... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/13/electric-bmw-m3-name-confirmed-not-im3/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-38-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-38-830x553.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-13T14:05:15+00:00"
-    },
-    {
-      "id": "b364442a9195d331",
-      "title": "BMW Confirms New M3 Models Will Closely Mirror The Concept",
-      "summary": "Historically, BMW hasn’t exactly been big on concepts. During the last century, the company generally preferred to launch production cars directly without offering many glimpses of what was to come. Sure, the 1972 Turbo did... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/13/bmw-confirms-new-m3-models-will-mirror-the-concept/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-29-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-29-830x553.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-13T10:34:20+00:00"
-    },
-    {
-      "id": "f06e58f0dfe1b81d",
-      "title": "BMW Showed the Electric M3 at Le Mans — We Got Exclusive Photos",
-      "summary": "BMW chose Le Mans — the oldest and most storied endurance race in the world — to pull the sheet off the BMW M Concept Neue Klasse, and we were there for it. The car... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/12/bmw-m-concept-neue-klasse-le-mans-world-premiere-exclusive-photos/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-38-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-38-830x553.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-13T01:10:07+00:00"
     },
     {
       "id": "91df334a02d22529",
@@ -1447,42 +1387,11 @@
       "url": "https://www.carscoops.com/2026/06/gran-turismo-7-june-update/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/i17BDVfaRnPUd-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/i1ZXo1ABGSjJLdB-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/i1RO6UqP6Hat2z-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/i1d22F6nw2Wz3uH-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/i1cjVgqiDZwRhb-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg"
       ],
-      "source": "CarScoops Ferrari",
+      "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-10T20:01:00+00:00"
-    },
-    {
-      "id": "2690483d4f6ecf5f",
-      "title": "BMW’s Electric M3 Is Learning From V10s, Inline-Sixes, and the Nürburgring",
-      "summary": "An electric M3. Probably a less surprising concept now than it was five years ago. But BMW’s first electric M3 — chassis designated “ZA0” — still has a long way to go before release, let... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/10/bmw-electric-m3-v10-inline-six-nurburgring-testing/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2027-bmw-m3-electric-za0-08-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2027-bmw-m3-electric-za0-08-830x554.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-10T16:00:50+00:00"
-    },
-    {
-      "id": "75d9b397b284000e",
-      "title": "BMW M3 With Individual Colors Finally Arrives In Brazil",
-      "summary": "The sixth-generation M3 may be approaching the end of its life cycle, but BMW isn’t neglecting the G80 ahead of its retirement next year. Better late than never, the sports sedan has finally arrived in... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/10/bmw-m3-g80-individual-colors-brazil/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M3-Java-Green-1-830x637.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M3-Java-Green-1-830x637.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-10T12:49:55+00:00"
     },
     {
       "id": "a2d03ef1595b4a7f",
@@ -1537,19 +1446,6 @@
       "published": "2026-06-08T20:11:00+00:00"
     },
     {
-      "id": "509df123f79cebdf",
-      "title": "There Were Only 356 E36 M3 GTs. Here’s Why It Beats the Lightweight",
-      "summary": "The argument over which E36 M3 is the one to own has been going on for thirty years. Americans who got the Lightweight will tell you their stripped-out, Alpine White track special is the definitive... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/08/bmw-e36-m3-gt-best-e36-m3-to-buy/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2017/08/BMW-M3-GT-E36-20-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2017/08/BMW-M3-GT-E36-20-830x553.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-08T16:49:56+00:00"
-    },
-    {
       "id": "5c7ea2e864bae470",
       "title": "BMW Invited 67 People To Test Its Armored Cars At Special Event",
       "summary": "Ideally, there wouldn’t be a need for armored vehicles. However, in the real world, the higher someone climbs the corporate or political ladder, the more likely they are to become a target. BMW recognized the... First published by https://www.bmwblog.com",
@@ -1561,19 +1457,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-08T13:26:53+00:00"
-    },
-    {
-      "id": "f7f1902c1bbabe14",
-      "title": "Is BMW Bringing A New M Car To Le Mans This Weekend?",
-      "summary": "All eyes are on BMW to unveil the next-generation X5 this summer, but an entirely different car may take precedence. Although an official announcement has yet to be made, M could reveal something soon. The... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/08/bmw-new-m-car-teaser-le-mans-2026/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M3-ZA0-teaser.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M3-ZA0-teaser.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-08T12:22:37+00:00"
     },
     {
       "id": "b5d604b1da9d9a4d",
@@ -1613,19 +1496,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-07T11:12:00+00:00"
-    },
-    {
-      "id": "063c81f8ae7c7d09",
-      "title": "BMW Explains What It Takes To Develop An Electric M3",
-      "summary": "The first electric M car is well past the rumor stage. After several years of development, BMW will launch the ZA0 M3 in 2027. In the meantime, the fifth episode of a teaser video campaign... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/07/bmw-explains-what-it-takes-develop-electric-m3/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2027-bmw-m3-electric-za0-04-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2027-bmw-m3-electric-za0-04-830x554.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-07T09:21:48+00:00"
     },
     {
       "id": "4d06d547b3bd909b",
@@ -2078,7 +1948,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2234,7 +2104,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3417,7 +3287,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
