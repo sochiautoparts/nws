@@ -14,7 +14,7 @@ commits the refreshed JSON files back to the repo.
 ## How it works
 
 ```
-RSS sources (192 feeds — 51 BMW + 141 general auto)
+RSS sources (316 feeds — 82 BMW + 234 general auto)
         │
         ▼
    fetch_news.py        ← feedparser + requests, parallel fetch
@@ -22,7 +22,7 @@ RSS sources (192 feeds — 51 BMW + 141 general auto)
         ├─► normalize items (title, summary, url, image, published)
         ├─► extract lead image (enclosure / media:content / media:thumbnail / <img>)
         ├─► ★ garbage-photo guard — drop items whose only image is a logo/icon/tracker
-        ├─► ★ multi-photo scrape — for 70+ gallery-enabled sources, fetch article page
+        ├─► ★ multi-photo scrape — for 189 gallery-enabled sources, fetch article page
         │                       and extract up to 5 additional gallery images
         ├─► dedup by id = sha256(url + title)
         ├─► recency filter:
@@ -41,24 +41,27 @@ RSS sources (192 feeds — 51 BMW + 141 general auto)
 
 | File | Items | Sources | Multi-photo items |
 |---|---:|---:|---:|
-| `bmw-news.json` | ~250 | ~45 | ~10 |
-| `auto-news.json` | ~500 (cap) | ~60 | ~90 |
+| `bmw-news.json` | ~340 | ~84 | ~26 |
+| `auto-news.json` | ~500 (cap) | ~59 | ~77 |
 
 Each multi-photo item carries up to 6 distinct image URLs (lead first).
 
 ---
 
-## Sources (251 hand-tested feeds — 2026-06)
+## Sources (316 hand-tested feeds — 2026-06)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
-enclosures, or `<img>` in summary). BMW-file output uses 76 BMW-specific feeds;
-auto-file output uses 175 general automotive feeds.
+enclosures, or `<img>` in summary). BMW-file output uses 82 BMW-specific feeds;
+auto-file output uses 234 general automotive feeds. 189 feeds are
+**gallery-enabled** (`scrape_gallery: true`) so the parser fetches each article
+page and extracts up to 5 additional photos.
 
 Every source was individually tested for: (1) working RSS endpoint (HTTP 200),
 (2) valid feed XML, (3) ≥ 3 quality photos per 10 entries. Sources that
 returned malformed XML, 0 quality photos, or only 1–2 photos were removed.
+Testing is reproducible via `feed_tester.py` (see [Adding a source](#adding-a-source)).
 
-### BMW-specific (76 feeds)
+### BMW-specific (82 feeds)
 
 - **BMW Blog (61 sub-feeds)** — main + categories (1/3/4/5/6/Z4/M2-M8/i5/X1-X7/X/Motorrad/concepts) + tags (1-8 series, M/M2-M8, X/X1-X7/XM, i/i3-i8/iX/iX1/iX3, Motorrad, concepts, Alpina, Mini, Mini Cooper, Rolls-Royce, 7-series)
 - **Other BMW sites (15)** — BimmerFile, BimmerToday DE, Car and Driver BMW, CarScoops BMW, Electrek BMW, Electrek BMW iX, Autocar BMW, Autocar BMW M, Autocar BMW i, Motor1 BMW
@@ -72,7 +75,7 @@ returned malformed XML, 0 quality photos, or only 1–2 photos were removed.
 - **Motor1 brand feeds (46)** — Mercedes, Audi, Porsche, Ferrari, Tesla, Lamborghini, McLaren, Bentley, Rolls-Royce, Bugatti, Aston Martin, Toyota, Honda, Ford, Chevrolet, Nissan, Mazda, Subaru, VW, Volvo, Mini, Hyundai, Kia, Lexus, Acura, Cadillac, Genesis, Maserati, Alfa Romeo, Jaguar, Land Rover, Ram, Jeep, Buick, Chrysler, Dodge, GMC, Mitsubishi, Infiniti, Suzuki, Peugeot, Renault, Citroen, Fiat, Skoda, Seat
 - **Electrek brand guides (16)** — Tesla, Mercedes EQ, Audi e-tron, Porsche, Ford EV, Rivian, Lucid, Hyundai, Kia EV, GM, Chevrolet, Nissan, Fisker, Polestar, Volvo, EV
 
-Sources marked **gallery-enabled** (143 feeds) have `scrape_gallery: true` —
+Sources marked **gallery-enabled** (189 feeds) have `scrape_gallery: true` —
 the parser fetches the article page for the top 3 most recent items and
 extracts up to 5 additional gallery photos (so each item ends up with up to
 6 images total).
@@ -89,6 +92,33 @@ extracts up to 5 additional gallery photos (so each item ends up with up to
 | 10 Car and Driver brand feeds (Nissan, VW, Genesis, Buick, Ram, Cadillac, Chrysler, GMC, Dodge, Kia) | Malformed XML feed |
 | 7 Car and Driver brand feeds (Acura, Bugatti, Honda, Corvette, Land Rover, Mazda, Mini) | 0 quality photos |
 | 9 Car and Driver brand feeds (Mercedes, Ferrari, Bentley, Lamborghini, Ford, McLaren, Lincoln, Infiniti, Volvo, Jeep) | Only 1–2 quality photos per 10 entries |
+
+### Sources added (2026-06 expansion r8 — +65 feeds)
+
+A further 65 hand-tested quality-photo feeds were added, grouped by category.
+Every feed below was verified with `feed_tester.py`: HTTP 200, valid XML,
+≥3 entries, and ≥3 of the first-10 entries carry a quality photo (most scored
+10/10). This expands coverage into motorsport, classic/muscle cars, international
+outlets, and additional brand/model tags on existing photo-rich platforms.
+
+| Group | Feeds | Category | Quality |
+|---|---|---|---|
+| CarScoops BMW tags (Alpina, BMW M, M3, M4, M5, iX) | 6 | bmw | 10/10 photos each |
+| CarScoops specialty tags (AMG, Brabus, Hennessey, Koenigsegg, Lucid, Pagani, Polestar, Range Rover, Rimac, Rivian, Supercar) | 11 | auto | 10/10 photos each |
+| Motorious tags (Classic, Porsche, Corvette, Ford, Chevrolet, Mustang, Camaro, Dodge, Charger, Challenger, Auction) | 11 | auto | 7–10/10 photos |
+| Hagerty categories (News, Driving, People, Video) | 4 | auto | 10/10 photos each |
+| Motor1 categories (Industry, Technology) | 2 | auto | 9–10/10 photos |
+| Autocar categories (News, Reviews, First Drives, Group Tests) | 4 | auto | 10/10 photos each |
+| AutoExpress categories (News, Reviews) | 2 | auto | 10/10 photos each |
+| Autosport series (All, F1, WEC, WRC, MotoGP, IndyCar, NASCAR) | 7 | auto | 10/10 photos each |
+| Motorsport.com series (All, F1, WEC, WRC, MotoGP, IndyCar, NASCAR, Formula E) | 8 | auto | 9–10/10 photos |
+| Other motorsport (RACER, Crash.net, PlanetF1, Racecar Engineering) | 4 | auto | 10/10 photos each |
+| International (Motor.es ES, Diariomotor ES, CarWale IN, AutoWeek NL, Practical Motoring AU) | 5 | auto | 10/10 photos each |
+| Manufacturer press (Acura News) | 1 | auto | 10/10 photos |
+
+**Result (typical run after r8):** `bmw-news.json` ≈ 341 items from 84 sources
+(was ~250/45); `auto-news.json` = 500 items (cap) from 59 sources with 77
+multi-photo items. 0 photoless articles in either file.
 
 ### Sources added (2026-06 expansion r5–r7)
 
@@ -244,6 +274,17 @@ fresh.
 ---
 
 ## Adding a source
+
+The fastest way to test a candidate feed is the included tester:
+
+```bash
+pip install feedparser requests
+python feed_tester.py --urls https://example.com/feed/ https://other.com/rss.xml
+# → prints a TSV table: URL, HTTP status, entries, quality-photo count, sample image, PASS/NO
+# A feed PASSES if: HTTP 200, valid feed, ≥3 entries, ≥3 of first-10 have a quality photo.
+```
+
+Or test manually:
 
 1. Test the feed URL with `curl -A "Mozilla/5.0 ..." <url> | head -100`
 2. Verify it returns HTTP 200 and includes images in entries (enclosure /
