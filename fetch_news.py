@@ -462,6 +462,46 @@ SOURCES: list[dict[str, Any]] = [
     # ── General automotive — Manufacturer press rooms ────────────────────────
     {"name": "Acura News",            "url": "https://acuranews.com/rss",                                "category": "auto"},
 
+    # ─────────────────────────────────────────────────────────────────────────
+    # EXPANSION 2026-06 (r9) — 22 new hand-tested quality-photo sources
+    # Verified with feed_tester.py (HTTP 200, valid XML, ≥3 entries, ≥3 quality
+    # photos per first-10). Coverage: international/Asian (8), Brazilian (3),
+    # Spanish (1), classic/vintage (2), EV (1), forum (1), Motorious muscle
+    # classic brands (4), Motor1/Autocar categories (3).
+    # ─────────────────────────────────────────────────────────────────────────
+
+    # ── General automotive — International (Asia & Latin America) ────────────
+    {"name": "Paul Tan",              "url": "https://paultan.org/feed",                                 "category": "auto", "scrape_gallery": True},
+    {"name": "Gaadiwaadi IN",         "url": "https://gaadiwaadi.com/feed/",                             "category": "auto", "scrape_gallery": True},
+    {"name": "RushLane IN",           "url": "https://rushlane.com/feed/",                               "category": "auto", "scrape_gallery": True},
+    {"name": "MotorBeam IN",          "url": "https://motorbeam.com/feed/",                              "category": "auto", "scrape_gallery": True},
+    {"name": "Motoring World IN",     "url": "https://www.motoringworld.in/feed/",                       "category": "auto", "scrape_gallery": True},
+    {"name": "Team-BHP Forum IN",     "url": "https://www.team-bhp.com/forum/external.php?type=RSS2",    "category": "auto"},
+    {"name": "Response JP",           "url": "https://response.jp/rss20/index.rdf",                      "category": "auto", "scrape_gallery": True},
+    {"name": "Clicccar JP",           "url": "https://clicccar.com/feed/",                               "category": "auto", "scrape_gallery": True},
+    {"name": "Auto Bild ES",          "url": "https://www.autobild.es/rss",                              "category": "auto", "scrape_gallery": True},
+    {"name": "Quatro Rodas BR",       "url": "https://quatrorodas.abril.com.br/feed/",                   "category": "auto", "scrape_gallery": True},
+    {"name": "Auto Esporte BR",       "url": "https://autoesporte.globo.com/rss/autoesporte",            "category": "auto", "scrape_gallery": True},
+    {"name": "Auto Esporte Carros",   "url": "https://autoesporte.globo.com/rss/autoesporte/carros",     "category": "auto", "scrape_gallery": True},
+
+    # ── General automotive — Classic & vintage specialists (gallery-enabled) ─
+    {"name": "Sports Car Digest",     "url": "https://www.sportscardigest.com/feed",                     "category": "auto", "scrape_gallery": True},
+    {"name": "Vintage Motorsport",    "url": "https://www.vintagemotorsport.com/feed",                   "category": "auto", "scrape_gallery": True},
+
+    # ── General automotive — EV specialist ───────────────────────────────────
+    {"name": "Electric Cars Report",  "url": "https://electriccarsreport.com/feed",                      "category": "auto", "scrape_gallery": True},
+
+    # ── General automotive — Motorious classic American brand tags ───────────
+    {"name": "Motorious Muscle",      "url": "https://motorious.com/tag/muscle/feed/",                   "category": "auto"},
+    {"name": "Motorious Buick",       "url": "https://motorious.com/tag/buick/feed/",                    "category": "auto"},
+    {"name": "Motorious Oldsmobile",  "url": "https://motorious.com/tag/oldsmobile/feed/",               "category": "auto"},
+    {"name": "Motorious Pontiac",     "url": "https://motorious.com/tag/pontiac/feed/",                  "category": "auto"},
+
+    # ── General automotive — Motor1 & Autocar extra categories ───────────────
+    {"name": "Motor1 Design",         "url": "https://www.motor1.com/rss/articles/category/design/",     "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Long-term",     "url": "https://www.autocar.co.uk/rss/long-term-tests",            "category": "auto", "scrape_gallery": True},
+    {"name": "Autocar Used Cars",     "url": "https://www.autocar.co.uk/rss/used-car",                   "category": "auto", "scrape_gallery": True},
+
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────

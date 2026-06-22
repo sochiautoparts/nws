@@ -14,7 +14,7 @@ commits the refreshed JSON files back to the repo.
 ## How it works
 
 ```
-RSS sources (316 feeds — 82 BMW + 234 general auto)
+RSS sources (338 feeds — 82 BMW + 256 general auto)
         │
         ▼
    fetch_news.py        ← feedparser + requests, parallel fetch
@@ -22,7 +22,7 @@ RSS sources (316 feeds — 82 BMW + 234 general auto)
         ├─► normalize items (title, summary, url, image, published)
         ├─► extract lead image (enclosure / media:content / media:thumbnail / <img>)
         ├─► ★ garbage-photo guard — drop items whose only image is a logo/icon/tracker
-        ├─► ★ multi-photo scrape — for 189 gallery-enabled sources, fetch article page
+        ├─► ★ multi-photo scrape — for 206 gallery-enabled sources, fetch article page
         │                       and extract up to 5 additional gallery images
         ├─► dedup by id = sha256(url + title)
         ├─► recency filter:
@@ -41,18 +41,18 @@ RSS sources (316 feeds — 82 BMW + 234 general auto)
 
 | File | Items | Sources | Multi-photo items |
 |---|---:|---:|---:|
-| `bmw-news.json` | ~340 | ~84 | ~26 |
-| `auto-news.json` | ~500 (cap) | ~59 | ~77 |
+| `bmw-news.json` | ~347 | ~88 | ~27 |
+| `auto-news.json` | ~500 (cap) | ~66 | ~99 |
 
 Each multi-photo item carries up to 6 distinct image URLs (lead first).
 
 ---
 
-## Sources (316 hand-tested feeds — 2026-06)
+## Sources (338 hand-tested feeds — 2026-06)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
 enclosures, or `<img>` in summary). BMW-file output uses 82 BMW-specific feeds;
-auto-file output uses 234 general automotive feeds. 189 feeds are
+auto-file output uses 256 general automotive feeds. 206 feeds are
 **gallery-enabled** (`scrape_gallery: true`) so the parser fetches each article
 page and extracts up to 5 additional photos.
 
@@ -75,7 +75,7 @@ Testing is reproducible via `feed_tester.py` (see [Adding a source](#adding-a-so
 - **Motor1 brand feeds (46)** — Mercedes, Audi, Porsche, Ferrari, Tesla, Lamborghini, McLaren, Bentley, Rolls-Royce, Bugatti, Aston Martin, Toyota, Honda, Ford, Chevrolet, Nissan, Mazda, Subaru, VW, Volvo, Mini, Hyundai, Kia, Lexus, Acura, Cadillac, Genesis, Maserati, Alfa Romeo, Jaguar, Land Rover, Ram, Jeep, Buick, Chrysler, Dodge, GMC, Mitsubishi, Infiniti, Suzuki, Peugeot, Renault, Citroen, Fiat, Skoda, Seat
 - **Electrek brand guides (16)** — Tesla, Mercedes EQ, Audi e-tron, Porsche, Ford EV, Rivian, Lucid, Hyundai, Kia EV, GM, Chevrolet, Nissan, Fisker, Polestar, Volvo, EV
 
-Sources marked **gallery-enabled** (189 feeds) have `scrape_gallery: true` —
+Sources marked **gallery-enabled** (206 feeds) have `scrape_gallery: true` —
 the parser fetches the article page for the top 3 most recent items and
 extracts up to 5 additional gallery photos (so each item ends up with up to
 6 images total).
@@ -92,6 +92,25 @@ extracts up to 5 additional gallery photos (so each item ends up with up to
 | 10 Car and Driver brand feeds (Nissan, VW, Genesis, Buick, Ram, Cadillac, Chrysler, GMC, Dodge, Kia) | Malformed XML feed |
 | 7 Car and Driver brand feeds (Acura, Bugatti, Honda, Corvette, Land Rover, Mazda, Mini) | 0 quality photos |
 | 9 Car and Driver brand feeds (Mercedes, Ferrari, Bentley, Lamborghini, Ford, McLaren, Lincoln, Infiniti, Volvo, Jeep) | Only 1–2 quality photos per 10 entries |
+
+### Sources added (2026-06 expansion r9 — +22 feeds)
+
+A further 22 hand-tested quality-photo feeds were added, broadening
+global/regional coverage and classic-American depth. All verified with
+`feed_tester.py` (most scored 9–10/10 quality photos).
+
+| Group | Feeds | Category | Quality |
+|---|---|---|---|
+| Asia — Paul Tan (MY/SG), Gaadiwaadi, RushLane, MotorBeam, Motoring World, Team-BHP Forum (IN), Response.jp, Clicccar (JP) | 8 | auto | 7–10/10 photos |
+| Latin America — Auto Bild ES, Quatro Rodas, Auto Esporte, Auto Esporte Carros (BR) | 4 | auto | 10/10 photos each |
+| Classic & vintage — Sports Car Digest, Vintage Motorsport | 2 | auto | 9–10/10 photos |
+| EV — Electric Cars Report | 1 | auto | 10/10 photos |
+| Motorious classic-American brand tags — Muscle, Buick, Oldsmobile, Pontiac | 4 | auto | 9–10/10 photos |
+| Motor1 / Autocar categories — Design, Long-term Tests, Used Cars | 3 | auto | 10/10 photos each |
+
+**Result (typical run after r9):** `bmw-news.json` ≈ 347 items from 88 sources,
+`auto-news.json` = 500 items (cap) from 66 sources with **99 multi-photo items**
+(up from 77 after r8). 0 photoless articles in either file.
 
 ### Sources added (2026-06 expansion r8 — +65 feeds)
 
