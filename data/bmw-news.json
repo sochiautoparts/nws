@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-23T21:49:55.151125+00:00",
-  "generated_at_human": "2026-06-23 21:49 UTC",
-  "total_items": 311,
+  "generated_at": "2026-06-23T23:19:28.546518+00:00",
+  "generated_at_human": "2026-06-23 23:19 UTC",
+  "total_items": 309,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -45,10 +45,10 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops BMW",
     "CarScoops Ford",
     "CarScoops Mercedes",
@@ -67,7 +67,6 @@
     "Motor1 Mazda",
     "Motor1 Technology",
     "Motor1 Volvo",
-    "Motoring Research",
     "Motoring World IN",
     "Motorious",
     "Motorsport WEC",
@@ -77,9 +76,27 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 72,
-  "multi_photo_items": 12,
+  "sources_count": 71,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "7c03be92c2cbf2f8",
+      "title": "Why The Used BMW 760Li V12 Costs Less Than A New Toyota RAV4",
+      "summary": "Want a BMW with 12 cylinders? This one can be yours for less than you might expect.",
+      "url": "https://carbuzz.com/used-bmw-760li-v12-costs-less-than-new-toyota-rav4/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-760i-main.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-760i-main.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/bmw-760li-2010-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2010-bmw-760li-engine1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2010_bmw_760li_rear.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/bmw-760li-2010.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2010_bmw_760li_interior.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-23T22:05:16+00:00"
+    },
     {
       "id": "6777b64696bbf520",
       "title": "BMW X5 vs Acura MDX: The Real Five-Year Depreciation Cost",
@@ -97,32 +114,6 @@
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-06-23T21:30:23+00:00"
-    },
-    {
-      "id": "cd699fcbf7d530dd",
-      "title": "S52-Powered 1988 BMW M3",
-      "summary": "This 1988 BMW M3 is one of approximately 5,300 produced for the North American market between 1987 and 1990. The car left the factory in late 1987 with Diamantschwarz Metallic paintwork and black leather upholstery, and it had been partially disassembled for a track-style build when it was acquired by the seller as a rolling project without a drivetrain on BaT in August 2016 . Since that time, the seller has spent over $50k completing the build, which now features a 3.2-liter S52 inline-six, a five-speed manual, 135i Performance front calipers, 17x8\" Flow One alloys, coilover suspension,…",
-      "url": "https://bringatrailer.com/listing/1988-bmw-m3-251/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2025/01/1988_bmw_m3_2-16421-1-copy-2026-06-23-ok3-19868.jpeg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2025/01/1988_bmw_m3_2-16421-1-copy-2026-06-23-ok3-19868.jpeg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-23T21:10:09+00:00"
-    },
-    {
-      "id": "83e89d452cc0278b",
-      "title": "8k-Mile 2015 BMW M4 Coupe 6-Speed",
-      "summary": "This 2015 BMW M4 is a black-over-black coupe that has 8k miles and was optioned with a six-speed manual transmission as well as the Executive Package and a carbon-fiber roof panel. Its carbon-fiber-trimmed interior houses heated power-adjustable front seats, and power is provided by a twin-turbocharged 3.0L inline-six. The car is further equipped with an Active M differential, adaptive headlights, 19\" Style 437M alloy wheels, an adaptive M suspension, Park Distance Control parking sensors, a Harman Kardon surround sound system, and iDrive with navigation. This M4 was acquired in 2026 by…",
-      "url": "https://bringatrailer.com/listing/2015-bmw-m4-coupe-31/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/2015_bmw_m4-coupe_m4-18-86084-47843.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/2015_bmw_m4-coupe_m4-18-86084-47843.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-23T20:30:07+00:00"
     },
     {
       "id": "71cf6527f95c7de8",
@@ -356,7 +347,7 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/Vantablack-China-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Chinese-Vantablack-Paint-2-2048x1754.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/awefawegrtneg-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Z7A7979-scaled-1-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Bear_Security_3-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Mazda-CX-5-Japan-main-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Shell-forecourt-nozzle-copy-2-2048x1152.jpg"
@@ -681,19 +672,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-20T09:18:35+00:00"
-    },
-    {
-      "id": "4cac0641c73247b6",
-      "title": "Electric BMW i3 First Edition now available for UK orders",
-      "summary": "Prices for the launch-spec BMW i3 50 xDrive First Edition will start from £57,905. Here's what you need to know. The post Electric BMW i3 First Edition now available for UK orders appeared first on Motoring Research .",
-      "url": "https://www.motoringresearch.com/car-news/2026-bmw-i3-50-xdrive-first-edition/",
-      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/06/001-2026-BMW-i3-50-xDrive-First-Edition.jpg",
-      "images": [
-        "https://www.motoringresearch.com/wp-content/uploads/2026/06/001-2026-BMW-i3-50-xDrive-First-Edition.jpg"
-      ],
-      "source": "Motoring Research",
-      "source_url": "https://www.motoringresearch.com",
-      "published": "2026-06-20T09:00:43+00:00"
     },
     {
       "id": "b4996f1a2fe99d3c",
@@ -2606,7 +2584,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2736,7 +2714,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
