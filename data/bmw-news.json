@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-24T08:32:25.762324+00:00",
-  "generated_at_human": "2026-06-24 08:32 UTC",
-  "total_items": 309,
+  "generated_at": "2026-06-24T11:53:40.789779+00:00",
+  "generated_at_human": "2026-06-24 11:53 UTC",
+  "total_items": 313,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -51,18 +51,23 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops BMW",
+    "CarScoops Ford",
     "CarScoops Mercedes",
+    "CarScoops Range Rover",
+    "CarScoops Rimac",
     "CarScoops Rolls",
     "CarThrottle",
     "CarWale IN",
     "ClassicCars Journal",
     "Electrek",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
     "Jalopnik",
     "Kolesa RU",
     "Motor.es",
+    "Motor1",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Industry",
@@ -79,9 +84,58 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 9,
+  "sources_count": 79,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "2e4968161a8b8b97",
+      "title": "The Electric BMW iX5 Weighs Around 2,800 Kilograms",
+      "summary": "Not long to go until BMW lifts the veil on the fifth-generation X5. Before the luxury SUV breaks cover, the company is sharing some insights into the G65’s green credentials. For example, the first-ever iX5... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/24/2027-bmw-ix5-electric/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-BMW-X5-G65-camouflaged-prototype-2-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-BMW-X5-G65-camouflaged-prototype-2-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-24T11:40:49+00:00"
+    },
+    {
+      "id": "c4577631d4cb007f",
+      "title": "Morgan And Pininfarina Team Up For Stunning BMW-Powered Coupe",
+      "summary": "A manual gearbox away from perfection.",
+      "url": "https://www.motor1.com/news/799654/morgan-midsummer-coupe-pininfarina-design/",
+      "image": "https://cdn.motor1.com/images/mgl/Qe74rO/s3/2026-morgan-midsummer-coupe.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Qe74rO/s3/2026-morgan-midsummer-coupe.jpg",
+        "https://cdn.motor1.com/images/mgl/NGP4Vy/s5/2026-morgan-midsummer-coupe.jpg",
+        "https://cdn.motor1.com/images/mgl/eo7PwW/s5/2026-morgan-midsummer-coupe.jpg",
+        "https://cdn.motor1.com/images/mgl/qkYmGy/s5/2026-morgan-midsummer-coupe.jpg",
+        "https://cdn.motor1.com/images/mgl/Qe74rO/s5/2026-morgan-midsummer-coupe.jpg",
+        "https://cdn.motor1.com/images/mgl/rKJXjY/s5/2026-morgan-midsummer-coupe.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-06-24T10:16:39+00:00"
+    },
+    {
+      "id": "8e55fed268029cc3",
+      "title": "There's A New Sports Car With A 400-HP BMW Engine, But It Isn't From BMW",
+      "summary": "The BMW Z4 and Toyota GR Supra are dead, making this the only BMW 6-cylinder-powered sports car on sale.",
+      "url": "https://carbuzz.com/reveal-morgan-midsummer-coupe-pininfarina-design/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/morgan-8.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/morgan-8.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/morgan-midsummer-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/morgan-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/untitled-3-4.jpg?q=49&fit=crop&w=480&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/morgan-midsummer-2.jpg?q=49&fit=crop&w=480&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/morgan-11.jpg?q=49&fit=crop&w=480&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-24T10:15:43+00:00"
+    },
     {
       "id": "c9bd1f2641aefe8a",
       "title": "BMW ConnectedDrive Store: Bis zu 15 Prozent Rabatt auf viele Features",
@@ -148,31 +202,13 @@
       "published": "2026-06-23T23:25:00+00:00"
     },
     {
-      "id": "7c03be92c2cbf2f8",
-      "title": "Why The Used BMW 760Li V12 Costs Less Than A New Toyota RAV4",
-      "summary": "Want a BMW with 12 cylinders? This one can be yours for less than you might expect.",
-      "url": "https://carbuzz.com/used-bmw-760li-v12-costs-less-than-new-toyota-rav4/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-760i-main.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-760i-main.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-06-23T22:05:16+00:00"
-    },
-    {
       "id": "6777b64696bbf520",
       "title": "BMW X5 vs Acura MDX: The Real Five-Year Depreciation Cost",
       "summary": "A five-year dollar comparison reveals that BMW X5 and Mercedes-Benz GLE owners hand back thousands more in lost value than Acura MDX buyers.",
       "url": "https://www.topspeed.com/how-much-x5-and-gle-owners-lose-than-mdx-buyers/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-26.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-26.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/image-81-1.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/image-187.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2026-acura-mdx-type-s-group.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2026-acura-mdx-type-s.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-3.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-26.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -187,7 +223,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/bmw-i3-touring-renderings-01-830x467.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-23T19:45:52+00:00"
     },
@@ -400,10 +436,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/Vantablack-China-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Chinese-Vantablack-Paint-2-2048x1754.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Toyota-Crown-Sport-main-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Z7A7979-scaled-1-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Bear_Security_3-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mazda-CX-5-Japan-main-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Shell-forecourt-nozzle-copy-2-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mazda-CX-5-Japan-main-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -527,7 +563,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -540,7 +576,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-iX3-First-Edition-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T11:06:10+00:00"
     },
@@ -605,7 +641,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-m5-facelift-spotted-00-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-21T18:26:33+00:00"
     },
@@ -1349,22 +1385,35 @@
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "summary": "The #7 Toyota TR010 Hybrid that won the 2026 Le Mans 24 Hours was compromised by a sensor problem that left it as much as 8km/h down on power. Kamui Kobayashi, Mike Conway and Nyck de Vries took top honours in the 94th edition of the French endurance classic, driving the heavily-updated TR010 to the victory lane ahead of the #20 BMW M Hybrid V8 shared by Robin Frijns, Rene Rast and Sheldon van ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
       "published": "2026-06-15T10:46:25+00:00"
     },
     {
+      "id": "0b2ba87a832a5e7f",
+      "title": "BMW Killed The Range-Extender EV. Ford And Renault Want To Bring It Back",
+      "summary": "The range-extender EV faded after BMW dropped it, but two legacy giants now see it as central to Europe's electric future",
+      "url": "https://www.carscoops.com/2026/06/ford-renault-range-extender-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Bronco-Basecamp-China-0002-Copy-2048x1365-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-15T10:22:00+00:00"
+    },
+    {
       "id": "ecc0e5e199bfce2e",
       "title": "BMW drivers admit “painful” 2026 Le Mans defeat “hurts”: “We were close”",
       "summary": "BMW drivers admitted to feeling “hurt” by their narrow loss to Toyota in the Le Mans 24 Hours, having led various chunks of the race. The factory #20 BMW M Hybrid V8 shared by Robin Frijns, Sheldon van der Linde and Rene Rast finished second in the 94th endurance classic, just 10.9s behind the winning #7 Toyota TR010 Hybrid of Kamui Kobayashi, Mike Conway and Nyck de Vries. The German ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmw-drivers-say-painful-le-mans-defeat-hurts-we-were-close/10830529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-2.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1414,9 +1463,9 @@
       "title": "Le Mans 24h: Toyota beats BMW, Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1453,9 +1502,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-safety-car-neutralises-field/10830174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1492,9 +1541,9 @@
       "title": "Le Mans 24h, H16: #12 Cadillac out front as Toyota and BMW battle over second",
       "summary": "The #12 Cadillac pulled out a healthy lead at the two-thirds mark in the Le Mans 24 Hours, while Toyota and BMW engaged in a close scrap for second position. The two Jota-run factory Cadillacs moved to the front of the field in the 14th hour, as they leapfrogged the erstwhile-leading #8 Toyota GR010 Hybrid in the pits. However, the #38 Cadillac that had been running second suffered a power ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
+        "https://cdn-3.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1518,9 +1567,9 @@
       "title": "Le Mans 24h, H8: Safety car blows race wide open",
       "summary": "The safety car has blown the 2026 Le Mans 24 Hours wide open, with no fewer than 14 cars gathered in the lead after the eighth hour of racing. Up until now, the race had turned into a four-way battle between the #8 Toyota, the #20 BMW, and the #12 and #38 Cadillac, whose driver Earl Bamber has set the fastest lap of the race so far. On-track battles featured Jack Aitken (#38 Cadillac) ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h8-report/10830126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1544,9 +1593,9 @@
       "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
       "summary": "Toyota continues to lead the Le Mans 24 Hours at the end of the fourth hour, cementing its advantage over BMW and Cadillac in the Hypercar class. After an undercut catapulted the #8 Toyota TR010 at the head of the pack in the opening hour, Sebastien Buemi quickly pulled away from the chasing pack, building an advantage of nearly half a minute through his triple stint. Hartley took over the ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-4.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1583,9 +1632,9 @@
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "summary": "The #8 Toyota leads the 2026 Le Mans 24 Hours one hour into the race, despite starting from a lowly 15th position. Kevin Magnussen’s polesitting #15 BMW collapsed to eighth in the first hour; the Dane lost out to Will Stevens’ #12 Cadillac before even the first corner of the race before Rene Rast passed them both in the sister #20 BMW, by the first chicane of the Mulsanne ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h-1-report/10829903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-2.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2593,7 +2642,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2723,7 +2772,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3521,19 +3570,6 @@
       "published": "2026-04-30T17:21:57+00:00"
     },
     {
-      "id": "a9f78c52892262ab",
-      "title": "The BMW iX5 Will Have a 148 kWh Battery — Biggest Battery Ever Fitted to a BMW",
-      "summary": "Auto Motor und Sport has spotted some documents for the upcoming model year, containing technical data for the upcoming BMW iX5 electric SUV. According to them, the BMW iX5 60 xDrive — the electric version of... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/30/bmw-ix5-2026-148-kwh-battery/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/07/2027-bmw-x5-spy-photos-prototype-04-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/07/2027-bmw-x5-spy-photos-prototype-04-830x553.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-30T16:35:16+00:00"
-    },
-    {
       "id": "5c4c1384947a2e70",
       "title": "BMW updates new iX3 range to 434 miles in the US, and then drops it back to 400 miles",
       "summary": "The new iX3 will go on sale soon as BMW’s first Neue Klasse EV. Ahead of its US launch, BMW updated the 2027 iX3 range estimates to 434 miles.",
@@ -3854,7 +3890,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3963,6 +3999,24 @@
       "published": "2026-04-07T16:17:28+00:00"
     },
     {
+      "id": "30f1b8b4f419ad4d",
+      "title": "Rimac Went From Modifying An Old BMW To Supplying The New i7’s Most Expensive Part",
+      "summary": "Rimac is supplying BMW's facelifted i7 with a new battery that promises more range and faster charging than the outgoing model",
+      "url": "https://www.carscoops.com/2026/04/bmw-i7-rimac-battery/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/BMW-7-Series-Teaser-copy-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/04/BMW-7-Series-Teaser-copy-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/04/Rimac-Supplies-Battery-Packs-To-BMW-2-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/04/Rimac-Supplies-Battery-Packs-To-BMW-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/04/Rimac-Supplies-Battery-Packs-To-BMW-5-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/04/Rimac-Supplies-Battery-Packs-To-BMW-6-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/04/Rimac-Supplies-Battery-Packs-To-BMW-7-2048x1365.jpg"
+      ],
+      "source": "CarScoops Rimac",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-04-07T14:18:00+00:00"
+    },
+    {
       "id": "50b2afbcd34d23f4",
       "title": "BMW Gives Korea A Pair Of 4 Series Convertible Special Editions",
       "summary": "2026 is a sad year for those who enjoy open-top motoring, as BMW is axing two convertibles. The Z4 and 8 Series are being retired from the lineup, leaving the 4 Series as the sole... First published by https://www.bmwblog.com",
@@ -4026,6 +4080,19 @@
       "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-03T11:39:35+00:00"
+    },
+    {
+      "id": "dde0c0f7da962ce5",
+      "title": "BMW Once Owned Range Rover, Now It Wants To Make One",
+      "summary": "Germans are eyeing rugged luxury SUV space again with ambitions to challenge Range Rover and Mercedes G-Class",
+      "url": "https://www.carscoops.com/2026/04/bmw-range-rover-rival-suv/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/P90615701_highRes_the-new-bmw-ix3-50-x-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/04/P90615701_highRes_the-new-bmw-ix3-50-x-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Range Rover",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-04-02T19:20:00+00:00"
     },
     {
       "id": "0a36c132551ee5a4",
