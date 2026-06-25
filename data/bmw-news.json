@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-25T04:21:11.579351+00:00",
-  "generated_at_human": "2026-06-25 04:21 UTC",
-  "total_items": 308,
+  "generated_at": "2026-06-25T08:31:11.248593+00:00",
+  "generated_at_human": "2026-06-25 08:31 UTC",
+  "total_items": 311,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "Auto Esporte BR",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -47,18 +47,19 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
     "CarScoops BMW",
     "CarScoops Mercedes",
-    "CarScoops Rolls",
     "CarThrottle",
-    "CarWale IN",
     "Electrek",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty News",
     "Jalopnik",
     "Kolesa RU",
+    "Motor.es",
     "Motor1",
     "Motor1 BMW",
     "Motor1 Design",
@@ -66,7 +67,6 @@
     "Motor1 Technology",
     "Motor1 Volvo",
     "Motoring Research",
-    "Motoring World IN",
     "Motorious",
     "Motorsport WEC",
     "Racecar Engineering",
@@ -75,8 +75,78 @@
     "What Car"
   ],
   "sources_count": 69,
-  "multi_photo_items": 10,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "39be8397afab6074",
+      "title": "Renault se suma a los recortes: hasta 800 empleos en la cuerda floja",
+      "summary": "Renault va a hacer reajustes dentro de su plantilla, pero su centro de ingeniería seguirá siendo Francia. La marca del rombo también afronta una reestructuración para aumentar su competitividad ante los tiempos que corren en el sector, de una manera no muy diferente a la que se espera que lleve a cabo BMW a lo largo de la segunda mitad de 2026. El grupo Renault también se va a reorganizar - es decir, reestructurar - para volverse más competitivo en términos de costes frente a la actual situación de la industria. Esto implica, según se ha presentado ante los sindicatos en días recientes,…",
+      "url": "https://www.motor.es/noticias/renault-recortes-800-empleos-2026114946.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/06/renault-se-suma-a-los-recortes-hasta-800-empleos-en-la-cuerda-floja-2026114946-1782370532_2.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/06/renault-se-suma-a-los-recortes-hasta-800-empleos-en-la-cuerda-floja-2026114946-1782370532_2.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-06-25T08:00:00+00:00"
+    },
+    {
+      "id": "338dc4c87c2d13ce",
+      "title": "Новый кроссовер Avatr 07 L готов к выходу на рынок: мощность почти 1000 сил и экран, как у BMW",
+      "summary": "Китайская компания опубликовала несколько официальных фотографий нового кроссовера Avatr 07 L. Автомобиль, анонсированный еще весной, дебютирует в июле. Сейчас известно, что он будет продаваться только на китайском рынке. Появление кроссовера в России еще не подтверждено. Эта модель представляет собой более крупную и мощную версию Avatr 07. Последний на китайском рынке сейчас можно приобрести за минимальные […]",
+      "url": "https://5koleso.ru/articles/novosti/novyj-krossover-avatr-07-l-gotov-k-vyhodu-na-rynok-moshhnost-pochti-1000-sil-i-ekran-kak-u-bmw/",
+      "image": "https://5koleso.ru/wp-content/uploads/2026/06/1200x0_1_autohomecar__chtpwgo8nmkaq6rkaaog_v8rajy206-1024x573.webp",
+      "images": [
+        "https://5koleso.ru/wp-content/uploads/2026/06/1200x0_1_autohomecar__chtpwgo8nmkaq6rkaaog_v8rajy206-1024x573.webp"
+      ],
+      "source": "5koleso RU",
+      "source_url": "https://5koleso.ru",
+      "published": "2026-06-25T07:11:09+00:00"
+    },
+    {
+      "id": "85e7a0041a2b9c75",
+      "title": "Morgan Midsummer Coupé: Mit BMW-Sechszylinder und edler Glaskuppel",
+      "summary": "Der gemeinsam mit Pininfarina gestaltete Morgan Midsummer zählt mit seiner Auflage von ganzen 50 Stück schon immer zu den exklusivsten Umgebungen für die Fahrt mit...",
+      "url": "https://www.bimmertoday.de/2026/06/25/morgan-midsummer-coupe-mit-bmw-sechszylinder-und-edler-glaskuppel/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/2026-Morgan-Midsummer-Coupe-Pininfarina-BMW-03.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/2026-Morgan-Midsummer-Coupe-Pininfarina-BMW-03.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-06-25T06:33:52+00:00"
+    },
+    {
+      "id": "07bb30f9b1cddb39",
+      "title": "BMW Alpina B12 6.0: Exklusive Krönung des 7er E38 im Fahrbericht",
+      "summary": "Mehr BMW und mehr Power in einer Luxuslimousine als im Alpina B12 der 7er-Generation E38 geht einfach nicht. Ende der 1990er Jahre war der elegante...",
+      "url": "https://www.bimmertoday.de/2026/06/25/bmw-alpina-b12-6-0-exklusive-kronung-des-7er-e38-im-fahrbericht/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-Alpina-B12-7er-E38-Fahrbericht-06.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-Alpina-B12-7er-E38-Fahrbericht-06.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-06-25T05:46:49+00:00"
+    },
+    {
+      "id": "a213db0699be91f0",
+      "title": "BMW M3 Touring poised for epic Neue Klasse comeback",
+      "summary": "Massive success of BMW's straight-six super estate lays groundwork for a second outing The M3 Touring will live on in BMW's Neue Klasse era, in part thanks to unexpectedly high demand in markets such as the US and China. While the M3 saloon is now in its sixth generation, the performance model has only been offered in estate form since the arrival of the G80-generation version in 2021. But strong sales since then have prompted BMW to bring the super-estate back with the next-generation M3 , as previewed recently with the Vision M Neue Klasse concept. The current model is powered by a…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-m3-touring-poised-epic-neue-klasse-comeback",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=qR-lC9BF",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/attersmug.jpg?itok=RIXPYyaD",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/16-bmw-m3-cs-touring-2025-autocar-review-rear-oversteer_0.jpg?itok=eMYsp6kD",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/attersmug.jpg"
+      ],
+      "source": "Autocar BMW",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-06-25T05:00:00+00:00"
+    },
     {
       "id": "ed70889c621d8384",
       "title": "Lincoln’s 400-HP Twin-Turbo Sedan Is Quicker Than a BMW M5 – And Half the Price",
@@ -283,19 +353,6 @@
       "published": "2026-06-24T06:31:49+00:00"
     },
     {
-      "id": "2e86923ad426d179",
-      "title": "Entire BMW and Mini range to get More Expensive from 1 July",
-      "summary": "While BMW has not disclosed model-wise price adjustments, the increase could translate into a few lakh rupees on higher-end luxury models.",
-      "url": "https://www.carwale.com/news/entire-bmw-and-mini-range-to-get-more-expensive-from-1-july/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/196817/i7-exterior-right-front-three-quarter-4.jpeg?isig=0&wm=1&isig=0",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/196817/i7-exterior-right-front-three-quarter-4.jpeg?isig=0&wm=1&isig=0"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-06-24T05:11:10+00:00"
-    },
-    {
       "id": "4be14aa3585c950f",
       "title": "Новый BMW 7 серии: каким он может быть",
       "summary": "В прошлом месяце BMW (точнее, входящая в её состав марка Alpina) представила концептуальное купе, демонстрирующее совершенно новый для баварского бренда стиль. В дальнейшем этот стиль наверняка будет применён на дорогих серийных моделях, и одной из них может стать будущий седан 7 серии.",
@@ -356,7 +413,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/mazda-6e-review-2026-01.jpg?itok=stQRCGcY"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-23T18:39:31+00:00"
     },
@@ -613,7 +670,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -657,7 +714,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -764,6 +821,19 @@
       "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-20T15:07:53+00:00"
+    },
+    {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
     },
     {
       "id": "e73e5c773580a662",
@@ -932,6 +1002,19 @@
       "published": "2026-06-18T14:47:09+00:00"
     },
     {
+      "id": "f75f6058af93399d",
+      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
+      "summary": "More proof that more is better. Much better.",
+      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-18T14:39:00+00:00"
+    },
+    {
       "id": "21f774dd97313815",
       "title": "BMW i3 First Edition: Neue Klasse ab sofort bestellbar, Preis ab 65.900 Euro",
       "summary": "Mit der BMW i3 First Edition ist das zweite Modell der Neuen Klasse ab sofort bestellbar. Die Preise für die Elektro-Limousine im 3er-Format beginnen im...",
@@ -1062,19 +1145,6 @@
       "published": "2026-06-17T10:21:53+00:00"
     },
     {
-      "id": "89118454abaf7609",
-      "title": "BMW M3 Touring ZA1: Neue Entwürfe zeigen E-Kombi bereit für den Urlaub",
-      "summary": "Noch ist der elektrische BMW M3 Touring (ZA1) reine Zukunftsmusik, aber ein wenig Träumen ist dennoch schon erlaubt: uygarspots hat die praktische Variante des BMW...",
-      "url": "https://www.bimmertoday.de/2026/06/17/bmw-m3-touring-za1-neue-entwurfe-zeigen-e-kombi-bereit-fur-den-urlaub/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-M3-Touring-ZA1-Green-Rendering-uygarspots-04.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-M3-Touring-ZA1-Green-Rendering-uygarspots-04.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-06-17T05:11:10+00:00"
-    },
-    {
       "id": "5d0555b5f88c3f38",
       "title": "BMW’s $580,000 V8 Shooting Brake Spied Undisguised",
       "summary": "The upcoming Speedtop combines style with exclusivity and a twin-turbo V8",
@@ -1140,19 +1210,6 @@
       "published": "2026-06-16T16:46:51+00:00"
     },
     {
-      "id": "d23db0f9d036f3eb",
-      "title": "Gewinnwarnung: BMW Group passt Prognose für Geschäftsjahr 2026 an",
-      "summary": "Der Vorstand der BMW AG hat die bereits relativ zurückhaltende Prognose für das Geschäftsjahr 2026 erneut nach unten korrigiert. Weiterhin sind die Herausforderungen auf dem...",
-      "url": "https://www.bimmertoday.de/2026/06/16/gewinnwarnung-bmw-group-passt-prognose-fur-geschaftsjahr-2026-an/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2025/12/BMW-Milan-Nedeljkovic-Vorstandsvorsitzender-Zipse-Nachfolger-750x498.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2025/12/BMW-Milan-Nedeljkovic-Vorstandsvorsitzender-Zipse-Nachfolger-750x498.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-06-16T16:43:03+00:00"
-    },
-    {
       "id": "9ad78cb9a0d45098",
       "title": "Bovensiepen 05 GT Is an M5 Touring-Based Follow-up to the Alpina B5",
       "summary": "Alpina began writing the next chapter in its story when it joined the BMW Group in January 2026. The Bovensiepen family that started the company is no longer involved in running it, but it’s staying in the car industry via a new brand that wears its name. Its second model, the Bovensiepen 05 GT, made […]",
@@ -1177,19 +1234,6 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
-    },
-    {
-      "id": "e2bf8db320c3c241",
-      "title": "Tour De Force: Bovensiepen 05 GT",
-      "summary": "This is not a BMW M5",
-      "url": "https://motoringworld.in/news/tour-de-force-bovensiepen-05-gt/",
-      "image": "http://motoringworld.in/wp-content/uploads/2026/06/Bovensiepen-05-GT-505x336.png",
-      "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/06/Bovensiepen-05-GT-505x336.png"
-      ],
-      "source": "Motoring World IN",
-      "source_url": "https://www.motoringworld.in",
-      "published": "2026-06-16T10:56:16+00:00"
     },
     {
       "id": "6b56f407620a6b51",
@@ -1278,6 +1322,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
+    },
+    {
+      "id": "7a1e2a6a9a3086dd",
+      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
+      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
+      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T19:49:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -1631,6 +1688,19 @@
       "published": "2026-06-13T15:09:41+00:00"
     },
     {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
+    },
+    {
       "id": "7289a986e074099a",
       "title": "BMW Just Hinted That The Electric M3 Won’t Be Called iM3 — Here’s Why",
       "summary": "Le Mans is a strange place to discuss an electric sedan that’s still a year away. But there we were, in a panel with Frank Van Meel, BMW M CEO, and Oliver Heilmer, Head of... First published by https://www.bmwblog.com",
@@ -1959,19 +2029,6 @@
       "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-11T15:40:50+00:00"
-    },
-    {
-      "id": "6a5041dded4b484d",
-      "title": "Tow Car Awards 2026: Overall winner",
-      "summary": "KEY FACTS: List price £61,190 Best price £51,999 Kerb weight 2140kg 85% match 1819kg Towing capacity 1800kg Towball limit 100kg This year’s contenders are an impressive bunch. Some familiar favourites, such as the Kia Sportage and Land Rover Discovery , shine brightly after recent updates. Meanwhile, in other classes, newcomers like the BMW iX3 and Volkswagen T-Roc establish fresh benchmarks. As good as these cars are, though, none is quite as capable as this year’s overall champion, the BMW 5 Series Touring estate. Most importantly, the 530e plug-in hybrid version we tested is extremely…",
-      "url": "https://www.whatcar.com/news/tow-car-awards-overall-winner/n29118",
-      "image": "https://media.whatcar.com/wc-image/2026-06/bmw_5_series_touring_front_static_with_caravans.jpg",
-      "images": [
-        "https://media.whatcar.com/wc-image/2026-06/bmw_5_series_touring_front_static_with_caravans.jpg"
-      ],
-      "source": "What Car",
-      "source_url": "https://www.whatcar.com",
-      "published": "2026-06-11T15:00:00+00:00"
     },
     {
       "id": "0e8866af171fec43",
@@ -3404,19 +3461,6 @@
       "published": "2026-05-05T13:42:08+00:00"
     },
     {
-      "id": "396585c8412214fb",
-      "title": "BMW’s First Million EVs Took 11 Years. The Second Took Two",
-      "summary": "BMW Group just built its 2 millionth fully electric car, yet slowing demand in key markets complicates the next milestone",
-      "url": "https://www.carscoops.com/2026/05/bmw-two-million-evs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg"
-      ],
-      "source": "CarScoops Rolls",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-05T12:21:00+00:00"
-    },
-    {
       "id": "c0e61115528a7c7a",
       "title": "BMW Put Ferrari’s Rosso Corsa On The BMW M5 Touring. It Actually Works",
       "summary": "Rosso Corsa doesn’t really belong to BMW. But that’s exactly what makes it interesting. The color — paint code P7K, Rosso Corsa Uni, available through BMW Individual for around $5,000 over base — traces its... First published by https://www.bmwblog.com",
@@ -3854,7 +3898,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
