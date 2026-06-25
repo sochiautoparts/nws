@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-25T17:22:15.105710+00:00",
-  "generated_at_human": "2026-06-25 17:22 UTC",
+  "generated_at": "2026-06-25T20:21:01.713717+00:00",
+  "generated_at_human": "2026-06-25 20:21 UTC",
   "total_items": 304,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -28,7 +28,6 @@
     "BMW Blog Mini Cooper",
     "BMW Blog Motorrad",
     "BMW Blog X1",
-    "BMW Blog X3",
     "BMW Blog X5",
     "BMW Blog X6",
     "BMW Blog X7",
@@ -39,18 +38,19 @@
     "BMW Blog i5",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
+    "Electrek BMW iX",
+    "Engadget Auto",
     "Hagerty Media",
     "Hagerty News",
     "HotCars",
@@ -66,12 +66,24 @@
     "Motorsport WEC",
     "Racecar Engineering",
     "Sports Car Digest",
-    "TopSpeed",
     "What Car"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 11,
+  "sources_count": 63,
+  "multi_photo_items": 10,
   "items": [
+    {
+      "id": "73b625d4117f01f1",
+      "title": "Apple will reportedly skip the M6 Pro and Max and jump straight to M7",
+      "summary": "Apple may skip the M6 Pro and Max chips.",
+      "url": "https://www.engadget.com/2201829/apple-will-reportedly-skip-the-m6-pro-and-max-and-jump-straight-to-m7/",
+      "image": "https://www.engadget.com/img/gallery/apple-will-reportedly-skip-the-m6-pro-and-max-and-jump-straight-to-m7/l-intro-1782411295.jpg",
+      "images": [
+        "https://www.engadget.com/img/gallery/apple-will-reportedly-skip-the-m6-pro-and-max-and-jump-straight-to-m7/l-intro-1782411295.jpg"
+      ],
+      "source": "Engadget Auto",
+      "source_url": "https://www.engadget.com",
+      "published": "2026-06-25T18:15:53+00:00"
+    },
     {
       "id": "4f9001a3868d0ffa",
       "title": "5 BMW M Cars That Hold Their Value Best in 2026",
@@ -92,12 +104,7 @@
       "url": "https://www.hotcars.com/most-affordable-new-european-ice-car-over-500-horsepower/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399280_highres_the-new-bmw-m4-compe.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399280_highres_the-new-bmw-m4-compe.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399366_highres_the-new-bmw-m4-compe.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/2024fordmustang_darkhorse_carbonizedgrey_28.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399227_highres_the-new-bmw-m4-compe.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399256_highres_the-new-bmw-m4-compe.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399264_highres_the-new-bmw-m4-compe.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/p90399280_highres_the-new-bmw-m4-compe.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -140,19 +147,6 @@
       "published": "2026-06-25T16:00:15+00:00"
     },
     {
-      "id": "edccfd58c0b969db",
-      "title": "38k-Mile 2011 BMW 335is Convertible at No Reserve",
-      "summary": "This 2011 BMW 335is convertible remained with its original owner in New York until it was acquired by the seller on BaT in December 2024 . It is finished in Space Gray Metallic over Coral Red Dakota leather upholstery and is powered by a twin-turbocharged 3.0L inline-six paired with a seven-speed dual-clutch automatic transmission. Equipment includes a power-retractable hardtop, adaptive xenon headlights, parking sensors, and 18\" Style 313M wheels along with heated power-adjustable front sport seats, a Harman Kardon sound system, navigation, Comfort Access, and dual-zone automatic climate…",
-      "url": "https://bringatrailer.com/listing/2011-bmw-335is-convertible-23/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/2011_bmw_335is-convertible_2011_bmw_335is-convertible_6c1a5cfb-5d79-4454-8596-a74edadd7aa3-bM2Vrw-34100-34101-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/05/2011_bmw_335is-convertible_2011_bmw_335is-convertible_6c1a5cfb-5d79-4454-8596-a74edadd7aa3-bM2Vrw-34100-34101-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-25T15:10:06+00:00"
-    },
-    {
       "id": "2f9cbdcdf3681844",
       "title": "BMW M Boss Would Love To Build A New M1 Supercar",
       "summary": "Our chat with BMW higher-ups during the Le Mans weekend largely revolved around the M Concept Neue Klasse. After all, the near-production electric M3 made its big debut on the sidelines of the Circuit de... First published by https://www.bmwblog.com",
@@ -177,19 +171,6 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-06-25T12:27:43+00:00"
-    },
-    {
-      "id": "79fa250875a54ebd",
-      "title": "Every BMW Model Ranked By Long-Term Owner Satisfaction",
-      "summary": "All 14 BMW models ranked by long-term owner satisfaction using J.D. Power data, from the X2 at 76/100 to the X6 at 85/100.",
-      "url": "https://www.topspeed.com/bmw-model-ranked-long-term-satisfaction/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/image-161-1.jpeg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/image-161-1.jpeg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-06-25T12:00:21+00:00"
     },
     {
       "id": "981197849caa10ad",
@@ -278,7 +259,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-25T05:00:00+00:00"
     },
@@ -294,19 +275,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
-    },
-    {
-      "id": "d2882c757cd9d8aa",
-      "title": "Garage Find: 1979 BMW 320i",
-      "summary": "Before the 3-Series became BMW’s best-known sport sedan, the E21 helped establish the formula. Compact proportions, rear-wheel drive, tidy styling, and a manual transmission made the early 320i an engaging alternative to the larger, softer cars of the era.... Read More »",
-      "url": "https://barnfinds.com/garage-find-1979-bmw-320i/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/1979-BMW-320i-1-630x390.jpeg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/1979-BMW-320i-1-630x390.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-24T20:00:00+00:00"
     },
     {
       "id": "36218a16307ba24c",
@@ -447,7 +415,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/mazda-6e-review-2026-01.jpg?itok=stQRCGcY"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-23T18:39:31+00:00"
     },
@@ -652,7 +620,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -803,6 +771,19 @@
       "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-20T15:07:53+00:00"
+    },
+    {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
     },
     {
       "id": "e73e5c773580a662",
@@ -956,6 +937,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
+    },
+    {
+      "id": "f75f6058af93399d",
+      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
+      "summary": "More proof that more is better. Much better.",
+      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "21f774dd97313815",
@@ -1265,6 +1259,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
+    },
+    {
+      "id": "7a1e2a6a9a3086dd",
+      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
+      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
+      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T19:49:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -1616,6 +1623,19 @@
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
       "published": "2026-06-13T15:09:41+00:00"
+    },
+    {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
     },
     {
       "id": "7289a986e074099a",
@@ -3802,7 +3822,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -4052,32 +4072,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-03-29T16:49:55+00:00"
-    },
-    {
-      "id": "0354ddec6b8c071a",
-      "title": "2026 BMW i5 NACS Update: Native Port, Supercharger Access, and Adapters Explained",
-      "summary": "BMW’s push into Tesla’s charging network is picking up speed. Following the announcement that the 2026 i5 M60 would arrive with a native NACS port, BMW has now confirmed a fuller picture of how the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/03/27/2026-bmw-i5-nacs-charging-port-supercharger-update/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2025-bmw-i5-edrive40-review-1-830x468.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2025-bmw-i5-edrive40-review-1-830x468.jpg"
-      ],
-      "source": "BMW Blog i5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-03-27T19:24:23+00:00"
-    },
-    {
-      "id": "d19d7fbcc52963b2",
-      "title": "3D Design Adds Wet Carbon Diffuser, Exhaust Tips, and New Wheels to BMW X3 M50 Package",
-      "summary": "When 3D Design first turned their attention to the new BMW X3 G45, the result was a thoughtfully crafted aero package that enhanced the car’s presence without overstepping it. Now, the Japanese tuner is back... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/03/27/bmw-x3-m50-g45-3d-design-wet-carbon-diffuser-new-wheels/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/03/3d-design-bmw-x3-tuning-17-830x552.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/03/3d-design-bmw-x3-tuning-17-830x552.jpg"
-      ],
-      "source": "BMW Blog X3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-03-27T19:13:06+00:00"
     }
   ]
 }
