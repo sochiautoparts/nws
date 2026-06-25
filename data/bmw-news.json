@@ -1,12 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-25T11:49:02.170607+00:00",
-  "generated_at_human": "2026-06-25 11:49 UTC",
-  "total_items": 323,
+  "generated_at": "2026-06-25T14:52:01.070028+00:00",
+  "generated_at_human": "2026-06-25 14:52 UTC",
+  "total_items": 312,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
-    "Auto Esporte BR",
     "AutoWeek NL",
     "Autocar BMW M",
     "Autosport WEC",
@@ -52,15 +51,14 @@
     "CarBuzz",
     "CarScoops",
     "CarScoops BMW",
-    "CarScoops BMW M",
     "CarScoops Lucid",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
-    "Electrek",
     "Electrek BMW",
+    "Electrek BMW iX",
+    "Hagerty Media",
     "Hagerty News",
-    "Jalopnik",
     "Kolesa RU",
     "Motor.es",
     "Motor1",
@@ -74,11 +72,64 @@
     "Motorsport WEC",
     "Racecar Engineering",
     "Sports Car Digest",
+    "TopSpeed",
     "What Car"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 9,
+  "sources_count": 70,
+  "multi_photo_items": 8,
   "items": [
+    {
+      "id": "2f9cbdcdf3681844",
+      "title": "BMW M Boss Would Love To Build A New M1 Supercar",
+      "summary": "Our chat with BMW higher-ups during the Le Mans weekend largely revolved around the M Concept Neue Klasse. After all, the near-production electric M3 made its big debut on the sidelines of the Circuit de... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/25/bmw-m-boss-would-love-build-new-m1/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/05/bmw-m1-grey-jochen-neerpasch-12-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2023/05/bmw-m1-grey-jochen-neerpasch-12-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-25T12:36:31+00:00"
+    },
+    {
+      "id": "4182099f763f773c",
+      "title": "2001 BMW M Roadster S54",
+      "summary": "This 2001 BMW M Roadster is one of 18 finished in Imola Red over beige Oregon leather upholstery and with a 3.2-liter S54 inline-six. Indicating 62k miles, the car handles shifting via a five-speed manual transmission and a limited-slip differential. Equipment includes a black convertible soft top, Shadow-finished 17\" Style 40 wheels, heated sport seats, a BMW Business CD stereo, a Harman Kardon sound system, air conditioning, and cruise control. Acquired in 2026 by the selling dealer, a BaT Local Partner , this M Roadster is offered with the owner's manual, service records, a Carfax…",
+      "url": "https://bringatrailer.com/listing/2001-bmw-m-roadster-125/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/DSC2687-copy-2026-06-22-42n-52702-scaled.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/DSC2687-copy-2026-06-22-42n-52702-scaled.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-06-25T12:30:04+00:00"
+    },
+    {
+      "id": "17b6a1a086f51b86",
+      "title": "'Waarom is het bij Mazda drie-twee-drie en bij BMW drie-drieëntwintig?' - Podcast",
+      "summary": "In de podcast Autoliefde Roest Niet gaat het over typenamen en -nummers: 'Waarom is het bij Mazda drie-twee-drie en bij BMW drie-drieëntwintig?'",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/waarom-is-het-bij-mazda-drie-twee-drie-en-bij-bmw-drie-drieentwintig-podcast/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/275181258/width/800/275181258",
+      "images": [
+        "https://images.autoweek.nl/275181258/width/800/275181258"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-06-25T12:27:43+00:00"
+    },
+    {
+      "id": "79fa250875a54ebd",
+      "title": "Every BMW Model Ranked By Long-Term Owner Satisfaction",
+      "summary": "All 14 BMW models ranked by long-term owner satisfaction using J.D. Power data, from the X2 at 76/100 to the X6 at 85/100.",
+      "url": "https://www.topspeed.com/bmw-model-ranked-long-term-satisfaction/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/image-161-1.jpeg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/image-161-1.jpeg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-25T12:00:21+00:00"
+    },
     {
       "id": "981197849caa10ad",
       "title": "BMW X5 Final Edition Signals Current Model’s Imminent Demise",
@@ -184,19 +235,6 @@
       "published": "2026-06-25T00:18:28+00:00"
     },
     {
-      "id": "179cd853b39c6696",
-      "title": "2010 BMW M3 Sedan 6-Speed",
-      "summary": "This 2010 BMW M3 sedan was specified in Interlagos Blue Metallic over Bamboo Beige Novillo leather, and it is equipped with a six-speed manual transmission. Modifications include an Eventuri carbon-fiber air-intake system, an Autobahn Exotics exhaust system, BC Racing coilovers, aftermarket headlights, and drilled aluminum pedals. The car was purchased by its current owner in November 2023, and 15k of the 60k miles have been added since that time. Power is from a 4.0-liter V8, and further equipment includes a limited-slip differential, Park Distance Control rear parking sensors, 19\" Style…",
-      "url": "https://bringatrailer.com/listing/2010-bmw-m3-sedan-8/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_2656-copy-2026-06-18-u8k-13242-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_2656-copy-2026-06-18-u8k-13242-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-24T23:15:17+00:00"
-    },
-    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -262,19 +300,6 @@
       "published": "2026-06-24T16:13:38+00:00"
     },
     {
-      "id": "13771c96b5163bb8",
-      "title": "Morgan’s New Pininfarina Coupe Hides A BMW Six And A Wooden Frame",
-      "summary": "The open-top Midsummer sold out fast, so Morgan reworked it into a sealed grand tourer with a dramatic glass-and-steel roof",
-      "url": "https://www.carscoops.com/2026/06/morgans-new-pininfarina-coupe-hides-a-bmw-six-and-a-wooden-frame/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Morgan_Midsummer_Coupe_HERO_004-1.jpg.pagespeed.ce_.Jufb9oIZB8-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Morgan_Midsummer_Coupe_HERO_004-1.jpg.pagespeed.ce_.Jufb9oIZB8-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-24T15:00:00+00:00"
-    },
-    {
       "id": "878f7609834cee38",
       "title": "14 Years Later, The Only BMW 1M Java Green Is Still Spectacular",
       "summary": "The 1 Series M Coupe, or simply the 1M, hails from a time when BMW’s smallest car stayed true to the brand’s heritage. It had a longitudinally mounted inline-six engine that sent power to the... First published by https://www.bmwblog.com",
@@ -320,14 +345,9 @@
       "url": "https://www.hagerty.com/media/news/morgan-midsummer-coupe-specs-pictures/",
       "image": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Morgan_Midsummer_Coupe_Location_Exterior_015-scaled.jpg",
       "images": [
-        "https://media.hagerty.com/media/wp-content/uploads/2026/06/Morgan_Midsummer_Coupe_Location_Exterior_015-scaled.jpg",
-        "https://media.hagerty.com/media/wp-content/uploads/2026/06/xxMorgan_Midsummer_Coupe_Production_035-1920x1079.jpgMic.OYJH9TtrAE.webp.pagespeed.ic_._zlg0DbDt5-1024x575.webp",
-        "https://hagerty-media-prod.imgix.net/2026/06/Morgan_Midsummer_Coupe_Location_Exterior_015-scaled.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&max-h=372&max-w=640",
-        "https://hagerty-media-prod.imgix.net/2026/06/Ford-Exhibit-America-250-lede.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
-        "https://hagerty-media-prod.imgix.net/2026/06/Mercedes-AMG-CLE63-Facelift-001-scaled.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
-        "https://hagerty-media-prod.imgix.net/2026/06/Morgan_Midsummer_Coupe_Studio_Exterior_003-scaled.jpg?auto=format%2Ccompress&fit=crop&h=768&ixlib=php-3.3.0&w=1024"
+        "https://media.hagerty.com/media/wp-content/uploads/2026/06/Morgan_Midsummer_Coupe_Location_Exterior_015-scaled.jpg"
       ],
-      "source": "Hagerty News",
+      "source": "Hagerty Media",
       "source_url": "https://www.hagerty.com",
       "published": "2026-06-24T13:00:00+00:00"
     },
@@ -384,19 +404,6 @@
       "published": "2026-06-24T03:00:00+00:00"
     },
     {
-      "id": "49cf4f0ace81a997",
-      "title": "The Current Land Speed Record For Hydrogen Combustion Cars Is Held By A 22-Year-Old BMW",
-      "summary": "BMW set a major hydrogen speed record two decades ago, but a new twin-engine challenger has appeared and it's threatening to dethrone the German automaker.",
-      "url": "https://www.jalopnik.com/2196377/land-speed-record-hydrogen-combustion-car-v12-bmw-h2/",
-      "image": "https://www.jalopnik.com/img/gallery/the-current-land-speed-record-for-hydrogen-combustion-cars-is-held-by-a-22-year-old-bmw/l-intro-1781710772.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/the-current-land-speed-record-for-hydrogen-combustion-cars-is-held-by-a-22-year-old-bmw/l-intro-1781710772.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-06-23T23:25:00+00:00"
-    },
-    {
       "id": "71cf6527f95c7de8",
       "title": "2027 BMW i3 Touring (NA1): The Neue Klasse Wagon, Its Lineup, and Everything We Know So Far",
       "summary": "At the very end of the i3 sedan’s world premiere on March 18, former BMW CEO Oliver Zipse let a shadowy silhouette flash across the screen behind him. BMW had just confirmed that the 3... First published by https://www.bmwblog.com",
@@ -434,19 +441,6 @@
       "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-23T18:39:31+00:00"
-    },
-    {
-      "id": "7cd89d369e423207",
-      "title": "Ferrari replaces marketing chief after Luce EV launch backlash",
-      "summary": "Ferrari has replaced its long-serving chief marketing and commercial officer, Enrico Galliera, just weeks after the rocky debut of the Luce, the automaker’s first electric car. The company named former BMW Italy boss Massimiliano Di Silvestre as Galliera’s successor, effective July 1, after a launch that wiped roughly 8% off Ferrari’s stock in a single day.",
-      "url": "https://electrek.co/2026/06/23/ferrari-replaces-marketing-chief-luce-ev-backlash/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Ferrari-Luce-electric-car-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/05/Ferrari-Luce-electric-car-hero.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-06-23T18:06:19+00:00"
     },
     {
       "id": "63013c453b5de0c6",
@@ -605,10 +599,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/Vantablack-China-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Chinese-Vantablack-Paint-2-2048x1754.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Saleen-S11-design-image-scaled-1-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Original-3843-683521-1-5-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/lexus-lf-zc-electric-sedan-gallery-02-1920x1080-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/hyundai_i30_wagon_n_line_main-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Ford-Woody-World-War-II-5aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2025-cadillac-escalade-0032-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/hyundai_i30_wagon_n_line_main-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -649,22 +643,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-bmw-m2-cs-review-06-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T19:20:32+00:00"
-    },
-    {
-      "id": "b3188addb7b326c9",
-      "title": "Audi A3 Sedan é o sedã premium de melhor custo do Brasil em 2026",
-      "summary": "O Qual Comprar 2026 chega premiando os veículos de melhor custo/benefício no país neste ano. Pela primeira vez em quase uma década, a lista ultrapassa 200 modelos avaliados. Na categoria dos sedãs premium, reinam as quatro argolas. CAMPEÃO: Audi A3 Sedan A3 Sedan é conhecido pela boa dirigibilidade e pelo visual esportivo Autoesporte Depois de uma hegemonia da BMW na categoria, a Audi conquista o bicampeonato com o A3 Sedan. Atualizado em 2025, o três-volumes se vale principalmente do preço de aquisição mais baixo do que a média da categoria e da a cesta de peças mais competitiva do…",
-      "url": "https://autoesporte.globo.com/qual-comprar/noticia/2026/06/audi-a3-sedan-eseda-medio-melhor-custo-brasil-2026.ghtml",
-      "image": "https://s2-autoesporte.glbimg.com/EOkWmZ-T62KBa3BjukmtjgXR0jc=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/W/x/Ywgm7CSMuqnA1nKOmqJw/qc-2026-seda-premium-.jpg",
-      "images": [
-        "https://s2-autoesporte.glbimg.com/EOkWmZ-T62KBa3BjukmtjgXR0jc=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/W/x/Ywgm7CSMuqnA1nKOmqJw/qc-2026-seda-premium-.jpg"
-      ],
-      "source": "Auto Esporte BR",
-      "source_url": "https://autoesporte.globo.com",
-      "published": "2026-06-22T19:05:13+00:00"
     },
     {
       "id": "01c69afa900338e6",
@@ -675,7 +656,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -761,19 +742,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-22T05:44:06+00:00"
-    },
-    {
-      "id": "076fbd6bd16e7dcf",
-      "title": "Alpina’s Founders Built A 790-HP Sleeper Wagon, But The Sedan Fans Want Is Just A Render",
-      "summary": "An independent render answers what nobody at Bovensiepen will, giving the wagon-only 05 GT a classic sedan body",
-      "url": "https://www.carscoops.com/2026/06/bovensiepen-05-gt-sedan-render/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-Sedan-Rendering-main-scaled-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-Sedan-Rendering-main-scaled-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-21T23:22:00+00:00"
     },
     {
       "id": "d4f44c24a642811b",
@@ -1249,7 +1217,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2439,19 +2407,6 @@
       "published": "2026-06-02T22:01:00+00:00"
     },
     {
-      "id": "dad8871290ff5274",
-      "title": "BMW’s First-Ever AWD M2 Has A Button That Makes It Rear-Drive Again",
-      "summary": "The M2 finally gains xDrive for 2027, closing the performance gap to the pricier M4 while dropping the stick shift",
-      "url": "https://www.carscoops.com/2026/06/bmw-m2-xdrive/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90642539_highRes-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/P90642539_highRes-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-02T22:01:00+00:00"
-    },
-    {
       "id": "0054491ba15bcf83",
       "title": "BMW Adds xDrive AWD to the M2 Lineup for 2027",
       "summary": "All-wheel drive is gradually spreading across the BMW M range. After the M5 and the M3, it’s the M2’s turn to send its power to all four wheels. The new 2027 BMW M2 xDrive gets a performance-tuned all-wheel-drive system that engages when extra grip is needed, and it’s available in a distinctive new color. Power […]",
@@ -2694,7 +2649,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2824,7 +2779,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -2868,19 +2823,6 @@
       "published": "2026-05-25T06:47:14+00:00"
     },
     {
-      "id": "5556d681b043d202",
-      "title": "A G80 BMW M3 For Civic Money, If You Have The Skills",
-      "summary": "A caved-in driver's side should have ended this M3 Competition, instead it became one of the cheapest G80 builds anyone has pulled off",
-      "url": "https://www.carscoops.com/2026/05/bmw-m3-chassis-rebuild/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-M3-Wreck-Rebuild-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-M3-Wreck-Rebuild-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-24T23:20:00+00:00"
-    },
-    {
       "id": "f75e75b36fb87e73",
       "title": "The Next BMW 7 Series: The LCI is Here but There’s much more On the Way",
       "summary": "The BMW 7 Series has always carried a specific burden that no other BMW has to bear. It is the car that defines what... The post The Next BMW 7 Series: The LCI is Here but There’s much more On the Way appeared first on BimmerFile .",
@@ -2918,32 +2860,6 @@
       "source": "BMW Blog Motorrad",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-22T15:15:16+00:00"
-    },
-    {
-      "id": "e210755081afb0be",
-      "title": "Real E30 M3s Trade For Six Figures, Lego’s New BMW-Approved Version Is $30",
-      "summary": "Lego's team traveled to BMW's headquarters to perfect the design of its miniaturized E30 M3",
-      "url": "https://www.carscoops.com/2026/05/lego-bmw-e30-m3/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/P90642085_highRes_bmw-m3-e30-lego-spee-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/P90642085_highRes_bmw-m3-e30-lego-spee-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-22T08:08:00+00:00"
-    },
-    {
-      "id": "00cc36c129bf3c4e",
-      "title": "A 13-Year-Old BMW M3 With 86 Miles Is About To Sell For Supercar Money",
-      "summary": "This E92-generation BMW M3 has the potential to be one of the most expensive ever sold at auction",
-      "url": "https://www.carscoops.com/2026/05/bmw-m3-lime-rock-auction/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2013_bmw_m3-coupe_002_Front_straight-on_-_full_car_img24-67474-scaled-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2013_bmw_m3-coupe_002_Front_straight-on_-_full_car_img24-67474-scaled-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-22T00:21:00+00:00"
     },
     {
       "id": "39050a2f8a5a66e0",
@@ -3048,19 +2964,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-05-18T12:09:10+00:00"
-    },
-    {
-      "id": "49f2a6e3913bce5a",
-      "title": "BMW’s Hottest M3 CS Loses 70 HP But Gains A Manual",
-      "summary": "The M3 CS Handschalter sends the current generation off with a six-speed manual, rear drive, and a power figure that will start arguments",
-      "url": "https://www.carscoops.com/2026/05/bmw-m3-cs-handschalter/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/P90641062_highRes_the-bmw-m3-cs-handsc-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/P90641062_highRes_the-bmw-m3-cs-handsc-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T12:01:00+00:00"
     },
     {
       "id": "010571324577ef06",
@@ -3765,19 +3668,6 @@
       "published": "2026-04-27T22:50:14+00:00"
     },
     {
-      "id": "875bcf79e90bdfa8",
-      "title": "One E92 M3 Sold For $40,000 This Month. This One Sold For $205,392",
-      "summary": "BMW's E92 M3 used to be the affordable enthusiast pick, but a 725-mile example just rewrote the rules at auction",
-      "url": "https://www.carscoops.com/2026/04/bmw-e92-m3-record-sale/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/2011_bmw_m3-coupe_2011_bmw_m3-coupe_f9e10c4d-7f4a-4b8c-ac81-cb16da3a55d9-238B20-28395-28396-scaled-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/04/2011_bmw_m3-coupe_2011_bmw_m3-coupe_f9e10c4d-7f4a-4b8c-ac81-cb16da3a55d9-238B20-28395-28396-scaled-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-04-27T18:14:00+00:00"
-    },
-    {
       "id": "79a3902ab6010669",
       "title": "World Car of the Year × 2: The iX3 Just Validated BMW’s Neue Klasse Bet",
       "summary": "The skeptics were loud, and not without reason. BMW’s decision to build the Neue Klasse on a clean-sheet EV architecture, rather than continuing to... The post World Car of the Year × 2: The iX3 Just Validated BMW’s Neue Klasse Bet appeared first on BimmerFile .",
@@ -3789,19 +3679,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-04-27T14:02:53+00:00"
-    },
-    {
-      "id": "fb95aaaf3a7ddfe3",
-      "title": "A BMW Superbike Now Has A Matching M2 Coupe, And Only 10 Of Each Will Be Made",
-      "summary": "BMW's new M2 RR Edition arrives with a motorcycle tie-in, an Akrapovič exhaust, and one country lucky enough to get it",
-      "url": "https://www.carscoops.com/2026/04/bmw-m2-rr-edition/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/P90638616_highRes_bmw-m2-coup-rr-editi1-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/04/P90638616_highRes_bmw-m2-coup-rr-editi1-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-04-27T11:04:00+00:00"
     },
     {
       "id": "d7626370755c86da",
@@ -3934,19 +3811,6 @@
       "published": "2026-04-19T07:59:00+00:00"
     },
     {
-      "id": "7f30d8bf4bf962ef",
-      "title": "$175,000 Buys You The E46 M3 Touring BMW Said No To In 2000",
-      "summary": "A British firm revived the E46 M3 Touring BMW refused to sell, offering V8 and V10 options alongside the original inline-six",
-      "url": "https://www.carscoops.com/2026/04/e46-m3-touring-petroyle/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/a5dbe0_82ba3e31d8234ad99ffd3924d1ecc294mv2-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/04/a5dbe0_82ba3e31d8234ad99ffd3924d1ecc294mv2-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-04-18T11:48:56+00:00"
-    },
-    {
       "id": "8338d777fbef85de",
       "title": "BMW iX Sales Drop in the U.S. Signals the End of a Brilliant, Misunderstood EV",
       "summary": "People — er, Americans — simply aren’t buying the BMW iX like they used to. In Q1 2026, sales slumped to a mere 1,788 units, around a 50% drop year over year. Either seeing the... First published by https://www.bmwblog.com",
@@ -4020,7 +3884,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -4283,19 +4147,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-03-29T16:49:55+00:00"
-    },
-    {
-      "id": "74aaeb289bd46a15",
-      "title": "Manhart Found 180 HP BMW Left Sitting In The M5 Touring’s Engine Bay",
-      "summary": "Manhart's MH5 900E squeezes 897 hp from the BMW M5 Touring using upgraded turbos, a new exhaust, and revised software",
-      "url": "https://www.carscoops.com/2026/03/manhart-bmw-m5-touring-mh5-900e/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/03/MANHART_MH5_900E_Touring_013-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/03/MANHART_MH5_900E_Touring_013-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW M",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-03-28T23:34:00+00:00"
     },
     {
       "id": "0354ddec6b8c071a",
