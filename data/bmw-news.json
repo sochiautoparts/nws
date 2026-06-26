@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-26T04:50:16.583302+00:00",
-  "generated_at_human": "2026-06-26 04:50 UTC",
-  "total_items": 303,
+  "generated_at": "2026-06-26T05:20:45.486192+00:00",
+  "generated_at_human": "2026-06-26 05:20 UTC",
+  "total_items": 306,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
@@ -43,16 +43,16 @@
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarScoops BMW",
-    "CarScoops Lucid",
     "CarScoops Mercedes",
-    "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
     "Electrek BMW iX",
     "Engadget Auto",
     "Hagerty Media",
     "Hagerty News",
+    "Hooniverse",
     "HotCars",
     "Kolesa RU",
     "Motor.es",
@@ -66,9 +66,10 @@
     "Motorsport WEC",
     "Racecar Engineering",
     "Sports Car Digest",
+    "The Verge Transp",
     "What Car"
   ],
-  "sources_count": 63,
+  "sources_count": 64,
   "multi_photo_items": 10,
   "items": [
     {
@@ -83,6 +84,19 @@
       "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-26T03:00:00+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "aaa768725b8981cd",
@@ -786,6 +800,19 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
+    },
+    {
       "id": "e73e5c773580a662",
       "title": "3 BMW-V8 im Dragrace: X5 M trifft Defender Octa & Range Rover Sport SV",
       "summary": "Wer ein aktuelles Power-SUV mit einem V8-Biturbo der BMW M GmbH fahren will, hat gleich zwei interessante Alternativen zu BMW X5 M, X6 M und...",
@@ -823,6 +850,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-19T17:23:34+00:00"
+    },
+    {
+      "id": "e80fc1ed99b14c04",
+      "title": "Honda Prelude Review",
+      "summary": "We’ve seen baggy jeans and Tamagotchis make a reappearance, and CDs are enjoying a resurgence in sales too, so it begs the question: are the 1990s coming back? Well, if the return of the Honda Prelude is anything to go by, the answer is: \"Yes.\" Like previous generations, the new Prelude is a two-door, four-seat coupé. However, for the first time, it’s built using Honda Civic underpinnings, and it has that car’s hybrid engine. Being a hybrid, the Prelude lacks any direct rivals. The closest competitor (in terms of power, size and list price) is the BMW 2 Series 220i. So, how well does the…",
+      "url": "https://www.whatcar.com/honda/prelude/coupe/review/n28307",
+      "image": "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg",
+      "images": [
+        "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg"
+      ],
+      "source": "What Car",
+      "source_url": "https://www.whatcar.com",
+      "published": "2026-06-19T13:00:00+00:00"
     },
     {
       "id": "be7434fb97674d92",
@@ -937,6 +977,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
+    },
+    {
+      "id": "f75f6058af93399d",
+      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
+      "summary": "More proof that more is better. Much better.",
+      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "21f774dd97313815",
@@ -1155,7 +1208,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -1246,6 +1299,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
+    },
+    {
+      "id": "7a1e2a6a9a3086dd",
+      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
+      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
+      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T19:49:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -1599,6 +1665,19 @@
       "published": "2026-06-13T15:09:41+00:00"
     },
     {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
+    },
+    {
       "id": "7289a986e074099a",
       "title": "BMW Just Hinted That The Electric M3 Won’t Be Called iM3 — Here’s Why",
       "summary": "Le Mans is a strange place to discuss an electric sedan that’s still a year away. But there we were, in a panel with Frank Van Meel, BMW M CEO, and Oliver Heilmer, Head of... First published by https://www.bmwblog.com",
@@ -1773,6 +1852,19 @@
       "published": "2026-06-12T13:00:00+00:00"
     },
     {
+      "id": "2da080eb72a37d9f",
+      "title": "BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports",
+      "summary": "Just in time for Le Mans, BMW is pulling the cover off its new M performance concept built on the Bavarian automaker's Neue Klasse next-generation architecture. The concept is the debut of a new design language for BMW's M division, signaling a shift toward a more electrified future. The company says it is built on […]",
+      "url": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/P90643902.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "images": [
+        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/P90643902.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      ],
+      "source": "The Verge Transp",
+      "source_url": "https://www.theverge.com",
+      "published": "2026-06-12T13:00:00+00:00"
+    },
+    {
       "id": "b3cd3c88251bf355",
       "title": "BMW M Concept Neue Klasse Previews the First Electric M3",
       "summary": "After years of rumors, spy shots, and speculation, BMW is finally ready to give us an official look at what the first electric M3 could look like. Unveiled during the 24 Hours of Le Mans, the BMW M Concept Neue Klasse puts a performance-focused spin on the recently unveiled i3 while hinting at a production […]",
@@ -1797,19 +1889,6 @@
       "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-12T12:59:57+00:00"
-    },
-    {
-      "id": "6a921bfe13770628",
-      "title": "2026 BMW iM3 previewed: new-generation performance car goes electric with 1000bhp",
-      "summary": "On sale late 2026 Price from £100,000 (est) While looks can sometimes be deceiving, at other times you barely need to squint to see the truth. That’s certainly true here, where, if you narrow your gaze just a little, you’ll picture one of the most hotly anticipated cars of 2026: the BMW iM3 Previewed by this new BMW M Concept Neue Klasse, the iM3 will be the first generation of BMW’s high-performance saloon to go electric. And while some of the concept’s more overt styling features – such as the additional lights on its lower bumper and its wide body kit – are likely to be lost in the…",
-      "url": "https://www.whatcar.com/news/2026-bmw-im3-previewed-new-generation-performance-car-goes-electric-with-1000bhp/n29130",
-      "image": "https://media.whatcar.com/wc-image/2026-06/bmw-vision-m-2026-42.jpg",
-      "images": [
-        "https://media.whatcar.com/wc-image/2026-06/bmw-vision-m-2026-42.jpg"
-      ],
-      "source": "What Car",
-      "source_url": "https://www.whatcar.com",
-      "published": "2026-06-12T11:27:34+00:00"
     },
     {
       "id": "9845253bd6bbebc2",
@@ -2096,19 +2175,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T03:28:57+00:00"
-    },
-    {
-      "id": "b5318e3d4ccc6988",
-      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
-      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
-      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
-      ],
-      "source": "CarScoops Lucid",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "07ed1ccdf5611265",
@@ -3359,19 +3425,6 @@
       "published": "2026-05-05T13:42:08+00:00"
     },
     {
-      "id": "396585c8412214fb",
-      "title": "BMW’s First Million EVs Took 11 Years. The Second Took Two",
-      "summary": "BMW Group just built its 2 millionth fully electric car, yet slowing demand in key markets complicates the next milestone",
-      "url": "https://www.carscoops.com/2026/05/bmw-two-million-evs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg"
-      ],
-      "source": "CarScoops Rolls",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-05T12:21:00+00:00"
-    },
-    {
       "id": "c0e61115528a7c7a",
       "title": "BMW Put Ferrari’s Rosso Corsa On The BMW M5 Touring. It Actually Works",
       "summary": "Rosso Corsa doesn’t really belong to BMW. But that’s exactly what makes it interesting. The color — paint code P7K, Rosso Corsa Uni, available through BMW Individual for around $5,000 over base — traces its... First published by https://www.bmwblog.com",
@@ -3981,19 +4034,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-02T13:30:17+00:00"
-    },
-    {
-      "id": "e1eda0ae0667dc73",
-      "title": "A Hyundai Beat The BMW M2 CS For World Performance Car Of The Year",
-      "summary": "Every category at the 2026 World Car Awards went to an electric vehicle, with BMW, Hyundai, and Lucid leading the way",
-      "url": "https://www.carscoops.com/2026/04/2026-world-car-awards-results/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/04/Social_WCA_Winners_2026-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/04/Social_WCA_Winners_2026-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Lucid",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-04-01T21:25:00+00:00"
     },
     {
       "id": "3cb56155d6f63519",
