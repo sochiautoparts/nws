@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-27T14:54:00.468035+00:00",
-  "generated_at_human": "2026-06-27 14:54 UTC",
-  "total_items": 302,
+  "generated_at": "2026-06-27T16:18:06.747315+00:00",
+  "generated_at_human": "2026-06-27 16:18 UTC",
+  "total_items": 307,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -28,6 +28,7 @@
     "BMW Blog Mini Cooper",
     "BMW Blog Motorrad",
     "BMW Blog X1",
+    "BMW Blog X3",
     "BMW Blog X5",
     "BMW Blog X6",
     "BMW Blog X7",
@@ -44,6 +45,7 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
     "CarScoops BMW",
@@ -52,9 +54,11 @@
     "CarThrottle",
     "CarWale IN",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Electric Cars Report",
     "Hagerty News",
     "Hooniverse",
+    "HotCars",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
@@ -62,15 +66,51 @@
     "Motor1 Technology",
     "Motor1 Volvo",
     "MotorBeam IN",
-    "Motorsport All",
     "Motorsport WEC",
     "Racecar Engineering",
     "Sports Car Digest",
+    "TopSpeed",
     "What Car"
   ],
-  "sources_count": 63,
-  "multi_photo_items": 11,
+  "sources_count": 67,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "add357ab73c0b2af",
+      "title": "The Luxury Plug-In Hybrid SUV That Almost Covers The Average Daily Commute On Electrons Alone",
+      "summary": "The 2026 BMW X5 xDrive50e exceeds its EPA electric range in real-world testing, with 483 hp and up to 56 miles of pure EV range.",
+      "url": "https://www.topspeed.com/luxury-phev-suv-covers-average-daily-commute-on-electrons-alone/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/_dsc3890-copy.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/_dsc3890-copy.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/03/mazda-cx-90-phev-8.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/large-58988-2025tucsonplug-inhybrid.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/2023-lexus-rx-phev.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-bmw-x5-xdrive50e-exterior-21.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-bmw-x5-xdrive50e-in-motion-21.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-06-27T16:01:17+00:00"
+    },
+    {
+      "id": "0250278c294db6d9",
+      "title": "10 Naturally Aspirated V12s Gearheads Will Genuinely Mourn",
+      "summary": "From the McLaren F1's BMW S70/2 to the Pagani Zonda's M297, these 10 naturally aspirated V12 engines are the greatest ever built.",
+      "url": "https://www.hotcars.com/naturally-aspirated-v12s-gearheads-mourn/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2011-aston-martin-one-77-grille.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2011-aston-martin-one-77-grille.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/05/1997-toyota-century-img-7793-05954-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/aston-martin-dbs-v12-13.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/original-6541-mclaren-f1-95.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/03/1_2007-2012-ferrari-599-engine-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/2025-ferrari-daytona-sp3_1-23.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-06-27T15:00:15+00:00"
+    },
     {
       "id": "1ad0e695e0b19772",
       "title": "2004 BMW 330i ZHP Sedan 6-Speed at No Reserve",
@@ -119,19 +159,6 @@
       "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-06-27T12:00:43+00:00"
-    },
-    {
-      "id": "0c068bc4533e5346",
-      "title": "50 BaT Auctions Closing Today",
-      "summary": "1952 Vincent Black Shadow 7-Mile 2025 Harley-Davidson CVO Road Glide RR No Reserve: Ex–Steve McQueen 1931 Harley-Davidson VL 26-Years-Owned 1998 Porsche 911 Carrera 4S Coupe 6-Speed 28k-Mile 2006 Honda S2000 2.0L-Powered 1969 Alfa Romeo GTV 1750 One-Family-Owned 1957 Ford Thunderbird One-Family-Owned 1965 Ford Mustang Convertible 289 26-Years-Owned 1988 Porsche 911 Carrera Targa G50 16k-Mile 2009 BMW M3 Coupe 1978 Porsche 911SC Targa No Reserve: 30k-Mile 2007 Honda Odyssey EX-L 1985 Mercedes-Benz 380SL 1963 Chevrolet Corvette Split-Window Coupe L84 327/360 Fuelie 4-Speed No Reserve: 2001…",
-      "url": "https://bringatrailer.com/auctions/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/1952_vincent_black-shadow_1952_vincent_black-shadow_2c4ea98d-d507-453e-8d5b-d3b83067a39f-VCHclo-05304-05305-scaled.jpg?w=310&#38;h=210&#38;crop=1",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/05/1952_vincent_black-shadow_1952_vincent_black-shadow_2c4ea98d-d507-453e-8d5b-d3b83067a39f-VCHclo-05304-05305-scaled.jpg?w=310&#38;h=210&#38;crop=1"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-27T12:00:00+00:00"
     },
     {
       "id": "27c1fc3b81eb27bb",
@@ -202,19 +229,6 @@
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-06-27T00:01:14+00:00"
-    },
-    {
-      "id": "0ccc37b97de2922f",
-      "title": "BMW’s wild M3 Touring 24H race car just got an even stranger accessory",
-      "summary": "The spectacular BMW M3 Touring 24H, which previously caused a stir in the motorsport scene with its fourth-place overall finish at the Nurburgring 24 Hours, made a surprise comeback during the traditional driver parade heading towards downtown Spa as part of the Spa 24 Hours event – with an extraordinary detail. The power estate wagon rolled through the Belgian Ardennes equipped with a ... Keep reading",
-      "url": "https://www.motorsport.com/gtwce-endurance/news/bmw-m3-touring-24h-spotted-in-spa-with-roof-box/10833762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/KYp4eqjY/s6/bmw-m3-touring-24h-in-spa-mit-dachbox-gesichtet-26062602.jpg",
-      "images": [
-        "https://cdn-8.motorsport.com/images/amp/KYp4eqjY/s6/bmw-m3-touring-24h-in-spa-mit-dachbox-gesichtet-26062602.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-06-26T21:00:47+00:00"
     },
     {
       "id": "ef8701a6dd6d0436",
@@ -373,7 +387,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-26T03:00:00+00:00"
     },
@@ -521,7 +535,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-25T05:00:00+00:00"
     },
@@ -944,6 +958,19 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
+    },
+    {
       "id": "e73e5c773580a662",
       "title": "3 BMW-V8 im Dragrace: X5 M trifft Defender Octa & Range Rover Sport SV",
       "summary": "Wer ein aktuelles Power-SUV mit einem V8-Biturbo der BMW M GmbH fahren will, hat gleich zwei interessante Alternativen zu BMW X5 M, X6 M und...",
@@ -968,6 +995,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-19T17:23:34+00:00"
+    },
+    {
+      "id": "e80fc1ed99b14c04",
+      "title": "Honda Prelude Review",
+      "summary": "We’ve seen baggy jeans and Tamagotchis make a reappearance, and CDs are enjoying a resurgence in sales too, so it begs the question: are the 1990s coming back? Well, if the return of the Honda Prelude is anything to go by, the answer is: \"Yes.\" Like previous generations, the new Prelude is a two-door, four-seat coupé. However, for the first time, it’s built using Honda Civic underpinnings, and it has that car’s hybrid engine. Being a hybrid, the Prelude lacks any direct rivals. The closest competitor (in terms of power, size and list price) is the BMW 2 Series 220i. So, how well does the…",
+      "url": "https://www.whatcar.com/honda/prelude/coupe/review/n28307",
+      "image": "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg",
+      "images": [
+        "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg"
+      ],
+      "source": "What Car",
+      "source_url": "https://www.whatcar.com",
+      "published": "2026-06-19T13:00:00+00:00"
     },
     {
       "id": "be7434fb97674d92",
@@ -1077,6 +1117,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
+    },
+    {
+      "id": "f75f6058af93399d",
+      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
+      "summary": "More proof that more is better. Much better.",
+      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "21f774dd97313815",
@@ -1368,6 +1421,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
+    },
+    {
+      "id": "7a1e2a6a9a3086dd",
+      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
+      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
+      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-15T19:49:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -1719,6 +1785,19 @@
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
       "published": "2026-06-13T15:09:41+00:00"
+    },
+    {
+      "id": "915f79c9f73f6c59",
+      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
+      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
+      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-13T14:21:00+00:00"
     },
     {
       "id": "7289a986e074099a",
@@ -3801,7 +3880,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -3957,7 +4036,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/Allianz-buys-15-BMW-SUVs-3-830x621.jpg"
       ],
-      "source": "BMW Blog X1",
+      "source": "BMW Blog X3",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-03T12:53:34+00:00"
     },
