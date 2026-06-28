@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-28T16:22:55.321402+00:00",
-  "generated_at_human": "2026-06-28 16:22 UTC",
+  "generated_at": "2026-06-28T18:16:35.717940+00:00",
+  "generated_at_human": "2026-06-28 18:16 UTC",
   "total_items": 304,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,20 +37,21 @@
     "BMW Blog i5",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "CarWale IN",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Electric Cars Report",
+    "Engadget Auto",
     "Hagerty News",
     "Hooniverse",
     "Motor.es",
@@ -64,12 +65,42 @@
     "Motorsport WEC",
     "Racecar Engineering",
     "Sports Car Digest",
-    "TopSpeed",
     "What Car"
   ],
   "sources_count": 62,
-  "multi_photo_items": 11,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "0e1ee33c9426706c",
+      "title": "2 Affordable Japanese SUVs Outsold All BMW And Mercedes Models In 2025",
+      "summary": "Affordability and value for money are more important than ever in 2026, and the sales of these two SUVs illustrate this point perfectly.",
+      "url": "https://carbuzz.com/honda-crv-toyota-rav4-outsold-bmw-mercedes-combined-2025/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2023-2025-honda-cr-v-hybrid-exterior-10.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2023-2025-honda-cr-v-hybrid-exterior-10.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2019-2025-toyota-rav4-rav4-hybrid12.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2023-2025-honda-cr-v-hybrid-exterior-1.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2025-toyota-rav4-and-hybrid-exterior-11.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2023-2025-honda-cr-v-hybrid-exterior-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/cropped-toyota_2025-rav4_limited_blueprint_0002.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-06-28T17:33:12+00:00"
+    },
+    {
+      "id": "51ee2a31ebde01d4",
+      "title": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
+      "summary": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman.",
+      "url": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
+      "image": "https://www.engadget.com/img/gallery/apples-touchscreen-macbook-reportedly-wont-wait-for-the-m7-chips/l-intro-1782663379.jpg",
+      "images": [
+        "https://www.engadget.com/img/gallery/apples-touchscreen-macbook-reportedly-wont-wait-for-the-m7-chips/l-intro-1782663379.jpg"
+      ],
+      "source": "Engadget Auto",
+      "source_url": "https://www.engadget.com",
+      "published": "2026-06-28T16:20:44+00:00"
+    },
     {
       "id": "6e6a98ce0b7deab6",
       "title": "BMW X5 2026: Leak zeigt G65 vorab in voller Pracht",
@@ -82,19 +113,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-28T13:53:59+00:00"
-    },
-    {
-      "id": "3cbdaacba9585aeb",
-      "title": "The BMW Motorcycle That Feels Worth The Upgrade",
-      "summary": "The BMW neo-retro roadster costs a pretty penny, but the riding experience and unique engine make the moolah worth it",
-      "url": "https://www.topspeed.com/bmw-motorcycle-worth-the-upgrade/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/p90531547_highres_r-12-ninet-11-2023.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/p90531547_highres_r-12-ninet-11-2023.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-06-28T12:32:19+00:00"
     },
     {
       "id": "ab6bf3ada8e937d8",
@@ -219,7 +237,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/BMW-Group-at-the-2026-Busan-Mobility-Show-3-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-27T08:42:58+00:00"
     },
@@ -263,7 +281,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2017/11/BMW-i8-Facelift-07-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T16:41:04+00:00"
     },
@@ -275,11 +293,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M1-Hommage-new-copy-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M1-Hommage-new-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-124134-copy-2048x1281.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-3-copy-1-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/505848549_2978372665677789_8126783756936543536_n-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/lotus-emira-dark-verdant-32aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Porsche-Manual-Gearbox-2048x1151.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Porsche-Manual-Gearbox-2048x1151.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/DEfender-Jun2626111-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -411,7 +429,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-26T03:00:00+00:00"
     },
@@ -546,7 +564,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-25T05:00:00+00:00"
     },
@@ -803,22 +821,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
-    },
-    {
-      "id": "684514cadb9df570",
-      "title": "Bavarian Bliss: Our 7 Favorite Custom Motorcycles from the BMW MOA Builder's Best Show",
-      "summary": "For over half a century, the BMW Motorcycle Owners of America has served as the...",
-      "url": "https://www.bikeexif.com/7-favorite-custom-motorcycles-from-the-bmw-moa-builders-best-show",
-      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504",
-      "images": [
-        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-22T18:00:00+00:00"
     },
     {
       "id": "639d80f45c19fd8f",
@@ -847,7 +852,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -904,19 +909,6 @@
       "published": "2026-06-21T18:26:33+00:00"
     },
     {
-      "id": "53d7d0180565ec28",
-      "title": "Black and Gold: FCR Original's BMW R12 Classic Scrambler",
-      "summary": "Regular readers of Bike EXIF needed no formal introduction to FCR Original. Oper...",
-      "url": "https://www.bikeexif.com/fcr-originals-bmw-r12-classic-scrambler",
-      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/FCR-Original-BMW-R12-Classic-6.jpg?v=1781193794",
-      "images": [
-        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/FCR-Original-BMW-R12-Classic-6.jpg?v=1781193794"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-21T18:00:00+00:00"
-    },
-    {
       "id": "3896c56c8a952dfe",
       "title": "The Man Who Approved the BMW 1M Kept the Rarest One",
       "summary": "Wheels & Weisswurst is not a normal car show. Show up at BMW Group Classic’s Munich headquarters on Moosacher Strasse on one of the first or third Saturdays between May and September, and the reward... First published by https://www.bmwblog.com",
@@ -928,19 +920,6 @@
       "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-21T17:39:23+00:00"
-    },
-    {
-      "id": "4c5cfa97f94a25bc",
-      "title": "Rising from the Ashes: Hellgate Moto’s BMW K1100RS",
-      "summary": "If you happen to find yourself on the North Shore of Long Island, weaving throug...",
-      "url": "https://www.bikeexif.com/hellgate-motos-bmw-k1100rs",
-      "image": "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063",
-      "images": [
-        "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-20T18:00:00+00:00"
     },
     {
       "id": "0b47c5876be6b9b5",
@@ -1320,7 +1299,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2219,6 +2198,19 @@
       "published": "2026-06-08T20:11:00+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "5c7ea2e864bae470",
       "title": "BMW Invited 67 People To Test Its Armored Cars At Special Event",
       "summary": "Ideally, there wouldn’t be a need for armored vehicles. However, in the real world, the higher someone climbs the corporate or political ladder, the more likely they are to become a target. BMW recognized the... First published by https://www.bmwblog.com",
@@ -2596,6 +2588,19 @@
       "published": "2026-05-29T14:00:00+00:00"
     },
     {
+      "id": "eb3c52798b89321d",
+      "title": "Lexus’s BMW i3 Sedan Rival Is Dead, But Its Most Ambitious Tech Isn’t",
+      "summary": "Lexus reportedly shelves its next-generation electric sedan while parent company Toyota doubles down on SUVs and waits for the EV market to recover",
+      "url": "https://www.carscoops.com/2026/05/lexus-lf-zc-cancellation/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-29T13:11:00+00:00"
+    },
+    {
       "id": "2fe92be657f3a6fc",
       "title": "BMW i4 M60 Shows Its Dark Side With New Black Package",
       "summary": "With the new i3 sedan waiting in the wings, the i4 M60 is not long for this world. Depending on the region, BMW may retire its first electric M Performance model either by late 2026... First published by https://www.bmwblog.com",
@@ -2656,7 +2661,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2786,7 +2791,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3202,7 +3207,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
@@ -3852,7 +3857,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
