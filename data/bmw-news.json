@@ -1,11 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-28T05:43:37.310033+00:00",
-  "generated_at_human": "2026-06-28 05:43 UTC",
-  "total_items": 300,
+  "generated_at": "2026-06-28T09:29:18.833266+00:00",
+  "generated_at_human": "2026-06-28 09:29 UTC",
+  "total_items": 302,
   "sources_used": [
     "Auto Esporte BR",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -40,15 +40,15 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver News",
+    "CarScoops Alfa",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarThrottle",
     "CarWale IN",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Electric Cars Report",
     "Hagerty News",
     "Hooniverse",
@@ -59,15 +59,60 @@
     "Motor1 Technology",
     "Motor1 Volvo",
     "MotorBeam IN",
+    "Motoring World IN",
     "Motorsport WEC",
     "Racecar Engineering",
     "Sports Car Digest",
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 12,
+  "sources_count": 61,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "1e45ce45083c81c2",
+      "title": "BMW X6 M60i xDrive Launched At ₹1.77 crore",
+      "summary": "The V8 Sports SUV Is Back",
+      "url": "https://motoringworld.in/news/bmw-x6-m60i-xdrive-launched/",
+      "image": "http://motoringworld.in/wp-content/uploads/2026/06/BMW-3-505x336.png",
+      "images": [
+        "http://motoringworld.in/wp-content/uploads/2026/06/BMW-3-505x336.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/BMW-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/911-GTR-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/BMW-3-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/KLX-3-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/BMW-2-768x512.png"
+      ],
+      "source": "Motoring World IN",
+      "source_url": "https://www.motoringworld.in",
+      "published": "2026-06-28T08:44:04+00:00"
+    },
+    {
+      "id": "b10beeed40ddfaa8",
+      "title": "The New Long-Wheelbase BMW X5 Won’t Be Exclusive To China",
+      "summary": "We’re only a couple of days away from the world premiere of the fifth-generation BMW X5, the G65. Much like the outgoing luxury SUV spawned a long-wheelbase derivative, its successor will do the same. Former... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/28/long-wheelbase-bmw-x5-india/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/02/2027-bmw-x5-m60i-spy-photos-08-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/02/2027-bmw-x5-m60i-spy-photos-08-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-28T07:47:21+00:00"
+    },
+    {
+      "id": "749c6728be6ba330",
+      "title": "BMW M Tells EV Haters To Get Behind The Wheel Before Judging",
+      "summary": "Although BMW has been selling M-branded EVs since the i4 M50 arrived five years ago, the M Vision Neue Klasse is on another level. It previews next year’s first true M car without a combustion... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/28/bmw-m-tells-ev-haters-to-get-behind-the-wheel-before-judging/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-22-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-concept-neue-klasse-le-mans-22-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-28T07:11:11+00:00"
+    },
     {
       "id": "c8978c7665623409",
       "title": "The Japanese Sedan That Quietly Outclassed BMW And Mercedes For Half The Price",
@@ -375,7 +420,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-26T03:00:00+00:00"
     },
@@ -401,7 +446,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-25T21:25:00+00:00"
     },
@@ -510,7 +555,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-25T05:00:00+00:00"
     },
@@ -549,22 +594,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/BMW-1M-Java-Green-3-552x830.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T14:28:59+00:00"
-    },
-    {
-      "id": "4491e3a2cc395644",
-      "title": "Ferrari’s New Marketing Boss Is BMW Italy’s Old CEO",
-      "summary": "After more than 16 years with Ferrari, Enrico Galliera is stepping down and moving to a new role outside Maranello. Replacing him as Chief Marketing & Commercial Officer is a familiar name to those who... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/24/ferraris-new-marketing-boss-old-bmw-italy-ceo/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/Massimiliano-Di-Silvestre-1-553x830.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/Massimiliano-Di-Silvestre-1-553x830.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-24T13:01:50+00:00"
     },
     {
       "id": "d2172c084f34526b",
@@ -780,7 +812,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2183,19 +2215,6 @@
       "published": "2026-06-07T16:00:15+00:00"
     },
     {
-      "id": "4d06d547b3bd909b",
-      "title": "Why The G05 Is The Best BMW X5 Ever Made",
-      "summary": "Pick any BMW X5 generation and you’ll find something to like. The E53 was pure, the E70 was the first to feel properly premium, and the F15 X5 was competent enough to coast on for... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/06/bmw-x5-g05-reliability-best-generation/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/11/2024-BMW-X5-M60i-Ruby-Red-34-830x601.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2023/11/2024-BMW-X5-M60i-Ruby-Red-34-830x601.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-07T03:28:57+00:00"
-    },
-    {
       "id": "c3ff705537647cd5",
       "title": "BMW M5 Depreciation Tracker: F10 Bargains, F90 Strength, G90 Questions",
       "summary": "Depreciation is a funny thing when it comes to M cars. Enthusiasts love to talk about future classics, special engines, analog appeal, and the models that will one day be “the one to have.” The... First published by https://www.bmwblog.com",
@@ -2755,6 +2774,19 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
+    },
+    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3153,7 +3185,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
@@ -3803,7 +3835,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
