@@ -1,12 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-28T00:13:32.768132+00:00",
-  "generated_at_human": "2026-06-28 00:13 UTC",
+  "generated_at": "2026-06-28T05:43:37.310033+00:00",
+  "generated_at_human": "2026-06-28 05:43 UTC",
   "total_items": 300,
   "sources_used": [
-    "5koleso RU",
     "Auto Esporte BR",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,10 +40,8 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
-    "CarBuzz",
-    "CarScoops",
+    "Car and Driver News",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Rolls",
@@ -54,6 +51,7 @@
     "Electrek BMW iX",
     "Electric Cars Report",
     "Hagerty News",
+    "Hooniverse",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
@@ -67,8 +65,8 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 11,
+  "sources_count": 60,
+  "multi_photo_items": 12,
   "items": [
     {
       "id": "c8978c7665623409",
@@ -87,19 +85,6 @@
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-06-27T22:01:20+00:00"
-    },
-    {
-      "id": "436793be01c48e80",
-      "title": "Here's Why Nobody Is Talking About Rivian's Reliability Compared To Tesla And BMW",
-      "summary": "A reliability and depreciation comparison of early Rivian models against Tesla and BMW EVs reveals insights for 2026 luxury EV shoppers.",
-      "url": "https://carbuzz.com/rivian-reliability-check-how-early-models-stack-up-against-tesla-and-bmw/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2026-rivian-r27.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2026-rivian-r27.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-06-27T22:01:12+00:00"
     },
     {
       "id": "65695d8d6437c6cd",
@@ -198,7 +183,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/BMW-Group-at-the-2026-Busan-Mobility-Show-3-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-27T08:42:58+00:00"
     },
@@ -222,9 +207,14 @@
       "url": "https://www.carscoops.com/2026/06/mercedes-amg-c-class-ev-spied/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-AMG-C-Class-Electric-626-5-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-AMG-C-Class-Electric-626-6-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-AMG-C-Class-Electric-626-7-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-AMG-C-Class-Electric-626-8-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-AMG-C-Class-Electric-626-9-2048x1366.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-27T01:00:00+00:00"
     },
@@ -237,7 +227,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2017/11/BMW-i8-Facelift-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T16:41:04+00:00"
     },
@@ -385,9 +375,22 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-26T03:00:00+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "aaa768725b8981cd",
@@ -398,7 +401,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-25T21:25:00+00:00"
     },
@@ -473,19 +476,6 @@
       "published": "2026-06-25T10:22:42+00:00"
     },
     {
-      "id": "338dc4c87c2d13ce",
-      "title": "Новый кроссовер Avatr 07 L готов к выходу на рынок: мощность почти 1000 сил и экран, как у BMW",
-      "summary": "Китайская компания опубликовала несколько официальных фотографий нового кроссовера Avatr 07 L. Автомобиль, анонсированный еще весной, дебютирует в июле. Сейчас известно, что он будет продаваться только на китайском рынке. Появление кроссовера в России еще не подтверждено. Эта модель представляет собой более крупную и мощную версию Avatr 07. Последний на китайском рынке сейчас можно приобрести за минимальные […]",
-      "url": "https://5koleso.ru/articles/novosti/novyj-krossover-avatr-07-l-gotov-k-vyhodu-na-rynok-moshhnost-pochti-1000-sil-i-ekran-kak-u-bmw/",
-      "image": "https://5koleso.ru/wp-content/uploads/2026/06/1200x0_1_autohomecar__chtpwgo8nmkaq6rkaaog_v8rajy206-1024x573.webp",
-      "images": [
-        "https://5koleso.ru/wp-content/uploads/2026/06/1200x0_1_autohomecar__chtpwgo8nmkaq6rkaaog_v8rajy206-1024x573.webp"
-      ],
-      "source": "5koleso RU",
-      "source_url": "https://5koleso.ru",
-      "published": "2026-06-25T07:11:09+00:00"
-    },
-    {
       "id": "85e7a0041a2b9c75",
       "title": "Morgan Midsummer Coupé: Mit BMW-Sechszylinder und edler Glaskuppel",
       "summary": "Der gemeinsam mit Pininfarina gestaltete Morgan Midsummer zählt mit seiner Auflage von ganzen 50 Stück schon immer zu den exklusivsten Umgebungen für die Fahrt mit...",
@@ -520,7 +510,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_im3_touring_render-web.jpg?itok=rFg24d6e"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-25T05:00:00+00:00"
     },
@@ -790,7 +780,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -834,7 +824,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -967,6 +957,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-19T17:23:34+00:00"
+    },
+    {
+      "id": "e80fc1ed99b14c04",
+      "title": "Honda Prelude Review",
+      "summary": "We’ve seen baggy jeans and Tamagotchis make a reappearance, and CDs are enjoying a resurgence in sales too, so it begs the question: are the 1990s coming back? Well, if the return of the Honda Prelude is anything to go by, the answer is: \"Yes.\" Like previous generations, the new Prelude is a two-door, four-seat coupé. However, for the first time, it’s built using Honda Civic underpinnings, and it has that car’s hybrid engine. Being a hybrid, the Prelude lacks any direct rivals. The closest competitor (in terms of power, size and list price) is the BMW 2 Series 220i. So, how well does the…",
+      "url": "https://www.whatcar.com/honda/prelude/coupe/review/n28307",
+      "image": "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg",
+      "images": [
+        "https://media.whatcar.com/wc-image/honda-prelude-tracking-lead.jpg"
+      ],
+      "source": "What Car",
+      "source_url": "https://www.whatcar.com",
+      "published": "2026-06-19T13:00:00+00:00"
     },
     {
       "id": "be7434fb97674d92",
@@ -1281,7 +1284,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2604,7 +2607,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2734,7 +2737,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
