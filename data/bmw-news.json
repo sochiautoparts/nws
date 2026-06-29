@@ -1,13 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-29T06:04:12.611205+00:00",
-  "generated_at_human": "2026-06-29 06:04 UTC",
-  "total_items": 304,
+  "generated_at": "2026-06-29T11:23:32.257054+00:00",
+  "generated_at_human": "2026-06-29 11:23 UTC",
+  "total_items": 306,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,9 +41,10 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
+    "CarScoops Alfa",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Rolls",
@@ -53,8 +53,8 @@
     "Electric Cars Report",
     "Engadget Auto",
     "Hagerty News",
+    "Hooniverse",
     "HotCars",
-    "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Industry",
@@ -69,8 +69,39 @@
     "What Car"
   ],
   "sources_count": 63,
-  "multi_photo_items": 13,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "c5fb466bab5106cb",
+      "title": "2027 BMW X5 Reveals Striking X Lights In Final Teaser",
+      "summary": "We’re counting down the hours until BMW lifts the veil on the new X5. The original luxury SUV from Munich is about to enter its fifth generation, codenamed G65. Although official images have already surfaced,... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/06/29/2027-bmw-x5-reveals-striking-x-lights-in-final-teaser/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-BMW-X5-teaser-664x830.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-BMW-X5-teaser-664x830.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-06-29T11:04:48+00:00"
+    },
+    {
+      "id": "f5ce0102ab7a0229",
+      "title": "BMW Deploys Figure 03 Humanoid Robot to Expand AI-Powered Manufacturing",
+      "summary": "BMW expands AI-powered manufacturing with the new Figure 03 humanoid robot at its Spartanburg plant, improving logistics, automation, and production efficiency. The post BMW Deploys Figure 03 Humanoid Robot to Expand AI-Powered Manufacturing appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/06/bmw-deploys-figure-03-humanoid-robot-to-expand-ai-powered-manufacturing/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/Figure-03.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/Figure-03.jpg?a3781e&amp;a3781e",
+        "https://electriccarsreport.com/wp-content/uploads/2026/05/Ferrari-Luce_1-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/Lithium-Air-Battery-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/Zoox-Robotaxi-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/Best-affordable-EVs-2026-300x300.jpg",
+        "http://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=510284cd-ec59-4d0f-8837-3fd41c6d7dde"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-06-29T06:18:05+00:00"
+    },
     {
       "id": "9e234525d1c1178d",
       "title": "Goldenes Unikat: Einziger BMW M2 F87 in Austin Yellow steht zum Verkauf",
@@ -91,12 +122,9 @@
       "url": "https://www.autocar.co.uk/car-news/new-cars/v8s-making-shock-comeback-luxury-base-chase-emotion",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/v8-comp.jpg?itok=1eirgyxa",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/v8-comp.jpg?itok=1eirgyxa",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/v8-comp.jpg?itok=gAPCYeV8",
-        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/nick_gibbs_2.png?itok=HC8MgQ1a"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/v8-comp.jpg?itok=1eirgyxa"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-29T04:00:00+00:00"
     },
@@ -205,7 +233,7 @@
       "images": [
         "http://motoringworld.in/wp-content/uploads/2026/06/BMW-3-505x336.png",
         "https://motoringworld.in/wp-content/uploads/2026/06/BMW-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/06/911-GTR-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/Kodiaq-RS-11-768x512.png",
         "https://motoringworld.in/wp-content/uploads/2026/06/BMW-3-768x512.png",
         "https://motoringworld.in/wp-content/uploads/2026/06/KLX-3-768x512.png",
         "https://motoringworld.in/wp-content/uploads/2026/06/BMW-2-768x512.png"
@@ -283,19 +311,6 @@
       "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-06-27T12:00:43+00:00"
-    },
-    {
-      "id": "27c1fc3b81eb27bb",
-      "title": "El futuro BMW M3 eléctrico aún no ha mostrado su baza más importante, y no es la potencia (ni en el resto de su clase)",
-      "summary": "El BMW M Concept Neue Klasse desveló varias claves, pero no se dijo lo que quizás sea más importante. El BMW M Concept Neue Klasse desvela, evidentemente, cómo será el futuro M3 eléctrico, pero en realidad nos deja unas cuantas pistas y clave sobre los deportivos eléctricos del mañana, así como las bases de los futuros M que nos esperan. Hace apenas unos días BMW presentaba al mundo un concept con las intenciones muy claras. El BMW M Concept Neue Klasse no trata de engañar a nadie: es un anticipo de lo que será el BMW M3 eléctrico, basado en el BMW i3 que comenzará a fabricarse dentro de…",
-      "url": "https://www.motor.es/noticias/bmw-claves-im3-electrico-2026114897.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/06/bmw-2026114897-1782237615_5.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/06/bmw-2026114897-1782237615_5.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-06-27T12:00:00+00:00"
     },
     {
       "id": "889b18bb387bddb6",
@@ -381,7 +396,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/3d-design-japana-g60-bmw-5-series-05-830x552.jpg"
       ],
-      "source": "BMW Blog 5",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T13:05:25+00:00"
     },
@@ -420,7 +435,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2020/11/2020-bmw-x7-m50i-test-drive-87-830x623.jpg"
       ],
-      "source": "BMW Blog 5",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
     },
@@ -485,9 +500,22 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-26T03:00:00+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "aaa768725b8981cd",
@@ -498,7 +526,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-25T21:25:00+00:00"
     },
@@ -509,12 +537,7 @@
       "url": "https://sportscardigest.com/marketplace-1965-elva-mark-8-bmw/",
       "image": "https://sportscardigest.com/wp-content/uploads/2026/10/6a221799bd366f8a2dafb6fc_IMG_7621-rside-back.jpg",
       "images": [
-        "https://sportscardigest.com/wp-content/uploads/2026/10/6a221799bd366f8a2dafb6fc_IMG_7621-rside-back.jpg",
-        "https://sportscardigest.com/wp-content/uploads/2026/10/6a23074c916bbb372024cd99_IMG_7600-dials-1400x2100.jpg",
-        "https://sportscardigest.com/wp-content/uploads/2026/10/6a2215f8911cc348054f482a_IMG_7624-rside-2048x1365.jpg",
-        "https://sportscardigest.com/wp-content/uploads/2026/10/6a22161d7c47f6b7867121f3_IMG_7673-front-car-2048x1365.jpg",
-        "https://sportscardigest.com/wp-content/uploads/2026/10/6a2217aabd366f8a2dafc318_IMG_7597-inside-2048x1365.jpg",
-        "https://sportscardigest.com/wp-content/uploads/2026/10/6a22169a895695d28e1b03ea_IMG_7644-side-engine-2048x1365.jpg"
+        "https://sportscardigest.com/wp-content/uploads/2026/10/6a221799bd366f8a2dafb6fc_IMG_7621-rside-back.jpg"
       ],
       "source": "Sports Car Digest",
       "source_url": "https://www.sportscardigest.com",
@@ -607,7 +630,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2023/08/2024-BMW-X6-M60i-13-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
     },
@@ -882,7 +905,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -1405,14 +1428,9 @@
       "url": "https://www.motor1.com/news/798821/bmw-new-door-handle-design/",
       "image": "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg",
-        "https://cdn.motor1.com/images/mgl/40YRbK/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
-        "https://cdn.motor1.com/images/mgl/bgPjRl/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
-        "https://cdn.motor1.com/images/mgl/lEGRWl/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
-        "https://cdn.motor1.com/images/mgl/XBzjRb/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg",
-        "https://cdn.motor1.com/images/mgl/pbJRmJ/s5/bmw-x5-2026-in-der-finalen-erprobung.jpg"
+        "https://cdn.motor1.com/images/mgl/bgPjRl/s3/bmw-x5-2026-in-der-finalen-erprobung.jpg"
       ],
-      "source": "Motor1 Design",
+      "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-06-16T06:42:44+00:00"
     },
@@ -2202,19 +2220,6 @@
       "published": "2026-06-10T11:57:35+00:00"
     },
     {
-      "id": "4baf30999c1cc81c",
-      "title": "New Audi Q7 vs BMW X5 Photo Comparison Shows Why the Next X5 Matters",
-      "summary": "The BMW X5 has long been the default answer in the midsize luxury SUV space. Particularly for buyers who still care about how something this big drives. But Audi has just given the Q7 a... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/09/new-audi-q7-bmw-x5-photo-comparison/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/Audi-Q7-vs-G05-X5-hero-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/Audi-Q7-vs-G05-X5-hero-830x467.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-09T17:30:59+00:00"
-    },
-    {
       "id": "0de0af692a60addc",
       "title": "We drove the 717-hp BMW M5 Touring from South Carolina to Key West",
       "summary": "Following the great SUV craze that began in the 1990s, the US seemingly bade farewell to the station wagon. Yet some are making a comeback — less as practical family haulers and more as high-performance... First published by https://www.bmwblog.com",
@@ -2665,7 +2670,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -2795,7 +2800,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -2811,6 +2816,19 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
