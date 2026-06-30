@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-06-30T04:22:47.396377+00:00",
-  "generated_at_human": "2026-06-30 04:22 UTC",
-  "total_items": 313,
+  "generated_at": "2026-06-30T08:37:14.285436+00:00",
+  "generated_at_human": "2026-06-30 08:37 UTC",
+  "total_items": 307,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -44,22 +44,19 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
     "CarScoops BMW",
+    "CarScoops Ferrari",
     "CarScoops Mercedes",
-    "CarScoops Porsche",
     "CarScoops Rolls",
     "CarThrottle",
     "Electrek BMW",
     "Electrek BMW iX",
     "Electric Cars Report",
     "Hagerty News",
-    "Hooniverse",
+    "Motor.es",
     "Motor1 BMW",
-    "Motor1 Design",
-    "Motor1 Industry",
     "Motor1 Technology",
     "Motor1 Volvo",
     "MotorBeam IN",
@@ -68,14 +65,83 @@
     "Paul Tan",
     "Quatro Rodas BR",
     "Racecar Engineering",
-    "Response JP",
     "Sports Car Digest",
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 12,
+  "sources_count": 64,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "4c3882a2f794deb1",
+      "title": "BMW, Ferrari, Tesla y varias marcas chinas eligen el camino para sus baterías, y no es el cobre",
+      "summary": "Dario Esposito, jefe de comunicaciones de Ferrari, da una pista clave que llevan usando desde el 296 GTB. El cobre está en estos momentos a un precio descomunal, cerca de duplicar lo que se pagaba por cada kilogramo de este material hace apenas tres años, lo que empuja a los fabricantes a buscar alternativas para el cableado de sus sistemas. Durante mucho tiempo se ha utilizado cobre en el cableado de sistemas eléctricos - no ya de coches, sino a nivel general en los dos siglos que llevamos utilizando baterías para alimentar a todo tipo de aparatos, ya sean electrodomésticos, aparatos…",
+      "url": "https://www.motor.es/noticias/ferrari-sistema-electrico-cobre-2026115039.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/06/ferrari-sistema-electrico-cobre-2026115039-1782805967_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/06/ferrari-sistema-electrico-cobre-2026115039-1782805967_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-06-30T08:30:00+00:00"
+    },
+    {
+      "id": "1a63c15d485cda07",
+      "title": "BMW zet X op Instagram: X5 komt later vandaag",
+      "summary": "X en Instagram zien we meestal los van elkaar, maar BMW plaatst het ene vandaag op het andere.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/bmw-zet-x-op-instagram-x5-komt-later-vandaag/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/275384223/width/800/275384223",
+      "images": [
+        "https://images.autoweek.nl/275384223/width/800/275384223"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-06-30T08:13:59+00:00"
+    },
+    {
+      "id": "8d16df0146c92bc7",
+      "title": "BMW Teases The New X5’s X-Shaped Lights, The Leak Shows The Rest",
+      "summary": "The 2027 BMW X5 leaked online hours before its reveal, confirming a new look and the loss of its useful two-piece tailgate",
+      "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/bmwau_1782781212_3930576148191050790_202215093-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/bmwau_1782781212_3930576148191050790_202215093-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/BMW-X5-leak-2048x1431.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2025/07/2027-BMW-X5-G65-25-2048x1367.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2025/07/2027-BMW-X5-G65-29-2048x1367.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2025/07/2027-BMW-X5-G65-30-2048x1367.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2025/07/2027-BMW-X5-G65-27-2048x1366.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-30T07:29:20+00:00"
+    },
+    {
+      "id": "cfd9b09da6c88ee7",
+      "title": "BMW M3 G84: Entwürfe zeigen G80-Nachfolger mit Reihensechszylinder",
+      "summary": "In den letzten Tagen lag der Fokus ganz auf dem elektrischen BMW M3 (ZA0), für dessen Design die Garchinger mit dem M Neue Klasse Concept...",
+      "url": "https://www.bimmertoday.de/2026/06/30/bmw-m3-g84-entwurfe-zeigen-g80-nachfolger-mit-reihensechszylinder/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-06-30T05:51:48+00:00"
+    },
+    {
+      "id": "2ef07a16d0145558",
+      "title": "CATL works with BMW, Renault, Volvo, Xiaomi, Google to develop Battery Circular Design Guide by 2027",
+      "summary": "Battery company CATL has announced at the London Climate Action Week that it has teamed up with BMW, Renault, Volvo, and Xiaomi as well as Google for the establishing of the Global Energy Circular Economy […] The post CATL works with BMW, Renault, Volvo, Xiaomi, Google to develop Battery Circular Design Guide by 2027 appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/06/30/catl-works-with-bmw-renault-volvo-xiaomi-google-to-develop-battery-circular-design-guide-by-2027/",
+      "image": "https://paultan.org/image/2024/02/Renault-5-E-Tech-electric-Wound-rotor-synchronous-electric-motor-Lithium-ion-battery-e1782791354892-630x331.jpg",
+      "images": [
+        "https://paultan.org/image/2024/02/Renault-5-E-Tech-electric-Wound-rotor-synchronous-electric-motor-Lithium-ion-battery-e1782791354892-630x331.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-06-30T04:40:48+00:00"
+    },
     {
       "id": "4d182ee74891f4e5",
       "title": "Stored for 20 Years: 1988 BMW 635CSI",
@@ -97,7 +163,7 @@
     {
       "id": "ed6f8d4ee1fa5e93",
       "title": "G65 BMW X5 teased again before debut later today – Neue Klasse styling with X-shaped front light signature",
-      "summary": "The fifth-generation (G65) BMW X5 has been teased again ahead of its confirmed debut later today, as per posts on the German automaker’s social media pages. This time, we’re shown a darkened view of the redesigned Sports Activity Vehicle’s (SAV) face, which is without any camouflage unlike previous prototypes. Despite […] The post G65 BMW X5 teased again before debut later today – Neue Klasse styling with X-shaped front light signature appeared first on Paul Tan's Automotive News .",
+      "summary": "The fifth-generation (G65) BMW X5 has been teased again ahead of its confirmed debut later today, as per posts on the German automaker’s social media pages. This time, we’re shown a darkened view of the […] The post G65 BMW X5 teased again before debut later today – Neue Klasse styling with X-shaped front light signature appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/06/30/g65-bmw-x5-teased-again-before-debut/",
       "image": "https://paultan.org/image/2026/06/G65-BWM-X5-teaser-1-630x394.jpg",
       "images": [
@@ -137,22 +203,9 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/nick_gibbs_2.png?itok=HC8MgQ1a"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-30T01:00:00+00:00"
-    },
-    {
-      "id": "59d6924445ad2535",
-      "title": "BMW『iX3』新型、新エントリーモデル「40」を今夏欧州で追加…航続637km",
-      "summary": "・BMWは今夏、iX3新型にエントリーモデル「iX3 40」を追加する。第6世代eDrive技術を採用し、WLTPモードで最大637kmの航続距離を実現する。 ・iX3 40は800V技術対応の電動励磁同期モーター（EESM）を後輪に搭載。最高出力235kW（320hp）、最大トルク500Nmを発揮し、0～100km/h加速は5.9秒。 ・高電圧バッテリーの使用可能容量は82.6kWhで、最大300kWの急速充電に対応。最高速度は200km/hとなっている。",
-      "url": "https://response.jp/article/2026/06/30/413360.html",
-      "image": "https://response.jp/imgs/rss/2223182.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2223182.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-06-30T00:00:04+00:00"
     },
     {
       "id": "add5fd488f500aa2",
@@ -288,12 +341,7 @@
       "url": "https://www.carscoops.com/2026/06/bmw-battery-warning-glitch/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90546575_highRes_the-new-bmw-m440i-xd-copy-1-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/P90546575_highRes_the-new-bmw-m440i-xd-copy-1-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-i4-Battery-warranty-2048x1474.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/P90546686_highRes_the-new-bmw-i4-e-dri-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/P90646727_highRes_humanoid-robot-figur-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-240i-Zeus-OffRoad-Build-main-scaled-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2015_Ford_Focus-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/P90546575_highRes_the-new-bmw-m440i-xd-copy-1-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -350,12 +398,7 @@
       "url": "https://electriccarsreport.com/2026/06/bmw-deploys-figure-03-humanoid-robot-to-expand-ai-powered-manufacturing/",
       "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/Figure-03.jpg?a3781e&amp;a3781e",
       "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Figure-03.jpg?a3781e&amp;a3781e",
-        "https://electriccarsreport.com/wp-content/uploads/2026/05/Ferrari-Luce_1-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Lithium-Air-Battery-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Zoox-Robotaxi-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Best-affordable-EVs-2026-300x300.jpg",
-        "http://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=510284cd-ec59-4d0f-8837-3fd41c6d7dde"
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/Figure-03.jpg?a3781e&amp;a3781e"
       ],
       "source": "Electric Cars Report",
       "source_url": "https://electriccarsreport.com",
@@ -383,7 +426,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/v8-comp.jpg?itok=1eirgyxa"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-29T04:00:00+00:00"
     },
@@ -682,45 +725,6 @@
       "source": "MotorBeam IN",
       "source_url": "https://motorbeam.com",
       "published": "2026-06-26T09:33:31+00:00"
-    },
-    {
-      "id": "49f6dd8b2c641605",
-      "title": "BMW iX5 60 xDrive Targets Major Lifecycle Carbon Cuts With Recycled Materials and Gen6 Battery Tech",
-      "summary": "BMW says the new iX5 60 xDrive cuts lifecycle CO2e emissions through recycled materials, Gen6 battery cells, renewable energy and cleaner production. The post BMW iX5 60 xDrive Targets Major Lifecycle Carbon Cuts With Recycled Materials and Gen6 Battery Tech appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/06/bmw-ix5-60-xdrive-targets-major-lifecycle-carbon-cuts-with-recycled-materials-and-gen6-battery-tech/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-iX5-Sustainability.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-iX5-Sustainability.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-06-26T06:23:25+00:00"
-    },
-    {
-      "id": "8468b0371ec88da4",
-      "title": "Still the ultimate EV? I lived with a £134k, 650bhp BMW iX",
-      "summary": "We liked this luxury EV at launch, but has it been improved enough to remain BMW's flagship five years later? The descriptor 'flagship model' is used a lot in this industry and at a base level is really easy to understand. It's the top car in a brand's line-up—the biggest, fanciest and most luxurious option. The BMW iX certainly fits that bill: it's the biggest, most expensive car in the brand's electric car line-up, loaded with tech and intended to push BMW into the true luxury sphere. But for BMW, its real flagship purpose was to push and develop its EV technology. We ran an iX on our…",
-      "url": "https://www.autocar.co.uk/car-review/bmw/long-term-reviews/still-ultimate-ev-i-lived-%C2%A3134k-650bhp-bmw-ix",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/long-term-review/legacy/bmw-ix-atters-lt-2025-me-21.jpg?itok=-T0vaJkV"
-      ],
-      "source": "Autocar BMW i",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-06-26T03:00:00+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "aaa768725b8981cd",
@@ -1048,7 +1052,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1196,19 +1200,6 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
-      "id": "765fd77e650ccdb6",
-      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
-      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
-      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-20T13:29:00+00:00"
-    },
-    {
       "id": "e73e5c773580a662",
       "title": "3 BMW-V8 im Dragrace: X5 M trifft Defender Octa & Range Rover Sport SV",
       "summary": "Wer ein aktuelles Power-SUV mit einem V8-Biturbo der BMW M GmbH fahren will, hat gleich zwei interessante Alternativen zu BMW X5 M, X6 M und...",
@@ -1337,32 +1328,6 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
-    },
-    {
-      "id": "f75f6058af93399d",
-      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
-      "summary": "More proof that more is better. Much better.",
-      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-18T14:39:00+00:00"
-    },
-    {
-      "id": "21f774dd97313815",
-      "title": "BMW i3 First Edition: Neue Klasse ab sofort bestellbar, Preis ab 65.900 Euro",
-      "summary": "Mit der BMW i3 First Edition ist das zweite Modell der Neuen Klasse ab sofort bestellbar. Die Preise für die Elektro-Limousine im 3er-Format beginnen im...",
-      "url": "https://www.bimmertoday.de/2026/06/18/bmw-i3-first-edition-neue-klasse-ab-sofort-bestellbar-preis-ab-65-900-euro/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-i3-First-Edition-NA0-M-Sport-weiss-06.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/06/BMW-i3-First-Edition-NA0-M-Sport-weiss-06.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-06-18T13:26:46+00:00"
     },
     {
       "id": "b2873bf42f04a2f6",
@@ -1542,7 +1507,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -1586,19 +1551,6 @@
       "published": "2026-06-16T09:08:00+00:00"
     },
     {
-      "id": "d48081d6c23d1ea2",
-      "title": "AMG's Biggest Product Push Yet: Over 27 New Models In 36 Months",
-      "summary": "Mercedes-AMG is chasing BMW M with a massive product blitz.",
-      "url": "https://www.motor1.com/news/798830/mercedes-amg-product-blitz-incoming/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9ezo/s3/mercedes-amg-gt-black-series.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/Oo9ezo/s3/mercedes-amg-gt-black-series.jpg"
-      ],
-      "source": "Motor1 Industry",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-16T07:56:02+00:00"
-    },
-    {
       "id": "8afb98729d932d94",
       "title": "The New BMW X5 Hides The Door Handles In Plain Sight",
       "summary": "The luxury SUV will have something in common with the Ford Mustang Mach-E.",
@@ -1623,19 +1575,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-16T00:29:00+00:00"
-    },
-    {
-      "id": "7a1e2a6a9a3086dd",
-      "title": "2027 BMW X5 Prototype Drive: EV Power Rises to the Top",
-      "summary": "For the fifth time in history, BMW is about to launch a new X5, and we drove the (mostly) complete lineup.",
-      "url": "https://www.caranddriver.com/reviews/a71589409/2027-bmw-x5-prototype-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/b882651f-0c2d-4915-9995-c9a7fa34f0be.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-15T19:49:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -1989,19 +1928,6 @@
       "published": "2026-06-13T15:09:41+00:00"
     },
     {
-      "id": "915f79c9f73f6c59",
-      "title": "The Road to Zacatecas: 1993 Coupes Across the Border",
-      "summary": "Loose in Mexico with four killer coupes—BMW 325is, Ford Thunderbird, Lexus SC300, Subaru SVX—and not a cop in sight.",
-      "url": "https://www.caranddriver.com/reviews/a71493610/1993-bmw-ford-lexus-subaru-coupes-in-mexico-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0947d8da-1967-42aa-a83b-158dc313b2a5.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-13T14:21:00+00:00"
-    },
-    {
       "id": "7289a986e074099a",
       "title": "BMW Just Hinted That The Electric M3 Won’t Be Called iM3 — Here’s Why",
       "summary": "Le Mans is a strange place to discuss an electric sedan that’s still a year away. But there we were, in a panel with Frank Van Meel, BMW M CEO, and Oliver Heilmer, Head of... First published by https://www.bmwblog.com",
@@ -2340,7 +2266,7 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg"
       ],
-      "source": "CarScoops Porsche",
+      "source": "CarScoops Ferrari",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-10T20:01:00+00:00"
     },
@@ -3292,19 +3218,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-11T20:55:06+00:00"
-    },
-    {
-      "id": "374c1f2f9581d7f3",
-      "title": "Why The New 7 Series Has One Of BMW's Best Modern Interiors",
-      "summary": "The 'Neue Klasse' interior for BMW’s flagship is now even more high-tech and noticeably more spacious—especially in the rear seats.",
-      "url": "https://www.motor1.com/news/795479/bmw-7-series-interior/",
-      "image": "https://cdn.motor1.com/images/mgl/wl8Q9m/s3/bmw-7-series-interior-feature.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/wl8Q9m/s3/bmw-7-series-interior-feature.jpg"
-      ],
-      "source": "Motor1 Design",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-05-11T14:00:50+00:00"
     },
     {
       "id": "1a3eb58a9bf56ced",
