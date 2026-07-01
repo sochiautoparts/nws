@@ -1,15 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-01T10:10:08.547486+00:00",
-  "generated_at_human": "2026-07-01 10:10 UTC",
-  "total_items": 345,
+  "generated_at": "2026-07-01T13:40:35.662239+00:00",
+  "generated_at_human": "2026-07-01 13:40 UTC",
+  "total_items": 340,
   "sources_used": [
     "5koleso RU",
-    "Auto Bild ES",
     "Auto Esporte BR",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -32,6 +31,7 @@
     "BMW Blog Motorrad",
     "BMW Blog X1",
     "BMW Blog X2",
+    "BMW Blog X5",
     "BMW Blog X6",
     "BMW Blog X7",
     "BMW Blog Z4",
@@ -40,7 +40,6 @@
     "BMW Blog i5",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
@@ -52,7 +51,6 @@
     "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
-    "CarScoops Lucid",
     "CarScoops Mercedes",
     "CarScoops Porsche",
     "CarScoops Rolls",
@@ -61,9 +59,10 @@
     "Electrek BMW",
     "Electrek BMW iX",
     "Electric Cars Report",
+    "Engadget Auto",
     "GM Authority",
     "Hagerty News",
-    "HotCars",
+    "Hooniverse",
     "InsideEVs",
     "Kolesa RU",
     "Motor.es",
@@ -80,9 +79,118 @@
     "Sports Car Digest",
     "What Car"
   ],
-  "sources_count": 75,
-  "multi_photo_items": 16,
+  "sources_count": 74,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "0eecb59ebca7e8f4",
+      "title": "New 7 Series Enters Production With BMW’s Biggest-Ever Facelift",
+      "summary": "To our surprise, not everything in the BMW world this week is about the new X5. Thousands of miles away from Spartanburg, where the G65 calls home, a refreshed sedan has just entered production in... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/01/2027-bmw-7-series-production-start/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-7-Series-enters-production-4-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-7-Series-enters-production-4-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-01T13:29:21+00:00"
+    },
+    {
+      "id": "4068e8c40727c60e",
+      "title": "2027 BMW X5 Base Model Revealed In Configurator",
+      "summary": "Like clockwork, BMW already has the 2027 X5 configurator up and running in Germany. For the time being, you’re limited to the six-cylinder gasoline and diesel versions. Why? Because the 40 xDrive and 40d xDrive... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/01/2027-bmw-x5-base-model-revealed-configurator/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-base-model-1-830x629.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-base-model-1-830x629.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-01T12:19:14+00:00"
+    },
+    {
+      "id": "1db1a43fe45f17a1",
+      "title": "New BMW X5 vs Audi Q7 Photo Comparison: This One Looks Decided",
+      "summary": "The G65 BMW X5 is finally here. Wouldn’t you know it, just earlier this month, one of the X5’s closest rivals, the Audi Q7, also entered a brand-new generation. Fights rarely get as fair as... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/01/bmw-x5-vs-audi-q7-photo-comparison/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/G65-X5-vs.-Audi-Q7-Hero-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/G65-X5-vs.-Audi-Q7-Hero-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-01T11:33:03+00:00"
+    },
+    {
+      "id": "5d5437bdc969b99f",
+      "title": "2025 BMW S 1000 RR M-Sport: After Hours (Issue Special)",
+      "summary": "At midnight, the BMW S 1000 RR M-Sport feels less engineered and more unleashed",
+      "url": "https://motoringworld.in/features/2025-bmw-s-1000-rr-m-sport-after-hours-issue-special/",
+      "image": "http://motoringworld.in/wp-content/uploads/2026/07/BMW-505x336.png",
+      "images": [
+        "http://motoringworld.in/wp-content/uploads/2026/07/BMW-505x336.png",
+        "https://motoringworld.in/wp-content/uploads/2026/06/BMW-X6-8-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/07/BMW-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/07/BMW-4-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/07/BMW-6-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/07/BMW-5-768x512.png"
+      ],
+      "source": "Motoring World IN",
+      "source_url": "https://www.motoringworld.in",
+      "published": "2026-07-01T11:24:48+00:00"
+    },
+    {
+      "id": "669e01214cd4ee98",
+      "title": "2027 BMW X5: First Real Photos Of The Fully Redesigned SUV",
+      "summary": "What better place to showcase a new model than its birthplace? BMW clearly thought the same when it hosted the world premiere of the new X5 at its Spartanburg factory in South Carolina. That’s where... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/01/2027-bmw-x5-first-live-photos/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/g65-bmw-x5-40-vancouver-green-06-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/g65-bmw-x5-40-vancouver-green-06-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-01T11:06:05+00:00"
+    },
+    {
+      "id": "6f94f8cac9e90b66",
+      "title": "Why Is Nobody Talking About Audi’s Reliability Compared To BMW And Mercedes-Benz?",
+      "summary": "Audi's reliability gap with BMW and Mercedes is widening, with the luxury brand struggling to keep up with its German rivals.",
+      "url": "https://carbuzz.com/audi-reliability-compared-to-bmw-mercedes/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/audi-rs5-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/audi-rs5-main.png"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-01T11:00:11+00:00"
+    },
+    {
+      "id": "42c4ec4879824343",
+      "title": "El BMW iX7 2028 da un paso decisivo, estas fotos espía revelan el SUV eléctrico más lujoso de la marca",
+      "summary": "Fotos espía BMW iX7 2028 con luces delanteras y traseras de producción. SH Proshots BMW es una de las marcas europeas con más movimiento en el desarrollo de nuevos modelos. La firma trabaja en el nuevo BMW iX7 2028, otro SUV eléctrico pero uno de los más grandes del mercado que, ahora, ha muestra importantes novedades en estas nuevas fotos espía. Está claro que el tamaño no le importa lo más mínimo a los de Múnich, y que el peso tampoco es un problema para sus coches eléctricos, frente para una gran mayoría que sí lo es. La firma alemana no se conforma con el lujoso BMW iX5 que acaba de…",
+      "url": "https://www.motor.es/noticias/bmw-ix7-fotos-espia-2028-avance-2026115067.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-ix7-fotos-espia-2026115067-1782900971_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/07/bmw-ix7-fotos-espia-2026115067-1782900971_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-07-01T11:00:00+00:00"
+    },
+    {
+      "id": "6a67b0cc6dd133b1",
+      "title": "BMW's X5 finally goes electric with an impressive 435 miles of range",
+      "summary": "BMW's X5 lineup finally has an electric option with impressive range.",
+      "url": "https://www.engadget.com/2205680/bmw-x5-finally-goes-electric-with-435-miles-of-range/",
+      "image": "https://www.engadget.com/img/gallery/bmws-x5-finally-goes-electric-with-an-impressive-435-miles-of-range/l-intro-1782900252.jpg",
+      "images": [
+        "https://www.engadget.com/img/gallery/bmws-x5-finally-goes-electric-with-an-impressive-435-miles-of-range/l-intro-1782900252.jpg"
+      ],
+      "source": "Engadget Auto",
+      "source_url": "https://www.engadget.com",
+      "published": "2026-07-01T10:06:48+00:00"
+    },
     {
       "id": "783a930c3b648d1d",
       "title": "BMW X5 muda radicalmente, tem versão elétrica e pode ser guiado pelo olhar",
@@ -121,12 +229,7 @@
       "url": "https://motoringworld.in/news/2027-bmw-x5-unveiled/",
       "image": "http://motoringworld.in/wp-content/uploads/2026/07/X5-505x336.png",
       "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/07/X5-505x336.png",
-        "https://motoringworld.in/wp-content/uploads/2026/06/BMW-X6-8-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/07/X5-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/07/X5-5-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/07/X5-2-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/07/X5-7-768x512.png"
+        "http://motoringworld.in/wp-content/uploads/2026/07/X5-505x336.png"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -154,7 +257,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-lfa-2411_0_0_1_1_0_0_0.jpg?itok=K1vGxhdC"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-01T08:12:33+00:00"
     },
@@ -165,12 +268,7 @@
       "url": "https://paultan.org/2026/07/01/bmw-clubhouse-in-malaysia-july-17-to-19-m3-cs-touring-m2-cs-to-be-launched-this-month/",
       "image": "https://paultan.org/image/2025/01/2025-BMW-M3-CS-Touring-debut-24-e1782890259974-630x356.jpg",
       "images": [
-        "https://paultan.org/image/2025/01/2025-BMW-M3-CS-Touring-debut-24-e1782890259974-630x356.jpg",
-        "https://paultan.org/image/2025/05/2025-BMW-M2-CS-debut-28-1200x1800.jpg",
-        "https://paultan.org/image/2025/05/2025-BMW-M2-CS-debut-29-1200x1800.jpg",
-        "https://paultan.org/image/2025/05/2025-BMW-M2-CS-debut-30-1200x1800.jpg",
-        "https://paultan.org/image/2025/05/2025-BMW-M2-CS-debut-49-1200x1800.jpg",
-        "https://paultan.org/image/2025/05/2025-BMW-M2-CS-debut-54-1200x1800.jpg"
+        "https://paultan.org/image/2025/01/2025-BMW-M3-CS-Touring-debut-24-e1782890259974-630x356.jpg"
       ],
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
@@ -209,12 +307,7 @@
       "url": "https://electriccarsreport.com/2026/07/bmw-completes-1-7b-u-s-expansion-confirms-first-electric-ix5-made-in-america/",
       "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-iX5_1.jpg?a3781e&amp;a3781e",
       "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-iX5_1.jpg?a3781e&amp;a3781e",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Leapmotor-T03-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/05/NIO-ES9-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-iX5-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Rivian-R2-300x300.jpg",
-        "http://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=510284cd-ec59-4d0f-8837-3fd41c6d7dde"
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-iX5_1.jpg?a3781e&amp;a3781e"
       ],
       "source": "Electric Cars Report",
       "source_url": "https://electriccarsreport.com",
@@ -253,12 +346,7 @@
       "url": "https://carbuzz.com/bmw-1m-predecessor/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-e36-compact-concept.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-e36-compact-concept.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-26-18-54-50-1.png?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-m3-e36-compact-stage-teaser-02.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-m3-e36-compact-gallery-10.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2011_bmw-1-series-m-coupe-7.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-m3-e36-compact-cp-01.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/bmw-e36-compact-concept.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -304,19 +392,6 @@
       "published": "2026-06-30T23:32:57+00:00"
     },
     {
-      "id": "3c9b8b8ead6c046f",
-      "title": "2008 BMW 335i Convertible at No Reserve",
-      "summary": "This 2008 BMW 335i convertible has been registered in Florida since new and has 84k miles. It is powered by a twin-turbocharged 3.0L inline-six paired with a six-speed Steptronic automatic transmission and is finished in Platinum Bronze Metallic over Cream Beige Dakota leather. Features include a power-retractable hardtop, xenon headlights, 17\" Style 185 alloy wheels, power-adjustable front seats, a BMW Professional CD stereo, Comfort Access, cruise control, and dual-zone automatic climate control. This E93 is now offered by the selling dealer at no reserve with a clean Florida title.",
-      "url": "https://bringatrailer.com/listing/2008-bmw-335i-convertible-41/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_3556-copy-2026-06-24-qo7-37143-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_3556-copy-2026-06-24-qo7-37143-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-06-30T23:22:57+00:00"
-    },
-    {
       "id": "b0c3acfc99d875fa",
       "title": "BMW X5 G65: Fotos zur Produktion in Spartanburg zeigen auch Fire Red",
       "summary": "Für die Weltpremiere des neuen BMW X5 (G65) hätte es keinen passenderen Ort als das Werk Spartanburg geben können, schließlich ist das US-Werk schon seit...",
@@ -356,19 +431,6 @@
       "published": "2026-06-30T21:24:07+00:00"
     },
     {
-      "id": "893c2af422978b1c",
-      "title": "Cheapest 2027 Corvette Is Now A 200-MPH Monster For Less Than A BMW M4",
-      "summary": "The new engine at the heart of the Corvette Stingray means there's no questioning its supercar credentials now.",
-      "url": "https://carbuzz.com/2027-chevrolet-corvette-stingray-200-mph-verified/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-chevrolet-corvette-stingray-front.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-chevrolet-corvette-stingray-front.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-06-30T19:54:23+00:00"
-    },
-    {
       "id": "4b44514ec6ecbbc3",
       "title": "2027 BMW X5 Debuts with New Design, First-Ever Electric iX5, and Hydrogen Power on the Horizon",
       "summary": "Discover the all-new 2027 BMW X5 with bold styling, the first-ever electric BMW iX5, up to 435 miles of range, hydrogen technology, and advanced Neue Klasse features. The post 2027 BMW X5 Debuts with New Design, First-Ever Electric iX5, and Hydrogen Power on the Horizon appeared first on Electric Cars Report .",
@@ -402,11 +464,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Peugeot-Partner-1-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/04-Sisters-Andrea-left-and-Alondra-right-flank-American-Honda-Assistant-VP-of-Sales-Jessika-Laudermilk-with-the-sisters-2026-Honda-Accords-on-each-side-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Aston-Martin-Vantage-flood-UK-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/34tfvrced-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/ixfm8s87ure0og1go22txlkn-home-manufacturer-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Holiday-Safe-Driving-01944-Nissan-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/ixfm8s87ure0og1go22txlkn-home-manufacturer-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -465,19 +527,6 @@
       "published": "2026-06-30T19:00:57+00:00"
     },
     {
-      "id": "8fb18552b9ac44d5",
-      "title": "The Performance Sedan From The '90s That Deserves More Attention",
-      "summary": "The BMW M5 E34 was hand-built, S38-powered, and ahead of its time. Here's why this 1988–1995 performance sedan deserves a second look.",
-      "url": "https://www.hotcars.com/90s-performance-sedan-that-deserves-more-attention/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/bmw-m5-e34-wheel-resized.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/bmw-m5-e34-wheel-resized.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-06-30T19:00:16+00:00"
-    },
-    {
       "id": "5834f206ad4baeb1",
       "title": "Coupe of the Year 2026: BMW 2 Series",
       "summary": "The BMW 2 Series is the 2026 Auto Express Coupe of the Year, with the Ford Mustang and Honda Prelude commended",
@@ -497,37 +546,16 @@
       "url": "https://www.autoexpress.co.uk/bmw/ix3/369867/mid-size-premium-suv-year-2026-bmw-ix3",
       "image": "https://media.autoexpress.co.uk/image/private/s--H5K3t_ac--/t_rss_image_w_845/v1782463183/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-12.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--H5K3t_ac--/t_rss_image_w_845/v1782463183/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-12.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--H5K3t_ac--/t_rss_image_w_845/v1782463183/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-12.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--VAo-LI-L--/f_auto,t_author-mobile@1/v1741087378/autoexpress/2025/03/Phil%20McNamara%20headshot.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/369867/t_author-desktop@1/v1741087378/autoexpress/2025/03/Phil%20McNamara%20headshot.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/369867/t_author-mobile@1/v1741087378/autoexpress/2025/03/Phil%20McNamara%20headshot.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--H5K3t_ac--/f_auto,t_primary-image-mobile@1/v1782463183/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-12.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/369867/t_primary-image-desktop@1/v1782463183/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-12.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-06-30T18:52:21+00:00"
-    },
-    {
-      "id": "0e4062044d7a3bc0",
-      "title": "Large Company Car of the Year 2026: Audi A6 e-tron",
-      "summary": "The Audi A6 e-tron is the 2026 Auto Express Large Company Car of the Year, with the BMW i5 and Volkswagen ID.7 commended",
-      "url": "https://www.autoexpress.co.uk/audi/a6/369861/large-company-car-year-2026-audi-a6-e-tron",
-      "image": "https://media.autoexpress.co.uk/image/private/s--KvHTWD-Z--/t_rss_image_w_845/v1782471982/autoexpress/2026/06/New%20Car%20Awards%202026-2.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--KvHTWD-Z--/t_rss_image_w_845/v1782471982/autoexpress/2026/06/New%20Car%20Awards%202026-2.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-06-30T18:46:05+00:00"
-    },
-    {
-      "id": "b1d40b0fee35750c",
-      "title": "Mid-size Company Car of the Year 2026: Mercedes CLA",
-      "summary": "The Mercedes CLA is the 2026 Auto Express Mid-size Company Car of the Year with the BMW iX3 and Tesla Model 3 commended",
-      "url": "https://www.autoexpress.co.uk/mercedes/cla/369859/mid-size-company-car-year-2026-mercedes-cla",
-      "image": "https://media.autoexpress.co.uk/image/private/s--0i0P-Wd0--/t_rss_image_w_845/v1782463166/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-6.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--0i0P-Wd0--/t_rss_image_w_845/v1782463166/autoexpress/2026/06/New%20Car%20Awards%202026%20winners-6.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-06-30T18:44:52+00:00"
     },
     {
       "id": "511e21f0e0d6678b",
@@ -759,35 +787,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/G65-X5-vs.-Merc-GLE-HERO-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-30T15:10:47+00:00"
-    },
-    {
-      "id": "7c2678fb2c854b4e",
-      "title": "2027 BMW iX5 Specs: Range, Charging, Power, Weight, and Towing",
-      "summary": "The long-awaited electric BMW X5 is finally here, and BMW keeps things straightforward. At launch, the electric version of the newest X5 — chassis code G65 — only comes in one flavor, the iX5 60... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/30/2027-bmw-ix5-specs-range-charging-power-weight-towing/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-00-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-00-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-30T15:10:35+00:00"
-    },
-    {
-      "id": "e4fa43bbaac4c013",
-      "title": "2027 BMW X5 G65 vs G05 X5 Photo Comparison: New Boss, Old Boss",
-      "summary": "The BMW X5 is arguably BMW’s most important vehicle overall. The brand sells hundreds of thousands of them globally, and what’s more, the X5 also serves as a leader for the rest of the brand’s... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/30/2027-bmw-x5-g65-vs-g05-x5-photo-comparison/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/G65-X5-vs.-G05-X5-Hero-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/G65-X5-vs.-G05-X5-Hero-830x467.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-30T15:10:23+00:00"
     },
     {
       "id": "fbfb6e6d23f230db",
@@ -801,24 +803,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-30T15:06:44+00:00"
-    },
-    {
-      "id": "16584d6936282a31",
-      "title": "Nuevo BMW X5 2027: conocemos la nueva generación del SUV alemán, con más lujo, versión eléctrica e incluso hidrógeno",
-      "summary": "Ya hemos conocido y nos hemos subido al nuevo BMW X5 2027, la quinta generación del SUV alemán, que llega con más tecnología, lujo y opciones mecánicas que incluyen una versión eléctrica y de hidrógeno.",
-      "url": "https://www.autobild.es/motor/nuevo-bmw-x5-2027-conocemos-nueva-generacion-suv-aleman-con-mas-lujo-version-electrica-incluso-hidrogeno_7008093_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/30/6a43084f4e19e6-71435177.r_d.1876-943.jpeg",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/30/6a43084f4e19e6-71435177.r_d.1876-943.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/files/fp/uploads/imagenes/2026/06/30/6a43084f4e19e6-71435177.r_d.1876-943-2626.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/06/29/6a4247964da068-35470705.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/06/29/6a424a21a79414-87411326.jpeg",
-        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2025/10/17/68f1fb38ac9ab.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2023/10/03/68ca843514fc2.jpeg"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-06-30T15:05:00+00:00"
     },
     {
       "id": "2d6e39a55465b477",
@@ -966,7 +950,20 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/bmw-x5-m-competition-149-698e15e4056cb.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
+      "id": "680f6f8d9189c099",
+      "title": "2027 BMW X5 Enters a Neue Era with a Never-Before-Available Powertrain",
+      "summary": "The fifth-generation X5 adopts BMW's newest design language and is available as the iX5 EV for the first time.",
+      "url": "https://www.caranddriver.com/news/a71781672/2027-bmw-x5-ix5-revealed/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0e199cb8-1a05-4e51-9443-bab650105115.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/0e199cb8-1a05-4e51-9443-bab650105115.jpg"
+      ],
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-06-30T15:01:00+00:00"
     },
@@ -997,19 +994,6 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
-      "id": "680f6f8d9189c099",
-      "title": "2027 BMW X5 Enters a Neue Era with a Never-Before-Available Powertrain",
-      "summary": "The fifth-generation X5 adopts BMW's newest design language and is available as the iX5 EV for the first time.",
-      "url": "https://www.caranddriver.com/news/a71781672/2027-bmw-x5-ix5-revealed/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0e199cb8-1a05-4e51-9443-bab650105115.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0e199cb8-1a05-4e51-9443-bab650105115.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
       "id": "96d7675e09ba0fa4",
       "title": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
       "summary": "The iX5 gets the largest battery pack ever installed in an electric BMW.",
@@ -1021,19 +1005,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
-      "id": "f05e3f2611f27028",
-      "title": "2027 BMW X5 Revealed: The Luxury SUV, Reinvented",
-      "summary": "With over 3.1 million units sold since its 1999 launch, the X5 has given BMW a license to print money. Built in Spartanburg, the luxury SUV has evolved significantly from the early E53 era to... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/30/2027-bmw-x5-details-specs-photo-price/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-24-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-24-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-30T15:00:45+00:00"
     },
     {
       "id": "37cbebee182f8bd3",
@@ -1088,7 +1059,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-x5-63.jpg?itok=GSXo5fm8"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-30T15:00:00+00:00"
     },
@@ -1129,19 +1100,6 @@
       ],
       "source": "Motor.es",
       "source_url": "https://www.motor.es",
-      "published": "2026-06-30T15:00:00+00:00"
-    },
-    {
-      "id": "13cc4d290577b3d5",
-      "title": "2027 BMW X5 – G65 gains Neue Klasse looks and tech, X headlights; 800V iX5 EV with 845 km WLTP range",
-      "summary": "It’s hard to overstate just how important the X5 is to BMW. As arguably the progenitor of the sporting SUV – although Porsche would like to have a word – this leviathan opened a new […] The post 2027 BMW X5 – G65 gains Neue Klasse looks and tech, X headlights; 800V iX5 EV with 845 km WLTP range appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/06/30/2027-bmw-x5-g65-gains-neue-klasse-looks-and-tech-x-headlights-800v-ix5-ev-with-845-km-wltp-range/",
-      "image": "https://paultan.org/image/2026/06/2027-BMW-iX5-60-xDrive-1-e1782719854135-630x394.jpg",
-      "images": [
-        "https://paultan.org/image/2026/06/2027-BMW-iX5-60-xDrive-1-e1782719854135-630x394.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
       "published": "2026-06-30T15:00:00+00:00"
     },
     {
@@ -1202,19 +1160,6 @@
       "published": "2026-06-30T05:51:48+00:00"
     },
     {
-      "id": "4d182ee74891f4e5",
-      "title": "Stored for 20 Years: 1988 BMW 635CSI",
-      "summary": "Have you ever parked a car with plans to bring it back to life – only to see a few decades slip by? That’s what has happened to this 1988 BMW 635CSI, which has remained in storage for 20... Read More »",
-      "url": "https://barnfinds.com/stored-for-20-years-1988-bmw-635csi/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/06/BMW-635csi-front-e1782758135651-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/06/BMW-635csi-front-e1782758135651-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-06-30T03:00:00+00:00"
-    },
-    {
       "id": "2bc04ac71758838b",
       "title": "BMW’s Newest American Worker Is A Robot That Looks Eerily Human",
       "summary": "A more lifelike humanoid robot just clocked in at BMW's South Carolina plant, and for now its only job is the one nobody on the line was eager to do",
@@ -1236,7 +1181,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/screenshot_2026-06-29_at_14.22.00.jpg?itok=Zym8_nHe"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-06-30T01:00:00+00:00"
     },
@@ -1369,19 +1314,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-06-28T13:53:59+00:00"
-    },
-    {
-      "id": "1e45ce45083c81c2",
-      "title": "BMW X6 M60i xDrive Launched At ₹1.77 crore",
-      "summary": "The V8 Sports SUV Is Back",
-      "url": "https://motoringworld.in/news/bmw-x6-m60i-xdrive-launched/",
-      "image": "http://motoringworld.in/wp-content/uploads/2026/06/BMW-3-505x336.png",
-      "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/06/BMW-3-505x336.png"
-      ],
-      "source": "Motoring World IN",
-      "source_url": "https://www.motoringworld.in",
-      "published": "2026-06-28T08:44:04+00:00"
     },
     {
       "id": "19b0a1a478d78714",
@@ -1535,6 +1467,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "aaa768725b8981cd",
@@ -1779,7 +1724,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1818,7 +1763,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2905,19 +2850,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
-    },
-    {
-      "id": "b5318e3d4ccc6988",
-      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
-      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
-      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
-      ],
-      "source": "CarScoops Lucid",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
@@ -4634,19 +4566,6 @@
       "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-03T11:39:35+00:00"
-    },
-    {
-      "id": "0a36c132551ee5a4",
-      "title": "Stretched BMW 3 Series G58 Entering Production In April 2027?",
-      "summary": "BMW has been selling a long-wheelbase 3 Series in China since the days of the F35. If you’re unfamiliar with the codename, it’s a stretched F30 launched back in 2012. Then the G28 arrived in... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/02/bmw-3-series-g58-long-wheelbase/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2024/11/2027-bmw-3-series-g50-05-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2024/11/2027-bmw-3-series-g50-05-830x554.jpg"
-      ],
-      "source": "BMW Blog 3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-02T13:30:17+00:00"
     }
   ]
 }
