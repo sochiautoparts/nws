@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-03T08:24:09.009210+00:00",
-  "generated_at_human": "2026-07-03 08:24 UTC",
-  "total_items": 321,
+  "generated_at": "2026-07-03T11:41:17.630090+00:00",
+  "generated_at_human": "2026-07-03 11:41 UTC",
+  "total_items": 323,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte Carros",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -69,14 +70,83 @@
     "Motorious",
     "Motorious Classic",
     "Motorsport WEC",
+    "Paul Tan",
     "Racecar Engineering",
     "Response JP",
     "Sports Car Digest",
+    "TopSpeed",
     "What Car"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 12,
+  "sources_count": 72,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "a8886a2e9d4eafbd",
+      "title": "Here’s How Every BMW Sold In The US During Q2 2026",
+      "summary": "There are winners and losers whenever an automaker publishes a sales report, and BMW’s latest figures for the United States are no exception. The Q2 2026 results are in, showing what worked and what didn’t... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/03/bmw-us-q2-2026-sales-results/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/11/bmw-z4-final-edition-04-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2025/11/bmw-z4-final-edition-04-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-03T10:46:06+00:00"
+    },
+    {
+      "id": "165def92efe71c2f",
+      "title": "2027 model year update for BMW Motorrad – M 1000 RR gets new, lighter frame, track package for ‘M’ bikes",
+      "summary": "A host of updates for its 2027 BMW Motorrad motorcycle lineup, with new equipment packages, revised styling, expanded factory options and technical enhancements across its sport, touring and roadster ranges. The updated models will be […] The post 2027 model year update for BMW Motorrad – M 1000 RR gets new, lighter frame, track package for ‘M’ bikes appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/03/2027-model-year-update-for-bmw-motorrad-m-1000-rr-gets-new-lighter-frame-track-package-for-m-bikes/",
+      "image": "https://paultan.org/image/2026/07/P90646810_highRes-e1783074874431-630x443.jpg",
+      "images": [
+        "https://paultan.org/image/2026/07/P90646810_highRes-e1783074874431-630x443.jpg",
+        "https://paultan.org/image/2026/07/P90646325_highRes-1200x1800.jpg",
+        "https://paultan.org/image/2026/07/P90646321_highRes-e1783074911402-1260x867.jpg",
+        "https://paultan.org/image/2026/07/P90646342_highRes-1200x896.jpg",
+        "https://paultan.org/image/2026/07/P90646309_highRes-e1783074980167-1260x845.jpg",
+        "https://paultan.org/image/2026/07/P90646315_highRes-e1783074945858-1260x835.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-03T10:44:27+00:00"
+    },
+    {
+      "id": "c60762aa22d39da5",
+      "title": "2027 BMW X5: Five Powertrains, V8, Hydrogen, and iX5 EV",
+      "summary": "The 2027 BMW X5 offers five powertrains — mild-hybrid, PHEV, iX5 EV, V8, and hydrogen — starting at $71,250. Here's what each variant means for buyers.",
+      "url": "https://www.topspeed.com/2027-bmw-x5-five-powertrains/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-6.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-6.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-3-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/image-1516.jpeg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-03T10:00:20+00:00"
+    },
+    {
+      "id": "b8f01efd572f1775",
+      "title": "Pick of the Day: 1994 BMW M3 Euro",
+      "summary": "The version Americans were denied: one of the ultimate M cars",
+      "url": "https://journal.classiccars.com/2026/07/03/pick-of-the-day-1994-bmw-m3-euro/",
+      "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-rt-side.jpg",
+      "images": [
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-rt-side.jpg",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-front-34-1-768x432.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-rt-side-768x432.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-front-34-2-768x432.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-int-3-768x432.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1994-bmw-coupe-engine-1-768x432.webp"
+      ],
+      "source": "ClassicCars Journal",
+      "source_url": "https://journal.classiccars.com",
+      "published": "2026-07-03T09:00:00+00:00"
+    },
     {
       "id": "d6b52f504d726157",
       "title": "'Illegaal' toch nog 145 BMW’s geproduceerd in Rusland in 2025",
@@ -174,7 +244,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/2-renault-avantime_ac_2_0_2_0_0_0_0_0_0_0_0.jpg",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/3-volvo-240_volvo_2_0_2_0_0_0_0_0_0_0_0.jpg"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -198,12 +268,7 @@
       "url": "https://carbuzz.com/porsche-911-closest-thing-to-a-hard-asset-on-four-wheels/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-porsche-911-carrera-headlight.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-porsche-911-carrera-headlight.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2025-porsche-911-carrera-t-formosa3.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2025-porsche-911-carrera-t-formosa4.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2025-porsche-911-carrera-t-formosa2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/323140_6000x4000.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/white-911-carrera-t-001-a1-00989.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-porsche-911-carrera-headlight.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -229,12 +294,7 @@
       "url": "https://www.hotcars.com/678-unit-bmw-shooting-brake-collectors-are-quietly-fighting-over/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/bmw-z3-m-coupe-teaser.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/bmw-z3-m-coupe-teaser.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/bmw-z3-m-coupe-rear.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2000_bmw_m-coupe_s52_engine_resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/z3-m-coupe-s54-engine-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/green-2000-bmw-m-coupe-side.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2000_bmw_m-coupe_img_6969-3-scaled.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/bmw-z3-m-coupe-teaser.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -376,7 +436,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2026-bmw-ix-m70-frozen-deep-grey-04-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T14:13:32+00:00"
     },
@@ -446,19 +506,6 @@
       "published": "2026-07-02T09:00:00+00:00"
     },
     {
-      "id": "857a038bf8213df5",
-      "title": "El nuevo BMW X5 ya tiene precios en España y sorprende por todo lo que incluye de serie",
-      "summary": "El quinto X5 de la historia cambia por completo, es más avanzado en todos los sentidos. BMW El nuevo BMW X5 no tardará mucho tiempo en llegar a los concesionarios. La marca alemana sabe que es una referencia en su categoría, y que tiene importantes rivales que se han actualizado, por lo que ya ha anunciado los precios de venta de dos motorizaciones. A pesar de tratarse de un modelo de lujo, el BMW X5 es uno de los más vendidos de la gama y de su categoría entre los SUV del segmento E. Una razón de peso para abrir los libros de pedidos de la quinta generación y asegurarse un importante…",
-      "url": "https://www.motor.es/noticias/precios-bmw-x5-2027-2026115077.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/07/precios-bmw-x5-2026115077-1782972007_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/07/precios-bmw-x5-2026115077-1782972007_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-07-02T07:00:00+00:00"
-    },
-    {
       "id": "c5a0a647dc53f563",
       "title": "Frozen Tanzanite Blue: Live-Fotos zeigen BMW iX5 G65 in mattem Blau",
       "summary": "Bisher zeigten alle Fotos die fünfte X5-Generation mit Metallic-Lack, aber bei einer Premieren-Veranstaltung in Bukarest war der G65 auch schon als BMW iX5 60 xDrive...",
@@ -493,7 +540,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-02T05:33:27+00:00"
     },
@@ -706,7 +753,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-lfa-2411_0_0_1_1_0_0_0.jpg?itok=K1vGxhdC"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-01T08:12:33+00:00"
     },
@@ -770,11 +817,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Tesla-Model-Y-L-Premium-Launch-Series-7-copy45fgrv-2048x1152.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/70884-rtp-9374-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/43grebfd-vcehbdf-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/31-2026-Honda-CR-V-Sport-Touring-Hybrid-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/3t4fgrved-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Slate-Canada-Jul22611-2048x1151.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Supr-Jul2261-2048x1151.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/3t4fgrved-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -802,7 +849,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-110-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-30T18:30:29+00:00"
     },
@@ -1012,6 +1059,19 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
+      "id": "0999aab7d79cf665",
+      "title": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
+      "summary": "The luxury SUV that first put the sport into sport utility is back with Neue Klasse design and five different powertrains",
+      "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
       "id": "0395f7d67e69a340",
       "title": "BMW Confirms Fifth-Generation X5 Will Have V-8 Power",
       "summary": "The transition to the Neue Klasse platform won't spoil the X5's eight-cylinder fun.",
@@ -1035,19 +1095,6 @@
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
-      "id": "0999aab7d79cf665",
-      "title": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
-      "summary": "The luxury SUV that first put the sport into sport utility is back with Neue Klasse design and five different powertrains",
-      "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
@@ -1163,7 +1210,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -1218,19 +1265,6 @@
       "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T12:27:57+00:00"
-    },
-    {
-      "id": "8e10a2cb9cec6419",
-      "title": "BMW X6 M60i Review: The Survivor",
-      "summary": "BMW's twin-turbocharged V8 SUV-coupé serves as a thunderous reminder of why some automotive indulgences are worth preserving",
-      "url": "https://motoringworld.in/car-reviews/bmw-x6-m60i-review-the-survivor/",
-      "image": "http://motoringworld.in/wp-content/uploads/2026/06/BMW-X6-9-505x336.png",
-      "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/06/BMW-X6-9-505x336.png"
-      ],
-      "source": "Motoring World IN",
-      "source_url": "https://www.motoringworld.in",
-      "published": "2026-06-29T11:43:28+00:00"
     },
     {
       "id": "19b0a1a478d78714",
@@ -1571,7 +1605,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1948,7 +1982,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
