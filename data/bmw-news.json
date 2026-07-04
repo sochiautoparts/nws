@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-04T12:14:53.862330+00:00",
-  "generated_at_human": "2026-07-04 12:14 UTC",
-  "total_items": 322,
+  "generated_at": "2026-07-04T14:44:36.072797+00:00",
+  "generated_at_human": "2026-07-04 14:44 UTC",
+  "total_items": 318,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
     "AutoWeek NL",
     "Autocar",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,25 +43,22 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
-    "CarBuzz",
     "CarExpert",
+    "CarScoops Alfa",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Porsche",
     "CarScoops Rolls",
-    "CarScoops Volvo",
     "ClassicCars Journal",
     "Electrek",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
     "InsideEVs",
+    "Jalopnik",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Technology",
@@ -76,9 +74,24 @@
     "Sports Car Digest",
     "What Car"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 10,
+  "sources_count": 69,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "e00392f0c35bbb44",
+      "title": "You Can Exhibit Famous BMW Art Cars On The New X5's Panoramic Vision Display, Because Why The Hell Not?",
+      "summary": "Sure, you can have BMW's fancy projected display show all sorts of relevant information, but you really want it to show a bunch of Art Car pictures instead.",
+      "url": "https://www.jalopnik.com/2206979/new-bmw-x5-panoramic-vision-display-famous-art-cars/",
+      "image": "https://www.jalopnik.com/img/gallery/you-can-display-famous-bmw-art-cars-on-the-new-x5s-panoramic-vision-display-because-why-the-hell-not/l-intro-1783011994.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/you-can-display-famous-bmw-art-cars-on-the-new-x5s-panoramic-vision-display-because-why-the-hell-not/l-intro-1783011994.jpg",
+        "https://www.jalopnik.com/img/gallery/you-can-display-famous-bmw-art-cars-on-the-new-x5s-panoramic-vision-display-because-why-the-hell-not/intro-1783011994.jpg",
+        "https://www.jalopnik.com/img/gallery/you-can-display-famous-bmw-art-cars-on-the-new-x5s-panoramic-vision-display-because-why-the-hell-not/art-cars-are-art-in-a-car-1783011996.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-07-04T12:25:00+00:00"
+    },
     {
       "id": "1bf9a2d57078d287",
       "title": "Lexus lanza un dardo a Porsche y Honda: \"Así se pierde dinero con los coches eléctricos\"",
@@ -194,39 +207,13 @@
       "published": "2026-07-03T23:34:00+00:00"
     },
     {
-      "id": "a8e215c840f0c884",
-      "title": "Original-Owner 1991 BMW 750iL at No Reserve",
-      "summary": "This 1991 BMW 750iL was purchased new by the current owner and shows 78k miles. Finished in Granite Gray Metallic over Light Silvergray leather, the car is powered by a 5.0-liter V12 paired with a four-speed automatic transmission. Equipment includes a sunroof, fog lights, 15\" Style 5 wheels, heated power-adjustable front seats, heated power-adjustable rear seats, a cassette stereo, cruise control, and automatic climate control. This E32 750iL is offered on dealer consignment in Florida at no reserve with the owner's manual, service records, a clean Carfax report, and a clean Connecticut…",
-      "url": "https://bringatrailer.com/listing/1991-bmw-750il-10/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/285-copy-2026-06-28-lck-05385.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/285-copy-2026-06-28-lck-05385.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-03T23:30:04+00:00"
-    },
-    {
-      "id": "da5846c2b5c3c338",
-      "title": "The All-New BMW X5 Doesn't Have A V8 Option, And Here's Why",
-      "summary": "With the all-new BMW X5 now out in the open, we learned it won't be offered with a V8. There's a good reason that this isn't the case.",
-      "url": "https://carbuzz.com/2027-bmw-x5-why-no-v8-option/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x5-main1.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x5-main1.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-03T22:32:11+00:00"
-    },
-    {
       "id": "3ccb06042622181f",
       "title": "DTM Norisring: McLaren ahead in practice, deficit for Porsche and BMW?",
       "summary": "A surprising result from Friday practice at the Norisring: Ben Dorr secured the fastest time of the day in his Dorr-McLaren under sunny skies and 24-degree temperatures, clocking a 48.793 - leaving him 0.326 seconds shy of Jordan Pepper's qualifying lap record from last year. Dorr's teammate Timo Glock (+0.374) finished in P14, outside the top group. The competition from Mercedes-AMG followed ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-practice-norisring-mclaren-ahead-problems-at-porsche-and-bmw/10836026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg"
+        "https://cdn-7.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -355,7 +342,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/11/bmw-z4-final-edition-04-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-03T10:46:06+00:00"
     },
@@ -451,7 +438,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_0.jpg?itok=r8A1yrjL"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -643,19 +630,6 @@
       "published": "2026-07-02T11:43:12+00:00"
     },
     {
-      "id": "8458ecc672390f3d",
-      "title": "Pick of the Day: Tupac Shakur’s 1996 BMW 750iL",
-      "summary": "The \"death car\" that will bring life to your garage",
-      "url": "https://journal.classiccars.com/2026/07/02/pick-of-the-day-tupac-shakurs-1996-bmw-750il/",
-      "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/1996-bmw-750iL-tupac-side.jpg",
-      "images": [
-        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/06/1996-bmw-750iL-tupac-side.jpg"
-      ],
-      "source": "ClassicCars Journal",
-      "source_url": "https://journal.classiccars.com",
-      "published": "2026-07-02T09:00:00+00:00"
-    },
-    {
       "id": "c5a0a647dc53f563",
       "title": "Frozen Tanzanite Blue: Live-Fotos zeigen BMW iX5 G65 in mattem Blau",
       "summary": "Bisher zeigten alle Fotos die fünfte X5-Generation mit Metallic-Lack, aber bei einer Premieren-Veranstaltung in Bukarest war der G65 auch schon als BMW iX5 60 xDrive...",
@@ -690,7 +664,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-02T05:33:27+00:00"
     },
@@ -1220,7 +1194,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -1737,19 +1711,6 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
-      "id": "765fd77e650ccdb6",
-      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
-      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
-      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-20T13:29:00+00:00"
-    },
-    {
       "id": "b4996f1a2fe99d3c",
       "title": "BMW can’t wait: i3 orders open months early as buyers rush in",
       "summary": "The new i3 is arriving sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest.",
@@ -1839,19 +1800,6 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
-    },
-    {
-      "id": "f75f6058af93399d",
-      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
-      "summary": "More proof that more is better. Much better.",
-      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "b2873bf42f04a2f6",
@@ -3050,7 +2998,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3167,7 +3115,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3183,6 +3131,19 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
@@ -3300,19 +3261,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -4181,7 +4129,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
