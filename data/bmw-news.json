@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-04T08:02:31.550336+00:00",
-  "generated_at_human": "2026-07-04 08:02 UTC",
-  "total_items": 324,
+  "generated_at": "2026-07-04T10:23:27.125643+00:00",
+  "generated_at_human": "2026-07-04 10:23 UTC",
+  "total_items": 323,
   "sources_used": [
     "5koleso RU",
-    "Auto Esporte Carros",
+    "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -48,17 +48,19 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
-    "CarScoops Alfa",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Porsche",
     "CarScoops Rolls",
+    "CarScoops Volvo",
     "ClassicCars Journal",
     "Crash.net",
     "Electrek",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor.es",
     "Motor1 BMW",
@@ -71,13 +73,49 @@
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering",
+    "Response JP",
     "Sports Car Digest",
-    "TopSpeed",
     "What Car"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 11,
+  "sources_count": 72,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "1fd3e2010ac1c874",
+      "title": "DTM Norisring: Pole for Thiim, disaster for Porsche and BMW",
+      "summary": "Pole position for Nicki Thiim in Saturday's DTM qualifying, which was split into two groups due to the short nature of the Norisring. The Dane clocked a 48.449-second lap to top the charts in Group B, which ran later and benefited from increased grip. As a result, Thiim will start ahead of Winward Mercedes driver Maro Engel, who set the pace in Group A with a time of 48.463 seconds. Driving the ... Keep reading",
+      "url": "https://www.motorsport.com/dtm/news/dtm-qualifying-norisring-1-pole-for-thiim-debacle-for-porsche-and-bmw/10836095/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+      "image": "https://cdn-3.motorsport.com/images/amp/qYKkvRbY/s6/dtm-qualifying-norisring-1-pole-fuer-thiim-pleite-fuer-porsche-und-bmw-26070401-2.jpg",
+      "images": [
+        "https://cdn-3.motorsport.com/images/amp/qYKkvRbY/s6/dtm-qualifying-norisring-1-pole-fuer-thiim-pleite-fuer-porsche-und-bmw-26070401-2.jpg",
+        "https://cdn-6.motorsport.com/images/amp/qYKkvRbY/s1000/dtm-qualifying-norisring-1-pole-fuer-thiim-pleite-fuer-porsche-und-bmw-26070401-2.webp",
+        "https://cdn-4.motorsport.com/images/amp/Q2jgQNgY/s300/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.webp",
+        "https://cdn-7.motorsport.com/images/amp/80ZkWd52/s300/klebeband-als-retter-so-wappnen-sich-dtm-teams-gegen-unsafe-releases-26070101.webp",
+        "https://cdn-2.motorsport.com/images/amp/56l4Qoj6/s300/riesenunterschied-dtm-massnahme-soll-norisring-boxenunfaelle-verhindern-26063001.webp",
+        "https://cdn-7.motorsport.com/images/amp/YN7wJM36/s300/christian-horner-2.webp"
+      ],
+      "source": "Motorsport All",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-07-04T09:32:29+00:00"
+    },
+    {
+      "id": "cd6ec58042291398",
+      "title": "『GRスープラ』やBMW、アルピナ向けOBD2接続型エキゾーストバルブコントローラー「MotorCom」発売",
+      "summary": "ユノストレーディングが、『BMW』『ALPINA』『GRスープラ』の一部車種向けに開発されたOBD2接続型エキゾーストバルブコントローラー「MotorCom（モーターコム）」の国内販売を、7月2日より開始した。",
+      "url": "https://response.jp/article/2026/07/04/413589.html",
+      "image": "https://response.jp/imgs/rss/2224439.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2224439.jpg",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224439.jpg",
+        "https://response.jp/imgs/sq_m_l1/2224439.jpg",
+        "https://response.jp/imgs/sq_m_l1/2224441.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-07-04T08:30:04+00:00"
+    },
     {
       "id": "2fa6bada82e0baec",
       "title": "Golfers Have One Shot At Winning This 2027 BMW X5 M60e",
@@ -131,7 +169,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/50556-26c0044-019.jpg?itok=MT0TgjON",
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/50518-26c0043-026.jpg?itok=GebV7fej"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-04T04:00:00+00:00"
     },
@@ -184,9 +222,9 @@
       "title": "DTM Norisring: McLaren ahead in practice, deficit for Porsche and BMW?",
       "summary": "A surprising result from Friday practice at the Norisring: Ben Dorr secured the fastest time of the day in his Dorr-McLaren under sunny skies and 24-degree temperatures, clocking a 48.793 - leaving him 0.326 seconds shy of Jordan Pepper's qualifying lap record from last year. Dorr's teammate Timo Glock (+0.374) finished in P14, outside the top group. The competition from Mercedes-AMG followed ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-practice-norisring-mclaren-ahead-problems-at-porsche-and-bmw/10836026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg"
+        "https://cdn-1.motorsport.com/images/amp/Q2jgQNgY/s6/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -250,19 +288,6 @@
       "published": "2026-07-03T18:48:23+00:00"
     },
     {
-      "id": "68d00c3af670ac20",
-      "title": "The Inline-Six Touring Bike That Just Became A Used-Market Bargain",
-      "summary": "The BMW K 1600 GTL has shed nearly 30% of its value in 3 years, making this flagship inline-six tourer a used-market bargain under $20k.",
-      "url": "https://www.topspeed.com/inline-six-touring-bike-used-market-bargain/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2022-bmw-k-1600-gtl-action-4.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2022-bmw-k-1600-gtl-action-4.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-07-03T18:45:20+00:00"
-    },
-    {
       "id": "b28e0a39f8794b8a",
       "title": "Uncertainty for Danilo Petrucci after reported BMW WorldSBK decision",
       "summary": "BMW has reportedly opted not to exercise its option to keep Danilo Petrucci for the 2027 WorldSBK season.",
@@ -282,14 +307,9 @@
       "url": "https://autoesporte.globo.com/carros/testes-de-carros/review/2026/07/teste-bmw-m4-competition-2027.ghtml",
       "image": "https://s2-autoesporte.glbimg.com/16WEb5y3WxqN0UXdIY9FiJObKwk=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/L/k/2aovkISVSfhwtn6Z8x5Q/bmw-m4-competition-2026-4.jpg",
       "images": [
-        "https://s2-autoesporte.glbimg.com/16WEb5y3WxqN0UXdIY9FiJObKwk=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/L/k/2aovkISVSfhwtn6Z8x5Q/bmw-m4-competition-2026-4.jpg",
-        "https://s2-autoesporte.glbimg.com/F8ia1Od9gmG5nRSLCCyjyxB49nw=/0x0:1920x1280/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/L/k/2aovkISVSfhwtn6Z8x5Q/bmw-m4-competition-2026-4.jpg",
-        "https://s2-autoesporte.glbimg.com/j85OR63DwUnBb7VLxj2WkV7AOJ0=/0x0:1920x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/Z/O/7T5LL3RAq8sPI3BAakgw/bmw-m4-competition-2026.jpg",
-        "https://s2-autoesporte.glbimg.com/6C5PHY69kXCRcDM_-Rj69IVt8-E=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/Z/O/7T5LL3RAq8sPI3BAakgw/bmw-m4-competition-2026.jpg",
-        "https://s2-autoesporte.glbimg.com/UPdJJr--4MGKRxMNyfGBKihMFCo=/0x0:1920x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/Z/O/7T5LL3RAq8sPI3BAakgw/bmw-m4-competition-2026.jpg",
-        "https://s2-autoesporte.glbimg.com/teRTdckdy-tl7ESc76FSiBH585I=/0x0:1920x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/Z/O/7T5LL3RAq8sPI3BAakgw/bmw-m4-competition-2026.jpg"
+        "https://s2-autoesporte.glbimg.com/16WEb5y3WxqN0UXdIY9FiJObKwk=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/L/k/2aovkISVSfhwtn6Z8x5Q/bmw-m4-competition-2026-4.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-03T14:27:13+00:00"
     },
@@ -455,7 +475,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_0.jpg?itok=r8A1yrjL"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -603,7 +623,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2026-bmw-ix-m70-frozen-deep-grey-04-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T14:13:32+00:00"
     },
@@ -694,7 +714,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-02T05:33:27+00:00"
     },
@@ -710,19 +730,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-02T05:29:19+00:00"
-    },
-    {
-      "id": "51655c392287393f",
-      "title": "BMW iX5 eerste elektrische BMW uit Amerika, miljardeninvestering afgerond",
-      "summary": "De komst van de nieuwe BMW X5 betekent voor de Amerikaanse BMW-fabriek in South Carolina ook belangrijk nieuws. De elektrische iX5 is namelijk de eerste elektrische BMW die in de VS wordt gebouwd.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/bmw-ix5-eerste-elektrische-bmw-uit-amerika-miljardeninvestering-afgerond/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/275417187/width/800/275417187",
-      "images": [
-        "https://images.autoweek.nl/275417187/width/800/275417187"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-02T05:09:29+00:00"
     },
     {
       "id": "7070da4e56018784",
@@ -801,19 +808,6 @@
       "source": "Hagerty Media",
       "source_url": "https://www.hagerty.com",
       "published": "2026-07-01T15:00:00+00:00"
-    },
-    {
-      "id": "ac8f9715e391aa39",
-      "title": "Dit is de BMW iX5 Hydrogen op waterstof",
-      "summary": "Dat BMW met een heuse waterstofversie komt van de nieuwe X5, doet hier en daar best wat wenkbrauwen fronsen. Maar de BMW iX5 Hydrogen komt er echt aan en om dat te onderstrepen, laat BMW hem ook alvast zien.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/dit-is-de-bmw-ix5-hydrogen-op-waterstof/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/275429899/width/800/275429899",
-      "images": [
-        "https://images.autoweek.nl/275429899/width/800/275429899"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-01T14:43:56+00:00"
     },
     {
       "id": "4068e8c40727c60e",
@@ -1429,6 +1423,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "0b2717a0852b8636",
       "title": "Marketplace: 1965 Elva Mark 8 BMW",
       "summary": "History 1965 Elva Mark 8 BMW 2.0 Liter sports racing cars were built by Elva Cars in Rye, Sussex, England in 1965 and 1966. Elva was in the midst of being purchased by McLaren so its Trojan division could use the Elva facilities to build the customer McLaren Can-Am cars. The Elva Mark 8 was tested and developed by Bruce McLaren and Chris Amon. It became a winning car in it’s class. This car was sold new to Bob Nagel […] The post Marketplace: 1965 Elva Mark 8 BMW appeared first on Sports Car Digest .",
@@ -1671,7 +1678,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2009,7 +2016,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3202,19 +3209,6 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
-      "id": "7916c0fbced4069a",
-      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
-      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
-      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
-      ],
-      "source": "CarScoops Alfa",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-25T14:54:00+00:00"
-    },
-    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3330,6 +3324,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -4198,7 +4205,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -4331,19 +4338,6 @@
       "source": "BMW Blog 6",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-06T19:09:27+00:00"
-    },
-    {
-      "id": "5491e98a9c7ce7fa",
-      "title": "BMW M Engineers Are Still Working On The Manual Gearbox",
-      "summary": "The glory days of manual gearboxes are long gone. Today, the vast majority of performance cars come with only two pedals. It’s only a matter of time before the few remaining models that let drivers... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/05/bmw-m-engineers-working-manual-gearbox/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/04/2023-bmw-m2-review-six-speed-manual-24-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2023/04/2023-bmw-m2-review-six-speed-manual-24-830x553.jpg"
-      ],
-      "source": "BMW Blog M tag",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-05T08:55:06+00:00"
     }
   ]
 }
