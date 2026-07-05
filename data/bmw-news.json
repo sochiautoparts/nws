@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-05T15:36:12.370427+00:00",
-  "generated_at_human": "2026-07-05 15:36 UTC",
-  "total_items": 322,
+  "generated_at": "2026-07-05T17:24:57.415099+00:00",
+  "generated_at_human": "2026-07-05 17:24 UTC",
+  "total_items": 321,
   "sources_used": [
-    "Auto Esporte Carros",
+    "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -46,11 +46,10 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
-    "CarScoops Ferrari",
     "CarScoops Mercedes",
+    "CarScoops Porsche",
     "CarScoops Rolls",
     "Diariomotor",
     "Electrek",
@@ -58,6 +57,7 @@
     "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
+    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Motor.es",
@@ -76,11 +76,65 @@
     "What Car"
   ],
   "sources_count": 70,
-  "multi_photo_items": 10,
+  "multi_photo_items": 13,
   "items": [
     {
-      "id": "e8f830f9d0e1c0c9",
-      "title": "Rusia fabrica BMW pirata con piezas abandonadas antes de la guerra: cuestan más de 130.000 euros, pero BMW no los reconoce",
+      "id": "c68ded4693adec80",
+      "title": "2027 BMW X5 M Confirmed With Twin-Turbo V8 Engine",
+      "summary": "BMW has confirmed its twin-turbo V8 continues into the 2027 X5 M and beyond, defying the luxury segment's shift toward smaller, electrified powertrains.",
+      "url": "https://www.topspeed.com/2027-bmw-x5-m-v8-confirmed/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/2026-bmw-m5-touring-11.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/04/honda-accord-hybrid-exterior-headlight-detail.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/edited-2026-subaru-ascent26_asc_gallery_ext_06.webp?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/image2.jpeg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-05T17:00:19+00:00"
+    },
+    {
+      "id": "84135e44c2669e79",
+      "title": "Tesla Model Y L vs. BMW X5, Kia EV9, Rivian R1S: Six Seats Enough?",
+      "summary": "The Tesla Model Y L launches at $61,990 with 325-mile range and six seats. Here's how it stacks up against true three-row rivals like the Kia EV9 and Rivian R1S.",
+      "url": "https://www.topspeed.com/tesla-model-y-l-three-row-comparison/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-badge.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-badge.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/tesla-model-y-l-9.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-rear.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/dl650xam4_action01.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/04/honda-accord-hybrid-exterior-headlight-detail.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-05T16:30:20+00:00"
+    },
+    {
+      "id": "70590380f29c4fe2",
+      "title": "10 Vintage Adventure Bikes Riders Quietly Hoard Today",
+      "summary": "From the KLR650 to the BMW R80 G/S, discover 10 collectible vintage adventure motorcycles with Dakar Rally pedigree still worth riding today.",
+      "url": "https://www.hotcars.com/vintage-adventure-bikes-riders-quietly-hoard-today/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/bmw-r80-g-s.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/bmw-r80-g-s.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/honda-xl600r-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/yamaha-xt600-te-ne-re.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/ktm-640-adventure.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/honda-xrv650-africa-twin.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/kawasaki-klr650.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-07-05T16:00:16+00:00"
+    },
+    {
+      "id": "1a42e521ff26edfa",
+      "title": "Rusia fabrica BMWs pirata con piezas abandonadas antes de la guerra: cuestan más de 130.000 euros, pero BMW no los reconoce",
       "summary": "BMW se fue de Rusia en 2022, pero en Rusia siguen apareciendo BMW nuevos. No son importaciones oficiales, ni coches fabricados por la marca alemana. Son algo bastante raro: coches ensamblados en Kaliningrado con piezas que quedaron abandonadas en la planta de Avtotor después de que BMW abandonase el país por la invasión de Ucrania. La historia parece absurda, pero es una rusada en toda regla. Para entenderlo, tenemos que remontarnos a 2022: cuando Rusia decidió invadir Ucrania, muchas empresas europeas -por no decir todas- se fueron del país que gobierna Putin. Las fábricas de coches…",
       "url": "https://www.diariomotor.com/noticia/bmw-piratas-fabricados-rusia/",
       "image": "https://www.diariomotor.com/imagenes/2026/07/bmw-x7-0948-6a4a4bac8f146.jpg?class=XL",
@@ -123,39 +177,13 @@
       "published": "2026-07-05T12:30:05+00:00"
     },
     {
-      "id": "4bdcfa583b9d5ba2",
-      "title": "Cadillac CT4 vs BMW 3 Series: The Sports Sedan You're Missing",
-      "summary": "The Cadillac CT4 offers RWD dynamics, Alpha platform handling, and a starting price of $37,795 — less than a base BMW 3 Series.",
-      "url": "https://www.topspeed.com/cadillac-ct4-sports-sedan-secret-bmw-buyers-miss/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/2026-cadillac-ct4.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/2026-cadillac-ct4.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-07-05T12:00:20+00:00"
-    },
-    {
-      "id": "9b7db7d83f21775c",
-      "title": "131 BaT Auctions Closing Today",
-      "summary": "No Reserve: 2,800-Mile 2007 Ford Mustang Shelby GT500 Super Snake Coupe 62-Years-Family-Owned 1961 Porsche 356B Notchback 39k-Mile 2003 Jeep Wrangler Sahara 4.0 11k-Mile 1986 Mercedes-Benz 560SL No Reserve: Tri-Power-Equipped 1965 Pontiac GTO Hardtop Coupe No Reserve: 1988 Toyota Supra No Reserve: 2004 BMW 330i ZHP Sedan 6-Speed No Reserve: Modified 1993 GMC Typhoon No Reserve: 2004 Toyota Land Cruiser UZJ100 49k-Mile 2006 Ford F-350 Super Duty Lariat Crew Cab Power Stroke 4×4 Dually Modified, 23k-Mile 2012 Chevrolet Camaro ZL1 Coupe 6-Speed 2022 Porsche Taycan 4 Cross Turismo 26k-Mile…",
-      "url": "https://bringatrailer.com/auctions/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/2007_ford_mustang-coupe_2007_ford_mustang-coupe_2645c8f7-56cf-4a38-beec-4d198e521020-I4lGhg-39528-39529-scaled-1-copy-2026-06-22-e2q-33650-scaled.jpg?w=310&#38;h=210&#38;crop=1",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/2007_ford_mustang-coupe_2007_ford_mustang-coupe_2645c8f7-56cf-4a38-beec-4d198e521020-I4lGhg-39528-39529-scaled-1-copy-2026-06-22-e2q-33650-scaled.jpg?w=310&#38;h=210&#38;crop=1"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-05T12:00:00+00:00"
-    },
-    {
       "id": "ada98dbece1a8797",
       "title": "DTM Qualifying Norisring: BMW and Porsche at the back again as Thiim takes next pole",
       "summary": "Even a change to the Balance of Performance (BoP) to the disadvantage of Aston Martin cannot stop Nicki Thiim on his favorite track: The Danish Comtoyou pilot secured pole position for Sunday's race at the Norisring after also topping the charts on Saturday. He achieved this despite running in Qualifying Group B, which was out earlier this time and faced less grip on the track. \"What a ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-qualifying-norisring-2-bmw-and-porsche-at-the-back-again-with-thiim-on-pole/10836472/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/rYEkdBP0/s6/dtm-qualifying-norisring-2-bmw-und-porsche-bei-thiim-pole-erneut-hinten-26070502-2.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/rYEkdBP0/s6/dtm-qualifying-norisring-2-bmw-und-porsche-bei-thiim-pole-erneut-hinten-26070502-2.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/rYEkdBP0/s6/dtm-qualifying-norisring-2-bmw-und-porsche-bei-thiim-pole-erneut-hinten-26070502-2.jpg"
+        "https://cdn-6.motorsport.com/images/amp/rYEkdBP0/s6/dtm-qualifying-norisring-2-bmw-und-porsche-bei-thiim-pole-erneut-hinten-26070502-2.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -199,32 +227,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-04T23:42:33+00:00"
-    },
-    {
-      "id": "46106ee97b2428f3",
-      "title": "2027 BMW X5 vs. Mercedes-Benz GLE: All-New Vs. Facelifted",
-      "summary": "The 2027 BMW X5 starts a new generation at $72,100, while the facelifted Mercedes GLE refines a proven formula. Which luxury SUV wins?",
-      "url": "https://carbuzz.com/2027-bmw-x5-vs-mercedes-benz-gle-comparison/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x5-mercedes-gle-comparison.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x5-mercedes-gle-comparison.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-04T23:09:12+00:00"
-    },
-    {
-      "id": "f5ce4107c7432c9e",
-      "title": "\"He’s not doing well\": Why Max Paul was unable to brake in horror crash",
-      "summary": "The horror accident between Grasser Lamborghini driver Maximilian Paul and Schubert BMW driver Kelvin van der Linde overshadowed the DTM Saturday race at the Norisring. Following the race, it was announced that Paul - whose Temerario GT3 was missing almost its entire front end - was admitted to the hospital with a suspected lower leg fracture. How is the 26-year-old from Dresden doing? \"Not ... Keep reading",
-      "url": "https://www.motorsport.com/dtm/news/hes-not-doing-well-why-paul-couldnt-brake-in-the-horror-crash/10836396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/J0r4MjqY/s6/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.jpg",
-      "images": [
-        "https://cdn-4.motorsport.com/images/amp/J0r4MjqY/s6/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-07-04T21:16:32+00:00"
     },
     {
       "id": "5c0b044e2e63984d",
@@ -300,7 +302,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/26c0063_001.jpg?itok=vX_TH5Fv"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-04T04:00:00+00:00"
     },
@@ -343,11 +345,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M3-Squared-1aaa-copy-1024x610.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M3-Squared-1aaa-copy-1024x610.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/5g4btrgf-gb-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/Alfa-Romeo-GT-ΙΙ-CarVibe-Red-2a-scaled-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Signature-Autosports-Meridian-911-1aaa-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Toyota-Land-Cruiser-Prado-Gold-2-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/2027-Mercedes-AMG-GT-SUV-Yellow-yb-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/awsdfawergaweger-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2027-Mercedes-AMG-GT-SUV-Yellow-yb-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -367,19 +369,6 @@
       "published": "2026-07-03T18:58:10+00:00"
     },
     {
-      "id": "854a70bed36c11da",
-      "title": "BMW desafía a toda la industria con el nuevo X5, la versión que llegará en 2027 no funciona como esperabas",
-      "summary": "El nuevo iX5 es un SUV eléctrico por doble, el primero de su categoría que no sólo apuesta por baterías. BMW BMW ya ha presentado sus nuevos X5 e iX5. El primero ya se ha puesto a la venta, el eléctrico aún tardará unos meses en llegar y otro tiempo más la versión que ha pasado desapercibida: el iX5 de hidrógeno con 750 km de autonomía llegará en 2027. BMW ya ha presentado la quinta generación de uno de sus modelos más lujosos. La marca alemana se estrenó en el mercado de los SUV en 1999 después de adquirir la antigua Rover y la marca de los todoterrenos para hacerse con los conocimientos…",
-      "url": "https://www.motor.es/noticias/bmw-x5-hidrogeno-2027-2026115121.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-2026115121-1783075790_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/07/bmw-2026115121-1783075790_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-07-03T18:48:23+00:00"
-    },
-    {
       "id": "a184b759e4ac572e",
       "title": "Teste: BMW M4 Competition tem 510 cv e se recusa a virar elétrico",
       "summary": "Existem coisas neste mundo que são para poucas pessoas. No setor automotivo, isso vale para alguns carros. É o caso do BMW M4 Competition que chegou ao Brasil e já pode ser reservado nas concessionárias da marca. Porém, antes de ir até uma delas, veja se o seu saldo bancário permite, pois a versão mais barata custa R$ 908.950. E, caso você escolha a configuração Competition Track, prepare o investimento milionário de R$ 1.015.950. Por esse valor, oferece uma exclusividade que cabe no bolso de poucos. Além disso, tem poucos concorrentes por aqui, batendo de frente com Mercedes-AMG C63 S E…",
@@ -388,7 +377,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/16WEb5y3WxqN0UXdIY9FiJObKwk=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/L/k/2aovkISVSfhwtn6Z8x5Q/bmw-m4-competition-2026-4.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-03T14:27:13+00:00"
     },
@@ -445,7 +434,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/11/bmw-z4-final-edition-04-830x467.jpg"
       ],
-      "source": "BMW Blog Z4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-03T10:46:06+00:00"
     },
@@ -528,7 +517,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_0.jpg?itok=r8A1yrjL"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -676,7 +665,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2026-bmw-ix-m70-frozen-deep-grey-04-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T14:13:32+00:00"
     },
@@ -754,7 +743,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-02T05:33:27+00:00"
     },
@@ -1120,6 +1109,19 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
+      "id": "0999aab7d79cf665",
+      "title": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
+      "summary": "The luxury SUV that first put the sport into sport utility is back with Neue Klasse design and five different powertrains",
+      "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
       "id": "0395f7d67e69a340",
       "title": "BMW Confirms Fifth-Generation X5 Will Have V-8 Power",
       "summary": "The transition to the Neue Klasse platform won't spoil the X5's eight-cylinder fun.",
@@ -1143,19 +1145,6 @@
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
-      "id": "0999aab7d79cf665",
-      "title": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
-      "summary": "The luxury SUV that first put the sport into sport utility is back with Neue Klasse design and five different powertrains",
-      "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
@@ -1424,6 +1413,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "0b2717a0852b8636",
       "title": "Marketplace: 1965 Elva Mark 8 BMW",
       "summary": "History 1965 Elva Mark 8 BMW 2.0 Liter sports racing cars were built by Elva Cars in Rye, Sussex, England in 1965 and 1966. Elva was in the midst of being purchased by McLaren so its Trojan division could use the Elva facilities to build the customer McLaren Can-Am cars. The Elva Mark 8 was tested and developed by Bruce McLaren and Chris Amon. It became a winning car in it’s class. This car was sold new to Bob Nagel […] The post Marketplace: 1965 Elva Mark 8 BMW appeared first on Sports Car Digest .",
@@ -1627,7 +1629,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1666,7 +1668,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2004,7 +2006,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2607,7 +2609,7 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg"
       ],
-      "source": "CarScoops Ferrari",
+      "source": "CarScoops Porsche",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-10T20:01:00+00:00"
     },
