@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-04T22:08:59.077929+00:00",
-  "generated_at_human": "2026-07-04 22:08 UTC",
-  "total_items": 316,
+  "generated_at": "2026-07-05T00:11:49.043770+00:00",
+  "generated_at_human": "2026-07-05 00:11 UTC",
+  "total_items": 321,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -44,6 +44,8 @@
     "BimmerToday DE",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -52,6 +54,7 @@
     "ClassicCars Journal",
     "Electrek",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
     "InsideEVs",
@@ -72,22 +75,61 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 67,
+  "sources_count": 70,
   "multi_photo_items": 10,
   "items": [
+    {
+      "id": "e955fca46b7218ec",
+      "title": "What Driving a 430-HP BMW ALPINA B12 6.0 Feels Like Today",
+      "summary": "You simply cannot get more BMW, or more power, in a luxury sedan than in the E38-generation ALPINA B12. In the late 1990s, this elegant, oversized machine from the Allgäu region offered the sportiest way... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/04/bmw-alpina-b12-6-0-e38-7-series-review/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/alpina-b12-6-liter-15-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/alpina-b12-6-liter-15-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-04T23:42:33+00:00"
+    },
+    {
+      "id": "46106ee97b2428f3",
+      "title": "2027 BMW X5 vs. Mercedes-Benz GLE: All-New Vs. Facelifted",
+      "summary": "The 2027 BMW X5 starts a new generation at $72,100, while the facelifted Mercedes GLE refines a proven formula. Which luxury SUV wins?",
+      "url": "https://carbuzz.com/2027-bmw-x5-vs-mercedes-benz-gle-comparison/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x5-mercedes-gle-comparison.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x5-mercedes-gle-comparison.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-bmw-x5-40-xdrive-exterior-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-bmw-x5-40-xdrive-exterior-6.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-mercedes-benz-gle-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-mercedes-benz-gle-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-bmw-ix5-60-xdrive-interior-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-04T23:09:12+00:00"
+    },
+    {
+      "id": "71636bee373d83d8",
+      "title": "Why BMW’s Shrinking Manual Lineup Is An Enthusiast Emergency",
+      "summary": "BMW M2 manual take rates are falling and BMW M's chief has cast doubt on the stick shift's future beyond the next few years.",
+      "url": "https://carbuzz.com/bmw-shrinking-manual-lineup-enthusiast-emergency/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-m3-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-m3-main.png"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-04T23:07:12+00:00"
+    },
     {
       "id": "f5ce4107c7432c9e",
       "title": "\"He’s not doing well\": Why Max Paul was unable to brake in horror crash",
       "summary": "The horror accident between Grasser Lamborghini driver Maximilian Paul and Schubert BMW driver Kelvin van der Linde overshadowed the DTM Saturday race at the Norisring. Following the race, it was announced that Paul - whose Temerario GT3 was missing almost its entire front end - was admitted to the hospital with a suspected lower leg fracture. How is the 26-year-old from Dresden doing? \"Not ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/hes-not-doing-well-why-paul-couldnt-brake-in-the-horror-crash/10836396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/J0r4MjqY/s6/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/J0r4MjqY/s6/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/J0r4MjqY/s6/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.jpg",
-        "https://cdn-9.motorsport.com/images/amp/J0r4MjqY/s1000/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.webp",
-        "https://cdn-9.motorsport.com/images/amp/qYKkvRbY/s300/dtm-qualifying-norisring-1-pole-fuer-thiim-pleite-fuer-porsche-und-bmw-26070401-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/Q2jgQNgY/s300/dtm-training-norisring-mclaren-voran-porsche-und-bmw-fehlt-topspeed-26070302.webp",
-        "https://cdn-6.motorsport.com/images/amp/80ZkWd52/s300/klebeband-als-retter-so-wappnen-sich-dtm-teams-gegen-unsafe-releases-26070101.webp",
-        "https://cdn-2.motorsport.com/images/mgl/Y99Ee3xY/s100/88-wrt-speedstar-audi-sport-au-1.webp"
+        "https://cdn-3.motorsport.com/images/amp/J0r4MjqY/s6/geht-ihm-nicht-gut-wieso-paul-beim-horrorcrash-nicht-bremsen-konnte-26070406.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -206,7 +248,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/26c0063_001.jpg?itok=vX_TH5Fv"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-04T04:00:00+00:00"
     },
@@ -249,11 +291,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M3-Squared-1aaa-copy-1024x610.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M3-Squared-1aaa-copy-1024x610.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Toyota-Land-Cruiser-Prado-Gold-2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/2027-Mercedes-AMG-GT-SUV-Yellow-yb-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/awsdfawergaweger-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-IX7-1-copyfff-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90648284_highRes_bmw-x5-hgbtrfg-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/HFAassist_updateimage-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/P90648284_highRes_bmw-x5-hgbtrfg-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -447,7 +489,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_0.jpg?itok=r8A1yrjL"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -673,7 +715,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-02T05:33:27+00:00"
     },
@@ -712,7 +754,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/spartanburg-plant-bmw-x5-17-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T02:34:04+00:00"
     },
@@ -1572,7 +1614,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1694,6 +1736,19 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
+    },
+    {
       "id": "b4996f1a2fe99d3c",
       "title": "BMW can’t wait: i3 orders open months early as buyers rush in",
       "summary": "The new i3 is arriving sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest.",
@@ -1783,6 +1838,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
+    },
+    {
+      "id": "f75f6058af93399d",
+      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
+      "summary": "More proof that more is better. Much better.",
+      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "b2873bf42f04a2f6",
@@ -2981,7 +3049,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3098,7 +3166,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -4099,7 +4167,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
