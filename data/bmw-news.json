@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-05T17:24:57.415099+00:00",
-  "generated_at_human": "2026-07-05 17:24 UTC",
-  "total_items": 321,
+  "generated_at": "2026-07-05T19:40:46.934251+00:00",
+  "generated_at_human": "2026-07-05 19:40 UTC",
+  "total_items": 315,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,10 +42,8 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -54,7 +52,6 @@
     "Diariomotor",
     "Electrek",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
@@ -64,10 +61,8 @@
     "Motor1 BMW",
     "Motor1 Technology",
     "Motor1 Volvo",
-    "MotorBeam IN",
     "Motoring World IN",
     "Motorious Classic",
-    "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering",
@@ -75,9 +70,22 @@
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 13,
+  "sources_count": 65,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "7e32f01e68698625",
+      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
+      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
+      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
+      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
+      "images": [
+        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-07-05T18:00:00+00:00"
+    },
     {
       "id": "c68ded4693adec80",
       "title": "2027 BMW X5 M Confirmed With Twin-Turbo V8 Engine",
@@ -103,12 +111,7 @@
       "url": "https://www.topspeed.com/tesla-model-y-l-three-row-comparison/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-badge.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-badge.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/tesla-model-y-l-9.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-rear.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/dl650xam4_action01.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/04/honda-accord-hybrid-exterior-headlight-detail.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/tesla-model-y-l-badge.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -152,42 +155,11 @@
       "url": "https://www.hotcars.com/sports-sedan-with-acura-reliability-and-m-car-handling/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2024/06/acura-tlx-type-s-15.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2024/06/acura-tlx-type-s-15.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/acura-legend-1993.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2024/06/acura-tlx-type-s-18.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2024/06/acura-tlx-type-s-13.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/2024-acura-tlx-type-s.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2024/06/acura-tlx-type-s-6.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2024/06/acura-tlx-type-s-15.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-07-05T14:00:16+00:00"
-    },
-    {
-      "id": "63f220d600e690aa",
-      "title": "2018 BMW M3 Competition Package",
-      "summary": "This 2018 BMW M3 sedan has 36k miles and was optioned with the Executive and Competition Packages. Powered by a twin-turbocharged 3.0-liter S55 inline-six paired with a seven-speed M DCT dual-clutch transmission, it is finished in Mineral White Metallic over Sakhir Orange Merino leather. Equipment includes an Active M differential, 20\" Style 666M alloy wheels, a carbon-fiber roof, Icon Adaptive LED headlights, heated front and rear seats, a heated steering wheel, a head-up display, Park Distance Control, a Harman Kardon sound system, Comfort Access keyless entry, and navigation. Purchased…",
-      "url": "https://bringatrailer.com/listing/2018-bmw-m3-54/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/a2_SdP_DSF2126_252822529-copy-2026-06-23-bwy-34758-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/a2_SdP_DSF2126_252822529-copy-2026-06-23-bwy-34758-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-05T12:30:05+00:00"
-    },
-    {
-      "id": "ada98dbece1a8797",
-      "title": "DTM Qualifying Norisring: BMW and Porsche at the back again as Thiim takes next pole",
-      "summary": "Even a change to the Balance of Performance (BoP) to the disadvantage of Aston Martin cannot stop Nicki Thiim on his favorite track: The Danish Comtoyou pilot secured pole position for Sunday's race at the Norisring after also topping the charts on Saturday. He achieved this despite running in Qualifying Group B, which was out earlier this time and faced less grip on the track. \"What a ... Keep reading",
-      "url": "https://www.motorsport.com/dtm/news/dtm-qualifying-norisring-2-bmw-and-porsche-at-the-back-again-with-thiim-on-pole/10836472/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/rYEkdBP0/s6/dtm-qualifying-norisring-2-bmw-und-porsche-bei-thiim-pole-erneut-hinten-26070502-2.jpg",
-      "images": [
-        "https://cdn-6.motorsport.com/images/amp/rYEkdBP0/s6/dtm-qualifying-norisring-2-bmw-und-porsche-bei-thiim-pole-erneut-hinten-26070502-2.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-07-05T09:06:09+00:00"
     },
     {
       "id": "42248dd4d273bbee",
@@ -302,7 +274,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/26c0063_001.jpg?itok=vX_TH5Fv"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-04T04:00:00+00:00"
     },
@@ -434,7 +406,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/11/bmw-z4-final-edition-04-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-03T10:46:06+00:00"
     },
@@ -517,7 +489,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_0.jpg?itok=r8A1yrjL"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -665,7 +637,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2026-bmw-ix-m70-frozen-deep-grey-04-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T14:13:32+00:00"
     },
@@ -733,19 +705,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-02T05:52:26+00:00"
-    },
-    {
-      "id": "6192e925be3dfddd",
-      "title": "Guilty Pleasures: The cars we have a soft spot for",
-      "summary": "We'd rather not tell anyone about this lot... but we can't resist Not all cars that are released are considered attractive or of a high standard. And that might well be true of some of the cars in this feature. But for all them there’s just something we can’t help but like . Let’s take a look: BMW iX Upon its release, people laughed at the iX because of its long rabbit-toothed ‘kidney grille’ design, bizarre trapezoid front body panels and the fact that it didn’t quite fit the image of “The Ultimate Driving Machine”. Be that as it may, the iX is very comfortable and packed with tech such…",
-      "url": "https://www.autocar.co.uk/car-news/slideshow/guilty-pleasures-cars-we-have-soft-spot",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0.jpg?itok=PlkxVeYf"
-      ],
-      "source": "Autocar",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-02T05:33:27+00:00"
     },
     {
       "id": "2c9bff77c109ebfd",
@@ -1006,19 +965,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-30T16:50:54+00:00"
-    },
-    {
-      "id": "632f941479885023",
-      "title": "2026 BMW X5 Revealed With Electric, Hydrogen, Hybrid & Petrol Powertrains",
-      "summary": "BMW has unveiled the fifth-generation X5, introducing a completely redesigned version of its flagship luxury SUV with a broader choice of powertrains, updated styling... The post 2026 BMW X5 Revealed With Electric, Hydrogen, Hybrid & Petrol Powertrains appeared first on MotorBeam .",
-      "url": "https://www.motorbeam.com/2026-bmw-x5-revealed-electric-hydrogen-hybrid-petrol/",
-      "image": "https://www.motorbeam.com/wp-content/uploads/2026-BMW-X5.jpg",
-      "images": [
-        "https://www.motorbeam.com/wp-content/uploads/2026-BMW-X5.jpg"
-      ],
-      "source": "MotorBeam IN",
-      "source_url": "https://motorbeam.com",
-      "published": "2026-06-30T16:18:56+00:00"
     },
     {
       "id": "fbfb6e6d23f230db",
@@ -1629,7 +1575,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1751,19 +1697,6 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
-      "id": "765fd77e650ccdb6",
-      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
-      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
-      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-20T13:29:00+00:00"
-    },
-    {
       "id": "b4996f1a2fe99d3c",
       "title": "BMW can’t wait: i3 orders open months early as buyers rush in",
       "summary": "The new i3 is arriving sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest.",
@@ -1853,19 +1786,6 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
-    },
-    {
-      "id": "f75f6058af93399d",
-      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
-      "summary": "More proof that more is better. Much better.",
-      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "b2873bf42f04a2f6",
@@ -2006,7 +1926,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3064,7 +2984,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3181,7 +3101,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3532,7 +3452,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
@@ -4182,7 +4102,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
@@ -4302,19 +4222,6 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-07T12:10:58+00:00"
-    },
-    {
-      "id": "4a7cb4b68791fbf5",
-      "title": "BMW Built One of Its Most Beautiful Cars Ever — Then Just Retired It",
-      "summary": "Go back to the Geneva Motor Show in March 2011. BMW is showing the new 6 Series coupe — the F13 — and if you were following the brand closely at the time, you’d have... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/06/bmw-6-series-f12-f13-f06-best-looking-bmw/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2015-BMW-6-Series-Gran-Coupe-29-750x500.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2015-BMW-6-Series-Gran-Coupe-29-750x500.jpg"
-      ],
-      "source": "BMW Blog 6",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-06T19:09:27+00:00"
     }
   ]
 }
