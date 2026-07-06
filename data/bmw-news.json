@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-05T23:15:22.930807+00:00",
-  "generated_at_human": "2026-07-05 23:15 UTC",
-  "total_items": 315,
+  "generated_at": "2026-07-06T04:25:33.332487+00:00",
+  "generated_at_human": "2026-07-06 04:25 UTC",
+  "total_items": 320,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -43,16 +43,17 @@
     "BimmerToday DE",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Porsche",
     "CarScoops Rolls",
-    "CarScoops Volvo",
     "Diariomotor",
     "Electrek",
     "Electrek BMW",
     "Electrek BMW iX",
+    "Gaadiwaadi IN",
     "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
@@ -66,14 +67,91 @@
     "Motorious Classic",
     "Motorsport WEC",
     "Paul Tan",
+    "Quatro Rodas BR",
     "Racecar Engineering",
+    "Response JP",
     "Sports Car Digest",
     "TopSpeed",
     "What Car"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 10,
+  "sources_count": 69,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "606f0f40ea4e74b0",
+      "title": "BMW『7シリーズ』改良新型、生産開始…既存モデルに「ノイエ・クラッセ」技術を初導入",
+      "summary": "・BMWが7シリーズ改良新型を、独ディンゴルフィング工場で生産開始 ・Neue Klasseの技術を導入し、2027年末までに40車種へ展開する計画だ ・第6世代の円筒セル電池や、デュアル仕上げ塗装、AI検査などを採用した",
+      "url": "https://response.jp/article/2026/07/06/413638.html",
+      "image": "https://response.jp/imgs/rss/2224867.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2224867.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-07-06T03:00:03+00:00"
+    },
+    {
+      "id": "795025d449c036c3",
+      "title": "Full details on radical 'saloon' successor to Range Rover Velar",
+      "summary": "Autocar rendering showcases the Velar replacement's segment-straddling shape Velar will be reborn as a rakish crossover to rival BMW iX3 and Mercedes-Benz GLC Range Rover is poised to unwrap one of its most crucial models in years as it looks to take on the BMW iX3 , Mercedes-Benz GLC and Volvo EX60 with a sleek new electric SUV that will replace the Velar and the brand has confirmed a combustion version will follow. The upcoming crossover is at an advanced stage of testing and is tipped for a debut within the next six months. It will arrive as part of a wave of models that will end a long…",
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/full-details-radical-saloon-successor-range-rover-velar",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/range_rover_velar_render_2026.jpg?itok=RA3oO0n2",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/range_rover_velar_render_2026.jpg?itok=RA3oO0n2",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/range_rover_velar_render_2026.jpg?itok=6uPoova0",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/range_rover_velar_rear_render_2026.jpg?itok=OsOjAoMY",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/flexslider_thumbnail/public/images/car-reviews/first-drives/legacy/range_rover_velar_render_2026.jpg?itok=Jmp9LFow",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/flexslider_thumbnail/public/images/car-reviews/first-drives/legacy/range_rover_velar_rear_render_2026.jpg?itok=IPUWTN7w",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png"
+      ],
+      "source": "Autocar BMW M",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-07-06T03:00:00+00:00"
+    },
+    {
+      "id": "3a1dc775b62668b6",
+      "title": "Luxury EV Sales June 2026 – BMW Leads As Tesla, Merc, Volvo, Porsche & Audi",
+      "summary": "GaadiWaadi - Luxury electric vehicle registrations more than doubled in June 2026 as BMW held a commanding lead over Mercedes-Benz in India The luxury EV space recorded another appreciable month in June 2026 with registrations climbing to 804 units compared to 391 units recorded in the same month last year. The category expanded by 105.6 per cent […] The post Luxury EV Sales June 2026 – BMW Leads As Tesla, Merc, Volvo, Porsche & Audi appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
+      "url": "https://gaadiwaadi.com/luxury-ev-sales-june-2026-bmw-leads-as-tesla-merc-volvo-porsche-audi/",
+      "image": "https://gaadiwaadi.com/wp-content/uploads/2023/01/2023-BMW-i7.jpg",
+      "images": [
+        "https://gaadiwaadi.com/wp-content/uploads/2023/01/2023-BMW-i7.jpg"
+      ],
+      "source": "Gaadiwaadi IN",
+      "source_url": "https://gaadiwaadi.com",
+      "published": "2026-07-06T02:30:00+00:00"
+    },
+    {
+      "id": "3e46d65aab17bd3a",
+      "title": "Giti Tire – now in top 10 most valuable tyre brands in the world, OE fitment on 80 plus models in Malaysia",
+      "summary": "While Giti Tire is building a broader retail familiarity in Malaysia, globally, the brand is already trusted by some of the automotive industry’s most demanding manufacturers. From Tesla and BMW to BYD, Proton and Zeekr, Giti tyres are already fitted as original equipment (OE) on vehicles driven by millions worldwide, […] The post Giti Tire – now in top 10 most valuable tyre brands in the world, OE fitment on 80 plus models in Malaysia appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/06/giti-tire-now-in-top-10-most-valuable-tyre-brands-in-the-world-oe-fitment-on-80-plus-models-in-malaysia/",
+      "image": "https://paultan.org/image/2026/07/Article-Main-KV-Giti-Leaflet-EV-Landscape-3-MY.jpg-630x445.jpeg",
+      "images": [
+        "https://paultan.org/image/2026/07/Article-Main-KV-Giti-Leaflet-EV-Landscape-3-MY.jpg-630x445.jpeg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-06T01:39:13+00:00"
+    },
+    {
+      "id": "0d6fea5875188692",
+      "title": "BMW M3 E30: como o sedã de corrida se tornou um dos carros mais valorizados da marca",
+      "summary": "Criado para homologação nas pistas, o primeiro M3 tem motor girador e dinâmica apurada e definiu a divisão Motorsport com requinte e desempenho",
+      "url": "https://quatrorodas.abril.com.br/carros-classicos/bmw-m3-e30-o-santo-graal/",
+      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd94qr-681-classicos-m3-01-tif.jpeg",
+      "images": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd94qr-681-classicos-m3-01-tif.jpeg",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd96qr-681-classicos-m3-02-tif.jpeg?quality=70&strip=all&strip=all&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd98qr-681-classicos-m3-03-tif.jpeg?quality=70&strip=all&strip=all&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd9eqr-681-classicos-m3-06-tif.jpeg?quality=70&strip=all&strip=all&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd9cqr-681-classicos-m3-05-tif.jpeg?quality=70&strip=all&strip=all&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/575f31600e216345750bcd9aqr-681-classicos-m3-04-tif.jpeg?quality=70&strip=all&strip=all&w=1024&crop=1"
+      ],
+      "source": "Quatro Rodas BR",
+      "source_url": "https://quatrorodas.abril.com.br",
+      "published": "2026-07-06T01:30:17+00:00"
+    },
     {
       "id": "d01d82597a990bb1",
       "title": "BMW X2 Facelift 2027: Erlkönig-Fotos deuten Neue Klasse-Look an",
@@ -314,7 +392,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/26c0063_001.jpg?itok=vX_TH5Fv"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-04T04:00:00+00:00"
     },
@@ -441,14 +519,14 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/11/bmw-z4-final-edition-04-830x467.jpg"
       ],
-      "source": "BMW Blog Z4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-03T10:46:06+00:00"
     },
     {
       "id": "165def92efe71c2f",
       "title": "2027 model year update for BMW Motorrad – M 1000 RR gets new, lighter frame, track package for ‘M’ bikes",
-      "summary": "A host of updates for its 2027 BMW Motorrad motorcycle lineup, with new equipment packages, revised styling, expanded factory options and technical enhancements across its sport, touring and roadster ranges. The updated models will be […] The post 2027 model year update for BMW Motorrad – M 1000 RR gets new, lighter frame, track package for ‘M’ bikes appeared first on Paul Tan's Automotive News .",
+      "summary": "A host of updates for its 2027 BMW Motorrad motorcycle lineup, with new equipment packages, revised styling, expanded factory options and technical enhancements across its sport, touring and roadster ranges. The updated models will be available to order from all BMW Motorrad dealerships beginning August 2026. Most significant change is […] The post 2027 model year update for BMW Motorrad – M 1000 RR gets new, lighter frame, track package for ‘M’ bikes appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/07/03/2027-model-year-update-for-bmw-motorrad-m-1000-rr-gets-new-lighter-frame-track-package-for-m-bikes/",
       "image": "https://paultan.org/image/2026/07/P90646810_highRes-e1783074874431-630x443.jpg",
       "images": [
@@ -524,7 +602,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_0.jpg?itok=r8A1yrjL"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-03T04:28:02+00:00"
     },
@@ -844,19 +922,6 @@
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
       "published": "2026-07-01T11:24:48+00:00"
-    },
-    {
-      "id": "45df4844b000d082",
-      "title": "2027 BMW X5 Unveiled",
-      "summary": "Now gets electric, hybrid and hydrogen powertrains",
-      "url": "https://motoringworld.in/news/2027-bmw-x5-unveiled/",
-      "image": "http://motoringworld.in/wp-content/uploads/2026/07/X5-505x336.png",
-      "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/07/X5-505x336.png"
-      ],
-      "source": "Motoring World IN",
-      "source_url": "https://www.motoringworld.in",
-      "published": "2026-07-01T09:03:28+00:00"
     },
     {
       "id": "dc2a65cca6d1928b",
@@ -1693,6 +1758,19 @@
       "published": "2026-06-20T15:07:53+00:00"
     },
     {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
+    },
+    {
       "id": "b4996f1a2fe99d3c",
       "title": "BMW can’t wait: i3 orders open months early as buyers rush in",
       "summary": "The new i3 is arriving sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest.",
@@ -1782,6 +1860,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-18T14:47:09+00:00"
+    },
+    {
+      "id": "f75f6058af93399d",
+      "title": "Driven: 2000 BMW M5 Is a Four-Door German Corvette",
+      "summary": "More proof that more is better. Much better.",
+      "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3cd31070-b1da-4d02-81d4-addaae497c94.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-18T14:39:00+00:00"
     },
     {
       "id": "b2873bf42f04a2f6",
@@ -1922,7 +2013,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3217,19 +3308,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
