@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-08T00:10:20.114834+00:00",
-  "generated_at_human": "2026-07-08 00:10 UTC",
-  "total_items": 302,
+  "generated_at": "2026-07-08T04:27:47.950021+00:00",
+  "generated_at_human": "2026-07-08 04:27 UTC",
+  "total_items": 307,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,11 +37,14 @@
     "BMW Blog i5",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
+    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarExpert",
+    "CarScoops",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Porsche",
@@ -51,8 +54,8 @@
     "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
-    "Jalopnik",
     "Kolesa RU",
     "Motor.es",
     "Motor1 BMW",
@@ -62,12 +65,11 @@
     "Motoring Research",
     "Motorious Classic",
     "Motorsport WEC",
-    "Paul Tan",
     "Racecar Engineering",
     "RushLane IN",
     "Sports Car Digest"
   ],
-  "sources_count": 62,
+  "sources_count": 64,
   "multi_photo_items": 11,
   "items": [
     {
@@ -84,7 +86,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-6-2048x1536.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-42-2048x1384.jpg"
       ],
-      "source": "CarScoops BMW",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-07-07T23:39:00+00:00"
     },
@@ -193,19 +195,6 @@
       "published": "2026-07-07T13:18:04+00:00"
     },
     {
-      "id": "0f708864f32f294f",
-      "title": "At $5,700, Is This 'Meticulously Maintained' 2005 BMW X3 A Banner Bargain?",
-      "summary": "It has over 250,000 miles on the odometer, but this X3 also has a rare six-speed manual. Does that make it desirable enough to justify a $5,700 price tag?",
-      "url": "https://www.jalopnik.com/2208837/2005-bmw-x3-for-sale-5700/",
-      "image": "https://www.jalopnik.com/img/gallery/at-5700-is-this-meticulously-maintained-2005-bmw-x3-a-banner-bargain/l-intro-1783359031.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/at-5700-is-this-meticulously-maintained-2005-bmw-x3-a-banner-bargain/l-intro-1783359031.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-07-07T12:25:00+00:00"
-    },
-    {
       "id": "16bbae13f0502dd8",
       "title": "A Standard BMW M2 Beat The CS With No Extra Power, Just $27K In Parts",
       "summary": "A standard M2 just out-lapped the halo M2 CS, proving BMW's own parts catalog can dethrone its most expensive small M car",
@@ -258,7 +247,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/tim_260702_50057_v01_16x9_v2_1.jpg?itok=fWC41RP1"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-07T07:56:00+00:00"
     },
@@ -315,7 +304,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-uk_ac_1_0_2_0_0_0_0_0_0_0_1.jpg?itok=rE4PV6eD"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-07T05:28:24+00:00"
     },
@@ -362,19 +351,6 @@
       "source": "Motor.es",
       "source_url": "https://www.motor.es",
       "published": "2026-07-07T05:00:00+00:00"
-    },
-    {
-      "id": "c100f3fcb9bcc678",
-      "title": "PM department says Anwar’s BMW 7 Series Protection is temporary; Merc S580e fr Agong under maintenance",
-      "summary": "The Malaysian prime minister’s department (JPM) has released a statement regarding the use of a BMW 7 Series Protection by prime minister Anwar Ibrahim. In it, the agency stated that the armoured vehicle was not […] The post PM department says Anwar’s BMW 7 Series Protection is temporary; Merc S580e fr Agong under maintenance appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/07/pm-department-says-anwars-bmw-7-series-protection-is-temporary-merc-s580e-fr-agong-under-maintenance/",
-      "image": "https://paultan.org/image/2026/07/BMW-7-Series-Protection-PMX-Anwar-Ibrahim-5-630x354.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/BMW-7-Series-Protection-PMX-Anwar-Ibrahim-5-630x354.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-07T02:45:47+00:00"
     },
     {
       "id": "1029c66409b221df",
@@ -541,7 +517,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/range_rover_velar_render_2026.jpg?itok=RA3oO0n2"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-06T03:00:00+00:00"
     },
@@ -588,6 +564,19 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-05T19:43:25+00:00"
+    },
+    {
+      "id": "7e32f01e68698625",
+      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
+      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
+      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
+      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
+      "images": [
+        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-07-05T18:00:00+00:00"
     },
     {
       "id": "42248dd4d273bbee",
@@ -1081,6 +1070,19 @@
       "published": "2026-06-30T19:19:00+00:00"
     },
     {
+      "id": "60f53f84f68109c1",
+      "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
+      "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
+      "url": "https://www.bikeexif.com/powerbricks-harley-davidson-lowrider-s-cafe-racer",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-30T18:00:00+00:00"
+    },
+    {
       "id": "322d07dc9c90204a",
       "title": "BMW iX5 vs iX3 Photo Comparison: Neue Klasse, Two Sizes",
       "summary": "It has been half a decade since BMW launched its first SUV, the BMW iX. Today, BMW launches their third electric SUV ever, the iX5, which will run concurrent with the iX3 to satisfy most,... First published by https://www.bmwblog.com",
@@ -1421,6 +1423,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "0b2717a0852b8636",
       "title": "Marketplace: 1965 Elva Mark 8 BMW",
       "summary": "History 1965 Elva Mark 8 BMW 2.0 Liter sports racing cars were built by Elva Cars in Rye, Sussex, England in 1965 and 1966. Elva was in the midst of being purchased by McLaren so its Trojan division could use the Elva facilities to build the customer McLaren Can-Am cars. The Elva Mark 8 was tested and developed by Bruce McLaren and Chris Amon. It became a winning car in it’s class. This car was sold new to Bob Nagel […] The post Marketplace: 1965 Elva Mark 8 BMW appeared first on Sports Car Digest .",
@@ -1603,6 +1618,19 @@
       "published": "2026-06-22T18:01:37+00:00"
     },
     {
+      "id": "684514cadb9df570",
+      "title": "Bavarian Bliss: Our 7 Favorite Custom Motorcycles from the BMW MOA Builder's Best Show",
+      "summary": "For over half a century, the BMW Motorcycle Owners of America has served as the...",
+      "url": "https://www.bikeexif.com/7-favorite-custom-motorcycles-from-the-bmw-moa-builders-best-show",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-22T18:00:00+00:00"
+    },
+    {
       "id": "639d80f45c19fd8f",
       "title": "The New X1 Wears BMW’s Future Face, But Keeps Its Old Bones (Renders)",
       "summary": "The facelifted X1 borrows its face from the iX3 and i3 sedan, but the platform and engine lineup carry straight over",
@@ -1655,6 +1683,19 @@
       "published": "2026-06-21T18:26:33+00:00"
     },
     {
+      "id": "53d7d0180565ec28",
+      "title": "Black and Gold: FCR Original's BMW R12 Classic Scrambler",
+      "summary": "Regular readers of Bike EXIF needed no formal introduction to FCR Original. Oper...",
+      "url": "https://www.bikeexif.com/fcr-originals-bmw-r12-classic-scrambler",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/FCR-Original-BMW-R12-Classic-6.jpg?v=1781193794",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/FCR-Original-BMW-R12-Classic-6.jpg?v=1781193794"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-21T18:00:00+00:00"
+    },
+    {
       "id": "3896c56c8a952dfe",
       "title": "The Man Who Approved the BMW 1M Kept the Rarest One",
       "summary": "Wheels & Weisswurst is not a normal car show. Show up at BMW Group Classic’s Munich headquarters on Moosacher Strasse on one of the first or third Saturdays between May and September, and the reward... First published by https://www.bmwblog.com",
@@ -1668,6 +1709,19 @@
       "published": "2026-06-21T17:39:23+00:00"
     },
     {
+      "id": "4c5cfa97f94a25bc",
+      "title": "Rising from the Ashes: Hellgate Moto’s BMW K1100RS",
+      "summary": "If you happen to find yourself on the North Shore of Long Island, weaving throug...",
+      "url": "https://www.bikeexif.com/hellgate-motos-bmw-k1100rs",
+      "image": "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063",
+      "images": [
+        "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-20T18:00:00+00:00"
+    },
+    {
       "id": "0b47c5876be6b9b5",
       "title": "This €370,000 Zagato Is Secretly a BMW M4 With 602 HP – First Drive",
       "summary": "The Bovensiepen Zagato is not exactly what you’d call attainable. Only 99 will ever be built, and Bovensiepen says production will be capped at 30 cars per year. In Europe, they will cost €310,000; when... First published by https://www.bmwblog.com",
@@ -1679,6 +1733,19 @@
       "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-20T15:07:53+00:00"
+    },
+    {
+      "id": "765fd77e650ccdb6",
+      "title": "1997 Luxury Sedans Compared: Different Approaches to Luxury",
+      "summary": "A new answer to the age-old question: Can anyone top the Germans? The Infiniti Q45t and Lexus LS400 take on the BMW 540i and Mercedes-Benz E420.",
+      "url": "https://www.caranddriver.com/reviews/a71547685/1997-bmw-540i-infiniti-q45t-lexus-ls400-mercedes-benz-e420-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d8efdc9f-6a18-4ddc-8cad-b740754f052e.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-20T13:29:00+00:00"
     },
     {
       "id": "b4996f1a2fe99d3c",
@@ -1884,7 +1951,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
