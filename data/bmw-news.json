@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-08T23:21:39.430415+00:00",
-  "generated_at_human": "2026-07-08 23:21 UTC",
-  "total_items": 310,
+  "generated_at": "2026-07-09T04:10:08.636575+00:00",
+  "generated_at_human": "2026-07-09 04:10 UTC",
+  "total_items": 311,
   "sources_used": [
     "5koleso RU",
     "Autocar BMW",
@@ -10,7 +10,6 @@
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
-    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 6",
     "BMW Blog 7 tag",
@@ -41,17 +40,20 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
-    "CarScoops",
+    "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Porsche",
     "CarScoops Rolls",
+    "CarScoops Volvo",
     "Diariomotor",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
@@ -67,13 +69,51 @@
     "Motorious Classic",
     "Motorsport WEC",
     "Racecar Engineering",
-    "Response JP",
     "RushLane IN",
     "Sports Car Digest"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 13,
+  "sources_count": 67,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "43046650702d25d8",
+      "title": "Lexus UX production set to end, replacement plans unclear – report",
+      "summary": "The Japanese luxury brand's hybrid-powered rival for the BMW X1 and Audi Q3 small SUVs is reportedly ending production in February 2027.",
+      "url": "https://www.carexpert.com.au/car-news/lexus-ux-production-set-to-end-replacement-plans-unclear-report",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-lexus-ux300h-shining-essence-2.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2026-lexus-ux300h-shining-essence-2.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-07-09T03:11:54+00:00"
+    },
+    {
+      "id": "c6aba5756b033ddf",
+      "title": "Любил одно, купил другое: опыт владения BMW M5 F90",
+      "summary": "Многие поклонники баварской марки считают M5 седьмого поколения едва ли не лучшим из того, что создала компания BMW за долгие годы. Трудно поверить, но этот автомобиль его нынешний владелец предпочел куда более культовому Porsche 911 и ни разу об этом не пожалел.",
+      "url": "https://www.kolesa.ru/test-drive/liubil-odno-kupil-drugoe-opyt-vladeniia-bmw-m5-f90",
+      "image": "https://kolesa-uploads.ru/-/59634520-5053-4844-9825-5b43f8d13191/l71a0073.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/59634520-5053-4844-9825-5b43f8d13191/l71a0073.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-07-09T03:00:00+00:00"
+    },
+    {
+      "id": "03df8814fea73621",
+      "title": "2007 BMW Z4 M Coupe",
+      "summary": "This 2007 BMW Z4 M Coupe was purchased new by the seller's family friend, and the seller purchased it from the original owner in 2024 and has added 1k of the 70k indicated miles. Finished in Interlagos Blue Metallic over Black Nappa leather, the car is powered by a 3.2-liter S54 inline-six paired with a six-speed manual transmission and a limited-slip differential. Equipment includes 18\" Style 224M wheels, heated power-adjustable Sport seats, Carbon Structure Leather trim, and xenon headlights. This Z4 M Coupe is now offered with service records dating back to 2019, a clean Carfax report,…",
+      "url": "https://bringatrailer.com/listing/2007-bmw-z4-m-coupe-170/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/edited-8-copy-2026-06-30-26u-scaled-88445.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/edited-8-copy-2026-06-30-26u-scaled-88445.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-08T23:25:25+00:00"
+    },
     {
       "id": "ce073b9b5fa88cfa",
       "title": "Alpina's Hand-Built 500-HP Supercharged 7 Series Is Extremely Ugly, But Super Cheap",
@@ -106,7 +146,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/2027-Audi-e-tron-GT-708-2-2048x2037.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/2027-Audi-A8-708-2-1894x2048.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Audi",
       "source_url": "https://www.carscoops.com",
       "published": "2026-07-08T21:43:00+00:00"
     },
@@ -117,12 +157,7 @@
       "url": "https://barnfinds.com/bf-auction-one-family-1981-bmw-528i/",
       "image": "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-1-630x390.jpeg",
       "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-1-630x390.jpeg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-42-630x390.jpeg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-8-630x390.jpeg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-16-630x390.jpeg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-22-630x390.jpeg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-43-e1783527996831-630x390.jpeg"
+        "https://barnfinds.com/wp-content/uploads/2026/07/1981-BMW-528i-1-630x390.jpeg"
       ],
       "source": "BarnFinds",
       "source_url": "https://barnfinds.com",
@@ -205,11 +240,7 @@
       "url": "https://www.rushlane.com/electric-car-sales-june-2026-tata-mahindra-mg-maruti-vinfast-byd-bmw-12550588.html",
       "image": "https://www.rushlane.com/wp-content/uploads/2026/03/new-tata-punch-ev-waiting-period-1.jpeg",
       "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/03/new-tata-punch-ev-waiting-period-1.jpeg",
-        "https://www.rushlane.com/wp-content/uploads/2026/07/electric-car-sales-june-2026-2-768x632.jpeg",
-        "https://www.rushlane.com/wp-content/uploads/2026/07/electric-car-sales-june-2026-1-768x631.jpeg",
-        "https://www.rushlane.com/wp-content/uploads/2026/07/electric-car-sales-q2-2026-768x628.jpeg",
-        "https://www.rushlane.com/wp-content/uploads/2026/07/car-sales-fuel-wise-june-2026-856x420.jpeg"
+        "https://www.rushlane.com/wp-content/uploads/2026/03/new-tata-punch-ev-waiting-period-1.jpeg"
       ],
       "source": "RushLane IN",
       "source_url": "https://rushlane.com",
@@ -227,19 +258,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-08T11:42:42+00:00"
-    },
-    {
-      "id": "b51e3964b31d28be",
-      "title": "「MotoGPには、いつか参戦する」BMWモトラッド首脳が語る…「鈴鹿8耐」表彰台は通過点、次なる野望とは",
-      "summary": "BMWモトラッドが鈴鹿8耐の歴史を変えた。2026年7月に開催された「第47回 鈴鹿8時間耐久ロードレース」で、BMWモトラッドのファクトリーチーム「BMW MOTORRAD WORLD ENDURANCE TEAM」が総合3位を獲得。",
-      "url": "https://response.jp/article/2026/07/08/413772.html",
-      "image": "https://response.jp/imgs/rss/2225620.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2225620.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-07-08T10:00:03+00:00"
     },
     {
       "id": "57b28d20869ed6bf",
@@ -478,19 +496,6 @@
       "published": "2026-07-07T12:07:00+00:00"
     },
     {
-      "id": "8bcd421e3109d3f4",
-      "title": "BMW M2 обновил рекорд Нюрбургринга благодаря трековому пакету",
-      "summary": "BMW M2 поколения G87 улучшил собственный рекорд Нюрбургринга в классе компактных автомобилей с помощью недавно представленного комплекта деталей M Performance Track Kit: новое лучшее время на Северной петле — 7 мин 25,068 с.",
-      "url": "https://www.kolesa.ru/news/bmw-m2-obnovil-rekord-niurburgringa-blagodaria-trekovomu-paketu",
-      "image": "https://kolesa-uploads.ru/-/4ac4f774-3633-4c6f-b9d3-1833b6ca54af/0-0.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/4ac4f774-3633-4c6f-b9d3-1833b6ca54af/0-0.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-07-07T09:47:13+00:00"
-    },
-    {
       "id": "083d976a494d7fac",
       "title": "New Polestar 4 SUV to launch on 2 September as 536bhp iX3 rival",
       "summary": "'More versatile' version of electric family SUV brings a traditional rear window and nearly 400 miles of range Polestar will launch a new, more upright version of its 4 crossover on 2 September to rival the BMW iX3 and Mercedes-Benz GLC Electric . The Polestar 4 SUV will place a greater emphasis on \"flexibility and practicality\", the company said as it released a new official preview image, with \"versatile storage capabilities for every journey\". Autocar first reported on plans for the new 4 variant in February, when Polestar CEO Michael Lohscheller referred to it as “combining the space…",
@@ -611,19 +616,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-07T01:50:40+00:00"
-    },
-    {
-      "id": "bf6495f0eb2fe8e9",
-      "title": "Bootleg BMWs are being produced in Russia from leftover parts",
-      "summary": "BMW quit Russia after it invaded Ukraine, but local production has resumed without the automaker's permission and oversight.",
-      "url": "https://www.carexpert.com.au/car-news/bootleg-bmws-are-being-produced-in-russia-from-leftover-parts",
-      "image": "https://images.carexpert.com.au/cms/v1/media/avtotor-1.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/avtotor-1.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-07-06T23:08:41+00:00"
     },
     {
       "id": "84b33dbbc61df1ff",
@@ -1390,7 +1382,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -1754,7 +1746,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2079,7 +2071,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3046,7 +3038,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3150,7 +3142,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3270,6 +3262,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -4112,7 +4117,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
