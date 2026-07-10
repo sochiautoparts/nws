@@ -1,7 +1,7 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-10T17:58:11.220360+00:00",
-  "generated_at_human": "2026-07-10 17:58 UTC",
+  "generated_at": "2026-07-10T19:48:33.298697+00:00",
+  "generated_at_human": "2026-07-10 19:48 UTC",
   "total_items": 308,
   "sources_used": [
     "5koleso RU",
@@ -42,25 +42,25 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
-    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
     "CarScoops Rolls",
-    "CarScoops Volvo",
     "ClassicCars Journal",
+    "Crash.net",
     "Electrek BMW",
+    "Electrek BMW iX",
     "Electric Cars Report",
     "Gaadiwaadi IN",
-    "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
     "InsideEVs",
     "Jalopnik",
-    "Kolesa RU",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Land Rover",
@@ -74,8 +74,39 @@
     "RushLane IN"
   ],
   "sources_count": 68,
-  "multi_photo_items": 12,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "3e2a123d7ec01380",
+      "title": "“We are slow everywhere”: Danilo Petrucci bemoans lack of BMW pace at UK WorldSBK",
+      "summary": "Only 17th in FP2 at the UK WorldSBK, Danilo Petrucci says he is “slow everywhere” at Donington.",
+      "url": "https://www.crash.net/wsbk/news/1100648/1/we-are-slow-everywhere-danilo-petrucci-bemoans-lack-bmw-pace-uk-worldsbk",
+      "image": "https://www.crash.net/sites/default/files/2026-07/danilo-petrucci-2026-donington-park-worldsbk-09888.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-07/danilo-petrucci-2026-donington-park-worldsbk-09888.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/pictures/picture-alex-w.jpg",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1315799_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-06/gng_1314315_hires-1.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-06/gng_1324446_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-06/gng_1324290_hires.jpg?aspect_ratio=1:1"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-07-10T19:25:47+00:00"
+    },
+    {
+      "id": "c503549afa74f9cc",
+      "title": "16k-Mile 2023 BMW M8 Competition",
+      "summary": "This 2023 BMW M8 Competition coupe was purchased new by the current owner, who specified it with a Frozen Pure Gray Metallic finish over black Merino leather. Indicating fewer than 16k miles, the car is powered by a twin-turbocharged 4.4-liter V8 that drives all four wheels through an eight-speed automatic transmission. Equipment includes the Driving Assistance Professional Package, an M Sport differential, an M Sport exhaust system, 20\" Style 894M alloy wheels, an adaptive M suspension, adaptive LED headlights, Park Distance Control parking sensors, a surround-view camera system, a Harman…",
+      "url": "https://bringatrailer.com/listing/2023-bmw-m8-competition-15/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_5391-scaled-copy-2026-07-02-agf-09153.jpeg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_5391-scaled-copy-2026-07-02-agf-09153.jpeg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-10T19:05:14+00:00"
+    },
     {
       "id": "e98b8a93274d3f84",
       "title": "G-POWER GP-480 Upgrade Pushes The BMW B58 Engine to 480 HP",
@@ -88,19 +119,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-10T16:00:28+00:00"
-    },
-    {
-      "id": "3f88001e34bf363d",
-      "title": "Spied: New Genesis GV70 Looks Ready To Steal The BMW iX3's Glory",
-      "summary": "Heavy camo is gone on the latest Genesis prototype, and the GV70 looks sportier than ever.",
-      "url": "https://carbuzz.com/genesis-gv70-spy-july-10/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv70-hybrid-8-copy.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv70-hybrid-8-copy.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-10T15:00:12+00:00"
     },
     {
       "id": "3c1e3881c6e00697",
@@ -129,7 +147,7 @@
         "https://hagerty-media-prod.imgix.net/2026/07/BU026_098EV-scaled.jpg?auto=format%2Ccompress&fit=crop&h=768&ixlib=php-3.3.0&w=1024",
         "https://hagerty-media-prod.imgix.net/2026/07/BU026_101EV-scaled.jpg?auto=format%2Ccompress&fit=crop&h=683&ixlib=php-3.3.0&w=1024"
       ],
-      "source": "Hagerty Media",
+      "source": "Hagerty News",
       "source_url": "https://www.hagerty.com",
       "published": "2026-07-10T14:00:00+00:00"
     },
@@ -172,11 +190,11 @@
       "image": "https://www.motorbeam.com/wp-content/uploads/BMW-iX1-L-front.jpg",
       "images": [
         "https://www.motorbeam.com/wp-content/uploads/BMW-iX1-L-front.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/2015-Mini-Unveil-Cooper-S-665x445.jpg",
+        "https://www.motorbeam.com/wp-content/uploads/2016-BMW-7-Series-1-652x435.jpg",
+        "https://www.motorbeam.com/wp-content/uploads/BMW-Group-Company-580x435.jpg",
         "https://www.motorbeam.com/wp-content/uploads/Volkswagen-Tayron-Life-655x368.jpg",
         "https://www.motorbeam.com/wp-content/uploads/BMW-X3-30-655x367.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/BMW_Vision_ConnectedDrive_Interior-428x260.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/BMW-3-Series-Generations-428x260.jpg"
+        "https://www.motorbeam.com/wp-content/uploads/BMW_Z4_India_Wallpaper-428x260.jpg"
       ],
       "source": "MotorBeam IN",
       "source_url": "https://motorbeam.com",
@@ -538,19 +556,6 @@
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
       "published": "2026-07-09T03:11:54+00:00"
-    },
-    {
-      "id": "c6aba5756b033ddf",
-      "title": "Любил одно, купил другое: опыт владения BMW M5 F90",
-      "summary": "Многие поклонники баварской марки считают M5 седьмого поколения едва ли не лучшим из того, что создала компания BMW за долгие годы. Трудно поверить, но этот автомобиль его нынешний владелец предпочел куда более культовому Porsche 911 и ни разу об этом не пожалел.",
-      "url": "https://www.kolesa.ru/test-drive/liubil-odno-kupil-drugoe-opyt-vladeniia-bmw-m5-f90",
-      "image": "https://kolesa-uploads.ru/-/59634520-5053-4844-9825-5b43f8d13191/l71a0073.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/59634520-5053-4844-9825-5b43f8d13191/l71a0073.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-07-09T03:00:00+00:00"
     },
     {
       "id": "8d861e01e54a3faf",
@@ -1449,7 +1454,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -1800,7 +1805,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2694,6 +2699,19 @@
       "published": "2026-06-07T16:00:15+00:00"
     },
     {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
+    },
+    {
       "id": "c3ff705537647cd5",
       "title": "BMW M5 Depreciation Tracker: F10 Bargains, F90 Strength, G90 Questions",
       "summary": "Depreciation is a funny thing when it comes to M cars. Enthusiasts love to talk about future classics, special engines, analog appeal, and the models that will one day be “the one to have.” The... First published by https://www.bmwblog.com",
@@ -3238,19 +3256,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -4093,7 +4098,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek BMW iX",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
