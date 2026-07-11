@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-11T03:36:40.453335+00:00",
-  "generated_at_human": "2026-07-11 03:36 UTC",
-  "total_items": 312,
+  "generated_at": "2026-07-11T06:24:25.464089+00:00",
+  "generated_at_human": "2026-07-11 06:24 UTC",
+  "total_items": 311,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -47,7 +47,6 @@
     "Car and Driver BMW",
     "CarBuzz",
     "CarExpert",
-    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -55,8 +54,8 @@
     "CarScoops Rolls",
     "ClassicCars Journal",
     "Crash.net",
+    "Diariomotor",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Electric Cars Report",
     "Gaadiwaadi IN",
     "Hagerty News",
@@ -73,12 +72,24 @@
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering",
-    "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 71,
+  "sources_count": 69,
   "multi_photo_items": 16,
   "items": [
+    {
+      "id": "f707d725b4b7cf13",
+      "title": "Ni es un BMW M3, ni es IA ni es Photoshop, es un coche real que hará que te duela la cabeza",
+      "summary": "La foto que estás viendo en la portada de este artículo no es Photoshop, ni es una foto modificada con inteligencia artificial . Todo comenzó hace cuatro años como un febril sueño de verano de un grupo de petrolheads chinos. Usando un Volkswagen Lamando L como punto de partida, decidieron crear un coche funcional de tres metros de ancho. El porqué solo ellos lo saben, pero fue todo un éxito viral. Cuatro años después, han transformado ese coche en un BMW M3 \"al cuadrado\". Una creación que hace que duela la cabeza . El BMW M32 hará que te duela la cabeza Aunque han tratado de imitar a un…",
+      "url": "https://www.diariomotor.com/noticia/bmw-m3-al-cuadrado/",
+      "image": "https://www.diariomotor.com/imagenes/2026/07/bmw-m3-portada-6a4cd7c12d69e.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/07/bmw-m3-portada-6a4cd7c12d69e.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-07-11T07:30:55+00:00"
+    },
     {
       "id": "a19b90223d665137",
       "title": "BMW's Carbon Fiber EV Now Costs As Much As A Used Corolla, But Watch Out For One $21,000 Failure",
@@ -286,11 +297,11 @@
       "image": "https://www.motorbeam.com/wp-content/uploads/BMW-iX1-L-front.jpg",
       "images": [
         "https://www.motorbeam.com/wp-content/uploads/BMW-iX1-L-front.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/BMW-i8-First-Deliveries-665x445.jpg",
+        "https://www.motorbeam.com/wp-content/uploads/BMW-Vision-Future-Luxury-Concept-Wallpaper-665x443.jpg",
+        "https://www.motorbeam.com/wp-content/uploads/2019-BMW-X7-Revealed-655x402.jpg",
         "https://www.motorbeam.com/wp-content/uploads/Volkswagen-Tayron-Life-655x368.jpg",
         "https://www.motorbeam.com/wp-content/uploads/BMW-X3-30-655x367.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/BMW-Showroom-Customer-Lounge-428x260.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/2013-BMW-X6-Facelift-428x260.jpg"
+        "https://www.motorbeam.com/wp-content/uploads/2012_BMW_1-Series_Front-428x260.jpg"
       ],
       "source": "MotorBeam IN",
       "source_url": "https://motorbeam.com",
@@ -370,7 +381,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Alpine-White-5-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-10T09:58:19+00:00"
     },
@@ -412,19 +423,6 @@
       "source": "ClassicCars Journal",
       "source_url": "https://journal.classiccars.com",
       "published": "2026-07-10T09:00:00+00:00"
-    },
-    {
-      "id": "0ea1c8594a4e1ced",
-      "title": "BMW India H1 2026 Sales Up 17% To New High – Gap With Mercedes Narrows",
-      "summary": "BMW India sold 9,075 cars in H1 2026, while Mercedes retained the luxury sales crown with 9,768 units The post BMW India H1 2026 Sales Up 17% To New High – Gap With Mercedes Narrows appeared first on RushLane .",
-      "url": "https://www.rushlane.com/bmw-india-h1-2026-sales-up-17-to-new-high-gap-with-mercedes-narrows-12550717.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/07/bmw-india-sales-q2-2026-h1.jpeg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/07/bmw-india-sales-q2-2026-h1.jpeg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-07-10T07:50:45+00:00"
     },
     {
       "id": "db31e1e1e0d417f9",
@@ -1914,7 +1912,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3224,19 +3222,6 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
-      "id": "7916c0fbced4069a",
-      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
-      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
-      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
-      ],
-      "source": "CarScoops Alfa",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-25T14:54:00+00:00"
-    },
-    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3557,7 +3542,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
@@ -4168,7 +4153,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW iX",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
     },
