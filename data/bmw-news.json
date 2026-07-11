@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-10T23:11:35.511439+00:00",
-  "generated_at_human": "2026-07-10 23:11 UTC",
-  "total_items": 311,
+  "generated_at": "2026-07-11T03:36:40.453335+00:00",
+  "generated_at_human": "2026-07-11 03:36 UTC",
+  "total_items": 312,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -45,7 +45,9 @@
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "CarBuzz",
     "CarExpert",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -74,9 +76,27 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 69,
+  "sources_count": 71,
   "multi_photo_items": 16,
   "items": [
+    {
+      "id": "a19b90223d665137",
+      "title": "BMW's Carbon Fiber EV Now Costs As Much As A Used Corolla, But Watch Out For One $21,000 Failure",
+      "summary": "Once a budget-friendly electric vehicle, the BMW i3 now comes with a hidden cost: a $21,000 repair bill due to a common failure.",
+      "url": "https://carbuzz.com/bmw-i3-costs-as-much-as-used-corolla-major-red-flag/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-i3-main1.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-i3-main1.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/2015-bmw-i3-on-road.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/2015-bmw-i3-back.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/2015-bmw-i3-on-charge.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/2015-bmw-i3-side.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/cropped-bmw-i3-2014.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-11T00:09:12+00:00"
+    },
     {
       "id": "c2535a79e3ccaee1",
       "title": "1971 BMW 2002 5-Speed",
@@ -128,29 +148,11 @@
       "url": "https://www.hotcars.com/affordable-coupe-feels-like-german-performance-car/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/ghgnfgnf.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/ghgnfgnf.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1963-mustang-ii-concept-image.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1965-mustang-with-concepts-image.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/thrhrt.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/ford-mustang-ecoboost-2024-22-interior-engine.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/etgeg.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/ghgnfgnf.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-07-10T22:30:17+00:00"
-    },
-    {
-      "id": "b0eec95d3158e2f9",
-      "title": "2010 BMW M3 Coupe",
-      "summary": "This 2010 BMW M3 coupe was optioned with the Premium and Technology Packages, and it has 62k miles and was purchased by the seller in 2018. Powered by a 4.0-liter V8 paired with a seven-speed dual-clutch transmission, the car is finished in Alpine White over black Novillo leather upholstery. Equipment includes a limited-slip differential, xenon headlights, 19\" forged Style 220 wheels, heated front seats, dual-zone automatic climate control, Comfort Access, and cruise control. This E92 M3 is offered with a car cover, spare parts, a Carfax report, and an Illinois title in the seller's name.",
-      "url": "https://bringatrailer.com/listing/2010-bmw-m3-coupe-23/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/04/Adobe_Express_-_file-copy-2026-06-24-old-26409-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/04/Adobe_Express_-_file-copy-2026-06-24-old-26409-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-10T22:29:59+00:00"
     },
     {
       "id": "bf3a0443dfd121ba",
@@ -284,11 +286,11 @@
       "image": "https://www.motorbeam.com/wp-content/uploads/BMW-iX1-L-front.jpg",
       "images": [
         "https://www.motorbeam.com/wp-content/uploads/BMW-iX1-L-front.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/BMW-Group-Training-Centre-Training-Unit-665x445.jpg",
+        "https://www.motorbeam.com/wp-content/uploads/BMW-i8-First-Deliveries-665x445.jpg",
         "https://www.motorbeam.com/wp-content/uploads/Volkswagen-Tayron-Life-655x368.jpg",
         "https://www.motorbeam.com/wp-content/uploads/BMW-X3-30-655x367.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/2014-BMW-4-Series-Coupe-428x260.jpg",
-        "https://www.motorbeam.com/wp-content/uploads/BMW_Electric-428x260.jpg"
+        "https://www.motorbeam.com/wp-content/uploads/BMW-Showroom-Customer-Lounge-428x260.jpg",
+        "https://www.motorbeam.com/wp-content/uploads/2013-BMW-X6-Facelift-428x260.jpg"
       ],
       "source": "MotorBeam IN",
       "source_url": "https://motorbeam.com",
@@ -368,7 +370,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Alpine-White-5-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-10T09:58:19+00:00"
     },
@@ -748,7 +750,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/rl-bmw-i3-opinion.jpg?itok=HwaS9QQ3"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-08T10:00:00+00:00"
     },
@@ -1886,7 +1888,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2172,7 +2174,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3222,6 +3224,19 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
+    },
+    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3542,7 +3557,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
