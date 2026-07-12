@@ -1,16 +1,17 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-12T13:51:16.698671+00:00",
-  "generated_at_human": "2026-07-12 13:51 UTC",
-  "total_items": 311,
+  "generated_at": "2026-07-12T15:10:51.891482+00:00",
+  "generated_at_human": "2026-07-12 15:10 UTC",
+  "total_items": 315,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
+    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 6",
     "BMW Blog 7 tag",
@@ -47,13 +48,16 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "CarBuzz",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
-    "CarScoops Lucid",
+    "CarScoops Hyundai",
+    "CarScoops Land Rover",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarScoops Rolls",
-    "ClassicCars Journal",
+    "CarScoops Volvo",
     "Diariomotor",
     "Electrek BMW",
     "Electrek BMW iX",
@@ -73,9 +77,40 @@
     "Racecar Engineering",
     "TopSpeed"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 14,
+  "sources_count": 72,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "797f0f3907226fac",
+      "title": "BMW Is Helping Smaller Automotive Companies Stay Alive With Its 4, 6, And 8 Cylinder Engines",
+      "summary": "You can now find a BMW engine under the hood of seven different brands.",
+      "url": "https://carbuzz.com/bmw-is-helping-six-small-automakers-survive-with-engines/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/morgan.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/morgan.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2025-mini-cooper-convertible8.jpg?q=49&fit=contain&w=5712&h=3213&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-land-rover-range-rover-sport25.jpg?q=49&fit=contain&w=5712&h=3213&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/2025-bmw-m5-sedan-44l-twin-turbo-s63-v8-phev-engine.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/mini-john_cooper_works_countryman_all4-2024-1280-f50769c427400723383c294b8059621e8e.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/2011_rolls-royce_ghost_1-44-12301-scaled.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-12T15:06:12+00:00"
+    },
+    {
+      "id": "7442239f623db01a",
+      "title": "Original-Owner 2019 BMW R nineT",
+      "summary": "This 2019 BMW R nineT was purchased new by the seller who has ridden it 5k miles and has fitted it with an Akrapovič exhaust system, a Rizoma flyscreen, and a Daedalus fender eliminator kit. It is finished in Black Storm Metallic and is powered by a 1,170cc opposed-twin linked with a six-speed transmission and an enclosed driveshaft. Features include 17\" wire-spoke wheels, Automatic Stability Control, an oil cooler, a conventional fork, a Paralever single-sided swingarm, triple anti-lock disc brakes with Brembo front calipers, an aluminum fuel tank, engine guard bars, heated grips, cruise…",
+      "url": "https://bringatrailer.com/listing/2019-bmw-r-ninet-5/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_7261-scaled-copy-2026-07-06-q1f-49942.jpeg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_7261-scaled-copy-2026-07-06-q1f-49942.jpeg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-12T14:50:02+00:00"
+    },
     {
       "id": "46d5e4603ce50458",
       "title": "BMW's U.S. Sales Are Up. But Its EVs Are Struggling",
@@ -88,19 +123,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-07-12T13:00:00+00:00"
-    },
-    {
-      "id": "dc133f3c9318bf5c",
-      "title": "Audi vs BMW Reliability: Will One Of These Brand's Leave You Stranded?",
-      "summary": "Which of these two German heavyweights will keep you on the road longest? And will one of these leave you stranded?",
-      "url": "https://carbuzz.com/audi-vs-bmw-reliability-comparison/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/08/audi-rs6-avant-performance-vs-bmw-m5-touring.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/08/audi-rs6-avant-performance-vs-bmw-m5-touring.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-12T12:30:12+00:00"
     },
     {
       "id": "99705ed17ebf740b",
@@ -241,22 +263,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2026-BMW-i3-First-Edition-4-830x625.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-12T06:00:37+00:00"
-    },
-    {
-      "id": "94b1b0e06cb7b5ab",
-      "title": "18k-Mile 2008 BMW M3 Coupe 6-Speed",
-      "summary": "This 2008 BMW M3 Coupe was initially delivered to Vern Eide BMW Sioux Falls, South Dakota, and it remained registered in that state with its original owner until 2026, and now has 18k miles. Specified in Space Gray Metallic over Fox Red Novillo leather upholstery, the car was optioned with the Premium and Technology Packages. It is powered by a 4.0-liter V8 paired with a six-speed manual transmission and features a limited-slip differential, xenon headlights, 18\" Style 219 wheels, heated front seats, navigation, a carbon-fiber roof panel, dual-zone automatic climate control, and cruise…",
-      "url": "https://bringatrailer.com/listing/2008-bmw-m3-sedan-73/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/Jun-19-26_10857_1_0_004-99293.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/Jun-19-26_10857_1_0_004-99293.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-11T23:40:07+00:00"
     },
     {
       "id": "d4d7af7a08c8388f",
@@ -450,7 +459,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-ruf_autocar_0_0_0_0_7_1_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0_0.jpg?itok=jPOePo7X"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-11T07:04:38+00:00"
     },
@@ -603,7 +612,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Alpine-White-5-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-10T09:58:19+00:00"
     },
@@ -632,19 +641,6 @@
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
       "published": "2026-07-10T09:21:51+00:00"
-    },
-    {
-      "id": "9a3fc48674e20292",
-      "title": "Pick of the Day: 1989 BMW Z1",
-      "summary": "Miata is not always the answer",
-      "url": "https://journal.classiccars.com/2026/07/10/pick-of-the-day-1989-bmw-z1/",
-      "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1989-bmw-z1-detail-front.jpg",
-      "images": [
-        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1989-bmw-z1-detail-front.jpg"
-      ],
-      "source": "ClassicCars Journal",
-      "source_url": "https://journal.classiccars.com",
-      "published": "2026-07-10T09:00:00+00:00"
     },
     {
       "id": "db31e1e1e0d417f9",
@@ -1606,6 +1602,19 @@
       "published": "2026-06-29T21:00:00+00:00"
     },
     {
+      "id": "4e5a8b23b8a3dd65",
+      "title": "Hyundai’s EVs Already Fake Engine Sounds, And Now They Might Vibrate Too",
+      "summary": "The fake gears everyone called a gimmick became the template Porsche, Mercedes-AMG, and BMW M all copied, and Hyundai isn't finished yet",
+      "url": "https://www.carscoops.com/2026/06/hyundai-n-ev-engine-vibrations/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/68688-DSC5053-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/68688-DSC5053-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Hyundai",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-29T16:23:00+00:00"
+    },
+    {
       "id": "11673d883570706e",
       "title": "BMW’s new iX5 leaks ahead of its debut with a unique look [Images]",
       "summary": "BMW will officially unveil the iX5 on June 30, but we are already getting an early look after images leaked online.",
@@ -1788,6 +1797,19 @@
       "published": "2026-06-24T23:15:06+00:00"
     },
     {
+      "id": "3a88f96e6c066a22",
+      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
+      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
+      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Land Rover",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-24T19:45:00+00:00"
+    },
+    {
       "id": "878f7609834cee38",
       "title": "14 Years Later, The Only BMW 1M Java Green Is Still Spectacular",
       "summary": "The 1 Series M Coupe, or simply the 1M, hails from a time when BMW’s smallest car stayed true to the brand’s heritage. It had a longitudinally mounted inline-six engine that sent power to the... First published by https://www.bmwblog.com",
@@ -1939,7 +1961,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -1965,7 +1987,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2742,6 +2764,19 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -2753,19 +2788,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
-    },
-    {
-      "id": "b5318e3d4ccc6988",
-      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
-      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
-      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
-      ],
-      "source": "CarScoops Lucid",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
@@ -3041,6 +3063,19 @@
       "published": "2026-05-30T18:10:08+00:00"
     },
     {
+      "id": "eb3c52798b89321d",
+      "title": "Lexus’s BMW i3 Sedan Rival Is Dead, But Its Most Ambitious Tech Isn’t",
+      "summary": "Lexus reportedly shelves its next-generation electric sedan while parent company Toyota doubles down on SUVs and waits for the EV market to recover",
+      "url": "https://www.carscoops.com/2026/05/lexus-lf-zc-cancellation/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-29T13:11:00+00:00"
+    },
+    {
       "id": "2ea8f50616b7e4cc",
       "title": "BMW M Ignite Pre-Chamber Ignition Coming to M2, M3, and M4 This Summer",
       "summary": "BMW will introduce a new engine technology called BMW M Ignite to all of its M six-cylinder models starting this summer, bringing a pre-chamber ignition system to the S58 inline-six fitted to the G80 M3,... First published by https://www.bmwblog.com",
@@ -3088,7 +3123,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3192,7 +3227,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3208,6 +3243,19 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
@@ -3312,6 +3360,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -4115,7 +4176,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/BMW-Frozen-Edition-1-830x467.jpg"
       ],
-      "source": "BMW Blog X1",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-15T11:56:59+00:00"
     },
