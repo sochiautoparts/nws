@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-12T21:03:30.143358+00:00",
-  "generated_at_human": "2026-07-12 21:03 UTC",
-  "total_items": 306,
+  "generated_at": "2026-07-12T22:05:09.308242+00:00",
+  "generated_at_human": "2026-07-12 22:05 UTC",
+  "total_items": 311,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -40,6 +40,7 @@
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
+    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
@@ -49,7 +50,6 @@
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
-    "CarScoops Land Rover",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "Diariomotor",
@@ -69,25 +69,52 @@
     "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
+    "RACER",
     "Racecar Engineering",
     "TopSpeed"
   ],
-  "sources_count": 67,
-  "multi_photo_items": 20,
+  "sources_count": 68,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "3b77ae4286754667",
+      "title": "BMW conquista las 6 Horas de São Paulo tras resistir el ataque de Ferrari y Cadillac",
+      "summary": "Apasionante la cita brasileña del Campeonato del Mundo de Resistencia , con un desenlace que ha mantenido a los aficionados atentos a la lucha por la victoria tanto en la categoría Hypercar como en el orden final entre los LMGT3. Interlagos nos ha regalado unas 6 Horas de Sao Paulo en las que la lluvia ha amenazado hasta el último momento , con la niebla echándose encima del trazado paulista en una preciosa batalla final en la que BMW y el Team WRT se han visto obligados a defender la primera plaza ante el ataque del Ferrari #51 y la llegada desde atrás de los dos Cadillac de Hertz JOTA.…",
+      "url": "https://www.diariomotor.com/competicion/noticia/bmw-6-horas-de-sao-paulo/",
+      "image": "https://www.diariomotor.com/imagenes/2026/07/6-horas-sao-paulo-2026-wec-2-6a54047b92a2b.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/07/6-horas-sao-paulo-2026-wec-2-6a54047b92a2b.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-07-12T23:23:52+00:00"
+    },
+    {
+      "id": "80f85502b624f41a",
+      "title": "55k-Kilometer 2011 BMW 335i Touring M Package at No Reserve",
+      "summary": "This 2011 BMW 335i Touring M Sport is a left-hand-drive Japanese-market example that was originally delivered in Japan and is finished in Black Sapphire Metallic over black Dakota leather upholstery. Power is provided by a turbocharged 3.0-liter N55 inline-six paired with a six-speed Steptronic automatic transmission. Equipment includes the M Sport and M Aerodynamics packages as well as a panoramic glass roof, adaptive xenon headlights, heated sport seats, and a multifunction M leather steering wheel with shift paddles. The selling dealer recently acquired the car, and it now shows 55k…",
+      "url": "https://bringatrailer.com/listing/2011-bmw-335i-touring-m-package/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/55305172432_128830609b_6k-copy-2026-06-05-0xs-96506-scaled.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/05/55305172432_128830609b_6k-copy-2026-06-05-0xs-96506-scaled.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-12T21:10:11+00:00"
+    },
     {
       "id": "2ce880c20f76dc72",
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-8.motorsport.com/images/amp/6b8Zjjj2/s300/marc-marquez-ducati-team-3.webp",
-        "https://cdn-3.motorsport.com/images/amp/68VWq3X2/s300/marco-bezzecchi-aprilia-racing.webp"
+        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn-9.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-4.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
+        "https://cdn-9.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/6b8Zjjj2/s300/marc-marquez-ducati-team-3.webp"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -98,14 +125,14 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-8.motorsport.com/images/amp/6b8Zjjj2/s300/marc-marquez-ducati-team-3.webp",
-        "https://cdn-3.motorsport.com/images/amp/68VWq3X2/s300/marco-bezzecchi-aprilia-racing.webp"
+        "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn-9.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-4.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
+        "https://cdn-9.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/6b8Zjjj2/s300/marc-marquez-ducati-team-3.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -129,14 +156,14 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/2y7Aejg6/s300/alex-marquez-gresini-racing.webp",
-        "https://cdn-2.motorsport.com/images/amp/YXypE3P6/s300/marc-marquez-ducati-team-3.webp"
+        "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
+        "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
+        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/2y7Aejg6/s300/alex-marquez-gresini-racing.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -147,18 +174,31 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/2y7Aejg6/s300/alex-marquez-gresini-racing.webp",
-        "https://cdn-2.motorsport.com/images/amp/YXypE3P6/s300/marc-marquez-ducati-team-3.webp"
+        "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
+        "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
+        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/2y7Aejg6/s300/alex-marquez-gresini-racing.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
       "published": "2026-07-12T20:39:02+00:00"
+    },
+    {
+      "id": "e6d751b55997d640",
+      "title": "BMW storms to Sao Paulo 6 Hours victory",
+      "summary": "BMW M Team WRT’s No. 15 M Hybrid V8 battled its way to victory in today’s FIA WEC 6 Hours of São Paulo. Kevin Magnussen, Raffaele Marciello and an unwell Dries Vanthoor, who started fourth on the grid, beat the best that Alpine, Cadillac and Ferrari could throw at them...",
+      "url": "https://racer.com/2026/07/12/bmw-storms-to-sao-paulo-6-hours-victory",
+      "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt0b8030b4c4f8ebaf/6a53fb2c772bb98006aee5b7/GettyImages-2285205491.jpg?environment=live",
+      "images": [
+        "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt0b8030b4c4f8ebaf/6a53fb2c772bb98006aee5b7/GettyImages-2285205491.jpg?environment=live"
+      ],
+      "source": "RACER",
+      "source_url": "https://www.racer.com",
+      "published": "2026-07-12T20:37:26+00:00"
     },
     {
       "id": "4d4b12f17e2b1c91",
@@ -177,19 +217,6 @@
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-07-12T20:00:19+00:00"
-    },
-    {
-      "id": "1813b3daf55e72ca",
-      "title": "2015 BMW R1200RT at No Reserve",
-      "summary": "This 2015 BMW R1200RT was acquired by the seller in 2019, reportedly from its first owner, and it has been modified with a Gloss Atomic Teal wrap, Clearwater auxiliary lights, an Ion quick-lock tank bag, a Ram phone mount, and a Wunderlich shifter lever cover. It is powered by a liquid-cooled 1,170 opposed-twin paired with a six-speed transmission and a driveshaft, and it also features BMS-X electronic engine management, Dynamic ESA electronic suspension adjustment, a Telelever front end, an EVO Paralever single-sided swingarm, triple anti-lock disc brakes, silver-finished cast aluminum…",
-      "url": "https://bringatrailer.com/listing/2015-bmw-r1200rt-2/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_4660-scaled-copy-2026-07-07-mjl-37667.jpeg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_4660-scaled-copy-2026-07-07-mjl-37667.jpeg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-12T19:40:05+00:00"
     },
     {
       "id": "ae481d27c656f73c",
@@ -216,12 +243,7 @@
       "url": "https://www.hotcars.com/four-door-family-car-that-hid-a-racing-engine/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-exhaust-pipes.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-exhaust-pipes.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-cabin.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-front.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-engine.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-rear.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-front-three-quarter-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e60-bmw-m5-exhaust-pipes.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -492,7 +514,7 @@
     {
       "id": "bc45fed164d01751",
       "title": "2026 BMW iX1 eDrive20L M Sport in Malaysia – gallery of LWB EV with 433 km WLTP range, from RM252,800",
-      "summary": "We now have a full gallery of the 2026 BMW iX1 eDrive20L M Sport, the long-wheelbase version of BMW’s entry electric SUV. Launched back in January, it received official pricing in April, and we’ve finally […] The post 2026 BMW iX1 eDrive20L M Sport in Malaysia – gallery of LWB EV with 433 km WLTP range, from RM252,800 appeared first on Paul Tan's Automotive News .",
+      "summary": "We now have a full gallery of the 2026 BMW iX1 eDrive20L M Sport, the long-wheelbase version of BMW’s entry electric SUV. Launched back in January, it received official pricing in April, and we’ve finally gotten our hands on one. The sole eDrive20L M Sport variant retails at RM252,800 on-the-road […] The post 2026 BMW iX1 eDrive20L M Sport in Malaysia – gallery of LWB EV with 433 km WLTP range, from RM252,800 appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/07/11/2026-bmw-ix1-edrive20l-m-sport-in-malaysia-lwb-ev-433-km-range-from-rm252800/",
       "image": "https://paultan.org/image/2026/07/2026-BMW-iX1-eDrive20L-Malaysia-Ext-4-630x420.jpg",
       "images": [
@@ -550,7 +572,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-ruf_autocar_0_0_0_0_7_1_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0_0.jpg?itok=jPOePo7X"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-11T07:04:38+00:00"
     },
@@ -710,7 +732,7 @@
     {
       "id": "a40bfa6a54be8d35",
       "title": "Up to RM55k off BMW 218 Gran Coupe, RM38k off 320i, 330i, 330Li, M340i in conjunction with BMW Clubhouse",
-      "summary": "BMW Malaysia has announced limited-time campaigns for the 218 Gran Coupe (above) and the 3 Series in conjunction with the upcoming BMW Clubhouse event (July 17-19 at Factory 19 Petaling Jaya). The 218GC can be […] The post Up to RM55k off BMW 218 Gran Coupe, RM38k off 320i, 330i, 330Li, M340i in conjunction with BMW Clubhouse appeared first on Paul Tan's Automotive News .",
+      "summary": "BMW Malaysia has announced limited-time campaigns for the 218 Gran Coupe (above) and the 3 Series in conjunction with the upcoming BMW Clubhouse event (July 17-19 at Factory 19 Petaling Jaya). The 218GC can be had for RM173,800 without BSRI (which is RM46,000 below retail) or RM185,800 with BSRI (RM55,700 […] The post Up to RM55k off BMW 218 Gran Coupe, RM38k off 320i, 330i, 330Li, M340i in conjunction with BMW Clubhouse appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/07/10/up-to-rm55k-off-bmw-218-gran-coupe-rm38k-off-320i-330i-330li-m340i-in-conjunction-with-bmw-clubhouse/",
       "image": "https://paultan.org/image/2025/07/2025-BMW-218-Gran-Coupe-Malaysia-Ext-2-630x420.jpg",
       "images": [
@@ -723,7 +745,7 @@
     {
       "id": "55473140c82fe747",
       "title": "I didn’t buy a big car, a new BMW, it’s an old car – PMX",
-      "summary": "Prime minister Datuk Seri Anwar Ibrahim has denied claims that he bought a BMW for his personal use, and that his regular ride – a Mercedes-Benz – was gifted by Malaysia’s king, YDPA Sultan Ibrahim […] The post I didn’t buy a big car, a new BMW, it’s an old car – PMX appeared first on Paul Tan's Automotive News .",
+      "summary": "Prime minister Datuk Seri Anwar Ibrahim has denied claims that he bought a BMW for his personal use, and that his regular ride – a Mercedes-Benz – was gifted by Malaysia’s king, YDPA Sultan Ibrahim Sultan Iskandar. “People are claiming that Anwar talks about helping the poor but has bought […] The post I didn’t buy a big car, a new BMW, it’s an old car – PMX appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/07/10/i-didnt-buy-a-big-car-a-new-bmw-its-an-old-car-pmx/",
       "image": "https://paultan.org/image/2025/06/PMX_Anwar_Ibrahim_2_BM-630x420.jpeg",
       "images": [
@@ -1202,6 +1224,19 @@
       "published": "2026-07-05T19:43:25+00:00"
     },
     {
+      "id": "7e32f01e68698625",
+      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
+      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
+      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
+      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
+      "images": [
+        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-07-05T18:00:00+00:00"
+    },
+    {
       "id": "42248dd4d273bbee",
       "title": "The New BMW X5 Has One Option You Can’t Remove Yet",
       "summary": "Shortly after the G65 made its world premiere earlier this week, the luxury SUV began appearing in configurators across Europe. While you’re limited to the 40 xDrive and 40d xDrive for now, the plug-in hybrids... First published by https://www.bmwblog.com",
@@ -1486,6 +1521,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-30T19:19:00+00:00"
+    },
+    {
+      "id": "60f53f84f68109c1",
+      "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
+      "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
+      "url": "https://www.bikeexif.com/powerbricks-harley-davidson-lowrider-s-cafe-racer",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-30T18:00:00+00:00"
     },
     {
       "id": "322d07dc9c90204a",
@@ -1849,19 +1897,6 @@
       "published": "2026-06-24T23:15:06+00:00"
     },
     {
-      "id": "3a88f96e6c066a22",
-      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
-      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
-      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Land Rover",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-24T19:45:00+00:00"
-    },
-    {
       "id": "878f7609834cee38",
       "title": "14 Years Later, The Only BMW 1M Java Green Is Still Spectacular",
       "summary": "The 1 Series M Coupe, or simply the 1M, hails from a time when BMW’s smallest car stayed true to the brand’s heritage. It had a longitudinally mounted inline-six engine that sent power to the... First published by https://www.bmwblog.com",
@@ -2013,9 +2048,22 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
+    },
+    {
+      "id": "684514cadb9df570",
+      "title": "Bavarian Bliss: Our 7 Favorite Custom Motorcycles from the BMW MOA Builder's Best Show",
+      "summary": "For over half a century, the BMW Motorcycle Owners of America has served as the...",
+      "url": "https://www.bikeexif.com/7-favorite-custom-motorcycles-from-the-bmw-moa-builders-best-show",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-22T18:00:00+00:00"
     },
     {
       "id": "c9762ebfc548d6b2",
@@ -2026,7 +2074,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2057,6 +2105,19 @@
       "published": "2026-06-21T18:26:33+00:00"
     },
     {
+      "id": "53d7d0180565ec28",
+      "title": "Black and Gold: FCR Original's BMW R12 Classic Scrambler",
+      "summary": "Regular readers of Bike EXIF needed no formal introduction to FCR Original. Oper...",
+      "url": "https://www.bikeexif.com/fcr-originals-bmw-r12-classic-scrambler",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/FCR-Original-BMW-R12-Classic-6.jpg?v=1781193794",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/FCR-Original-BMW-R12-Classic-6.jpg?v=1781193794"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-21T18:00:00+00:00"
+    },
+    {
       "id": "3896c56c8a952dfe",
       "title": "The Man Who Approved the BMW 1M Kept the Rarest One",
       "summary": "Wheels & Weisswurst is not a normal car show. Show up at BMW Group Classic’s Munich headquarters on Moosacher Strasse on one of the first or third Saturdays between May and September, and the reward... First published by https://www.bmwblog.com",
@@ -2068,6 +2129,19 @@
       "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-21T17:39:23+00:00"
+    },
+    {
+      "id": "4c5cfa97f94a25bc",
+      "title": "Rising from the Ashes: Hellgate Moto’s BMW K1100RS",
+      "summary": "If you happen to find yourself on the North Shore of Long Island, weaving throug...",
+      "url": "https://www.bikeexif.com/hellgate-motos-bmw-k1100rs",
+      "image": "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063",
+      "images": [
+        "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-20T18:00:00+00:00"
     },
     {
       "id": "0b47c5876be6b9b5",
@@ -2260,7 +2334,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2347,9 +2421,9 @@
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "summary": "The #7 Toyota TR010 Hybrid that won the 2026 Le Mans 24 Hours was compromised by a sensor problem that left it as much as 8km/h down on power. Kamui Kobayashi, Mike Conway and Nyck de Vries took top honours in the 94th edition of the French endurance classic, driving the heavily-updated TR010 to the victory lane ahead of the #20 BMW M Hybrid V8 shared by Robin Frijns, Rene Rast and Sheldon van ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2360,9 +2434,9 @@
       "title": "BMW drivers admit “painful” 2026 Le Mans defeat “hurts”: “We were close”",
       "summary": "BMW drivers admitted to feeling “hurt” by their narrow loss to Toyota in the Le Mans 24 Hours, having led various chunks of the race. The factory #20 BMW M Hybrid V8 shared by Robin Frijns, Sheldon van der Linde and Rene Rast finished second in the 94th endurance classic, just 10.9s behind the winning #7 Toyota TR010 Hybrid of Kamui Kobayashi, Mike Conway and Nyck de Vries. The German ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmw-drivers-say-painful-le-mans-defeat-hurts-we-were-close/10830529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-9.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2386,9 +2460,9 @@
       "title": "Le Mans 24h: Toyota beats BMW and Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
+        "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2412,9 +2486,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-9.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2451,9 +2525,9 @@
       "title": "Le Mans 24h, H8: Safety car blows race wide open",
       "summary": "The safety car has blown the 2026 Le Mans 24 Hours wide open, with no fewer than 14 cars gathered in the lead after the eighth hour of racing. Up until now, the race had turned into a four-way battle between the #8 Toyota, the #20 BMW, and the #12 and #38 Cadillac, whose driver Earl Bamber has set the fastest lap of the race so far. On-track battles featured Jack Aitken (#38 Cadillac) ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h8-safety-car-blows-race-wide-open/10830128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2464,9 +2538,9 @@
       "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
       "summary": "Toyota continues to lead the Le Mans 24 Hours at the end of the fourth hour, cementing its advantage over Cadillac and BMW in the Hypercar class. After an undercut catapulted the #8 Toyota TR010 at the head of the pack in the opening hour, Sebastien Buemi quickly pulled away from the chasing pack, building an advantage of nearly half a minute through his triple stint. Hartley took over the ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-4.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2490,9 +2564,9 @@
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "summary": "The #8 Toyota leads the 2026 Le Mans 24 Hours one hour into the race, despite starting from a lowly 15th position. Kevin Magnussen’s polesitting #15 BMW collapsed to eighth in the first hour; the Dane lost out to Will Stevens’ #12 Cadillac before even the first corner of the race before Rene Rast passed them both in the sister #20 BMW, by the first chicane of the Mulsanne ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid/10829935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-2.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2607,9 +2681,9 @@
       "title": "Le Mans 24h: Cadillac leads BMW in FP4",
       "summary": "Cadillac edged out BMW in Free Practice 4 ahead of the Le Mans 24 Hours, as teams focused on race pace following the Hyperpole sessions. Sebastien Bourdais’ 3m26.843s with the #38 Cadillac, albeit over four seconds slower than his own car’s Hyperpole benchmark, sufficed to surpass Robin Frijns’ 3m27.037s marker with the #20 BMW at the end of the session. The #7 Toyota took third ahead ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-cadillac-leads-bmw-in-fp4/10829306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2620,9 +2694,9 @@
       "title": "Le Mans 24h: BMW inherits pole position after Cadillac penalty",
       "summary": "BMW has taken pole position for the 2026 Le Mans 24 Hours with Dries Vanthoor after Cadillac's effort, quicker by five-thousandths of a second, was rendered null and void by the stewards. Read Also: WECWhy Cadillac lost pole position for Le Mans 24 Hours In Hyperpole 1, Earl Bamber’s early 3m23.722s effort in the #38 Cadillac led the way halfway through, as Genesis ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-cadillac-snatches-pole-away-from-bmw-by-0005s/10829274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-7.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2646,9 +2720,9 @@
       "title": "Le Mans 24h: BMW beats Alpine in red-flagged FP3 as LMDh cars dominate",
       "summary": "BMW claimed the top spot in third practice for the Le Mans 24 Hours following a late flying lap from one-lap specialist Dries Vanthoor. The Belgian set a blistering time of 3m23.302s in the final minutes of the two-hour session, putting the #15 BMW M Hybrid V8 over four tenths ahead of Victor Martins in the #36 Alpine A424. Jota’s Norman Nato led the way at the beginning of the session ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-bmw-beats-alpine-in-red-flagged-fp3-as-lmdh-cars-dominate/10829210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/YMX3yBv2/s6/15-bmw-m-team-wrt-bmw-m-hybrid-3.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/YMX3yBv2/s6/15-bmw-m-team-wrt-bmw-m-hybrid-3.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/YMX3yBv2/s6/15-bmw-m-team-wrt-bmw-m-hybrid-3.jpg"
+        "https://cdn-9.motorsport.com/images/amp/YMX3yBv2/s6/15-bmw-m-team-wrt-bmw-m-hybrid-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -4135,19 +4209,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-04-14T17:52:51+00:00"
-    },
-    {
-      "id": "a42e22f39214268e",
-      "title": "Exclusive: BMW Is Discontinuing the iX in the U.S. — Here’s What Replaces It",
-      "summary": "BMW has confirmed to BMWBLOG that it is ending U.S. allocation of the iX, the electric flagship that arrived in 2021 as the brand’s most ambitious bet on a battery-powered future. The move marks a... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/13/bmw-ix-discontinued-united-states/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-ix-45-14-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-ix-45-14-830x553.jpg"
-      ],
-      "source": "BMW Blog iX tag",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-13T21:45:36+00:00"
     }
   ]
 }
