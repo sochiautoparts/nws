@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-13T15:08:42.579144+00:00",
-  "generated_at_human": "2026-07-13 15:08 UTC",
-  "total_items": 310,
+  "generated_at": "2026-07-13T18:04:52.574395+00:00",
+  "generated_at_human": "2026-07-13 18:04 UTC",
+  "total_items": 303,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
@@ -12,7 +12,6 @@
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
-    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 6",
     "BMW Blog 7 tag",
@@ -41,14 +40,12 @@
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
-    "CarBuzz",
+    "Car and Driver News",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -57,7 +54,6 @@
     "Crash.net",
     "Diariomotor",
     "Electrek BMW",
-    "Electrek BMW iX",
     "Electric Cars Report",
     "Hagerty News",
     "Hooniverse",
@@ -73,11 +69,82 @@
     "Motorsport WEC",
     "Paul Tan",
     "RACER",
-    "Racecar Engineering"
+    "Racecar Engineering",
+    "TopSpeed"
   ],
-  "sources_count": 70,
+  "sources_count": 67,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "55a11e80b4ba3ba0",
+      "title": "BMW Just Confirmed the Name of Its New V8-Powered X5",
+      "summary": "BMW Group’s Facebook page has posted a new image of the fifth-generation X5, showing the SUV’s rear end and badge on the production line at Spartanburg. The car in the shot is finished in Dravit... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/13/bmw-x5-m60-name-confirmed/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/spartanburg-plant-bmw-x5-18-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/spartanburg-plant-bmw-x5-18-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-13T17:47:54+00:00"
+    },
+    {
+      "id": "9d69c2aa278279e9",
+      "title": "Individual Cosmos Black Metallic 45k-Mile 2001 BMW M5",
+      "summary": "This 2001 BMW M5 was initially delivered to Peter Pan BMW of San Mateo, California, and it resided with one owner in that state until it was purchased in March 2020 by the seller. Indicating 45k miles, the car was specified in Individual Cosmos Black Metallic over Black and Silverstone Nappa Point leather, and it has been modified with an aFe Power Magnum Force Pro 5R Stage 2 air-intake system and Evolve Alpha N ECU tuning for the 4.9-liter V8. The engine is linked with a six-speed manual transmission and a limited-slip differential, and additional revisions include a Supersprint exhaust…",
+      "url": "https://bringatrailer.com/listing/2001-bmw-m5-288/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/2001_bmw_m5_2001_bmw_m5_019048f0-eeec-49e0-b296-f4c0dc004e4d-UA1hYY-12071-12072-scaled-1-copy-2026-06-22-3ed-63206-scaled.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/2001_bmw_m5_2001_bmw_m5_019048f0-eeec-49e0-b296-f4c0dc004e4d-UA1hYY-12071-12072-scaled-1-copy-2026-06-22-3ed-63206-scaled.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-13T17:00:14+00:00"
+    },
+    {
+      "id": "5b263771539b6476",
+      "title": "BMW EVs vs. Gas Cars: The Resale Gap Is Still Huge in 2026",
+      "summary": "BMW’s EVs are getting better, faster, and easier to live with. But according to iSeeCars’ 2026 resale value data, the used market still doesn’t view them as favorably as their gas-powered counterparts. Across the board,... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/13/bmw-evs-vs-gas-cars-resale-value-2026/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-13T16:09:58+00:00"
+    },
+    {
+      "id": "b66461cc2c03cc8c",
+      "title": "BTCC newcomer fills final WSR BMW seat for rest of 2026",
+      "summary": "West Surrey Racing has filled the seat of its third BMW 330i M Sport for the remainder of the British Touring Car Championship season, as Lewis Gilbert makes the switch to tin-tops from GB3. Scottish single-seater convert Gilbert will join WSR from the Thruxton round on 25-26 July, and will partner race-winning duo Charles Rainford and Daryl De Leon in the team’s line-up. The 22-year-old ... Keep reading",
+      "url": "https://www.autosport.com/btcc/news/btcc-newcomer-fills-final-wsr-bmw-seat-for-rest-of-2026/10838620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+      "image": "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+      "images": [
+        "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+        "https://cdn-9.motorsport.com/images/usa/x6zDxZ72/s2/img923954371-1.jpg",
+        "https://cdn-2.motorsport.com/images/amp/6DGgqD4Y/s1000/lewis-gilbert-wsr-bmw.webp",
+        "https://cdn.motorsport.com/images/amp/0o5PDnwY/s2/rainford-0t9a7368.jpg",
+        "https://cdn-9.motorsport.com/images/usa/x6zDxZ72/s100/img923954371-1.webp",
+        "https://cdn-4.motorsport.com/images/amp/01QdLgZ0/s300/connor-kay-002.webp"
+      ],
+      "source": "Autosport All",
+      "source_url": "https://www.autosport.com",
+      "published": "2026-07-13T16:00:03+00:00"
+    },
+    {
+      "id": "269161b6c8f11b9d",
+      "title": "The Motorcycle That Costs Less To Own Than You'd Expect",
+      "summary": "A BMW badge usually means premium upkeep, especially in the high-ticket ADV world, but the notion isn't entirely accurate, as this Beemer proves so",
+      "url": "https://www.topspeed.com/motorcycle-costs-less-to-own-than-you-expect/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-r-1250-gs-adventure.avif",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-r-1250-gs-adventure.avif"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-13T15:32:18+00:00"
+    },
     {
       "id": "6533e031309fd1ad",
       "title": "El nuevo BMW X5 no es un verdadero 4x4, pero sí esconde las claves todoterreno del futuro Clase G de BMW",
@@ -92,32 +159,6 @@
       "published": "2026-07-13T15:30:31+00:00"
     },
     {
-      "id": "8ee5876d9e2fa92d",
-      "title": "Mazda's 340-HP Inline-Six SUV Out-Tows A BMW X3 M50 For $17,000 Less",
-      "summary": "The current Mazda CX-70 draws some interesting comparisons with a BMW and Genesis, even if they are from a different segment.",
-      "url": "https://carbuzz.com/mazda-340-hp-cx-70-bmw-x3-m50-towing-capacity-comparison/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x3-comparison-main.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/bmw-x3-comparison-main.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-13T14:33:11+00:00"
-    },
-    {
-      "id": "4dee90275d2f9b05",
-      "title": "2003 BMW M3 Convertible 6-Speed at No Reserve",
-      "summary": "This 2003 BMW M3 convertible remained under the care of the previous owner for two decades until it was acquired by the seller in 2024. Work under current ownership has included servicing the double-VANOS system for the 3.2-liter inline-six as well as replacing the drive belts, tensioners, and alternator. The car is finished in Steel Gray Metallic over Gray Nappa leather and is equipped with a six-speed manual transmission and a limited-slip differential as well as a black soft top, 18\" M double-spoke Style 67 wheels, xenon headlights, heated power-adjustable front sport seats, a Harman…",
-      "url": "https://bringatrailer.com/listing/2003-bmw-m3-convertible-178/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_3406-scaled-copy-2026-06-29-dxi-67108.jpeg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_3406-scaled-copy-2026-06-29-dxi-67108.jpeg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-13T14:30:03+00:00"
-    },
-    {
       "id": "39e7aac479ebd76d",
       "title": "BMW M Boss Explains Why Sales Are Slightly Down This Year",
       "summary": "2025 was the 14th consecutive record year for BMW M, but it looks as though the winning streak is coming to an end. Through the first six months of 2026, deliveries are down 6% to... First published by https://www.bmwblog.com",
@@ -129,37 +170,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T13:49:49+00:00"
-    },
-    {
-      "id": "7665a30e27a0f947",
-      "title": "This 34-Year-Old BMW-Powered Coupe Is Still The World's Fastest Naturally Aspirated Car",
-      "summary": "The McLaren F1 made its debut in 1992. After three decades it is still the fastest naturally-aspirated car in the world.",
-      "url": "https://carbuzz.com/mclaren-f1-fastest-naturally-aspirated-car-in-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/mclaren-f1-engine-bay.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/mclaren-f1-engine-bay.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-13T13:27:11+00:00"
-    },
-    {
-      "id": "5c0b044e2e63984d",
-      "title": "Low-Mile E30 Convertible: 1990 BMW 325iC",
-      "summary": "If you have been hunting for a modern classic that balances usability, style, and a fun overall experience, the BMW E30 3-Series is a great option. They are fun to drive, modern enough to be easy to live with... Read More »",
-      "url": "https://barnfinds.com/low-mile-e30-convertible-1990-bmw-325ic/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-1-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-38-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-3-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-18-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-12-e1783115815217-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-5-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-07-13T13:10:34+00:00"
     },
     {
       "id": "38b6a9b35fcf1a5f",
@@ -179,26 +189,13 @@
       "title": "Valentino Rossi aims for Nurburgring permit before end of 2026",
       "summary": "Nine-time motorcycle world champion Valentino Rossi wants to secure his Nordschleife permit in the Nurburgring Endurance Series (NLS) before the end of the 2026 season, bringing his dream of competing in the 24-hour race one step closer, Motorsport.com has learned. The BMW factory driver and his management are looking for an open slot in one of the remaining NLS rounds. The key condition is ... Keep reading",
       "url": "https://www.motorsport.com/NLS/news/valentino-rossi-aims-for-nurburgring-permit-before-end-of-2026/10838559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg"
+        "https://cdn-2.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
       "published": "2026-07-13T13:01:08+00:00"
-    },
-    {
-      "id": "19c3a6b4548fcdbd",
-      "title": "50k-Mile 2002 BMW M3 Coupe 6-Speed",
-      "summary": "This Imola Red 2002 BMW M3 coupe was initially delivered to Bill Jacobs Motorsport in Naperville, Illinois, and remained under the care of two owners before being purchased by the seller in 2026. Indicating 50k miles, the car is powered by a 3.2-liter S54 inline-six fitted with Status Gruppe Tuning headers, while the six-speed manual transmission is equipped with a B&M Precision shifter. It was optioned with the Cold Weather and Power Seat Packages and further features a limited-slip differential, 18\" M double-spoke Style 67 wheels, aftermarket lowering springs, a power sunroof, xenon…",
-      "url": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-130/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_1947-scaled-65611-1-copy-2026-07-01-4qo-28322.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_1947-scaled-65611-1-copy-2026-07-01-4qo-28322.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-13T12:50:13+00:00"
     },
     {
       "id": "6fdea060fb942dfa",
@@ -342,7 +339,7 @@
         "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-4.motorsport.com/images/amp/0arKmJN2/s300/maverick-vinales-red-bull-ktm--2.webp"
+        "https://cdn-7.motorsport.com/images/amp/0arKmJN2/s300/maverick-vinales-red-bull-ktm--2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -353,9 +350,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-7.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -373,7 +370,7 @@
         "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-9.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-5.motorsport.com/images/amp/0rVxXBW0/s300/race-start-2.webp"
+        "https://cdn-9.motorsport.com/images/amp/0rVxXBW0/s300/race-start-2.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -384,9 +381,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -443,19 +440,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-12T10:00:21+00:00"
-    },
-    {
-      "id": "bd03714b351e3ca2",
-      "title": "BMW presume de lo seguro que es su iX3, pero un coche chino 27.000 euros más barato le come la tostada (y puedes comprarlo en España)",
-      "summary": "El iX3 es el primer BMW de la nueva \"Neue Klasse\" y es uno de esos coches que da un verdadero salto tecnológico, las cosas como son. La marca está orgullosa de su coche y presume de sus muchas virtudes, incluyendo sus resultados en las pruebas de seguridad de Euro NCAP. Lo que no dice BMW es que un coche chino 20.000 euros más barato le ha superado en prácticamente todo. El BMW iX3 y el Zeekr 7GT son los primeros que se examinan con los nuevos protocolos Euro NCAP El BMW iX3 ha conseguido las cinco estrellas de Euro NCAP bajo los nuevos, y más exigentes, protocolos estrenados en 2026 , que…",
-      "url": "https://www.diariomotor.com/noticia/bmw-ix3-seguridad-euro-ncap-vs-zeekr-7gt-2026/",
-      "image": "https://www.diariomotor.com/imagenes/2026/07/bmw-ix3-vs-zeekr-7gt-euroncap-6a50e01c2c7a5.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/07/bmw-ix3-vs-zeekr-7gt-euroncap-6a50e01c2c7a5.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-12T08:30:32+00:00"
     },
     {
       "id": "5893e6a2c993e66e",
@@ -557,22 +541,9 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-11T13:28:00+00:00"
-    },
-    {
-      "id": "1f9a041e784c57bc",
-      "title": "Eerste Bovensiepen wil vooral unieke GT zijn maar M4-genen blijven zichtbaar",
-      "summary": "Nu de merknaam Alpina verkocht is aan BMW, kan de familie Bovensiepen zich toeleggen op het volgende hoofdstuk. Dat begint met een exclusieve coachbuild door Zagato, maar teert eveneens op een M-model uit München om het nieuwe merk een vliegende start te geven.",
-      "url": "https://www.autoweek.nl/autotests/artikel/eerste-bovensiepen-wil-vooral-unieke-gt-zijn-maar-m4-genen-blijven-zichtbaar/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/275738222/width/800/275738222",
-      "images": [
-        "https://images.autoweek.nl/275738222/width/800/275738222"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-11T12:57:15+00:00"
     },
     {
       "id": "9a92771185b27951",
@@ -780,19 +751,6 @@
       "published": "2026-07-10T11:08:59+00:00"
     },
     {
-      "id": "d89ee783f1be9f7f",
-      "title": "BMW Global Sales Slip In H1 2026, But It’s Not All Bad News",
-      "summary": "The first six months of the year were something of a mixed bag for the BMW Group. On the one hand, sales rose by 5.4% in Europe to 496,651 units and by 3.9% in the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/10/bmw-global-sales-first-half-2026/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/08/2025-bmw-m5-touring-review-06-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/08/2025-bmw-m5-touring-review-06-830x467.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-10T11:07:28+00:00"
-    },
-    {
       "id": "5777c945b2af051b",
       "title": "The New BMW iX3 Is Closing In On 100,000 Orders",
       "summary": "To say the second-generation iX3 is off to a great start would be quite an understatement. By the middle of March, BMW already had more than 50,000 people waiting in line to buy the electric... First published by https://www.bmwblog.com",
@@ -801,7 +759,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Alpine-White-5-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-10T09:58:19+00:00"
     },
@@ -1443,19 +1401,6 @@
       "published": "2026-07-02T14:13:32+00:00"
     },
     {
-      "id": "1b65f10dddd79f78",
-      "title": "One In Five BMW X5s Sold In The US Is A Plug-In Hybrid",
-      "summary": "For the first time in the BMW X5’s history, there are now two plug-in hybrid versions. However, the bad news is that the United States is only getting the regular 50e. Customers in Europe and... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/02/one-in-five-bmw-x5s-sold-in-the-us-is-a-plug-in-hybrid/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/02/2024-bmw-x5-xdrive50e-exterior-65-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2023/02/2024-bmw-x5-xdrive50e-exterior-65-830x553.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-02T13:11:21+00:00"
-    },
-    {
       "id": "70c72267d2aef884",
       "title": "BMW’s X5 Will Remind You Of Musk Every Time You Turn On The Lights",
       "summary": "The new BMW X5 breaks from every other Neue Klasse model with X-shaped running lights that double as flashing turn signals",
@@ -1656,7 +1601,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2007,7 +1952,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2033,7 +1978,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2088,19 +2033,6 @@
       "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-21T17:39:23+00:00"
-    },
-    {
-      "id": "4c5cfa97f94a25bc",
-      "title": "Rising from the Ashes: Hellgate Moto’s BMW K1100RS",
-      "summary": "If you happen to find yourself on the North Shore of Long Island, weaving throug...",
-      "url": "https://www.bikeexif.com/hellgate-motos-bmw-k1100rs",
-      "image": "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063",
-      "images": [
-        "https://images.bikeexif.com/2026/05/_1200x675_crop_center-center_82_line/Hellgate-BMW-K1100RS-10.jpg?v=1779993063"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-20T18:00:00+00:00"
     },
     {
       "id": "0b47c5876be6b9b5",
@@ -2293,7 +2225,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2660,19 +2592,6 @@
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
       "published": "2026-06-11T20:09:12+00:00"
-    },
-    {
-      "id": "ba1dd278feed0104",
-      "title": "BMW Could Bring More Wagons To America: 'We Will Look Into Touring Concepts'",
-      "summary": "The M5 Touring has done well enough that BMW is open to more wagon models here in the US.",
-      "url": "https://www.motor1.com/news/798480/more-bmw-wagon-options-coming/",
-      "image": "https://cdn.motor1.com/images/mgl/rKEQX9/s3/bmw-m3-cs-touring-2025.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/rKEQX9/s3/bmw-m3-cs-touring-2025.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-11T17:00:00+00:00"
     },
     {
       "id": "b4b1a62b67af45e0",
@@ -3112,7 +3031,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3216,7 +3135,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -4155,19 +4074,6 @@
       "source": "Motor1 Volvo",
       "source_url": "https://www.motor1.com",
       "published": "2026-04-14T19:00:00+00:00"
-    },
-    {
-      "id": "daa416addc62a9cb",
-      "title": "BMW is killing off the iX in the US to make room for the first Neue Klasse EV",
-      "summary": "BMW is pulling the iX from its US lineup as it prepares to launch the first Neue Klasse EV later this year, the all-new iX3.",
-      "url": "https://electrek.co/2026/04/14/bmw-kills-off-ix-us-with-first-neue-klasse-ev-arriving/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
-      ],
-      "source": "Electrek BMW iX",
-      "source_url": "https://electrek.co",
-      "published": "2026-04-14T17:52:51+00:00"
     }
   ]
 }
