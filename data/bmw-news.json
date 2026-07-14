@@ -1,19 +1,18 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-14T20:21:01.719805+00:00",
-  "generated_at_human": "2026-07-14 20:21 UTC",
-  "total_items": 295,
+  "generated_at": "2026-07-14T22:09:50.827167+00:00",
+  "generated_at_human": "2026-07-14 22:09 UTC",
+  "total_items": 290,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
-    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
@@ -41,16 +40,14 @@
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
+    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
-    "CarScoops Hyundai",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "Diariomotor",
@@ -69,9 +66,22 @@
     "RACER",
     "Racecar Engineering"
   ],
-  "sources_count": 64,
+  "sources_count": 61,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "a7b869b439855b4c",
+      "title": "This BMW M3 Record-Breaker Just Cracked A Half Million Bucks At Auction",
+      "summary": "This is the most expensive E30 Sport Evolution ever sold at auction, with a final gavel of £404,375, or more than $520,000 in US dollars.",
+      "url": "https://carbuzz.com/bmw-e30-m3-half-million-auction-july-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/1990-bmw-m3-sport-evolution-exterior-grille-closeup.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/1990-bmw-m3-sport-evolution-exterior-grille-closeup.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-14T21:04:54+00:00"
+    },
     {
       "id": "e54730efb30c7bf5",
       "title": "BMW Tells 29,919 Owners To Keep Their Hybrids Away From The House",
@@ -89,19 +99,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-07-14T20:06:00+00:00"
-    },
-    {
-      "id": "b06a0402226ed6fc",
-      "title": "29-Years-Owned 1988 BMW M3",
-      "summary": "This 1988 BMW M3 is one of approximately 5,300 examples produced for the North American market between 1987 and 1990, and it shows 99k miles, about 55k of which were added by its current owner of 29 years. Finished in Alpine White over Black leather, the car is powered by a 2.3-liter S14B23 inline-four mated to a five-speed manual transmission and a limited-slip differential. Additional equipment includes 16″ basketweave wheels, a sunroof, a rear spoiler, fog lights, front sport seats, an AM/FM/cassette stereo, air conditioning, and an onboard computer. This E30 M3 is now offered on dealer…",
-      "url": "https://bringatrailer.com/listing/1988-bmw-m3-287/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/SP4_7065-Edit-copy-2026-07-07-xvj-48930.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/SP4_7065-Edit-copy-2026-07-07-xvj-48930.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-14T20:02:32+00:00"
     },
     {
       "id": "a6aaa09414f43011",
@@ -304,7 +301,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb14471.jpg?itok=omatg_vX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-14T03:00:00+00:00"
     },
@@ -577,7 +574,7 @@
         "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
+        "https://cdn-1.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -592,7 +589,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/bmw-i3-touring-renderings-00-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-12T12:00:56+00:00"
     },
@@ -686,19 +683,6 @@
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-11T13:28:00+00:00"
-    },
-    {
-      "id": "9a92771185b27951",
-      "title": "BMW iX5 vs Porsche Cayenne Electric: How the Numbers Really Compare",
-      "summary": "BMW iX5 vs Porsche Cayenne Electric compared: range, price, charging speed and 0-60 times. See which luxury electric SUV wins on the numbers. The post BMW iX5 vs Porsche Cayenne Electric: How the Numbers Really Compare appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/07/bmw-ix5-vs-porsche-cayenne-electric-how-the-numbers-really-compare/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX5-vs-Porsche-Cayenne-Electric.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX5-vs-Porsche-Cayenne-Electric.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-07-11T11:21:46+00:00"
     },
     {
       "id": "cbe6f4fdd9945cb0",
@@ -1184,19 +1168,6 @@
       "published": "2026-07-05T19:43:25+00:00"
     },
     {
-      "id": "7e32f01e68698625",
-      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
-      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
-      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
-      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
-      "images": [
-        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-07-05T18:00:00+00:00"
-    },
-    {
       "id": "42248dd4d273bbee",
       "title": "The New BMW X5 Has One Option You Can’t Remove Yet",
       "summary": "Shortly after the G65 made its world premiere earlier this week, the luxury SUV began appearing in configurators across Europe. While you’re limited to the 40 xDrive and 40d xDrive for now, the plug-in hybrids... First published by https://www.bmwblog.com",
@@ -1457,19 +1428,6 @@
       "published": "2026-06-30T19:19:00+00:00"
     },
     {
-      "id": "60f53f84f68109c1",
-      "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
-      "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
-      "url": "https://www.bikeexif.com/powerbricks-harley-davidson-lowrider-s-cafe-racer",
-      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010",
-      "images": [
-        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-30T18:00:00+00:00"
-    },
-    {
       "id": "322d07dc9c90204a",
       "title": "BMW iX5 vs iX3 Photo Comparison: Neue Klasse, Two Sizes",
       "summary": "It has been half a decade since BMW launched its first SUV, the BMW iX. Today, BMW launches their third electric SUV ever, the iX5, which will run concurrent with the iX3 to satisfy most,... First published by https://www.bmwblog.com",
@@ -1631,7 +1589,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -1647,19 +1605,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-06-29T21:00:00+00:00"
-    },
-    {
-      "id": "4e5a8b23b8a3dd65",
-      "title": "Hyundai’s EVs Already Fake Engine Sounds, And Now They Might Vibrate Too",
-      "summary": "The fake gears everyone called a gimmick became the template Porsche, Mercedes-AMG, and BMW M all copied, and Hyundai isn't finished yet",
-      "url": "https://www.carscoops.com/2026/06/hyundai-n-ev-engine-vibrations/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/68688-DSC5053-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/68688-DSC5053-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Hyundai",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-29T16:23:00+00:00"
     },
     {
       "id": "11673d883570706e",
@@ -1956,22 +1901,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
-    },
-    {
-      "id": "684514cadb9df570",
-      "title": "Bavarian Bliss: Our 7 Favorite Custom Motorcycles from the BMW MOA Builder's Best Show",
-      "summary": "For over half a century, the BMW Motorcycle Owners of America has served as the...",
-      "url": "https://www.bikeexif.com/7-favorite-custom-motorcycles-from-the-bmw-moa-builders-best-show",
-      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504",
-      "images": [
-        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-22T18:00:00+00:00"
     },
     {
       "id": "c9762ebfc548d6b2",
@@ -2216,7 +2148,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3001,7 +2933,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3105,7 +3037,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3430,7 +3362,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog X2",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
