@@ -1,17 +1,18 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-14T03:28:14.242812+00:00",
-  "generated_at_human": "2026-07-14 03:28 UTC",
-  "total_items": 305,
+  "generated_at": "2026-07-14T06:22:15.740672+00:00",
+  "generated_at_human": "2026-07-14 06:22 UTC",
+  "total_items": 304,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW",
+    "Autocar",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
+    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 6",
     "BMW Blog 7 tag",
@@ -40,13 +41,12 @@
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -61,6 +61,7 @@
     "InsideEVs",
     "Jalopnik",
     "Kolesa RU",
+    "Motor.es",
     "Motor1 BMW",
     "Motor1 Land Rover",
     "Motor1 Technology",
@@ -69,7 +70,6 @@
     "Motoring Research",
     "Motorsport All",
     "Motorsport WEC",
-    "Paul Tan",
     "RACER",
     "Racecar Engineering",
     "Response JP"
@@ -77,6 +77,45 @@
   "sources_count": 69,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "960be29a33f082e3",
+      "title": "Goodwood 2026: BMW 7er Facelift zeigt Luxus-Interieur des M760e",
+      "summary": "Das derzeit luxuriöseste Interieur sowie das individuellste Exterieur der Marke präsentierten die Münchner in Goodwood mit einem BMW 7er Facelift (G70 LCI): Die erst vor...",
+      "url": "https://www.bimmertoday.de/2026/07/14/goodwood-2026-bmw-7er-facelift-zeigt-luxus-interieur-des-m760e/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-07-14T05:48:59+00:00"
+    },
+    {
+      "id": "6450c8d61f2fbf6a",
+      "title": "Shell and BMW at Le Mans: the secrets behind the livery",
+      "summary": "We went behind the scenes with Shell at the 2026 Le Mans 24 Hours to discover how the partnership is much more than just a cool paint scheme. The post Shell and BMW at Le Mans: the secrets behind the livery appeared first on Motoring Research .",
+      "url": "https://www.motoringresearch.com/features/shell-bmw-le-mans-secrets-behind-livery/",
+      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/Hypercar.jpg",
+      "images": [
+        "https://www.motoringresearch.com/wp-content/uploads/2026/07/Hypercar.jpg"
+      ],
+      "source": "Motoring Research",
+      "source_url": "https://www.motoringresearch.com",
+      "published": "2026-07-14T05:39:59+00:00"
+    },
+    {
+      "id": "10e2baebc7e6fc4c",
+      "title": "El nuevo BMW X5 M60 xDrive revela en estas fotos espía un detalle nunca visto, un SUV deportivo con motor V8 y 550 CV",
+      "summary": "Fotos espía BMW X5 M60 xDrive 2027. Motor.es El nuevo BMW X5 ya se ha presentado y también se ha puesto a la venta, en un principio con una corta gama de versiones. Pero las pruebas continúan, como las de este deportivo M60 xDrive que ya muestra sus credenciales en estas últimas fotos espía, y un detalle único. BMW sabe que la competencia de la quinta generación del X5 se ha renovado y que no podía permitirse esperar un tiempo para anunciar su comercialización. La marca alemana ha optado por una estrategia más lógica, la de anunciar los precios de este nuevo BMW X5 , confiando en que los…",
+      "url": "https://www.motor.es/noticias/bmw-x5-m60-xdrive-fotos-espia-2027-2026115255.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-x5-2027-2026115255-1783944566_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/07/bmw-x5-2027-2026115255-1783944566_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-07-14T05:00:00+00:00"
+    },
     {
       "id": "5da9e696d7ff60ce",
       "title": "Polestar 4 SUV almost ready for 2 September reveal",
@@ -86,7 +125,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb14471.jpg?itok=omatg_vX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-14T03:00:00+00:00"
     },
@@ -128,19 +167,6 @@
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
       "published": "2026-07-13T23:24:06+00:00"
-    },
-    {
-      "id": "49d5dde1a8e9b694",
-      "title": "BMW M2に新キット装着、独ニュルブルクリンクで「M2 C2」の記録更新",
-      "summary": "・BMW M2 M Performance Track Kitがニュルブルクリンク北コースで7分25秒068を達成した ・今回の走行はTUVラインランドが検証し、厳しい気温や油跡が影響した ・新開発の専用シャシーと大規模なエアロパッケージが記録を支えた",
-      "url": "https://response.jp/article/2026/07/14/413983.html",
-      "image": "https://response.jp/imgs/rss/2227174.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2227174.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-07-13T22:00:03+00:00"
     },
     {
       "id": "f5d729e4d8109b29",
@@ -256,14 +282,14 @@
       "title": "BTCC newcomer fills final WSR BMW seat for rest of 2026",
       "summary": "West Surrey Racing has filled the seat of its third BMW 330i M Sport for the remainder of the British Touring Car Championship season, as Lewis Gilbert makes the switch to tin-tops from GB3. Scottish single-seater convert Gilbert will join WSR from the Thruxton round on 25-26 July, and will partner race-winning duo Charles Rainford and Daryl De Leon in the team’s line-up. The 22-year-old ... Keep reading",
       "url": "https://www.autosport.com/btcc/news/btcc-newcomer-fills-final-wsr-bmw-seat-for-rest-of-2026/10838620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+        "https://cdn-9.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
         "https://cdn-9.motorsport.com/images/usa/x6zDxZ72/s2/img923954371-1.jpg",
         "https://cdn-2.motorsport.com/images/amp/6DGgqD4Y/s1000/lewis-gilbert-wsr-bmw.webp",
         "https://cdn.motorsport.com/images/amp/0o5PDnwY/s2/rainford-0t9a7368.jpg",
         "https://cdn-9.motorsport.com/images/usa/x6zDxZ72/s100/img923954371-1.webp",
-        "https://cdn-1.motorsport.com/images/amp/01QdLgZ0/s300/connor-kay-002.webp"
+        "https://cdn-3.motorsport.com/images/amp/01QdLgZ0/s300/connor-kay-002.webp"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -296,19 +322,6 @@
       "published": "2026-07-13T13:49:49+00:00"
     },
     {
-      "id": "5c0b044e2e63984d",
-      "title": "Low-Mile E30 Convertible: 1990 BMW 325iC",
-      "summary": "If you have been hunting for a modern classic that balances usability, style, and a fun overall experience, the BMW E30 3-Series is a great option. They are fun to drive, modern enough to be easy to live with... Read More »",
-      "url": "https://barnfinds.com/low-mile-e30-convertible-1990-bmw-325ic/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/07/1990-BMW-325iC-1-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-07-13T13:10:34+00:00"
-    },
-    {
       "id": "38b6a9b35fcf1a5f",
       "title": "BMW iX5 Captivates Crowds At The Goodwood Festival Of Speed",
       "summary": "It’s only been a couple of weeks since the new BMW X5 broke cover, and now its electric sibling has made its auto show debut. Granted, the Goodwood Festival of Speed isn’t a traditional motor... First published by https://www.bmwblog.com",
@@ -326,9 +339,9 @@
       "title": "Valentino Rossi aims for Nurburgring permit before end of 2026",
       "summary": "Nine-time motorcycle world champion Valentino Rossi wants to secure his Nordschleife permit in the Nurburgring Endurance Series (NLS) before the end of the 2026 season, bringing his dream of competing in the 24-hour race one step closer, Motorsport.com has learned. The BMW factory driver and his management are looking for an open slot in one of the remaining NLS rounds. The key condition is ... Keep reading",
       "url": "https://www.motorsport.com/NLS/news/valentino-rossi-aims-for-nurburgring-permit-before-end-of-2026/10838559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg"
+        "https://cdn-9.motorsport.com/images/amp/2wBNzyB0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -434,22 +447,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mercedes_cle_v_bmw_i4_v_audi_q5.jpg?itok=knDf59ai"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-13T03:00:00+00:00"
-    },
-    {
-      "id": "9993763791c177f0",
-      "title": "2026 BMW X3 30 xDrive M Sport outdoor gallery in Malaysia – 258 PS/400 Nm, 15 speakers, from RM359k",
-      "summary": "From June 2025 to April 2026, the BMW X3 20 was the only fourth-gen (G45) X3 on sale in Malaysia. Not any more. This now lords over it – the RM358,800 (or RM386,700 with BSRI) […] The post 2026 BMW X3 30 xDrive M Sport outdoor gallery in Malaysia – 258 PS/400 Nm, 15 speakers, from RM359k appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/13/2026-bmw-x3-30-xdrive-m-sport-outdoor-gallery-in-malaysia/",
-      "image": "https://paultan.org/image/2026/07/2026-BMW-X3-30-Malaysia-Ext-1-630x420.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/2026-BMW-X3-30-Malaysia-Ext-1-630x420.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-13T01:30:11+00:00"
     },
     {
       "id": "3b77ae4286754667",
@@ -476,7 +476,7 @@
         "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/0arKmJN2/s300/maverick-vinales-red-bull-ktm--2.webp"
+        "https://cdn-2.motorsport.com/images/amp/0arKmJN2/s300/maverick-vinales-red-bull-ktm--2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -487,9 +487,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -665,7 +665,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-11T13:28:00+00:00"
     },
@@ -746,19 +746,6 @@
       "source": "Electric Cars Report",
       "source_url": "https://electriccarsreport.com",
       "published": "2026-07-11T09:16:45+00:00"
-    },
-    {
-      "id": "6284d09f5c2aa306",
-      "title": "The best German cars ever made",
-      "summary": "Germany is famous as the home of some of the world's great car makers. We look at some of the cars they've built that we think are the best Germany is one of the most prolific car-building nations in the world. This in turn gives it a brilliant back catalogue of all types of car. Here, we choose the best Germany has to offer from the present and past, arranged in alphabetical order: Alpina B3 There has been an Alpina B3 for every generation of BMW 3 Series, with the tuning firm adding more than a sprinkle of extra performance. It all started with the B3 2.7 based on the E30 3 Series and…",
-      "url": "https://www.autocar.co.uk/car-news/slideshow/best-german-cars-ever-made",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-ruf_autocar_0_0_0_0_7_1_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0_0.jpg?itok=jPOePo7X",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-ruf_autocar_0_0_0_0_7_1_0_0_0_0_0_1_0_0_0_0_0_0_0_0_0_0.jpg?itok=jPOePo7X"
-      ],
-      "source": "Autocar BMW",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-11T07:04:38+00:00"
     },
     {
       "id": "c0c0f10b407e36d4",
@@ -1668,7 +1655,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2006,7 +1993,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2032,7 +2019,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3072,7 +3059,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3176,7 +3163,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
