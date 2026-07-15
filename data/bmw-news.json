@@ -1,18 +1,19 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-14T22:09:50.827167+00:00",
-  "generated_at_human": "2026-07-14 22:09 UTC",
-  "total_items": 290,
+  "generated_at": "2026-07-15T00:02:38.664460+00:00",
+  "generated_at_human": "2026-07-15 00:02 UTC",
+  "total_items": 294,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
+    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
@@ -40,6 +41,7 @@
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
+    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver BMW",
@@ -66,9 +68,22 @@
     "RACER",
     "Racecar Engineering"
   ],
-  "sources_count": 61,
+  "sources_count": 63,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "e0def7df46aa092f",
+      "title": "BMW Says Park These Plug-In Hybrids Outside Now",
+      "summary": "BMW is recalling 29,119 plug-in hybrid sedans built between 2016 and 2020 because water can seep into the starter’s electrical relay, corrode it, and cause a short circuit. In the worst case, BMW says in... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/14/bmw-330e-530e-740le-starter-fire-recall/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2021/02/2020_bmw_530e_review-21-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2021/02/2020_bmw_530e_review-21-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-14T23:43:29+00:00"
+    },
     {
       "id": "a7b869b439855b4c",
       "title": "This BMW M3 Record-Breaker Just Cracked A Half Million Bucks At Auction",
@@ -301,7 +316,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb14471.jpg?itok=omatg_vX"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-14T03:00:00+00:00"
     },
@@ -406,9 +421,9 @@
       "title": "BTCC newcomer fills final WSR BMW seat for rest of 2026",
       "summary": "West Surrey Racing has filled the seat of its third BMW 330i M Sport for the remainder of the British Touring Car Championship season, as Lewis Gilbert makes the switch to tin-tops from GB3. Scottish single-seater convert Gilbert will join WSR from the Thruxton round on 25-26 July, and will partner race-winning duo Charles Rainford and Daryl De Leon in the team’s line-up. The 22-year-old ... Keep reading",
       "url": "https://www.autosport.com/btcc/news/btcc-newcomer-fills-final-wsr-bmw-seat-for-rest-of-2026/10838620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -589,7 +604,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/bmw-i3-touring-renderings-00-830x467.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-12T12:00:56+00:00"
     },
@@ -602,7 +617,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/2027-bmw-x7-g67-03-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-12T10:00:21+00:00"
     },
@@ -615,7 +630,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-M-Concept-Neue-Klasse-1-1-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-12T08:00:34+00:00"
     },
@@ -1168,6 +1183,19 @@
       "published": "2026-07-05T19:43:25+00:00"
     },
     {
+      "id": "7e32f01e68698625",
+      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
+      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
+      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
+      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
+      "images": [
+        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-07-05T18:00:00+00:00"
+    },
+    {
       "id": "42248dd4d273bbee",
       "title": "The New BMW X5 Has One Option You Can’t Remove Yet",
       "summary": "Shortly after the G65 made its world premiere earlier this week, the luxury SUV began appearing in configurators across Europe. While you’re limited to the 40 xDrive and 40d xDrive for now, the plug-in hybrids... First published by https://www.bmwblog.com",
@@ -1426,6 +1454,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-06-30T19:19:00+00:00"
+    },
+    {
+      "id": "60f53f84f68109c1",
+      "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
+      "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
+      "url": "https://www.bikeexif.com/powerbricks-harley-davidson-lowrider-s-cafe-racer",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-30T18:00:00+00:00"
     },
     {
       "id": "322d07dc9c90204a",
@@ -1901,9 +1942,22 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
+    },
+    {
+      "id": "684514cadb9df570",
+      "title": "Bavarian Bliss: Our 7 Favorite Custom Motorcycles from the BMW MOA Builder's Best Show",
+      "summary": "For over half a century, the BMW Motorcycle Owners of America has served as the...",
+      "url": "https://www.bikeexif.com/7-favorite-custom-motorcycles-from-the-bmw-moa-builders-best-show",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/BMW-MOA-Builders-Best-7_2026-06-16-202120_kakw.jpeg?v=1781641504"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-22T18:00:00+00:00"
     },
     {
       "id": "c9762ebfc548d6b2",
@@ -1914,7 +1968,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2148,7 +2202,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -2933,7 +2987,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3037,7 +3091,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3362,7 +3416,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog X2",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
