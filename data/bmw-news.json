@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-16T16:38:41.983982+00:00",
-  "generated_at_human": "2026-07-16 16:38 UTC",
-  "total_items": 304,
+  "generated_at": "2026-07-16T18:17:10.650913+00:00",
+  "generated_at_human": "2026-07-16 18:17 UTC",
+  "total_items": 302,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -45,38 +45,64 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
-    "Hooniverse",
     "InsideEVs",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
     "Motor1 Volvo",
-    "Motoring Research",
     "Motorious",
     "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering",
     "Response JP",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
   "sources_count": 69,
-  "multi_photo_items": 13,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "5d0a08aef7ad9d7c",
+      "title": "10 BMW Models You Should Buy Used",
+      "summary": "These are the most reliable used BMW models of the last decade.",
+      "url": "https://www.topspeed.com/bmw-models-buy-used/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/09/a-rear-right-three-quarter-shot-of-a-2023-bmw-x5-m.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/09/a-rear-right-three-quarter-shot-of-a-2023-bmw-x5-m.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-16T17:00:11+00:00"
+    },
+    {
+      "id": "fac253b849c3ac3a",
+      "title": "BMW M Boss Explains Why New M3 Won't Chase Mercedes-AMG With Insane Power",
+      "summary": "The new M3 could pump out over 1,300 hp, but there are good reasons why it won't",
+      "url": "https://carbuzz.com/bmw-m3-ev-interview-horsepower-goodwood-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/bmw-heart-of-joy4.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/bmw-heart-of-joy4.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-16T16:45:15+00:00"
+    },
     {
       "id": "4ef5479361efa6c1",
       "title": "49k-Mile 2008 BMW M6 Convertible: One of 378 With a 6-Speed and S85 V10",
@@ -89,19 +115,6 @@
       "source": "Motorious",
       "source_url": "https://motorious.com",
       "published": "2026-07-16T16:00:29+00:00"
-    },
-    {
-      "id": "a9d416069ec1e780",
-      "title": "Only One Automaker Was Brave Enough To Build This Quad-Turbocharged Engine, And It's Not Bugatti",
-      "summary": "Whatever Audi does, BMW can do better. Enter the world’s only production quad-turbo engine, that sadly departed with more of a whimper than a bang",
-      "url": "https://carbuzz.com/bmw-quad-turbocharged-diesel-engine/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/p90325627_highres_the-new-bmw-x5-m50d.jpeg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/p90325627_highres_the-new-bmw-x5-m50d.jpeg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-16T14:56:15+00:00"
     },
     {
       "id": "0266a856317b06f8",
@@ -136,14 +149,9 @@
       "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/38e7aeaa-65c2-41f9-89fe-b25c80692f71.jpg?crop=0.872xw:0.873xh;0.0794xw",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/38145769-a897-4382-9bde-2236eb259521.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/7b5f76aa-db50-4363-8d8e-88b9d619f1b7.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/3b7d813d-b076-4d7e-b6a1-b7e58b6f9a0c.jpg?resize=980:*"
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-16T13:07:00+00:00"
     },
@@ -172,7 +180,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/P90649452_highRes_repsol-and-bmw-2048x1366.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/P90649453_highRes_repsol-and-bmw-2048x1366.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-3-Series-Neue-Klasse-Scoop-Baldauf-4s-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/20260715_01_02-copy_1-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/P90646057_highRes_bmw-ix5-60-xdrive-06-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -312,19 +320,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-16T06:36:13+00:00"
-    },
-    {
-      "id": "df3d97a3e8a04369",
-      "title": "El nuevo BMW i3 Touring se deja ver por primera vez en estas fotos espía, el segundo familiar eléctrico de la marca",
-      "summary": "Fotos espía BMW i3 Touring 2027. SH Proshots Se había convertido en el reto de nuestros fotógrafos. Estas son las primerísimas fotos espía de un BMW i3 Touring que salió a las calles muniquesas hace tan sólo unos días, y prácticamente terminado. El segundo familiar eléctrico de la marca con más de 800 km de autonomía llega en 2027. Tres días han necesitado nuestros fotógrafos en Alemania para dar con uno de los prototipos que la marca muniquesa ya tenía rodando por las calles de la ciudad de Baviera. El nuevo BMW i3 Touring estaba al caer, y lo hizo el pasado domingo, cuando tuvimos…",
-      "url": "https://www.motor.es/noticias/bmw-i3-touring-2027-fotos-espia-2026115287.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-i3-touring-2026115287-1784124890_5.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/07/bmw-i3-touring-2026115287-1784124890_5.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-07-16T06:09:59+00:00"
     },
     {
       "id": "02c7693041a18427",
@@ -569,12 +564,7 @@
       "url": "https://www.carscoops.com/2026/07/bmw-electric-m3-name/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/P90643885_highRes_bmw-m-concept-neue-k-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90643885_highRes_bmw-m-concept-neue-k-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-5-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-27-1536x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-40-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-41-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-20-2048x1535.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/P90643885_highRes_bmw-m-concept-neue-k-copy-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -602,7 +592,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb30898.jpg?itok=Yy-FbuS5"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-15T09:50:53+00:00"
     },
@@ -815,19 +805,6 @@
       "published": "2026-07-14T05:48:59+00:00"
     },
     {
-      "id": "6450c8d61f2fbf6a",
-      "title": "Shell and BMW at Le Mans: the secrets behind the livery",
-      "summary": "We went behind the scenes with Shell at the 2026 Le Mans 24 Hours to discover how the partnership is much more than just a cool paint scheme. The post Shell and BMW at Le Mans: the secrets behind the livery appeared first on Motoring Research .",
-      "url": "https://www.motoringresearch.com/features/shell-bmw-le-mans-secrets-behind-livery/",
-      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/Hypercar.jpg",
-      "images": [
-        "https://www.motoringresearch.com/wp-content/uploads/2026/07/Hypercar.jpg"
-      ],
-      "source": "Motoring Research",
-      "source_url": "https://www.motoringresearch.com",
-      "published": "2026-07-14T05:39:59+00:00"
-    },
-    {
       "id": "594c3126cc578b18",
       "title": "1 of 3: BMW 503 Cabrio mit 3,2-Liter-V8 beim Goodwood Festival of Speed",
       "summary": "Wer an das Design von Albrecht Graf Goertz denkt, hat meist sofort den BMW 507 Roadster vor Augen. Viel weniger bekannt ist, dass sich zeitgleich noch...",
@@ -862,7 +839,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/2025-bmw-x3-m50-fire-red-review-15-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T18:53:04+00:00"
     },
@@ -910,9 +887,9 @@
       "title": "BTCC newcomer fills final WSR BMW seat for rest of 2026",
       "summary": "West Surrey Racing has filled the seat of its third BMW 330i M Sport for the remainder of the British Touring Car Championship season, as Lewis Gilbert makes the switch to tin-tops from GB3. Scottish single-seater convert Gilbert will join WSR from the Thruxton round on 25-26 July, and will partner race-winning duo Charles Rainford and Daryl De Leon in the team’s line-up. The 22-year-old ... Keep reading",
       "url": "https://www.autosport.com/btcc/news/btcc-newcomer-fills-final-wsr-bmw-seat-for-rest-of-2026/10838620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
+        "https://cdn-9.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -982,7 +959,7 @@
         "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
+        "https://cdn-1.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1820,19 +1797,6 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
-      "id": "0999aab7d79cf665",
-      "title": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
-      "summary": "The luxury SUV that first put the sport into sport utility is back with Neue Klasse design and five different powertrains",
-      "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
       "id": "8f4f5b74655a2a8a",
       "title": "2027 BMW X5 Is an Exercise in Neue Klasse Philosophy",
       "summary": "The original BMW SUV is getting comprehensive updates for its fifth generation. The 2027 BMW X5 stands out with Neue Klasse-inspired styling inside and out as well as a wide variety of powertrains. It also brings several firsts to the nameplate, including new in-car technology and an unexpected trim material. In the same way that […]",
@@ -1867,7 +1831,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2013,19 +1977,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -2179,7 +2130,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2834,6 +2785,19 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -3105,6 +3069,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-30T18:10:08+00:00"
+    },
+    {
+      "id": "eb3c52798b89321d",
+      "title": "Lexus’s BMW i3 Sedan Rival Is Dead, But Its Most Ambitious Tech Isn’t",
+      "summary": "Lexus reportedly shelves its next-generation electric sedan while parent company Toyota doubles down on SUVs and waits for the EV market to recover",
+      "url": "https://www.carscoops.com/2026/05/lexus-lf-zc-cancellation/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Lexus-leasd-May29261-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-29T13:11:00+00:00"
     },
     {
       "id": "2ea8f50616b7e4cc",
@@ -4080,19 +4057,6 @@
       "source": "BMW Blog 7 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-22T13:02:14+00:00"
-    },
-    {
-      "id": "8338d777fbef85de",
-      "title": "BMW iX Sales Drop in the U.S. Signals the End of a Brilliant, Misunderstood EV",
-      "summary": "People — er, Americans — simply aren’t buying the BMW iX like they used to. In Q1 2026, sales slumped to a mere 1,788 units, around a 50% drop year over year. Either seeing the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/04/17/bmw-ix-sales-collapse-us-end-misunderstood-ev/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2021/05/bmw_ix_xDrive50_33-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2021/05/bmw_ix_xDrive50_33-830x553.jpg"
-      ],
-      "source": "BMW Blog iX tag",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-04-17T16:51:36+00:00"
     }
   ]
 }
