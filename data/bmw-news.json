@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-17T10:09:25.276901+00:00",
-  "generated_at_human": "2026-07-17 10:09 UTC",
-  "total_items": 304,
+  "generated_at": "2026-07-17T12:19:50.134562+00:00",
+  "generated_at_human": "2026-07-17 12:19 UTC",
+  "total_items": 303,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
@@ -14,6 +14,7 @@
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
+    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
@@ -66,7 +67,6 @@
     "Motor1 Volvo",
     "Motoring Research",
     "Motorious",
-    "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
     "Quatro Rodas BR",
@@ -74,8 +74,21 @@
     "The Drive"
   ],
   "sources_count": 68,
-  "multi_photo_items": 16,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "b70fcebcfbf28a8d",
+      "title": "BMW Brings Its Car Configurator To ChatGPT",
+      "summary": "One of the best parts of the car-buying process starts with firing up the configurator. Even if you don’t plan on taking the plunge and actually place an order, it’s a fun way to kill... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/17/bmw-configurator-chatgpt/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/spartanburg-plant-bmw-x5-10-830x554.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/spartanburg-plant-bmw-x5-10-830x554.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-17T11:44:15+00:00"
+    },
     {
       "id": "54cab04f50858caa",
       "title": "Next petrol BMW M3 breaks cover – and it could offer a manual 'box",
@@ -119,12 +132,7 @@
       "url": "https://www.autoexpress.co.uk/bmw/3-series/370031/petrol-bmw-m3-spy-shots-and-teasers-pictures",
       "image": "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/t_rss_image_w_845/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/t_rss_image_w_845/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/f_auto,t_content-image-full-mobile@1/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
-        "https://www.autoexpress.co.uk/bmw/3-series/370031/t_content-image-full-desktop@1/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
-        "https://www.autoexpress.co.uk/bmw/3-series/370031/t_content-image-full-mobile@1/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--jXFU7AA2--/f_auto,t_content-image-full-mobile@1/v1784281445/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20rear%203_4_r36rcl.jpg",
-        "https://www.autoexpress.co.uk/bmw/3-series/370031/t_content-image-full-desktop@1/v1784281445/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20rear%203_4_r36rcl.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/t_rss_image_w_845/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -137,7 +145,12 @@
       "url": "https://paultan.org/2026/07/17/bmw-partners-with-toyota-bosch-and-repsol-for-real-world-pilot-of-vehicles-using-100-renewable-petrol/",
       "image": "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
       "images": [
-        "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg"
+        "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
+        "https://paultan.org/image/2022/05/2022-BMW-3-Series-Sedan-facelift-G20-LCI-debut-14-1260x659.jpg",
+        "https://paultan.org/ptlogo-400x180.png",
+        "https://paultan.org/image/2026/05/Jaecoo_J5_Cover-120x90.jpg",
+        "https://paultan.org/image/2026/03/2026_Proton_Saga_MC3_Cover-120x90.jpg",
+        "https://paultan.org/image/2026/01/2026_Perodua_Traz_Cover_EN-120x90.jpg"
       ],
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
@@ -401,19 +414,6 @@
       "published": "2026-07-16T10:18:56+00:00"
     },
     {
-      "id": "de3b9f0e0d860a93",
-      "title": "First BMW test after heavy crash: How Kelvin van der Linde fared",
-      "summary": "On Wednesday, eleven days after the heavy crash at the Norisring, Kelvin van der Linde returned to his BMW M4 GT3 Evo. His Schubert team utilized the only permitted private test day of the season with both BMW machines to prepare for their home game at the DTM weekend in Oschersleben. But how did the 30-year-old, who suffered bruising in the accident, fare during his comeback? \"I am incredibly ... Keep reading",
-      "url": "https://www.motorsport.com/dtm/news/first-bmw-test-after-horror-crash-how-kelvin-van-der-linde-fared/10839102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/VY91rx7Y/s6/erster-bmw-test-nach-horrorcrash-so-erging-es-kelvin-van-der-linde-26071602.jpg",
-      "images": [
-        "https://cdn-8.motorsport.com/images/amp/VY91rx7Y/s6/erster-bmw-test-nach-horrorcrash-so-erging-es-kelvin-van-der-linde-26071602.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-07-16T10:09:39+00:00"
-    },
-    {
       "id": "0927c8c33b43d769",
       "title": "Electric BMW M3 Will Have More Power Than The Gas Car, Without Going Overboard",
       "summary": "It's technically possible to extract 1,000 horsepower, but BMW M's boss deems it excessive.",
@@ -482,19 +482,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-16T05:56:02+00:00"
-    },
-    {
-      "id": "464740303ae23699",
-      "title": "BMW 218 Gran Coupé M Sport launched in Malaysia – adaptive dampers, HK audio, RM20k more at RM193k",
-      "summary": "Launched alongside the high-performance duo that is the BMW G87 M2 CS and BMW G81 M3 Touring in Malaysia today is the BMW 218 Gran Coupé M Sport, which arrives at RM192,800 with the standard […] The post BMW 218 Gran Coupé M Sport launched in Malaysia – adaptive dampers, HK audio, RM20k more at RM193k appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/16/bmw-218-gran-coupe-m-sport-launched-in-malaysia/",
-      "image": "https://paultan.org/image/2026/07/2026-BMW-218GC-MSport-Launch-Malaysia-Ext-1-630x420.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/2026-BMW-218GC-MSport-Launch-Malaysia-Ext-1-630x420.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-16T05:11:27+00:00"
     },
     {
       "id": "2214e8f8ae074616",
@@ -845,7 +832,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-bmw-m2-cs-review-10-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-14T12:36:16+00:00"
     },
@@ -984,9 +971,9 @@
       "title": "BTCC newcomer fills final WSR BMW seat for rest of 2026",
       "summary": "West Surrey Racing has filled the seat of its third BMW 330i M Sport for the remainder of the British Touring Car Championship season, as Lewis Gilbert makes the switch to tin-tops from GB3. Scottish single-seater convert Gilbert will join WSR from the Thruxton round on 25-26 July, and will partner race-winning duo Charles Rainford and Daryl De Leon in the team’s line-up. The 22-year-old ... Keep reading",
       "url": "https://www.autosport.com/btcc/news/btcc-newcomer-fills-final-wsr-bmw-seat-for-rest-of-2026/10838620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
+        "https://cdn-3.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -1056,7 +1043,7 @@
         "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
+        "https://cdn-7.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1074,7 +1061,7 @@
         "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/6lmAdML0/s300/marc-marquez-ducati-team.webp"
+        "https://cdn-6.motorsport.com/images/amp/YP7rLZG2/s300/pedro-acosta-red-bull-ktm-fact.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1889,7 +1876,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2188,7 +2175,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2201,7 +2188,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2435,7 +2422,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3163,7 +3150,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3267,7 +3254,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3642,12 +3629,7 @@
       "url": "https://www.autoexpress.co.uk/bmw/369542/new-bmw-m3-spotted-straight-six-power-radical-design-and-no-plug",
       "image": "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/t_rss_image_w_845/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/t_rss_image_w_845/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--11lee9im--/f_auto,t_author-mobile@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
-        "https://www.autoexpress.co.uk/bmw/369542/t_author-desktop@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
-        "https://www.autoexpress.co.uk/bmw/369542/t_author-mobile@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/f_auto,t_primary-image-mobile@1/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg",
-        "https://www.autoexpress.co.uk/bmw/369542/t_primary-image-desktop@1/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--otH2enPk--/t_rss_image_w_845/v1784281441/autoexpress/2026/07/Petrol%20BMW%20M3%20-%20front%203_4_haddjd.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
