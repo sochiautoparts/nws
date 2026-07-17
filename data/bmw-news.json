@@ -1,20 +1,18 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-17T12:19:50.134562+00:00",
-  "generated_at_human": "2026-07-17 12:19 UTC",
-  "total_items": 303,
+  "generated_at": "2026-07-17T14:52:34.748688+00:00",
+  "generated_at_human": "2026-07-17 14:52 UTC",
+  "total_items": 299,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
-    "Autosport All",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
-    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
@@ -54,13 +52,10 @@
     "CarScoops Ferrari",
     "CarScoops Mercedes",
     "CarScoops Rolls",
-    "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
     "Hooniverse",
-    "HotCars",
     "InsideEVs",
-    "Motor1",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
@@ -73,9 +68,61 @@
     "Racecar Engineering",
     "The Drive"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 15,
+  "sources_count": 63,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "2b6f13b0b3bc6d6f",
+      "title": "America’s Morgan Supersport Gets Lesser-Known BMW Engine",
+      "summary": "Good news: the Morgan Supersport is coming to the United States. Bad news: it’s not getting the B58 engine used in Europe. Instead, it downsizes from a 3.0-liter inline-six to a 2.0-liter four-cylinder, though it’s... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/17/morgan-supersport-bmw-b46-engine/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2025-Morgan-Supersport-235-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2025/03/2025-Morgan-Supersport-235-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-17T13:55:54+00:00"
+    },
+    {
+      "id": "d8e821ea5a80c7b9",
+      "title": "Why Does BMW's Headquarters Look Like That?",
+      "summary": "You've probably never considered it, but there's a reason BMW's headquarters in Munich looks the way it does.",
+      "url": "https://www.motor1.com/features/800899/who-designed-bmw-headquarters/",
+      "image": "https://cdn.motor1.com/images/mgl/KbgW41/s3/bmw-tower-headquarters.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/KbgW41/s3/bmw-tower-headquarters.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-07-17T13:00:00+00:00"
+    },
+    {
+      "id": "8ad48baf022ec53f",
+      "title": "BMW M Will Keep Its Biggest Engines For A ‘Long Time To Come’",
+      "summary": "With emissions regulations getting tighter around the world, you’d think BMW’s biggest engines are living on borrowed time. However, nothing could be further from the truth. The S58 and S68 have both been updated to... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/17/bmw-keep-biggest-engines-long-time/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2021/02/bmw_g82_m4_m3_s58_engine-1-830x623.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2021/02/bmw_g82_m4_m3_s58_engine-1-830x623.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-17T12:55:15+00:00"
+    },
+    {
+      "id": "7a6328985e798e52",
+      "title": "27-Years-Owned, 3.5L-Powered 1973 BMW 3.0CS 5-Speed",
+      "summary": "This 1973 BMW 3.0CS was acquired by the seller in 1999 and was subsequently repainted white and fitted with a 3.5L M30 inline-six and five-speed manual transmission. Additional equipment includes a sliding steel sunroof, 15\" Gotti wheels, power-operated windows, an aftermarket stereo, a CD changer, a Nardi steering wheel, and air conditioning. This E9 is now offered in Park City, Utah with service records, a car cover, and a clean California title in the seller's name.",
+      "url": "https://bringatrailer.com/listing/1973-bmw-3-0cs-107/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/20250425_1057112-scaled-copy-2026-07-10-jh4-00322.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/20250425_1057112-scaled-copy-2026-07-10-jh4-00322.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-17T12:40:42+00:00"
+    },
     {
       "id": "b70fcebcfbf28a8d",
       "title": "BMW Brings Its Car Configurator To ChatGPT",
@@ -103,7 +150,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15945_0.jpg?itok=pzURj4HO",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15948.jpg?itok=4ro4ErPu"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -121,7 +168,7 @@
         "https://cdn.motor1.com/images/mgl/qkYP3z/s5/bmw-m-concept-neue-klasse-2026.jpg",
         "https://cdn.motor1.com/images/mgl/7ZEAyV/s5/bmw-m-concept-neue-klasse-2026.jpg"
       ],
-      "source": "Motor1",
+      "source": "Motor1 Volvo",
       "source_url": "https://www.motor1.com",
       "published": "2026-07-17T09:56:59+00:00"
     },
@@ -145,12 +192,7 @@
       "url": "https://paultan.org/2026/07/17/bmw-partners-with-toyota-bosch-and-repsol-for-real-world-pilot-of-vehicles-using-100-renewable-petrol/",
       "image": "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
       "images": [
-        "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
-        "https://paultan.org/image/2022/05/2022-BMW-3-Series-Sedan-facelift-G20-LCI-debut-14-1260x659.jpg",
-        "https://paultan.org/ptlogo-400x180.png",
-        "https://paultan.org/image/2026/05/Jaecoo_J5_Cover-120x90.jpg",
-        "https://paultan.org/image/2026/03/2026_Proton_Saga_MC3_Cover-120x90.jpg",
-        "https://paultan.org/image/2026/01/2026_Perodua_Traz_Cover_EN-120x90.jpg"
+        "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg"
       ],
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
@@ -209,45 +251,6 @@
       "published": "2026-07-17T01:35:04+00:00"
     },
     {
-      "id": "3f4b80d579adc150",
-      "title": "1985 BMW 635CSi 5-Speed",
-      "summary": "This 1985 BMW 635CSi has remained registered in Nebraska from new through the seller's purchase from the original owner in 2017. Powered by a 3.4-liter M30 inline-six paired with a five-speed manual transmission, the car is finished in black over Pearl Beige leather upholstery. Equipment includes 17\" ARE Alloy Basketweave wheels, a sunroof, power-adjustable front sport seats, cruise control, an M Tech I steering wheel, and air conditioning. This E24 635CSi is offered with a window sticker, the owner's manual, a spare set of 390mm wheels, service records dating back to 1985, a car cover, a…",
-      "url": "https://bringatrailer.com/listing/1985-bmw-635csi-114/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/1985_bmw_635csi_FL0A0784-62483-1-copy-2026-06-29-1xp-52203.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/1985_bmw_635csi_FL0A0784-62483-1-copy-2026-06-29-1xp-52203.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-16T23:46:03+00:00"
-    },
-    {
-      "id": "4f559880045cf274",
-      "title": "2012 BMW 328i xDrive Sports Wagon 6-Speed at No Reserve",
-      "summary": "This 2012 BMW 328i xDrive Sports Wagon is finished in black over Oyster leather and is powered by a 3.0-liter inline-six that drives all four wheels through a six-speed manual transmission. Equipment includes a panoramic sunroof, aftermarket headlights, and 17\" Style 285 wheels along with heated power-adjustable front seats and iDrive infotainment with navigation. Acquired by the current owner on BaT in March 2021 , this E91 Sports Wagon is now offered at no reserve on dealer consignment by The Shop— a BaT Local Partner —with a window sticker, an owner's manual, service records, a Carfax…",
-      "url": "https://bringatrailer.com/listing/2012-bmw-328i-xdrive-sports-wagon-7/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/BMW_328i-15-scaled-copy-2026-07-10-e64-97340.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/BMW_328i-15-scaled-copy-2026-07-10-e64-97340.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-16T23:30:13+00:00"
-    },
-    {
-      "id": "31d55246c039afa0",
-      "title": "17×8.5″ BBS RS Wheels for BMW at No Reserve",
-      "summary": "This set of four 17″ BBS RS212 wheels was refinished, reportedly in June 2026, and stored since. The three-piece wheels measure 8.5″ in width, have a 13mm offset, a 5×120 bolt pattern, and feature silver-finished forged centers, polished lips, waffles, and black-background BBS center caps. This set of BBS RS wheels is now offered at no reserve in Kazuno, Akita, Japan.",
-      "url": "https://bringatrailer.com/listing/wheels-637/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_1514_result-scaled-copy-2026-07-08-8xt-43861.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_1514_result-scaled-copy-2026-07-08-8xt-43861.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-16T23:22:42+00:00"
-    },
-    {
       "id": "7bcba80f7a267a7d",
       "title": "The BMW iX4 looks more like a grand tourer than an SUV [Images]",
       "summary": "The 2027 iX4 is set to join BMW’s electric vehicle lineup soon, bringing a unique new look to the family. Ahead of its debut, the 2027 BMW iX4 was spotted on the road in Germany.",
@@ -259,19 +262,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-07-16T21:30:34+00:00"
-    },
-    {
-      "id": "2eae206bbb209d56",
-      "title": "The Adventure Bike That Was Years Ahead Of Everyone Else",
-      "summary": "The BMW R 80 G/S launched in 1980, pioneering the adventure bike segment and winning the Paris-Dakar Rally four times. Here's its full story.",
-      "url": "https://www.hotcars.com/adventure-bike-years-ahead-of-everyone-else/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/436a9152-83002-scaled.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/436a9152-83002-scaled.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-07-16T21:00:14+00:00"
     },
     {
       "id": "f5ecd95595e749ff",
@@ -443,19 +433,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-07-16T07:45:34+00:00"
-    },
-    {
-      "id": "a4a4766855467baa",
-      "title": "El M3 eléctrico de BMW ya tiene nombre, y la decisión de la marca dividirá a sus fans",
-      "summary": "No guste o no, marcas como Mercedes o BMW están empezando a explorar en serio el terreno de los deportivos eléctricos . Ha habido oleadas virtuales en contestación al Mercedes-AMG CLA 45 eléctrico o el AMG GT de cuatro puertas - al que algunos genios llaman una vitrocerámica enfadada. Por su parte, BMW está ultimando el lanzamiento de su primer \"M3\" eléctrico, y la noticia es que el deportivo eléctrico de la marca ya tiene nombre. Y el nombre ya va a causar no poca polémica entre los sectores mas puristas. Habrá dos BMW M3 y aunque se llamen igual, serán diametralmente opuestos Llamado BMW…",
-      "url": "https://www.diariomotor.com/noticia/nombre-bmw-m3-electrico/",
-      "image": "https://www.diariomotor.com/imagenes/2026/07/bmw-m-concept-neue-klasse-10-6a57c84879969.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/07/bmw-m-concept-neue-klasse-10-6a57c84879969.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-16T07:30:47+00:00"
     },
     {
       "id": "eb7c8b902adf3fac",
@@ -655,19 +632,6 @@
       "published": "2026-07-15T11:05:00+00:00"
     },
     {
-      "id": "b90459fbd7c5d627",
-      "title": "Met de BMW i3 Touring heeft BMW een streepje voor op Tesla Model 3 en elektrische C-klasse",
-      "summary": "De BMW i3 is het elektrische alternatief voor de 3-serie met verbrandingsmotoren. Net als er van de BMW 3-serie een Touring bestaat, bestaat er straks ook zo'n variant van de i3. Die elektrische BMW i3 Touring kunnen we je nu voor het eerst laten zien. En goed ook!",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/de-bmw-i3-touring-is-de-elektrische-3-serie-touring-voor-de-zakelijke-rijder/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/275936375/width/800/275936375",
-      "images": [
-        "https://images.autoweek.nl/275936375/width/800/275936375"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-15T10:43:51+00:00"
-    },
-    {
       "id": "55550784f5ec143c",
       "title": "New BMW i3 Touring estate breaks cover",
       "summary": "New pictures showcase electric saloon's transformation into a more practical wagon The new BMW i3 – the electric 3 series – will be offered in Touring estate form, and Autocar's spy photographers have caught it testing for the first time. Although the prototype's rear end is disguised, it appears to be longer than the i3 saloon, with a sloped roofline. The new images come after a silhouette of the i3 Touring was shown during the saloon's unveiling. \"Business customers and families will be particularly delighted: the Touring has always been a favourite with them,\" said then BMW Group chief…",
@@ -676,7 +640,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb30898.jpg?itok=Yy-FbuS5"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-15T09:50:53+00:00"
     },
@@ -780,7 +744,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2023/11/BMW-530i-xDrive-14-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-14T19:14:54+00:00"
     },
@@ -819,7 +783,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/09/2028-bmw-x1-ix1-NB5-spy-photos-13-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-14T13:31:48+00:00"
     },
@@ -967,19 +931,6 @@
       "published": "2026-07-13T16:09:58+00:00"
     },
     {
-      "id": "b66461cc2c03cc8c",
-      "title": "BTCC newcomer fills final WSR BMW seat for rest of 2026",
-      "summary": "West Surrey Racing has filled the seat of its third BMW 330i M Sport for the remainder of the British Touring Car Championship season, as Lewis Gilbert makes the switch to tin-tops from GB3. Scottish single-seater convert Gilbert will join WSR from the Thruxton round on 25-26 July, and will partner race-winning duo Charles Rainford and Daryl De Leon in the team’s line-up. The 22-year-old ... Keep reading",
-      "url": "https://www.autosport.com/btcc/news/btcc-newcomer-fills-final-wsr-bmw-seat-for-rest-of-2026/10838620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg",
-      "images": [
-        "https://cdn-3.motorsport.com/images/amp/6DGgqD4Y/s6/lewis-gilbert-wsr-bmw.jpg"
-      ],
-      "source": "Autosport All",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-07-13T16:00:03+00:00"
-    },
-    {
       "id": "38b6a9b35fcf1a5f",
       "title": "BMW iX5 Captivates Crowds At The Goodwood Festival Of Speed",
       "summary": "It’s only been a couple of weeks since the new BMW X5 broke cover, and now its electric sibling has made its auto show debut. Granted, the Goodwood Festival of Speed isn’t a traditional motor... First published by https://www.bmwblog.com",
@@ -1043,7 +994,7 @@
         "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
+        "https://cdn-5.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1061,7 +1012,7 @@
         "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/YP7rLZG2/s300/pedro-acosta-red-bull-ktm-fact.webp"
+        "https://cdn-7.motorsport.com/images/amp/YP7rLZG2/s300/pedro-acosta-red-bull-ktm-fact.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1876,7 +1827,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2188,7 +2139,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2373,19 +2324,6 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-17T17:45:30+00:00"
-    },
-    {
-      "id": "48984bc29206f2c5",
-      "title": "Is BMW Making A New Alpina Flagship Sedan? Here's Everything We Know",
-      "summary": "BMW Alpina's first car will debut sometime next year, and it should be based on the 7 Series.",
-      "url": "https://www.motor1.com/features/799036/bmw-alpina-sedan-details-specs-engine/",
-      "image": "https://cdn.motor1.com/images/mgl/g4O9xP/s3/alpina-bmw-7-series-rendering-by-motor1.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/g4O9xP/s3/alpina-bmw-7-series-rendering-by-motor1.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-17T16:00:00+00:00"
     },
     {
       "id": "5cfdb1bfa1d6dbca",
@@ -3150,7 +3088,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3254,7 +3192,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
