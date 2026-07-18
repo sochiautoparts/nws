@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-18T00:08:01.361266+00:00",
-  "generated_at_human": "2026-07-18 00:08 UTC",
+  "generated_at": "2026-07-18T04:11:30.863386+00:00",
+  "generated_at_human": "2026-07-18 04:11 UTC",
   "total_items": 304,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -56,6 +56,7 @@
     "CarScoops Ferrari",
     "CarScoops Mercedes",
     "CarScoops Rolls",
+    "Electrek",
     "Electrek BMW",
     "Hagerty News",
     "Hooniverse",
@@ -70,9 +71,27 @@
     "Quatro Rodas BR",
     "Racecar Engineering"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 15,
+  "sources_count": 66,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "a1978ac087220e69",
+      "title": "Next BMW M3 Hits The Track With ICE-Power And A Bold New Look",
+      "summary": "The upcoming sports sedan will feature a familiar twin-turbo 3.0-liter inline-six, but add a mild-hybrid system into the mix",
+      "url": "https://www.carscoops.com/2026/07/2029-bmw-m3-spied/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-ICE-717-1-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-ICE-717-2-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-ICE-717-3-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-ICE-717-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/2029-BMW-M3-ICE-717-5-2048x1366.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-07-18T00:18:00+00:00"
+    },
     {
       "id": "ac86773ad3cfc2e8",
       "title": "1973 BMW 3.0 CSL",
@@ -139,7 +158,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i3-Touring-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-07-17T20:46:18+00:00"
     },
@@ -277,14 +296,9 @@
       "url": "https://www.autocar.co.uk/car-news/new-cars/next-petrol-bmw-m3-breaks-cover-%E2%80%93-and-it-could-offer-manual-box",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=7N7pQEty",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15937.jpg?itok=Yrl1bYvM",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15941.jpg?itok=tXpafHX4",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15945_0.jpg?itok=pzURj4HO",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/_sb15948.jpg?itok=4ro4ErPu"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -393,7 +407,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX4-GT-SUV-2.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-07-16T21:30:34+00:00"
     },
@@ -487,12 +501,7 @@
       "url": "https://www.carscoops.com/2026/07/bmw-toyota-renewable-gasoline-pilot/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/P90649455_highRes_repsol-and-bmw-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90649455_highRes_repsol-and-bmw-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90649454_highRes_repsol-and-bmw-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90649452_highRes_repsol-and-bmw-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90649453_highRes_repsol-and-bmw-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/4frv-c-rvf-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90646057_highRes_bmw-ix5-60-xdrive-06-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/P90649455_highRes_repsol-and-bmw-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -520,7 +529,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-03-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T10:18:56+00:00"
     },
@@ -629,7 +638,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-135i-Sauber-F1-Team-Edition-830x645.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T00:48:01+00:00"
     },
@@ -673,7 +682,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -738,7 +747,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb30898.jpg?itok=Yy-FbuS5"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-15T09:50:53+00:00"
     },
@@ -1079,7 +1088,7 @@
         "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
+        "https://cdn-1.motorsport.com/images/amp/6lmdq4L0/s300/jorge-martin-aprilia-racing-te-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1097,7 +1106,7 @@
         "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/YP7rLZG2/s300/pedro-acosta-red-bull-ktm-fact.webp"
+        "https://cdn-8.motorsport.com/images/amp/YP7rLZG2/s300/pedro-acosta-red-bull-ktm-fact.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1764,19 +1773,6 @@
       "published": "2026-07-02T14:13:32+00:00"
     },
     {
-      "id": "70c72267d2aef884",
-      "title": "BMW’s X5 Will Remind You Of Musk Every Time You Turn On The Lights",
-      "summary": "The new BMW X5 breaks from every other Neue Klasse model with X-shaped running lights that double as flashing turn signals",
-      "url": "https://www.carscoops.com/2026/07/bmw-x5-drl-design-x/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-DRL-sss-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-DRL-sss-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-07-01T17:06:00+00:00"
-    },
-    {
       "id": "60f53f84f68109c1",
       "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
       "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
@@ -1899,7 +1895,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2211,7 +2207,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3160,7 +3156,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3264,7 +3260,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
