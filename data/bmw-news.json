@@ -1,18 +1,19 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-19T19:22:26.987025+00:00",
-  "generated_at_human": "2026-07-19 19:22 UTC",
-  "total_items": 302,
+  "generated_at": "2026-07-19T21:04:39.192782+00:00",
+  "generated_at_human": "2026-07-19 21:04 UTC",
+  "total_items": 300,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
+    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
@@ -36,15 +37,15 @@
     "BMW Blog X7",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
-    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
@@ -67,9 +68,27 @@
     "Paul Tan",
     "Racecar Engineering"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 13,
+  "sources_count": 63,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "8aec4159a75870c9",
+      "title": "The BMW i4 Loses 68% In Five Years, Making It A Used Honda Civic Alternative With A Better Badge",
+      "summary": "A used BMW i4 is as cheap as a new Civic, and, dare we say it, maybe even more reliable.",
+      "url": "https://carbuzz.com/depreciated-bmw-i4-becomes-used-honda-civic-alternative/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/p90546575.jpeg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/p90546575.jpeg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-honda-civic-sedan-11th-gen-fe-facelift-17.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-honda-civic-sedan-11th-gen-fe-facelift.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-19T20:04:14+00:00"
+    },
     {
       "id": "d17b6abd1ce862b6",
       "title": "BMW M2 Track Kit Hits Goodwood Festival of Speed 2026",
@@ -97,22 +116,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/8f01fc8b-0640-44dc-8c22-a03570c2944e.png?crop=0.755xw:1.00xh;0.125xw,0&resize=360:*"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-19T15:00:00+00:00"
-    },
-    {
-      "id": "8c7d3ab173b1f93d",
-      "title": "RX 500h: The Lexus Hybrid Putting The BMW X3 On Notice",
-      "summary": "The most powerful RX ever made might not be as powerful as its German rival - but it's selling in much bigger numbers for two reasons...",
-      "url": "https://carbuzz.com/rx500h-f-sport-outclasses-bmw-x3/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2026-lexus-rx-500h-fsport-performance-awd-copper-10-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2026-lexus-rx-500h-fsport-performance-awd-copper-10-1.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-19T14:00:14+00:00"
     },
     {
       "id": "504a29d20c64129a",
@@ -167,7 +173,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/2_toy-centruy_1_0_0.jpg",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/3-reno-rodeo_1_0_0.jpg"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-19T07:39:07+00:00"
     },
@@ -351,7 +357,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T20:11:00+00:00"
     },
@@ -390,7 +396,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T18:05:00+00:00"
     },
@@ -455,7 +461,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -493,7 +499,7 @@
     {
       "id": "dd59311b82e95d2f",
       "title": "BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol",
-      "summary": "BMW has partnered with Toyota, Bosch and Repsol for a six-month pilot project to demonstrate how existing vehicles can operate exclusively on 100% renewable petrol under rear-world conditions. The pilot, which started in July in Spain, serves to show the potential of vehicles running exclusively on eligible fuels (VEEF), which […] The post BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol appeared first on Paul Tan's Automotive News .",
+      "summary": "BMW has partnered with Toyota, Bosch and Repsol for a six-month pilot project to demonstrate how existing vehicles can operate exclusively on 100% renewable petrol under rear-world conditions. The pilot, which started in July in […] The post BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/07/17/bmw-partners-with-toyota-bosch-and-repsol-for-real-world-pilot-of-vehicles-using-100-renewable-petrol/",
       "image": "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
       "images": [
@@ -519,7 +525,7 @@
     {
       "id": "2775b28298a84fa8",
       "title": "BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off",
-      "summary": "The BMW Clubhouse opens its doors to the public today, and if you’re a fan of the roundel, this is the weekend event to be at. Running from July 17 to 19, 9am to 5pm daily, at Factory 19, Petaling Jaya, the brand showcase brings together BMW’s latest metal – […] The post BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off appeared first on Paul Tan's Automotive News .",
+      "summary": "The BMW Clubhouse opens its doors to the public today, and if you’re a fan of the roundel, this is the weekend event to be at. Running from July 17 to 19, 9am to 5pm […] The post BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/07/17/bmw-clubhouse-opens-to-the-public-today-at-factory-19-pj-new-launches-deals-up-to-rm55k-off/",
       "image": "https://paultan.org/image/2026/07/2026-BMW-M3-Touring-Launch-Malaysia-Ext-2-630x420.jpg",
       "images": [
@@ -1068,7 +1074,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -1569,19 +1575,6 @@
       "published": "2026-07-05T19:43:25+00:00"
     },
     {
-      "id": "7e32f01e68698625",
-      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
-      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
-      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
-      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
-      "images": [
-        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-07-05T18:00:00+00:00"
-    },
-    {
       "id": "42248dd4d273bbee",
       "title": "The New BMW X5 Has One Option You Can’t Remove Yet",
       "summary": "Shortly after the G65 made its world premiere earlier this week, the luxury SUV began appearing in configurators across Europe. While you’re limited to the 40 xDrive and 40d xDrive for now, the plug-in hybrids... First published by https://www.bmwblog.com",
@@ -1801,19 +1794,6 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T14:13:32+00:00"
-    },
-    {
-      "id": "60f53f84f68109c1",
-      "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
-      "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
-      "url": "https://www.bikeexif.com/powerbricks-harley-davidson-lowrider-s-cafe-racer",
-      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010",
-      "images": [
-        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-06-30T18:00:00+00:00"
     },
     {
       "id": "322d07dc9c90204a",
@@ -2224,7 +2204,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2458,7 +2438,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3134,7 +3114,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3238,7 +3218,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3550,7 +3530,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
