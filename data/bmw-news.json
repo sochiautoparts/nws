@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-19T11:20:10.417772+00:00",
-  "generated_at_human": "2026-07-19 11:20 UTC",
-  "total_items": 303,
+  "generated_at": "2026-07-19T13:47:19.153941+00:00",
+  "generated_at_human": "2026-07-19 13:47 UTC",
+  "total_items": 302,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
@@ -43,9 +43,9 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver News",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
@@ -66,12 +66,25 @@
     "Motor1 Volvo",
     "Motoring Research",
     "Motorsport WEC",
-    "Racecar Engineering",
-    "TopSpeed"
+    "Paul Tan",
+    "Racecar Engineering"
   ],
   "sources_count": 64,
-  "multi_photo_items": 14,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "84dc43a7f0507fab",
+      "title": "80 BaT Auctions Closing Today",
+      "summary": "2006 BMW M5 6-Speed 1999 Honda Integra Type R No Reserve: 1979 Ford F-250 Ranger Camper Special 4×4 4-Speed 1970 Oldsmobile 442 Holiday Coupe W-30 No Reserve: 2006 Harley-Davidson Road Glide No Reserve: Bally Ride The Champion Children’s Ride 1984 Pininfarina Azzurra Spider No Reserve: 27k-Mile 2006 Jaguar XK8 Convertible 1964 International Harvester Scout 80 4x4 2007 Confederate F131 Hellcat Combat No Reserve: 1989 Porsche 928 S4 5-Speed 1968 Chevrolet C10 Custom Pickup 396 340-Powered 1972 Dodge Dart Swinger Original-Owner 2019 BMW R nineT 32k-Mile 1991 Saab 900 S Convertible No Reserve:…",
+      "url": "https://bringatrailer.com/auctions/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_0191-copy-2026-06-27-wl4-scaled-91340.jpeg?w=310&#38;h=210&#38;crop=1",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/IMG_0191-copy-2026-06-27-wl4-scaled-91340.jpeg?w=310&#38;h=210&#38;crop=1"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-19T12:00:00+00:00"
+    },
     {
       "id": "1f04b5ab4f68da54",
       "title": "“Difficult to say” whether new BMW M1000 RR will be a WorldSBK Ducati-beater",
@@ -162,55 +175,11 @@
       "url": "https://carbuzz.com/genesis-gv80-bmw-x5-and-mercedes-gle-comparison/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv80.png",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv80.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/p90489757_highres_the-new-bmw-x5-xdriv_-1.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/23c0093_100.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/08/2026-genesis-gv80-pestige-black-exterior.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/cropped-4525-2025gv80.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/p90489823_highres_the-new-bmw-x5-xdriv-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv80.png"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-07-18T22:33:14+00:00"
-    },
-    {
-      "id": "b5215691113813f3",
-      "title": "The Forgotten Japanese V8 SUV That Held Its Own Against BMW And Porsche",
-      "summary": "The Infiniti FX50: a rare luxury performance SUV that held its ground against BMW and Porsche, but didn't sell as well.",
-      "url": "https://carbuzz.com/infiniti-fx50-v8-suv-that-embarrassed-bmw-and-porsche/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/infiniti-fx50-main.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/infiniti-fx50-main.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-18T20:11:14+00:00"
-    },
-    {
-      "id": "3efb0e6120ed794f",
-      "title": "Genesis Just Built The Full-Size Luxury Wagon Mercedes And BMW Refuse To Sell",
-      "summary": "Genesis may be about to steal the march on some big German manufacturers. It's trialing a full-size luxury wagon idea when others see that as a risk.",
-      "url": "https://carbuzz.com/genesis-wingback-full-size-luxury-wagon/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-wingback-main.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-wingback-main.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-18T19:35:14+00:00"
-    },
-    {
-      "id": "4703a6063f459765",
-      "title": "Honda Accord Long-Term Value: Why It Ages Better Than Luxury Rivals",
-      "summary": "The Honda Accord costs far less to own long-term than a BMW 3 Series or Audi A4, with lower maintenance costs and slower depreciation.",
-      "url": "https://www.topspeed.com/honda-sedan-ages-better-than-cars-twice-its-price/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/04/honda-accord-hybrid-exterior-headlight-detail.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/04/honda-accord-hybrid-exterior-headlight-detail.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-07-18T18:00:10+00:00"
     },
     {
       "id": "f6ea94435d7046cc",
@@ -219,10 +188,7 @@
       "url": "https://www.autobild.es/deportes/jose-mourinho-ya-tiene-coche-real-madrid-portugues-ha-elegido-mas-caro-gama_7014575_0.html",
       "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/07/14/6a564e694bfa56-18946549.jpeg",
       "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/07/14/6a564e694bfa56-18946549.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/07/14/6a564e694bfa56-18946549.jpeg",
-        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2025/08/08/68d506ff8c97a.jpeg",
-        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2026/06/01/6a1d8f5cb72363-34410947.jpeg"
+        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/07/14/6a564e694bfa56-18946549.jpeg"
       ],
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
@@ -274,12 +240,7 @@
       "url": "https://www.autoexpress.co.uk/bmw/ix3/370037/long-term-test-bmw-ix3-50-xdrive-m-sport-pro-darren-wilson",
       "image": "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--Ydo32mRO--/f_auto,t_author-mobile@1/v1748443312/autoexpress/2025/05/Darren%20Wilson%20-%20Auto%20Express.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix3/370037/t_author-desktop@1/v1748443312/autoexpress/2025/05/Darren%20Wilson%20-%20Auto%20Express.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix3/370037/t_author-mobile@1/v1748443312/autoexpress/2025/05/Darren%20Wilson%20-%20Auto%20Express.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/f_auto,t_primary-image-mobile@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix3/370037/t_primary-image-desktop@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -395,7 +356,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T20:11:00+00:00"
     },
@@ -434,7 +395,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T18:05:00+00:00"
     },
@@ -535,6 +496,19 @@
       "published": "2026-07-17T09:49:41+00:00"
     },
     {
+      "id": "dd59311b82e95d2f",
+      "title": "BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol",
+      "summary": "BMW has partnered with Toyota, Bosch and Repsol for a six-month pilot project to demonstrate how existing vehicles can operate exclusively on 100% renewable petrol under rear-world conditions. The pilot, which started in July in […] The post BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/17/bmw-partners-with-toyota-bosch-and-repsol-for-real-world-pilot-of-vehicles-using-100-renewable-petrol/",
+      "image": "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
+      "images": [
+        "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-17T08:44:28+00:00"
+    },
+    {
       "id": "084fb5c207edecd5",
       "title": "BMW M3 G84: Erlkönig-Video liefert Sound-Eindrücke vom Sechszylinder",
       "summary": "Während alle Welt über den ersten elektrischen BMW M3 (ZA0) spricht, läuft am Nürburgring die parallele Entwicklung des Schwestermodells G84 mit Reihensechszylinder. Ein aktuelles Erlkönig-Video...",
@@ -546,6 +520,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-17T05:59:32+00:00"
+    },
+    {
+      "id": "2775b28298a84fa8",
+      "title": "BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off",
+      "summary": "The BMW Clubhouse opens its doors to the public today, and if you’re a fan of the roundel, this is the weekend event to be at. Running from July 17 to 19, 9am to 5pm […] The post BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/17/bmw-clubhouse-opens-to-the-public-today-at-factory-19-pj-new-launches-deals-up-to-rm55k-off/",
+      "image": "https://paultan.org/image/2026/07/2026-BMW-M3-Touring-Launch-Malaysia-Ext-2-630x420.jpg",
+      "images": [
+        "https://paultan.org/image/2026/07/2026-BMW-M3-Touring-Launch-Malaysia-Ext-2-630x420.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-17T05:52:22+00:00"
     },
     {
       "id": "e79dcc5d72462fe1",
@@ -608,22 +595,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-4-Series-Gran-Coupe-Edition-Shadow-6-830x569.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
-    },
-    {
-      "id": "ab938e21c8d29b47",
-      "title": "'De Striker is wellicht te veel lifestyle voor een merk als Dacia'- Podcast",
-      "summary": "Stéphan is te gast en vertelt over de meest woeste aandrijflijn die hij in zijn hele carrière heeft getest: de Ferrari 12Cilindri Spider. Roy was op zijn beurt ook bij een auto met open dak en gillend toerenblok: de Porsche 911 GT3 S/C. Verder hebben we een BMW 1M naast een M2 CS gezet en had Dacia bijzonder nieuws, waarover Stéphan zo zijn twijfels heeft. Veel luisterplezier!",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/de-striker-is-wellicht-te-veel-lifestyle-voor-een-merk-als-dacia-podcast/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/275936571/width/800/275936571",
-      "images": [
-        "https://images.autoweek.nl/275936571/width/800/275936571"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-16T13:23:11+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -673,7 +647,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-03-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T10:18:56+00:00"
     },
@@ -1141,7 +1115,7 @@
         "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-5.motorsport.com/images/amp/0mXyRRX6/s300/ai-ogura-trackhouse-racing-2.webp"
+        "https://cdn-8.motorsport.com/images/amp/0mXyRRX6/s300/ai-ogura-trackhouse-racing-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1930,7 +1904,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2229,7 +2203,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2463,7 +2437,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3568,7 +3542,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
