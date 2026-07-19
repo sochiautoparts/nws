@@ -1,14 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-19T09:13:54.437891+00:00",
-  "generated_at_human": "2026-07-19 09:13 UTC",
-  "total_items": 305,
+  "generated_at": "2026-07-19T11:20:10.417772+00:00",
+  "generated_at_human": "2026-07-19 11:20 UTC",
+  "total_items": 303,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
-    "AutoWeek News",
-    "Autocar",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -46,13 +45,15 @@
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver Reviews",
+    "Car and Driver News",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
     "CarScoops Mercedes",
+    "CarScoops Rolls",
+    "Crash.net",
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
@@ -65,13 +66,25 @@
     "Motor1 Volvo",
     "Motoring Research",
     "Motorsport WEC",
-    "Paul Tan",
     "Racecar Engineering",
     "TopSpeed"
   ],
   "sources_count": 64,
-  "multi_photo_items": 16,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "1f04b5ab4f68da54",
+      "title": "“Difficult to say” whether new BMW M1000 RR will be a WorldSBK Ducati-beater",
+      "summary": "Shaun Muir says it’s tough to tell at the moment whether BMW’s new M1000RR will be the key to beating Ducati in WorldSBK.",
+      "url": "https://www.crash.net/wsbk/news/1101396/1/difficult-say-whether-new-bmw-m1000-rr-will-be-worldsbk-ducati-beater",
+      "image": "https://www.crash.net/sites/default/files/2026-07/miguel-oliveira-2026-donington-park-worldsbk-01838.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-07/miguel-oliveira-2026-donington-park-worldsbk-01838.jpg?width=1200"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-07-19T10:13:58+00:00"
+    },
     {
       "id": "504a29d20c64129a",
       "title": "Toyota, BMW y Repsol se unen para que tu futuro coche se mueva con gasolina sintética y 100% renovable",
@@ -125,7 +138,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/2_toy-centruy_1_0_0.jpg",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/3-reno-rodeo_1_0_0.jpg"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-19T07:39:07+00:00"
     },
@@ -235,14 +248,9 @@
       "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/c694b5e5-04cf-4fe6-b7d9-c5ac8559a8e7.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/6fc9fb47-95c9-45b7-8da2-c2138de60c79.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/5346338b-04be-4701-bd2c-4d17c5c1b7fa.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/d157c323-1d5c-4fe2-bc63-48dc7ab2ee3d.jpg?resize=980:*"
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-18T13:00:00+00:00"
     },
@@ -284,12 +292,7 @@
       "url": "https://www.autoexpress.co.uk/bmw/ix3/370036/bmw-ix3-long-term-test-pictures",
       "image": "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/f_auto,t_content-image-full-mobile@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix3/370036/t_content-image-full-desktop@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix3/370036/t_content-image-full-mobile@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--Yqku_Bg8--/f_auto,t_content-image-full-mobile@1/v1784286362/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20interior_igbmsw.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix3/370036/t_content-image-full-desktop@1/v1784286362/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20interior_igbmsw.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -392,7 +395,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T20:11:00+00:00"
     },
@@ -431,7 +434,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T18:05:00+00:00"
     },
@@ -496,7 +499,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -532,19 +535,6 @@
       "published": "2026-07-17T09:49:41+00:00"
     },
     {
-      "id": "dd59311b82e95d2f",
-      "title": "BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol",
-      "summary": "BMW has partnered with Toyota, Bosch and Repsol for a six-month pilot project to demonstrate how existing vehicles can operate exclusively on 100% renewable petrol under rear-world conditions. The pilot, which started in July in […] The post BMW partners with Toyota, Bosch and Repsol for real-world pilot of vehicles using 100% renewable petrol appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/17/bmw-partners-with-toyota-bosch-and-repsol-for-real-world-pilot-of-vehicles-using-100-renewable-petrol/",
-      "image": "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/BMW-Toyota-Bosch-Repsol-renewable-petrol-pilot-Spain-1-630x345.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-17T08:44:28+00:00"
-    },
-    {
       "id": "084fb5c207edecd5",
       "title": "BMW M3 G84: Erlkönig-Video liefert Sound-Eindrücke vom Sechszylinder",
       "summary": "Während alle Welt über den ersten elektrischen BMW M3 (ZA0) spricht, läuft am Nürburgring die parallele Entwicklung des Schwestermodells G84 mit Reihensechszylinder. Ein aktuelles Erlkönig-Video...",
@@ -556,19 +546,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-17T05:59:32+00:00"
-    },
-    {
-      "id": "2775b28298a84fa8",
-      "title": "BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off",
-      "summary": "The BMW Clubhouse opens its doors to the public today, and if you’re a fan of the roundel, this is the weekend event to be at. Running from July 17 to 19, 9am to 5pm […] The post BMW Clubhouse opens to the public today at Factory 19, PJ – new launches, deals up to RM55k off appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/17/bmw-clubhouse-opens-to-the-public-today-at-factory-19-pj-new-launches-deals-up-to-rm55k-off/",
-      "image": "https://paultan.org/image/2026/07/2026-BMW-M3-Touring-Launch-Malaysia-Ext-2-630x420.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/2026-BMW-M3-Touring-Launch-Malaysia-Ext-2-630x420.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-17T05:52:22+00:00"
     },
     {
       "id": "e79dcc5d72462fe1",
@@ -631,7 +608,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-4-Series-Gran-Coupe-Edition-Shadow-6-830x569.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
     },
@@ -647,19 +624,6 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-07-16T13:23:11+00:00"
-    },
-    {
-      "id": "83ef33b4cdcfa12d",
-      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
-      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
-      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-16T13:07:00+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -709,7 +673,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-03-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T10:18:56+00:00"
     },
@@ -797,19 +761,6 @@
       "published": "2026-07-16T04:00:53+00:00"
     },
     {
-      "id": "d0760bb4a6105e7e",
-      "title": "BMW, Toyota Launch Real-World Test of Renewable Gasoline",
-      "summary": "The automakers say 100% renewable fuel could help decarbonize existing gasoline cars without replacing today's engines or fueling infrastructure.",
-      "url": "https://www.autoweek.com/news/a72204839/bmw-toyota-test-renewable-gasoline/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-07-16T01:53:49+00:00"
-    },
-    {
       "id": "6a9ea4ac955b6443",
       "title": "Why BMW Only Built 135 of This 135i, and It’s Not a Coincidence",
       "summary": "BMW has built more limited-run special editions than most owners will ever track down, and the E82 135i Sauber F1 Team Edition is one of the more obscure entries on that list. The number 135... First published by https://www.bmwblog.com",
@@ -818,7 +769,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-135i-Sauber-F1-Team-Edition-830x645.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T00:48:01+00:00"
     },
@@ -862,7 +813,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -1190,7 +1141,7 @@
         "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/0mXyRRX6/s300/ai-ogura-trackhouse-racing-2.webp"
+        "https://cdn-5.motorsport.com/images/amp/0mXyRRX6/s300/ai-ogura-trackhouse-racing-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1208,7 +1159,7 @@
         "https://cdn-2.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-4.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-8.motorsport.com/images/amp/2y7QAoo6/s300/ai-ogura-trackhouse-racing.webp"
+        "https://cdn-7.motorsport.com/images/amp/2y7QAoo6/s300/ai-ogura-trackhouse-racing.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1979,7 +1930,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2278,7 +2229,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2291,7 +2242,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2512,7 +2463,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3854,6 +3805,19 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-05T13:42:08+00:00"
+    },
+    {
+      "id": "396585c8412214fb",
+      "title": "BMW’s First Million EVs Took 11 Years. The Second Took Two",
+      "summary": "BMW Group just built its 2 millionth fully electric car, yet slowing demand in key markets complicates the next milestone",
+      "url": "https://www.carscoops.com/2026/05/bmw-two-million-evs/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-2-millionth-EV-May5261-1024x576.jpg"
+      ],
+      "source": "CarScoops Rolls",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-05T12:21:00+00:00"
     },
     {
       "id": "cb6eddfd62d1915a",
