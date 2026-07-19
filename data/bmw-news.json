@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-19T21:04:39.192782+00:00",
-  "generated_at_human": "2026-07-19 21:04 UTC",
+  "generated_at": "2026-07-19T22:08:04.946758+00:00",
+  "generated_at_human": "2026-07-19 22:08 UTC",
   "total_items": 300,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,15 +37,16 @@
     "BMW Blog X7",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
+    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
@@ -57,20 +58,31 @@
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
-    "Hooniverse",
     "InsideEVs",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
     "Motor1 Volvo",
-    "Motoring Research",
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering"
   ],
-  "sources_count": 63,
+  "sources_count": 62,
   "multi_photo_items": 14,
   "items": [
+    {
+      "id": "c9c2b72d78c871e4",
+      "title": "2022 BMW Alpina B7 xDrive",
+      "summary": "This 2022 BMW Alpina B7 xDrive was optioned from the factory with an Aventurine Red Metallic exterior finish in addition to the Luxury Rear Seating Package and the Bowers & Wilkins Diamond sound system. Cognac Nappa leather covers the heated and ventilated massaging front and rear seats, and power is provided by a twin-turbocharged 4.4-liter V8 that drives all four wheels through an eight-speed automatic transmission and an xDrive all-wheel-drive system. The car has 39k miles and is further equipped with a panoramic Sky Lounge LED sunroof, Surround View cameras, Park Distance Control…",
+      "url": "https://bringatrailer.com/listing/2022-bmw-alpina-b7-7/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/AlpinaB7-3-copy-2026-07-15-m1g-17637.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/AlpinaB7-3-copy-2026-07-15-m1g-17637.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-19T21:40:18+00:00"
+    },
     {
       "id": "8aec4159a75870c9",
       "title": "The BMW i4 Loses 68% In Five Years, Making It A Used Honda Civic Alternative With A Better Badge",
@@ -116,7 +128,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/8f01fc8b-0640-44dc-8c22-a03570c2944e.png?crop=0.755xw:1.00xh;0.125xw,0&resize=360:*"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-19T15:00:00+00:00"
     },
@@ -147,19 +159,6 @@
       "published": "2026-07-19T09:00:03+00:00"
     },
     {
-      "id": "b994b042939786a4",
-      "title": "You can now design your next BMW using ChatGPT AI",
-      "summary": "BMW has added a bespoke plugin to OpenAI’s ChatGPT system, intended to make configuring a new car easier than ever The post You can now design your next BMW using ChatGPT AI appeared first on Motoring Research .",
-      "url": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator/",
-      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-ChatGPT-AI-Configurator.jpg",
-      "images": [
-        "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-ChatGPT-AI-Configurator.jpg"
-      ],
-      "source": "Motoring Research",
-      "source_url": "https://www.motoringresearch.com",
-      "published": "2026-07-19T08:35:13+00:00"
-    },
-    {
       "id": "56f9bcff64eb174e",
       "title": "The best cars never sold in America",
       "summary": "We take a look at the great cars that America has missed out on over the years Until China took over in 2009, America was the world’s largest car market. This meant that all car makers did their level best to get a piece of the action. But there have long been substantial differences between the American market and those in Europe and Asia. And those differences tend to account for why certain models were never sold there. But it does mean that America misses out on great vehicles like the BMW M3 Touring (pictured), a hot wagon that got rave reviews from most people. Take a look at all the…",
@@ -173,7 +172,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/2_toy-centruy_1_0_0.jpg",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/3-reno-rodeo_1_0_0.jpg"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-19T07:39:07+00:00"
     },
@@ -357,7 +356,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T20:11:00+00:00"
     },
@@ -396,7 +395,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T18:05:00+00:00"
     },
@@ -461,7 +460,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -721,19 +720,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-16T05:56:02+00:00"
-    },
-    {
-      "id": "2214e8f8ae074616",
-      "title": "BMW confirms electric M3 won't wear iM3 badge",
-      "summary": "The first electric version of the iconic M3 won't follow the naming strategy used by BMW's other battery-electric models.",
-      "url": "https://www.carexpert.com.au/car-news/bmw-confirms-electric-m3-wont-wear-im3-badge",
-      "image": "https://images.carexpert.com.au/cms/v1/media/bmw-m-concept-neue-klasse-2.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/bmw-m-concept-neue-klasse-2.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-07-16T04:04:48+00:00"
     },
     {
       "id": "e2266a03b2d3d992",
@@ -1074,7 +1060,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -1160,7 +1146,7 @@
         "https://cdn-2.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-4.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/2y7QAoo6/s300/ai-ogura-trackhouse-racing.webp"
+        "https://cdn-8.motorsport.com/images/amp/2y7QAoo6/s300/ai-ogura-trackhouse-racing.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1575,6 +1561,19 @@
       "published": "2026-07-05T19:43:25+00:00"
     },
     {
+      "id": "7e32f01e68698625",
+      "title": "Bike EXIF’s Top 8 BMW Motorcycles of 2020",
+      "summary": "Few brands captured builders' imaginations quite like BMW Motorrad. From traditi...",
+      "url": "https://www.bikeexif.com/top-8-bmw-motorcycles-2020",
+      "image": "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg",
+      "images": [
+        "https://images.bikeexif.com/2020/08/_1200x675_crop_center-center_82_line/bmw-r18-custom-roland-sands-1.jpg"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-07-05T18:00:00+00:00"
+    },
+    {
       "id": "42248dd4d273bbee",
       "title": "The New BMW X5 Has One Option You Can’t Remove Yet",
       "summary": "Shortly after the G65 made its world premiere earlier this week, the luxury SUV began appearing in configurators across Europe. While you’re limited to the 40 xDrive and 40d xDrive for now, the plug-in hybrids... First published by https://www.bmwblog.com",
@@ -1794,6 +1793,19 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-02T14:13:32+00:00"
+    },
+    {
+      "id": "60f53f84f68109c1",
+      "title": "Supercharged Supremacy: Powerbrick's Harley-Davidson Low Rider S Cafe Racer",
+      "summary": "Just last week, we marveled at ‘Dominance,’ the jaw-dropping BMW K1100RS streetf...",
+      "url": "https://www.bikeexif.com/powerbricks-harley-davidson-lowrider-s-cafe-racer",
+      "image": "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010",
+      "images": [
+        "https://images.bikeexif.com/2026/06/_1200x675_crop_center-center_82_line/Powerbrick-Harley-Davidson-Lowrider-S-Cafe-Racer-3.jpg?v=1781796010"
+      ],
+      "source": "Bike EXIF",
+      "source_url": "https://www.bikeexif.com",
+      "published": "2026-06-30T18:00:00+00:00"
     },
     {
       "id": "322d07dc9c90204a",
@@ -2051,19 +2063,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3530,7 +3529,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog X1",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
