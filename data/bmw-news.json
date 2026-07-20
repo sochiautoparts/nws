@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-19T22:08:04.946758+00:00",
-  "generated_at_human": "2026-07-19 22:08 UTC",
-  "total_items": 300,
+  "generated_at": "2026-07-20T00:08:01.122864+00:00",
+  "generated_at_human": "2026-07-20 00:08 UTC",
+  "total_items": 302,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -47,6 +47,7 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
@@ -58,17 +59,19 @@
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
     "Motor1 Volvo",
+    "Motoring Research",
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 14,
+  "sources_count": 65,
+  "multi_photo_items": 13,
   "items": [
     {
       "id": "c9c2b72d78c871e4",
@@ -90,12 +93,7 @@
       "url": "https://carbuzz.com/depreciated-bmw-i4-becomes-used-honda-civic-alternative/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/p90546575.jpeg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/p90546575.jpeg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-honda-civic-sedan-11th-gen-fe-facelift-17.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-5.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-honda-civic-sedan-11th-gen-fe-facelift.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/p90546575.jpeg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -128,7 +126,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/8f01fc8b-0640-44dc-8c22-a03570c2944e.png?crop=0.755xw:1.00xh;0.125xw,0&resize=360:*"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-19T15:00:00+00:00"
     },
@@ -159,6 +157,19 @@
       "published": "2026-07-19T09:00:03+00:00"
     },
     {
+      "id": "b994b042939786a4",
+      "title": "You can now design your next BMW using ChatGPT AI",
+      "summary": "BMW has added a bespoke plugin to OpenAI’s ChatGPT system, intended to make configuring a new car easier than ever The post You can now design your next BMW using ChatGPT AI appeared first on Motoring Research .",
+      "url": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator/",
+      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-ChatGPT-AI-Configurator.jpg",
+      "images": [
+        "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-ChatGPT-AI-Configurator.jpg"
+      ],
+      "source": "Motoring Research",
+      "source_url": "https://www.motoringresearch.com",
+      "published": "2026-07-19T08:35:13+00:00"
+    },
+    {
       "id": "56f9bcff64eb174e",
       "title": "The best cars never sold in America",
       "summary": "We take a look at the great cars that America has missed out on over the years Until China took over in 2009, America was the world’s largest car market. This meant that all car makers did their level best to get a piece of the action. But there have long been substantial differences between the American market and those in Europe and Asia. And those differences tend to account for why certain models were never sold there. But it does mean that America misses out on great vehicles like the BMW M3 Touring (pictured), a hot wagon that got rave reviews from most people. Take a look at all the…",
@@ -172,7 +183,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/2_toy-centruy_1_0_0.jpg",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/slideshow_image/3-reno-rodeo_1_0_0.jpg"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-19T07:39:07+00:00"
     },
@@ -356,7 +367,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T20:11:00+00:00"
     },
@@ -395,7 +406,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T18:05:00+00:00"
     },
@@ -460,7 +471,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -595,7 +606,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-4-Series-Gran-Coupe-Edition-Shadow-6-830x569.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
     },
@@ -756,7 +767,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-135i-Sauber-F1-Team-Edition-830x645.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T00:48:01+00:00"
     },
@@ -1128,7 +1139,7 @@
         "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/0mXyRRX6/s300/ai-ogura-trackhouse-racing-2.webp"
+        "https://cdn-3.motorsport.com/images/amp/0mXyRRX6/s300/ai-ogura-trackhouse-racing-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2063,6 +2074,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
