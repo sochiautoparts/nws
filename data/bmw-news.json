@@ -1,17 +1,18 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-20T14:31:02.550851+00:00",
-  "generated_at_human": "2026-07-20 14:31 UTC",
-  "total_items": 306,
+  "generated_at": "2026-07-20T16:42:07.020473+00:00",
+  "generated_at_human": "2026-07-20 16:42 UTC",
+  "total_items": 301,
   "sources_used": [
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
+    "BMW Blog 4",
     "BMW Blog 5",
     "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
@@ -42,11 +43,11 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -54,7 +55,6 @@
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "Crash.net",
-    "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
     "Hooniverse",
@@ -66,12 +66,60 @@
     "Motor1 Volvo",
     "Motoring Research",
     "Motorsport WEC",
-    "Racecar Engineering",
-    "TopSpeed"
+    "Racecar Engineering"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 13,
+  "sources_count": 63,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "f282cf034ad3628f",
+      "title": "The Toyota RAV4 Beats The BMW X5 In This Extremely Important Department, And It Costs $34,500 Less",
+      "summary": "The RAV4 Plug-In Hybrid offers a significant advantage over the X5 in all-electric range, making it a more cost-effective choice for daily driving.",
+      "url": "https://carbuzz.com/toyota-rav4-beats-bmw-x5-all-electric-range/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/rav4-hybrid-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/rav4-hybrid-main.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-bmw-x5-xdrive50e-action-2-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/cropped-2025_toyota_rav4_phev_xse_supersonicred_0008.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/rph_my26_0042_v001.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/rph_my26_0007_v001.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/screenshot-2026-07-17-085329.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-20T16:38:15+00:00"
+    },
+    {
+      "id": "aaa768725b8981cd",
+      "title": "These Vehicles Are Dead for 2027",
+      "summary": "Pour one out for greats like the BMW Z4, Lexus LC, Toyota GR Supra, and more.",
+      "url": "https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-acura-rdx-101-66b232117be80.jpg?crop=0.639xw:0.539xh;0.192xw,0.266xh",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-audi-rs7-125-67f68b49cafa4.jpg?crop=0.625xw:0.527xh;0.183xw,0.316xh",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-8-series-gran-coupe-exterior-pr-132-68a48b413c2ce.jpg?crop=1.00xw:0.845xh;0,0.140xh",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-ix-118-68deae3a3a635.jpg?crop=0.693xw:0.584xh;0.139xw,0.283xh",
+        "https://hips.hearstapps.com/hmg-prod/images/bmw-ak-z4-34front-rot-69261abd66569.jpg?crop=0.532xw:0.399xh;0.248xw,0.333xh"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-20T15:40:00+00:00"
+    },
+    {
+      "id": "3efb0e6120ed794f",
+      "title": "Genesis Just Built The Full-Size Luxury Wagon Mercedes And BMW Refuse To Sell",
+      "summary": "Genesis may be about to steal the march on some big German manufacturers. It's trialing a full-size luxury wagon idea when others see that as a risk.",
+      "url": "https://carbuzz.com/genesis-wingback-full-size-luxury-wagon/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-wingback-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-wingback-main.png"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-20T15:15:14+00:00"
+    },
     {
       "id": "b60d6a4bac30f05e",
       "title": "Electric BMW X5 M Filmed Testing Ahead Of Possible 2028 Launch",
@@ -84,19 +132,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T14:26:22+00:00"
-    },
-    {
-      "id": "0683ad2e54629c9d",
-      "title": "2001 BMW 325xi Sport Sedan 5-Speed at No Reserve",
-      "summary": "This 2001 BMW 325xi sedan was purchased by the seller from the original owner in 2024, and has since been driven 24k of the 53k indicated miles. The car is powered by a 2.5-liter inline-six driving all four wheels through a five-speed manual transmission and is finished in Steel Gray Metallic over black leatherette. Equipment includes the Sport Package, the Premium Package, 17\" Style 73 alloy wheels, a sunroof, fog lights, power-adjustable front sport seats, a CD stereo, a Harman Kardon sound system, and automatic climate control. This E46 325xi sedan is now offered at no reserve with the…",
-      "url": "https://bringatrailer.com/listing/2001-bmw-325xi-sedan-8/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/DSC_-999-scaled-copy-2026-07-08-38j-31995.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/DSC_-999-scaled-copy-2026-07-08-38j-31995.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-20T14:10:09+00:00"
     },
     {
       "id": "420c7669da419f59",
@@ -125,19 +160,6 @@
       "published": "2026-07-20T13:37:46+00:00"
     },
     {
-      "id": "101337b31b90e56e",
-      "title": "2004 BMW M3 Coupe 6-Speed",
-      "summary": "This 2004 BMW M3 coupe is powered by a 3.2-liter S54 inline-six linked to a six-speed transmission that has been converted to manual operation. It is finished in Silver Gray Metallic and features a Stoptech brake kit, adjustable Koni dampers, and 18\" Apex EC7 wheels along with an aftermarket exhaust system, a Hamann-style front lip spoiler, a carbon-fiber rear diffuser, a short shifter, a modified steering wheel, and cloth-trimmed Sparco front seats. The current owner acquired the car in 2022, and subsequent work included replacing the rod bearings and overhauling the VANOS system. This…",
-      "url": "https://bringatrailer.com/listing/2004-bmw-m3-coupe-243/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/E46-26-scaled-copy-2026-07-13-ghk-54800.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/E46-26-scaled-copy-2026-07-13-ghk-54800.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-20T13:30:08+00:00"
-    },
-    {
       "id": "4504bbd2a5986285",
       "title": "New BMW iX5 Filmed At Dealer With Many Individual Upgrades",
       "summary": "The 2027 BMW X5 configurator is live in many European countries, but you still can’t build the iX5. That’s because only the 40 xDrive gasoline and diesel models are currently available to customize. The reason... First published by https://www.bmwblog.com",
@@ -149,58 +171,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T13:19:41+00:00"
-    },
-    {
-      "id": "5546ba74d35a04e0",
-      "title": "1995 BMW M3 Coupe 5-Speed at No Reserve",
-      "summary": "This 1995 BMW M3 coupe remained registered in New Jersey to its original owner until 2025, and it was listed on BaT in May of that year and acquired by the current owner in 2026. Now with 56k miles, the car is finished in Dakar Yellow over black Nappa leather and is powered by a 3.0-liter inline-six linked with a five-speed manual transmission and a limited-slip differential. Modifications are said to include a Dinan ECU chip and suspension system, an aftermarket throttle body and air-intake assembly, and an ANSA exhaust system. It was optioned with the Luxury package and rides on 18″ BBS…",
-      "url": "https://bringatrailer.com/listing/1995-bmw-m3-306-2/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/1995_bmw_m3_tommy_m3-18-23185.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/05/1995_bmw_m3_tommy_m3-18-23185.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-20T12:40:04+00:00"
-    },
-    {
-      "id": "df4ed72acff508b6",
-      "title": "10 Best BMW Motorcycles For Long-Distance Riding",
-      "summary": "From the K 1600 GTL to the R 1300 GS Adventure, these 10 BMW Motorrad motorcycles are engineered for comfort and long-distance touring.",
-      "url": "https://www.topspeed.com/bmw-bikes-make-long-distance-riding-easy/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-k-1600-series-models-cruising-on-a-highway.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-k-1600-series-models-cruising-on-a-highway.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-07-20T12:31:10+00:00"
-    },
-    {
-      "id": "7bf132862185185b",
-      "title": "1973 BMW 3.0 CSL 3.2L",
-      "summary": "This 1973 BMW 3.0 CSL is one of 1,265 homologation specials built between 1971 and 1975, and it is one of 110 late-1973, left-hand-drive Coupés powered by a fuel-injected 3.2L inline-six paired with a four-speed manual transmission. Of the 110, this is one of the 76 that were specified in Polaris Metallic, and it is further equipped with the \"Batmobile\" Aero Package, 14\" light-alloy turbine wheels, Sheel sport seats, and a three-spoke wheel. Chassis 2275478 was manufactured on the 17th September 1973 and was delivered later that month in Essen, Germany. The car was imported in 2001 to the…",
-      "url": "https://bringatrailer.com/listing/1973-bmw-3-0-csl-10/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/5S1A7311-scaled-copy-2026-07-08-40a-32299.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/5S1A7311-scaled-copy-2026-07-08-40a-32299.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-20T12:15:13+00:00"
-    },
-    {
-      "id": "dd1b3e309a27797c",
-      "title": "205 BaT Auctions Closing Today",
-      "summary": "Euro 1983 Lamborghini Countach LP5000 S No Reserve: Backdated RoW 1977 Porsche 911 Carrera 3.0 Coupe 5-Speed 27-Years-Owned, Fuel-Injected 1957 Chevrolet Corvette 4-Speed 383-Powered 1967 Chevrolet Camaro RS 4-Speed 50k-Mile 2002 BMW M3 Coupe 6-Speed No Reserve: 1965 Jeep CJ-5 No Reserve: 26k-Mile 2013 Mercedes-Benz E350 4MATIC Wagon No Reserve: 1973 Honda CB350F 2010 Bentley Continental GTC 21k-Mile 2002 Toyota Tundra Limited Access Cab V8 4x4 552-Mile 1979 Lincoln Continental Mark V Collector's Series No Reserve: 1995 Harley-Davidson Heritage Softail Classic 1987 Mercedes-Benz 560SL No…",
-      "url": "https://bringatrailer.com/auctions/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/001-scaled-18137.jpg?w=310&#38;h=210&#38;crop=1",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/001-scaled-18137.jpg?w=310&#38;h=210&#38;crop=1"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-20T12:00:00+00:00"
     },
     {
       "id": "ada0a5a1738af402",
@@ -250,7 +220,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0_0.jpg?itok=fzzZVFDA"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-20T05:28:24+00:00"
     },
@@ -305,29 +275,11 @@
       "url": "https://www.caranddriver.com/news/a72626251/2006-bmw-m3-bring-a-trailer-auction/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/3e9cf2ef-db54-435e-a182-e3b41c4ce860.png",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3e9cf2ef-db54-435e-a182-e3b41c4ce860.png",
-        "https://hips.hearstapps.com/hmg-prod/images/c507c4b9-7124-42ba-8e17-72a8f48e1a44.png?crop=1xw:0.9168905168905169xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/a5239270-481f-48f2-ae88-12f05a9bf165.png?crop=1xw:0.9168905168905169xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/858caf54-7ce5-476f-8ac7-d93b41c5f283.png?crop=1.00xw:0.920xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/8f01fc8b-0640-44dc-8c22-a03570c2944e.png?crop=0.755xw:1.00xh;0.125xw,0&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/3e9cf2ef-db54-435e-a182-e3b41c4ce860.png"
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-19T15:00:00+00:00"
-    },
-    {
-      "id": "504a29d20c64129a",
-      "title": "Toyota, BMW y Repsol se unen para que tu futuro coche se mueva con gasolina sintética y 100% renovable",
-      "summary": "El futuro no tiene por qué ser eléctrico y en los combustibles sintéticos está la clave para conseguirlo. Es por esta razón por lo que Toyota, BMW, Repsol y Bosch se han aliado para poner en marcha una prueba piloto en España que buscará impulsar esta tecnología y recopilitar datos sobre su uso a gran escala. ¿Repostaremos nuestro coche con gasolina y diésel renovables? Aunque la electrificación se ha erigido como la mejor forma de reducir emisiones en el automóvil, no es menos cierto que existen alternativas de descarbonización tan interesantes o más como es el uso de combustibles…",
-      "url": "https://www.diariomotor.com/noticia/acuerdo-toyota-bmw-repsol-gasolina-renovable/",
-      "image": "https://www.diariomotor.com/imagenes/2026/07/gasolina-sintetica-repsol-nexa-95-03-6a5a55323731c.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/07/gasolina-sintetica-repsol-nexa-95-03-6a5a55323731c.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-19T09:30:26+00:00"
     },
     {
       "id": "034cb8b995700922",
@@ -364,7 +316,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0.jpg?itok=A-3vbDAd"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-19T07:39:07+00:00"
     },
@@ -504,9 +456,9 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-023757-copy-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/VW-e-bike-safety-tech-00005-copy-2048x1153.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/02-BUGATTI-Sur-Mesure-KPM-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Geely-Galaxy-powertrain-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/HK8_jOPbcAAbCc8-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Freelander-8-Colors-Ne-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-M3-and-M3-Jul1426888-copy-2048x1151.webp"
       ],
       "source": "CarScoops BMW",
@@ -535,7 +487,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-17T20:11:00+00:00"
     },
@@ -564,19 +516,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-17T18:32:46+00:00"
-    },
-    {
-      "id": "aaa768725b8981cd",
-      "title": "These Vehicles Are Dead for 2027",
-      "summary": "Pour one out for greats like the BMW Z4, Lexus LC, Toyota GR Supra, and more.",
-      "url": "https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-17T18:05:00+00:00"
     },
     {
       "id": "2b6f13b0b3bc6d6f",
@@ -639,7 +578,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-17T09:59:49+00:00"
     },
@@ -1242,7 +1181,7 @@
         "https://cdn-9.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/27NoopO0/s300/cyril-b-w-jpg.webp"
+        "https://cdn-3.motorsport.com/images/amp/27NoopO0/s300/cyril-b-w-jpg.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1992,7 +1931,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2291,7 +2230,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2525,7 +2464,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-M-Drive-Tour-5-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
     },
@@ -3201,7 +3140,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3305,7 +3244,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
