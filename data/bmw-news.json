@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-21T04:26:43.354006+00:00",
-  "generated_at_human": "2026-07-21 04:26 UTC",
-  "total_items": 299,
+  "generated_at": "2026-07-21T07:41:45.138149+00:00",
+  "generated_at_human": "2026-07-21 07:41 UTC",
+  "total_items": 300,
   "sources_used": [
     "Auto Esporte BR",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar",
-    "Autocar BMW",
+    "AutoWeek News",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -48,6 +48,7 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Ferrari",
@@ -66,11 +67,43 @@
     "Motor1 Volvo",
     "Motoring Research",
     "Motorsport WEC",
+    "Paul Tan",
     "Racecar Engineering"
   ],
-  "sources_count": 63,
-  "multi_photo_items": 11,
+  "sources_count": 65,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "0cbb66752f022f5a",
+      "title": "Entspannendes Angebot: BMW Bank bietet Leasing Rückgabe-Schutz an",
+      "summary": "Der Moment der Fahrzeug-Rückgabe ist für Leasing-Kunden nicht nur ein Moment des Abschieds von einem treuen Begleiter der letzten Jahre, sondern mitunter auch mit Sorgen...",
+      "url": "https://www.bimmertoday.de/2026/07/21/entspannendes-angebot-bmw-bank-bietet-leasing-ruckgabe-schutz-an/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/BMW-Leasing-Rueckgabe-Versicherung-Leasingende-Nachzahlung-Bank-2.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/BMW-Leasing-Rueckgabe-Versicherung-Leasingende-Nachzahlung-Bank-2.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-07-21T06:36:44+00:00"
+    },
+    {
+      "id": "d3e95f202ced4ffd",
+      "title": "BMW Malaysia appoints Raymond Tan as first local MD",
+      "summary": "After 23 years, BMW Group Malaysia has finally hired a Malaysian to helm Munich’s local operations. The company announced that Raymond Tan has been appointed to be its new managing director, effective September 1. He […] The post BMW Malaysia appoints Raymond Tan as first local MD appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/21/bmw-malaysia-appoints-raymond-tan-as-first-local-md/",
+      "image": "https://paultan.org/image/2026/07/Raymond-Tan-MD-BMW-Group-Malaysia-2026-e1784607070989-630x475.jpg",
+      "images": [
+        "https://paultan.org/image/2026/07/Raymond-Tan-MD-BMW-Group-Malaysia-2026-e1784607070989-630x475.jpg",
+        "https://paultan.org/image/2026/07/Benjamin-Nagel-BMW-Group-Malaysia-2026-e1784607098877-1260x950.jpg",
+        "https://paultan.org/ptlogo-400x180.png",
+        "https://paultan.org/image/2026/05/Jaecoo_J5_Cover-120x90.jpg",
+        "https://paultan.org/image/2026/03/2026_Proton_Saga_MC3_Cover-120x90.jpg",
+        "https://paultan.org/image/2026/01/2026_Perodua_Traz_Cover_EN-120x90.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-21T04:16:18+00:00"
+    },
     {
       "id": "75ef3b1ae5ddd56d",
       "title": "2023 BMW M5 Competition",
@@ -119,7 +152,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-m340i-vs-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T18:26:25+00:00"
     },
@@ -262,7 +295,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0_0.jpg?itok=fzzZVFDA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-20T05:28:24+00:00"
     },
@@ -358,7 +391,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0.jpg?itok=A-3vbDAd"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-19T07:39:07+00:00"
     },
@@ -395,9 +428,14 @@
       "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/c694b5e5-04cf-4fe6-b7d9-c5ac8559a8e7.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/6fc9fb47-95c9-45b7-8da2-c2138de60c79.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/5346338b-04be-4701-bd2c-4d17c5c1b7fa.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/d157c323-1d5c-4fe2-bc63-48dc7ab2ee3d.jpg?resize=980:*"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-18T13:00:00+00:00"
     },
@@ -607,19 +645,6 @@
       "published": "2026-07-17T11:44:15+00:00"
     },
     {
-      "id": "54cab04f50858caa",
-      "title": "Next petrol BMW M3 breaks cover – and it could offer a manual 'box",
-      "summary": "Super-saloon will be offered with both electric and combustion power – and a manual is still on the cards The combustion-engined version of the next-generation BMW M3 has surfaced in tests at the Nürburgring – and the super-saloon could continue to offer a manual gearbox. Speaking to Autocar at last week’s Goodwood Festival of Speed , BMW M boss Frank van Meel said the division's petrol performance cars will offer manuals for “as long as possible”. He highlighted that sales of the smaller M2 coupé in the US – a market traditionally dominated by automatic gearboxes – are actually split…",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/next-petrol-bmw-m3-breaks-cover-%E2%80%93-and-it-could-offer-manual-box",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb15935.jpg?itok=mdGdQkJH"
-      ],
-      "source": "Autocar",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-17T09:59:49+00:00"
-    },
-    {
       "id": "61ca59ca4e52a60f",
       "title": "Volume Up: BMW Is Already Testing The Next M3 With An Inline-Six",
       "summary": "The new gas-fueled M3 is still a couple of years away.",
@@ -688,6 +713,19 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
+    },
+    {
+      "id": "83ef33b4cdcfa12d",
+      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
+      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
+      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-16T13:07:00+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -797,6 +835,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-16T04:00:53+00:00"
+    },
+    {
+      "id": "d0760bb4a6105e7e",
+      "title": "BMW, Toyota Launch Real-World Test of Renewable Gasoline",
+      "summary": "The automakers say 100% renewable fuel could help decarbonize existing gasoline cars without replacing today's engines or fueling infrastructure.",
+      "url": "https://www.autoweek.com/news/a72204839/bmw-toyota-test-renewable-gasoline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-07-16T01:53:49+00:00"
     },
     {
       "id": "6a9ea4ac955b6443",
@@ -1038,19 +1089,6 @@
       "published": "2026-07-14T05:48:59+00:00"
     },
     {
-      "id": "594c3126cc578b18",
-      "title": "1 of 3: BMW 503 Cabrio mit 3,2-Liter-V8 beim Goodwood Festival of Speed",
-      "summary": "Wer an das Design von Albrecht Graf Goertz denkt, hat meist sofort den BMW 507 Roadster vor Augen. Viel weniger bekannt ist, dass sich zeitgleich noch...",
-      "url": "https://www.bimmertoday.de/2026/07/13/1-of-3-bmw-503-cabrio-mit-32-liter-v8-beim-goodwood-festival-of-speed/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/1957-BMW-503-Cabrio-Interieur-RHD-Live-Goodwood-2026-01.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/1957-BMW-503-Cabrio-Interieur-RHD-Live-Goodwood-2026-01.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-07-13T19:27:10+00:00"
-    },
-    {
       "id": "2b8112d0d38e1c23",
       "title": "BMW’s New iX4 Trades The iX3’s Boxy Roof For A Coupe Cut",
       "summary": "Spied testing at the Nurburgring, the electric coupe SUV shares nearly everything with the iX3 except its sharply raked roof",
@@ -1129,19 +1167,6 @@
       "published": "2026-07-13T13:01:34+00:00"
     },
     {
-      "id": "b323fa10c45a4ee4",
-      "title": "FoS: Frank van Meel über den Elektro-M3 ZA0 & BMW M-Neuheiten 2027",
-      "summary": "Im Rahmen des Goodwood Festival of Speed hatten wir erneut die Gelegenheit zu einem ausführlichen Gespräch mit M-Chef Frank van Meel und konnten uns mit...",
-      "url": "https://www.bimmertoday.de/2026/07/13/fos-frank-van-meel-uber-den-elektro-m3-za0-bmw-m-neuheiten-2027/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2023/10/QR-Code-WhatsApp-Kanal-BimmerToday-M2-2-750x234.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-07-13T06:56:08+00:00"
-    },
-    {
       "id": "57a6c6bff5c715e2",
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
@@ -1153,7 +1178,7 @@
         "https://cdn-9.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/27NoopO0/s300/cyril-b-w-jpg.webp"
+        "https://cdn-2.motorsport.com/images/amp/27NoopO0/s300/cyril-b-w-jpg.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1171,7 +1196,7 @@
         "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-4.motorsport.com/images/amp/6Vy7Qw7Y/s300/alex-marquez-gresini-racing.webp"
+        "https://cdn-5.motorsport.com/images/amp/6Vy7Qw7Y/s300/alex-marquez-gresini-racing.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1903,7 +1928,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2202,7 +2227,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
