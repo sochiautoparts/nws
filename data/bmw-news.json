@@ -1,11 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-22T18:20:04.079251+00:00",
-  "generated_at_human": "2026-07-22 18:20 UTC",
-  "total_items": 300,
+  "generated_at": "2026-07-22T20:19:39.230117+00:00",
+  "generated_at_human": "2026-07-22 20:19 UTC",
+  "total_items": 302,
   "sources_used": [
     "Auto Esporte BR",
-    "Auto Esporte Carros",
     "AutoWeek NL",
     "AutoWeek News",
     "Autosport WEC",
@@ -43,10 +42,12 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -72,9 +73,53 @@
     "Response JP",
     "The Drive"
   ],
-  "sources_count": 67,
+  "sources_count": 68,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "4f3507d80c106dc8",
+      "title": "BMW Bails On One Of Europe’s Last Big Auto Shows",
+      "summary": "The Paris Motor Show loses one of its biggest names this year, with BMW citing a shift in priorities",
+      "url": "https://www.carscoops.com/2026/07/bmw-paris-motor-show-skip/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-i3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-i3-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Mercedes-CLA-L-China-000002-2048x1365.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Toyota-Land-Cruiser-Prototype-Teaser-2-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-Auto-Show-722-3-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/China-Car-Sales-20267-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Polestar-USA-Ban-appeal-2048x1152.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-07-22T20:15:00+00:00"
+    },
+    {
+      "id": "447030cb70c56398",
+      "title": "24k-Mile 1983 BMW 633CSi",
+      "summary": "This 1983 BMW 633CSi remained registered in New York until 2014 and spent time in Alabama prior to the current owner's purchase in 2026. Showing 24k miles, the car is powered by a 3.2-liter M30 inline-six paired with a four-speed automatic transmission and is finished in black over Taurus Red leather upholstery. Equipment includes 390mm bottlecap alloy wheels, a sunroof, a cassette stereo, cruise control, and R134a-based air conditioning. This E24 633CSi is offered on dealer consignment with a clean Carfax report and Georgia registration.",
+      "url": "https://bringatrailer.com/listing/1983-bmw-633csi-48/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1._MCS_3796_2528Custom2529-scaled-copy-2026-07-21-k73-73692.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/1._MCS_3796_2528Custom2529-scaled-copy-2026-07-21-k73-73692.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-22T19:34:01+00:00"
+    },
+    {
+      "id": "c9625137d76c1701",
+      "title": "2014 BMW 550i M Sport",
+      "summary": "This 2014 BMW 550i has 73k miles and was optioned with the M Sport, Executive, Cold Weather, Driver Assistance Plus, Lighting, and Luxury Seating packages. Finished in Carbon Black Metallic over black Dakota leather upholstery, the car is powered by a twin-turbocharged 4.4-liter V8 that has been modified with a CarBahn ECU tune and a Dinan exhaust system. Dinan suspension springs have also been fitted, and other equipment includes an eight-speed automatic transmission, LED headlights, Park Distance Control, 19\" Style 351M wheels, heated and ventilated multi-contour front seats, heated rear…",
+      "url": "https://bringatrailer.com/listing/2014-bmw-550i-5/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/2014_bmw_550i_0120Ext20281529-98039-scaled-1-scaled-copy-2026-07-15-e8s-89896.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/2014_bmw_550i_0120Ext20281529-98039-scaled-1-scaled-copy-2026-07-15-e8s-89896.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-22T19:21:34+00:00"
+    },
     {
       "id": "ec026097419dc457",
       "title": "The 10 BMWs That Lose the Most Value in 2026",
@@ -188,7 +233,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/vvwRb3W22yb-9iUsszQFseomEBI=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/I/b/cZDdzbR7Wb5be3cY4c8g/p90626552-highres-the-new-bmw-ix3-50-x.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-22T09:00:37+00:00"
     },
@@ -292,7 +337,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/edo-bmw-z4-ultraleggera-18-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T16:58:09+00:00"
     },
@@ -332,9 +377,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -414,7 +459,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-m340i-vs-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T18:26:25+00:00"
     },
@@ -682,12 +727,7 @@
       "url": "https://www.carscoops.com/2026/07/bmw-chatgtp-configurator/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-023757-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-023757-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/VW-e-bike-safety-tech-00005-copy-2048x1153.webp",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/23730_2026_Niro_EV-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Mustang_Mach-E_OTA-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/02-BUGATTI-Sur-Mesure-KPM-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Geely-Galaxy-powertrain-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-023757-copy-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -990,7 +1030,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -1790,19 +1830,6 @@
       "published": "2026-07-03T12:31:30+00:00"
     },
     {
-      "id": "7471eca49b227077",
-      "title": "BMW’s New X5 Will Get A Pure V8, Batteries Not Included",
-      "summary": "Two extra cylinders will let the next X5 M60 reach the flagship's numbers from a completely different direction",
-      "url": "https://www.carscoops.com/2026/07/bmw-x5-m60-v8/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/P90648284_highRes_bmw-x5-hgbtrfg-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90648284_highRes_bmw-x5-hgbtrfg-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-07-03T12:12:00+00:00"
-    },
-    {
       "id": "a8886a2e9d4eafbd",
       "title": "Here’s How Every BMW Sold In The US During Q2 2026",
       "summary": "There are winners and losers whenever an automaker publishes a sales report, and BMW’s latest figures for the United States are no exception. The Q2 2026 results are in, showing what worked and what didn’t... First published by https://www.bmwblog.com",
@@ -1990,7 +2017,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2289,7 +2316,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2302,7 +2329,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3173,7 +3200,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3277,7 +3304,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
