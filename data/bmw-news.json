@@ -1,10 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-22T09:35:52.985419+00:00",
-  "generated_at_human": "2026-07-22 09:35 UTC",
-  "total_items": 299,
+  "generated_at": "2026-07-22T12:01:06.973494+00:00",
+  "generated_at_human": "2026-07-22 12:01 UTC",
+  "total_items": 300,
   "sources_used": [
     "Auto Esporte BR",
+    "Auto Esporte Carros",
     "AutoWeek NL",
     "AutoWeek News",
     "Autosport WEC",
@@ -66,13 +67,32 @@
     "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
+    "Quatro Rodas BR",
     "Racecar Engineering",
     "Response JP",
     "The Drive"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 15,
+  "sources_count": 67,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "bbcb3a96d54a4720",
+      "title": "BMW iX3 terá a maior autonomia entre os carros elétricos no Brasil com 570 km",
+      "summary": "Modelo vai estrear até o final de 2026 e será o primeiro da marca a utilizar a nova plataforma Neue Klasse, com novas tecnologias e design",
+      "url": "https://quatrorodas.abril.com.br/noticias/bmw-ix3-50-xdrive-autonomia/",
+      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2025/09/P90615630_highRes_the-new-bmw-ix3-50-x-e1757077075705.jpg",
+      "images": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2025/09/P90615630_highRes_the-new-bmw-ix3-50-x-e1757077075705.jpg",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2025/09/P90615635_highRes_the-new-bmw-ix3-50-x-e1757077097479.jpg?quality=70&strip=info&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2025/09/P90615618_highRes_the-new-bmw-ix3-50-x-e1757077116952.jpg?quality=70&strip=info&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2025/09/P90615074_highRes_vehicle-settings-in-.jpg?quality=70&strip=info&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2025/09/P90615615_highRes_the-new-bmw-ix3-50-x-e1757077057627.jpg?quality=70&strip=info&w=1024&crop=1",
+        "https://assine.abril.com.br/wp-content/uploads/capas/4rodas_impresso.jpg?v=1784563029&resize=209,275"
+      ],
+      "source": "Quatro Rodas BR",
+      "source_url": "https://quatrorodas.abril.com.br",
+      "published": "2026-07-22T11:26:19+00:00"
+    },
     {
       "id": "608f39f4b2d0e9ae",
       "title": "El BMW Serie 3 de BYD es el chollo del verano, un anti-modas con casi 200 CV, etiqueta CERO y 1.500 km de autonomía por 21.000 € menos",
@@ -85,6 +105,19 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-07-22T10:32:53+00:00"
+    },
+    {
+      "id": "56a58d46f4ebda30",
+      "title": "Drive Luxury Home with BMW and MINI at Wheelcorp Premium Setia Alam, this July 24 to 26",
+      "summary": "Wheelcorp Premium Setia Alam is the place to be this weekend, from July 24 to 26 for great deals on new and pre-owned BMW and MINI models. If you’ve been looking out for the right […] The post Drive Luxury Home with BMW and MINI at Wheelcorp Premium Setia Alam, this July 24 to 26 appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/22/drive-luxury-home-with-bmw-and-mini-at-wheelcorp-premium-setia-alam-this-july-24-to-26/",
+      "image": "https://paultan.org/image/2026/07/BMW_7.7-LUCKY-CHARM-Wheelcorp-Premium-Setia-Alam-July-2026-ad-21-Jul-01-630x330.jpg",
+      "images": [
+        "https://paultan.org/image/2026/07/BMW_7.7-LUCKY-CHARM-Wheelcorp-Premium-Setia-Alam-July-2026-ad-21-Jul-01-630x330.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-22T09:43:24+00:00"
     },
     {
       "id": "6328927b0d3769dd",
@@ -100,7 +133,7 @@
         "https://s2-autoesporte.glbimg.com/l-b73hrtQEC-78mI6L7iWh-53nI=/0x0:1920x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/a/t/ILCNTdRDmPOxA1KKH5fQ/bmw-ix3-50-xdrive-traseira.jpg",
         "https://s2-autoesporte.glbimg.com/476LBy5ci_NYB8zm2mIKQZjfLIE=/0x0:1920x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/a/t/ILCNTdRDmPOxA1KKH5fQ/bmw-ix3-50-xdrive-traseira.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-22T09:00:37+00:00"
     },
@@ -262,9 +295,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+        "https://cdn-8.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
         "https://cdn-5.motorsport.com/images/amp/6Vy7QrNY/s1000/93-acura-meyer-shank-racing-w-.webp",
         "https://cdn.motorsport.com/images/mgl/0o5PEjoY/s1000/nick-yelloly-ford-racing.jpg",
         "https://cdn.motorsport.com/images/amp/Y9lLDEA2/s2/31-cadillac-whelen-cadillac-v-.jpg",
@@ -280,9 +313,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -328,19 +361,6 @@
       "published": "2026-07-21T06:36:44+00:00"
     },
     {
-      "id": "d3e95f202ced4ffd",
-      "title": "BMW Malaysia appoints Raymond Tan as first local MD",
-      "summary": "After 23 years, BMW Group Malaysia has finally hired a Malaysian to helm Munich’s local operations. The company announced that Raymond Tan has been appointed to be its new managing director, effective September 1. He […] The post BMW Malaysia appoints Raymond Tan as first local MD appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/21/bmw-malaysia-appoints-raymond-tan-as-first-local-md/",
-      "image": "https://paultan.org/image/2026/07/Raymond-Tan-MD-BMW-Group-Malaysia-2026-e1784607070989-630x475.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/Raymond-Tan-MD-BMW-Group-Malaysia-2026-e1784607070989-630x475.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-21T04:16:18+00:00"
-    },
-    {
       "id": "762190c7ad982b0a",
       "title": "Nächster Starter-Rückruf bei BMW: Jüngere Baujahre bis 2026 betroffen",
       "summary": "Zum dritten Mal innerhalb weniger Monate muss BMW einen Rückruf im Zusammenhang mit defekten Startern starten. Wie das Kraftfahrtbundesamt mitteilt, findet aktuell ein weiterer Rückruf...",
@@ -375,7 +395,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-m340i-vs-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T18:26:25+00:00"
     },
@@ -1214,7 +1234,7 @@
         "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/0LdeeGm0/s300/fernando-alonso-aston-martin-r-2.webp"
+        "https://cdn-6.motorsport.com/images/amp/0LdeeGm0/s300/fernando-alonso-aston-martin-r-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1225,14 +1245,14 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+        "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
         "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s300/93-acura-meyer-shank-racing-w-.webp"
+        "https://cdn-5.motorsport.com/images/amp/6Vy7QrNY/s300/93-acura-meyer-shank-racing-w-.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1964,7 +1984,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2558,9 +2578,9 @@
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "summary": "The #7 Toyota TR010 Hybrid that won the 2026 Le Mans 24 Hours was compromised by a sensor problem that left it as much as 8km/h down on power. Kamui Kobayashi, Mike Conway and Nyck de Vries took top honours in the 94th edition of the French endurance classic, driving the heavily-updated TR010 to the victory lane ahead of the #20 BMW M Hybrid V8 shared by Robin Frijns, Rene Rast and Sheldon van ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2571,9 +2591,9 @@
       "title": "BMW drivers admit “painful” 2026 Le Mans defeat “hurts”: “We were close”",
       "summary": "BMW drivers admitted to feeling “hurt” by their narrow loss to Toyota in the Le Mans 24 Hours, having led various chunks of the race. The factory #20 BMW M Hybrid V8 shared by Robin Frijns, Sheldon van der Linde and Rene Rast finished second in the 94th endurance classic, just 10.9s behind the winning #7 Toyota TR010 Hybrid of Kamui Kobayashi, Mike Conway and Nyck de Vries. The German ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmw-drivers-say-painful-le-mans-defeat-hurts-we-were-close/10830529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-5.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2597,9 +2617,9 @@
       "title": "Le Mans 24h: Toyota beats BMW, Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0ZqAKkd6/s6/winners-7-toyota-racing-toyota-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3160,7 +3180,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3264,7 +3284,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
