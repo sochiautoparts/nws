@@ -1,10 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-23T04:27:47.141270+00:00",
-  "generated_at_human": "2026-07-23 04:27 UTC",
-  "total_items": 297,
+  "generated_at": "2026-07-23T07:43:59.630017+00:00",
+  "generated_at_human": "2026-07-23 07:43 UTC",
+  "total_items": 301,
   "sources_used": [
     "Auto Esporte BR",
+    "Auto Esporte Carros",
     "AutoWeek NL",
     "AutoWeek News",
     "Autosport WEC",
@@ -36,8 +37,8 @@
     "BMW Blog Z4",
     "BMW Blog i",
     "BMW Blog i5",
+    "BMW Blog i5 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -54,8 +55,10 @@
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Jalopnik",
+    "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
@@ -68,9 +71,61 @@
     "Racecar Engineering",
     "The Drive"
   ],
-  "sources_count": 63,
+  "sources_count": 66,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "c0ccdd7ea47ef2f5",
+      "title": "El nuevo Range Rover no es un todoterreno ni siquiera un SUV, es tan bajito como un Yaris y se parece más al Alpine A390 que al Porsche Cayenne Coupé",
+      "summary": "Lo más lógico habría sido que el quinto Range Rover fuese otro SUV . Quizás uno todavía más deportivo o extravagante, concebido como rival del Porsche Cayenne Coupé Turbo GT, el BMW XM o del Lamborghini Urus SE Performante . Pero la marca británica ha escogido un camino mucho más extraño: su próximo modelo será tan bajito que se parece más al Alpine A390 que a cualquiera de los anteriores. Se llama Range Rover GT y, aunque sus proporciones puedan llevarnos a intentar encajarlo dentro del inagotable universo de los crossover , la propia marca lo presenta como un gran turismo de cinco…",
+      "url": "https://www.diariomotor.com/noticia/range-rover-gt-diseno/",
+      "image": "https://www.diariomotor.com/imagenes/2026/07/range-rover-gt_recreacion-6a60a22049e75.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/07/range-rover-gt_recreacion-6a60a22049e75.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-07-23T08:30:15+00:00"
+    },
+    {
+      "id": "cbd2f51a379e727a",
+      "title": "El Salón de París iba a ser el renacer de la industria europea, pero BMW ya se ha bajado del cartel",
+      "summary": "BMW no estará presente en el Salón de París 2026 este mes de octubre, al contrario que todas sus rivales. Pese a que habían confirmado su presencia meses atrás, junto al grueso de fabricantes europeos así como todos los fabricantes chinos que están ya presentes en Europa, la marca de Baviera ha tomado la decisión de no acudir a la cita parisina este mes de octubre. Meses atrás, BMW estaba entre los fabricantes que habían confirmado su presencia para el Salón de París 2026 , que tendrá lugar en la capital francesa entre los días 12-18 de octubre. Estaba, porque en un comunicado de hace…",
+      "url": "https://www.motor.es/noticias/salon-paris-bmw-2026115422.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/07/el-salon-de-paris-iba-a-ser-el-renacer-de-la-industria-europea-pero-bmw-ya-se-ha-bajado-del-cartel-2026115422-1784788744_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/07/el-salon-de-paris-iba-a-ser-el-renacer-de-la-industria-europea-pero-bmw-ya-se-ha-bajado-del-cartel-2026115422-1784788744_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-07-23T07:00:00+00:00"
+    },
+    {
+      "id": "a8667dce4d916795",
+      "title": "Verlängerung für den BMW Z4 G29: Edo Roadster lädt zum Träumen ein",
+      "summary": "Auch wenn die Produktion inzwischen beendet ist, ist die Geschichte des BMW Z4 der Generation G29 noch lange nicht zu Ende erzählt: Als Edo Roadster...",
+      "url": "https://www.bimmertoday.de/2026/07/23/verlangerung-fur-den-bmw-z4-g29-edo-roadster-ladt-zum-traumen-ein/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/Edo-Roadster-Ultraleggera-BMW-Z4-G29-Tuning-Interieur-04.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/Edo-Roadster-Ultraleggera-BMW-Z4-G29-Tuning-Interieur-04.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-07-23T06:24:26+00:00"
+    },
+    {
+      "id": "794266d26a8dfab8",
+      "title": "Ondanks aandacht voor elektrische i3 komt er gewoon een dikke BMW M3 met beestachtige benzinemotor",
+      "summary": "Bij BMW gaat er bijzonder veel aandacht uit naar de elektrische i3, maar er komt ook gewoon een nieuwe BMW 3-serie met verbrandingsmotoren. Van die volgende generatie 3-serie komt zelfs gewoon weer een uitermate dikke M3!",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/ondanks-aandacht-voor-elektrische-i3-komt-er-gewoon-een-dikke-bmw-m3-met-beestachtige-benzinemotor/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276151005/width/800/276151005",
+      "images": [
+        "https://images.autoweek.nl/276151005/width/800/276151005"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-07-23T06:02:58+00:00"
+    },
     {
       "id": "4f3507d80c106dc8",
       "title": "BMW Bails On One Of Europe’s Last Big Auto Shows",
@@ -202,7 +257,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/vvwRb3W22yb-9iUsszQFseomEBI=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/I/b/cZDdzbR7Wb5be3cY4c8g/p90626552-highres-the-new-bmw-ix3-50-x.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-22T09:00:37+00:00"
     },
@@ -333,9 +388,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-8.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -415,7 +470,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-m340i-vs-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T18:26:25+00:00"
     },
@@ -457,19 +512,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-20T14:26:22+00:00"
-    },
-    {
-      "id": "420c7669da419f59",
-      "title": "Met de BMW 325d mag Lot (52) de stad niet meer in: 'Een diesel is onverwoestbaar', zei mijn vader",
-      "summary": "Negen jaar geleden kocht Lot Vorstman deze heerlijke BMW 325d Cabriolet met dieselmotor. En wat voor een. Een drieliter zescilinder. Maar het einde is nabij, want in veel steden is de BMW van Lot niet meer welkom. Geeft de techniek ook aanleiding om afscheid te nemen?",
-      "url": "https://www.autoweek.nl/autotests/artikel/met-de-bmw-325d-mag-lot-52-de-stad-niet-meer-in-een-diesel-is-onverwoestbaar-zei-mijn-vader/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/276004979/width/800/276004979",
-      "images": [
-        "https://images.autoweek.nl/276004979/width/800/276004979"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-20T14:00:49+00:00"
     },
     {
       "id": "6ded616f2030cb91",
@@ -973,7 +1015,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -1207,7 +1249,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i5 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -1236,7 +1278,7 @@
         "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
+        "https://cdn-4.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1254,7 +1296,7 @@
         "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/2y7Amly6/s300/219-the-dacia-sandriders-dacia.webp"
+        "https://cdn-3.motorsport.com/images/amp/2y7Amly6/s300/219-the-dacia-sandriders-dacia.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2108,6 +2150,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -2246,7 +2301,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2259,7 +2314,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3546,7 +3601,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
