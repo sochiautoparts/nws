@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-23T10:33:55.800584+00:00",
-  "generated_at_human": "2026-07-23 10:33 UTC",
-  "total_items": 302,
+  "generated_at": "2026-07-23T12:47:37.859089+00:00",
+  "generated_at_human": "2026-07-23 12:47 UTC",
+  "total_items": 301,
   "sources_used": [
     "Auto Esporte BR",
     "AutoExpress",
@@ -36,13 +36,14 @@
     "BMW Blog X7",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -57,8 +58,6 @@
     "Electrek BMW",
     "Hagerty News",
     "Hooniverse",
-    "InsideEVs",
-    "Jalopnik",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
@@ -66,15 +65,72 @@
     "Motor1 Volvo",
     "Motorsport All",
     "Motorsport WEC",
-    "Paul Tan",
     "Quatro Rodas BR",
     "RACER",
     "Racecar Engineering",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
-  "sources_count": 67,
-  "multi_photo_items": 14,
+  "sources_count": 66,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "f4c0ce88eff54206",
+      "title": "MINI’s Creative AI Design Contest Crowns Fan Favorite",
+      "summary": "I’m one of those people who believe “creative” and “AI” shouldn’t be in the same sentence, but that’s how MINI described its recent contest held at the BMW Welt. Visitors were invited to use artificial... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/23/minis-creative-ai-design-contest-crowns-fan-favorite/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2026-MINI-Cooper-SE-1-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2026-MINI-Cooper-SE-1-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-23T12:41:27+00:00"
+    },
+    {
+      "id": "cf2f5bc01af9ca54",
+      "title": "'Niet vooruit te geselen, zo'n 200D, maar gebouwd voor de eeuwigheid' - podcast",
+      "summary": "Vijftig jaar geleden, in 1976, werden opvallend veel leuke en bijzondere auto's geïntroduceerd. Bijvoorbeeld de Mercedes W123, Aston Martin Lagonda, Lotus Elan, BMW 6-serie, Renault 14 en Porsche 924. Stéphan Vermeulen en Michiel Willebrands duiken in deze podcast dieper in dit mooie autojaar.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/niet-vooruit-te-geselen-zon-200d-maar-gebouwd-voor-de-eeuwigheid-podcast/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276145512/width/800/276145512",
+      "images": [
+        "https://images.autoweek.nl/276145512/width/800/276145512"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-07-23T12:32:24+00:00"
+    },
+    {
+      "id": "c1a08e7a395a470b",
+      "title": "This Japanese SUV Is Quietly Beating BMW, Mercedes, And Audi",
+      "summary": "Acura's twin-turbo MDX Type S quietly undercuts its German rivals on price, reliability, and ownership costs, without giving up an inch of luxury.",
+      "url": "https://www.topspeed.com/japanese-suv-quietly-beating-bmw-mercedes-audi/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-23.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-23.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/04/2025-acura-mdx-type-s-8-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/04/2025-acura-mdx-type-s-7-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-9.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-16.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/06/2025-acura-mdx-type-s-topspeed-5.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-23T12:00:10+00:00"
+    },
+    {
+      "id": "11b62a9446e4ed49",
+      "title": "193 BaT Auctions Closing Today",
+      "summary": "1939 BMW 327 Cabriolet 1958 Chevrolet Impala Convertible 23k-Kilometer 2008 Ferrari 430 Scuderia No Reserve: 1970 Pontiac GTO Judge Ram Air III Convertible 4-Speed 1966 Ferrari 330 GTC Fuel-Injected, 331-Powered 1966 Ford Mustang Fastback 5-Speed 1977 MV Agusta 750S America 2026 Porsche 911 GT3 Weissach 45k-Mile 1994 Toyota Supra Turbo 6-Speed 6k-Mile 2014 Toyota FJ Cruiser 6-Speed 2022 Porsche 718 Cayman GT4 6-Speed Turbocharged 1975 Datsun 280Z 5-Speed No Reserve: 40k-Mile 2000 Mercedes-Benz SL500 8k-Mile 2013 Porsche Panamera GTS No Reserve: 1997 Ford F-250 XL 7.5L 2007 Porsche 911…",
+      "url": "https://bringatrailer.com/auctions/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/DSC_4763-76138-scaled.jpg?w=310&#38;h=210&#38;crop=1",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/DSC_4763-76138-scaled.jpg?w=310&#38;h=210&#38;crop=1"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-23T12:00:00+00:00"
+    },
     {
       "id": "a273593f90da6c04",
       "title": "BMW iX1 and iX2 get £3,750 discounts as the EV Grant goes premium",
@@ -82,12 +138,7 @@
       "url": "https://www.autoexpress.co.uk/bmw/ix1/370064/bmw-ix1-and-ix2-get-ps3750-discounts-ev-grant-goes-premium",
       "image": "https://media.autoexpress.co.uk/image/private/s--09iZN-ps--/t_rss_image_w_845/v1781002426/autoexpress/2026/06/Used%20BMW%20iX1%20%28Mk3%2C%202022%20to%20date%29.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--09iZN-ps--/t_rss_image_w_845/v1781002426/autoexpress/2026/06/Used%20BMW%20iX1%20%28Mk3%2C%202022%20to%20date%29.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--rHEvypkM--/f_auto,t_author-mobile@1/v1740578134/autoexpress/2025/02/Antony%20Ingram%20headshot%202025.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix1/370064/t_author-desktop@1/v1740578134/autoexpress/2025/02/Antony%20Ingram%20headshot%202025.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix1/370064/t_author-mobile@1/v1740578134/autoexpress/2025/02/Antony%20Ingram%20headshot%202025.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--09iZN-ps--/f_auto,t_primary-image-mobile@1/v1781002426/autoexpress/2026/06/Used%20BMW%20iX1%20%28Mk3%2C%202022%20to%20date%29.jpg",
-        "https://www.autoexpress.co.uk/bmw/ix1/370064/t_primary-image-desktop@1/v1781002426/autoexpress/2026/06/Used%20BMW%20iX1%20%28Mk3%2C%202022%20to%20date%29.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--09iZN-ps--/t_rss_image_w_845/v1781002426/autoexpress/2026/06/Used%20BMW%20iX1%20%28Mk3%2C%202022%20to%20date%29.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -100,12 +151,7 @@
       "url": "https://carbuzz.com/lexus-gs-f-v8-affordable-bmw-m5-rival/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/lexus-gs-f-main.png",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/lexus-gs-f-main.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/lexus-gs-f-front-white.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/lexus-gs-f-rear-white.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2018_lexus_gs_f_00149_851ce72398c30cef60817e10261746bfbc5769cb.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/2020-lexus-gs-f.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2018_lexus_gs_f_020_b2e57c9c8658f5be9453653f717e8aed4ea37d75.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/lexus-gs-f-main.png"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -129,9 +175,9 @@
       "title": "BoP trouble and strange tire tactics at BMW: \"Artificial intervention taking place\"",
       "summary": "Not only at Manthey and Porsche, but also in the BMW camp, the mood is low after the Norisring weekend: While Kelvin van der Linde was unable to start on Sunday following a crash on Saturday and left empty-handed, local hero Marco Wittmann's frustration over the Balance of Performance (BoP) was enormous. \"I think we gave it our all - maximized it once again,\" he says after finishing tenth on ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/bop-frustration-and-curious-tire-strategy-at-bmw-there-is-artificial-intervention/10840861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/qYKkvW1Y/s6/bop-aerger-und-kuriose-reifentaktik-bei-bmw-es-wird-kuenstlich-eingegriffen-26072101.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/qYKkvW1Y/s6/bop-aerger-und-kuriose-reifentaktik-bei-bmw-es-wird-kuenstlich-eingegriffen-26072101.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/qYKkvW1Y/s6/bop-aerger-und-kuriose-reifentaktik-bei-bmw-es-wird-kuenstlich-eingegriffen-26072101.jpg"
+        "https://cdn-7.motorsport.com/images/amp/qYKkvW1Y/s6/bop-aerger-und-kuriose-reifentaktik-bei-bmw-es-wird-kuenstlich-eingegriffen-26072101.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -188,7 +234,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/MY26-Geely-EX2-007-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/China-Car-Sales-20267-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Polestar-USA-Ban-appeal-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/asdfawerfgaehrgearg-2048x1150.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Merc-Cruz-Jul23261000001-copy-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -247,19 +293,6 @@
       "published": "2026-07-22T12:46:17+00:00"
     },
     {
-      "id": "9c5d555d1f77e986",
-      "title": "At $7,500, Could This 1999 BMW Z3 2.8 Win Your Heart?",
-      "summary": "This two-door German convertible seems to be in great shape, with minimal modifications. But with nearly 100,000 miles on the clock, is it worth $7,500?",
-      "url": "https://www.jalopnik.com/2219868/1999-bmw-z3-for-sale-7500/",
-      "image": "https://www.jalopnik.com/img/gallery/at-7500-could-this-1999-bmw-z3-2-8-win-your-heart/l-intro-1784652552.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/at-7500-could-this-1999-bmw-z3-2-8-win-your-heart/l-intro-1784652552.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-07-22T12:25:00+00:00"
-    },
-    {
       "id": "bbcb3a96d54a4720",
       "title": "BMW iX3 terá a maior autonomia entre os carros elétricos no Brasil com 570 km",
       "summary": "Modelo vai estrear até o final de 2026 e será o primeiro da marca a utilizar a nova plataforma Neue Klasse, com novas tecnologias e design",
@@ -271,32 +304,6 @@
       "source": "Quatro Rodas BR",
       "source_url": "https://quatrorodas.abril.com.br",
       "published": "2026-07-22T11:26:19+00:00"
-    },
-    {
-      "id": "608f39f4b2d0e9ae",
-      "title": "El BMW Serie 3 de BYD es el chollo del verano, un anti-modas con casi 200 CV, etiqueta CERO y 1.500 km de autonomía por 21.000 € menos",
-      "summary": "Cuando pensamos en comprar una berlina nos solemos fijar, de casi manera irremediable, en las marcas premium. Y es que, a fin de cuentas, parece que son las únicas que se atreven a apostar por este segmento, pero nada más lejos de la realidad. Así lo demuestra BYD con su propio BMW Serie 3, una berlina de 4,84 metros de largo, etiqueta CERO, 184 CV y 1.505 km de autonomía... por 21.000 euros menos que el alemán . BYD tiene al chollo del verano en formato berlina y por 21.000 euros menos que un Serie 3 Hay pocos PHEV con mejor relación calidad-precio . Declara 184 CV de potencia combinada .…",
-      "url": "https://www.diariomotor.com/noticia/oferta-byd-seal-6-dm-i-julio-2026/",
-      "image": "https://www.diariomotor.com/imagenes/2025/03/BYD-Seal-06-DM-i-47-67e15c58c4226.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2025/03/BYD-Seal-06-DM-i-47-67e15c58c4226.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-22T10:32:53+00:00"
-    },
-    {
-      "id": "56a58d46f4ebda30",
-      "title": "Drive Luxury Home with BMW and MINI at Wheelcorp Premium Setia Alam, this July 24 to 26",
-      "summary": "Wheelcorp Premium Setia Alam is the place to be this weekend, from July 24 to 26 for great deals on new and pre-owned BMW and MINI models. If you’ve been looking out for the right […] The post Drive Luxury Home with BMW and MINI at Wheelcorp Premium Setia Alam, this July 24 to 26 appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/07/22/drive-luxury-home-with-bmw-and-mini-at-wheelcorp-premium-setia-alam-this-july-24-to-26/",
-      "image": "https://paultan.org/image/2026/07/BMW_7.7-LUCKY-CHARM-Wheelcorp-Premium-Setia-Alam-July-2026-ad-21-Jul-01-630x330.jpg",
-      "images": [
-        "https://paultan.org/image/2026/07/BMW_7.7-LUCKY-CHARM-Wheelcorp-Premium-Setia-Alam-July-2026-ad-21-Jul-01-630x330.jpg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-07-22T09:43:24+00:00"
     },
     {
       "id": "6328927b0d3769dd",
@@ -538,19 +545,6 @@
       "published": "2026-07-20T14:26:22+00:00"
     },
     {
-      "id": "6ded616f2030cb91",
-      "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
-      "summary": "BMW’s executive sedan is a little more efficient now, and all versions come with a Tesla-style NACS charge port.",
-      "url": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYYvz/s3/2026-bmw-i5-xdrive-40-review.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/qkYYvz/s3/2026-bmw-i5-xdrive-40-review.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-07-20T13:37:46+00:00"
-    },
-    {
       "id": "4504bbd2a5986285",
       "title": "New BMW iX5 Filmed At Dealer With Many Individual Upgrades",
       "summary": "The 2027 BMW X5 configurator is live in many European countries, but you still can’t build the iX5. That’s because only the 40 xDrive gasoline and diesel models are currently available to customize. The reason... First published by https://www.bmwblog.com",
@@ -655,7 +649,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -802,11 +796,11 @@
       "image": "https://cdn.motor1.com/images/mgl/Mkgl1w/s3/2028-bmw-m3-g84-camouflaged-prototype.jpg",
       "images": [
         "https://cdn.motor1.com/images/mgl/Mkgl1w/s3/2028-bmw-m3-g84-camouflaged-prototype.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/K5wpEL7gFJY/s3/thumb.jpg",
         "https://cdn.motor1.com/images/mgl/2N4Vpz/s5/bmw-m-concept-neue-klasse-2026-im-erstkontakt.jpg",
         "https://cdn.motor1.com/images/mgl/nAlwxR/s5/bmw-m-concept-neue-klasse-2026.jpg",
         "https://cdn.motor1.com/images/mgl/koKg2e/s5/bmw-m-concept-neue-klasse-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/qkYP3z/s5/bmw-m-concept-neue-klasse-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/7ZEAyV/s5/bmw-m-concept-neue-klasse-2026.jpg"
+        "https://cdn.motor1.com/images/mgl/qkYP3z/s5/bmw-m-concept-neue-klasse-2026.jpg"
       ],
       "source": "Motor1 Volvo",
       "source_url": "https://www.motor1.com",
@@ -1273,7 +1267,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -1302,7 +1296,7 @@
         "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
+        "https://cdn-1.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1320,7 +1314,7 @@
         "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/2y7Amly6/s300/219-the-dacia-sandriders-dacia.webp"
+        "https://cdn-9.motorsport.com/images/amp/2y7Amly6/s300/219-the-dacia-sandriders-dacia.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2731,19 +2725,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-12T18:20:32+00:00"
-    },
-    {
-      "id": "cec5df5b47cb277e",
-      "title": "Two Months Was All BMW’s iX3 Needed To Crack 10,000 Sales In Europe",
-      "summary": "A third of the people buying the new iX3 have never owned a BMW, which says something about who the electric SUV is reaching",
-      "url": "https://www.carscoops.com/2026/06/bmw-ix3-sales-europe/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90626851_highRes_the-new-bmw-ix3-50-x-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/P90626851_highRes_the-new-bmw-ix3-50-x-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Mercedes",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-12T16:33:00+00:00"
     },
     {
       "id": "56aeae6f75a0ff3c",
