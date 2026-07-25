@@ -1,15 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-25T21:07:01.265867+00:00",
-  "generated_at_human": "2026-07-25 21:07 UTC",
-  "total_items": 299,
+  "generated_at": "2026-07-25T23:07:54.760349+00:00",
+  "generated_at_human": "2026-07-25 23:07 UTC",
+  "total_items": 301,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
     "Auto Esporte Carros",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -46,16 +46,18 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarScoops Rolls",
+    "CarScoops Volvo",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor1 BMW",
     "Motor1 Design",
@@ -67,9 +69,22 @@
     "Response JP",
     "TopSpeed"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 18,
+  "sources_count": 64,
+  "multi_photo_items": 17,
   "items": [
+    {
+      "id": "051c4069117cf78f",
+      "title": "Original-Owner 1997 BMW 540i at No Reserve",
+      "summary": "This 1997 BMW 540i sedan purchased new by the seller through BMW Concord in California, and it now has 71k miles. The car is finished in Canyon Red Metallic over Gray Montana leather, and is powered by a 4.4-liter M62 V8 paired with a four-speed automatic transmission. Equipment includes a sunroof, 16″ Style 33 alloy wheels, an aftermarket infotainment system, a Premium Hi-Fi sound system, fold-down rear seats, and driver-seat position memory settings. This E39 540i is now offered at no reserve with a window sticker, the owner’s manual, service records, a clean Carfax report, and a clean…",
+      "url": "https://bringatrailer.com/listing/1997-bmw-540i-72/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/IMG_8251-copy-2026-07-14-uft-scaled-02540.jpeg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/05/IMG_8251-copy-2026-07-14-uft-scaled-02540.jpeg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-07-25T22:10:15+00:00"
+    },
     {
       "id": "547327acdad2682c",
       "title": "BMW M2: The Sports Coupe That Delivers Porsche Smiles Without Porsche Bills",
@@ -77,29 +92,11 @@
       "url": "https://www.topspeed.com/sports-coupe-porsche-smiles-without-porsche-bills/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2016-bmw-m2.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2016-bmw-m2.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-2235.jpeg?q=49&fit=crop&w=875&h=540&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-2246.jpeg?q=49&fit=crop&w=875&h=540&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-porsche-911-carrera-6.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-porsche-911-carrera-10.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-porsche-911-carrera-9.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2016-bmw-m2.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-07-25T20:00:10+00:00"
-    },
-    {
-      "id": "0fdda036f607ee3f",
-      "title": "Mercedes-Benz And Cosworth Teamed Up To Hit The BMW M3 Where It Hurt The Most",
-      "summary": "With the BMW M3 being such a fly in Mercedes' ointment, it decided to rope in the big guns to show it who was boss.",
-      "url": "https://carbuzz.com/mercedes-benz-190-e-evo-ii-cosworth-versus-bmw-m3/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/190-evolution-main.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/190-evolution-main.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-07-25T16:41:14+00:00"
     },
     {
       "id": "47065c5c711b57bc",
@@ -234,7 +231,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0_77.jpg?itok=-e0KDtWk"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-25T01:26:35+00:00"
     },
@@ -247,7 +244,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_lancia_thesis_front_64.jpg?itok=DIFBF_KN"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-25T01:26:12+00:00"
     },
@@ -276,7 +273,7 @@
         "https://www.carscoops.com/wp-content/uploads/2025/10/BMW-X4-M-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Carvana-dealer-Dallas-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/JP026_009RE-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/PI_Mercedes_AMG_23072026_Safetycar_GT63Pro_14-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/911-prices-down-Jul2126101-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -309,7 +306,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_lancia_thesis_front_63.jpg?itok=vR8lndzB"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-24T16:59:55+00:00"
     },
@@ -340,7 +337,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-design-sketches-30-830x587.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-24T16:43:45+00:00"
     },
@@ -2033,19 +2030,6 @@
       "published": "2026-06-30T16:50:54+00:00"
     },
     {
-      "id": "aee33530c5618ca6",
-      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
-      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
       "id": "750232a217165f7b",
       "title": "2027 BMW X5 Hybrid",
       "summary": "What We Know So Far",
@@ -2069,6 +2053,19 @@
       ],
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
+      "id": "aee33530c5618ca6",
+      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
+      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
@@ -2239,6 +2236,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3422,6 +3432,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
