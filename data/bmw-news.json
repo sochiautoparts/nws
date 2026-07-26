@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-26T09:22:23.791368+00:00",
-  "generated_at_human": "2026-07-26 09:22 UTC",
-  "total_items": 298,
+  "generated_at": "2026-07-26T11:35:31.016568+00:00",
+  "generated_at_human": "2026-07-26 11:35 UTC",
+  "total_items": 299,
   "sources_used": [
     "5koleso RU",
-    "Auto Esporte BR",
+    "Auto Esporte Carros",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -38,9 +38,9 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -49,6 +49,7 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Rolls",
@@ -56,18 +57,44 @@
     "Hagerty News",
     "Hooniverse",
     "InsideEVs",
+    "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motoring Research",
     "Motorsport WEC",
-    "Racecar Engineering",
-    "TopSpeed"
+    "Racecar Engineering"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 17,
+  "sources_count": 61,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "d1b9804b0acebdd9",
+      "title": "El Mercedes-AMG GT 63 Pro 2027 deja al descubierto su nuevo rostro, estas fotos espía revelan el cambio más visible",
+      "summary": "Fotos espía Mercedes-AMG GT 63 Pro Facelift 2027. Motor.es El superdeportivo con más caché de la marca de la estrella también se está sometiendo a su pertinente proceso de actualización. El facelift del Mercedes-AMG GT 63 Pro ha sido cazado en estas fotos espía, probando las mejoras que estrenará, junto a un nuevo frente más distinguido, en 2027. Está claro que, como BMW está intensificando la actualización de su gama de modelos adaptándose al moderno estilo de diseño «Neue Klasse», los de la estrella también están trabajan duramente para implementar su lenguaje más personalista en sus…",
+      "url": "https://www.motor.es/noticias/mercedes-amg-gt-63-pro-facelift-fotos-espia-2027-2026115466.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/07/mercedes-amg-gt-pro-facelift-fotos-espia-2026115466-1784976720_18.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/07/mercedes-amg-gt-pro-facelift-fotos-espia-2026115466-1784976720_18.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-07-26T10:00:00+00:00"
+    },
+    {
+      "id": "9c29eef4e1a80575",
+      "title": "The New BMW iX3 Becomes Brazil’s Longest-Range EV",
+      "summary": "Depending on where you live, BMW advertises the new iX3 with widely different driving ranges. In Europe and other regions that use the WLTP standard, the electric crossover is rated for up to 500 miles... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/26/bmw-ix3-longest-range-ev-brazil/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Polarized-Grey-9-830x746.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Polarized-Grey-9-830x746.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-26T09:47:39+00:00"
+    },
     {
       "id": "432bf3d3b0fceaf5",
       "title": "Teste: BMW M135 ignora modinha e tem dinâmica de dar inveja a qualquer SUV",
@@ -82,7 +109,7 @@
         "https://s2-autoesporte.glbimg.com/7p0tLLMM3Yy2wXMh3iI8gQUK-Jc=/0x0:1920x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/N/U/yo9RauRH2tbNoGFRGHMw/bmw-m135-2-lateral-reta.jpg",
         "https://s2-autoesporte.glbimg.com/XLhLJnESlyrxdZyF2xOODe6OUDw=/0x0:1920x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/N/U/yo9RauRH2tbNoGFRGHMw/bmw-m135-2-lateral-reta.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-26T09:00:59+00:00"
     },
@@ -144,19 +171,6 @@
       "published": "2026-07-25T22:10:15+00:00"
     },
     {
-      "id": "547327acdad2682c",
-      "title": "BMW M2: The Sports Coupe That Delivers Porsche Smiles Without Porsche Bills",
-      "summary": "A used F87 BMW M2 under $40,000 beats a $135,500 Porsche 911 Carrera in driver engagement, and bolt-on mods can surpass it in performance.",
-      "url": "https://www.topspeed.com/sports-coupe-porsche-smiles-without-porsche-bills/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2016-bmw-m2.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2016-bmw-m2.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-07-25T20:00:10+00:00"
-    },
-    {
       "id": "47065c5c711b57bc",
       "title": "Новый BMW X5 2027 года стоит почти 100 000 долларов: раскрыты цены и комплектации",
       "summary": "Столь высокую цену заплатят те покупатели, которые выберут топовую комплектацию со всеми доступными опциями. За эти деньги доступен 3,0-литровый двигатель с двойным турбонаддувом, который выдает до 394 л.с. и 580 Нм. Он сочетается со стартер-генератором и обеспечивает ускорение до 100 км/ч за 5,3 с. Максимальная скорость у этой версии кроссовера составляет 249 км/ч. В указанную […]",
@@ -189,14 +203,9 @@
       "url": "https://autoesporte.globo.com/carros/segredos-e-flagras/noticia/2026/07/flagra-novo-bmw-i3-superar-ix3-maior-autonomia-brasil.ghtml",
       "image": "https://s2-autoesporte.glbimg.com/0SMyP-NakP28Res5AKKRcYEaIiU=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/4/u/JP3nE7Qnq6qRx3MUiAlw/752297107-28501077309495307-7336461958808959928-n.jpg",
       "images": [
-        "https://s2-autoesporte.glbimg.com/0SMyP-NakP28Res5AKKRcYEaIiU=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/4/u/JP3nE7Qnq6qRx3MUiAlw/752297107-28501077309495307-7336461958808959928-n.jpg",
-        "https://s2-autoesporte.glbimg.com/9jp9-C1xyMvN7EftM1a3Iv59pOs=/0x0:1920x1280/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/4/u/JP3nE7Qnq6qRx3MUiAlw/752297107-28501077309495307-7336461958808959928-n.jpg",
-        "https://s2-autoesporte.glbimg.com/5vrtISzUMfv9IDk7itQcM2G6q6A=/0x0:1920x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/M/AqAyVEQhaoI000NwbIMw/bmw-i3-50-xdrive693.jpeg",
-        "https://s2-autoesporte.glbimg.com/WuYhaquhgl-mI8k8K7-D3ole2Ig=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/M/AqAyVEQhaoI000NwbIMw/bmw-i3-50-xdrive693.jpeg",
-        "https://s2-autoesporte.glbimg.com/9tZ8W_KweYPi50JMpEUIb6jfALg=/0x0:1920x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/M/AqAyVEQhaoI000NwbIMw/bmw-i3-50-xdrive693.jpeg",
-        "https://s2-autoesporte.glbimg.com/i3ezFOyiTXCv3iL2Z_8xahRSAVM=/0x0:1920x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/M/AqAyVEQhaoI000NwbIMw/bmw-i3-50-xdrive693.jpeg"
+        "https://s2-autoesporte.glbimg.com/0SMyP-NakP28Res5AKKRcYEaIiU=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/4/u/JP3nE7Qnq6qRx3MUiAlw/752297107-28501077309495307-7336461958808959928-n.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-25T12:00:19+00:00"
     },
@@ -271,7 +280,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/MjTYzHUsNuxwTSoz9D7fWXAnQHA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/F/5/hcKe9VRRCYiHLByGDTYg/volvo-960-1993.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-25T10:00:37+00:00"
     },
@@ -284,7 +293,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0_77.jpg?itok=-e0KDtWk"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-25T01:26:35+00:00"
     },
@@ -297,7 +306,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_lancia_thesis_front_64.jpg?itok=DIFBF_KN"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-25T01:26:12+00:00"
     },
@@ -312,7 +321,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/2026_GRSupra_3L_Premium_Stratosphere_018-copy-2048x1208.jpg",
         "https://www.carscoops.com/wp-content/uploads/2025/10/BMW-X4-M-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Carvana-dealer-Dallas-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/JP026_009RE-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/TOMS-lid2-Jul242698-2048x1151.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/911-prices-down-Jul2126101-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
@@ -665,7 +674,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -826,7 +835,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -1187,7 +1196,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -1408,7 +1417,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -1437,7 +1446,7 @@
         "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
+        "https://cdn-5.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2013,19 +2022,6 @@
       "published": "2026-06-30T16:50:54+00:00"
     },
     {
-      "id": "aee33530c5618ca6",
-      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
-      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
       "id": "750232a217165f7b",
       "title": "2027 BMW X5 Hybrid",
       "summary": "What We Know So Far",
@@ -2049,6 +2045,19 @@
       ],
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
+      "id": "aee33530c5618ca6",
+      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
+      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
@@ -2372,7 +2381,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -2871,19 +2880,6 @@
       "published": "2026-06-11T14:26:10+00:00"
     },
     {
-      "id": "53439f75f06cb448",
-      "title": "BMW Just Drove 800 km Over A Tibetan Plateau Without Plugging In",
-      "summary": "A BMW iX3 50L xDrive prototype left Xining last week, climbed to nearly 4,000 meters above sea level, drove the full Qinghai Lake loop on public roads through snow, rain, and altitude sunshine, and came... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/11/bmw-ix3-long-wheelbase-800km-range-qinghai/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-ix3-china-range-01-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-ix3-china-range-01-830x553.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-11T09:18:38+00:00"
-    },
-    {
       "id": "0de0af692a60addc",
       "title": "We drove the 717-hp BMW M5 Touring from South Carolina to Key West",
       "summary": "Following the great SUV craze that began in the 1990s, the US seemingly bade farewell to the station wagon. Yet some are making a comeback — less as practical family haulers and more as high-performance... First published by https://www.bmwblog.com",
@@ -3311,6 +3307,19 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
