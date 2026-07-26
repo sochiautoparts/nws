@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-26T21:09:47.154079+00:00",
-  "generated_at_human": "2026-07-26 21:09 UTC",
-  "total_items": 295,
+  "generated_at": "2026-07-26T23:09:41.665681+00:00",
+  "generated_at_human": "2026-07-26 23:09 UTC",
+  "total_items": 300,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -48,24 +48,46 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Rolls",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
     "Motor1 Volvo",
+    "Motoring Research",
     "Motorsport WEC",
     "Racecar Engineering",
     "TopSpeed"
   ],
-  "sources_count": 58,
-  "multi_photo_items": 14,
+  "sources_count": 62,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "60e14bb3d7660829",
+      "title": "Best Midsize SUV Tested: 'The Volvo That Can Go Toe-To-Toe With BMW And Mercedes'",
+      "summary": "The midsize SUV segment is a fierce one, which only makes choosing one to buy more challenging. Luckily, we did all the groundwork for you...",
+      "url": "https://carbuzz.com/best-midsize-suv-tested-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/jpg-full-tim_1154_ex60_detail_high_front_cropped_processed_by_imagy.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/jpg-full-tim_1154_ex60_detail_high_front_cropped_processed_by_imagy.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-3474.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-3540.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-3526.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-3557.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-26T22:00:14+00:00"
+    },
     {
       "id": "dc502297b4fb148c",
       "title": "2024 BMW R1300GS Adventure Option 719 Tramuntana w/Hannigan Motorsports Sidecar",
@@ -306,7 +328,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_0-intro-bmw-cs_bmw_1_0_77.jpg?itok=-e0KDtWk"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-25T01:26:35+00:00"
     },
@@ -319,7 +341,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_lancia_thesis_front_64.jpg?itok=DIFBF_KN"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-25T01:26:12+00:00"
     },
@@ -477,6 +499,19 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-24T10:01:31+00:00"
+    },
+    {
+      "id": "2a2da4bc6cffabfd",
+      "title": "BMW iX1 and iX2 now qualify for £3,750 Electric Car Grant",
+      "summary": "BMW has become the first premium German brand to qualify for the UK Government’s Electric Car Grant scheme, with savings on the iX1 and iX2 The post BMW iX1 and iX2 now qualify for £3,750 Electric Car Grant appeared first on Motoring Research .",
+      "url": "https://www.motoringresearch.com/car-news/bmw-ix1-ix2-electric-car-grant/",
+      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-iX1-and-iX2-Electric-Car-Grant.jpg",
+      "images": [
+        "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-iX1-and-iX2-Electric-Car-Grant.jpg"
+      ],
+      "source": "Motoring Research",
+      "source_url": "https://www.motoringresearch.com",
+      "published": "2026-07-24T08:50:58+00:00"
     },
     {
       "id": "e6f9b32540c51638",
@@ -822,7 +857,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -838,6 +873,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
+    },
+    {
+      "id": "20b48eddbbe7da8a",
+      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
+      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
+      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-18T13:00:00+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -986,6 +1034,19 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
+    },
+    {
+      "id": "83ef33b4cdcfa12d",
+      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
+      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
+      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-16T13:07:00+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -2178,6 +2239,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -3135,7 +3209,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3239,7 +3313,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
