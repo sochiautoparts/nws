@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-27T03:58:18.238453+00:00",
-  "generated_at_human": "2026-07-27 03:58 UTC",
-  "total_items": 278,
+  "generated_at": "2026-07-27T07:47:19.433696+00:00",
+  "generated_at_human": "2026-07-27 07:47 UTC",
+  "total_items": 300,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
@@ -43,6 +43,7 @@
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
+    "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver",
@@ -52,21 +53,89 @@
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Rolls",
+    "CarScoops Volvo",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
     "Motor1 Land Rover",
     "Motor1 Volvo",
+    "Motoring Research",
     "Motorsport WEC",
     "Racecar Engineering",
     "TopSpeed"
   ],
-  "sources_count": 59,
+  "sources_count": 63,
   "multi_photo_items": 15,
   "items": [
+    {
+      "id": "ce3f06d7de8a53ec",
+      "title": "New BMW X5 Long Wheelbase Stretches Out In China",
+      "summary": "It’s only been about a month since BMW introduced the fifth-generation X5, and it has already given the luxury SUV the long-wheelbase treatment. While the global model carries the G65 codename, its bigger brother is... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/27/2027-bmw-x5-long-wheelbase-debut-china/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-Long-Wheelbase-6-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-Long-Wheelbase-6-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-27T07:05:10+00:00"
+    },
+    {
+      "id": "1627e18a994a51c4",
+      "title": "De nieuwe BMW X5 en iX5 zijn nu nog groter en ruimer",
+      "summary": "De nieuwe BMW X5 en iX5 zijn al bepaald niet klein, maar ook voor wie ze toch te krap vindt, is er nu een oplossing. Die oplossing vind je echter niet zo makkelijk in Nederland.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/de-nieuwe-bmw-x5-en-ix5-zijn-nu-nog-groter-en-ruimer/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276277336/width/800/276277336",
+      "images": [
+        "https://images.autoweek.nl/276277336/width/800/276277336"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-07-27T06:45:16+00:00"
+    },
+    {
+      "id": "4a35786da3215b8f",
+      "title": "Mehr Platz, mehr Luxus: So kommt die BMW X5 Langversion G78 für China",
+      "summary": "Mit der neuen BMW X5 Langversion (G78) wird der G65 zum geräumigen Luxus-SUV für besonders Anspruchsvolle: Der um 13 Zentimeter verlängerte Radstand schafft nicht nur...",
+      "url": "https://www.bimmertoday.de/2026/07/27/mehr-platz-mehr-luxus-so-kommt-die-bmw-x5-langversion-g78-fur-china/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/2027-BMW-X5-Langversion-G78-China-iX5-LWB-G65-Interieur-04.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/2027-BMW-X5-Langversion-G78-China-iX5-LWB-G65-Interieur-04.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-07-27T06:30:26+00:00"
+    },
+    {
+      "id": "ec06f11e79ffb827",
+      "title": "DTM-Look für die Straße: Fotos zu den Schubert-BMW M4 mit Original-Livery",
+      "summary": "Dass man einen DTM-Rennwagen nicht im öffentlichen Straßenverkehr bewegen darf, liegt auf der Hand. Dank Schubert Motorsport rückt der Look eines aktuellen BMW M4 DTM...",
+      "url": "https://www.bimmertoday.de/2026/07/27/dtm-look-fur-die-strase-fotos-zu-den-schubert-bmw-m4-mit-original-livery/",
+      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/BMW-M4-DTM-Edition-2026-Marco-Wittmann-Schubert-Motorsport-G82-LCI-Folierung-04.jpg",
+      "images": [
+        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/BMW-M4-DTM-Edition-2026-Marco-Wittmann-Schubert-Motorsport-G82-LCI-Folierung-04.jpg"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-07-27T05:46:57+00:00"
+    },
+    {
+      "id": "cd0517968745b718",
+      "title": "El BMW Serie 7 sorprende con un nuevo M760 de gasolina, estas fotos espía revelan el regreso del V8 más puro",
+      "summary": "Fotos espía BMW Serie 7 M760 xDrive 2027 Motor.es La nueva norma de emisiones Euro 7 está haciendo estragos en los fabricantes, que tienen hasta casi finales de año para domarla. Como BMW, que ha decidido que un PHEV no sea el modelo más potente en la gama del Serie 7. Estas fotos espía confirman el nuevo M760. Se le ha echado de menos y lo seguiremos haciendo, porque los bávaros no están dispuestos a ceder en esto. Lo hicieron con los M Touring, pero lo del Serie 7 es innegociable , y no veremos a esta berlina de alto standing con una insignia como la del M7 en su parte trasera. Los…",
+      "url": "https://www.motor.es/noticias/bmw-serie7-m760-xdrive-2027-fotos-espia-2026115430.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-2026115430-1784980767_3.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/07/bmw-2026115430-1784980767_3.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-07-27T05:00:00+00:00"
+    },
     {
       "id": "60e14bb3d7660829",
       "title": "Best Midsize SUV Tested: 'The Volvo That Can Go Toe-To-Toe With BMW And Mercedes'",
@@ -75,7 +144,7 @@
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/jpg-full-tim_1154_ex60_detail_high_front_cropped_processed_by_imagy.jpg",
       "images": [
         "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/jpg-full-tim_1154_ex60_detail_high_front_cropped_processed_by_imagy.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/marketplace-ad-2-phone.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
         "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
         "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-3474.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
         "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-subaru-outback-3540.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
@@ -177,7 +246,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Polarized-Grey-9-830x746.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-26T09:47:39+00:00"
     },
@@ -330,19 +399,6 @@
       "published": "2026-07-25T01:26:35+00:00"
     },
     {
-      "id": "4567eb5bc579f840",
-      "title": "The story of the mysterious Lancia Thesis",
-      "summary": "Lancia poured time and money into development, but fewer than 20,000 sold in eight years - we look back Lancia Thesis Compared with the Thesis, few cars from Lancia had so much time and money invested in them. A a car of slightly mysterious allure but plenty of technology, it was developed on its own bespoke chassis and the same sort of suspension used in the Maserati Spyder, Granturismo and Quattroporte . It even had radar-guided cruise control - the first Lancia to do so. Despite the effort and attention lavished on it to make it a true rival for the BMW 5 Series and Mercedes E-Class ,…",
-      "url": "https://www.autocar.co.uk/car-news/slideshow/story-mysterious-lancia-thesis-59",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_lancia_thesis_front_64.jpg?itok=DIFBF_KN",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/new_lancia_thesis_front_64.jpg?itok=DIFBF_KN"
-      ],
-      "source": "Autocar BMW",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-25T01:26:12+00:00"
-    },
-    {
       "id": "a84f6ce1b1b1c4c2",
       "title": "Your Toyota Supra Is Getting Recalled Because Of A BMW Starter Motor",
       "summary": "BMW is recalling another 318,495 vehicles over Valeo starter motors that can fail or catch fire, and the Toyota Supra is on the list",
@@ -405,7 +461,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-design-sketches-30-830x587.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-24T16:43:45+00:00"
     },
@@ -498,6 +554,19 @@
       "published": "2026-07-24T10:01:31+00:00"
     },
     {
+      "id": "2a2da4bc6cffabfd",
+      "title": "BMW iX1 and iX2 now qualify for £3,750 Electric Car Grant",
+      "summary": "BMW has become the first premium German brand to qualify for the UK Government’s Electric Car Grant scheme, with savings on the iX1 and iX2 The post BMW iX1 and iX2 now qualify for £3,750 Electric Car Grant appeared first on Motoring Research .",
+      "url": "https://www.motoringresearch.com/car-news/bmw-ix1-ix2-electric-car-grant/",
+      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-iX1-and-iX2-Electric-Car-Grant.jpg",
+      "images": [
+        "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-iX1-and-iX2-Electric-Car-Grant.jpg"
+      ],
+      "source": "Motoring Research",
+      "source_url": "https://www.motoringresearch.com",
+      "published": "2026-07-24T08:50:58+00:00"
+    },
+    {
       "id": "e6f9b32540c51638",
       "title": "BMW X1 xDrive30e U11 in Desert Sand: Der Dreizylinder mit über 300 PS",
       "summary": "Spätestens seit dem i8 wissen auch BMW-Fans, dass ein Dreizylinder nicht zwingend eine Verzichtserklärung sein muss: Auch wenn sechs, acht oder sogar noch mehr Zylinder...",
@@ -581,19 +650,6 @@
       "published": "2026-07-23T12:41:27+00:00"
     },
     {
-      "id": "cf2f5bc01af9ca54",
-      "title": "'Niet vooruit te geselen, zo'n 200D, maar gebouwd voor de eeuwigheid' - podcast",
-      "summary": "Vijftig jaar geleden, in 1976, werden opvallend veel leuke en bijzondere auto's geïntroduceerd. Bijvoorbeeld de Mercedes W123, Aston Martin Lagonda, Lotus Elan, BMW 6-serie, Renault 14 en Porsche 924. Stéphan Vermeulen en Michiel Willebrands duiken in deze podcast dieper in dit mooie autojaar.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/niet-vooruit-te-geselen-zon-200d-maar-gebouwd-voor-de-eeuwigheid-podcast/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/276145512/width/800/276145512",
-      "images": [
-        "https://images.autoweek.nl/276145512/width/800/276145512"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-23T12:32:24+00:00"
-    },
-    {
       "id": "a8667dce4d916795",
       "title": "Verlängerung für den BMW Z4 G29: Edo Roadster lädt zum Träumen ein",
       "summary": "Auch wenn die Produktion inzwischen beendet ist, ist die Geschichte des BMW Z4 der Generation G29 noch lange nicht zu Ende erzählt: Als Edo Roadster...",
@@ -631,19 +687,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-22T16:49:10+00:00"
-    },
-    {
-      "id": "3f34b1d91aeb03f4",
-      "title": "ALPINA In Korea Getting Dedicated Areas At Seven BMW Dealers",
-      "summary": "Things have been relatively quiet in the new and rather exciting BMW ALPINA world since this gorgeous coupe broke cover in mid-May at Villa d’Este. We’ve since learned the 2+2 concept won’t make it to... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/22/alpina-confirmed-for-korea-launch-2027/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/05/vision-bmw-alpina-photos-official-10-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/05/vision-bmw-alpina-photos-official-10-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-22T14:07:35+00:00"
     },
     {
       "id": "5387c5d9728cceff",
@@ -1059,6 +1102,19 @@
       "published": "2026-07-16T12:04:00+00:00"
     },
     {
+      "id": "3d65fdb091a5923b",
+      "title": "BMW Pilot Could Keep ICE Cars Legal in the EU for Years to Come",
+      "summary": "BMW Group has begun a six month pilot in Spain putting its combustion technology openness strategy into practice on public roads, not in a... The post BMW Pilot Could Keep ICE Cars Legal in the EU for Years to Come appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/07/16/bmw-pilot-could-keep-ice-cars-legal-in-the-eu-for-years-to-come/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/07/15113644/P90649455_highRes_repsol-and-bmw-1600x1067.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/07/15113644/P90649455_highRes_repsol-and-bmw-1600x1067.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-07-16T10:35:00+00:00"
+    },
+    {
       "id": "f7d6d6c202fa1d2b",
       "title": "The New BMW 3 Series Touring Might Lose A Signature Trait",
       "summary": "Raise your hand if you saw this coming. After the 5 Series Touring lost the tailgate’s independently opening rear glass, the next long-roof 3 Series might follow suit. Car paparazzi spotted the electric i3 Touring... First published by https://www.bmwblog.com",
@@ -1168,19 +1224,6 @@
       "published": "2026-07-15T21:00:00+00:00"
     },
     {
-      "id": "ca7530d159c2e39d",
-      "title": "BMW i3 Touring: Erste Erlkönig-Fotos zeigen den Neue Klasse-Kombi NA1",
-      "summary": "Offiziell bestätigt ist der erste BMW i3 Touring (NA1) schon länger, nun gibt es endlich auch die ersten Erlkönig-Fotos vom Elektro-3er im Kombi-Format. Die Neue...",
-      "url": "https://www.bimmertoday.de/2026/07/15/bmw-i3-touring-erste-erlkonig-fotos-zeigen-den-neue-klasse-kombi-na1/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/2027-BMW-i3-Touring-NA1-Erlkoenig-Fotos-Elektro-Kombi-Neue-Klasse-12.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/2027-BMW-i3-Touring-NA1-Erlkoenig-Fotos-Elektro-Kombi-Neue-Klasse-12.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-07-15T16:09:55+00:00"
-    },
-    {
       "id": "a9099e5f9eabc93d",
       "title": "2027 BMW i3 Touring Spy Shots Reveal Longer, Sloped Tail",
       "summary": "A prototype of the 2027 BMW i3 Touring (NA1) has been spotted testing in Black Sapphire paint, wearing camouflage wrap only at the nose and tail. It’s the first real look at BMW’s electric 3... First published by https://www.bmwblog.com",
@@ -1231,19 +1274,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-07-15T11:05:00+00:00"
-    },
-    {
-      "id": "4fb6f58d6e843ad3",
-      "title": "Schnellster Kombi beim Hillclimb: BMW M3 Touring 24H in Goodwood",
-      "summary": "Wie schon am Nürburgring zählte der BMW M3 Touring 24H auch beim Goodwood Festival of Speed zu den absoluten Sympathieträgern und fuhr sich mit seinem...",
-      "url": "https://www.bimmertoday.de/2026/07/15/schnellster-kombi-beim-hillclimb-bmw-m3-touring-24h-in-goodwood/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/BMW-M3-Touring-24H-2026-Goodwood-Festival-of-Speed-Hillclimb-01-120x120.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/BMW-M3-Touring-24H-2026-Goodwood-Festival-of-Speed-Hillclimb-01-120x120.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-07-15T06:35:50+00:00"
     },
     {
       "id": "e54730efb30c7bf5",
@@ -1322,6 +1352,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-14T12:36:16+00:00"
+    },
+    {
+      "id": "90bfd2af4b20f317",
+      "title": "BMW’s Neue Klasse Bet Is Already Paying Off in Europe, Even as China Drags the Numbers Down",
+      "summary": "BMW Group delivered around 1.15 million vehicles in the first half of 2026, a 4.2 percent decline overall. On paper that reads as a... The post BMW’s Neue Klasse Bet Is Already Paying Off in Europe, Even as China Drags the Numbers Down appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/07/14/bmws-neue-klasse-bet-is-already-paying-off-in-europe-even-as-china-drags-the-numbers-down/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/02/09074805/iX3_-NA5_4388-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/02/09074805/iX3_-NA5_4388-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-07-14T12:15:45+00:00"
     },
     {
       "id": "dd1305f57983a124",
@@ -1426,7 +1469,7 @@
         "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
+        "https://cdn-9.motorsport.com/images/amp/0Lde5590/s300/francesco-bagnaia-ducati-team-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -1444,7 +1487,7 @@
         "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s1000/race-start-2.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-4.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-2.motorsport.com/images/amp/2y7AGwX6/s300/pedro-acosta-red-bull-ktm-fact.webp"
+        "https://cdn-8.motorsport.com/images/amp/2y7AGwX6/s300/pedro-acosta-red-bull-ktm-fact.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1781,6 +1824,19 @@
       "published": "2026-07-07T02:06:21+00:00"
     },
     {
+      "id": "39d3346bb6c5a654",
+      "title": "How Ferrari’s Manual Return Could Change BMW M Cars",
+      "summary": "Ferrari has reintroduced the manual gearbox. That is the headline. It is also, strictly speaking, not entirely true. The new 12Cilindri Manuale has a... The post How Ferrari’s Manual Return Could Change BMW M Cars appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/07/06/how-ferraris-manual-return-could-change-bmw-m-cars/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/07/06141415/JH-Ferrari167GH-100_3774e898-cacb-4cb7-b6f4-d07bde4ec8d9-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/07/06141415/JH-Ferrari167GH-100_3774e898-cacb-4cb7-b6f4-d07bde4ec8d9-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-07-06T19:16:30+00:00"
+    },
+    {
       "id": "6775c2a866e6bd3c",
       "title": "BMW M3 EV Spied Possibly Hiding The Concept’s Ducktail Spoiler",
       "summary": "It’s no secret that electric M3 prototypes are a common sight at and around the Nürburgring. However, a pro car paparazzo recently spotted a pair of camouflaged test cars that looked slightly different from the... First published by https://www.bmwblog.com",
@@ -1885,19 +1941,6 @@
       "published": "2026-07-04T06:30:26+00:00"
     },
     {
-      "id": "22c86cda51ac4000",
-      "title": "BMW Explains Why The iX3 Won’t Get The iX5’s Huge Battery",
-      "summary": "It’s safe to say the iX5’s battery pack is an absolute unit. It has a net energy content of 141 kWh, the largest of any electric BMW to date. Although you’ve likely seen a slightly... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/03/bmw-explains-why-ix3-will-not-get-ix5-battery/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-iX5-battery-1-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-iX5-battery-1-830x554.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-03T13:36:32+00:00"
-    },
-    {
       "id": "a8886a2e9d4eafbd",
       "title": "Here’s How Every BMW Sold In The US During Q2 2026",
       "summary": "There are winners and losers whenever an automaker publishes a sales report, and BMW’s latest figures for the United States are no exception. The Q2 2026 results are in, showing what worked and what didn’t... First published by https://www.bmwblog.com",
@@ -1922,6 +1965,19 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-07-03T07:09:31+00:00"
+    },
+    {
+      "id": "a40d7f34a3489b05",
+      "title": "BMW USA Posts Record First Half of 2026 Despite a Rocky Start",
+      "summary": "BMW USA delivered 186,944 vehicles in the first half of 2026, up 4.7% from the 178,499 sold in the same period last year. That’s... The post BMW USA Posts Record First Half of 2026 Despite a Rocky Start appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/07/02/bmw-usa-posts-record-first-half-of-2026-despite-a-rocky-start/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/07/02114740/IMG_0410.jpeg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/07/02114740/IMG_0410.jpeg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-07-02T16:54:06+00:00"
     },
     {
       "id": "82c8380ffb96b04a",
@@ -1974,6 +2030,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-30T16:50:54+00:00"
+    },
+    {
+      "id": "aee33530c5618ca6",
+      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
+      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-30T15:01:00+00:00"
     },
     {
       "id": "750232a217165f7b",
@@ -2158,6 +2227,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -2260,6 +2342,19 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T23:20:50+00:00"
+    },
+    {
+      "id": "b5791927b14f5e70",
+      "title": "Every BMW Model Code Explained: E, F, G, U, and Neue Klasse",
+      "summary": "Every BMW built in the modern era carries an internal development code. For engineers these codes organise product planning across simultaneous programmes spanning a... The post Every BMW Model Code Explained: E, F, G, U, and Neue Klasse appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/22/every-bmw-model-code-explained-e-f-g-u-and-neue-klasse/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/07/08150747/E30-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/07/08150747/E30-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-22T20:27:31+00:00"
     },
     {
       "id": "0aa1a59aad75e089",
@@ -2431,6 +2526,19 @@
       "published": "2026-06-18T13:18:28+00:00"
     },
     {
+      "id": "b1cdb957d03aa243",
+      "title": "BMW Profit Warning: What It Means For Buyers and Future Models",
+      "summary": "BMW slashed its 2026 earnings guidance by more than half this week, The Deep Dive blaming deteriorating conditions in China and the economic fallout... The post BMW Profit Warning: What It Means For Buyers and Future Models appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/18/bmw-profit-warning-what-it-means-for-buyers-and-future-models/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2016/03/P90055153-highRes.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2016/03/P90055153-highRes.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-18T12:30:01+00:00"
+    },
+    {
       "id": "86c09587517739ad",
       "title": "BMW Reveals 2026 Schedule For Its Four-Cylinder M2 Race Car",
       "summary": "It’s been over a year since BMW M Motorsport unveiled the M2 Racing as its new entry-level track machine. It picks up where the old F87-generation M2 CS Racing left off but takes a different... First published by https://www.bmwblog.com",
@@ -2494,6 +2602,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-16T12:50:20+00:00"
+    },
+    {
+      "id": "305dfdcf1c527888",
+      "title": "The Next BMW M3 and M4 Will be Pure Combustion with no Hybrid",
+      "summary": "That’s the news from Le Mans this weekend via Pistonheads, and it matters more than it might first appear. BMW M CEO Frank Van... The post The Next BMW M3 and M4 Will be Pure Combustion with no Hybrid appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/16/the-next-bmw-m3-and-m4-will-be-pure-combustion-with-no-hybrid/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/15202931/P90640735_bmw-m-ignite-technol-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/15202931/P90640735_bmw-m-ignite-technol-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-16T09:46:00+00:00"
     },
     {
       "id": "8afb98729d932d94",
@@ -2663,6 +2784,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-12T14:57:21+00:00"
+    },
+    {
+      "id": "059a247e5cca8493",
+      "title": "Meet the BMW M Concept Neue Klasse – a Preview of the First Electric iM3",
+      "summary": "Let’s not pretend otherwise. The BMW M Concept Neue Klasse, which made its world premiere today at the 24 Hours of Le Mans, is... The post Meet the BMW M Concept Neue Klasse – a Preview of the First Electric iM3 appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/12/meet-the-bmw-m-concept-neue-klasse-a-preview-of-the-first-electric-im3/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/11184920/M_Vision_iM3_3898b-1-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/11184920/M_Vision_iM3_3898b-1-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-12T13:05:00+00:00"
     },
     {
       "id": "601fce40db021360",
@@ -2925,6 +3059,19 @@
       "published": "2026-06-02T23:26:57+00:00"
     },
     {
+      "id": "994be73ff06c5ec3",
+      "title": "2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only",
+      "summary": "BMW has officially confirmed the 2027 M2 with M xDrive, the first all-wheel-drive variant in the model’s history. It arrives in late summer 2026... The post 2027 BMW M2 with M xDrive is Here: Quicker, Heavier, and Auto Only appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/02/2027-bmw-m2-with-m-xdrive-is-here-quicker-heavier-and-auto-only/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/02155106/M2_xDrive_08-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/02155106/M2_xDrive_08-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-02T22:01:00+00:00"
+    },
+    {
       "id": "6199dc7c2e2a5b6f",
       "title": "BMW M2 Gets AWD For The First Time. Here Is What That Costs You",
       "summary": "The G87 BMW M2 has always done one thing very well: rear-wheel drive, manual-available, compact sports car with enough power to cause trouble and enough chassis finesse to get away with it. That formula made... First published by https://www.bmwblog.com",
@@ -3081,6 +3228,19 @@
       "published": "2026-05-27T12:49:44+00:00"
     },
     {
+      "id": "f9b41193b7111e9d",
+      "title": "The Next BMW 3 Series and 4 Series: What’s Coming, What’s Changing, and What’s at Stake",
+      "summary": "No model defines BMW more than the 3 Series. Not the M3, not the 7 Series, not any flagship that gets the press conference... The post The Next BMW 3 Series and 4 Series: What’s Coming, What’s Changing, and What’s at Stake appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/27/the-next-bmw-3-series-and-4-series-whats-coming-whats-changing-and-whats-at-stake/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/03/16122927/NA0_i3_25-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/03/16122927/NA0_i3_25-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-27T10:38:00+00:00"
+    },
+    {
       "id": "7b756cf848d74372",
       "title": "The 2027 BMW M350 Could Be The Most Exciting 3 Series In Years",
       "summary": "The M340i is one of those cars people quietly love without making too much noise about it. Our own Sean Kealey has a love affair with it. It’s not the M3, so it doesn’t carry... First published by https://www.bmwblog.com",
@@ -3144,6 +3304,45 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
+    },
+    {
+      "id": "1fadad75e8a0fdd8",
+      "title": "The Next BMW 5 Series: A Major Update Now, a Bigger Change Coming",
+      "summary": "The BMW 5 Series has always occupied a particular position in the executive sedan market: not the most dramatic car in the segment, not... The post The Next BMW 5 Series: A Major Update Now, a Bigger Change Coming appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/26/the-next-bmw-5-series-a-major-update-now-a-bigger-change-coming/",
+      "image": "https://www.bimmerfile.com/wp-content/uploads/2025/04/P90523089_highRes_the-bmw-i5-m60-xdriv-1600x1068.jpg",
+      "images": [
+        "https://www.bimmerfile.com/wp-content/uploads/2025/04/P90523089_highRes_the-bmw-i5-m60-xdriv-1600x1068.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "2d2e6597cd2ff873",
+      "title": "The Next BMW X7 and XM: What’s Coming and When",
+      "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/25/the-next-bmw-x7-and-xm-whats-coming-and-when/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/01/07143904/bmw-x7-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/01/07143904/bmw-x7-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-25T10:39:00+00:00"
+    },
+    {
+      "id": "f75e75b36fb87e73",
+      "title": "The Next BMW 7 Series: The LCI is Here but There’s much more On the Way",
+      "summary": "The BMW 7 Series has always carried a specific burden that no other BMW has to bear. It is the car that defines what... The post The Next BMW 7 Series: The LCI is Here but There’s much more On the Way appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/24/the-next-bmw-7-series-the-lci-is-here-but-theres-much-more-on-the-way/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/04/21192427/i7_02_6007_22_6012_Co-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/04/21192427/i7_02_6007_22_6012_Co-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-24T10:40:00+00:00"
     },
     {
       "id": "3613205dd5e94453",
@@ -3211,6 +3410,19 @@
       "published": "2026-05-18T19:50:42+00:00"
     },
     {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
+    },
+    {
       "id": "701c94196dc95d59",
       "title": "The Volvo EX60 Costs Less Than The BMW iX3—For Now",
       "summary": "The base EX60 P6 Plus starts at $59,795, undercutting the iX3 50 xDrive's current $62,850 starting price.",
@@ -3235,6 +3447,32 @@
       "source": "BMW Blog Alpina tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-18T14:42:38+00:00"
+    },
+    {
+      "id": "bf6a67f8f940cb09",
+      "title": "The 2027 BMW M3 CS Handschalter Is the Manual M3 We’ve Been Waiting For",
+      "summary": "BMW has finally made the manual M3 we’ve been waiting for. Or more specifically, BMW of North America has. Because this is a North... The post The 2027 BMW M3 CS Handschalter Is the Manual M3 We’ve Been Waiting For appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/18/the-2027-bmw-m3-cs-handschalter-is-the-manual-m3-weve-been-waiting-for/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/05/18085931/M3_CS_-Handschalter_66-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/05/18085931/M3_CS_-Handschalter_66-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-18T14:05:01+00:00"
+    },
+    {
+      "id": "addc37a217fd9ae6",
+      "title": "The Vision BMW ALPINA – Future of Alpina is Here",
+      "summary": "BMW ALPINA became a full BMW Group brand in 2026. That transition raised an obvious question: would BMW preserve what made Alpina worth acquiring,... The post The Vision BMW ALPINA – Future of Alpina is Here appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/15/the-vision-bmw-alpina-future-of-alpina-is-here/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/05/14092104/Vision-BMW-ALPINA-BEAUTY-3-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/05/14092104/Vision-BMW-ALPINA-BEAUTY-3-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-15T17:30:00+00:00"
     },
     {
       "id": "234975a2f96464b6",
@@ -3445,6 +3683,19 @@
       "published": "2026-05-08T08:51:34+00:00"
     },
     {
+      "id": "b847ce04a3da8770",
+      "title": "The Next BMW M3 Is Confirmed: Electric & Combustion But Not a Manual in Sight",
+      "summary": "The G80 era ends. Two very different M3s take its place — and together they might be the most important (and most controversial) M... The post The Next BMW M3 Is Confirmed: Electric & Combustion But Not a Manual in Sight appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/07/the-next-bmw-m3-is-confirmed-electric-not-a-manual-in-sight/",
+      "image": "https://www.bimmerfile.com/wp-content/uploads/2024/12/M3_-ZA0_19-1600x1066.jpg",
+      "images": [
+        "https://www.bimmerfile.com/wp-content/uploads/2024/12/M3_-ZA0_19-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-07T13:55:08+00:00"
+    },
+    {
       "id": "5f3048fda897ca60",
       "title": "BMW Launches 3 Series 50th Anniversary Edition In Argentina",
       "summary": "BMW is about to bid adieu to the seventh-generation 3 Series, but there’s still time for a special edition. Argentina is the latest market to celebrate half a century since the original E21 debuted by... First published by https://www.bmwblog.com",
@@ -3484,6 +3735,19 @@
       "published": "2026-05-06T16:22:47+00:00"
     },
     {
+      "id": "80111c85b0111e9f",
+      "title": "2027 BMW iX3: $61,500, 434 Miles, and You Can Configure Yours Right Now",
+      "summary": "The waiting is over. BMW has officially confirmed US pricing for the 2027 iX3 50 xDrive at $61,500 plus $1,350 destination and handling, and... The post 2027 BMW iX3: $61,500, 434 Miles, and You Can Configure Yours Right Now appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/06/2027-bmw-ix3-us-pricing-confirmed-at-61500-configurator-now-live/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152343/ix3_665_ix3_ix3-50-x-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152343/ix3_665_ix3_ix3-50-x-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-06T16:00:01+00:00"
+    },
+    {
       "id": "d7892fb712231a98",
       "title": "BMW iX3 Configurator Goes Live With Some Surprisingly Good Colors",
       "summary": "The BMW iX3 is starting to feel a lot more real. The online configurator is now live, and BMW’s first Neue Klasse SUV is no longer just a concept-adjacent preview or carefully staged press car... First published by https://www.bmwblog.com",
@@ -3510,6 +3774,19 @@
       "published": "2026-05-06T14:48:16+00:00"
     },
     {
+      "id": "029ffef26231b3f5",
+      "title": "BMW Group Q1 2026: Neue Klasse Momentum in a Turbulent World",
+      "summary": "The numbers BMW Group posted this morning for Q1 2026 tell a story of a company navigating real external pressure without losing its footing.... The post BMW Group Q1 2026: Neue Klasse Momentum in a Turbulent World appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/06/bmw-group-q1-2026-neue-klasse-momentum-in-a-turbulent-world/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152422/ix3_850_ix3_ix3-50-x-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152422/ix3_850_ix3_ix3-50-x-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-06T14:34:34+00:00"
+    },
+    {
       "id": "439abf747da7b2fb",
       "title": "BMW opens 2027 iX3 preorders starting at $61,500 with up to 434 miles of range",
       "summary": "The 2027 iX3 , BMW’s first Neue Klasse vehicle, is now available to order in the US starting at $61,500. BMW’s electric SUV delivers more range than expected, up to 434 miles on a single charge.",
@@ -3534,6 +3811,19 @@
       "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-06T12:37:35+00:00"
+    },
+    {
+      "id": "db91663c5ccd71d3",
+      "title": "BMW Art Cars Reunited: 50 Years of Rolling Art at BMW Welt",
+      "summary": "There is something faintly improbable about the idea that a collection born in the heat of endurance racing would end up as one of... The post BMW Art Cars Reunited: 50 Years of Rolling Art at BMW Welt appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/05/05/bmw-art-cars-reunited-50-years-of-rolling-art-at-bmw-welt/",
+      "image": "https://www.bimmerfile.com/wp-content/uploads/2025/03/art_car_89834-1600x1066.jpg",
+      "images": [
+        "https://www.bimmerfile.com/wp-content/uploads/2025/03/art_car_89834-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-05-05T15:35:30+00:00"
     },
     {
       "id": "8ddd71a7959740e7",
