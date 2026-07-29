@@ -1,16 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-29T06:42:37.356173+00:00",
-  "generated_at_human": "2026-07-29 06:42 UTC",
+  "generated_at": "2026-07-29T09:46:36.518132+00:00",
+  "generated_at_human": "2026-07-29 09:46 UTC",
   "total_items": 321,
   "sources_used": [
     "5koleso RU",
-    "Auto Esporte BR",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -39,9 +38,9 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -49,18 +48,16 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops",
-    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
-    "CarScoops Land Rover",
     "CarScoops Rolls",
-    "CarScoops Volvo",
     "Diariomotor",
+    "Electrek",
     "Electrek BMW",
     "Electric Cars Report",
-    "Gaadiwaadi IN",
     "Hagerty News",
     "Hooniverse",
     "HotCars",
@@ -80,9 +77,84 @@
     "Racecar Engineering",
     "The Drive"
   ],
-  "sources_count": 75,
-  "multi_photo_items": 15,
+  "sources_count": 72,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "567e4a7c2c0d009d",
+      "title": "'BMW schrapt 8.000 banen'",
+      "summary": "BMW gaat 8000 banen schrappen, melden ingewijden tegenover het Duitse persbureau DPA. De banen verdwijnen door natuurlijk personeelsverloop en een vrijwillige ontslagregeling.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/bmw-schrapt-8-000-banen/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/272468854/width/800/272468854",
+      "images": [
+        "https://images.autoweek.nl/272468854/width/800/272468854"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-07-29T08:19:08+00:00"
+    },
+    {
+      "id": "c4575a3559bfff68",
+      "title": "BMW Plant Debrecen Builds 50,000th BMW iX3 in Record Time",
+      "summary": "BMW Group Plant Debrecen has produced its 50,000th BMW iX3 just nine months after production began, marking the fastest ramp-up of any new BMW factory. The post BMW Plant Debrecen Builds 50,000th BMW iX3 in Record Time appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/07/bmw-plant-debrecen-builds-50000th-bmw-ix3-in-record-time/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX3-Production.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX3-Production.jpg?a3781e&amp;a3781e",
+        "https://electriccarsreport.com/wp-content/uploads/2026/07/BYD-Racco-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/07/Mitsubishi-Eclipse-Sportback-EV-NACS-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/07/Ford-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/07/DENZA-BAO-5-300x300.jpg",
+        "http://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=510284cd-ec59-4d0f-8837-3fd41c6d7dde"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-07-29T07:48:38+00:00"
+    },
+    {
+      "id": "5c77facd6d363248",
+      "title": "«Ауди» представила свой самый большой кроссовер: новый Audi Q9 готов «ударить» по BMW X7 и Mercedes-Benz GLS",
+      "summary": "Новая Audi Q9 станет прямым конкурентом Mercedes-Benz GLS и BMW X7. Первая модель разрабатывалась под американский рынок, хотя она будет продаваться за пределами США, в том числе в Европе. Audi сообщила, что в Старом Свете Q9 будет предложен с турбодизельным мотором объемом 3,0 л, который устанавливается на Q7. Его максимальная мощность достигает 299 л.с. Данный […]",
+      "url": "https://5koleso.ru/articles/novosti/audi-predstavila-svoj-samyj-bolshoj-krossover-novyj-audi-q9-gotov-udarit-po-bmw-x7-i-mercedes-benz-gls/",
+      "image": "https://5koleso.ru/wp-content/uploads/2026/07/2027-audi-q9-debut-00019-2048x1107-1-1024x554.webp",
+      "images": [
+        "https://5koleso.ru/wp-content/uploads/2026/07/2027-audi-q9-debut-00019-2048x1107-1-1024x554.webp"
+      ],
+      "source": "5koleso RU",
+      "source_url": "https://5koleso.ru",
+      "published": "2026-07-29T07:28:29+00:00"
+    },
+    {
+      "id": "fd6e74c2dffe2e2b",
+      "title": "Zeekr’s Biggest, Plushest SUV Rolls Into Europe With 897 HP To Take On The BMW X7",
+      "summary": "Europe's version of the 9X loses power from its Chinese spec but keeps the 9.5-minute charging and Rolls-Royce looks intact",
+      "url": "https://www.carscoops.com/2026/07/zeekr-9x-europe/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/rfecd-1024x576.webp",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/07/rfecd-1024x576.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-01-2048x1314.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2025/04/Zeekr-9X-SUV-00003-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-03-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-05-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-02-2048x1152.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-07-29T07:13:58+00:00"
+    },
+    {
+      "id": "7f05a7277be214bf",
+      "title": "Audi Q9 debuts – three-row flagship SUV indirectly replaces A8 sedan; 3.0L V6 TDI, from RM504k in Europe",
+      "summary": "The Audi Q9 has now made its debut, around 12 years on from the initial report of the German manufacturer’s intent to build a rival to the Mercedes-Benz GLS and BMW X7. Built on the […] The post Audi Q9 debuts – three-row flagship SUV indirectly replaces A8 sedan; 3.0L V6 TDI, from RM504k in Europe appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/07/29/audi-q9-debuts-three-row-flagship-suv-indirectly-replaces-a8-sedan-3-0l-v6-tdi-from-rm504k-in-europe/",
+      "image": "https://paultan.org/image/2026/07/Audi-Q9-6-630x345.jpg",
+      "images": [
+        "https://paultan.org/image/2026/07/Audi-Q9-6-630x345.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-07-29T07:06:36+00:00"
+    },
     {
       "id": "5c289f77973df454",
       "title": "BMW iX3 & i3: Produktion der Neuen Klasse ab 2027 auch in Mexiko",
@@ -190,18 +262,13 @@
     {
       "id": "e752f26e5826cd00",
       "title": "Audi Q9 SUV revealed as huge, £100k A8 successor",
-      "summary": "\"Unapologetically high-status\" SUV will rival BMW X7 and Mercedes GLS, while forming basis of Porsche's 'K1' Audi has revealed the huge Q9 SUV as an indirect replacement for its A8 luxury saloon flagship – and its long-awaited rival to the BMW X7 and Mercedes GLS . Described by the brand as “unapologetically high-status”, it has been developed primarily for the North American and Middle Eastern markets – hence its mammoth proportions. It measures 5.3m long, 2.2m wide and 1.8m tall, making it bigger than both of its German rivals and one of the largest cars to be sold in the UK – where it…",
+      "summary": "\"Unapologetically high-status\" SUV will rival BMW X7 and Mercedes GLS Audi has revealed the huge Q9 SUV as an indirect replacement for its A8 luxury saloon flagship – and its long-awaited rival to the BMW X7 and Mercedes GLS . Described by the brand as “unapologetically high-status”, it has been developed primarily for the North American and Middle Eastern markets – hence its mammoth proportions. It measures 5.3m long, 2.2m wide and 1.8m tall, making it bigger than both of its German rivals and one of the largest cars to be sold in the UK – where it will struggle to fit through many urban…",
       "url": "https://www.autocar.co.uk/car-news/new-cars/audi-q9-suv-revealed-huge-%C2%A3100k-a8-successor",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=wBrlrOpd",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/audi-q9-2026-022.jpg?itok=-G0c1_h3",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/audi-q9-2026-021.jpg?itok=rCksGCje",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/audi-q9-2026-019.jpg?itok=F80Ef7ws",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/audi-q9-2026-018.jpg?itok=kEg1BB9d"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -292,7 +359,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/b5dc2d34-d43b-4780-ba4b-299ec8a47399.jpg?crop=1.00xw:0.847xh;0",
         "https://hips.hearstapps.com/hmg-prod/images/34ac9006-7fec-4786-965d-5951f2defa6b.jpg?crop=0.871xw:0.735xh;0.112xw",
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/dg023-297ch2psldk6nidm6s8lhp1l4mobuu3-1661972290.jpg?crop=0.573xw:1.00xh;0.427xw,0&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2fa6ebe8-ff62-4620-a4ac-9a1f77674ff5.jpg?crop=0.537xw:0.717xh;0.153xw,0.147xh&resize=360:*"
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
@@ -395,7 +462,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/_yRJUgRdXNbFgYqiEsjUt8l_TsA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/M/z/2lBxsAQ0qi9bSk3gAp7Q/bmw-507-prata-carro-antigo.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-28T16:41:47+00:00"
     },
@@ -423,7 +490,7 @@
         "https://motoringworld.in/wp-content/uploads/2026/07/HMSI-2026-Photo-2-2048x874.jpg",
         "https://motoringworld.in/wp-content/uploads/2026/07/CLASSIC-350-MEDALLION-BRONZE-1020x680.jpg",
         "https://motoringworld.in/wp-content/uploads/2026/07/4-2-768x512.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/07/2-2-768x512.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/07/Q9-7-768x512.png",
         "https://motoringworld.in/wp-content/uploads/2026/07/3-2-768x512.jpg"
       ],
       "source": "Motoring World IN",
@@ -439,7 +506,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX3-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-07-28T16:09:36+00:00"
     },
@@ -492,9 +559,9 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/A260748_large-copy-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-X5-L-China-7-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/04/Jetta-X-Concept-1-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90651329_highRes_the-fully-assembled-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Nissan_Leaf_2025_017.JPG-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/66557-Large621992025Elantra-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Mercedes-China-new333-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Original-17257-a263894-large-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/P90651329_highRes_the-fully-assembled-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -522,7 +589,7 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/07/SB22465-copy-1024x576.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-07-28T13:24:00+00:00"
     },
@@ -551,19 +618,6 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-07-28T13:20:32+00:00"
-    },
-    {
-      "id": "ea3387ded6defd1f",
-      "title": "India-Bound BMW X5 LWB And iX5 LWB Unveiled",
-      "summary": "GaadiWaadi - BMW to leverage the growing popularity of long-wheelbase cars in India for its all-new Mercedes GLE and Mercedes EQE SUV rivals Once largely a China-only offering, long-wheelbase cars have become a winning formula for BMW in India in recent years. These elongated, roomier models now account for around 50% of the company’s sales in our […] The post India-Bound BMW X5 LWB And iX5 LWB Unveiled appeared first on Gaadiwaadi.com - Latest Car & Bike News by Team GaadiWaadi .",
-      "url": "https://gaadiwaadi.com/india-bound-bmw-x5-lwb-and-ix5-lwb-unveiled/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/07/BMW-X5-LWB1.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/07/BMW-X5-LWB1.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-07-28T13:15:31+00:00"
     },
     {
       "id": "b4be6e732bb8b7bc",
@@ -600,7 +654,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -735,19 +789,6 @@
       "published": "2026-07-28T07:32:23+00:00"
     },
     {
-      "id": "0f7b4abd48fbb880",
-      "title": "Tras probar el mejor diésel de BMW lo tengo muy claro: ha llegado el momento de comprarse un híbrido enchufable",
-      "summary": "El 520d Touring es un coche de otro tiempo. Una excelente berlina amenazada por la electricidad. Hasta ahora no había discusión. Si un coche para viajar querías un diésel debías comprar. Sin embargo, BMW ha conseguido ponernos las cosas mucho más difíciles. Tras probar el 520d Touring he descubierto que ha llegado la hora de cambiar de opinión. ¿Diésel o híbrido? Durante muchos años esta pregunta ni siquiera entraba en la cabeza de muchos conductores en Europa o en España. Yo, personalmente, siempre he tenido muy claro que los diésel nunca serían superados por autonomía o rendimiento, sin…",
-      "url": "https://www.motor.es/pruebas-coches/prueba-bmw-520d-xdrive-touring-2026115086.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/07/prueba-bmw-520d-xdrive-touring-2026115086-1784020986_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/07/prueba-bmw-520d-xdrive-touring-2026115086-1784020986_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-07-28T07:00:00+00:00"
-    },
-    {
       "id": "9262a635830a5497",
       "title": "BMW iX3 Long-Wheelbase Will Come with 919 km CLTC Range and Neue Klasse Technology",
       "summary": "BMW has revealed the new iX3 Long-Wheelbase with a 919 km CLTC range, 800V architecture, 477 hp, ultra-fast charging, and advanced AI-powered technology for China. The post BMW iX3 Long-Wheelbase Will Come with 919 km CLTC Range and Neue Klasse Technology appeared first on Electric Cars Report .",
@@ -795,7 +836,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i4-convertible-concept.png?w=1600"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-07-28T00:46:57+00:00"
     },
@@ -1017,19 +1058,6 @@
       "published": "2026-07-27T07:56:16+00:00"
     },
     {
-      "id": "ae3143d5d3f47bf3",
-      "title": "BMW iX1 and BMW iX2 Now Eligible for Full £3,750 UK Electric Car Grant",
-      "summary": "BMW iX1 and BMW iX2 now qualify for the UK's £3,750 Electric Car Grant, reducing prices to as low as £33,315 and making them cheaper than comparable petrol SUVs. The post BMW iX1 and BMW iX2 Now Eligible for Full £3,750 UK Electric Car Grant appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/07/bmw-ix1-and-bmw-ix2-now-eligible-for-full-3750-uk-electric-car-grant/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX1-BMW-iX2.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX1-BMW-iX2.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-07-27T07:37:09+00:00"
-    },
-    {
       "id": "ce3f06d7de8a53ec",
       "title": "New BMW X5 Long Wheelbase Stretches Out In China",
       "summary": "It’s only been about a month since BMW introduced the fifth-generation X5, and it has already given the luxury SUV the long-wheelbase treatment. While the global model carries the G65 codename, its bigger brother is... First published by https://www.bmwblog.com",
@@ -1041,19 +1069,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-27T07:05:10+00:00"
-    },
-    {
-      "id": "1627e18a994a51c4",
-      "title": "De nieuwe BMW X5 en iX5 zijn nu nog groter en ruimer",
-      "summary": "De nieuwe BMW X5 en iX5 zijn al bepaald niet klein, maar ook voor wie ze toch te krap vindt, is er nu een oplossing. Die oplossing vind je echter niet zo makkelijk in Nederland.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/de-nieuwe-bmw-x5-en-ix5-zijn-nu-nog-groter-en-ruimer/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/276277336/width/800/276277336",
-      "images": [
-        "https://images.autoweek.nl/276277336/width/800/276277336"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-07-27T06:45:16+00:00"
     },
     {
       "id": "4a35786da3215b8f",
@@ -1080,6 +1095,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-27T05:46:57+00:00"
+    },
+    {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
     },
     {
       "id": "27f04a46093ce7f8",
@@ -1452,9 +1480,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1534,7 +1562,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -1550,6 +1578,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
+    },
+    {
+      "id": "20b48eddbbe7da8a",
+      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
+      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
+      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-18T13:00:00+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -1687,6 +1728,19 @@
       "published": "2026-07-16T13:31:38+00:00"
     },
     {
+      "id": "83ef33b4cdcfa12d",
+      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
+      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
+      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-16T13:07:00+00:00"
+    },
+    {
       "id": "1800391f6a588643",
       "title": "2028 BMW M3 Sounds Properly Good In New Spy Video",
       "summary": "Even though BMW still hasn’t shown us the next-generation 3 Series Sedan, work is already well underway on the M3. The regular G50 will break cover in the coming months, potentially alongside the M350 M... First published by https://www.bmwblog.com",
@@ -1799,7 +1853,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -1981,7 +2035,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2003,14 +2057,14 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
         "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-6.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-8.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2021,9 +2075,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2545,7 +2599,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2628,19 +2682,6 @@
       "published": "2026-06-27T07:33:33+00:00"
     },
     {
-      "id": "102575a9a7a29af0",
-      "title": "Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV",
-      "summary": "The high-performance C-Class has been spied with less disguise as it gears up for an approaching debut",
-      "url": "https://www.carscoops.com/2026/06/mercedes-amg-c-class-ev-spied/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg"
-      ],
-      "source": "CarScoops AMG",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-27T01:00:00+00:00"
-    },
-    {
       "id": "ef8701a6dd6d0436",
       "title": "The BMW i8 Is Now a Sub-$50K Exotic Alternative",
       "summary": "The BMW i8 was never a conventional supercar. That was true when it launched, and it remains true in 2026. But with early coupes now trading below $50,000, the i8 has become something arguably more... First published by https://www.bmwblog.com",
@@ -2704,19 +2745,6 @@
       "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
-    },
-    {
-      "id": "3a88f96e6c066a22",
-      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
-      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
-      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Land Rover",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-24T19:45:00+00:00"
     },
     {
       "id": "878f7609834cee38",
@@ -2831,7 +2859,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2844,7 +2872,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3018,19 +3046,6 @@
       "published": "2026-06-16T09:46:00+00:00"
     },
     {
-      "id": "1301c83de6ef776a",
-      "title": "Mercedes-AMG Plans 27 New Cars In 36 Months To Catch BMW’s M",
-      "summary": "A flat-plane 4.0-liter twin-turbo V8 and a new six anchor the next wave of AMG performance models",
-      "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
-      ],
-      "source": "CarScoops AMG",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-16T09:08:00+00:00"
-    },
-    {
       "id": "008d2e899c4f29d6",
       "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
       "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
@@ -3074,9 +3089,9 @@
       "title": "Le Mans 24h: Toyota beats BMW and Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
+        "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3087,9 +3102,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-8.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3100,9 +3115,9 @@
       "title": "Le Mans 24H, H16: #12 Cadillac out front as Toyota and BMW battle over second",
       "summary": "The #12 Cadillac pulled out a healthy lead at the two-thirds mark in the Le Mans 24 Hours, while Toyota and BMW engaged in a close scrap for second position. The two Jota-run factory Cadillacs moved to the front of the field in the 14th hour, as they leapfrogged the erstwhile-leading #8 Toyota GR010 Hybrid in the pits. However, the #38 Cadillac that had been running second suffered a power ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
+        "https://cdn-5.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3126,9 +3141,9 @@
       "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
       "summary": "Toyota continues to lead the Le Mans 24 Hours at the end of the fourth hour, cementing its advantage over Cadillac and BMW in the Hypercar class. After an undercut catapulted the #8 Toyota TR010 at the head of the pack in the opening hour, Sebastien Buemi quickly pulled away from the chasing pack, building an advantage of nearly half a minute through his triple stint. Hartley took over the ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-1.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3139,9 +3154,9 @@
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "summary": "The #8 Toyota leads the 2026 Le Mans 24 Hours one hour into the race, despite starting from a lowly 15th position. Kevin Magnussen’s polesitting #15 BMW collapsed to eighth in the first hour; the Dane lost out to Will Stevens’ #12 Cadillac before even the first corner of the race before Rene Rast passed them both in the sister #20 BMW, by the first chicane of the Mulsanne ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid/10829935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3217,9 +3232,9 @@
       "title": "Le Mans 24h: Cadillac leads BMW in FP4",
       "summary": "Cadillac edged out BMW in Free Practice 4 ahead of the Le Mans 24 Hours, as teams focused on race pace following the Hyperpole sessions. Sebastien Bourdais’ 3m26.843s with the #38 Cadillac, albeit over four seconds slower than his own car’s Hyperpole benchmark, sufficed to surpass Robin Frijns’ 3m27.037s marker with the #20 BMW at the end of the session. The #7 Toyota took third ahead ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-cadillac-leads-bmw-in-fp4/10829306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg"
+        "https://cdn-3.motorsport.com/images/amp/YpbPZB30/s6/38-cadillac-hertz-team-jota-ca-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3230,9 +3245,9 @@
       "title": "Le Mans 24h: BMW inherits pole position after Cadillac penalty",
       "summary": "BMW has taken pole position for the 2026 Le Mans 24 Hours with Dries Vanthoor after Cadillac's effort, quicker by five-thousandths of a second, was rendered null and void by the stewards. Read Also: WECWhy Cadillac lost pole position for Le Mans 24 Hours In Hyperpole 1, Earl Bamber’s early 3m23.722s effort in the #38 Cadillac led the way halfway through, as Genesis ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-cadillac-snatches-pole-away-from-bmw-by-0005s/10829274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-1.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3796,19 +3811,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
