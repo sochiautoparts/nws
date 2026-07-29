@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-29T12:14:37.577527+00:00",
-  "generated_at_human": "2026-07-29 12:14 UTC",
-  "total_items": 323,
+  "generated_at": "2026-07-29T15:18:19.016965+00:00",
+  "generated_at_human": "2026-07-29 15:18 UTC",
+  "total_items": 322,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
@@ -39,29 +39,32 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Rolls",
+    "CarScoops Volvo",
+    "Diariomotor",
     "Electrek BMW",
     "Electric Cars Report",
     "Hagerty News",
     "Hooniverse",
     "HotCars",
     "InsideEVs",
-    "Jalopnik",
     "Kolesa RU",
     "Motor.es",
     "Motor1 BMW",
@@ -73,13 +76,90 @@
     "Motoring World IN",
     "Motorsport WEC",
     "Paul Tan",
-    "Quatro Rodas BR",
     "Racecar Engineering",
     "The Drive"
   ],
-  "sources_count": 72,
-  "multi_photo_items": 15,
+  "sources_count": 74,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "3fe59a70abea661a",
+      "title": "El \"Rolls-Royce Cullinan chino\" llega a Europa con 897 CV, seis plazas y cine privado y una batería que carga en 9 minutos",
+      "summary": "Los fabricantes chinos ya no se conforman con competir en Europa por precio. También quieren atacar a las marcas de lujo y el nuevo Zeekr 9X es una de las ofensivas más ambiciosas que recuerdo. Un gigantesco SUV híbrido enchufable de seis plazas, con 897 CV, prestaciones de infarto y un interior que quiere poner en apuros, y seguramente lo hará, al BMW X7 y al Mercedes GLS. Claves del Zeekr 9X europeo Seis plazas, pantalla de cine de 17 pulgadas y maletero de 677 litros Eléctrico de autonomía extendida con motor de gasolina 2.0 turbo y 897 CV De 0 a 100 km/h en 4,1 segundos Arquitectura de…",
+      "url": "https://www.diariomotor.com/noticia/zeekr-9x-europa/",
+      "image": "https://www.diariomotor.com/imagenes/2026/07/Zeekr-9x-europeo_port-6a69fdb94330d.jpeg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/07/Zeekr-9x-europeo_port-6a69fdb94330d.jpeg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-07-29T16:00:13+00:00"
+    },
+    {
+      "id": "6e0b079582d1aab7",
+      "title": "BMW's Off-Road SUV Might Not Happen After All",
+      "summary": "The Mercedes-Benz G-Class rival reportedly did not make it past the final approval round.",
+      "url": "https://www.motor1.com/news/803105/bmw-off-road-suv-not-approved-production/",
+      "image": "https://cdn.motor1.com/images/mgl/YAqqEl/s3/2025-bmw-x5-with-off-road-package-review---exterior-24.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/YAqqEl/s3/2025-bmw-x5-with-off-road-package-review---exterior-24.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-07-29T15:00:00+00:00"
+    },
+    {
+      "id": "0176311f5c7af107",
+      "title": "Porsche And VW Aren't The Only German Automakers Slashing Jobs",
+      "summary": "BMW is looking to buyout almost 5% of staff in the coming months.",
+      "url": "https://carbuzz.com/bmw-cutting-jobs-germany/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/p90615630_highres_the-new-bmw-ix3-50-x-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/p90615630_highres_the-new-bmw-ix3-50-x-1.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-29T14:30:15+00:00"
+    },
+    {
+      "id": "19810c14681745fa",
+      "title": "BMW’s G-Wagen Fighter May Not Be Happening After All: TDS",
+      "summary": "BMW's first-ever off-road-centric SUV still hasn't been greenlit and has morphed through development, according to a new report. The post BMW’s G-Wagen Fighter May Not Be Happening After All: TDS appeared first on The Drive .",
+      "url": "https://www.thedrive.com/news/bmws-g-wagen-fighter-may-not-be-happening-after-all-tds",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/07/P90646994_highRes_the-new-bmw-x5-and-i.jpg?quality=85&w=2048",
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2026/07/P90646994_highRes_the-new-bmw-x5-and-i.jpg?quality=85&w=2048"
+      ],
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-07-29T13:42:50+00:00"
+    },
+    {
+      "id": "ddace3ac741d6ebd",
+      "title": "BMW сократит 8000 «не создающих ценность» сотрудников в Германии",
+      "summary": "BMW Group вынуждена реагировать на объективные трудности, чтобы не скатиться в полноценный кризис: компания согласовала с производственным советом программу добровольного увольнения примерно 8000 сотрудников в Германии. Эта программа будет реализована до конца 2027 года и затронет в основном непроизводственный сектор, то есть под сокращение попадут офисные сотрудники и обслуживающий персонал.",
+      "url": "https://www.kolesa.ru/news/bmw-sokratit-8000-ne-sozdaiushhix-cennost-sotrudnikov-v-germanii",
+      "image": "https://kolesa-uploads.ru/-/647937dd-5da2-4e2c-b550-add70fb9ff7d/0-0.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/647937dd-5da2-4e2c-b550-add70fb9ff7d/0-0.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-07-29T13:33:07+00:00"
+    },
+    {
+      "id": "19a0da0ec8c2f834",
+      "title": "BMW Confirms i3 And iX3 Production In Mexico Starts In 2027",
+      "summary": "It’s been a decade since BMW laid the foundation stone for its San Luis Potosí plant. However, production didn’t begin until 2019, when the first 3 Series Sedan (G20) rolled off the assembly line. In... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/29/bmw-i3-ix3-production-mexico-2027-confirmed/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-and-2027-i3-1-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-and-2027-i3-1-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-29T13:12:51+00:00"
+    },
     {
       "id": "4a46a985670b8b5a",
       "title": "BMW To Axe About 8,000 Jobs By The End Of 2027",
@@ -307,19 +387,6 @@
       "published": "2026-07-29T01:00:05+00:00"
     },
     {
-      "id": "e752f26e5826cd00",
-      "title": "Audi Q9 SUV revealed as huge, £100k A8 successor",
-      "summary": "\"Unapologetically high-status\" SUV will rival BMW X7 and Mercedes GLS Audi has revealed the huge Q9 SUV as an indirect replacement for its A8 luxury saloon flagship – and its long-awaited rival to the BMW X7 and Mercedes GLS . Described by the brand as “unapologetically high-status”, it has been developed primarily for the North American and Middle Eastern markets – hence its mammoth proportions. It measures 5.3m long, 2.2m wide and 1.8m tall, making it bigger than both of its German rivals and one of the largest cars to be sold in the UK – where it will struggle to fit through many urban…",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/audi-q9-suv-revealed-huge-%C2%A3100k-a8-successor",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
-      ],
-      "source": "Autocar",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-29T01:00:00+00:00"
-    },
-    {
       "id": "497d1cb81352e822",
       "title": "2027 Audi Q9: All-new flagship SUV revealed as Audi's largest model yet",
       "summary": "Audi takes aim at Mercedes-Benz GLS and BMW X7 with its all-new, 5.3m-long Q9 flagship SUV, due here next year.",
@@ -333,35 +400,30 @@
       "published": "2026-07-29T01:00:00+00:00"
     },
     {
+      "id": "e752f26e5826cd00",
+      "title": "Audi Q9 SUV revealed as huge, £100k A8 successor",
+      "summary": "\"Unapologetically high-status\" SUV will rival BMW X7 and Mercedes GLS Audi has revealed the huge Q9 SUV as an indirect replacement for its A8 luxury saloon flagship – and its long-awaited rival to the BMW X7 and Mercedes GLS . Described by the brand as “unapologetically high-status”, it has been developed primarily for the North American and Middle Eastern markets – hence its mammoth proportions. It measures 5.3m long, 2.2m wide and 1.8m tall, making it bigger than both of its German rivals and one of the largest cars to be sold in the UK – where it will struggle to fit through many urban…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/audi-q9-suv-revealed-huge-%C2%A3100k-a8-successor",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-07-29T01:00:00+00:00"
+    },
+    {
       "id": "fab3bee926b918c0",
       "title": "The Forgotten Pontiac That Was GM's Most Serious Attempt To Build A BMW",
       "summary": "The 1973 Pontiac Grand Am blended V8 muscle with BMW-inspired suspension, European luxury interior, and GT styling — and collectors can find one for under $20K.",
       "url": "https://www.hotcars.com/forgotten-pontiac-gms-attempt-build-bmw/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am-grille.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am-grille.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am-interior.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am-rear-end.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/05/2024-honda-ridgeline-trailsport-23.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1973-pontiac-grand-am-grille.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-07-29T00:00:12+00:00"
-    },
-    {
-      "id": "b86ed7eab7318f02",
-      "title": "Original-Owner 2002 BMW Z8",
-      "summary": "This 2002 BMW Z8 was purchased new by the seller from Russell BMW in Baltimore, Maryland, and it now has 25k miles. Powered by a 4.9-liter V8 paired with a six-speed manual transmission, the car is finished in Jet Black over Creme and Black Nappa leather and has a black soft top as well as a color-matched removable hardtop. Further equipment includes xenon headlights, 18” split-spoke wheels, and Eisenmann mufflers along with heated and power-adjustable sport seats, a six-disc CD changer, a Harman Kardon sound system, navigation, and air conditioning. Work under current ownership has…",
-      "url": "https://bringatrailer.com/listing/2002-bmw-z8-118/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/04/002-scaled-99693.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/04/002-scaled-99693.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-07-28T23:45:15+00:00"
     },
     {
       "id": "8f6ebaff11d4e0c8",
@@ -401,12 +463,7 @@
       "url": "https://www.caranddriver.com/news/a73287243/2028-bmw-i4-convertible-spy-photos/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/bf6d699c-7206-4f19-9efb-38f2b668f49b.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/bf6d699c-7206-4f19-9efb-38f2b668f49b.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b6197ed0-3c74-4b01-a266-b2dcc2c9e585.jpg?crop=1xw:0.84375xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/b5dc2d34-d43b-4780-ba4b-299ec8a47399.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/34ac9006-7fec-4786-965d-5951f2defa6b.jpg?crop=0.871xw:0.735xh;0.112xw",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/2fa6ebe8-ff62-4620-a4ac-9a1f77674ff5.jpg?crop=0.537xw:0.717xh;0.153xw,0.147xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/bf6d699c-7206-4f19-9efb-38f2b668f49b.jpg"
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
@@ -512,19 +569,6 @@
       "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-28T16:41:47+00:00"
-    },
-    {
-      "id": "678a5269d24ebf3e",
-      "title": "BMW Is Making An Electric i4 Convertible And I'm Vibratory With Excitement",
-      "summary": "The Neue Klasse 4 Series will be one of the few droptop EVs on the market.",
-      "url": "https://www.jalopnik.com/2225179/bmw-making-electric-i4-convertible-spy-shots/",
-      "image": "https://www.jalopnik.com/img/gallery/bmw-is-making-an-electric-i4-convertible-and-im-vibratory-with-excitement/l-intro-1785255433.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/bmw-is-making-an-electric-i4-convertible-and-im-vibratory-with-excitement/l-intro-1785255433.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-07-28T16:20:17+00:00"
     },
     {
       "id": "7cfae8d0ac84b75e",
@@ -654,19 +698,6 @@
       "published": "2026-07-28T13:21:35+00:00"
     },
     {
-      "id": "77624c0b4db2ee07",
-      "title": "New BMW i4 Convertible spy shots - pictures",
-      "summary": "Images of the new Convertible version of the BMW i4 while out testing",
-      "url": "https://www.autoexpress.co.uk/bmw/i4/370096/new-bmw-i4-convertible-spy-shots-pictures",
-      "image": "https://media.autoexpress.co.uk/image/private/s--FsifccfS--/t_rss_image_w_845/v1785243792/autoexpress/2026/07/BMW%20i4%20Cabriolet%20spy%20shots%20-%20front%203_4_sxendc.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--FsifccfS--/t_rss_image_w_845/v1785243792/autoexpress/2026/07/BMW%20i4%20Cabriolet%20spy%20shots%20-%20front%203_4_sxendc.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-07-28T13:20:32+00:00"
-    },
-    {
       "id": "6e69c52309967fc1",
       "title": "New BMW i4 cabriolet takes shape as first Neue Klasse open-top",
       "summary": "New model marks the 4 Series Convertible's move to electric power, likely using the i3 saloon's tech BMW's first electric cabriolet has moved a step closer, with a new prototype providing the clearest indication yet that the German car maker is already well advanced on an i4 Convertible based on its Neue Klasse electric platform. Set to make its public debut during the second half of 2027 before reaching UK dealerships in 2028, the new four-seat model is planned to form part of an all-new two-door i4 family. Alongside it, BMW is also developing an i4 Coupé, which will effectively succeed…",
@@ -717,19 +748,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
-    },
-    {
-      "id": "c0c676cf7ca7db39",
-      "title": "El BMW i4 Cabrio 2028 aprovecha el retraso de Porsche y Polestar para dar el golpe con su primer descapotable eléctrico",
-      "summary": "Fotos espía BMW i4 Cabrio 2028 SH Proshots BMW no se deja guiar por las estrategias de otras marcas, ni tampoco por los purismos. La marca de Múnich ya trabaja en el nuevo BMW i4 Cabrio 2028, un descapotable eléctrico con unas contenidas proporciones que presumirá de un elevado rendimiento, como puedes ver en estas primerísimas fotos espía. Los suecos de Polestar decidieron retrasar el lanzamiento de uno de sus modelos más de nicho, pero de los más sugerentes en su gama de productos. Una oportunidad perdida la del Polestar 6 como también la del esperado Porsche 718 Boxster , que se ha…",
-      "url": "https://www.motor.es/noticias/bmw-i4-cabrio-fotos-espia-2026115517.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-i4-cabrio-fotos-espia-2026115517-1785231827_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/07/bmw-i4-cabrio-fotos-espia-2026115517-1785231827_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-07-28T10:23:00+00:00"
     },
     {
       "id": "9e226ef604d2e08f",
@@ -886,19 +904,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-07-27T20:57:29+00:00"
-    },
-    {
-      "id": "6d1a25407f03b525",
-      "title": "BMW iX3 chega com a maior autonomia elétrica do Brasil por R$ 582.950",
-      "summary": "Modelo é o pioneiro por implementar o novo visual da BMW e inserir tecnologias inéditas que chegarão a 40 carros da marca futuramente",
-      "url": "https://quatrorodas.abril.com.br/noticias/bmw-ix3-maior-autonomia/",
-      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/07/BMW_02.jpg",
-      "images": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/07/BMW_02.jpg"
-      ],
-      "source": "Quatro Rodas BR",
-      "source_url": "https://quatrorodas.abril.com.br",
-      "published": "2026-07-27T20:00:27+00:00"
     },
     {
       "id": "65838c9d00f59d11",
@@ -1067,12 +1072,7 @@
       "url": "https://www.motor1.com/news/802784/2027-bmw-x5-ix5-long-wheelbase/",
       "image": "https://cdn.motor1.com/images/mgl/40YPoz/s3/2027-bmw-x5-long-wheelbase-china.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/40YPoz/s3/2027-bmw-x5-long-wheelbase-china.jpg",
-        "https://cdn.motor1.com/images/mgl/pbJNo1/s5/2027-bmw-x5-long-wheelbase-china.jpg",
-        "https://cdn.motor1.com/images/mgl/XBz9Ll/s5/2027-bmw-x5-long-wheelbase-china.jpg",
-        "https://cdn.motor1.com/images/mgl/bgPA9j/s5/2027-bmw-x5-long-wheelbase-china.jpg",
-        "https://cdn.motor1.com/images/mgl/MkgX2E/s5/2027-bmw-x5-long-wheelbase-china.jpg",
-        "https://cdn.motor1.com/images/mgl/40YPoz/s5/2027-bmw-x5-long-wheelbase-china.jpg"
+        "https://cdn.motor1.com/images/mgl/40YPoz/s3/2027-bmw-x5-long-wheelbase-china.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -1087,7 +1087,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-Long-Wheelbase-6-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-27T07:05:10+00:00"
     },
@@ -1207,19 +1207,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-07-25T12:00:00+00:00"
-    },
-    {
-      "id": "b6f2335c35564c0a",
-      "title": "Volvo 960 foi o sedã de luxo que ousou desafiar Mercedes e BMW",
-      "summary": "Existem, no mundo, alguns carros cuja imagem – ou fama – está estabelecida. Nomes como Ferrari, Mercedes-Benz e BMW evocam logo características de desempenho, esportividade e qualidade. A marca Volvo, contudo, traz junto um inabalável conceito de resistência e segurança passiva. Estatísticas suecas e alemãs revelam que um Volvo dura 12 anos em média, praticamente o dobro do que ocorre em outras partes do mundo. Mas nem todo mundo é fanático pela marca número 1 da Suécia. Alguns, em tom pejorativo, afirmam que o automóvel Volvo seria “o caminhão mais veloz do mundo”. Nas curvas mais ousadas…",
-      "url": "https://autoesporte.globo.com/carros/carros-classicos/noticia/2026/07/volvo-960-foi-o-seda-de-luxo-que-ousou-desafiar-mercedes-e-bmw.ghtml",
-      "image": "https://s2-autoesporte.glbimg.com/MjTYzHUsNuxwTSoz9D7fWXAnQHA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/F/5/hcKe9VRRCYiHLByGDTYg/volvo-960-1993.jpg",
-      "images": [
-        "https://s2-autoesporte.glbimg.com/MjTYzHUsNuxwTSoz9D7fWXAnQHA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/F/5/hcKe9VRRCYiHLByGDTYg/volvo-960-1993.jpg"
-      ],
-      "source": "Auto Esporte Carros",
-      "source_url": "https://autoesporte.globo.com",
-      "published": "2026-07-25T10:00:37+00:00"
     },
     {
       "id": "a84f6ce1b1b1c4c2",
@@ -1466,7 +1453,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1583,7 +1570,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -1874,7 +1861,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2056,7 +2043,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2560,6 +2547,19 @@
       "published": "2026-06-30T16:50:54+00:00"
     },
     {
+      "id": "aee33530c5618ca6",
+      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
+      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
       "id": "750232a217165f7b",
       "title": "2027 BMW X5 Hybrid",
       "summary": "What We Know So Far",
@@ -2586,19 +2586,6 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
-      "id": "aee33530c5618ca6",
-      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
-      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
       "id": "d1b4053d7de35eb0",
       "title": "BMW Just Reinvented The X5. Here's What's New",
       "summary": "Neue Klasse styling, five global powertrains, and a controversial design change mark BMW's boldest X5 yet.",
@@ -2620,22 +2607,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
-    },
-    {
-      "id": "5b434c6ebea1d0ee",
-      "title": "The New BMW X5 Has A Face Nobody Saw Coming",
-      "summary": "The 2027 X5 highlights some of its Neue Klasse design elements ahead of a full reveal.",
-      "url": "https://www.motor1.com/news/800102/2027-bmw-x5-headlights-tease/",
-      "image": "https://cdn.motor1.com/images/mgl/lEGveM/s3/2027-bmw-x5-teases-x-shaped-headlights.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/lEGveM/s3/2027-bmw-x5-teases-x-shaped-headlights.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-29T21:00:00+00:00"
     },
     {
       "id": "11673d883570706e",
@@ -2893,22 +2867,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
-    },
-    {
-      "id": "b54b5e6bf7b7fbb9",
-      "title": "2026 BMW iX3 M Sport First Edition Is Coming To A Single Market",
-      "summary": "It was only a few days ago that BMW launched the i3 First Edition to give the electric sedan an early start in Europe. Now, its SUV counterpart is getting similar treatment. This time, the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/22/bmw-ix3-m-sport-first-edition/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-iX3-First-Edition-1-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-iX3-First-Edition-1-830x553.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-22T11:06:10+00:00"
     },
     {
       "id": "d4f44c24a642811b",
@@ -3325,6 +3286,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-09T11:21:41+00:00"
+    },
+    {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
     },
     {
       "id": "4990c9488bed2755",
@@ -3834,6 +3808,19 @@
       "published": "2026-05-18T19:50:42+00:00"
     },
     {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
+    },
+    {
       "id": "701c94196dc95d59",
       "title": "The Volvo EX60 Costs Less Than The BMW iX3—For Now",
       "summary": "The base EX60 P6 Plus starts at $59,795, undercutting the iX3 50 xDrive's current $62,850 starting price.",
@@ -4339,19 +4326,6 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-04-30T17:21:57+00:00"
-    },
-    {
-      "id": "5c4c1384947a2e70",
-      "title": "BMW updates new iX3 range to 434 miles in the US, and then drops it back to 400 miles",
-      "summary": "The new iX3 will go on sale soon as BMW’s first Neue Klasse EV. Ahead of its US launch, BMW updated the 2027 iX3 range estimates to 434 miles.",
-      "url": "https://electrek.co/2026/04/30/bmw-updates-new-ix3-range-estimates-to-434-miles/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
-      ],
-      "source": "Electrek BMW",
-      "source_url": "https://electrek.co",
-      "published": "2026-04-30T14:13:29+00:00"
     }
   ]
 }
