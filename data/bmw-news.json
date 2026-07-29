@@ -1,15 +1,16 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-29T09:46:36.518132+00:00",
-  "generated_at_human": "2026-07-29 09:46 UTC",
-  "total_items": 321,
+  "generated_at": "2026-07-29T12:14:37.577527+00:00",
+  "generated_at_human": "2026-07-29 12:14 UTC",
+  "total_items": 323,
   "sources_used": [
     "5koleso RU",
+    "Auto Esporte BR",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -38,9 +39,9 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -54,8 +55,6 @@
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Rolls",
-    "Diariomotor",
-    "Electrek",
     "Electrek BMW",
     "Electric Cars Report",
     "Hagerty News",
@@ -63,6 +62,7 @@
     "HotCars",
     "InsideEVs",
     "Jalopnik",
+    "Kolesa RU",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -78,8 +78,60 @@
     "The Drive"
   ],
   "sources_count": 72,
-  "multi_photo_items": 16,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "4a46a985670b8b5a",
+      "title": "BMW To Axe About 8,000 Jobs By The End Of 2027",
+      "summary": "While most of its rivals were announcing drastic cost-cutting measures, BMW appeared to have avoided the need to tighten its belt. However, that’s sadly no longer the case. A company spokesperson told Reuters (via Automotive... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/29/bmw-axe-about-8000-jobs-end-of-2027/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2022/07/BMW-Headquarters-9-830x554.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2022/07/BMW-Headquarters-9-830x554.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-29T12:00:54+00:00"
+    },
+    {
+      "id": "cb3da19a220dd901",
+      "title": "BMW’s Rugged G74 SUV Might Not Happen After All",
+      "summary": "BMW’s rumored G74 Rugged SUV has reportedly not made it past its final approval round, according to sources familiar with the program, putting the future of BMW’s answer to the Range Rover and G-Wagon in... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/29/bmw-g74-rugged-suv-canceled/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-rugged-suv-21-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-rugged-suv-21-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-29T11:21:03+00:00"
+    },
+    {
+      "id": "5febb16eab5c340e",
+      "title": "Mini готовит приключенческую версию кроссовера Countryman, премьера — в октябре",
+      "summary": "Британская марка Mini, принадлежащая BMW Group, хочет найти новых покупателей среди любителей отдыха на свежем воздухе за пределами хорошей дорожной инфраструктуры. Новая версия Mini Countryman с увеличенным дорожным просветом, дополнительной защитой и более энергоёмкой подвеской проходит испытания в американских Скалистых горах.",
+      "url": "https://www.kolesa.ru/news/mini-gotovit-prikliucenceskuiu-versiiu-krossovera-countryman-premera-v-oktiabre",
+      "image": "https://kolesa-uploads.ru/-/ac576590-1d0b-40d4-b5b2-d1d77f651c70/0-0.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/ac576590-1d0b-40d4-b5b2-d1d77f651c70/0-0.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-07-29T10:15:25+00:00"
+    },
+    {
+      "id": "1670accaf7264927",
+      "title": "BMW i4 Cabrio: ook de elektrische BMW i3 krijgt een open alternatief!",
+      "summary": "BMW trapt het stroompedaal stevig tegen de bodem. Het bracht in no-time nieuwe modellen uit, maar is nog lang niet klaar met het introduceren van nieuwe modellen. We presenteren: de BMW i4 Cabrio!",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/bmw-i4-cabrio-ook-de-elektrische-bmw-i3-krijgt-een-open-alternatief/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276334629/width/800/276334629",
+      "images": [
+        "https://images.autoweek.nl/276334629/width/800/276334629"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-07-29T09:55:00+00:00"
+    },
     {
       "id": "567e4a7c2c0d009d",
       "title": "'BMW schrapt 8.000 banen'",
@@ -101,10 +153,10 @@
       "image": "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX3-Production.jpg?a3781e&amp;a3781e",
       "images": [
         "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX3-Production.jpg?a3781e&amp;a3781e",
+        "https://electriccarsreport.com/wp-content/uploads/2025/04/Free2move-Opel-Mokka-Electric-300x300.jpg",
         "https://electriccarsreport.com/wp-content/uploads/2026/07/BYD-Racco-300x300.jpg",
         "https://electriccarsreport.com/wp-content/uploads/2026/07/Mitsubishi-Eclipse-Sportback-EV-NACS-300x300.jpg",
         "https://electriccarsreport.com/wp-content/uploads/2026/07/Ford-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/07/DENZA-BAO-5-300x300.jpg",
         "http://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=510284cd-ec59-4d0f-8837-3fd41c6d7dde"
       ],
       "source": "Electric Cars Report",
@@ -131,12 +183,7 @@
       "url": "https://www.carscoops.com/2026/07/zeekr-9x-europe/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/rfecd-1024x576.webp",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/rfecd-1024x576.webp",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-01-2048x1314.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2025/04/Zeekr-9X-SUV-00003-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-03-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-05-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Zeekr-9X-Europe-New-02-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/rfecd-1024x576.webp"
       ],
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
@@ -268,7 +315,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -317,8 +364,8 @@
       "published": "2026-07-28T23:45:15+00:00"
     },
     {
-      "id": "c39a56081d85cdc8",
-      "title": "BMW’s iX3 Is Nearing 100,000 Orders Before Its First Birthday",
+      "id": "8f6ebaff11d4e0c8",
+      "title": "BMW Has Built 50,000 iX3s, But It’s Staring Down 100,000 Orders",
       "summary": "The iX3 crossover set a new benchmark for BMW, reaching 50,000 units faster than any model at a brand-new plant",
       "url": "https://www.carscoops.com/2026/07/bmw-ix3-production-milestone/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/P90651329_highRes_the-fully-assembled-copy-1024x576.jpg",
@@ -332,7 +379,7 @@
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
-      "published": "2026-07-28T22:58:00+00:00"
+      "published": "2026-07-28T23:02:00+00:00"
     },
     {
       "id": "c71286781ffc58a8",
@@ -462,7 +509,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/_yRJUgRdXNbFgYqiEsjUt8l_TsA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/M/z/2lBxsAQ0qi9bSk3gAp7Q/bmw-507-prata-carro-antigo.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-28T16:41:47+00:00"
     },
@@ -506,7 +553,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX3-orders.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-07-28T16:09:36+00:00"
     },
@@ -559,9 +606,9 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/A260748_large-copy-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-X5-L-China-7-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/04/Jetta-X-Concept-1-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Mercedes-China-new333-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Original-17257-a263894-large-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/P90651329_highRes_the-fully-assembled-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/MB-AMG-3-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Group_70-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Mercedes-China-new333-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -620,32 +667,6 @@
       "published": "2026-07-28T13:20:32+00:00"
     },
     {
-      "id": "b4be6e732bb8b7bc",
-      "title": "En 9 meses 50.000 personas han apostado por el coche eléctrico más puntero de BMW, que está siendo el golpe más duro de Europa a China",
-      "summary": "Que viene el lobo, que viene el lobo es lo que parecemos escuchar cada vez que analizamos la evolución de China y sus fabricantes dentro del mercado europeo y, en realidad, también del panorama global, pero lo cierto es que Europa todavía está a tiempo de recuperar el terreno perdido tanto en el sentido comercial como en el tecnológico, dos planos inherentes a la hora de calar fuerte en el mercado y que la industria evolucione con ello, como demuestra el que está siendo el coche más importante de BMW. Y es que, tal y como acaba de hacer oficial la marca de Múnich, el BMW iX3 , su primer…",
-      "url": "https://www.diariomotor.com/noticia/bmw-ix3-50000-unidades-2026/",
-      "image": "https://www.diariomotor.com/imagenes/2025/09/BMW-iX3-68c006cee25f1.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2025/09/BMW-iX3-68c006cee25f1.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-28T13:00:36+00:00"
-    },
-    {
-      "id": "80df8b5bd4a71502",
-      "title": "Nuevas imágenes del BMW M3 Neue Klasse de 1.000 CV, esta vez junto a su abuelo, el M3 E30",
-      "summary": "Tanto Mercedes como BMW están explorando, y muy en serio, el terreno de los deportivos eléctricos. Y aunque el próximo BMW M3 tendrá versiones tanto eléctricas como de combustión, la mayoría de la atención se la está llevando la primera. Sabemos ya su nombre definitivo, sabemos algunas de sus especificaciones y ahora BMW tira de nostalgia en un nuevo set de fotos junto al abuelo, el M3 E30. Como digo, no es la primera vez que vemos imágenes del BMW M Concept Neue Klasse . Pero en esta ocasión le acompaña un E30 del departamento de clásicos de BMW. De hecho, esta unidad en concreto, con…",
-      "url": "https://www.diariomotor.com/noticia/bmw-m3-neue-klasse-nuevas-imagenes-con-e30/",
-      "image": "https://www.diariomotor.com/imagenes/2026/07/BMW-M3-Concept-Neue-Klasse_port-6a686daedd3c9.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/07/BMW-M3-Concept-Neue-Klasse_port-6a686daedd3c9.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-28T11:45:52+00:00"
-    },
-    {
       "id": "6e69c52309967fc1",
       "title": "New BMW i4 cabriolet takes shape as first Neue Klasse open-top",
       "summary": "New model marks the 4 Series Convertible's move to electric power, likely using the i3 saloon's tech BMW's first electric cabriolet has moved a step closer, with a new prototype providing the clearest indication yet that the German car maker is already well advanced on an i4 Convertible based on its Neue Klasse electric platform. Set to make its public debut during the second half of 2027 before reaching UK dealerships in 2028, the new four-seat model is planned to form part of an all-new two-door i4 family. Alongside it, BMW is also developing an i4 Coupé, which will effectively succeed…",
@@ -654,7 +675,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -836,7 +857,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i4-convertible-concept.png?w=1600"
       ],
-      "source": "Electrek",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-07-28T00:46:57+00:00"
     },
@@ -1118,7 +1139,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2015/12/BMW_ALPINA_B6_BITURBO_03-750x500.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Alpina tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-26T16:54:56+00:00"
     },
@@ -1131,7 +1152,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Polarized-Grey-9-830x746.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-26T09:47:39+00:00"
     },
@@ -1562,7 +1583,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -1853,7 +1874,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2035,7 +2056,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2060,11 +2081,11 @@
       "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
         "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-6.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
-        "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-8.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
+        "https://cdn-1.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2539,19 +2560,6 @@
       "published": "2026-06-30T16:50:54+00:00"
     },
     {
-      "id": "aee33530c5618ca6",
-      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
-      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-06-30T15:01:00+00:00"
-    },
-    {
       "id": "750232a217165f7b",
       "title": "2027 BMW X5 Hybrid",
       "summary": "What We Know So Far",
@@ -2578,6 +2586,19 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
+      "id": "aee33530c5618ca6",
+      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
+      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-06-30T15:01:00+00:00"
+    },
+    {
       "id": "d1b4053d7de35eb0",
       "title": "BMW Just Reinvented The X5. Here's What's New",
       "summary": "Neue Klasse styling, five global powertrains, and a controversial design change mark BMW's boldest X5 yet.",
@@ -2599,7 +2620,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2859,7 +2880,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2872,7 +2893,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
