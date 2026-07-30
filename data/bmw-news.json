@@ -1,14 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-07-30T09:38:13.419969+00:00",
-  "generated_at_human": "2026-07-30 09:38 UTC",
-  "total_items": 323,
+  "generated_at": "2026-07-30T12:02:06.403877+00:00",
+  "generated_at_human": "2026-07-30 12:02 UTC",
+  "total_items": 329,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
-    "Auto Esporte BR",
+    "Auto Esporte Carros",
     "AutoWeek NL",
-    "Autocar BMW",
+    "AutoWeek News",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -47,17 +48,17 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Land Rover",
     "CarScoops Rolls",
     "CarWale IN",
     "Diariomotor",
     "Electrek BMW",
-    "Electric Cars Report",
     "Hagerty News",
-    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Jalopnik",
@@ -67,17 +68,61 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "MotorBeam IN",
-    "Motoring Research",
     "Motoring World IN",
     "Motorsport All",
     "Motorsport WEC",
     "Quatro Rodas BR",
     "Racecar Engineering",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 17,
+  "sources_count": 71,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "b83f5c4b002b8374",
+      "title": "BMW M Motorsport y WRT muestran su decoración arácnida para Road América",
+      "summary": "El año pasado BMW y Sony Pictures firmaron una alianza estratégica y comercial, como parte de ello, este fin de semana el BMW Hybrid V8 número 24 se presentará a competir en las 6 Horas de Road Atlanta con una decoración especial relacionada con el estreno del filme Spider-Man: Brand New Day, así que básicamente el prototipo será distinguido por un diseño tipo cómic con la silueta del héroe de Marvel en la aleta central. Por su parte, los pilotos Dries Vanthoor y Sheldon van der Linde llevarán indumentarias relacionadas a la temática. Se adelantó que en la película aparecerán los modelos…",
+      "url": "https://www.diariomotor.com/competicion/noticia/bmw-wrt-decoracion-aracnida-road-america/",
+      "image": "https://www.diariomotor.com/imagenes/2026/07/BMW_Anuncio_Spider_Man_2026_3_26-6a6b239aa4258.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/07/BMW_Anuncio_Spider_Man_2026_3_26-6a6b239aa4258.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-07-30T13:08:32+00:00"
+    },
+    {
+      "id": "704d278d03788d87",
+      "title": "The Most Anticipated Liter-Class Sports Bike Of 2027",
+      "summary": "This upcoming BMW will be one of the most powerful inline-four production bikes in the world",
+      "url": "https://www.topspeed.com/most-anticipated-liter-class-sports-bike-2027/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-concept-rr-animated-shot-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-concept-rr-animated-shot-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2026-aprilia-rsv4-factory-taking-a-left-turn-on-the-track.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/yamaha-yzf-r1-riding-on-the-track.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/2026-ducati-panigale-v4-r-sliding.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-concept-rr-studio-shot-front-angle.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-bmw-s-1000-rr-engine.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-07-30T11:30:10+00:00"
+    },
+    {
+      "id": "1f37175d7f3472a8",
+      "title": "The Standard BMW i3 Goes On Sale In Europe In Late September",
+      "summary": "Due to popular demand, the i3 has gone on sale in Europe sooner than originally planned. The First Edition has been available across Europe since mid-June, months ahead of BMW’s initial plan to roll out... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/07/30/standard-bmw-i3-orders-start-september/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-07-30T11:28:50+00:00"
+    },
     {
       "id": "63e813866fa16f9e",
       "title": "Jamás fue todoterreno, pero su trayectoria Off-Road le precede y ahora quiere ser el 4X4 que todos querrán en su garaje",
@@ -92,6 +137,32 @@
       "published": "2026-07-30T11:00:24+00:00"
     },
     {
+      "id": "560a4d0b7909dc34",
+      "title": "Genesis GV60 Magma Priced Closer To GRMN Corolla Than Ioniq 5 N",
+      "summary": "Genesis has priced its first Magma performance model right in BMW M and Mercedes-AMG territory.",
+      "url": "https://carbuzz.com/2027-genesis-gv60-magma-pricing/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv60.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/genesis-gv60.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-07-30T10:06:54+00:00"
+    },
+    {
+      "id": "efba437f9dff669a",
+      "title": "Слишком рискованно: внедорожник BMW (G74) не получил одобрения у руководства",
+      "summary": "По данным инсайдеров, руководство BMW Group не дало зелёный свет проекту брутального внедорожника с заводским индексом G74, производство которого должно было начаться в 2029 году в США. Компания сейчас находится в режиме экономии и не может себе позволить выпускать новинки, в которых не уверена на 100%.",
+      "url": "https://www.kolesa.ru/news/sliskom-riskovanno-vnedoroznik-bmw-g74-ne-polucil-odobreniia-u-rukovodstva",
+      "image": "https://kolesa-uploads.ru/-/a14a9538-5268-44a5-8a19-10d6f358b02f/bmw-x-front1-mini.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/a14a9538-5268-44a5-8a19-10d6f358b02f/bmw-x-front1-mini.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-07-30T09:59:14+00:00"
+    },
+    {
       "id": "bfb407fe39fa00cc",
       "title": "BMW puts G-Class rival on hold as China headwinds hit home",
       "summary": "Off-roader, code-named G74, evolved rapidly before development efforts stalled; China presents big challenge BMW has begun reassessing its future product strategy, including putting its rival for the Mercedes-Benz G-Class on ice, as changing market conditions have forced the German car maker to review which models will go into production later this decade. The move follows what new CEO Milan Nedeljković described as a dramatic shift in the automotive landscape over the past year, with weakening demand in China, growing pressure from new Chinese rivals, stricter US trade barriers and…",
@@ -103,7 +174,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-29-profile_photo.jpg?itok=FgnItzjs"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -112,14 +183,9 @@
       "title": "BMW to run special Spider-Man livery in IMSA’s Road America enduro",
       "summary": "BMW has revealed a one-off Spider-Man livery for this weekend’s IMSA SportsCar Championship round at Road America. As part of a collaboration with Marvel and Sony’s upcoming superhero film Spider-Man: Brand New Day, the #24 BMW M Hybrid V8 of Sheldon van der Linde and Dries Vanthoor will sport a special blue-and-red colour scheme in the six-hour enduro. The livery also features the ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/bmw-to-run-special-spider-man-livery-in-imsas-road-america-enduro/10843008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0JXR4boY/s6/img-3345-copy.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0JXR4boY/s6/img-3345-copy.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0JXR4boY/s6/img-3345-copy.jpg",
-        "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-1.motorsport.com/images/amp/0JXR4boY/s1000/img-3345-copy.webp",
-        "https://cdn.motorsport.com/images/amp/0rVPABO0/s2/6-porsche-penske-motorsport-po.jpg",
-        "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/0JXwNVAY/s300/alex-marquez-gresini-racing.webp"
+        "https://cdn-6.motorsport.com/images/amp/0JXR4boY/s6/img-3345-copy.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -197,12 +263,7 @@
       "url": "https://www.hotcars.com/touring-bike-with-honda-reliability-and-bmw-comfort/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/23-yam-fjr13esn-us-dpbmu-det-007-03.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/23-yam-fjr13esn-us-dpbmu-det-007-03.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/23-yam-fjr13esn-us-dpbmu-det-3958-03.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/23-yam-fjr13esn-us-dpbmu-det-4007-03.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2007_yamaha_fjr1300_fjr_226-74348-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2007_yamaha_fjr1300_fjr_231-74823-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2007_yamaha_fjr1300_fjr_227-74357-scaled.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/23-yam-fjr13esn-us-dpbmu-det-007-03.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -228,12 +289,7 @@
       "url": "https://carbuzz.com/c55-amg-bargain-german-alternative-to-the-e46-m3/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/c55-amg-main.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/c55-amg-main.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2005-mercedes-benz-c-55-amg.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/2005-mercedes-benz-c-55-amg-rear.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/bmw-m3-2001-1280-584625c570f562b4e9525c5fe2201bad49.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/bmw-m3-2001-1280-24495568009e96d67a078296e26b26bdf8.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/c55-amg-main.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -316,12 +372,7 @@
       "url": "https://quatrorodas.abril.com.br/segredo/novos-bmw-x5-hibrido-e-eletrico-ja-estao-no-site-da-marca-e-chegam-ao-brasil-em-2027/",
       "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/BMW-X5-2027-29.jpg",
       "images": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/BMW-X5-2027-29.jpg",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/07/bmw-x5-site.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/07/bmw-ix5-sitebr.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/BMW-X5-2027-20.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/BMW-X5-2027-17.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/BMW-X5-2027-15.jpg?quality=70&strip=info&w=1024&crop=1"
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/BMW-X5-2027-29.jpg"
       ],
       "source": "Quatro Rodas BR",
       "source_url": "https://quatrorodas.abril.com.br",
@@ -350,9 +401,9 @@
       "title": "Analysis: BoP Setback for Cadillac, further breaks for BMW in Road America BoP",
       "summary": "Following two wins in a row and a season-long podium streak by the #31 Action Express Cadillac, the V-Series.R received a 21-kilogram weight penalty that dominated the headlines when released last week. However, as usual, we need to take a closer look at the BoP sheets to see how much of a disadvantage the naturally aspirated V8-powered LMDh is carrying into the inaugural 6-hour race at Road ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/analysis-bop-setback-for-cadillac-further-breaks-for-bmw-in-road-america-bop/10842929/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0rVx3pm0/s6/31-cadillac-whelen-cadillac-v-.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0rVx3pm0/s6/31-cadillac-whelen-cadillac-v-.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0rVx3pm0/s6/31-cadillac-whelen-cadillac-v-.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0rVx3pm0/s6/31-cadillac-whelen-cadillac-v-.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -515,7 +566,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-and-2027-i3-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-29T13:12:51+00:00"
     },
@@ -583,19 +634,6 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-07-29T08:19:08+00:00"
-    },
-    {
-      "id": "c4575a3559bfff68",
-      "title": "BMW Plant Debrecen Builds 50,000th BMW iX3 in Record Time",
-      "summary": "BMW Group Plant Debrecen has produced its 50,000th BMW iX3 just nine months after production began, marking the fastest ramp-up of any new BMW factory. The post BMW Plant Debrecen Builds 50,000th BMW iX3 in Record Time appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/07/bmw-plant-debrecen-builds-50000th-bmw-ix3-in-record-time/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX3-Production.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX3-Production.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-07-29T07:48:38+00:00"
     },
     {
       "id": "5c77facd6d363248",
@@ -710,7 +748,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -837,7 +875,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/_yRJUgRdXNbFgYqiEsjUt8l_TsA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/M/z/2lBxsAQ0qi9bSk3gAp7Q/bmw-507-prata-carro-antigo.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-07-28T16:41:47+00:00"
     },
@@ -959,7 +997,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -998,7 +1036,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1014,19 +1052,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-07-28T10:05:00+00:00"
-    },
-    {
-      "id": "8e6958081913db80",
-      "title": "BMW Plant Woodruff Begins Gen6 Battery Production for the New BMW iX5",
-      "summary": "BMW Plant Woodruff will begin series production of Gen6 high-voltage batteries for the all-electric BMW iX5 in December, featuring AI-driven manufacturing, 800V technology and sustainable production. The post BMW Plant Woodruff Begins Gen6 Battery Production for the New BMW iX5 appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/07/bmw-plant-woodruff-begins-gen6-battery-production-for-the-new-bmw-ix5/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX5-battery-pack.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/07/BMW-iX5-battery-pack.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-07-28T09:56:31+00:00"
     },
     {
       "id": "e1058743ed624cfb",
@@ -1050,7 +1075,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/50000th-BMW-iX3-Neue-Klasse-8-830x554.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T08:39:40+00:00"
     },
@@ -1144,19 +1169,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-07-27T20:57:29+00:00"
-    },
-    {
-      "id": "65838c9d00f59d11",
-      "title": "A One-of-Two McLaren F1 GTR Is Going Up for Auction",
-      "summary": "We here of BMWBLOG love the McLaren F1. It’s an incredible piece of engineering and one of the most historically important automobiles in history. But it’s also inextricably tied to BMW. The F1’s Bavarian-sourced power... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/27/one-of-two-mclaren-f1-gtr-chassis-10r-auction/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/07/mclaren-f1-bmw-engine-v12-05-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/07/mclaren-f1-bmw-engine-v12-05-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-27T16:51:16+00:00"
     },
     {
       "id": "43d98f8345e8c40d",
@@ -1330,6 +1342,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-27T05:46:57+00:00"
+    },
+    {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
     },
     {
       "id": "27f04a46093ce7f8",
@@ -1516,19 +1541,6 @@
       "published": "2026-07-24T10:01:31+00:00"
     },
     {
-      "id": "2a2da4bc6cffabfd",
-      "title": "BMW iX1 and iX2 now qualify for £3,750 Electric Car Grant",
-      "summary": "BMW has become the first premium German brand to qualify for the UK Government’s Electric Car Grant scheme, with savings on the iX1 and iX2 The post BMW iX1 and iX2 now qualify for £3,750 Electric Car Grant appeared first on Motoring Research .",
-      "url": "https://www.motoringresearch.com/car-news/bmw-ix1-ix2-electric-car-grant/",
-      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-iX1-and-iX2-Electric-Car-Grant.jpg",
-      "images": [
-        "https://www.motoringresearch.com/wp-content/uploads/2026/07/001-BMW-iX1-and-iX2-Electric-Car-Grant.jpg"
-      ],
-      "source": "Motoring Research",
-      "source_url": "https://www.motoringresearch.com",
-      "published": "2026-07-24T08:50:58+00:00"
-    },
-    {
       "id": "e6f9b32540c51638",
       "title": "BMW X1 xDrive30e U11 in Desert Sand: Der Dreizylinder mit über 300 PS",
       "summary": "Spätestens seit dem i8 wissen auch BMW-Fans, dass ein Dreizylinder nicht zwingend eine Verzichtserklärung sein muss: Auch wenn sechs, acht oder sogar noch mehr Zylinder...",
@@ -1594,6 +1606,19 @@
       "published": "2026-07-22T06:33:23+00:00"
     },
     {
+      "id": "8c993a2db33dc229",
+      "title": "Acura’s Biggest SUV Yet Could Arrive in 2029",
+      "summary": "A three-row hybrid crossover positioned above the MDX could arrive in 2029, finally giving Acura a rival for the Lexus TX, BMW X7 and Mercedes-Benz GLS.",
+      "url": "https://www.autoweek.com/news/a73221414/acura-biggest-suv-2029/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-07-21T21:24:09+00:00"
+    },
+    {
       "id": "2f081b63c2baacd8",
       "title": "BMW Has an EV Lineup Worth Shopping. Here’s the Order",
       "summary": "BMW has more electric cars on sale, or about to be, than at any point in its history, and not surprisingly, the newest ones are also the best ones. Also, for years, the choice was... First published by https://www.bmwblog.com",
@@ -1637,9 +1662,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1722,6 +1747,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
+    },
+    {
+      "id": "20b48eddbbe7da8a",
+      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
+      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
+      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-18T13:00:00+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -1859,6 +1897,19 @@
       "published": "2026-07-16T13:31:38+00:00"
     },
     {
+      "id": "83ef33b4cdcfa12d",
+      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
+      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
+      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-16T13:07:00+00:00"
+    },
+    {
       "id": "1800391f6a588643",
       "title": "2028 BMW M3 Sounds Properly Good In New Spy Video",
       "summary": "Even though BMW still hasn’t shown us the next-generation 3 Series Sedan, work is already well underway on the M3. The regular G50 will break cover in the coming months, potentially alongside the M350 M... First published by https://www.bmwblog.com",
@@ -1922,6 +1973,19 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-07-16T09:21:45+00:00"
+    },
+    {
+      "id": "d0760bb4a6105e7e",
+      "title": "BMW, Toyota Launch Real-World Test of Renewable Gasoline",
+      "summary": "The automakers say 100% renewable fuel could help decarbonize existing gasoline cars without replacing today's engines or fueling infrastructure.",
+      "url": "https://www.autoweek.com/news/a72204839/bmw-toyota-test-renewable-gasoline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-07-16T01:53:49+00:00"
     },
     {
       "id": "6a9ea4ac955b6443",
@@ -2136,14 +2200,14 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
         "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-8.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-6.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2154,9 +2218,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-1.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2678,7 +2742,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2787,19 +2851,6 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
-    },
-    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -2811,6 +2862,19 @@
       "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
+    },
+    {
+      "id": "3a88f96e6c066a22",
+      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
+      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
+      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Land Rover",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-24T19:45:00+00:00"
     },
     {
       "id": "878f7609834cee38",
@@ -2938,7 +3002,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-world-debut-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
     },
@@ -3116,9 +3180,9 @@
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "summary": "The #7 Toyota TR010 Hybrid that won the 2026 Le Mans 24 Hours was compromised by a sensor problem that left it as much as 8km/h down on power. Kamui Kobayashi, Mike Conway and Nyck de Vries took top honours in the 94th edition of the French endurance classic, driving the heavily-updated TR010 to the victory lane ahead of the #20 BMW M Hybrid V8 shared by Robin Frijns, Rene Rast and Sheldon van ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3129,9 +3193,9 @@
       "title": "BMW drivers admit “painful” 2026 Le Mans defeat “hurts”: “We were close”",
       "summary": "BMW drivers admitted to feeling “hurt” by their narrow loss to Toyota in the Le Mans 24 Hours, having led various chunks of the race. The factory #20 BMW M Hybrid V8 shared by Robin Frijns, Sheldon van der Linde and Rene Rast finished second in the 94th endurance classic, just 10.9s behind the winning #7 Toyota TR010 Hybrid of Kamui Kobayashi, Mike Conway and Nyck de Vries. The German ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmw-drivers-say-painful-le-mans-defeat-hurts-we-were-close/10830529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-2.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3142,9 +3206,9 @@
       "title": "Le Mans 24h: Toyota beats BMW and Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
+        "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3155,9 +3219,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-5.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3168,9 +3232,9 @@
       "title": "Le Mans 24H, H16: #12 Cadillac out front as Toyota and BMW battle over second",
       "summary": "The #12 Cadillac pulled out a healthy lead at the two-thirds mark in the Le Mans 24 Hours, while Toyota and BMW engaged in a close scrap for second position. The two Jota-run factory Cadillacs moved to the front of the field in the 14th hour, as they leapfrogged the erstwhile-leading #8 Toyota GR010 Hybrid in the pits. However, the #38 Cadillac that had been running second suffered a power ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
+        "https://cdn-5.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3181,9 +3245,9 @@
       "title": "Le Mans 24h, H8: Safety car blows race wide open",
       "summary": "The safety car has blown the 2026 Le Mans 24 Hours wide open, with no fewer than 14 cars gathered in the lead after the eighth hour of racing. Up until now, the race had turned into a four-way battle between the #8 Toyota, the #20 BMW, and the #12 and #38 Cadillac, whose driver Earl Bamber has set the fastest lap of the race so far. On-track battles featured Jack Aitken (#38 Cadillac) ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h8-safety-car-blows-race-wide-open/10830128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3207,9 +3271,9 @@
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "summary": "The #8 Toyota leads the 2026 Le Mans 24 Hours one hour into the race, despite starting from a lowly 15th position. Kevin Magnussen’s polesitting #15 BMW collapsed to eighth in the first hour; the Dane lost out to Will Stevens’ #12 Cadillac before even the first corner of the race before Rene Rast passed them both in the sister #20 BMW, by the first chicane of the Mulsanne ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid/10829935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3298,9 +3362,9 @@
       "title": "Le Mans 24h: BMW inherits pole position after Cadillac penalty",
       "summary": "BMW has taken pole position for the 2026 Le Mans 24 Hours with Dries Vanthoor after Cadillac's effort, quicker by five-thousandths of a second, was rendered null and void by the stewards. Read Also: WECWhy Cadillac lost pole position for Le Mans 24 Hours In Hyperpole 1, Earl Bamber’s early 3m23.722s effort in the #38 Cadillac led the way halfway through, as Genesis ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-cadillac-snatches-pole-away-from-bmw-by-0005s/10829274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6zoJOXJ0/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
