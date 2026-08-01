@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-01T04:30:42.645258+00:00",
-  "generated_at_human": "2026-08-01 04:30 UTC",
-  "total_items": 306,
+  "generated_at": "2026-08-01T07:36:59.280075+00:00",
+  "generated_at_human": "2026-08-01 07:36 UTC",
+  "total_items": 314,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar BMW",
+    "AutoWeek News",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -35,25 +36,26 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
+    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Rolls",
-    "CarScoops Volvo",
     "CarWale IN",
     "Diariomotor",
     "Electrek BMW",
+    "Gaadiwaadi IN",
     "Hagerty News",
     "Hooniverse",
     "Jalopnik",
@@ -73,9 +75,22 @@
     "Racecar Engineering",
     "Response JP"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 15,
+  "sources_count": 70,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "863a67c4acfcdff6",
+      "title": "BMW Opens Pre-Bookings For Facelifted 7 Series In India Ahead Of Launch",
+      "summary": "GaadiWaadi - 2026 BMW 7 Series has been confirmed to be available in ICE and all-electric forms; gets a host of additions inside and out BMW has opened pre-launch bookings for the facelifted 7 Series ahead of its official arrival in the domestic market. Customers can reserve the flagship luxury sedan from today through BMW dealerships across […] The post BMW Opens Pre-Bookings For Facelifted 7 Series In India Ahead Of Launch appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
+      "url": "https://gaadiwaadi.com/bmw-opens-pre-bookings-for-facelifted-7-series-in-india-ahead-of-launch/",
+      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/04/2026-BMW-7-Series-Facelift-India-2.jpg",
+      "images": [
+        "https://gaadiwaadi.com/wp-content/uploads/2026/04/2026-BMW-7-Series-Facelift-India-2.jpg"
+      ],
+      "source": "Gaadiwaadi IN",
+      "source_url": "https://gaadiwaadi.com",
+      "published": "2026-08-01T07:36:34+00:00"
+    },
     {
       "id": "1a258ab932e32dfe",
       "title": "BMW『3シリーズ』リコール追加 スタータ不具合で火災のおそれ",
@@ -134,7 +149,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/mini-cooper-r53-front_0.jpg?itok=3wQSajnh",
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/21d6d23c-3c97-4615-91d1-4977ba4b146b.jpg?itok=omgnOhqm"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -159,11 +174,11 @@
       "image": "https://cdn-3.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
         "https://cdn-3.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-9.motorsport.com/images/amp/01QNJOe0/s200/dallara-ir-28-detail-2.webp",
-        "https://cdn-2.motorsport.com/images/amp/6b8ZKvB2/s200/dallara-ir-28-detail.webp",
-        "https://cdn-1.motorsport.com/images/amp/2wlKGpBY/s200/vln.webp",
+        "https://cdn-6.motorsport.com/images/amp/01QNJOe0/s200/dallara-ir-28-detail-2.webp",
+        "https://cdn-9.motorsport.com/images/amp/6b8ZKvB2/s200/dallara-ir-28-detail.webp",
+        "https://cdn-9.motorsport.com/images/amp/2wlKGpBY/s200/vln.webp",
         "https://cdn-6.motorsport.com/images/amp/2dEoyq5Y/s200/zwei-porsche-legenden-im-letzt.webp",
-        "https://cdn-5.motorsport.com/images/amp/6b8ZK1B2/s200/jonathan-shafer-mbm-motorsport.webp"
+        "https://cdn-4.motorsport.com/images/amp/6b8ZK1B2/s200/jonathan-shafer-mbm-motorsport.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -174,9 +189,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -226,9 +241,9 @@
       "title": "Marco Wittmann loses five kilos and gets IV drips: \"For me, it was extreme\"",
       "summary": "Marco Wittmann has the toughest race weekend of his career behind him: The two-time DTM champion arrived at the home game of his Schubert squad in Oschersleben of all places with a stomach flu and lost five kilograms of body weight in four days! \"I have never experienced losing five kilograms in such a short time - and accordingly, that was the most difficult racing week for me,\" says the BMW ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/marco-wittmann-loses-five-kilos-and-gets-iv-drips-for-me-it-was-extreme/10843295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/x6zrA7J6/s6/wittmann-verliert-fuenf-kilo-und-kriegt-infusionen-fuer-mich-war-es-extrem-26073101.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/x6zrA7J6/s6/wittmann-verliert-fuenf-kilo-und-kriegt-infusionen-fuer-mich-war-es-extrem-26073101.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/x6zrA7J6/s6/wittmann-verliert-fuenf-kilo-und-kriegt-infusionen-fuer-mich-war-es-extrem-26073101.jpg"
+        "https://cdn-3.motorsport.com/images/amp/x6zrA7J6/s6/wittmann-verliert-fuenf-kilo-und-kriegt-infusionen-fuer-mich-war-es-extrem-26073101.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -241,13 +256,9 @@
       "url": "https://www.autocar.co.uk/car-news/new-cars/byd-goes-after-defender-boxy-%C2%A348k-402bhp-hybrid-suv",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=4UBeUTsl",
-        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/charlie-martin-autocar.jpg?itok=7c2HuvZw",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/charlie-martin-autocar.jpg"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -343,7 +354,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -491,6 +502,19 @@
       "published": "2026-07-30T15:57:00+00:00"
     },
     {
+      "id": "a7312725dffadcc1",
+      "title": "Toyota's Limited-Run GRMN Corolla Costs Nearly as Much as a BMW M2",
+      "summary": "The racing-derived version of the GR Corolla is the most extreme yet, but the extra capability on the track comes with a surcharge at the register.",
+      "url": "https://www.caranddriver.com/news/a73297543/toyota-grmn-corolla-pricing/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bed2aa1c-5511-432b-9387-14aadd56444a.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/bed2aa1c-5511-432b-9387-14aadd56444a.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-30T14:30:00+00:00"
+    },
+    {
       "id": "13e2eb76fa9583a0",
       "title": "BMW Brings Together All 20 Art Cars For The First Time",
       "summary": "Possibly a once-in-a-lifetime opportunity, all 20 Art Cars are together under the same roof at the BMW Welt. A monumental logistical effort made it possible for the German luxury automaker to bring these rolling art... First published by https://www.bmwblog.com",
@@ -538,7 +562,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -637,6 +661,19 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-29T20:06:13+00:00"
+    },
+    {
+      "id": "ea1ac86f01c1ca70",
+      "title": "How the Audi Q9 Stacks Up to the BMW X7 and Mercedes GLS",
+      "summary": "Audi’s new flagship SUV is larger than the German competition, though not quite as big as a Cadillac Escalade.",
+      "url": "https://www.caranddriver.com/news/a73296385/audi-q9-vs-bmw-x7-mercedes-gls-specs-compared/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/971e485e-6859-4bfd-9f6e-372ab61c75fe.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/971e485e-6859-4bfd-9f6e-372ab61c75fe.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-29T19:30:00+00:00"
     },
     {
       "id": "8ac1fa923e26861e",
@@ -795,7 +832,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -816,6 +853,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-07-28T23:02:00+00:00"
+    },
+    {
+      "id": "31bb9b52ec7a380c",
+      "title": "BMW i4 Convertible Spotted with Soft Top and Neue Klasse Styling",
+      "summary": "BMW's upcoming electric 4-series convertible was spotted testing, and despite camouflage, there's plenty to see.",
+      "url": "https://www.caranddriver.com/news/a73287243/2028-bmw-i4-convertible-spy-photos/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bf6d699c-7206-4f19-9efb-38f2b668f49b.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/bf6d699c-7206-4f19-9efb-38f2b668f49b.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-28T21:07:00+00:00"
     },
     {
       "id": "584c73a93fa7c813",
@@ -883,6 +933,19 @@
       "published": "2026-07-28T16:09:36+00:00"
     },
     {
+      "id": "aaa768725b8981cd",
+      "title": "These Vehicles Are Dead for 2027",
+      "summary": "Pour one out for greats like the BMW Z4, Lexus LC, Toyota GR Supra, and more.",
+      "url": "https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-28T14:46:00+00:00"
+    },
+    {
       "id": "df00b7473a8c2aa4",
       "title": "Audi, BMW, And Mercedes Are Building Cars In China Nobody Wants To Buy",
       "summary": "Chinese brands found a way out of the same slump, exporting up to 10 million cars and building new plants abroad",
@@ -922,7 +985,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -1191,6 +1254,19 @@
       "published": "2026-07-27T05:46:57+00:00"
     },
     {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
+    },
+    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -1427,6 +1503,19 @@
       "published": "2026-07-22T20:15:00+00:00"
     },
     {
+      "id": "8c993a2db33dc229",
+      "title": "Acura’s Biggest SUV Yet Could Arrive in 2029",
+      "summary": "A three-row hybrid crossover positioned above the MDX could arrive in 2029, finally giving Acura a rival for the Lexus TX, BMW X7 and Mercedes-Benz GLS.",
+      "url": "https://www.autoweek.com/news/a73221414/acura-biggest-suv-2029/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-07-21T21:24:09+00:00"
+    },
+    {
       "id": "2f081b63c2baacd8",
       "title": "BMW Has an EV Lineup Worth Shopping. Here’s the Order",
       "summary": "BMW has more electric cars on sale, or about to be, than at any point in its history, and not surprisingly, the newest ones are also the best ones. Also, for years, the choice was... First published by https://www.bmwblog.com",
@@ -1435,7 +1524,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1555,6 +1644,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
+    },
+    {
+      "id": "20b48eddbbe7da8a",
+      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
+      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
+      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-18T13:00:00+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -1690,6 +1792,19 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
+    },
+    {
+      "id": "83ef33b4cdcfa12d",
+      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
+      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
+      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-16T13:07:00+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -1947,7 +2062,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -1976,7 +2091,7 @@
         "https://cdn-7.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-1.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2459,7 +2574,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3671,19 +3786,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
