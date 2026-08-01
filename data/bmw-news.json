@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-01T10:08:25.840779+00:00",
-  "generated_at_human": "2026-08-01 10:08 UTC",
-  "total_items": 312,
+  "generated_at": "2026-08-01T12:09:56.564691+00:00",
+  "generated_at_human": "2026-08-01 12:09 UTC",
+  "total_items": 309,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
+    "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -35,17 +36,16 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i5",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -54,7 +54,6 @@
     "Diariomotor",
     "Electrek BMW",
     "Gaadiwaadi IN",
-    "Hagerty News",
     "Hooniverse",
     "Jalopnik",
     "Motor.es",
@@ -72,11 +71,25 @@
     "Paul Tan",
     "Racecar Engineering",
     "Response JP",
+    "RushLane IN",
     "TopSpeed"
   ],
   "sources_count": 69,
   "multi_photo_items": 15,
   "items": [
+    {
+      "id": "6f4ed5193c040d8f",
+      "title": "Zo komt een oude BMW i3 twee keer zo ver",
+      "summary": "Veel BMW i3-rijders zijn nog lang niet uitgekeken op hun kleine elektropionier, maar dertien jaar na de marktintroductie is het rijbereik niet meer van deze tijd. De eerste jaren was de kleine EV er alleen als 60 Ah, met een netto accucapaciteit van slechts 18,8 kWh. Er zijn diverse bedrijven die nu met grotere, moderne accupakketten komen voor de i3. Wij waren aanwezig bij een Duitse start-up om te zien hoe zoiets in zijn werk gaat.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/zo-komt-een-oude-bmw-i3-twee-keer-zo-ver/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276138827/width/800/276138827",
+      "images": [
+        "https://images.autoweek.nl/276138827/width/800/276138827"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-08-01T11:59:17+00:00"
+    },
     {
       "id": "3b0db707c62764b8",
       "title": "Hacer casi 600.000 km a un BMW Z4 M Coupé es admirable y es de ser un auténtico petrolhead",
@@ -91,18 +104,42 @@
       "published": "2026-08-01T11:00:57+00:00"
     },
     {
+      "id": "b5935060397a5ad4",
+      "title": "2027 BMW 7 Series Bookings Open In India – Launch Soon",
+      "summary": "After its global debut in April 2026, the bookings for latest iteration of BMW 7 Series has been commenced for the Indian market The post 2027 BMW 7 Series Bookings Open In India – Launch Soon appeared first on RushLane .",
+      "url": "https://www.rushlane.com/2027-bmw-7-series-bookings-open-in-india-launch-soon-12552138.html",
+      "image": "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
+      "images": [
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-7-1068x601.jpg",
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-10-1068x601.jpg",
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-15-1068x601.jpg"
+      ],
+      "source": "RushLane IN",
+      "source_url": "https://rushlane.com",
+      "published": "2026-08-01T10:55:57+00:00"
+    },
+    {
+      "id": "0391d9af2a48daa3",
+      "title": "Updated BMW 7 Series and i7 Pre-Bookings Open",
+      "summary": "Facelifts of BMW 7 Series and i7 will make its market launch in coming weeks. New features and updated powertrain expected.",
+      "url": "https://www.carwale.com/news/updated-bmw-7-series-and-i7-pre-bookings-open/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/225192/7-series-exterior-right-front-three-quarter.jpeg?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/225192/7-series-exterior-right-front-three-quarter.jpeg?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-01T10:33:11+00:00"
+    },
+    {
       "id": "933baa4343db491d",
       "title": "Toyota GRMN Corolla Price vs BMW M2 and Mustang Dark Horse",
       "summary": "The 2026 Toyota GRMN Corolla is priced at $64,360 — right alongside the BMW M2 and Ford Mustang Dark Horse. Here's how the value stacks up.",
       "url": "https://www.topspeed.com/toyota-grmn-corolla-price-bmw-m2-dark-horse/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-5.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-5.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-grmn-corolla.jpg?q=49&fit=contain&w=2048&h=1152&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-grmn-corolla-2.jpg?q=49&fit=contain&w=2048&h=1152&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-9.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-11.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-5.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -192,7 +229,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/mini-cooper-r53-front_0.jpg?itok=3wQSajnh",
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/21d6d23c-3c97-4615-91d1-4977ba4b146b.jpg?itok=omgnOhqm"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -214,14 +251,14 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0o5PJE1Y/s200/matt-payne-grove-racing.webp",
-        "https://cdn-4.motorsport.com/images/amp/0LdeZVN0/s200/nico-hulkenberg-audi-f1-team.webp",
-        "https://cdn-2.motorsport.com/images/amp/YN7vX336/s200/max-verstappen-red-bull-racing.webp",
-        "https://cdn-9.motorsport.com/images/amp/01QNJOe0/s200/dallara-ir-28-detail-2.webp",
-        "https://cdn-8.motorsport.com/images/amp/6b8ZKvB2/s200/dallara-ir-28-detail.webp"
+        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+        "https://cdn-4.motorsport.com/images/amp/Y9lNoXL2/s200/elfyn-evans-scott-martin-toyot.webp",
+        "https://cdn-7.motorsport.com/images/amp/YvKBQxj6/s200/luca-marini-honda-hrc.webp",
+        "https://cdn-1.motorsport.com/images/amp/YBVo537Y/s200/alexander-albon-carlos-sainz-w.webp",
+        "https://cdn-3.motorsport.com/images/amp/0o5PJE1Y/s200/matt-payne-grove-racing.webp",
+        "https://cdn-9.motorsport.com/images/amp/0LdeZVN0/s200/nico-hulkenberg-audi-f1-team.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -232,9 +269,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -301,22 +338,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
-    },
-    {
-      "id": "07279bdbf26010bb",
-      "title": "El BMW X7 de Audi ya tiene precio en España, un todocamino que llega con mayor tamaño que el Audi Q7 y motor V6 diésel de 299 CV",
-      "summary": "Queda mucho por repartirse entre los fabricantes europeos de automóviles en lo que se refiere a mercado de lujo, ya que los márgenes que dejan los coches comercializados en este tipo de categorías, unido a volúmenes a tener en cuenta, hacen que incluso en tiempos de coches eléctricos sea muy beneficioso para muchas marcas seguir innovando en esta parcela de mercado, tal y como demuestra el último lanzamiento de Audi . Se trata del Audi Q9 , un todocamino incluso de mayor tamaño que el Audi Q7 , que en realidad decreció en su última generación para dejar paso al nuevo modelo, y del que ya…",
-      "url": "https://www.diariomotor.com/noticia/audi-q9-2026-precio-espana/",
-      "image": "https://www.diariomotor.com/imagenes/2026/07/Precio-Audi-Q9-Espana-6a6b43c67aa21.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/07/Precio-Audi-Q9-Espana-6a6b43c67aa21.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-07-31T09:30:21+00:00"
     },
     {
       "id": "f7ccfb0d7b7d3607",
@@ -384,22 +408,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
-    },
-    {
-      "id": "6e05d76b592b3799",
-      "title": "BMW congela su rival del Mercedes Clase G: su CEO admite que China obliga a revisar toda la gama",
-      "summary": "Frontal de un BMW BMW ha aparcado el desarrollo del G74, el todoterreno con el que quería plantar cara al Mercedes Clase G. La caída de ventas en China y los nuevos aranceles han obligado a la marca a revisar toda su gama antes de dar luz verde al proyecto. BMW ha aparcado temporalmente el desarrollo de su gran rival para el Mercedes Clase G, el todoterreno conocido internamente como G74, un proyecto sobre el que BMW lleva tiempo trabajando en una respuesta más radical al todoterreno de la estrella . La causa no es técnica, sino de negocio : la caída de ventas en China y el endurecimiento…",
-      "url": "https://www.motor.es/noticias/bmw-g74-pausa-mercedes-clase-g-china.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/07/bmw-congela-su-rival-del-mercedes-clase-g-su-ceo-admite-que-china-obliga-a-revisar-toda-la-gama-2026115581-1785473147_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/07/bmw-congela-su-rival-del-mercedes-clase-g-su-ceo-admite-que-china-obliga-a-revisar-toda-la-gama-2026115581-1785473147_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-07-31T05:30:00+00:00"
     },
     {
       "id": "8917c7150ee3ddf4",
@@ -527,7 +538,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-x5-xdrive40i-103-6824bd4510093.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-30T15:57:00+00:00"
     },
@@ -592,7 +603,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -836,7 +847,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -989,7 +1000,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -1258,19 +1269,6 @@
       "published": "2026-07-27T05:46:57+00:00"
     },
     {
-      "id": "214aeb19064c0506",
-      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
-      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-27T01:00:00+00:00"
-    },
-    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -1528,7 +1526,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1648,19 +1646,6 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
-    },
-    {
-      "id": "20b48eddbbe7da8a",
-      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
-      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
-      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-18T13:00:00+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -1796,19 +1781,6 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
-    },
-    {
-      "id": "83ef33b4cdcfa12d",
-      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
-      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
-      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-16T13:07:00+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -2066,7 +2038,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2095,7 +2067,7 @@
         "https://cdn-7.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-5.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2191,19 +2163,6 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-10T22:36:13+00:00"
-    },
-    {
-      "id": "96d62d2e50948940",
-      "title": "Fiat Topolino EV Launched as a Modern-Day Bubble Car",
-      "summary": "Decades ago, “bubble” cars, like the BMW Isetta and the Goggomobil T250, filled the gap between motorcycles and regular cars. The category gradually disappeared as small, cheap econoboxes such as the original Mini arrived, but the Fiat Topolino launched in the United States for 2026 just resurrected it. Released in Europe in 2023 and closely […]",
-      "url": "https://www.hagerty.com/media/news/2026-fiat-topolino-ev-pricing-specs-launch-date/",
-      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/07/BU026_099EV-scaled.jpg",
-      "images": [
-        "https://media.hagerty.com/media/wp-content/uploads/2026/07/BU026_099EV-scaled.jpg"
-      ],
-      "source": "Hagerty News",
-      "source_url": "https://www.hagerty.com",
-      "published": "2026-07-10T14:00:00+00:00"
     },
     {
       "id": "95edf65b7a99ecf6",
@@ -2825,7 +2784,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
