@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-01T14:39:52.345838+00:00",
-  "generated_at_human": "2026-08-01 14:39 UTC",
-  "total_items": 313,
+  "generated_at": "2026-08-01T16:11:08.501098+00:00",
+  "generated_at_human": "2026-08-01 16:11 UTC",
+  "total_items": 311,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -39,12 +39,11 @@
     "BMW Blog i5",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
+    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -57,7 +56,6 @@
     "Electrek BMW",
     "Gaadiwaadi IN",
     "Hagerty News",
-    "Hooniverse",
     "Jalopnik",
     "Motor.es",
     "Motor1 BMW",
@@ -75,24 +73,67 @@
     "Paul Tan",
     "Racecar Engineering",
     "Response JP",
-    "RushLane IN",
-    "TopSpeed"
+    "The Drive"
   ],
-  "sources_count": 73,
+  "sources_count": 70,
   "multi_photo_items": 14,
   "items": [
     {
-      "id": "d7028143b08a33d5",
-      "title": "7k-Mile 2016 BMW Z4 sDrive35is M Sport",
-      "summary": "This 2016 BMW Z4 sDrive35is roadster was ordered with the M Sport Package, which added aerodynamic bodywork, adaptive M suspension, and M-branded interior accents. The car is powered by a twin-turbocharged 3.0L inline-six paired with a seven-speed dual-clutch automatic transmission, and it is finished in Black Sapphire Metallic over Black Kansas leather. Other equipment includes a retractable hardtop, a heated M steering wheel, 19\" Style 326M wheels, and heated Sport seats. The car was registered in Texas before the seller's 2022 purchase, and they have since added approximately 1k of the…",
-      "url": "https://bringatrailer.com/listing/2016-bmw-z4-sdrive35is-5/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_3366-scaled-copy-2026-07-31-9b9-04705.jpeg?w=940",
+      "id": "31711044d860e905",
+      "title": "Paul Miller Racing en vías de romper su vínculo con BMW M Motorsport",
+      "summary": "Desde el año 2022, Paul Miller Racing ha sido socio de BMW M Motorsport en el Campeonato IMSA SportsCar, reclamando el título de la clase GTD en la temporada de 2023 y luego pasando a la clase GTD Pro donde ha sumado múltiples victorias con el BMW M4 GT3 Evo, liderando actualmente la clasificación con los pilotos Connor De Phillippi y Neil Verhagen. Sin embargo, en predios de la categoría se cree que el equipo oriundo de Georgia comunicará de un momento a otro su separación del fabricante alemán para tomar un rumbo distinto, argumentando un aumento de los costes. Según la publicación…",
+      "url": "https://www.diariomotor.com/competicion/noticia/paul-miller-racing-romper-con-bmw-gtd-pro/",
+      "image": "https://www.diariomotor.com/imagenes/2026/08/Paul_Miller_Racing_BMW_IMSA_GTD_Pro_3_26_26-6a6e016c74592.jpg?class=XL",
       "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_3366-scaled-copy-2026-07-31-9b9-04705.jpeg?w=940"
+        "https://www.diariomotor.com/imagenes/2026/08/Paul_Miller_Racing_BMW_IMSA_GTD_Pro_3_26_26-6a6e016c74592.jpg?class=XL"
       ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-01T13:00:13+00:00"
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-08-01T17:51:03+00:00"
+    },
+    {
+      "id": "79a834574bb276b1",
+      "title": "Bubble Car Duo: Pair of 1957 BMW Isettas",
+      "summary": "In the early 1950s, a microcar was developed in Italy called the Isetta. Its egg-like shape earned it the nickname of “Bubble Car,” and it had a single door that opened in the front. They were licensed for manufacture... Read More »",
+      "url": "https://barnfinds.com/bubble-car-duo-pair-of-1957-bmw-isettas/",
+      "image": "https://barnfinds.com/wp-content/uploads/2026/08/3-e1785595033930-630x390.jpg",
+      "images": [
+        "https://barnfinds.com/wp-content/uploads/2026/08/3-e1785595033930-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/4-e1785595101974-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/2-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2021/05/Russ-Dixon-120x120.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/07/1967-Austin-Mini-Moke-01-e1784441689716-120x120.jpeg"
+      ],
+      "source": "BarnFinds",
+      "source_url": "https://barnfinds.com",
+      "published": "2026-08-01T16:00:00+00:00"
+    },
+    {
+      "id": "ae34428fe9bb8845",
+      "title": "Someone Turned a BMW M4 Competition xDrive Into a Pickup",
+      "summary": "It looks super clean, and it makes trips to Home Depot a lot more fun. The post Someone Turned a BMW M4 Competition xDrive Into a Pickup appeared first on The Drive .",
+      "url": "https://www.thedrive.com/news/someone-turned-a-bmw-m4-competition-xdrive-into-a-pickup",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_1533-scaled-24031.jpeg?quality=85",
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_1533-scaled-24031.jpeg?quality=85"
+      ],
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-08-01T16:00:00+00:00"
+    },
+    {
+      "id": "ed0c6a1cd6ddfc70",
+      "title": "El nuevo Audi Q9 ya tiene precios, así queda la gama del SUV que planta cara al Mercedes GLS y BMW X7",
+      "summary": "Precios y gama del nuevo Audi Q9 en España. Audi ha puesto a la venta su nuevo SUV. El Audi Q9 ya tiene precios en España. Llega el nuevo buque insignia de Audi para rivalizar, entre otros, con el Mercedes GLS y el BMW X7. Fabricado en Europa, el SUV Q9 se presenta con un enorme motor diésel V6. La familia SUV de Audi ha dado la bienvenida a su nuevo buque insignia. El debut en sociedad del Audi Q9 no ha pasado desapercibido. El «hermano mayor» del Audi Q7 es una realidad y llega dispuesto a poner en apuros a rivales tan importantes como el Mercedes GLS y el BMW X7. Todo está listo para su…",
+      "url": "https://www.motor.es/noticias/audi-q9-venta-espana-2026115607.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/audi-q9-venta-espana-2026115607-1785586276_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/audi-q9-venta-espana-2026115607-1785586276_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-01T16:00:00+00:00"
     },
     {
       "id": "f5e57e271f382183",
@@ -111,19 +152,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-01T13:00:00+00:00"
-    },
-    {
-      "id": "9e69bc79b3c339a5",
-      "title": "108 BaT Auctions Closing Today",
-      "summary": "1986 Ferrari 328 GTS No Reserve: 1999 Nissan Skyline GT-R V-Spec 1980 Porsche 911SC Weissach Coupe No Reserve: 12k-Mile 2008 BMW M3 Coupe 2025 Ford F-150 Raptor R SuperCrew 4×4 Hennessey VelociRaptoR 1000 306-Powered Factory Five Cobra Mk3 Roadster 5-Speed No Reserve: 1987 Mercedes-Benz 560SL 2016 Land Rover Range Rover SVAutobiography LWB Holland & Holland No Reserve: 2003 Porsche Boxster 5-Speed No Reserve: 2005 Jeep Wrangler Unlimited 6-Speed 2013 Mercedes-Benz E63 AMG Wagon No Reserve: 1948 Harley Davidson S-125 No Reserve: 1993 Ford F-150 XLT Lariat Flareside 4×4 1987 Porsche 911…",
-      "url": "https://bringatrailer.com/auctions/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/JX1A5271-63754.jpg?w=310&#38;h=210&#38;crop=1",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/JX1A5271-63754.jpg?w=310&#38;h=210&#38;crop=1"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-01T12:00:00+00:00"
     },
     {
       "id": "6f4ed5193c040d8f",
@@ -152,22 +180,6 @@
       "published": "2026-08-01T11:00:57+00:00"
     },
     {
-      "id": "b5935060397a5ad4",
-      "title": "2027 BMW 7 Series Bookings Open In India – Launch Soon",
-      "summary": "After its global debut in April 2026, the bookings for latest iteration of BMW 7 Series has been commenced for the Indian market The post 2027 BMW 7 Series Bookings Open In India – Launch Soon appeared first on RushLane .",
-      "url": "https://www.rushlane.com/2027-bmw-7-series-bookings-open-in-india-launch-soon-12552138.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-7-1068x601.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-10-1068x601.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-15-1068x601.jpg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-08-01T10:55:57+00:00"
-    },
-    {
       "id": "0391d9af2a48daa3",
       "title": "Updated BMW 7 Series and i7 Pre-Bookings Open",
       "summary": "Facelifts of BMW 7 Series and i7 will make its market launch in coming weeks. New features and updated powertrain expected.",
@@ -179,19 +191,6 @@
       "source": "CarWale IN",
       "source_url": "https://www.carwale.com",
       "published": "2026-08-01T10:33:11+00:00"
-    },
-    {
-      "id": "933baa4343db491d",
-      "title": "Toyota GRMN Corolla Price vs BMW M2 and Mustang Dark Horse",
-      "summary": "The 2026 Toyota GRMN Corolla is priced at $64,360 — right alongside the BMW M2 and Ford Mustang Dark Horse. Here's how the value stacks up.",
-      "url": "https://www.topspeed.com/toyota-grmn-corolla-price-bmw-m2-dark-horse/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-5.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-toyota-2026-grmn-corolla-5.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-01T10:00:10+00:00"
     },
     {
       "id": "b5809ae084a5560c",
@@ -267,7 +266,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -289,14 +288,14 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-8.motorsport.com/images/amp/2GdwPXKY/s200/max-verstappen-red-bull-racing.webp",
-        "https://cdn-4.motorsport.com/images/amp/YWKAwLeY/s200/esteban-ocon-haas-f1-team.webp",
-        "https://cdn-5.motorsport.com/images/amp/YP74br32/s200/carlos-sainz-williams.webp",
-        "https://cdn-3.motorsport.com/images/amp/Y9lNoXL2/s200/elfyn-evans-scott-martin-toyot.webp",
-        "https://cdn-5.motorsport.com/images/amp/YvKBQxj6/s200/luca-marini-honda-hrc.webp"
+        "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+        "https://cdn-1.motorsport.com/images/amp/YK15b710/s200/ferrari-499p-evo-test-a-monza.webp",
+        "https://cdn-6.motorsport.com/images/amp/2GdwPXKY/s200/max-verstappen-red-bull-racing.webp",
+        "https://cdn-8.motorsport.com/images/amp/YWKAwLeY/s200/esteban-ocon-haas-f1-team.webp",
+        "https://cdn-6.motorsport.com/images/amp/YP74br32/s200/carlos-sainz-williams.webp",
+        "https://cdn-3.motorsport.com/images/amp/Y9lNoXL2/s200/elfyn-evans-scott-martin-toyot.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -307,9 +306,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -350,7 +349,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -420,7 +419,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -615,7 +614,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -859,7 +858,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -980,11 +979,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/A260748_large-copy-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/07/A260748_large-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-101437-2048x1154.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-X5-L-China-7-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/04/Jetta-X-Concept-1-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/PCNA26_0040_fine-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/20260514_01_03-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/07/20260514_01_03-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Florida-Flying-Cars-plan-1-2048x1152.jpg"
       ],
       "source": "CarScoops Audi",
       "source_url": "https://www.carscoops.com",
@@ -1012,7 +1011,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -1051,7 +1050,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1551,7 +1550,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1933,7 +1932,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2118,7 +2117,7 @@
         "https://cdn-7.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
         "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-5.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-1.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2129,9 +2128,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2588,7 +2587,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2695,19 +2694,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -2835,7 +2821,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3013,26 +2999,13 @@
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "summary": "The #7 Toyota TR010 Hybrid that won the 2026 Le Mans 24 Hours was compromised by a sensor problem that left it as much as 8km/h down on power. Kamui Kobayashi, Mike Conway and Nyck de Vries took top honours in the 94th edition of the French endurance classic, driving the heavily-updated TR010 to the victory lane ahead of the #20 BMW M Hybrid V8 shared by Robin Frijns, Rene Rast and Sheldon van ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
       "published": "2026-06-15T10:46:25+00:00"
-    },
-    {
-      "id": "ecc0e5e199bfce2e",
-      "title": "BMW drivers admit “painful” 2026 Le Mans defeat “hurts”: “We were close”",
-      "summary": "BMW drivers admitted to feeling “hurt” by their narrow loss to Toyota in the Le Mans 24 Hours, having led various chunks of the race. The factory #20 BMW M Hybrid V8 shared by Robin Frijns, Sheldon van der Linde and Rene Rast finished second in the 94th endurance classic, just 10.9s behind the winning #7 Toyota TR010 Hybrid of Kamui Kobayashi, Mike Conway and Nyck de Vries. The German ... Keep reading",
-      "url": "https://www.motorsport.com/wec/news/bmw-drivers-say-painful-le-mans-defeat-hurts-we-were-close/10830529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-      "images": [
-        "https://cdn-4.motorsport.com/images/amp/YXypkOj6/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
-      ],
-      "source": "Motorsport WEC",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-06-15T09:34:11+00:00"
     },
     {
       "id": "ad4690fe6cc2f3f7",
@@ -3550,7 +3523,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3667,7 +3640,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
