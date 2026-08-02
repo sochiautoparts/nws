@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-01T22:07:36.957750+00:00",
-  "generated_at_human": "2026-08-01 22:07 UTC",
-  "total_items": 309,
+  "generated_at": "2026-08-02T00:07:55.978202+00:00",
+  "generated_at_human": "2026-08-02 00:07 UTC",
+  "total_items": 312,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar",
+    "AutoWeek News",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -38,14 +39,15 @@
     "BMW Blog i5",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -55,7 +57,6 @@
     "Electrek BMW",
     "Gaadiwaadi IN",
     "Hagerty News",
-    "Hooniverse",
     "Jalopnik",
     "Motor.es",
     "Motor1 BMW",
@@ -72,12 +73,24 @@
     "Paul Tan",
     "Racecar Engineering",
     "Response JP",
-    "RushLane IN",
     "The Drive"
   ],
   "sources_count": 70,
-  "multi_photo_items": 14,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "10246982dd6c74de",
+      "title": "2015 BMW M235i Convertible 6-Speed at No Reserve",
+      "summary": "This 2015 BMW M235i convertible is finished in Mineral Gray Metallic over Black SensaTec and is powered by a turbocharged 3.0-liter inline-six paired with a six-speed manual transmission. Equipment includes the Lighting Package, 18\" Style 436M alloy wheels, an adaptive M suspension, variable sport steering, M Sport brakes, adaptive xenon headlights, a power-operated convertible soft top, Park Distance Control, a rearview camera, front sport seats, a Harman Kardon sound system, automatic climate control, cruise control, and iDrive infotainment with navigation. The car remained registered in…",
+      "url": "https://bringatrailer.com/listing/2015-bmw-m235i-convertible-7/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/M235i_-_2559_9_of_312-scaled-copy-2026-07-24-ui8-12032.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/M235i_-_2559_9_of_312-scaled-copy-2026-07-24-ui8-12032.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-01T22:37:56+00:00"
+    },
     {
       "id": "2fd498f37b44d0ec",
       "title": "Canyon Carver: Woidwerk’s Custom BMW R12 G/S",
@@ -188,22 +201,6 @@
       "published": "2026-08-01T11:00:57+00:00"
     },
     {
-      "id": "b5935060397a5ad4",
-      "title": "2027 BMW 7 Series Bookings Open In India – Launch Soon",
-      "summary": "After its global debut in April 2026, the bookings for latest iteration of BMW 7 Series has been commenced for the Indian market The post 2027 BMW 7 Series Bookings Open In India – Launch Soon appeared first on RushLane .",
-      "url": "https://www.rushlane.com/2027-bmw-7-series-bookings-open-in-india-launch-soon-12552138.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-7-1068x601.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-10-1068x601.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-15-1068x601.jpg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-08-01T10:55:57+00:00"
-    },
-    {
       "id": "0391d9af2a48daa3",
       "title": "Updated BMW 7 Series and i7 Pre-Bookings Open",
       "summary": "Facelifts of BMW 7 Series and i7 will make its market launch in coming weeks. New features and updated powertrain expected.",
@@ -290,7 +287,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -315,11 +312,11 @@
       "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
         "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-7.motorsport.com/images/amp/6VyKZ4wY/s200/sami-pajari-marko-salminen-toy-2.webp",
-        "https://cdn-5.motorsport.com/images/amp/6lmdbbK0/s200/fernando-alonso-aston-martin-r.webp",
-        "https://cdn-8.motorsport.com/images/amp/6DGglG4Y/s200/sebastien-ogier-julien-ingrass.webp",
-        "https://cdn-7.motorsport.com/images/amp/YK15b710/s200/ferrari-499p-evo-test-a-monza.webp",
-        "https://cdn-4.motorsport.com/images/amp/2GdwPXKY/s200/max-verstappen-red-bull-racing.webp"
+        "https://cdn-3.motorsport.com/images/amp/27No7RX0/s200/gettyimages-2287937010.webp",
+        "https://cdn-5.motorsport.com/images/amp/25dLeJQ0/s200/lewis-hamilton-ferrari-max-ver-2.webp",
+        "https://cdn-1.motorsport.com/images/amp/0Zq8Xqd6/s200/sebastien-ogier-julien-ingrass.webp",
+        "https://cdn-2.motorsport.com/images/amp/6x7LPGJY/s200/93-acura-meyer-shank-racing-w-.webp",
+        "https://cdn-9.motorsport.com/images/amp/6VyKZ4wY/s200/sami-pajari-marko-salminen-toy-2.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -360,7 +357,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -430,7 +427,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -625,7 +622,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -869,7 +866,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -1022,7 +1019,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -1061,7 +1058,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1289,6 +1286,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-27T05:46:57+00:00"
+    },
+    {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
     },
     {
       "id": "27f04a46093ce7f8",
@@ -1527,6 +1537,19 @@
       "published": "2026-07-22T20:15:00+00:00"
     },
     {
+      "id": "8c993a2db33dc229",
+      "title": "Acura’s Biggest SUV Yet Could Arrive in 2029",
+      "summary": "A three-row hybrid crossover positioned above the MDX could arrive in 2029, finally giving Acura a rival for the Lexus TX, BMW X7 and Mercedes-Benz GLS.",
+      "url": "https://www.autoweek.com/news/a73221414/acura-biggest-suv-2029/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-07-21T21:24:09+00:00"
+    },
+    {
       "id": "2f081b63c2baacd8",
       "title": "BMW Has an EV Lineup Worth Shopping. Here’s the Order",
       "summary": "BMW has more electric cars on sale, or about to be, than at any point in its history, and not surprisingly, the newest ones are also the best ones. Also, for years, the choice was... First published by https://www.bmwblog.com",
@@ -1535,7 +1558,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1655,6 +1678,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
+    },
+    {
+      "id": "20b48eddbbe7da8a",
+      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
+      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
+      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-18T13:00:00+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -1792,6 +1828,19 @@
       "published": "2026-07-16T13:31:38+00:00"
     },
     {
+      "id": "83ef33b4cdcfa12d",
+      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
+      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
+      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-16T13:07:00+00:00"
+    },
+    {
       "id": "1800391f6a588643",
       "title": "2028 BMW M3 Sounds Properly Good In New Spy Video",
       "summary": "Even though BMW still hasn’t shown us the next-generation 3 Series Sedan, work is already well underway on the M3. The regular G50 will break cover in the coming months, potentially alongside the M350 M... First published by https://www.bmwblog.com",
@@ -1891,7 +1940,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2653,19 +2702,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3495,7 +3531,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3612,7 +3648,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
