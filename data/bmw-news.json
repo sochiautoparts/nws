@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-02T00:07:55.978202+00:00",
-  "generated_at_human": "2026-08-02 00:07 UTC",
-  "total_items": 312,
+  "generated_at": "2026-08-02T04:33:49.093971+00:00",
+  "generated_at_human": "2026-08-02 04:33 UTC",
+  "total_items": 314,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -39,6 +39,7 @@
     "BMW Blog i5",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
@@ -57,6 +58,7 @@
     "Electrek BMW",
     "Gaadiwaadi IN",
     "Hagerty News",
+    "Hooniverse",
     "Jalopnik",
     "Motor.es",
     "Motor1 BMW",
@@ -72,12 +74,38 @@
     "Motorsport WEC",
     "Paul Tan",
     "Racecar Engineering",
-    "Response JP",
+    "RushLane IN",
     "The Drive"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 13,
+  "sources_count": 72,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "8ee422e6856232ba",
+      "title": "BMW Group’s Q2 Reveals the Real Cost of the China Reset",
+      "summary": "BMW Group just posted its worst Q2 profitability in years, and the company is not pretending otherwise. Group pre-tax earnings fell 35.1 percent to... The post BMW Group’s Q2 Reveals the Real Cost of the China Reset appeared first on BimmerFile .",
+      "url": "https://www.bimmerfile.com/2026/08/01/bmw-groups-q2-reveals-the-real-cost-of-the-china-reset/",
+      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152357/ix3_770_ix3_ix3-50-x-1600x1066.jpg",
+      "images": [
+        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152357/ix3_770_ix3_ix3-50-x-1600x1066.jpg"
+      ],
+      "source": "BimmerFile",
+      "source_url": "https://bimmerfile.com",
+      "published": "2026-08-02T01:38:00+00:00"
+    },
+    {
+      "id": "0af2c93566fd3253",
+      "title": "Garage Find: 1972 BMW 2002",
+      "summary": "BMW’s 2002 redefined the sedan. It wasn’t the fastest or the best-handling of its ilk. It’s not beautiful, nor was it cheap. But it had shades of all these attributes in a blend that somehow made it more than... Read More »",
+      "url": "https://barnfinds.com/garage-find-1972-bmw-2002/",
+      "image": "https://barnfinds.com/wp-content/uploads/2026/08/bmw2002prof-630x390.jpg",
+      "images": [
+        "https://barnfinds.com/wp-content/uploads/2026/08/bmw2002prof-630x390.jpg"
+      ],
+      "source": "BarnFinds",
+      "source_url": "https://barnfinds.com",
+      "published": "2026-08-02T00:12:13+00:00"
+    },
     {
       "id": "10246982dd6c74de",
       "title": "2015 BMW M235i Convertible 6-Speed at No Reserve",
@@ -201,6 +229,22 @@
       "published": "2026-08-01T11:00:57+00:00"
     },
     {
+      "id": "b5935060397a5ad4",
+      "title": "2027 BMW 7 Series Bookings Open In India – Launch Soon",
+      "summary": "After its global debut in April 2026, the bookings for latest iteration of BMW 7 Series has been commenced for the Indian market The post 2027 BMW 7 Series Bookings Open In India – Launch Soon appeared first on RushLane .",
+      "url": "https://www.rushlane.com/2027-bmw-7-series-bookings-open-in-india-launch-soon-12552138.html",
+      "image": "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
+      "images": [
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-6.jpg",
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-7-1068x601.jpg",
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-10-1068x601.jpg",
+        "https://www.rushlane.com/wp-content/uploads/2026/04/2027-bmw-7-series-and-i7-launched-15-1068x601.jpg"
+      ],
+      "source": "RushLane IN",
+      "source_url": "https://rushlane.com",
+      "published": "2026-08-01T10:55:57+00:00"
+    },
+    {
       "id": "0391d9af2a48daa3",
       "title": "Updated BMW 7 Series and i7 Pre-Bookings Open",
       "summary": "Facelifts of BMW 7 Series and i7 will make its market launch in coming weeks. New features and updated powertrain expected.",
@@ -240,19 +284,6 @@
       "published": "2026-08-01T07:36:34+00:00"
     },
     {
-      "id": "1a258ab932e32dfe",
-      "title": "BMW『3シリーズ』リコール追加 スタータ不具合で火災のおそれ",
-      "summary": "ビー・エム・ダブリューは7月30日、BMW『3シリーズ』の「320i Touring」および「320d xDrive」について国土交通省にリコール（回収・無償修理）を届け出た。リコール対象は各1台、合計2台。",
-      "url": "https://response.jp/article/2026/08/01/414765.html",
-      "image": "https://response.jp/imgs/rss/2231387.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2231387.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-07-31T22:00:02+00:00"
-    },
-    {
       "id": "6fb5fd385712241c",
       "title": "Track-Prepped E46 BMW M3, Factory Five 818, Buckeye Dream Machine: The Dopest Cars I Found For Sale Online",
       "summary": "Today we're taking a trip to the famed Twin Cities of Minnesota, an area I'm told \"exists\" and \"has people who live there.\"",
@@ -287,7 +318,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -312,11 +343,11 @@
       "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
         "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-3.motorsport.com/images/amp/27No7RX0/s200/gettyimages-2287937010.webp",
-        "https://cdn-5.motorsport.com/images/amp/25dLeJQ0/s200/lewis-hamilton-ferrari-max-ver-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/0Zq8Xqd6/s200/sebastien-ogier-julien-ingrass.webp",
-        "https://cdn-2.motorsport.com/images/amp/6x7LPGJY/s200/93-acura-meyer-shank-racing-w-.webp",
-        "https://cdn-9.motorsport.com/images/amp/6VyKZ4wY/s200/sami-pajari-marko-salminen-toy-2.webp"
+        "https://cdn-7.motorsport.com/images/amp/0Ldev8J0/s200/36-dxdt-racing-corvette-z06-gt.webp",
+        "https://cdn-4.motorsport.com/images/amp/27No7RX0/s200/gettyimages-2287937010.webp",
+        "https://cdn-7.motorsport.com/images/amp/25dLeJQ0/s200/lewis-hamilton-ferrari-max-ver-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/0Zq8Xqd6/s200/sebastien-ogier-julien-ingrass.webp",
+        "https://cdn-8.motorsport.com/images/amp/6x7LPGJY/s200/93-acura-meyer-shank-racing-w-.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -357,7 +388,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -427,7 +458,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -609,7 +640,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-30T11:28:50+00:00"
     },
@@ -622,7 +653,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -801,7 +832,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-and-2027-i3-1-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-29T13:12:51+00:00"
     },
@@ -866,7 +897,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -1019,7 +1050,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/_sb22463.jpg?itok=JR7VVO8n"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-28T11:24:02+00:00"
     },
@@ -1558,7 +1589,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1662,7 +1693,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2121,11 +2152,11 @@
       "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
         "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-7.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-7.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/6zoJGw70/s1000/34-racing-team-turkey-by-tf-co.jpg",
-        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-5.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
+        "https://cdn-7.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
+        "https://cdn-8.motorsport.com/images/amp/24QGMwNY/s300/ferrari-499p-2.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2702,6 +2733,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3531,7 +3575,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3648,7 +3692,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3960,7 +4004,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog X2",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-09T06:10:19+00:00"
     },
@@ -4106,19 +4150,6 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-06T14:48:16+00:00"
-    },
-    {
-      "id": "029ffef26231b3f5",
-      "title": "BMW Group Q1 2026: Neue Klasse Momentum in a Turbulent World",
-      "summary": "The numbers BMW Group posted this morning for Q1 2026 tell a story of a company navigating real external pressure without losing its footing.... The post BMW Group Q1 2026: Neue Klasse Momentum in a Turbulent World appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/05/06/bmw-group-q1-2026-neue-klasse-momentum-in-a-turbulent-world/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152422/ix3_850_ix3_ix3-50-x-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2025/12/04152422/ix3_850_ix3_ix3-50-x-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-05-06T14:34:34+00:00"
     },
     {
       "id": "439abf747da7b2fb",
