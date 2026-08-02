@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-02T12:12:25.319160+00:00",
-  "generated_at_human": "2026-08-02 12:12 UTC",
-  "total_items": 310,
+  "generated_at": "2026-08-02T14:42:54.572829+00:00",
+  "generated_at_human": "2026-08-02 14:42 UTC",
+  "total_items": 308,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -39,6 +39,7 @@
     "BMW Blog i5",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
@@ -54,10 +55,8 @@
     "CarScoops Rolls",
     "CarWale IN",
     "Diariomotor",
-    "Electrek",
     "Electrek BMW",
     "Hagerty News",
-    "Jalopnik",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
@@ -73,9 +72,22 @@
     "Racecar Engineering",
     "The Drive"
   ],
-  "sources_count": 68,
+  "sources_count": 67,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "a44e7d419fde04f1",
+      "title": "427-Powered Backdraft Racing Roadster 5-Speed",
+      "summary": "This Backdraft Racing Roadster was assembled in 2016 with an Iconic 427ci V8 linked to a Tremec five-speed manual transmission. The fiberglass body is finished in Monterey Red with Pearl White stripes, and elements consist of a roll hoop, chrome quick jack bumperettes, tinted sun visors, and a hood scoop. The cabin is trimmed in Dove leather upholstery and has a wood-rimmed steering wheel, and further vehicle details include an Edelbrock intake manifold and aluminum cylinder heads, a hydraulic roller camshaft, side-outlet exhaust pipes, 18\" Halibrand-style wheels, a BMW-style independent…",
+      "url": "https://bringatrailer.com/listing/backdraft-racing-roadster-56/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/1965_shelby_cobra_8955-45400-scaled-1-scaled-copy-2026-07-01-v7i-45742.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/1965_shelby_cobra_8955-45400-scaled-1-scaled-copy-2026-07-01-v7i-45742.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-02T13:40:18+00:00"
+    },
     {
       "id": "2101ad09594acb81",
       "title": "71 BaT Auctions Closing Today",
@@ -153,19 +165,6 @@
       "source": "BarnFinds",
       "source_url": "https://barnfinds.com",
       "published": "2026-08-02T00:12:13+00:00"
-    },
-    {
-      "id": "10246982dd6c74de",
-      "title": "2015 BMW M235i Convertible 6-Speed at No Reserve",
-      "summary": "This 2015 BMW M235i convertible is finished in Mineral Gray Metallic over Black SensaTec and is powered by a turbocharged 3.0-liter inline-six paired with a six-speed manual transmission. Equipment includes the Lighting Package, 18\" Style 436M alloy wheels, an adaptive M suspension, variable sport steering, M Sport brakes, adaptive xenon headlights, a power-operated convertible soft top, Park Distance Control, a rearview camera, front sport seats, a Harman Kardon sound system, automatic climate control, cruise control, and iDrive infotainment with navigation. The car remained registered in…",
-      "url": "https://bringatrailer.com/listing/2015-bmw-m235i-convertible-7/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/M235i_-_2559_9_of_312-scaled-copy-2026-07-24-ui8-12032.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/M235i_-_2559_9_of_312-scaled-copy-2026-07-24-ui8-12032.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-01T22:37:56+00:00"
     },
     {
       "id": "2fd498f37b44d0ec",
@@ -303,19 +302,6 @@
       "published": "2026-08-01T07:49:00+00:00"
     },
     {
-      "id": "6fb5fd385712241c",
-      "title": "Track-Prepped E46 BMW M3, Factory Five 818, Buckeye Dream Machine: The Dopest Cars I Found For Sale Online",
-      "summary": "Today we're taking a trip to the famed Twin Cities of Minnesota, an area I'm told \"exists\" and \"has people who live there.\"",
-      "url": "https://www.jalopnik.com/2228016/track-prepped-bmw-m3-buckeye-dream-machine-dopest-cars-for-sale/",
-      "image": "https://www.jalopnik.com/img/gallery/track-prepped-e46-bmw-m3-factory-five-818-buckeye-dream-machine-the-dopest-cars-i-found-for-sale-online/l-intro-1785516816.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/track-prepped-e46-bmw-m3-factory-five-818-buckeye-dream-machine-the-dopest-cars-i-found-for-sale-online/l-intro-1785516816.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-07-31T20:45:00+00:00"
-    },
-    {
       "id": "7f3b8c1a0107f1e7",
       "title": "BMW iX5 Could Have A Smaller Carbon Footprint Than The X5 After 1-2 Years",
       "summary": "This just in: cars are bad for the environment. Even before an owner puts the first miles on the odometer, much of the damage has already been done during the production process. The car could... First published by https://www.bmwblog.com",
@@ -337,7 +323,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -359,14 +345,14 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-2.motorsport.com/images/amp/0R7BdLV2/s200/oscar-piastri-mclaren-andrea-s.webp",
+        "https://cdn-6.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+        "https://cdn-4.motorsport.com/images/amp/YE9EeQqY/s200/esteban-ocon-mercedes.webp",
+        "https://cdn-5.motorsport.com/images/amp/68VwQbl2/s200/oliver-bearman-haas-f1-team.webp",
+        "https://cdn-5.motorsport.com/images/amp/0R7BdLV2/s200/oscar-piastri-mclaren-andrea-s.webp",
         "https://cdn-6.motorsport.com/images/amp/YBVjMeMY/s200/sami-pajari-marko-salminen-toy.webp",
-        "https://cdn-3.motorsport.com/images/amp/6b8ZjXw2/s200/carlos-sainz-williams.webp",
-        "https://cdn-7.motorsport.com/images/amp/6x7LMBjY/s200/lando-norris-mclaren.webp",
-        "https://cdn-3.motorsport.com/images/amp/24QerjAY/s200/start-action.webp"
+        "https://cdn-4.motorsport.com/images/amp/6b8ZjXw2/s200/carlos-sainz-williams.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -407,7 +393,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -464,7 +450,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -555,7 +541,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-EV-orders-open.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-07-30T17:29:25+00:00"
     },
@@ -646,7 +632,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-3-830x588.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-30T11:28:50+00:00"
     },
@@ -659,7 +645,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -838,7 +824,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-and-2027-i3-1-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-29T13:12:51+00:00"
     },
@@ -890,7 +876,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/audi-q9-2026-023.jpg?itok=uRy7zujE"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-29T01:00:00+00:00"
     },
@@ -976,19 +962,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-07-28T16:09:36+00:00"
-    },
-    {
-      "id": "aaa768725b8981cd",
-      "title": "These Vehicles Are Dead for 2027",
-      "summary": "Pour one out for greats like the BMW Z4, Lexus LC, Toyota GR Supra, and more.",
-      "url": "https://www.caranddriver.com/news/g71122494/dead-cars-trucks-2027/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
-      ],
-      "source": "Car and Driver News",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-28T14:46:00+00:00"
     },
     {
       "id": "df00b7473a8c2aa4",
@@ -1556,7 +1529,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1591,9 +1564,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1938,7 +1911,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2134,9 +2107,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3005,9 +2978,9 @@
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "summary": "The #7 Toyota TR010 Hybrid that won the 2026 Le Mans 24 Hours was compromised by a sensor problem that left it as much as 8km/h down on power. Kamui Kobayashi, Mike Conway and Nyck de Vries took top honours in the 94th edition of the French endurance classic, driving the heavily-updated TR010 to the victory lane ahead of the #20 BMW M Hybrid V8 shared by Robin Frijns, Rene Rast and Sheldon van ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0mXR5Da6/s6/winners-7-toyota-racing-toyota.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
