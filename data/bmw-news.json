@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-03T19:53:25.372405+00:00",
-  "generated_at_human": "2026-08-03 19:53 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-03T21:17:37.008979+00:00",
+  "generated_at_human": "2026-08-03 21:17 UTC",
+  "total_items": 291,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -37,23 +37,24 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
-    "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Car and Driver",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Volvo",
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
     "Hooniverse",
+    "InsideEVs",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
@@ -65,11 +66,82 @@
     "Motorsport All",
     "Motorsport MotoGP",
     "Motorsport WEC",
+    "Quatro Rodas BR",
     "Racecar Engineering"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 13,
+  "sources_count": 64,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "7c8a5bab9c9b16ba",
+      "title": "The Rivian R2 Will Let You Drift Like Chris Harris Until the Tires Blow Up",
+      "summary": "You might not expect an electric off-road SUV to slide like an old-school BMW M3, but the R2 is a shockingly capable driving machine.",
+      "url": "https://insideevs.com/news/803630/rivian-r2-drift-tire-explodes/",
+      "image": "https://cdn.motor1.com/images/mgl/KbgzqN/s3/2027-rivian-r2-first-drive-on--and-off-road.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/KbgzqN/s3/2027-rivian-r2-first-drive-on--and-off-road.jpg"
+      ],
+      "source": "InsideEVs",
+      "source_url": "https://insideevs.com",
+      "published": "2026-08-03T21:06:34+00:00"
+    },
+    {
+      "id": "067412289e0e72e6",
+      "title": "BMW iX3 Production at Risk After Hungary Nuclear Shutdown",
+      "summary": "BMW’s production targets for its new all-electric iX3 are facing an unlikely threat this summer: a river running too low to cool a nuclear reactor. Record heat and drought across Central Europe have pushed Danube... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/03/bmw-ix3-hungary-nuclear-shutdown-production/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/09/bmw-plant-debrecen-top-view-00-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2025/09/bmw-plant-debrecen-top-view-00-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "ed6e43a884f781b9",
+      "title": "BMW cancela projeto de SUV off-road raiz rival de Mercedes Classe G e Defender",
+      "summary": "Projeto de jipão não recebe aprovação da diretoria e expõe mudança de rota da montadora diante da queda de vendas na China",
+      "url": "https://quatrorodas.abril.com.br/noticias/bmw-cancela-projeto-de-suv-off-road-raiz-rival-de-mercedes-classe-g-e-defender/",
+      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/03/BMW-iX3-50-xDrive-Spacesilver-179-copy.jpg",
+      "images": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/03/BMW-iX3-50-xDrive-Spacesilver-179-copy.jpg",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2024/03/bmw_vision_neue_klasse_x_75-1-1-e1711038415431.jpeg?quality=70&strip=info&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/07/BMW_02.jpg?quality=70&strip=info&w=1024&crop=1",
+        "https://assine.abril.com.br/wp-content/uploads/capas/4rodas_impresso.jpg?v=1785499252&resize=209,275",
+        "https://assine.abril.com.br/wp-content/uploads/capas/veja_impresso.jpg?v=1785499252&resize=209,275",
+        "https://assine.abril.com.br/wp-content/uploads/capas/super_impresso.jpg?v=1785499252&resize=209,275"
+      ],
+      "source": "Quatro Rodas BR",
+      "source_url": "https://quatrorodas.abril.com.br",
+      "published": "2026-08-03T21:00:33+00:00"
+    },
+    {
+      "id": "e156bcb3cc186576",
+      "title": "Wassermangel stoppt Atomkraft: BMW iX3-Produktion in Ungarn unter Druck",
+      "summary": "Hinter den angestrebten Produktionszielen für den BMW iX3 (NA5) im Werk Debrecen steht aufgrund der extremen Hitze des Sommers 2026 ein Fragezeichen: Weil die Donau...",
+      "url": "https://www.bimmertoday.de/2026/08/03/wassermangel-stoppt-atomkraft-bmw-ix3-produktion-in-ungarn-unter-druck/",
+      "image": "https://vg09.met.vgwort.de/na/47ba76d7488d4718984dd5db4fa4fad3",
+      "images": [
+        "https://vg09.met.vgwort.de/na/47ba76d7488d4718984dd5db4fa4fad3"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-03T20:32:37+00:00"
+    },
+    {
+      "id": "1eac0e0fb6dfebef",
+      "title": "One-Owner, 20k-Mile 2016 BMW Alpina B6 xDrive Gran Coupe at No Reserve",
+      "summary": "This 2016 BMW Alpina B6 xDrive Gran Coupe was acquired new by the current owner at BMW of Monterey and added to his collection, accruing 20k miles since. It is powered by a twin-turbocharged 4.4-liter V8 that drives all four wheels through an eight-speed automatic transmission and is finished in Moonstone Metallic over Amaro Brown Individual extended leather and red-brown Sycamore wood trim. Equipment includes adaptive LED headlights, a sunroof, a surround-view camera, 20\" Alpina Classic wheels, Bang & Olufsen sound, soft-close doors, power-adjustable comfort seats with active ventilation,…",
+      "url": "https://bringatrailer.com/listing/2016-bmw-alpina-b6-xdrive-gran-coupe-5/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2015_B6_Alpina-248-copy-2026-07-07-ij1-45280.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/2015_B6_Alpina-248-copy-2026-07-07-ij1-45280.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-03T20:20:07+00:00"
+    },
     {
       "id": "3c45d5ce949687ff",
       "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
@@ -84,7 +156,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/63904ba0-eaeb-4c0c-a571-27e29de125ac.jpg?resize=980:*",
         "https://hips.hearstapps.com/hmg-prod/images/86c77a1c-14b2-47a3-9d75-d575155ae8b5.jpg?resize=640:*"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-03T18:37:00+00:00"
     },
@@ -110,7 +182,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/2027-bmw-x7-g67-04-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T14:30:29+00:00"
     },
@@ -121,12 +193,7 @@
       "url": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/08/novo-lexus-es-350h-lancamento-brasil-preco.ghtml",
       "image": "https://s2-autoesporte.glbimg.com/BH6PDrI_SnUNBJ7ARr4mz2WRIBA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/C/E/AAeKrbTvOMDZ3HdLQv3w/lexuses500e-dianteira02.jpg",
       "images": [
-        "https://s2-autoesporte.glbimg.com/BH6PDrI_SnUNBJ7ARr4mz2WRIBA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/C/E/AAeKrbTvOMDZ3HdLQv3w/lexuses500e-dianteira02.jpg",
-        "https://s2-autoesporte.glbimg.com/BQMwXMEcVptRGvt8qddyAipgX1I=/0x0:1920x1280/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/C/E/AAeKrbTvOMDZ3HdLQv3w/lexuses500e-dianteira02.jpg",
-        "https://s2-autoesporte.glbimg.com/UYjPG0OD5L_aPYNKSVKRRr571Pc=/0x0:1920x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/a/6/Hy26DIQ96S4HlMLn4jBw/lexus-es-350h-lateral.jpg",
-        "https://s2-autoesporte.glbimg.com/kKLh2X_vYTCm5y7LyZpqJxwdlXQ=/0x0:1920x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/a/6/Hy26DIQ96S4HlMLn4jBw/lexus-es-350h-lateral.jpg",
-        "https://s2-autoesporte.glbimg.com/bMoEPgsB898SruIbVSHSPyMJslQ=/0x0:1920x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/a/6/Hy26DIQ96S4HlMLn4jBw/lexus-es-350h-lateral.jpg",
-        "https://s2-autoesporte.glbimg.com/oVuWPBKVoHPmpfcxjm5QSFksGz4=/0x0:1920x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/a/6/Hy26DIQ96S4HlMLn4jBw/lexus-es-350h-lateral.jpg"
+        "https://s2-autoesporte.glbimg.com/BH6PDrI_SnUNBJ7ARr4mz2WRIBA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/C/E/AAeKrbTvOMDZ3HdLQv3w/lexuses500e-dianteira02.jpg"
       ],
       "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
@@ -163,9 +230,9 @@
       "title": "Early BMW Super Tourer and Polley Toyota recreation among Touring Car Rewind highlights",
       "summary": "Touring Car Rewind: South brought an array of retro tin-top machinery to Brands Hatch last weekend. Amid the nostalgia, 2013 British Touring Car champion Andrew Jordan in a Super Touring BMW and Ford Capri-mounted current BTCC star Charles Rainford were among those to catch the eye. Star Car: BMW 318i E36 Few Super Touring cars were as successful – or numerous – in period as BMW’s ... Keep reading",
       "url": "https://www.autosport.com/national/news/early-bmw-super-tourer-and-polley-toyota-recreation-among-touring-car-rewind-highlights/10843813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
+        "https://cdn-4.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -316,9 +383,9 @@
       "title": "IMSA Road America: Julien Andlauer leads Porsche 1-2 at halfway",
       "summary": "Julien Andlauer used a short-fill during the latest caution period to take the lead at the halfway point of the Motul SportsCar Endurance Grand Prix at Road America. Porsche Penske Motorsport held a 1-2, with Kevin Estre in the #6 Porsche 963 following Andlauer in the #7 sister car. The #24 BMW M Hybrid of BMW M Team WRT led the majority of the first half of the race at the 4.048-mile ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/imsa-road-america-julien-andlauer-leads-porsche-1-2-at-halfway/10843762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -344,12 +411,7 @@
       "url": "https://www.caranddriver.com/news/a73317780/1977-bmw-320i-bring-a-trailer-auction/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/16918d96-8f7e-4f23-948f-3142dbbc4042.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/16918d96-8f7e-4f23-948f-3142dbbc4042.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/d6b06f42-5813-421a-b275-255359849af6.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/b2b20c2c-89fc-49ee-bb97-725b0f890cab.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/27fc8911-6db9-45fb-b2c7-2002ac2db768.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/7b2593f7-7720-40b2-985a-54fbe4764c72.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center"
+        "https://hips.hearstapps.com/hmg-prod/images/16918d96-8f7e-4f23-948f-3142dbbc4042.jpg"
       ],
       "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
@@ -377,7 +439,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/06/2027-bmw-m350-prototype-09-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-02T07:37:44+00:00"
     },
@@ -406,19 +468,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-08-02T01:38:00+00:00"
-    },
-    {
-      "id": "2fd498f37b44d0ec",
-      "title": "Canyon Carver: Woidwerk’s Custom BMW R12 G/S",
-      "summary": "When BMW introduced the R12 G/S, it created a curious paradox within its dual-sp...",
-      "url": "https://www.bikeexif.com/canyon-carver-woidwerks-custom-bmw-r12-g-s",
-      "image": "https://images.bikeexif.com/2026/07/_1200x675_crop_center-center_82_line/WoidWerks-BMW-R12-GS-Custom-13.jpg?v=1785153070",
-      "images": [
-        "https://images.bikeexif.com/2026/07/_1200x675_crop_center-center_82_line/WoidWerks-BMW-R12-GS-Custom-13.jpg?v=1785153070"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-08-01T18:00:00+00:00"
     },
     {
       "id": "f5e57e271f382183",
@@ -486,7 +535,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -508,9 +557,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -538,7 +587,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -582,7 +631,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -678,19 +727,6 @@
       "published": "2026-07-30T14:30:00+00:00"
     },
     {
-      "id": "13e2eb76fa9583a0",
-      "title": "BMW Brings Together All 20 Art Cars For The First Time",
-      "summary": "Possibly a once-in-a-lifetime opportunity, all 20 Art Cars are together under the same roof at the BMW Welt. A monumental logistical effort made it possible for the German luxury automaker to bring these rolling art... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/30/all-bmw-art-cars-one-place/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-Art-Cars-8-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-Art-Cars-8-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-30T13:40:44+00:00"
-    },
-    {
       "id": "1f37175d7f3472a8",
       "title": "The Standard BMW i3 Goes On Sale In Europe In Late September",
       "summary": "Due to popular demand, the i3 has gone on sale in Europe sooner than originally planned. The First Edition has been available across Europe since mid-June, months ahead of BMW’s initial plan to roll out... First published by https://www.bmwblog.com",
@@ -712,7 +748,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -794,11 +830,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-CEO-and-plant-00003-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-CEO-and-plant-00003-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/07/A243000_large-copy-1-2048x1153.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-CEO-and-plant-00001-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-CEO-and-plant-00002-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/new-compass-4xe-4wd-lock-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/670786-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/670786-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/DB2024FA00021_large-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -868,19 +904,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-29T05:56:59+00:00"
-    },
-    {
-      "id": "f54f20469bc45496",
-      "title": "Beginner’s Luck: Adam Vanhooser's BMW K 1100 Café Racer",
-      "summary": "Every week, the digital pages of Bike EXIF are graced by the world’s elite custo...",
-      "url": "https://www.bikeexif.com/adam-vanhooser-bmw-k1100-caf%C3%A9-racer",
-      "image": "https://images.bikeexif.com/2026/07/_1200x675_crop_center-center_82_line/Adam-Vanhooser-BMW-K-1100-8.jpeg?v=1783089501",
-      "images": [
-        "https://images.bikeexif.com/2026/07/_1200x675_crop_center-center_82_line/Adam-Vanhooser-BMW-K-1100-8.jpeg?v=1783089501"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
-      "published": "2026-07-29T05:00:00+00:00"
     },
     {
       "id": "8f6ebaff11d4e0c8",
@@ -1193,19 +1216,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-27T07:05:10+00:00"
-    },
-    {
-      "id": "4a35786da3215b8f",
-      "title": "Mehr Platz, mehr Luxus: So kommt die BMW X5 Langversion G78 für China",
-      "summary": "Mit der neuen BMW X5 Langversion (G78) wird der G65 zum geräumigen Luxus-SUV für besonders Anspruchsvolle: Der um 13 Zentimeter verlängerte Radstand schafft nicht nur...",
-      "url": "https://www.bimmertoday.de/2026/07/27/mehr-platz-mehr-luxus-so-kommt-die-bmw-x5-langversion-g78-fur-china/",
-      "image": "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/2027-BMW-X5-Langversion-G78-China-iX5-LWB-G65-Interieur-04.jpg",
-      "images": [
-        "https://cdn.bimmertoday.de/wp-content/uploads/2026/07/2027-BMW-X5-Langversion-G78-China-iX5-LWB-G65-Interieur-04.jpg"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-07-27T06:30:26+00:00"
     },
     {
       "id": "214aeb19064c0506",
@@ -1964,7 +1974,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3329,7 +3339,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3433,7 +3443,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3540,6 +3550,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
