@@ -1,12 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-03T18:02:03.022889+00:00",
-  "generated_at_human": "2026-08-03 18:02 UTC",
-  "total_items": 291,
+  "generated_at": "2026-08-03T19:53:25.372405+00:00",
+  "generated_at_human": "2026-08-03 19:53 UTC",
+  "total_items": 289,
   "sources_used": [
     "Auto Bild ES",
-    "Auto Esporte Carros",
+    "Auto Esporte BR",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autocar BMW M",
     "Autosport All",
     "Autosport WEC",
@@ -36,19 +37,19 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarScoops Audi",
     "CarScoops BMW",
-    "CarScoops Volvo",
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
@@ -61,7 +62,6 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "MotorBeam IN",
-    "Motorious",
     "Motorsport All",
     "Motorsport MotoGP",
     "Motorsport WEC",
@@ -70,6 +70,24 @@
   "sources_count": 62,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/aea06bd5-d2d9-4f85-a0a4-56fbdb133907.jpg?crop=1xw:0.999875015623047xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/10009cb3-4838-4205-b113-90abc4038489.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/63904ba0-eaeb-4c0c-a571-27e29de125ac.jpg?resize=980:*",
+        "https://hips.hearstapps.com/hmg-prod/images/86c77a1c-14b2-47a3-9d75-d575155ae8b5.jpg?resize=640:*"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
+    },
     {
       "id": "1765b74eb27bbbb6",
       "title": "Pfaff Motorsports anunció su salida de la clase GTD Pro al término de esta temporada",
@@ -84,19 +102,6 @@
       "published": "2026-08-03T18:03:43+00:00"
     },
     {
-      "id": "96019913bf8e8c9d",
-      "title": "25k-Mile 2012 BMW M3 Coupe Competition Package",
-      "summary": "This 2012 BMW M3 coupe is finished in Jerez Black Metallic over Bamboo Beige leather and was optioned with a seven-speed dual-clutch transmission, the Competition and Premium packages, Enhanced Premium Sound, and iDrive with navigation. Power is provided by a 4.0-liter V8, and equipment includes a Dinan exhaust system, a limited-slip differential, xenon headlights, aftermarket carbon-fiber exterior trim, rear parking sensors, and 19\" Style 359 wheels as well as keyless entry and heated front seats. The current owner acquired the car on BaT in February 2019 and has since added approximately…",
-      "url": "https://bringatrailer.com/listing/2012-bmw-m3-coupe-62/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/DSC_-1000-scaled-copy-2026-07-20-9g3-75173.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/DSC_-1000-scaled-copy-2026-07-20-9g3-75173.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-03T17:47:16+00:00"
-    },
-    {
       "id": "a4006629828cabd2",
       "title": "New BMW X7 And 3 Series Spied Together In Las Vegas",
       "summary": "BMW has plans to roll out approximately 40 new or updated models by the end of 2027. Granted, we’ve already seen some of them, starting with last year’s iX3 and continuing with this year’s i3... First published by https://www.bmwblog.com",
@@ -105,14 +110,14 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/2027-bmw-x7-g67-04-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T14:30:29+00:00"
     },
     {
       "id": "5648f2a4d5c0251b",
       "title": "Novo Lexus ES chega ao Brasil com tamanho de BMW Série 5 e preço de Série 3",
-      "summary": "O novo Lexus ES acaba de ser apresentado no Brasil. A oitava geração do sedã de luxo foi lançada em abril de 2025 no exterior e chega às lojas da marca no país no final de outubro. Inicialmente, chega a versão híbrida plena ES 350h, em pré-venda por R$ 399.990. O preço é só um pouco mais alto que os R$ 390.950 pedidos pela BMW no Série 3 M Sport, um modelo menor e sem qualquer nível de eletrificação. No entanto, em porte (veja números mais abaixo), o Lexus é concorrente direto do BMW Série 5, que já passa dos R$ 600 mil na variante híbrida plug-in. Lexus ES 350h lateral Divulgação Apesar…",
+      "summary": "O novo Lexus ES acaba de ser apresentado no Brasil. A oitava geração do sedã de luxo foi lançada em abril de 2025 no exterior e chega às lojas da marca no país no final de outubro. Inicialmente, chega a versão híbrida plena ES 350h, em pré-venda por R$ 399.990. O preço é só um pouco mais alto que os R$ 390.950 pedidos pela BMW no Série 3 M Sport, um modelo menor e sem qualquer nível de eletrificação. No entanto, em porte (veja números mais abaixo), o Lexus é concorrente direto do BMW Série 5, que já passa dos R$ 600 mil na variante híbrida plug-in. Lexus ES 350h tem preço de BMW Série 3 e…",
       "url": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/08/novo-lexus-es-350h-lancamento-brasil-preco.ghtml",
       "image": "https://s2-autoesporte.glbimg.com/BH6PDrI_SnUNBJ7ARr4mz2WRIBA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/C/E/AAeKrbTvOMDZ3HdLQv3w/lexuses500e-dianteira02.jpg",
       "images": [
@@ -123,7 +128,7 @@
         "https://s2-autoesporte.glbimg.com/bMoEPgsB898SruIbVSHSPyMJslQ=/0x0:1920x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/a/6/Hy26DIQ96S4HlMLn4jBw/lexus-es-350h-lateral.jpg",
         "https://s2-autoesporte.glbimg.com/oVuWPBKVoHPmpfcxjm5QSFksGz4=/0x0:1920x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/a/6/Hy26DIQ96S4HlMLn4jBw/lexus-es-350h-lateral.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-03T14:30:21+00:00"
     },
@@ -158,9 +163,9 @@
       "title": "Early BMW Super Tourer and Polley Toyota recreation among Touring Car Rewind highlights",
       "summary": "Touring Car Rewind: South brought an array of retro tin-top machinery to Brands Hatch last weekend. Amid the nostalgia, 2013 British Touring Car champion Andrew Jordan in a Super Touring BMW and Ford Capri-mounted current BTCC star Charles Rainford were among those to catch the eye. Star Car: BMW 318i E36 Few Super Touring cars were as successful – or numerous – in period as BMW’s ... Keep reading",
       "url": "https://www.autosport.com/national/news/early-bmw-super-tourer-and-polley-toyota-recreation-among-touring-car-rewind-highlights/10843813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
+        "https://cdn-9.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -175,10 +180,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/03/BMW-M5-Touring-1Scoop-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/NOVITEC-F12CilSpi-Aero-Pic09-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Nissan-Rogue-crash-yard-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/Ferrari-10-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Revoy_solo_r1_copy-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/SB39653-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Revoy_solo_r1_copy-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -311,9 +316,9 @@
       "title": "IMSA Road America: Julien Andlauer leads Porsche 1-2 at halfway",
       "summary": "Julien Andlauer used a short-fill during the latest caution period to take the lead at the halfway point of the Motul SportsCar Endurance Grand Prix at Road America. Porsche Penske Motorsport held a 1-2, with Kevin Estre in the #6 Porsche 963 following Andlauer in the #7 sister car. The #24 BMW M Hybrid of BMW M Team WRT led the majority of the first half of the race at the 4.048-mile ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/imsa-road-america-julien-andlauer-leads-porsche-1-2-at-halfway/10843762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg"
+        "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -328,7 +333,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/NVEFnwlIHdPEe1L0zvJU3yNnRGI=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/U/zUVoYLQpeZBCO0t1BJIw/audi-q3-bmw-x1.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-02T15:00:11+00:00"
     },
@@ -372,7 +377,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/06/2027-bmw-m350-prototype-09-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-02T07:37:44+00:00"
     },
@@ -580,19 +585,6 @@
       "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
-    },
-    {
-      "id": "434bff487de9dea7",
-      "title": "This 1979 BMW M1 Was One of Only Three Built for BMW's Press Fleet",
-      "summary": "One of only three M1s BMW kept for its own press fleet, this single-owner, freshly restored 1979 example is for sale via RM Sotheby's Private Sales, and Hagerty's data shows just how volatile the M1 market has become.",
-      "url": "https://www.motorious.com/articles/bmw-2/this-1979-bmw-m1-was-one-of-only-a-remarkably-original-example-of-bmws-mid-engine-halo-car-has-quietly-surfaced-for-sale-and-its-backstory-reads-unlike-any-other-m1-on-the-market-chassi/",
-      "image": "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/07/1979-bmw-m1-rm-sothebys-feature-2.jpg",
-      "images": [
-        "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/07/1979-bmw-m1-rm-sothebys-feature-2.jpg"
-      ],
-      "source": "Motorious",
-      "source_url": "https://motorious.com",
-      "published": "2026-07-30T21:30:29+00:00"
     },
     {
       "id": "47e7b7303d76302b",
@@ -805,8 +797,8 @@
         "https://www.carscoops.com/wp-content/uploads/2026/07/A243000_large-copy-1-2048x1153.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-CEO-and-plant-00001-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/07/BMW-CEO-and-plant-00002-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/670786-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/DB2024FA00021_large-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/new-compass-4xe-4wd-lock-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/670786-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -1016,7 +1008,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1144,11 +1136,7 @@
       "url": "https://www.motor1.com/news/802834/genesis-hotter-performance-magma-models/",
       "image": "https://cdn.motor1.com/images/mgl/Mkgyq6/s3/genesis-magma-gt-concept-2026.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/Mkgyq6/s3/genesis-magma-gt-concept-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/6Z8REZ/s5/genesis-magma-gt3-concept-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/E6N2Ow/s5/genesis-magma-gt3-concept-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/zxJRj4/s5/genesis-magma-gt3-concept-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/vx8bjK/s5/genesis-magma-gt3-concept-2026.jpg"
+        "https://cdn.motor1.com/images/mgl/Mkgyq6/s3/genesis-magma-gt-concept-2026.jpg"
       ],
       "source": "Motor1 Genesis",
       "source_url": "https://www.motor1.com",
@@ -1443,6 +1431,19 @@
       "published": "2026-07-22T20:15:00+00:00"
     },
     {
+      "id": "8c993a2db33dc229",
+      "title": "Acura’s Biggest SUV Yet Could Arrive in 2029",
+      "summary": "A three-row hybrid crossover positioned above the MDX could arrive in 2029, finally giving Acura a rival for the Lexus TX, BMW X7 and Mercedes-Benz GLS.",
+      "url": "https://www.autoweek.com/news/a73221414/acura-biggest-suv-2029/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8fa0adf2-9f07-4043-b823-e9131b67cfd3.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-07-21T21:24:09+00:00"
+    },
+    {
       "id": "2f081b63c2baacd8",
       "title": "BMW Has an EV Lineup Worth Shopping. Here’s the Order",
       "summary": "BMW has more electric cars on sale, or about to be, than at any point in its history, and not surprisingly, the newest ones are also the best ones. Also, for years, the choice was... First published by https://www.bmwblog.com",
@@ -1451,7 +1452,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1820,7 +1821,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -1963,7 +1964,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2423,19 +2424,6 @@
       "published": "2026-06-30T15:01:00+00:00"
     },
     {
-      "id": "d1b4053d7de35eb0",
-      "title": "BMW Just Reinvented The X5. Here's What's New",
-      "summary": "Neue Klasse styling, five global powertrains, and a controversial design change mark BMW's boldest X5 yet.",
-      "url": "https://www.motor1.com/news/800117/2027-bmw-x5-horsepower-price-details/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z83rN/s3/2027-bmw-ix5.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/6Z83rN/s3/2027-bmw-ix5.jpg"
-      ],
-      "source": "Motor1 Design",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-06-30T15:00:00+00:00"
-    },
-    {
       "id": "fabf1b63e27ff6ce",
       "title": "BMW Never Made a 1M Hatchback. This Owner Built One Anyway",
       "summary": "BMW sold the 1M for one model year, as a two-door, and then walked away from it. No hatchback variant, no four-door, no version you could actually use to pick up two kids from school.... First published by https://www.bmwblog.com",
@@ -2444,7 +2432,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2691,7 +2679,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3341,7 +3329,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3445,7 +3433,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3552,19 +3540,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
