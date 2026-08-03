@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-02T22:06:41.016216+00:00",
-  "generated_at_human": "2026-08-02 22:06 UTC",
-  "total_items": 316,
+  "generated_at": "2026-08-03T00:08:38.147254+00:00",
+  "generated_at_human": "2026-08-03 00:08 UTC",
+  "total_items": 312,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -49,17 +49,18 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
-    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Rolls",
+    "CarScoops Volvo",
     "CarWale IN",
     "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
     "Hooniverse",
+    "HotCars",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Design",
@@ -78,9 +79,58 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 17,
+  "sources_count": 74,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "e566867180485b4b",
+      "title": "A Four-Year-Old BMW X5 Now Costs The Same As A New Toyota RAV4 Hybrid",
+      "summary": "A brand new RAV4 is not the same type of vehicle as a four-year-old BMW X5. However, a shopper may still want to consider them side by side.",
+      "url": "https://carbuzz.com/2022-bmw-x5-used-buy-versus-new-toyota-rav4-hybrid/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90325511_highres_the-new-bmw-x5-xdriv-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90325511_highres_the-new-bmw-x5-xdriv-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90325477_highres_the-new-bmw-x5-xdriv-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90325197_highres_the-new-bmw-x5-xdriv-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/cropped-my24_rav4_hybrid_xse_001.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90325522_highres_the-new-bmw-x5-xdriv-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-02T23:07:14+00:00"
+    },
+    {
+      "id": "21e1830ef3f2500b",
+      "title": "How BMW And Mercedes Invented The Sleeper Super-Sedan In The Same Year",
+      "summary": "How the BMW E39 M5 and Mercedes W210 E55 AMG independently invented the sleeper super sedan formula in 1998 and 1999.",
+      "url": "https://www.hotcars.com/how-bmw-and-mercedes-invented-the-sleeper-super-sedan-in-the-same-year/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e39-bmw-m5-wheel.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e39-bmw-m5-wheel.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e39-bmw-m5-cabin.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/mercedes-benz-e55-amg-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/e39-bmw-m5-engine.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/mercedes-benz-e55-amg-cabin.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/mercedes-benz-e55-amg-rear-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-02T22:48:12+00:00"
+    },
+    {
+      "id": "db4cbd64c0fa0744",
+      "title": "New BMW X5 (G65) Design Breakdown: What Changed",
+      "summary": "The video below is a full design breakdown of the all-new X5, generation by generation and panel by panel. We go front to back and inside, comparing the new car directly against the outgoing G05... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/02/new-bmw-x5-g65-design-breakdown-video/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/bmw-x5-design-00-830x465.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/bmw-x5-design-00-830x465.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-02T22:09:33+00:00"
+    },
     {
       "id": "ef6c7e48c3a7b852",
       "title": "BMW Brought a 1986 Works M5 to Le Mans, and It Never Raced Again",
@@ -156,11 +206,11 @@
       "title": "IMSA Road America: Julien Andlauer leads Porsche 1-2 at halfway",
       "summary": "Julien Andlauer used a short-fill during the latest caution period to take the lead at the halfway point of the Motul SportsCar Endurance Grand Prix at Road America. Porsche Penske Motorsport held a 1-2, with Kevin Estre in the #6 Porsche 963 following Andlauer in the #7 sister car. The #24 BMW M Hybrid of BMW M Team WRT led the majority of the first half of the race at the 4.048-mile ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/imsa-road-america-julien-andlauer-leads-porsche-1-2-at-halfway/10843762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
-        "https://cdn-4.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
-        "https://cdn-5.motorsport.com/images/amp/6O7zOZw6/s1000/7-porsche-penske-motorsport-po.webp",
+        "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s6/7-porsche-penske-motorsport-po.jpg",
+        "https://cdn-5.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
+        "https://cdn-2.motorsport.com/images/amp/6O7zOZw6/s1000/7-porsche-penske-motorsport-po.webp",
         "https://cdn.motorsport.com/images/mgl/6DGglD7Y/s1000/6-porsche-penske-motorsport-po.jpg",
         "https://cdn.motorsport.com/images/mgl/YK15K4B0/s1000/40-cadillac-wayne-taylor-racin.jpg",
         "https://cdn.motorsport.com/images/mgl/Y9lNoRx2/s1000/911-manthey-porsche-911-klaus-.jpg"
@@ -168,19 +218,6 @@
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
       "published": "2026-08-02T19:06:18+00:00"
-    },
-    {
-      "id": "751218c3ea39faac",
-      "title": "2018 BMW X5 xDrive35d",
-      "summary": "This 2018 BMW X5 xDrive35d is a Luxury Line example that was initially delivered to BMW of Fairfax in Virginia and remained registered with the original owner until 2026. The truck is powered by a turbodiesel 3.0-liter inline-six that drives all four wheels through an eight-speed automatic transmission and is finished in Mineral White Metallic over Mocha Dakota leather. Features include the Driving Assistance, Parking Assistance, Luxury, and Premium packages as well as a panoramic sunroof, xenon headlights, 19″ Style 449 alloy wheels, heated power-adjustable front seats, a head-up display,…",
-      "url": "https://bringatrailer.com/listing/2018-bmw-x5-xdrive35d-13/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_3832-scaled-copy-2026-07-22-m2y-40132.jpeg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_3832-scaled-copy-2026-07-22-m2y-40132.jpeg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-02T19:00:13+00:00"
     },
     {
       "id": "73192956c161300b",
@@ -496,11 +533,11 @@
       "image": "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
         "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
-        "https://cdn-1.motorsport.com/images/amp/6x7LZr1Y/s200/oliver-bearman-haas.webp",
-        "https://cdn-5.motorsport.com/images/amp/63Qaqww2/s200/77-ao-racing-porsche-911-nick--2.webp",
-        "https://cdn-7.motorsport.com/images/amp/6O7zOZw6/s200/7-porsche-penske-motorsport-po.webp",
-        "https://cdn-7.motorsport.com/images/amp/2jEAKv90/s200/sami-pajari-toyota-gazoo-racin-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/Y9lLxJ72/s200/hayden-paddon-hyundai-world-ra.webp"
+        "https://cdn-6.motorsport.com/images/amp/63Qaqww2/s200/77-ao-racing-porsche-911-nick--2.webp",
+        "https://cdn-2.motorsport.com/images/amp/0mXRpZg6/s200/10-cadillac-wayne-taylor-racin.webp",
+        "https://cdn-6.motorsport.com/images/amp/6x7LZr1Y/s200/oliver-bearman-haas.webp",
+        "https://cdn-1.motorsport.com/images/amp/6O7zOZw6/s200/7-porsche-penske-motorsport-po.webp",
+        "https://cdn-9.motorsport.com/images/amp/2jEAKv90/s200/sami-pajari-toyota-gazoo-racin-2.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -824,19 +861,6 @@
       "published": "2026-07-30T05:09:12+00:00"
     },
     {
-      "id": "abc252bfb11062d2",
-      "title": "Why BMW still sets the standard for luxury SUVs",
-      "summary": "SPONSORED: Few premium automotive brands combine luxury, technology and driver engagement like BMW does.",
-      "url": "https://www.carexpert.com.au/car-news/why-bmw-still-sets-the-standard-for-luxury-suvs",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2027_bmw_suvs-24.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2027_bmw_suvs-24.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-07-30T03:31:00+00:00"
-    },
-    {
       "id": "480c7d2afe177b89",
       "title": "BMW’s Rumored G-Class Rival Looks Increasingly Unlikely",
       "summary": "Plans for a rugged BMW SUV have reportedly stalled and it could be related to low projected sales",
@@ -866,19 +890,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-29T20:11:04+00:00"
-    },
-    {
-      "id": "d36f3aafb92248f3",
-      "title": "Qualcomm Just Became BMW’s Chip Supplier for the Next Decade",
-      "summary": "Qualcomm said on Wednesday it has signed a long-term deal to supply chips for BMW’s future digital cockpit and advanced driver-assistance systems, a partnership the two companies say will run through the next decade. The... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/29/qualcomm-bmw-chip-deal-digital-cockpit-adas/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-ix3-50-xdrive-review-12-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-ix3-50-xdrive-review-12-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-29T20:06:13+00:00"
     },
     {
       "id": "ea1ac86f01c1ca70",
@@ -1389,19 +1400,6 @@
       "published": "2026-07-27T05:46:57+00:00"
     },
     {
-      "id": "214aeb19064c0506",
-      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
-      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-27T01:00:00+00:00"
-    },
-    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -1476,9 +1474,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/0e0618e0-2efe-4930-bdb9-4786007f54c5.jpg?crop=0.889xw:0.750xh;0.104xw",
         "https://hips.hearstapps.com/hmg-prod/images/2a021208-3cd2-4e83-b990-83b94f50cd9f.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-x5-m-competition-lightning-lap-103-65cf7f33d7108.jpg?crop=0.644xw:0.542xh;0.240xw,0.362xh&resize=700:*",
         "https://hips.hearstapps.com/hmg-prod/images/95e6eaed-83cb-4495-83a4-87d8ea332497.jpg?crop=0.712xw:0.710xh;0.0817xw,0.179xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-101-684987b3c06db.jpg?crop=1.00xw:0.348xh;0,0.291xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-101-684987b3c06db.jpg?crop=1.00xw:0.348xh;0,0.291xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*"
       ],
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
@@ -1507,9 +1505,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/0e0618e0-2efe-4930-bdb9-4786007f54c5.jpg?crop=0.889xw:0.750xh;0.104xw",
         "https://hips.hearstapps.com/hmg-prod/images/2a021208-3cd2-4e83-b990-83b94f50cd9f.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-x5-m-competition-lightning-lap-103-65cf7f33d7108.jpg?crop=0.644xw:0.542xh;0.240xw,0.362xh&resize=700:*",
         "https://hips.hearstapps.com/hmg-prod/images/95e6eaed-83cb-4495-83a4-87d8ea332497.jpg?crop=0.712xw:0.710xh;0.0817xw,0.179xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-101-684987b3c06db.jpg?crop=1.00xw:0.348xh;0,0.291xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-101-684987b3c06db.jpg?crop=1.00xw:0.348xh;0,0.291xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*"
       ],
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
@@ -1768,19 +1766,6 @@
       "published": "2026-07-19T07:00:43+00:00"
     },
     {
-      "id": "20b48eddbbe7da8a",
-      "title": "From the Archive: 1993 Luxury Sedan Comparison Test",
-      "summary": "Dining at the luxury sedan table? Bring lots of money; because it's all prime meat. We compare the Audi V8 Quattro, BMW 740i, Cadillac STS, Jaguar XJ6, Lexus LS400, and Mercedes-Benz 400E and choose the choicest cut.",
-      "url": "https://www.caranddriver.com/reviews/a71871728/1993-audi-bmw-cadillac-jaguar-lexus-mercedes-benz-luxury-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/5a979d67-9ff3-4b6b-bf27-5148c1c3b677.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-18T13:00:00+00:00"
-    },
-    {
       "id": "a68057768c7eaf9c",
       "title": "See The BMW M3 Touring 24H Set Fifth-Fastest Goodwood Time",
       "summary": "It’s not every day that we see a wagon transformed into a race car tackle the famous Goodwood hill climb. The BMW M3 Touring 24H is unlike any other long-roof model Munich has ever built.... First published by https://www.bmwblog.com",
@@ -1914,19 +1899,6 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-16T13:31:38+00:00"
-    },
-    {
-      "id": "83ef33b4cdcfa12d",
-      "title": "Tested: 2001 Lexus IS300 Is an Alternate Take on the BMW 3-Series",
-      "summary": "From the archive: It isn't as much a clone of the BMW 3-series as it is a unique expression of the same genre.",
-      "url": "https://www.caranddriver.com/reviews/a71866996/2001-lexus-is300-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/10e8147d-a86c-427d-9d9f-e00e14d9e540.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-16T13:07:00+00:00"
     },
     {
       "id": "1800391f6a588643",
@@ -2558,19 +2530,6 @@
       "published": "2026-07-05T07:24:58+00:00"
     },
     {
-      "id": "5a7bfd7a19c6a8fa",
-      "title": "New BMW X5 And 7 Series Show Up Together At Film Festival",
-      "summary": "BMW isn’t missing a beat when it comes to supporting film festivals across Europe. It’s only been a couple of months since the 7 Series facelift made a splash at Cannes, and now the updated... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/05/new-bmw-x5-and-7-series-together-film-festival/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-at-the-2026-Karlovy-Vary-International-Film-Festival-1-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/BMW-at-the-2026-Karlovy-Vary-International-Film-Festival-1-830x554.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-05T06:24:59+00:00"
-    },
-    {
       "id": "a8886a2e9d4eafbd",
       "title": "Here’s How Every BMW Sold In The US During Q2 2026",
       "summary": "There are winners and losers whenever an automaker publishes a sales report, and BMW’s latest figures for the United States are no exception. The Q2 2026 results are in, showing what worked and what didn’t... First published by https://www.bmwblog.com",
@@ -2930,7 +2889,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3754,19 +3713,6 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
-      "id": "7916c0fbced4069a",
-      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
-      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
-      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
-      ],
-      "source": "CarScoops Alfa",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-25T14:54:00+00:00"
-    },
-    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3856,6 +3802,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
