@@ -1,15 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-04T23:16:21.300973+00:00",
-  "generated_at_human": "2026-08-04 23:16 UTC",
-  "total_items": 293,
+  "generated_at": "2026-08-05T03:27:56.733295+00:00",
+  "generated_at_human": "2026-08-05 03:27 UTC",
+  "total_items": 296,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "Auto Esporte BR",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -38,8 +38,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -48,13 +48,15 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "ClassicCars Journal",
-    "Diariomotor",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor.es",
     "Motor1 BMW",
@@ -68,24 +70,74 @@
     "Motorsport WEC",
     "Quatro Rodas BR",
     "Racecar Engineering",
+    "Response JP",
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 13,
+  "sources_count": 69,
+  "multi_photo_items": 15,
   "items": [
     {
-      "id": "cdbad7476a36e8a7",
-      "title": "15k-Mile 2017 BMW X5 sDrive35i at No Reserve",
-      "summary": "This 2017 BMW X5 sDrive35i has been driven 15k miles by its three owners in Florida, and it was ordered with the Premium and Driver Assistance Plus packages. They together provided a surround-view camera system, Active Driving Assistant, wireless charging, Comfort Access keyless entry, and four-zone automatic climate control. Power is provided by a turbocharged 3.0-liter inline-six paired with an eight-speed automatic transmission, and the truck was specified in Mineral White Metallic over an Ivory White and Black Nappa leather interior. Additional appointments include a panoramic sunroof,…",
-      "url": "https://bringatrailer.com/listing/2017-bmw-x5-sdrive35i-5-2/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/X5_-_2415_252842_of_2952529-scaled-49493-s5yV37-1-copy-2026-08-03-usf-96795.jpg?w=940",
+      "id": "43c188f1b4a6a54e",
+      "title": "BMW『K1600』シリーズの1034台をリコール、火災のおそれ",
+      "summary": "ビー・エム・ダブリューは7月30日、二輪車のBMW『K1600GT』、『K1600GTL』、『K1600B』について、国土交通省にリコール（回収・無償修理）を届け出た。対象は2型式3車種の計1034台。",
+      "url": "https://response.jp/article/2026/08/05/414933.html",
+      "image": "https://response.jp/imgs/rss/2232852.jpg",
       "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/X5_-_2415_252842_of_2952529-scaled-49493-s5yV37-1-copy-2026-08-03-usf-96795.jpg?w=940"
+        "https://response.jp/imgs/rss/2232852.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-08-05T01:45:03+00:00"
+    },
+    {
+      "id": "15dea22d0b452893",
+      "title": "Why This Dirt-Cheap, 300,000-Mile Inline-6 Classic Is BMW's Best-Kept Secret",
+      "summary": "It might be one of the used market's best-kept secrets.",
+      "url": "https://carbuzz.com/e36-bmw-3-series-e34-5-series-325i-525i-affordable-classic/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/e36-bmw-3-series.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/e36-bmw-3-series.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/bmw-m50-inline-six.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/p90190458_highres_bmw-e36-07-2015-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/p90181236_highres_40-anniversary-bmw-3-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/p90181333_highres_40-anniversary-bmw-3-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-05T00:40:14+00:00"
+    },
+    {
+      "id": "46addcaf6647ce16",
+      "title": "Mercedes-AMG’s Latest EV Is Already Breaking Lap Records",
+      "summary": "The 671 hp CLA 45 lapped the Green Hell in 7:32.070, which is quicker than a BMW M2",
+      "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-10-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-9-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-8-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-6-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-5-2048x1366.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-05T00:18:00+00:00"
+    },
+    {
+      "id": "5fffc49e4049534a",
+      "title": "29k-Mile 2015 BMW Z4 sDrive35is",
+      "summary": "This 2015 BMW Z4 sDrive35is roadster remained with the original owner until the current owner's 2026 acquisition, and it now has 29k miles. Finished in Glacier Silver Metallic over Coral Red Kansas leather, the car is powered by a twin-turbocharged 3.0L inline-six paired with a seven-speed dual-clutch automatic transmission. Equipment includes a retractable hardtop, xenon headlights, 18\" Style 295 wheels, Anthracite wood trim, and heated power-adjustable seats. This E89 is now offered on dealer consignment by a BaT Local Partner with a Connecticut title.",
+      "url": "https://bringatrailer.com/listing/2015-bmw-z4-sdrive35is-2/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2014_Z4_35is-176-copy-2026-07-31-5ua-16230.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/2014_Z4_35is-176-copy-2026-07-31-5ua-16230.jpg?w=940"
       ],
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
-      "published": "2026-08-04T23:12:48+00:00"
+      "published": "2026-08-04T23:32:33+00:00"
     },
     {
       "id": "e21fe63c0e1b4bbc",
@@ -239,7 +291,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-17813-profile_photo.jpg?itok=fg8_XCcL"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-04T12:00:00+00:00"
     },
@@ -296,19 +348,6 @@
       "published": "2026-08-04T06:00:00+00:00"
     },
     {
-      "id": "bcce85e50680e0ed",
-      "title": "BMW iX3’s sharp sticker doesn’t preview an aggressive new pricing strategy for the German brand",
-      "summary": "BMW has priced its new iX3 very competitively against new rivals, but says this isn't part of a new brand pricing strategy.",
-      "url": "https://www.carexpert.com.au/car-news/bmw-ix3s-sharp-sticker-doesnt-preview-an-aggressive-new-pricing-strategy-for-the-german-brand",
-      "image": "https://images.carexpert.com.au/cms/v1/media/bmw-ix3-40-europe.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/bmw-ix3-40-europe.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-08-03T23:00:00+00:00"
-    },
-    {
       "id": "879e0793e7f2ed93",
       "title": "BMW says it isn’t losing buyers to new Chinese premium brands",
       "summary": "More and more premium Chinese auto brands are entering the Australian market, but BMW says it isn't worried they'll steal sales.",
@@ -316,6 +355,19 @@
       "image": "https://images.carexpert.com.au/cms/v1/media/bmw-ix3-50-xdrive-4.jpg",
       "images": [
         "https://images.carexpert.com.au/cms/v1/media/bmw-ix3-50-xdrive-4.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-08-03T23:00:00+00:00"
+    },
+    {
+      "id": "bcce85e50680e0ed",
+      "title": "BMW iX3’s sharp sticker doesn’t preview an aggressive new pricing strategy for the German brand",
+      "summary": "BMW has priced its new iX3 very competitively against new rivals, but says this isn't part of a new brand pricing strategy.",
+      "url": "https://www.carexpert.com.au/car-news/bmw-ix3s-sharp-sticker-doesnt-preview-an-aggressive-new-pricing-strategy-for-the-german-brand",
+      "image": "https://images.carexpert.com.au/cms/v1/media/bmw-ix3-40-europe.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/bmw-ix3-40-europe.jpg"
       ],
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
@@ -449,19 +501,6 @@
       "published": "2026-08-03T18:37:00+00:00"
     },
     {
-      "id": "1765b74eb27bbbb6",
-      "title": "Pfaff Motorsports anunció su salida de la clase GTD Pro al término de esta temporada",
-      "summary": "En Road América se comentaba que Paul Miller Racing rompería su relación con BMW M Motorsport al final la temporada y que también otro equipo de la clase GTD Pro saldría, dejando un espacio disponible. Apenas pasaron unas cuantas horas para que el otro nombre saliera a la luz y se trata de Pfaff Motorsports, justamente el ganador de la fecha celebrada ayer y que representó el primer triunfo del Lamborghini Temerario GT3 en una prueba de larga duración, en este caso en el Campeonato IMSA SportsCar. Ante lo que ocurre, Lamborghini Squadra Corse estaría buscando nuevos socios para continuar…",
-      "url": "https://www.diariomotor.com/competicion/noticia/pfaff-motorsports-salida-gtd-pro-termino-temporada/",
-      "image": "https://www.diariomotor.com/imagenes/2026/08/Lamborghini_Temerario_GT3_Pfaff_Motorsport_IMSA_GTD_Pro_2026_26-6a70b458de9c9.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/08/Lamborghini_Temerario_GT3_Pfaff_Motorsport_IMSA_GTD_Pro_2026_26-6a70b458de9c9.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-08-03T18:03:43+00:00"
-    },
-    {
       "id": "a4006629828cabd2",
       "title": "New BMW X7 And 3 Series Spied Together In Las Vegas",
       "summary": "BMW has plans to roll out approximately 40 new or updated models by the end of 2027. Granted, we’ve already seen some of them, starting with last year’s iX3 and continuing with this year’s i3... First published by https://www.bmwblog.com",
@@ -535,10 +574,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/03/BMW-M5-Touring-1Scoop-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Off-DUty-officer-crashg-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/A263967_large-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Why-Pagani-BOLTS-cost-more-than-a-Porsche-911-21-5-screenshot-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/NOVITEC-F12CilSpi-Aero-Pic09-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -771,7 +810,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -780,9 +819,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -810,7 +849,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T10:02:56+00:00"
     },
@@ -849,7 +888,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T06:00:00+00:00"
     },
@@ -953,7 +992,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-2026-mg-131.jpg?itok=3ft8M8or"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-30T09:33:45+00:00"
     },
@@ -1231,7 +1270,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1992,7 +2031,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2135,7 +2174,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2697,6 +2736,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
