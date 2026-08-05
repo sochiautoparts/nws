@@ -1,7 +1,7 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-05T09:44:57.509064+00:00",
-  "generated_at_human": "2026-08-05 09:44 UTC",
+  "generated_at": "2026-08-05T12:10:20.028313+00:00",
+  "generated_at_human": "2026-08-05 12:10 UTC",
   "total_items": 292,
   "sources_used": [
     "5koleso RU",
@@ -10,7 +10,7 @@
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -47,17 +47,20 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "ClassicCars Journal",
     "Electrek BMW",
     "Hagerty News",
+    "Hooniverse",
     "InsideEVs",
     "Motor1 BMW",
     "Motor1 Design",
@@ -73,9 +76,40 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 14,
+  "sources_count": 71,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "8c249ad4d0e675df",
+      "title": "Turns Out A V8 Audi Can’t Outrun A BMW Estate Full Of Cops",
+      "summary": "Police boxed in the stolen S5 after it rammed a cruiser, then reportedly found keys to five more cars sitting inside the coupe",
+      "url": "https://www.carscoops.com/2026/08/audi-s5-police-chase/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Audi-S5-police-chase-1-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Audi-S5-police-chase-1-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Audi-S5-police-chase-2-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Off-DUty-officer-crashg-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/A263967_large-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Why-Pagani-BOLTS-cost-more-than-a-Porsche-911-21-5-screenshot-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/NOVITEC-F12CilSpi-Aero-Pic09-copy-2048x1152.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-05T11:41:00+00:00"
+    },
+    {
+      "id": "79fdd5e25a78f49b",
+      "title": "BMW Motorrad H1 2026: Motorcycle Profits Up, What It Means",
+      "summary": "BMW Motorrad posted €230M profit in H1 2026, up 8.5% YoY with a 13.5% EBIT margin — while automotive profits fell 45.6%. What stronger margins mean for future models and pricing.",
+      "url": "https://www.topspeed.com/bmw-motorrad-profits-h1-2026-riders/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-r-18-classic.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-r-18-classic.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-05T10:00:10+00:00"
+    },
     {
       "id": "77564bbdcf462d2d",
       "title": "Nürburgring: Mercedes-AMG CLA 45 mit 680 PS bleibt hinter dem BMW M2",
@@ -109,12 +143,7 @@
       "url": "https://carbuzz.com/e36-bmw-3-series-e34-5-series-325i-525i-affordable-classic/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/e36-bmw-3-series.png",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/e36-bmw-3-series.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/bmw-m50-inline-six.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/p90190458_highres_bmw-e36-07-2015-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/p90181236_highres_40-anniversary-bmw-3-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/p90181333_highres_40-anniversary-bmw-3-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/e36-bmw-3-series.png"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -170,19 +199,6 @@
       "published": "2026-08-04T22:45:07+00:00"
     },
     {
-      "id": "949e90be41f7c08f",
-      "title": "The Fast Bike That Makes Weekend Riding Feel Effortless",
-      "summary": "This BMW combines superbike performance with touring bike comfort, while being attainable for the masses without breaking the bank",
-      "url": "https://www.topspeed.com/fast-bike-makes-weekend-riding-effortless/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-1-1.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-1-1.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-04T19:30:10+00:00"
-    },
-    {
       "id": "819e34031be03618",
       "title": "Немецкий автопром в глубоком кризисе: BMW, Mercedes и Volkswagen теряют миллиарды и увольняют десятки тысяч сотрудников",
       "summary": "Volkswagen переживает, возможно, самый тяжелый кризис в своей истории. По итогам второго квартала прибыль VAG упала на 32,9%, достигнув 1,54 млрд евро. В указанный период немецкий концерн продал во всем мире около 2,08 млн автомобилей, что на 9% меньше, чем в прошлом году. Китай остается для Volkswagen наиболее проблемным рынком. Спрос на автомобили немецкого концерна […]",
@@ -217,7 +233,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-m3-vs-m340i-value-retention-830x465.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-04T15:19:05+00:00"
     },
@@ -280,12 +296,7 @@
       "url": "https://motoringworld.in/car-news/bmw-opens-bookings-for-all-new-7-series-in-india/",
       "image": "http://motoringworld.in/wp-content/uploads/2026/08/BMW-505x336.png",
       "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/08/BMW-505x336.png",
-        "https://motoringworld.in/wp-content/uploads/2026/07/young-handsome-man-posing-near-his-motorbike-countryside-road-2048x1365.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/RR_SV_Ultra_27MY_Exterior_01_290426-2048x1152.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/BMW-2-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/BMW-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/BMW-13-768x512.png"
+        "http://motoringworld.in/wp-content/uploads/2026/08/BMW-505x336.png"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -300,7 +311,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90647648_highres_bmw-group-plant-spar.jpg?itok=YiaSffnV"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-04T12:00:00+00:00"
     },
@@ -485,14 +496,9 @@
       "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/aea06bd5-d2d9-4f85-a0a4-56fbdb133907.jpg?crop=1xw:0.999875015623047xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/10009cb3-4838-4205-b113-90abc4038489.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/63904ba0-eaeb-4c0c-a571-27e29de125ac.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/86c77a1c-14b2-47a3-9d75-d575155ae8b5.jpg?resize=640:*"
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-03T18:37:00+00:00"
     },
@@ -505,7 +511,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/2027-bmw-x7-g67-04-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T14:30:29+00:00"
     },
@@ -553,9 +559,9 @@
       "title": "Early BMW Super Tourer and Polley Toyota recreation among Touring Car Rewind highlights",
       "summary": "Touring Car Rewind: South brought an array of retro tin-top machinery to Brands Hatch last weekend. Amid the nostalgia, 2013 British Touring Car champion Andrew Jordan in a Super Touring BMW and Ford Capri-mounted current BTCC star Charles Rainford were among those to catch the eye. Star Car: BMW 318i E36 Few Super Touring cars were as successful – or numerous – in period as BMW’s ... Keep reading",
       "url": "https://www.autosport.com/national/news/early-bmw-super-tourer-and-polley-toyota-recreation-among-touring-car-rewind-highlights/10843813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
+        "https://cdn-7.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -570,10 +576,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/03/BMW-M5-Touring-1Scoop-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Audi-S5-police-chase-1-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Off-DUty-officer-crashg-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/A263967_large-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Why-Pagani-BOLTS-cost-more-than-a-Porsche-911-21-5-screenshot-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Why-Pagani-BOLTS-cost-more-than-a-Porsche-911-21-5-screenshot-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -723,7 +729,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/06/2027-bmw-m350-prototype-09-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-02T07:37:44+00:00"
     },
@@ -806,7 +812,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jaygettyimages-819888902.jpg?itok=pB6ruM6B"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-07-31T14:00:00+00:00"
     },
@@ -815,9 +821,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -835,19 +841,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-07-31T11:34:38+00:00"
-    },
-    {
-      "id": "70a774fa13d9494e",
-      "title": "BYD goes after Defender with boxy £48k, 402bhp hybrid SUV",
-      "summary": "Rugged-looking Ti7 goes on sale in the UK as Chinese brand's new flagship The BYD Ti7 has gone on sale in the UK as the Chinese brand's biggest model, priced from £47,995. Sized between the 110 and 130 variants of the rival Land Rover Defender , it undercuts the British 4x4 and the petrol-engined Mercedes-Benz GLC and BMW X3 . The Ti7 will be the first UK-bound car to use the Chinese brand’s new, performance-focused ‘DM-p’ plug-in-hybrid powertrain. This comprises a turbocharged 1.5-litre petrol engine, two electric motors (one per axle) and a 35.6kWh lithium-iron-phosphate battery pack.…",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/byd-goes-after-defender-boxy-%C2%A348k-402bhp-hybrid-suv",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/byd-ti7-front-quarter.jpg?itok=N9QmLENk"
-      ],
-      "source": "Autocar BMW i",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-31T10:02:56+00:00"
     },
     {
       "id": "b17ff368c4e32040",
@@ -874,19 +867,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-07-31T08:50:45+00:00"
-    },
-    {
-      "id": "aa8e862300e6dbcf",
-      "title": "New models vital to DS' survival as UK sales hit record low",
-      "summary": "DS sold just 112 cars in the UK during the first half of 2026, down from 948 a year ago DS is poised to introduce two crucial new models in the UK – the N°3 supermini and N°7 crossover – as it begins a fightback after sales slumped to a record low. The French premium brand sold just 112 cars in the UK during the first half of this year. That's an 88.19% decline from the 948 cars it registered here during the first six months of 2025. The sharp fall was primarily due to the changeover in generations of the DS 7 SUV, which has long been its best-seller. Production of the left-field BMW X3…",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-models-vital-ds-survival-uk-sales-hit-record-low",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ds_range.jpg?itok=5DWxbKJf"
-      ],
-      "source": "Autocar",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-07-31T06:00:00+00:00"
     },
     {
       "id": "a000aa6c59ed184c",
@@ -1680,9 +1660,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1988,7 +1968,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2166,9 +2146,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2693,6 +2673,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
