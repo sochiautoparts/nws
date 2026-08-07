@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-07T09:13:12.194925+00:00",
-  "generated_at_human": "2026-08-07 09:13 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-07T11:04:26.252028+00:00",
+  "generated_at_human": "2026-08-07 11:04 UTC",
+  "total_items": 288,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -48,24 +48,26 @@
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "CarWale IN",
     "Crash.net",
     "Electrek",
     "Electrek BMW",
+    "Electric Cars Report",
     "Gaadiwaadi IN",
     "Hagerty Media",
     "Hooniverse",
     "InsideEVs",
     "Jalopnik",
-    "Motor.es",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
     "Motor1 Volvo",
-    "Motoring World IN",
     "Motorsport MotoGP",
     "Motorsport WEC",
     "Paul Tan",
@@ -73,9 +75,58 @@
     "RushLane IN",
     "The Verge Transp"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 11,
+  "sources_count": 70,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "70abb5d396a6c89f",
+      "title": "Surprise! BMW M2 CS Returns With New Edge Special Edition",
+      "summary": "It’s our job to stalk BMW like a hawk and watch every move Munich makes. That means we’re rarely caught by surprise, yet it just happened. Seemingly out of nowhere, the M2 CS makes an... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/07/bmw-m2-cs-edge-special-edition/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-M2-CS-Edition-1-830x559.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-M2-CS-Edition-1-830x559.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-07T10:28:19+00:00"
+    },
+    {
+      "id": "e0309bbbbb22196f",
+      "title": "BMW Just Started Building Its Model 3 Rival, And Munich Will Never Be The Same",
+      "summary": "The first version of the i3 has a 108.7 kWh battery and 563 miles (906 km) of driving range",
+      "url": "https://www.carscoops.com/2026/08/bmw-i3-munich-production/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-1-1366x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-6-1366x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90632228_highRes_the-new-bmw-i3-50-xd-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90632227_highRes_the-new-bmw-i3-50-xd-2048x1366.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-07T10:08:00+00:00"
+    },
+    {
+      "id": "7971a1e175b5082f",
+      "title": "BMW Plant Munich Launches BMW i3 Series Production",
+      "summary": "BMW starts series production of the new electric i3 at Plant Munich, launching the Neue Klasse era with advanced EV manufacturing, lower costs, and new technology. The post BMW Plant Munich Launches BMW i3 Series Production appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/08/bmw-plant-munich-launches-bmw-i3-series-production/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-i3-Production.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-i3-Production.jpg?a3781e&amp;a3781e",
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/Smart-2-Mural-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/Skoda-Peaq-Production-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/Mercedes-AMG-GT-53-4-Door-Coupe_1-300x300.jpg",
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/2027-Toyota-bZ-Woodland-300x300.jpg",
+        "http://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=510284cd-ec59-4d0f-8837-3fd41c6d7dde"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-08-07T09:46:44+00:00"
+    },
     {
       "id": "6f401e987e93c35e",
       "title": "Цена «Весты», 639 сил и комфорт уровня BMW: новый Chery Fulwin A9L вышел на рынок",
@@ -339,7 +390,7 @@
     {
       "id": "454508b4ee40cbed",
       "title": "Get great deals on a new BMW, MINI or BMW Motorrad at Auto Bavaria’s BMW Clubhouse event this August 6-9",
-      "summary": "Whether you’ve been dreaming of a new BMW, MINI or BMW Motorrad, this surely is the perfect time to make that upgrade, and the BMW Clubhouse event happening this weekend is surely the place to […] The post Get great deals on a new BMW, MINI or BMW Motorrad at Auto Bavaria’s BMW Clubhouse event this August 6-9 appeared first on Paul Tan's Automotive News .",
+      "summary": "Whether you’ve been dreaming of a new BMW, MINI or BMW Motorrad, this surely is the perfect time to make that upgrade, and the BMW Clubhouse event happening this weekend is surely the place to find it. Over in Penang, the event runs this August 6 to 9, from 10am […] The post Get great deals on a new BMW, MINI or BMW Motorrad at Auto Bavaria’s BMW Clubhouse event this August 6-9 appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/08/06/get-great-deals-on-a-new-bmw-mini-or-bmw-motorrad-at-auto-bavarias-bmw-clubhouse-event-this-august-6-9/",
       "image": "https://paultan.org/image/2026/08/AB-BMW-Clubhouse-630x330.png",
       "images": [
@@ -348,19 +399,6 @@
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
       "published": "2026-08-06T10:09:05+00:00"
-    },
-    {
-      "id": "c939673bf69b48bc",
-      "title": "Celebrate Merdeka with BMW, MINI and BMW Motorrad deals at Auto Bavaria Aug 7-9, win a BMW F 450 GS!",
-      "summary": "And just like that, we are now in August, which means the 69th Merdeka celebrations are just around the corner – illustrating the progress we as a country have made since 1957. And what better […] The post Celebrate Merdeka with BMW, MINI and BMW Motorrad deals at Auto Bavaria Aug 7-9, win a BMW F 450 GS! appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/08/06/celebrate-merdeka-with-bmw-mini-and-bmw-motorrad-deals-at-auto-bavaria-aug-7-9-win-a-bmw-f-450-gs/",
-      "image": "https://paultan.org/image/2026/08/IMG_5177-630x330.png",
-      "images": [
-        "https://paultan.org/image/2026/08/IMG_5177-630x330.png"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-08-06T09:29:00+00:00"
     },
     {
       "id": "23323a96b1d2a3ba",
@@ -374,19 +412,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-06T09:04:02+00:00"
-    },
-    {
-      "id": "610d2f963ca71377",
-      "title": "Comprar un BMW ya no te libra de la publicidad: Spider-Man llega hasta la pantalla central",
-      "summary": "Pantalla central de un BMW con publicidad de Spider-Man BMW ha activado un banner promocional de Spider-Man: Brand New Day en la pantalla central de sus modelos compatibles, en más de 70 países, del 27 de julio al 10 de agosto. La medida reabre el debate sobre qué compra en realidad quien paga por un coche conectado. Hay una promesa que las marcas de coches repiten cada vez que alguien pregunta por la publicidad dentro del habitáculo: el salpicadero no se toca. BMW la rompe ahora con un banner de Spider-Man: Brand New Day que aparece nada más arrancar el motor, como ya adelantó Jeep hace…",
-      "url": "https://www.motor.es/noticias/bmw-publicidad-spiderman-pantalla-coches.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/08/comprar-un-bmw-ya-no-te-libra-de-la-publicidad-spider-man-llega-hasta-la-pantalla-central-2026115674-1785992548_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/08/comprar-un-bmw-ya-no-te-libra-de-la-publicidad-spider-man-llega-hasta-la-pantalla-central-2026115674-1785992548_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-08-06T07:30:00+00:00"
     },
     {
       "id": "d12cfad273847b45",
@@ -656,32 +681,6 @@
       "published": "2026-08-04T14:23:20+00:00"
     },
     {
-      "id": "d3d4ea0bb3f757c7",
-      "title": "BMW Just Built Its 150,000th Motorcycle In Brazil",
-      "summary": "Although most people associate BMW with cars, the company actually has a longer history of making motorcycles. The R 23 came out in 1923. That’s six years before the 3/15 PS DA 2 became the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/04/bmw-150000-motorcycles-built-brazil/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-R-1300-GS-Adventure-Triple-Black-2-830x621.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-R-1300-GS-Adventure-Triple-Black-2-830x621.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-04T13:35:21+00:00"
-    },
-    {
-      "id": "f64f12f4c8122ceb",
-      "title": "BMW Opens Bookings For All-New 7 Series In India.",
-      "summary": "Signals the arrival of its most advanced flagship yet",
-      "url": "https://motoringworld.in/car-news/bmw-opens-bookings-for-all-new-7-series-in-india/",
-      "image": "http://motoringworld.in/wp-content/uploads/2026/08/BMW-505x336.png",
-      "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/08/BMW-505x336.png"
-      ],
-      "source": "Motoring World IN",
-      "source_url": "https://www.motoringworld.in",
-      "published": "2026-08-04T13:06:54+00:00"
-    },
-    {
       "id": "99f3f32039015c00",
       "title": "How BMW cut the X5's emissions by 40% – before turning a wheel",
       "summary": "Around one third of the new iX5 is made from waste products or recycled materials Making cars greener involves a lot more than reducing tailpipe emissions or fashioning seat covers from recycled plastic bottles. It spans the whole gamut of environmental implications in manufacturing, use and end-of-life disposal. Putting a figure on a car's CO2 footprint is a huge task, and for the past couple of decades considerable brain power has been expended on figuring out the cradle-to-grave CO2 impact of vehicles and powertrains. The results now lie in Life Cycle Analysis databases that make it…",
@@ -690,7 +689,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90647648_highres_bmw-group-plant-spar.jpg?itok=YiaSffnV"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-04T12:00:00+00:00"
     },
@@ -714,12 +713,7 @@
       "url": "https://www.carscoops.com/2026/08/2028-bmw-m3-ev-spied/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-BMW-M3-Electric-803-2-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-BMW-M3-Electric-803-3-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-BMW-M3-Electric-803-4-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-BMW-M3-Electric-803-5-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-BMW-M3-Electric-803-6-2048x1366.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -821,9 +815,9 @@
       "title": "Early BMW Super Tourer and Polley Toyota recreation among Touring Car Rewind highlights",
       "summary": "Touring Car Rewind: South brought an array of retro tin-top machinery to Brands Hatch last weekend. Amid the nostalgia, 2013 British Touring Car champion Andrew Jordan in a Super Touring BMW and Ford Capri-mounted current BTCC star Charles Rainford were among those to catch the eye. Star Car: BMW 318i E36 Few Super Touring cars were as successful – or numerous – in period as BMW’s ... Keep reading",
       "url": "https://www.autosport.com/national/news/early-bmw-super-tourer-and-polley-toyota-recreation-among-touring-car-rewind-highlights/10843813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
+        "https://cdn-2.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -1013,9 +1007,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -1769,9 +1763,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1880,19 +1874,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-18T07:00:22+00:00"
-    },
-    {
-      "id": "578acd815908707c",
-      "title": "BMW’s Next M3 Loses Its Grille But Keeps Its Six, And Maybe The Clutch Too",
-      "summary": "The upcoming sports sedan will feature a familiar twin-turbo 3.0-liter inline-six, but add a mild-hybrid system into the mix",
-      "url": "https://www.carscoops.com/2026/07/2029-bmw-m3-spied/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/SB16011-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/SB16011-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-07-18T00:21:00+00:00"
     },
     {
       "id": "29ffceff7be3406e",
@@ -2064,7 +2045,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2229,9 +2210,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-5.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2857,7 +2838,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3022,9 +3003,9 @@
       "title": "Le Mans 24h: Toyota beats BMW and Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
+        "https://cdn-1.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3035,9 +3016,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-2.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3048,9 +3029,9 @@
       "title": "Le Mans 24H, H16: #12 Cadillac out front as Toyota and BMW battle over second",
       "summary": "The #12 Cadillac pulled out a healthy lead at the two-thirds mark in the Le Mans 24 Hours, while Toyota and BMW engaged in a close scrap for second position. The two Jota-run factory Cadillacs moved to the front of the field in the 14th hour, as they leapfrogged the erstwhile-leading #8 Toyota GR010 Hybrid in the pits. However, the #38 Cadillac that had been running second suffered a power ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3074,9 +3055,9 @@
       "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
       "summary": "Toyota continues to lead the Le Mans 24 Hours at the end of the fourth hour, cementing its advantage over Cadillac and BMW in the Hypercar class. After an undercut catapulted the #8 Toyota TR010 at the head of the pack in the opening hour, Sebastien Buemi quickly pulled away from the chasing pack, building an advantage of nearly half a minute through his triple stint. Hartley took over the ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-8.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3087,9 +3068,9 @@
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "summary": "The #8 Toyota leads the 2026 Le Mans 24 Hours one hour into the race, despite starting from a lowly 15th position. Kevin Magnussen’s polesitting #15 BMW collapsed to eighth in the first hour; the Dane lost out to Will Stevens’ #12 Cadillac before even the first corner of the race before Rene Rast passed them both in the sister #20 BMW, by the first chicane of the Mulsanne ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid/10829935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3226,6 +3207,19 @@
       "published": "2026-06-07T16:00:15+00:00"
     },
     {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
+    },
+    {
       "id": "c3ff705537647cd5",
       "title": "BMW M5 Depreciation Tracker: F10 Bargains, F90 Strength, G90 Questions",
       "summary": "Depreciation is a funny thing when it comes to M cars. Enthusiasts love to talk about future classics, special engines, analog appeal, and the models that will one day be “the one to have.” The... First published by https://www.bmwblog.com",
@@ -3341,19 +3335,6 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-03T12:00:51+00:00"
-    },
-    {
-      "id": "892324087d1e0333",
-      "title": "BMW M2 xDrive vs RWD: $4,225 More, 174 lbs Heavier, No Manual",
-      "summary": "The G87 BMW M2 lineup just got more complicated. With the M2 with M xDrive, BMW now sells two versions of the same car that are actually different in ways that matter — the choice... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/02/bmw-m2-xdrive-vs-rwd-which-to-buy/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m2-xdrive-vs-m2-rwd-01-830x623.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m2-xdrive-vs-m2-rwd-01-830x623.jpg"
-      ],
-      "source": "BMW Blog M2",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-02T23:26:57+00:00"
     },
     {
       "id": "994be73ff06c5ec3",
@@ -3481,7 +3462,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3585,7 +3566,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3692,6 +3673,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
