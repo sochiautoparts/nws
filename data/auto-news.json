@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-08-07T11:04:26.257005+00:00",
-  "generated_at_human": "2026-08-07 11:04 UTC",
+  "generated_at": "2026-08-07T11:55:09.599009+00:00",
+  "generated_at_human": "2026-08-07 11:55 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -12,7 +12,7 @@
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek NL",
-    "AutoWeek News",
+    "Autocar",
     "Autosport All",
     "Autosport F1",
     "Autosport MotoGP",
@@ -22,11 +22,12 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
     "CarScoops Bugatti",
+    "CarScoops Ford",
+    "CarScoops Kia",
     "CarScoops Lamborghini",
     "CarScoops Mercedes",
     "CarScoops Toyota",
@@ -38,7 +39,6 @@
     "Electrek",
     "Electric Cars Report",
     "GM Authority",
-    "Gaadiwaadi IN",
     "Hagerty Media",
     "Hagerty News",
     "Honda News",
@@ -52,6 +52,7 @@
     "Motor1 Bugatti",
     "Motor1 Ferrari",
     "Motor1 Ford",
+    "Motor1 Industry",
     "Motor1 Porsche",
     "Motor1 Technology",
     "Motoring World IN",
@@ -74,8 +75,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 107,
+  "sources_count": 70,
+  "multi_photo_items": 103,
   "items": [
     {
       "id": "d510825a5f5b8a35",
@@ -117,6 +118,109 @@
       "published": "2026-08-07T12:00:20+00:00"
     },
     {
+      "id": "70462ddeb7eaf660",
+      "title": "Bajaj Pulsar N160 S and N160 SS launched at Rs 1.33 lakh onwards",
+      "summary": "Bajaj's Pulsar N160 gets a new 4-valve engine, ride modes and electronic throttle",
+      "url": "https://motoringworld.in/bike-news/bajaj-pulsar-n160-s-and-n160-ss-launched-at-rs-1-33-lakh-onwards/",
+      "image": "http://motoringworld.in/wp-content/uploads/2026/08/N160_Detail_1.jpg",
+      "images": [
+        "http://motoringworld.in/wp-content/uploads/2026/08/N160_Detail_1.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/Terra-8-2048x1365.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/Image-02.jpg-1536x1027.jpeg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/N160_Detail_1-1536x1024.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/Image-2-1536x1024.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/Image-7-1020x680.jpg"
+      ],
+      "source": "Motoring World IN",
+      "source_url": "https://www.motoringworld.in",
+      "published": "2026-08-07T11:47:20+00:00"
+    },
+    {
+      "id": "7a3370c692791712",
+      "title": "Forget The Subaru Outback— This Cheaper Crossover Feels Far More Premium",
+      "summary": "The Mazda CX-50 starts at $31,395 and delivers a more premium cabin and driving experience than the Subaru Outback for less money.",
+      "url": "https://www.topspeed.com/forget-subaru-outback-cheaper-crossover-far-more-premium/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-exterior-6.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-exterior-6.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-exterior-9.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-exterior-7.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-exterior-43.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-interior-10.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/04/2024-mazda-cx-50-interior-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-07T11:45:10+00:00"
+    },
+    {
+      "id": "f37137256154d7e9",
+      "title": "Alex Marquez leads Marco Bezzecchi in Silverstone MotoGP FP1",
+      "summary": "Alex Marquez kicked off the British Grand Prix fastest of all in FP1",
+      "url": "https://www.crash.net/motogp/news/1102161/1/alex-marquez-leads-marco-bezzecchi-silverstone-motogp-fp1",
+      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1335211_hires.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-08/gng_1335211_hires.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/pictures/img_8107.JPG",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1333092_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1330785_hires_1600x900_1600x900.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1330204_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1333555_hires_1600x900.jpg?aspect_ratio=1:1"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-08-07T11:39:23+00:00"
+    },
+    {
+      "id": "455e0eebc893b3f1",
+      "title": "Llega el Volkswagen T-Roc que planta cara al Toyota C-HR, la esperada versión híbrida HEV ya tiene precio en España",
+      "summary": "Precios y gama del nuevo Volkswagen T-Roc Hybrid en España. El nuevo Volkswagen T-Roc Hybrid ya tiene precio en España. Llega la versión más esperada del renovado SUV de Volkswagen. Una motorización híbrida autorrecargable (HEV) con la que el T-Roc planta cara al Toyota C-HR. El configurador y el libro de pedidos están abiertos. Volkswagen entra en el competido mercado de coches híbridos autorrecargables (HEV) y lo hace apostando, entre otros, por su modelo superventas. La espera ha terminado. Llega el nuevo Volkswagen T-Roc Hybrid . La versión híbrida HEV del nuevo Volkswagen T-Roc está…",
+      "url": "https://www.motor.es/noticias/lanzamiento-volkswagen-t-roc-hybrid-espana-2026115705.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/lanzamiento-volkswagen-t-roc-hybrid-espana-2026115705-1786099395_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/lanzamiento-volkswagen-t-roc-hybrid-espana-2026115705-1786099395_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-07T11:35:00+00:00"
+    },
+    {
+      "id": "cff69b00e22f83de",
+      "title": "Shelby’s New 810-HP F-150 Is Basically A Super Snake Mustang With A Bed",
+      "summary": "The Shelby F-150 Super Snake Sport is back with 810 hp and only two doors.",
+      "url": "https://www.hotcars.com/2027-shelby-f-150-super-snake-sport-launched-news/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/supersnakesport-lifestyle4.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/supersnakesport-lifestyle4.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2026-super-snake-sport-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2026-super-snake-sport-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2026-super-snake-sport-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2026-super-snake-sport-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/2027-ram-rumble-bee-srt-5.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-07T11:32:18+00:00"
+    },
+    {
+      "id": "f1ac7f3f06d16c33",
+      "title": "The BMW S 1000 XR: A Superbike You Can Tour On",
+      "summary": "170 hp, dynamic suspension, and superbike DNA—the BMW S 1000 XR is the ultimate one-bike garage for $18,825.",
+      "url": "https://www.topspeed.com/bmw-motorcycle-worth-every-dollar/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-headlamp-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-headlamp-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-k-1600-series-models-cruising-on-a-highway.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-5-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-s-1000-xr-engine-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2024-bmw-s-1000-xr-action-cornering.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-07T11:31:10+00:00"
+    },
+    {
       "id": "5813b7e095d6a3bf",
       "title": "Ford asume un palo de 19.500 millones con sus coches eléctricos y responde con una barata pick-up de solo 28.000 dólares que cambia la forma de fabricar coches",
       "summary": "Ford ha puesto nombre y precio al vehículo con el que pretende corregir uno de los mayores tropiezos de su historia reciente. La nueva Ford Fathom será una pick-up eléctrica de tamaño medio, costará solo 28.350 dólares en su versión de acceso y llegará a los concesionarios estadounidenses en otoño de 2027. El anuncio llega después de que Ford asumiera a finales de 2025 un impacto contable de 19.500 millones de dólares -unos 16.800 millones de euros al cambio actual- relacionado con la reestructuración de su negocio eléctrico. Aquella decisión supuso cancelar varios modelos, revisar…",
@@ -128,6 +232,174 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-07T11:30:24+00:00"
+    },
+    {
+      "id": "7983067359ef8cdd",
+      "title": "2026 British MotoGP, Silverstone - Friday Practice Results",
+      "summary": "Friday practice results from the 2026 British MotoGP at Silverstone, round 12 of 22.",
+      "url": "https://www.crash.net/motogp/results/1102116/1/2026-british-motogp-silverstone-friday-practice-results",
+      "image": "https://www.crash.net/sites/default/files/2026-08/alex-marquez.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-08/alex-marquez.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/pictures/picture-72168-1654791772.png",
+        "https://www.crash.net/sites/default/files/2025-04/GnG_1219311_HiRes.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1232133_hires_1600x900.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1335137_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1333990_hires.jpg?aspect_ratio=1:1"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-08-07T11:30:15+00:00"
+    },
+    {
+      "id": "25e6be5a747fba87",
+      "title": "The Sports Car With Toyota Reliability And BMW M-Car Performance",
+      "summary": "This sports car was born from special circumstances that are unlikely to ever occur again and we miss it already.",
+      "url": "https://www.topspeed.com/sports-car-with-toyota-reliability-bmw-m-performance/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/todayver0movr.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/todayver0movr.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_2026_toyota_grsupra_mkv_renaissancered_015.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_2026_toyota_grsupra_mkv_renaissancered_016.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/bmw-z4_m40i_6mt-2025-hd-13e69d811c27a76bf626970cdc76e098b454a8476.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_2026_toyota_grsupra_mkv_renaissancered_315.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2025-bmw-m240i-xdrive.jpg?q=49&fit=crop&w=875&h=540&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-07T11:30:10+00:00"
+    },
+    {
+      "id": "345f24629d3f029b",
+      "title": "Previo y horarios del Gran Premio de Portland 2026 de IndyCar",
+      "summary": "Las curvas del Festival esperan impacientes su dosis anual de fibra de carbono. IndyCar Media El gran acelerón final de seis carreras a lo largo del próximo mes arranca en Portland, un clásico desde los años 80, dominado en la actualidad por un Will Power muy necesitado y por un Álex Palou muy holgado. Los demás buscarán sorprender. Después de dos semanas de relativo asueto centradas a nivel informativo en la presentación y primeros tests del nuevo Dallara IR-28 que debutará en la temporada 2028, la IndyCar Series se dispone a iniciar un tramo final de calendario sin precedentes , más…",
+      "url": "https://www.motor.es/noticias/indycar-portland-horarios-previo-2026115706.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/previo-y-horarios-del-gran-premio-de-portland-2026-de-indycar-2026115706-1786100587_2.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/previo-y-horarios-del-gran-premio-de-portland-2026-de-indycar-2026115706-1786100587_2.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-07T11:30:00+00:00"
+    },
+    {
+      "id": "e43fd3d316b0b68b",
+      "title": "Opinion: BMW's in-car Spiderman ad is a step too far",
+      "summary": "The German firm claims the new Spiderman video it's showing in peoples' cars isn't an ad. It plainly is Oh, for pity's sake, do we really have to be talking about this again? I'm afraid we must, because those who own relevant BMW models are talking about it and, largely, they are not happy. It seems BMW has sponsored a new superhero movie, Spider-Man: Brand New Day, in which you will see product-placed iX3 s and 5 Series es, as is the modern film way. And if you own a modern BMW, there's a chance that the company will be so keen to tell you about this tie-in that, during some cars'…",
+      "url": "https://www.autocar.co.uk/opinion/technology/opinion-bmws-car-spiderman-ad-step-too-far",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=rp6yugF6",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-07T11:28:14+00:00"
+    },
+    {
+      "id": "59eb93b9f70e7a8b",
+      "title": "Jay Leno Helps YouTuber Negotiate A $2 Million Deal In His Own Garage",
+      "summary": "A rare Mercedes with a blown engine sparks an outrageous seven-figure bidding war inside Jay Leno’s garage.",
+      "url": "https://www.hotcars.com/jay-leno-helps-youtuber-negotiate-2-million-dollar-deal-in-garage/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/screenshot_2026-08-07_at_7-11-36_am.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/screenshot_2026-08-07_at_7-11-36_am.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/11/jay-leno-300sl-2.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/03/300-sl-gullwing.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/1968-ford-torino-gt-mecum-3.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1993-ford-fox-body-mustang-gt.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/12/mixcollage-04-dec-2025-09-04-pm-8699.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-07T11:26:09+00:00"
+    },
+    {
+      "id": "d493bc5cb636820b",
+      "title": "Nismo’s Newest Collab Is A Set Of Grillz Shaped Like An R34 Grille For Your Teeth",
+      "summary": "Nismo will display the one-off collection of grillzs ahead of the final Formula E race of this season",
+      "url": "https://www.carscoops.com/2026/08/nismo-loud-mouth-grillz/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Nismo-Grillz-1-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Nismo-Grillz-1-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Nissan-UK-Grillz-1-1638x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Nissan-UK-Grillz-4-1638x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Nissan-UK-Grillz-7-1638x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Nissan-UK-Grillz-11-1638x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Nissan-Grillz-2-2048x1346.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-07T11:22:00+00:00"
+    },
+    {
+      "id": "425e38f70c0f40d2",
+      "title": "Refreshed Mahindra Scorpio N Starts Reaching Showrooms",
+      "summary": "The refreshed Mahindra Scorpio N has started arriving at dealerships across India. It gets a panoramic sunroof, 540-degree camera, larger touchscreen, digital cluster, and new alloy wheels, while prices and engine options remain unchanged.",
+      "url": "https://www.carwale.com/news/refreshed-mahindra-scorpio-n-starts-reaching-showrooms/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/225484/scorpio-n-exterior-right-front-three-quarter.jpeg?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/225484/scorpio-n-exterior-right-front-three-quarter.jpeg?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-07T11:13:10+00:00"
+    },
+    {
+      "id": "c33a5fd0d38e5788",
+      "title": "Geely EX2 estreia na Europa com bateria maior e mais autonomia do que no Brasil",
+      "summary": "Hatch elétrico inicia vendas na Bélgica prometendo uma autonomia de 345 km; versão nacional pode estrear nova bateria e será feito a partir do último trimestre",
+      "url": "https://quatrorodas.abril.com.br/carros-eletricos/geely-ex2-estreia-na-europa-com-bateria-maior-e-mais-autonomia-do-que-no-brasil/",
+      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/08/geely_e2_europe-1500x844-1-e1786020746190.jpg",
+      "images": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/08/geely_e2_europe-1500x844-1-e1786020746190.jpg",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/07/flagra-Geely-EX2-2027-nacional-3.webp?quality=70&w=1024&crop=1",
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/06/1FLP3104-GEELY-EX2-copy.jpg?quality=70&strip=info&w=1024&crop=1",
+        "https://assine.abril.com.br/wp-content/uploads/capas/4rodas_impresso.jpg?v=1785499252&resize=209,275",
+        "https://assine.abril.com.br/wp-content/uploads/capas/veja_impresso.jpg?v=1785499252&resize=209,275",
+        "https://assine.abril.com.br/wp-content/uploads/capas/super_impresso.jpg?v=1785499252&resize=209,275"
+      ],
+      "source": "Quatro Rodas BR",
+      "source_url": "https://quatrorodas.abril.com.br",
+      "published": "2026-08-07T11:08:33+00:00"
+    },
+    {
+      "id": "8151d86f733ae141",
+      "title": "Best EV Lease Deals: August 2026",
+      "summary": "Looking to go electric? These automakers have the best electric car deals right now.",
+      "url": "https://carbuzz.com/current-best-ev-lease-deals/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2026-porsche-cayenne-turbo-coupe-electric-exterior-details-studio-3.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2026-porsche-cayenne-turbo-coupe-electric-exterior-details-studio-3.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/bmw-3-10.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/p90505005__mid.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/bmw-i7_xdrive60_us-version-2023-1280-3284bc8f1c25bcdd1c219e214017bbd5a5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-cadillac-optiq-1st-gen-41.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-07T11:06:14+00:00"
+    },
+    {
+      "id": "cb8a8554696a489e",
+      "title": "BMW i3 Starts Series Production In Munich",
+      "summary": "Series production of the BMW i3 at Plant Munich marks the first major Neue Klasse manufacturing milestone and secures the site’s all-electric future.",
+      "url": "https://www.motor1.com/news/804161/bmw-i3-production-begins-munich/",
+      "image": "https://cdn.motor1.com/images/mgl/eo7XpM/s3/bmw-group-plant-munich-assembly---bmw-i3-pre-series.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/eo7XpM/s3/bmw-group-plant-munich-assembly---bmw-i3-pre-series.jpg",
+        "https://cdn.motor1.com/images/mgl/E6NMqe/s5/bmw-i3-production-at-bmw-plant-munich.jpg",
+        "https://cdn.motor1.com/images/mgl/6Z8Mxl/s5/bmw-i3-production-at-bmw-plant-munich.jpg",
+        "https://cdn.motor1.com/images/mgl/vx81eA/s5/bmw-i3-production-at-bmw-plant-munich.jpg",
+        "https://cdn.motor1.com/images/mgl/jlWvAy/s5/bmw-i3-production-at-bmw-plant-munich.jpg",
+        "https://cdn.motor1.com/images/mgl/Znz3N3/s5/bmw-i3-production-at-bmw-plant-munich.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-07T11:06:00+00:00"
     },
     {
       "id": "752ca52c4ea0ab93",
@@ -198,12 +470,7 @@
       "url": "https://www.topspeed.com/maserati-v8-return-emotional-positioning/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/05/fdggdf-copy.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/05/fdggdf-copy.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/medium-23129-04maseratilevantev8ultima.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/05/vgdf-copy.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/maserati-project-gt4.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/12/2024-maserati-gran-turismo-prima-serie-75th-anniversary-launch-edition.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/07/mv-agusta-superveloce-1000-serie-oro-front.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/05/fdggdf-copy.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -267,10 +534,10 @@
       "images": [
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/07080933/max-verstappen-passes-lewis-hamilton-and-liam-lawson-1-120x120.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06132558/lewis-hamilton-spa-media-day-talk-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06104107/max-verstappen-red-bull-charles-leclerc-ferrari-belgium-2026-planetf1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/05/20094842/george-russell-kimi-antonelli-mercedes-melbourne-2026-planetf1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/03175118/fernando-alonso-aston-martin-hungary-2026-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg"
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/05103505/carlos-sainz-future-hungary-interview-planetf1-712x400.jpg"
       ],
       "source": "PlanetF1",
       "source_url": "https://www.planetf1.com",
@@ -332,12 +599,7 @@
       "url": "https://www.autoexpress.co.uk/smart/1/370165/new-smart-1-2027-pictures",
       "image": "https://media.autoexpress.co.uk/image/private/s--PGIgXc6D--/t_rss_image_w_845/v1786098733/autoexpress/2026/08/New%20Smart%20%231%20-%20dynamic%20front%203_4_b5hru0.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--PGIgXc6D--/t_rss_image_w_845/v1786098733/autoexpress/2026/08/New%20Smart%20%231%20-%20dynamic%20front%203_4_b5hru0.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--PGIgXc6D--/f_auto,t_content-image-full-mobile@1/v1786098733/autoexpress/2026/08/New%20Smart%20%231%20-%20dynamic%20front%203_4_b5hru0.jpg",
-        "https://www.autoexpress.co.uk/smart/1/370165/t_content-image-full-desktop@1/v1786098733/autoexpress/2026/08/New%20Smart%20%231%20-%20dynamic%20front%203_4_b5hru0.jpg",
-        "https://www.autoexpress.co.uk/smart/1/370165/t_content-image-full-mobile@1/v1786098733/autoexpress/2026/08/New%20Smart%20%231%20-%20dynamic%20front%203_4_b5hru0.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--gModQGWY--/f_auto,t_content-image-full-mobile@1/v1786098732/autoexpress/2026/08/New%20Smart%20%231%20-%20cornering%20overhead_vhdtpu.jpg",
-        "https://www.autoexpress.co.uk/smart/1/370165/t_content-image-full-desktop@1/v1786098732/autoexpress/2026/08/New%20Smart%20%231%20-%20cornering%20overhead_vhdtpu.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--PGIgXc6D--/t_rss_image_w_845/v1786098733/autoexpress/2026/08/New%20Smart%20%231%20-%20dynamic%20front%203_4_b5hru0.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -348,14 +610,14 @@
       "title": "The Next Generation: Jak Crawford",
       "summary": "How my motorsport journey started “I started in karting when I first got in the go-kart when I was four years old. My dad had bought me a go-kart and then eventually started taking me to a track when I was six years old. “I was watching NASCAR mainly, I was more interested in NASCAR, being in America. Where I grew up it was the main thing, the main motorsport on TV and I really, really ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/the-next-generation-jak-crawford/10843349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/68VwWAB2/s6/jak-crawford-aston-martin.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/68VwWAB2/s6/jak-crawford-aston-martin.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/68VwWAB2/s6/jak-crawford-aston-martin.jpg",
-        "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-6.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-6.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
+        "https://cdn-8.motorsport.com/images/amp/68VwWAB2/s6/jak-crawford-aston-martin.jpg",
+        "https://cdn-1.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-6.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-2.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -369,15 +631,28 @@
       "image": "https://cdn-7.motorsport.com/images/amp/68VwWAB2/s6/jak-crawford-aston-martin.jpg",
       "images": [
         "https://cdn-7.motorsport.com/images/amp/68VwWAB2/s6/jak-crawford-aston-martin.jpg",
-        "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-6.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-6.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
+        "https://cdn-1.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-6.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-2.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
       "published": "2026-08-07T10:41:24+00:00"
+    },
+    {
+      "id": "19cdce06fd0631ff",
+      "title": "Volkswagen готовит к скорой премьере Atlas Cross Sport нового поколения",
+      "summary": "Пока что немецкая марка поделилась единственным тизером грядущего пятиместного паркетника, предназначенного в первую очередь для американского рынка. Его дебют пройдёт 10 августа 2026 года.",
+      "url": "https://www.kolesa.ru/news/volkswagen-gotovit-k-skoroi-premere-atlas-cross-sport-novogo-pokoleniia",
+      "image": "https://kolesa-uploads.ru/-/38056149-4633-4f80-ac9e-0c6c5721a01a/original-19836-my27-atlas-r-line-sacramentogreen-8112studios-1n9a7918.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/38056149-4633-4f80-ac9e-0c6c5721a01a/original-19836-my27-atlas-r-line-sacramentogreen-8112studios-1n9a7918.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-08-07T10:35:51+00:00"
     },
     {
       "id": "0240902f2147debd",
@@ -386,12 +661,7 @@
       "url": "https://www.crash.net/motogp/news/1102133/1/guenther-steiner-never-had-deal-situation-maverick-vinales",
       "image": "https://www.crash.net/sites/default/files/2026-06/gng_1330699_hires.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-06/gng_1330699_hires.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/pictures/img_8107.JPG",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1330411_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1331187_hires_1600x900.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1333656_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1332496_hires_1600x900.jpg?aspect_ratio=1:1"
+        "https://www.crash.net/sites/default/files/2026-06/gng_1330699_hires.jpg?width=1200"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -404,12 +674,7 @@
       "url": "https://www.topspeed.com/530-pound-cruiser-feels-like-big-american-v-twin/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/gallery-9-1920x1080-2.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/gallery-9-1920x1080-2.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-harley-davidson-heritage-classic-liberty-edition-8.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/riders-on-2026-kawasaki-vulcan-s-motorcycles-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/royal-enfield-super-meteor-650-along-with-a-model.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/royal-enfield-super-meteor-650-trio.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/royal-enfield-super-meteor-650-engine.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/gallery-9-1920x1080-2.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -471,7 +736,7 @@
         "https://motoringworld.in/wp-content/uploads/2026/08/Image-02.jpg-1536x1027.jpeg",
         "https://motoringworld.in/wp-content/uploads/2026/08/Image-03.jpg-1536x1027.jpeg",
         "https://motoringworld.in/wp-content/uploads/2026/08/Image-01.jpg-1536x1016.jpeg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-3.15.34-PM-1024x674.png"
+        "https://motoringworld.in/wp-content/uploads/2026/08/Image-7-1020x680.jpg"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -491,6 +756,19 @@
       "published": "2026-08-07T10:15:00+00:00"
     },
     {
+      "id": "bb7d90705b833b6f",
+      "title": "Новый smart #2: фотографии внешности без камуфляжа и основные характеристики",
+      "summary": "В электронной базе китайского Минпрома всплыл двухместный электромобиль smart нового поколения, его официальная премьера состоится в октябре на Парижском автосалоне.",
+      "url": "https://www.kolesa.ru/news/novyi-smart-2-fotografii-vnesnosti-bez-kamufliaza-i-osnovnye-xarakteristiki",
+      "image": "https://kolesa-uploads.ru/-/f938f95d-165a-4a17-a2fd-07f455364f55/0-0.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/f938f95d-165a-4a17-a2fd-07f455364f55/0-0.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-08-07T10:10:27+00:00"
+    },
+    {
       "id": "9723ebd65b56ea61",
       "title": "Cosworth Is The Silent Giant Behind The World’s Most Magnificent Classic And Modern Engines",
       "summary": "This engine builder is behind many road and racing legends, but has remained a little further out of the spotlight.",
@@ -507,24 +785,6 @@
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-08-07T10:09:14+00:00"
-    },
-    {
-      "id": "e0309bbbbb22196f",
-      "title": "BMW Just Started Building Its Model 3 Rival, And Munich Will Never Be The Same",
-      "summary": "The first version of the i3 has a 108.7 kWh battery and 563 miles (906 km) of driving range",
-      "url": "https://www.carscoops.com/2026/08/bmw-i3-munich-production/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-4-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-1-1366x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-6-1366x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/03/P90632228_highRes_the-new-bmw-i3-50-xd-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/03/P90632227_highRes_the-new-bmw-i3-50-xd-2048x1366.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-07T10:08:00+00:00"
     },
     {
       "id": "8106c90b0d3f0bb3",
@@ -577,12 +837,7 @@
       "url": "https://www.topspeed.com/2026-toyota-gr86-upgrade/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-4.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-4.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-5.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-6.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-3.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/07/mv-agusta-superveloce-1000-serie-oro-front.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-toyota-gr-86-4.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -643,25 +898,12 @@
         "https://motoringworld.in/wp-content/uploads/2026/08/Terra-8-2048x1365.jpg",
         "https://motoringworld.in/wp-content/uploads/2026/08/Image-02.jpg-1536x1027.jpeg",
         "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-3.16.01-PM-1024x680.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-3.15.34-PM-1024x674.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-3.15.46-PM-1024x673.png"
+        "https://motoringworld.in/wp-content/uploads/2026/08/Image-7-1020x680.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-3.15.34-PM-1024x674.png"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
       "published": "2026-08-07T09:55:30+00:00"
-    },
-    {
-      "id": "b58293d90c5eac43",
-      "title": "Tata Announces Attractive Onam Offers – Benefits Up To Rs. 2.25 Lakh",
-      "summary": "GaadiWaadi - Besides discount schemes, Tata has announced limited editions, priority deliveries and finance schemes for customers in Kerala throughout August 2026 as part of Onam celebrations Tata Motors has introduced its Onam campaign for Kerala with festive offers across its petrol, CNG and EV portfolios. Customers booking a new Tata vehicle during August can avail benefits […] The post Tata Announces Attractive Onam Offers – Benefits Up To Rs. 2.25 Lakh appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/tata-announces-attractive-onam-offers-benefits-up-to-rs-2-25-lakh/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/tata-sierra-jubilee-edition.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/08/tata-sierra-jubilee-edition.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T09:53:10+00:00"
     },
     {
       "id": "7971a1e175b5082f",
@@ -722,12 +964,7 @@
       "url": "https://motoringworld.in/car-news/porsche-unveils-a-stunning-one-off-911-turbo-s-thats-a-tribute-to-australias-wilderness/",
       "image": "http://motoringworld.in/wp-content/uploads/2026/08/Majestor-2-5-505x336.jpg",
       "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/08/Majestor-2-5-505x336.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Terra-8-2048x1365.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Image-02.jpg-1536x1027.jpeg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-3.15.34-PM-1024x674.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Majestor-10-768x512.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Majestor-2-5-768x512.jpg"
+        "http://motoringworld.in/wp-content/uploads/2026/08/Majestor-2-5-505x336.jpg"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -758,12 +995,7 @@
       "url": "https://www.crash.net/motogp/news/1102125/1/ktm-gets-permission-correct-motogp-engine-issue-not-time-silverstone",
       "image": "https://www.crash.net/sites/default/files/2026-07/gng_1329489_hires_1600x900.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-07/gng_1329489_hires_1600x900.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/pictures/picture-72168-1654791772.png",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1333563_hires_1600x900.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1333656_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1330785_hires_1600x900_1600x900.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1334445_hires_1600x900.jpg?aspect_ratio=1:1"
+        "https://www.crash.net/sites/default/files/2026-07/gng_1329489_hires_1600x900.jpg?width=1200"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -792,11 +1024,11 @@
       "title": "How WEC's Hypercar title fight is shaping up with revised 2026 calendar",
       "summary": "The second half of the 2026 World Endurance Championship promises an intense fight, with four rounds scheduled in the span of just over two months. The calendar had to be reshuffled twice in the wake of the Iran war, and the impact of the changes is multifold. The gap left by the cancelled Qatar round has been filled by a first-ever WEC visit to Barcelona, while Monza replaces Bahrain as the ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar/10844657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn-9.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-3.motorsport.com/images/amp/2eZxgV1Y/s1000/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-4.motorsport.com/images/amp/2eZxgV1Y/s1000/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/0o5PXo1Y/s1000/race-start.jpg",
         "https://cdn.motorsport.com/images/amp/YK15b710/s2/ferrari-499p-evo-test-a-monza.jpg",
         "https://cdn.motorsport.com/images/mgl/0ZqAKBd6/s1000/7-toyota-gazoo-racing-toyota-t.jpg"
@@ -810,11 +1042,11 @@
       "title": "How WEC's Hypercar title fight is shaping up with revised 2026 calendar",
       "summary": "The second half of the 2026 World Endurance Championship promises an intense fight, with four rounds scheduled in the span of just over two months. The calendar had to be reshuffled twice in the wake of the Iran war, and the impact of the changes is multifold. The gap left by the cancelled Qatar round has been filled by a first-ever WEC visit to Barcelona, while Monza replaces Bahrain as the ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar/10844657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-8.motorsport.com/images/amp/2eZxgV1Y/s1000/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-4.motorsport.com/images/amp/2eZxgV1Y/s1000/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn.motorsport.com/images/mgl/0o5PXo1Y/s1000/race-start.jpg",
         "https://cdn.motorsport.com/images/amp/YK15b710/s2/ferrari-499p-evo-test-a-monza.jpg",
         "https://cdn.motorsport.com/images/mgl/0ZqAKBd6/s1000/7-toyota-gazoo-racing-toyota-t.jpg"
@@ -844,8 +1076,8 @@
       "image": "https://cdn-3.motorsport.com/images/amp/6b8Zjm32/s6/20-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
         "https://cdn-3.motorsport.com/images/amp/6b8Zjm32/s6/20-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
-        "https://cdn-9.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-4.motorsport.com/images/amp/6b8Zjm32/s1000/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-6.motorsport.com/images/amp/6b8Zjm32/s1000/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn.motorsport.com/images/mgl/0o5PXo1Y/s1000/race-start.jpg",
         "https://cdn.motorsport.com/images/mgl/0ZqAKBd6/s1000/7-toyota-gazoo-racing-toyota-t.jpg",
         "https://cdn.motorsport.com/images/amp/YXyp9VP6/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
@@ -859,11 +1091,11 @@
       "title": "How the revised WEC 2026 calendar impacts title fight",
       "summary": "The second half of the 2026 World Endurance Championship promises an intense fight, with four rounds scheduled in the span of just over two months. The calendar had to be reshuffled twice in the wake of the Iran war, and the impact of the changes is multifold. The gap left by the cancelled Qatar round has been filled by a first-ever WEC visit to Barcelona, while Monza replaces Bahrain as the ... Keep reading",
       "url": "https://www.autosport.com/wec/news/how-new-wec-calendar-impacts-title-fight/10844662/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/6b8Zjm32/s6/20-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/6b8Zjm32/s6/20-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/6b8Zjm32/s6/20-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
-        "https://cdn-4.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-1.motorsport.com/images/amp/6b8Zjm32/s1000/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/6b8Zjm32/s6/20-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-6.motorsport.com/images/amp/6b8Zjm32/s1000/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn.motorsport.com/images/mgl/0o5PXo1Y/s1000/race-start.jpg",
         "https://cdn.motorsport.com/images/mgl/0ZqAKBd6/s1000/7-toyota-gazoo-racing-toyota-t.jpg",
         "https://cdn.motorsport.com/images/amp/YXyp9VP6/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
@@ -892,12 +1124,7 @@
       "url": "https://www.hotcars.com/old-turbo-diesel-toyota-land-cruiser-conquer-anything/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-2-1.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-2-1.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-29.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-24.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-72.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-17.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-4.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/legacyoverland-projsnow-bj42-finished-2-1.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -917,8 +1144,8 @@
       "published": "2026-08-07T09:30:03+00:00"
     },
     {
-      "id": "a37dd7338e8c6f40",
-      "title": "Zoox Can Start Charging For Wheel-Free Robotaxis In Las Vegas",
+      "id": "2a5107ef3bb3873f",
+      "title": "Zoox Can Start Charging For Steering Wheel-Free Robotaxis In Las Vegas",
       "summary": "Federal regulators grant Zoox a two-year, 2,500-vehicle exemption in Las Vegas, testing how US robotaxi rules handle steering-wheel-free shuttles.",
       "url": "https://www.motor1.com/news/804141/zoox-robotaxi-approval-opens-a/",
       "image": "https://cdn.motor1.com/images/mgl/Znz3wZ/s3/zoox-robotaxi-in-las-vegas.jpg",
@@ -1013,19 +1240,6 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-08-07T09:15:02+00:00"
-    },
-    {
-      "id": "255fcfbed3154616",
-      "title": "New Bajaj Pulsar N160 S & N160 SS Launched At Rs. 1.33 Lakh",
-      "summary": "GaadiWaadi - Bajaj Pulsar N160 S and N160 SS get a more powerful engine, electronic throttle tech, ride modes and a segment-first TFT display with Google Maps mirroring Bajaj Auto has consolidated its Pulsar lineup with the introduction of the all-new Pulsar N160 S and Pulsar N160 SS as part of celebrating 25 years of the Pulsar […] The post New Bajaj Pulsar N160 S & N160 SS Launched At Rs. 1.33 Lakh appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/new-bajaj-pulsar-n160-s-n160-ss-launched-at-rs-1-33-lakh/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/New-Bajaj-Pulsar-N160-S-N160-SS-2.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/08/New-Bajaj-Pulsar-N160-S-N160-SS-2.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T09:14:02+00:00"
     },
     {
       "id": "4851a843d34b5f8b",
@@ -1180,9 +1394,9 @@
       "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06132558/lewis-hamilton-spa-media-day-talk-planetf1-120x120.jpg",
       "images": [
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06132558/lewis-hamilton-spa-media-day-talk-planetf1-120x120.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/07080933/max-verstappen-passes-lewis-hamilton-and-liam-lawson-1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/05/20094842/george-russell-kimi-antonelli-mercedes-melbourne-2026-planetf1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/03175118/fernando-alonso-aston-martin-hungary-2026-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06104107/max-verstappen-red-bull-charles-leclerc-ferrari-belgium-2026-planetf1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/05103505/carlos-sainz-future-hungary-interview-planetf1-712x400.jpg"
       ],
@@ -1195,14 +1409,13 @@
       "title": "Silverstone MotoGP LIVE: Updates from Friday Practice",
       "summary": "Live coverage of the Friday practice sessions at the 2026 Silverstone MotoGP, round 12 of the 2026 championship.",
       "url": "https://www.crash.net/motogp/live/1044229/silverstone-motogp-live-updates-friday-practice",
-      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1332836_hires.jpg?width=1200",
+      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1335244_hires.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-08/gng_1332836_hires.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1335244_hires.jpg?width=1200",
         "https://www.crash.net/sites/default/files/pictures/picture-alex-w.jpg",
-        "https://www.crash.net/sites/default/files/2026-07/gng_1328780_hires.jpg?width=1920&format=jpeg",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1332544_hires.jpg?width=1920&format=jpeg",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1335139_hires_1600x900.jpg?width=1920&format=jpeg",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1331749_hires.jpg?width=1920&format=jpeg"
+        "https://www.crash.net/sites/default/files/2026-08/gng_1335211_hires.jpg?width=1920&format=jpeg",
+        "https://www.crash.net/sites/default/files/2026-08/alex-marquez.jpg?width=1920&format=jpeg",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1328780_hires.jpg?width=1920&format=jpeg"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -1213,14 +1426,14 @@
       "title": "2026 MotoGP British Grand Prix – How to watch, session times & more",
       "summary": "MotoGP returns to action after a three-week summer break, with the British Grand Prix marking the start of the second half of the season. Aprilia's Jorge Martin heads to Silverstone as the championship leader. but with only 24 points seperating the top three runners, he may not remain at the top of the standings come the end of the weekend. Aprilia and Ducati are again expected to be duke it ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/2026-motogp-british-grand-prix-how-to-watch-session-times-more/10844645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
-        "https://cdn-1.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-2.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-9.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
+        "https://cdn-4.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
+        "https://cdn-3.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-9.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-7.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1231,14 +1444,14 @@
       "title": "2026 MotoGP British Grand Prix – How to watch, session times & more",
       "summary": "MotoGP returns to action after a three-week summer break, with the British Grand Prix marking the start of the second half of the season. Aprilia's Jorge Martin heads to Silverstone as the championship leader. but with only 24 points seperating the top three runners, he may not remain at the top of the standings come the end of the weekend. Aprilia and Ducati are again expected to be duke it ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/2026-motogp-british-grand-prix-how-to-watch-session-times-more/10844645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
-        "https://cdn-1.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-2.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-9.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
+        "https://cdn-3.motorsport.com/images/amp/2QzAEx3Y/s6/marc-marquez-ducati-team.jpg",
+        "https://cdn-2.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-3.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-4.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -1347,29 +1560,11 @@
       "url": "https://www.hotcars.com/new-mazda-miata-mitsuoka-build-teaser/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/screenshot_2026-08-06_at_11-42-10_pm.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/screenshot_2026-08-06_at_11-42-10_pm.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/1968-ford-torino-gt-mecum-3.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1993-ford-fox-body-mustang-gt.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/img_4239.jpeg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/2024-mazda-cx-90_1.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/dead-seat-removal.png?q=49&fit=crop&w=268&h=402&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/screenshot_2026-08-06_at_11-42-10_pm.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-08-07T08:30:13+00:00"
-    },
-    {
-      "id": "22be03b5a4eb70dc",
-      "title": "Royal Enfield Himalayan 750 To Likely Make Global Debut In November",
-      "summary": "GaadiWaadi - Royal Enfield Himalayan 750 is expected to arrive at EICMA 2026 before reaching India by late 2026 or early 2027 with a new twin-cylinder engine Royal Enfield is gearing up to unveil its biggest adventure motorcycle yet. The all-new Himalayan 750 is expected to make its global debut at EICMA 2026 in November while an […] The post Royal Enfield Himalayan 750 To Likely Make Global Debut In November appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/royal-enfield-himalayan-750-to-likely-make-global-debut-in-november/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/RE-Himalayan-750-1.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/08/RE-Himalayan-750-1.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T08:30:07+00:00"
     },
     {
       "id": "2dc4f2ac1bed441d",
@@ -1394,7 +1589,7 @@
         "https://cdn.motor1.com/images/mgl/E6P9vo/s3/2024-kia-telluride.jpg",
         "https://cdn.motor1.com/images/video-thumbs/youtube/cWD4393034w/s3/thumb.jpg"
       ],
-      "source": "Motor1",
+      "source": "Motor1 Industry",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-07T08:30:00+00:00"
     },
@@ -1412,38 +1607,38 @@
       "published": "2026-08-07T08:24:00+00:00"
     },
     {
-      "id": "887ea9c3e6f03b12",
-      "title": "Clark, Senna, Antonelli – How the grand chelem age record evolved",
+      "id": "9636b96ba5b80c4d",
+      "title": "Clark, Senna, Antonelli – How the grand chelem age record has evolved",
       "summary": "Juan Manuel Fangio – 38y, 10m, 27d 1950 Monaco GP The first-ever grand chelem – leading the whole race from pole position and setting the fastest lap on your way to victory – occurred in just the second race of the Formula 1 world championship. Future five-time title winner Juan Manuel Fangio was fastest by 2.6s in qualifying. The 38-year-old Argentine made it past Tabac corner ... Keep reading",
-      "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+      "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "image": "https://cdn-4.motorsport.com/images/amp/6AlvRNGY/s6/juan-manuel-fangio-alfa-romeo.jpg",
       "images": [
         "https://cdn-4.motorsport.com/images/amp/6AlvRNGY/s6/juan-manuel-fangio-alfa-romeo.jpg",
-        "https://cdn-9.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-5.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn-8.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-1.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
+        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-3.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp"
       ],
-      "source": "Autosport All",
+      "source": "Autosport F1",
       "source_url": "https://www.autosport.com",
       "published": "2026-08-07T08:20:17+00:00"
     },
     {
-      "id": "a30f58259206b3e0",
-      "title": "Clark, Senna, Antonelli – How the grand chelem age record evolved",
+      "id": "4df556de4c5475d9",
+      "title": "Clark, Senna, Antonelli – How the grand chelem age record has evolved",
       "summary": "Juan Manuel Fangio – 38y, 10m, 27d 1950 Monaco GP The first-ever grand chelem – leading the whole race from pole position and setting the fastest lap on your way to victory – occurred in just the second race of the Formula 1 world championship. Future five-time title winner Juan Manuel Fangio was fastest by 2.6s in qualifying. The 38-year-old Argentine made it past Tabac corner ... Keep reading",
-      "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s6/juan-manuel-fangio-alfa-romeo.jpg",
+      "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+      "image": "https://cdn-7.motorsport.com/images/amp/6AlvRNGY/s6/juan-manuel-fangio-alfa-romeo.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s6/juan-manuel-fangio-alfa-romeo.jpg",
-        "https://cdn-9.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-4.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-3.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
+        "https://cdn-7.motorsport.com/images/amp/6AlvRNGY/s6/juan-manuel-fangio-alfa-romeo.jpg",
+        "https://cdn-9.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-1.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
+        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-2.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp"
       ],
-      "source": "Autosport F1",
+      "source": "Autosport All",
       "source_url": "https://www.autosport.com",
       "published": "2026-08-07T08:20:17+00:00"
     },
@@ -1478,9 +1673,9 @@
       "title": "F1 2026 mid-season grades: Aston Martin seeks redemption after shocking start",
       "summary": "When Lawrence Stroll started assembling his superteam in his brand-new state-of-the-art headquarters, led by design guru Adrian Newey, Aston Martin was expected to use the 2026 rules reset to take Formula 1 by storm. Quite how bad a start that era got off to was not something he or anyone in green had in mind. Between the team's delayed 2026 development and Honda's struggles, Aston has been on ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-aston-martin-seeks-redemption-after-shocking-start/10844630/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg",
+        "https://cdn-4.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg",
         "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
         "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
         "https://cdn-6.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
@@ -1496,9 +1691,9 @@
       "title": "F1 2026 mid-season grades: Aston Martin seeks redemption after shocking start",
       "summary": "When Lawrence Stroll started assembling his superteam in his brand-new state-of-the-art headquarters, led by design guru Adrian Newey, Aston Martin was expected to use the 2026 rules reset to take Formula 1 by storm. Quite how bad a start that era got off to was not something he or anyone in green had in mind. Between the team's delayed 2026 development and Honda's struggles, Aston has been on ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-aston-martin-seeks-redemption-after-shocking-start/10844630/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg"
+        "https://cdn-4.motorsport.com/images/amp/YvKBxrG6/s6/team-report-card-am.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1584,7 +1779,7 @@
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/05/20094842/george-russell-kimi-antonelli-mercedes-melbourne-2026-planetf1-120x120.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06132558/lewis-hamilton-spa-media-day-talk-planetf1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/03175118/fernando-alonso-aston-martin-hungary-2026-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/06104107/max-verstappen-red-bull-charles-leclerc-ferrari-belgium-2026-planetf1-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/07080933/max-verstappen-passes-lewis-hamilton-and-liam-lawson-1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/05103505/carlos-sainz-future-hungary-interview-planetf1-712x400.jpg"
       ],
@@ -1703,12 +1898,7 @@
       "url": "https://www.carscoops.com/2026/08/peugeot-2030-model-plan/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Peugeot-Concept-8-00002-copy-1024x575.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Peugeot-Concept-8-00002-copy-1024x575.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2024/02/2022-Peugeot-e-2008-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mahindra-Scorpio-N-2026-3-copy-copy-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-Land-Cruiser-200-Series-1-Million-Km-Auction-1-copy-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Mustang_Mach-E_California-Special_03-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Peugeot-Concept-8-00002-copy-1024x575.jpg"
       ],
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
@@ -1919,19 +2109,6 @@
       "source": "PlanetF1",
       "source_url": "https://www.planetf1.com",
       "published": "2026-08-07T07:01:13+00:00"
-    },
-    {
-      "id": "bec34b90286a658b",
-      "title": "BMW X1 LWB To Launch In India On August 21 – All Key Details",
-      "summary": "GaadiWaadi - BMW X1 LWB features a larger cabin, premium features and a more spacious rear seat than the standard model BMW India is all set to consolidate its SUV portfolio as it will introduce the new X1 Long Wheelbase version on August 21, 2026. Already on sale in overseas markets, it will become the first long-wheelbase […] The post BMW X1 LWB To Launch In India On August 21 – All Key Details appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/bmw-x1-lwb-to-launch-in-india-on-august-21-all-key-details/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/BMW-X1-LWB-2026-India-1.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/08/BMW-X1-LWB-2026-India-1.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T07:00:44+00:00"
     },
     {
       "id": "68278ca211f53940",
@@ -2251,10 +2428,10 @@
       "published": "2026-08-07T05:45:03+00:00"
     },
     {
-      "id": "68629b76333a3742",
-      "title": "Strong Hybrid Car Sales H1 2026 – Innova, Hydyder, Vitara, Victoris, City",
-      "summary": "For H1 2026, strong hybrid car sales chart consists of Innova Hycross, Hyryder, Grand Vitara, Victoris, Invicto, City e:HEV and others The post Strong Hybrid Car Sales H1 2026 – Innova, Hydyder, Vitara, Victoris, City appeared first on RushLane .",
-      "url": "https://www.rushlane.com/strong-hybrid-car-sales-h1-2026-innova-hydyder-vitara-victoris-city-12552660.html",
+      "id": "96d3d59680f86c20",
+      "title": "Strong Hybrid Car Sales H1 2026 – Innova, Hyryder, Vitara, Victoris, City",
+      "summary": "For H1 2026, strong hybrid car sales chart consists of Innova Hycross, Hyryder, Grand Vitara, Victoris, Invicto, City e:HEV and others The post Strong Hybrid Car Sales H1 2026 – Innova, Hyryder, Vitara, Victoris, City appeared first on RushLane .",
+      "url": "https://www.rushlane.com/strong-hybrid-car-sales-h1-2026-innova-hyryder-vitara-victoris-city-12552660.html",
       "image": "https://www.rushlane.com/wp-content/uploads/2024/04/toyota-innova-hycross-gx-O-launched.jpg",
       "images": [
         "https://www.rushlane.com/wp-content/uploads/2024/04/toyota-innova-hycross-gx-O-launched.jpg"
@@ -2275,19 +2452,6 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-08-07T05:30:03+00:00"
-    },
-    {
-      "id": "14bb83f61f983099",
-      "title": "Tata Model Wise Sales July 2026 – Punch, Nexon & Sierra Drive 58% Growth",
-      "summary": "GaadiWaadi - Tata recorded 62,611 unit sales in July 2026 as Punch, Nexon and Sierra helped post a 58 per cent year-on-year increase in India Tata Motors recorded another healthy month in the PV space in July 2026 after dispatching a total of 62,611 units and registering a massive 58 per cent increase over the 39,521 units […] The post Tata Model Wise Sales July 2026 – Punch, Nexon & Sierra Drive 58% Growth appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/tata-model-wise-sales-july-2026-punch-nexon-sierra-drive-58-growth/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/07/Tata-Sierra-EV-16.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/07/Tata-Sierra-EV-16.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T05:30:02+00:00"
     },
     {
       "id": "9421b8c91ae6d2a7",
@@ -2528,19 +2692,6 @@
       "published": "2026-08-07T04:01:31+00:00"
     },
     {
-      "id": "7c49fe5b64164f4a",
-      "title": "India’s First AI-Powered E3 Trion Electric Scooter Launched At Rs. 99,999",
-      "summary": "GaadiWaadi - E3 Electric.AI has entered electric scooter market with the all-new E3 Trion boasting predictive intelligence, modular battery options, connected tech Bengaluru-based E3 Electric.AI has officially entered electric two-wheeler market after unveiling the all-new E3 Trion. Endorsed as India’s first AI-powered intelligent electric scooter, the new model gets predictive software, connected technology and a modular platform […] The post India’s First AI-Powered E3 Trion Electric Scooter Launched At Rs. 99,999 appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/indias-first-ai-powered-e3-trion-electric-scooter-launched-at-rs-99999/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/E3-Trion-1.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/08/E3-Trion-1.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T04:00:19+00:00"
-    },
-    {
       "id": "f81fe362ee682190",
       "title": "ベントレー初のEV『トルカル』、「キュレーションエンジン」搭載…4つのモードで車内体験を最適化",
       "summary": "ベントレーは8月6日、ベントレー初の完全電気自動車『トルカル』に搭載される「キュレーションエンジン」を発表した。",
@@ -2565,19 +2716,6 @@
       "source": "RushLane IN",
       "source_url": "https://rushlane.com",
       "published": "2026-08-07T03:26:34+00:00"
-    },
-    {
-      "id": "95fe79781681e978",
-      "title": "Top 10 SUVs July 2026 – Punch, Fronx, Creta, Nexon, Scorpio, Seltos",
-      "summary": "GaadiWaadi - Tata Punch retained the top spot in the SUVs list for July 2026 while Maruti Suzuki secured three positions in the top 10 and Mahindra placed three models The SUV segment recorded another appreciable month in July 2026 and it was led by the Tata Punch as the micro SUV recorded the highest monthly volume […] The post Top 10 SUVs July 2026 – Punch, Fronx, Creta, Nexon, Scorpio, Seltos appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/top-10-suvs-july-2026-punch-fronx-creta-nexon-scorpio-seltos/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/01/2026-tata-punch-facelift-3.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/01/2026-tata-punch-facelift-3.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-07T03:15:13+00:00"
     },
     {
       "id": "710e5a575447f393",
@@ -2778,12 +2916,7 @@
       "url": "https://carbuzz.com/how-fords-500-lb-ft-ecoboost-v6-humbles-a-duramax-diesel/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/ford-ecoboost-v6.png",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/ford-ecoboost-v6.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/cropped-screenshot-2025-10-30-183445.png?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/2025-ford-f-150.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2022-2026-chevrolet-silverado-1500-4th-gen-gmtt1xx-facelift-44.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/ram-1500-2025-1280-fb5370194481f3f2d25d5271d169166cdb.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/ford-ecoboost-v6.png"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -2872,14 +3005,14 @@
       "title": "Jack Miller says post-MotoGP decision is nearing amid Yamaha WSBK rumours",
       "summary": "Pramac MotoGP rider Jack Miller says talks with Yamaha about his future are progressing well and an announcement could be made in the coming weeks. The Australian strongly hinted that he could switch to the World Superbike Championship next year, with his time in MotoGP set to come to an end after 12 seasons. Yamaha is expected to promote Izan Guevara from Moto2 to partner incumbent Toprak ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours/10844554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg",
-        "https://cdn-4.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-3.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-2.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp",
-        "https://cdn-1.motorsport.com/images/amp/01QdVpZ0/s200/jack-miller-pramac-racing.webp"
+        "https://cdn-9.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg",
+        "https://cdn-1.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-2.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-9.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -2890,9 +3023,9 @@
       "title": "Jack Miller says post-MotoGP decision is nearing amid Yamaha WSBK rumours",
       "summary": "Pramac MotoGP rider Jack Miller says talks with Yamaha about his future are progressing well and an announcement could be made in the coming weeks. The Australian strongly hinted that he could switch to the World Superbike Championship next year, with his time in MotoGP set to come to an end after 12 seasons. Yamaha is expected to promote Izan Guevara from Moto2 to partner incumbent Toprak ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours/10844554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg"
+        "https://cdn-1.motorsport.com/images/amp/01QdVpZ0/s6/jack-miller-pramac-racing.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3302,24 +3435,6 @@
       "published": "2026-08-06T22:54:00+00:00"
     },
     {
-      "id": "9fcc5020a6c86f75",
-      "title": "Ford Names Its Sub-$30k Electric Pickup: Fathom",
-      "summary": "The affordable midsize EV will anchor Ford's new low-cost strategy, testing whether mainstream buyers are finally ready for an electric truck.",
-      "url": "https://www.autoweek.com/news/a73370892/ford-fathom-ev-truck-name-reveal/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/8d09c16e-76d4-486b-a7a1-b39c5157d236.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/8d09c16e-76d4-486b-a7a1-b39c5157d236.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7981a6d1-b3b9-4ede-a403-bfbab4f7a9ac.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/f954f285-f58a-4130-a6aa-28d8b33b05fb.jpg?crop=0.667xw:1xh;0.086xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/6103a91e-ab8d-4192-bfec-a22d2c544949.jpg?crop=0.5626666666666666xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/95165c4c-66ba-481d-a896-b14e65ed1393.jpg?crop=0.666xw:1.00xh;0.155xw,0&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/7187f39a-9c87-445f-b9a5-28b83f825a5e.jpg?crop=0.5630899633981892xw:1xh;center,top&resize=360:*"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-06T22:50:45+00:00"
-    },
-    {
       "id": "494007dc2b4ef5e6",
       "title": "NYC is putting 600 new EV charging points right at the curb",
       "summary": "New York City is going to install 600 new curbside EV charging points across all five boroughs, expanding its network from just 88 Level 2 ports to nearly 700.",
@@ -3506,9 +3621,9 @@
       "title": "How to watch NASCAR at Iowa: Weekend schedule, start time, TV",
       "summary": "NASCAR is racing at Iowa Speedway this weekend for Round 23 of the 26-race regular season. Both the Cup and O'Reilly Series will be racing at the short track, along with ARCA. William Byron is the defending winner of the Iowa Cup race, but the Hendrick Motorsports driver is winless so far in the 2026 season. Corey Heim won the most recent Cup race at Indianapolis, but as a part-time driver, he ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/how-to-watch-nascar-at-iowa-weekend-schedule-start-time-tv/10844569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/YEQRWrqY/s6/chase-briscoe-joe-gibbs-racing.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/YEQRWrqY/s6/chase-briscoe-joe-gibbs-racing.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YEQRWrqY/s6/chase-briscoe-joe-gibbs-racing.jpg"
+        "https://cdn-7.motorsport.com/images/amp/YEQRWrqY/s6/chase-briscoe-joe-gibbs-racing.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3633,9 +3748,9 @@
       "title": "New Hampshire Motor Speedway confirms return to the NASCAR Chase in 2027",
       "summary": "The September 25-26 race weekend will once again return to New Hampshire Motor Speedway (NHMS) for the 2027 NASCAR season, hosting both the NASCAR Cup and NASCAR Craftsman Truck Series. “We are thrilled to return to September and The Chase next year,” said New Hampshire Motor Speedway Executive Vice President and General Manager David McGrath. “Last September, New England race fans showed ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/new-hampshire-motor-speedway-confirms-return-to-the-nascar-cup-chase-in-2027/10844605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/YEQRnKGY/s6/general-view.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YEQRnKGY/s6/general-view.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YEQRnKGY/s6/general-view.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YEQRnKGY/s6/general-view.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3698,9 +3813,9 @@
       "title": "Iowa Speedway secures July 4th race for 2027 NASCAR Cup season",
       "summary": "The Iowa Speedway short track will host a NASCAR weekend from July 2-4 in 2027, moving a month earlier in the Cup schedule to race on Independence Day. The Cup Series will be joined by the O'Reilly Series and ARCA Menard's Series. The track has sold out for three consecutive years after joining the Cup schedule in 2024. Originally, the inaugural Cup race at Iowa was scheduled for mid-June, but ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/iowa-speedway-secures-july-4th-race-for-2027-nascar-cup-season/10844603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/6D1yLzx0/s6/general-view.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/6D1yLzx0/s6/general-view.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/6D1yLzx0/s6/general-view.jpg"
+        "https://cdn-8.motorsport.com/images/amp/6D1yLzx0/s6/general-view.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3775,12 +3890,7 @@
       "url": "https://quatrorodas.abril.com.br/noticias/grupo-chery-confirma-cinco-novas-marcas-no-brasil-ate-2028/",
       "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/04/Freelander-8-2026.webp",
       "images": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/04/Freelander-8-2026.webp",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/08/icaur-v27-1-e1785971342395.webp?quality=70&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/04/l8-1-e1786042362967.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/08/lepas-l4-e1786042560896.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2023/10/exeed-rx-e1786042306158.jpg?quality=70&strip=info&w=1024&crop=1",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2024/06/luxeed_s7_2-e1718898935107.jpeg?quality=70&strip=info&w=1024&crop=1"
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/04/Freelander-8-2026.webp"
       ],
       "source": "Quatro Rodas BR",
       "source_url": "https://quatrorodas.abril.com.br",
@@ -3829,24 +3939,6 @@
       "source": "Motorious",
       "source_url": "https://motorious.com",
       "published": "2026-08-06T20:15:06+00:00"
-    },
-    {
-      "id": "de059a1ad25d007f",
-      "title": "Bugatti Reveals the Gorgeous Destrier, Third Creation of its Programme Solitaire",
-      "summary": "The brand’s coachbuilding division will show the one-off at Monterey.",
-      "url": "https://www.autoweek.com/news/a73366563/bugatti-destrier-reveal/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ded2b83a-53f4-4c15-9c97-2392ac6454b9.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ded2b83a-53f4-4c15-9c97-2392ac6454b9.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/804e15a0-e0d7-4388-b7b8-4d01cec1c398.jpg?crop=1xw:1xh;center,top",
-        "https://hips.hearstapps.com/hmg-prod/images/42a4bd93-7155-4b94-8150-57d8a37cb6d1.jpg?crop=1xw:1xh;center,top",
-        "https://hips.hearstapps.com/hmg-prod/images/2d91a105-fe2d-40ed-aabc-aae3c2b75965.jpg?crop=1xw:1xh;center,top",
-        "https://hips.hearstapps.com/hmg-prod/images/01d2562f-512b-4d3d-83a8-ccc6a49575c0.jpg?crop=1xw:1xh;center,top",
-        "https://hips.hearstapps.com/hmg-prod/images/7ff2a711-8ac6-494f-8b90-24a25c79ba43.jpg?crop=1xw:1xh;center,top"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-06T20:13:44+00:00"
     },
     {
       "id": "491a22a3a36c4c7b",
@@ -3899,32 +3991,6 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-06T20:00:44+00:00"
-    },
-    {
-      "id": "75b02e653576a37e",
-      "title": "The Oldsmobile Muscle Car That Matched The LS6 Chevelle For Half The Price",
-      "summary": "The 1970 Oldsmobile 4-4-2 W-30 packed 370 hp and 500 lb-ft to rival the LS6 Chevelle SS 454 — at a lower price.",
-      "url": "https://www.hotcars.com/oldsmobile-muscle-car-matched-ls6-chevelle-half-price/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1970-442-trunk-decal.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1970-442-trunk-decal.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-08-06T20:00:13+00:00"
-    },
-    {
-      "id": "a05dbab84e006276",
-      "title": "2026 Hyundai Venue: Why This Hyundai SUV Is The Smartest Budget SUV",
-      "summary": "The 2026 Hyundai Venue starts at $20,550 and includes Apple CarPlay, safety tech, and a 10-year powertrain warranty—the best budget SUV in America.",
-      "url": "https://www.topspeed.com/hyundai-suv-smartest-budget-suv/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2026-hyundai-venue.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2026-hyundai-venue.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-06T20:00:10+00:00"
     },
     {
       "id": "e9724f218a6439a0",
@@ -4020,32 +4086,6 @@
       "published": "2026-08-06T19:47:54+00:00"
     },
     {
-      "id": "e563d67cfc7e70d6",
-      "title": "2027 Bugatti Destrier Interior And Exterior Picture Gallery",
-      "summary": "Bugatti strips the Bolide of every wing and vent, leaving a one-of-one sculpture with 1,600 PS and a body pared back to pure proportion.",
-      "url": "https://www.topspeed.com/2027-bugatti-destrier-interior-and-exterior-picture-gallery/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2027-bugatti-destrier-23.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2027-bugatti-destrier-23.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-06T19:47:13+00:00"
-    },
-    {
-      "id": "b082f8b6c59cef8c",
-      "title": "Over 1 Million Ram Trucks Recalled Because Of A Simple Assembly Error",
-      "summary": "There's no material defect, but assembly issues could have some seat belts non-compliant in the eyes of the law.",
-      "url": "https://carbuzz.com/ram-trucks-seat-belt-recall-august-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/rm025_039fn.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/rm025_039fn.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-06T19:45:21+00:00"
-    },
-    {
       "id": "766b5c21c1733dcf",
       "title": "IndyCar silly season in holding pattern as the big fish close on deals",
       "summary": "We haven’t had much movement in the silly season during the month that followed Mid-Ohio, but that doesn't mean things aren't heating up in the background...",
@@ -4070,24 +4110,6 @@
       "source": "Kolesa RU",
       "source_url": "https://www.kolesa.ru",
       "published": "2026-08-06T19:33:44+00:00"
-    },
-    {
-      "id": "a5c37f5c43ca97a5",
-      "title": "2026 Kia Sportage PHEV Prestige: How It Felt After 900 miles",
-      "summary": "Off road, on road, packed to the gills, Kia’s popular compact SUV it did it all.",
-      "url": "https://www.autoweek.com/news/a73361839/2026-kia-sportage-phev-prestige-drive-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c14e4aaa-b92c-47e8-9406-019fe9947399.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/c14e4aaa-b92c-47e8-9406-019fe9947399.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/9c6e4ad2-dafc-42cb-9f3a-f8b74a8d0a1b.jpg?crop=1xw:0.842xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/cf1c0255-2acf-4305-b03c-6f9360ff62bb.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/75bd0464-7fc1-44d0-b361-5baca3279a4d.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/b43506c4-60dd-48ba-9671-b93f9d8a5ca5.jpg?crop=1xw:1xh;center,top&resize=640:*",
-        "https://hips.hearstapps.com/hmg-prod/images/7d6e05e5-8eba-4635-8cf4-58367315c6d7.jpg?crop=0.679xw:1.00xh;0.161xw,0&resize=360:*"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-06T19:33:04+00:00"
     },
     {
       "id": "1516c828e1cbeaf5",
@@ -4120,14 +4142,14 @@
       "title": "Marcus Ericsson will remain with Andretti for 2027 IndyCar season",
       "summary": "Marcus Ericsson will continue as a driver for Andretti Global into the 2027 IndyCar season, piloting the No. 28 entry. The ex-F1 driver and IndyCar star has been with Andretti since the start of the 2024 season. They've yet to win a race together, but have collected two runner-up finishes and a pole position. Ericsson will continue alongside teammates Kyle Kirkwood and Will Power for his ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season/10844598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg",
-        "https://cdn-6.motorsport.com/images/amp/6b8jgy32/s1000/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-7.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg",
+        "https://cdn-5.motorsport.com/images/amp/6b8jgy32/s1000/marcus-ericsson-andretti-globa.webp",
         "https://cdn.motorsport.com/images/mgl/24Qe4ANY/s1000/marcus-ericsson-andretti-globa.jpg",
         "https://cdn.motorsport.com/images/amp/6l9rDMj0/s2/callum-ilott-prema-racing.jpg",
-        "https://cdn-9.motorsport.com/images/amp/YEQRWrqY/s300/chase-briscoe-joe-gibbs-racing.webp",
-        "https://cdn-5.motorsport.com/images/amp/YEQRnKGY/s300/general-view.webp"
+        "https://cdn-8.motorsport.com/images/amp/YEQRWrqY/s300/chase-briscoe-joe-gibbs-racing.webp",
+        "https://cdn-9.motorsport.com/images/amp/YEQRnKGY/s300/general-view.webp"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -4138,9 +4160,9 @@
       "title": "Marcus Ericsson will remain with Andretti for 2027 IndyCar season",
       "summary": "Marcus Ericsson will continue as a driver for Andretti Global into the 2027 IndyCar season, piloting the No. 28 entry. The ex-F1 driver and IndyCar star has been with Andretti since the start of the 2024 season. They've yet to win a race together, but have collected two runner-up finishes and a pole position. Ericsson will continue alongside teammates Kyle Kirkwood and Will Power for his ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season/10844598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg"
+        "https://cdn-8.motorsport.com/images/amp/6b8jgy32/s6/marcus-ericsson-andretti-globa.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4158,32 +4180,6 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-06T19:00:45+00:00"
-    },
-    {
-      "id": "403e7ae65a1fbec7",
-      "title": "The Only Truck That Can Tow 40,000 LBS In 2025",
-      "summary": "This heavy-duty pickup truck redefines towing capability with unmatched power and performance.",
-      "url": "https://www.hotcars.com/the-truck-can-tow-40000-lbs-2025/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/03/f450.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/03/f450.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-08-06T19:00:13+00:00"
-    },
-    {
-      "id": "dc74164dfdb39b6d",
-      "title": "10 Sports Bikes That Deliver The Best Value For Performance",
-      "summary": "From affordable entry-level models to high-performance superbikes, these sports bikes provide you with the best dollar-to-horsepower ratio",
-      "url": "https://www.topspeed.com/sports-bikes-deliver-best-value-performance/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-ktm-990-rc-r-9.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/2026-ktm-990-rc-r-9.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-06T19:00:10+00:00"
     },
     {
       "id": "c8b0d290548ac1e9",
@@ -4273,10 +4269,10 @@
       "title": "How to watch IndyCar 2026 at Portland: Weekend schedule, start time, TV",
       "summary": "Round No. 13 of the 2026 IndyCar season takes the open-wheel division to Portland International Raceway as we enter the final stretch of the championship. Alex Palou continues to lead the standings, 83 points, ahead of David Malukas in second and and 87 points ahead of Kyle Kirkwood in third. Will Power is the defending winner of the Portland race, and he's still searching for his first ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv/10844594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg",
-        "https://cdn-2.motorsport.com/images/amp/6D1ye5w0/s1000/patricio-o-ward-arrow-mclaren.webp",
+        "https://cdn-6.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg",
+        "https://cdn-3.motorsport.com/images/amp/6D1ye5w0/s1000/patricio-o-ward-arrow-mclaren.webp",
         "https://cdn.motorsport.com/images/amp/6l9rDMj0/s2/callum-ilott-prema-racing.jpg",
         "https://cdn.motorsport.com/images/amp/0qgPVmBY/s2/santino-ferrucci-aj-foyt-enter.jpg",
         "https://cdn.motorsport.com/images/amp/6b8ZKvB2/s2/dallara-ir-28-detail.jpg",
@@ -4291,9 +4287,9 @@
       "title": "How to watch IndyCar 2026 at Portland: Weekend schedule, start time, TV",
       "summary": "Round No. 13 of the 2026 IndyCar season takes the open-wheel division to Portland International Raceway as we enter the final stretch of the championship. Alex Palou continues to lead the standings, 83 points, ahead of David Malukas in second and and 87 points ahead of Kyle Kirkwood in third. Will Power is the defending winner of the Portland race, and he's still searching for his first ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv/10844594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg"
+        "https://cdn-7.motorsport.com/images/amp/6D1ye5w0/s6/patricio-o-ward-arrow-mclaren.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4517,14 +4513,14 @@
       "title": "Lewis Hamilton backed for Ferrari F1 championship push by Emerson Fittipaldi",
       "summary": "Two-time Formula 1 champion Emerson Fittipaldi says he is thrilled by Lewis Hamilton's resurgence at Ferrari, sharing that he hopes the British driver can mount a serious championship challenge in the second half of the season. Hamilton is currently in his second year with the Maranello outfit. While his initial season with the team prompted some to question whether he could continue competing ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi/10844491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg",
-        "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-6.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-6.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
+        "https://cdn-4.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg",
+        "https://cdn-7.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-9.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-8.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-1.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-8.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -4535,9 +4531,9 @@
       "title": "Lewis Hamilton backed for Ferrari F1 championship push by Emerson Fittipaldi",
       "summary": "Two-time Formula 1 champion Emerson Fittipaldi says he is thrilled by Lewis Hamilton's resurgence at Ferrari, sharing that he hopes the British driver can mount a serious championship challenge in the second half of the season. Hamilton is currently in his second year with the Maranello outfit. While his initial season with the team prompted some to question whether he could continue competing ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi/10844491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0Zq88vN6/s6/lewis-hamilton-ferrari.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4615,9 +4611,14 @@
       "url": "https://www.carscoops.com/2026/08/kia-dealer-borrowed-parts/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Old-Telluride-Aug626101-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Old-Telluride-Aug626101-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Old-Telluride-Aug626101-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/21043_2024_Telluride-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-Land-Cruiser-200-Series-1-Million-Km-Auction-1-copy-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-112555-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Mustang_Mach-E_California-Special_03-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Old-Telluride-2-Aug6263-2048x1151.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Kia",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-06T17:48:00+00:00"
     },
@@ -4646,19 +4647,6 @@
       "source": "Electric Cars Report",
       "source_url": "https://electriccarsreport.com",
       "published": "2026-08-06T17:37:14+00:00"
-    },
-    {
-      "id": "cdfa01adcf1df682",
-      "title": "Mercedes-AMG GT 53 4-Door Coupe EV Bows with 536 hp",
-      "summary": "Dual electric motors get it to 60 mph in 3.4 seconds, putting it among the fastest four-door vehicles out there.",
-      "url": "https://www.autoweek.com/news/a73366937/2027-mercedes-amg-gt-53-4-door-coupe-ev-reveal/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/dd0d74b2-8d79-45d4-b2d4-3bbaab146541.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/dd0d74b2-8d79-45d4-b2d4-3bbaab146541.jpg"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-06T17:29:11+00:00"
     },
     {
       "id": "4b2a3f12593c4377",
@@ -4717,9 +4705,9 @@
       "title": "Inside Nurburgring turf war: The conflict from different perspectives",
       "summary": "Following our initial two parts, the obvious question remains: Who is in the right, and who is in the wrong? Who is good, and who is bad? As is so often the case, there is no black-and-white answer, as the situation looks entirely different depending on the perspective you take. Read Also: EnduranceInside the Nurburgring turf war: Introducing the players and what's at ... Keep reading",
       "url": "https://www.motorsport.com/endurance/news/inside-nurburgring-turf-war-the-conflict-from-different-perspectives/10844576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/N6VkM1N0/s6/inside-langstrecken-streit-nuerburgring-33-wie-die-beteiligten-es-sehen-26080601.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/N6VkM1N0/s6/inside-langstrecken-streit-nuerburgring-33-wie-die-beteiligten-es-sehen-26080601.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/N6VkM1N0/s6/inside-langstrecken-streit-nuerburgring-33-wie-die-beteiligten-es-sehen-26080601.jpg"
+        "https://cdn-8.motorsport.com/images/amp/N6VkM1N0/s6/inside-langstrecken-streit-nuerburgring-33-wie-die-beteiligten-es-sehen-26080601.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4788,19 +4776,6 @@
       "published": "2026-08-06T17:00:00+00:00"
     },
     {
-      "id": "c922a6633188dc29",
-      "title": "SRT Made A Turbo Six Feel Like A Supercharged V8 And Shoved It Into A Jeep",
-      "summary": "An electrically powered compressor sits upstream of the Hurricane's turbochargers, boosting from idle before exhaust energy takes over the job",
-      "url": "https://www.carscoops.com/2026/08/srt-eboost-air-hurricane/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/20260806_103405-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/20260806_103405-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-06T17:00:00+00:00"
-    },
-    {
       "id": "62554eafde1ad6f3",
       "title": "SRT’s New Quick-Spool Turbo Gadget Makes the Hurricane I6 Launch Like a V8",
       "summary": "The goal is to eradicate lag on twin-turbo Hurricane inline-six engines. The post SRT’s New Quick-Spool Turbo Gadget Makes the Hurricane I6 Launch Like a V8 appeared first on The Drive .",
@@ -4814,16 +4789,16 @@
       "published": "2026-08-06T17:00:00+00:00"
     },
     {
-      "id": "860ae5dcf510346a",
-      "title": "Honda Marine Secures Title Sponsorship of The 2026 Great Loop Challenge",
-      "summary": "Honda Marine has secured title sponsorship of The 2026 Great Loop Challenge powered by Honda Marine (2026 GLC), a 7,300+ nautical-mile endurance run supporting pediatric cancer research.",
-      "url": "http://hondanews.com/en-US/releases/honda-marine-secures-title-sponsorship-of-the-2026-great-loop-challenge",
-      "image": "https://wieck-honda-production.s3.us-west-1.amazonaws.com/releaseInlineImages/d6fb7254c174b967673498a654013f533b2dd94f",
+      "id": "c922a6633188dc29",
+      "title": "SRT Made A Turbo Six Feel Like A Supercharged V8 And Shoved It Into A Jeep",
+      "summary": "An electrically powered compressor sits upstream of the Hurricane's turbochargers, boosting from idle before exhaust energy takes over the job",
+      "url": "https://www.carscoops.com/2026/08/srt-eboost-air-hurricane/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/20260806_103405-copy-1024x576.jpg",
       "images": [
-        "https://wieck-honda-production.s3.us-west-1.amazonaws.com/releaseInlineImages/d6fb7254c174b967673498a654013f533b2dd94f"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/20260806_103405-copy-1024x576.jpg"
       ],
-      "source": "Honda News",
-      "source_url": "https://hondanews.com",
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
       "published": "2026-08-06T17:00:00+00:00"
     },
     {
@@ -4837,6 +4812,19 @@
       ],
       "source": "Bike EXIF",
       "source_url": "https://www.bikeexif.com",
+      "published": "2026-08-06T17:00:00+00:00"
+    },
+    {
+      "id": "860ae5dcf510346a",
+      "title": "Honda Marine Secures Title Sponsorship of The 2026 Great Loop Challenge",
+      "summary": "Honda Marine has secured title sponsorship of The 2026 Great Loop Challenge powered by Honda Marine (2026 GLC), a 7,300+ nautical-mile endurance run supporting pediatric cancer research.",
+      "url": "http://hondanews.com/en-US/releases/honda-marine-secures-title-sponsorship-of-the-2026-great-loop-challenge",
+      "image": "https://wieck-honda-production.s3.us-west-1.amazonaws.com/releaseInlineImages/d6fb7254c174b967673498a654013f533b2dd94f",
+      "images": [
+        "https://wieck-honda-production.s3.us-west-1.amazonaws.com/releaseInlineImages/d6fb7254c174b967673498a654013f533b2dd94f"
+      ],
+      "source": "Honda News",
+      "source_url": "https://hondanews.com",
       "published": "2026-08-06T17:00:00+00:00"
     },
     {
@@ -4883,9 +4871,9 @@
       "title": "One month to make the Chase: Who’s safe and who’s running out of time?",
       "summary": "There is just one month of racing left in the regular season for the NASCAR Cup Series, as the Chase for the Championship returns for the first time since 2013. The revised format will take the top 16 drivers in the standings and reset their points after the 26th race of the season. The points leader will begin the final ten-week stretch with 2100 points, second will have 2075, third will begin ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/one-month-to-make-the-chase-whos-safe-and-whos-running-out-of-time/10844200/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YBVjoQvY/s6/daniel-suarez-no-7-spire-motor.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/YBVjoQvY/s6/daniel-suarez-no-7-spire-motor.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YBVjoQvY/s6/daniel-suarez-no-7-spire-motor.jpg"
+        "https://cdn-6.motorsport.com/images/amp/YBVjoQvY/s6/daniel-suarez-no-7-spire-motor.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5122,9 +5110,9 @@
       "title": "What is the F1 summer break and why does it happen every year?",
       "summary": "Formula 1 is now in its summer recess with the series on hold between the last race in Hungary and the next grand prix in the Netherlands. But, why does the championship take a two-week break and what do teams do during the time off? Despite the disrupted calendar due to the conflict in the Middle East, F1 has just polished off the first half of its season with a run of 11 grands prix. Now ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/what-is-the-f1-summer-break-why-does-it-happen-how-long/10346924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5135,9 +5123,9 @@
       "title": "What is the F1 summer break and why does it happen every year?",
       "summary": "Formula 1 is now in its summer recess with the series on hold between the last race in Hungary and the next grand prix in the Netherlands. But, why does the championship take a two-week break and what do teams do during the time off? Despite the disrupted calendar due to the conflict in the Middle East, F1 has just polished off the first half of its season with a run of 11 grands prix. Now ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/what-is-the-f1-summer-break-why-does-it-happen-how-long/10346924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0Zq8w4V6/s6/lando-norris-mclaren-3.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -5161,9 +5149,9 @@
       "title": "NASCAR adjusts stage break rules to shorten lengthy caution periods",
       "summary": "One of the pitfalls of the stage racing format across all three NASCAR national touring divisions is what happens when there is a caution in the closing laps of a stage. For example, there have been times in recent NASCAR history where there was a caution at the end of the stage, a one or two lap shootout, the stage break itself, and then a caution in the opening laps of a stage. Then ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/nascar-adjusts-stage-break-rules-to-shorten-lengthy-caution-periods/10844571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YP7rajo2/s6/pitlane-during-a-caution-flag.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/YP7rajo2/s6/pitlane-during-a-caution-flag.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YP7rajo2/s6/pitlane-during-a-caution-flag.jpg"
+        "https://cdn-3.motorsport.com/images/amp/YP7rajo2/s6/pitlane-during-a-caution-flag.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5339,19 +5327,6 @@
       "published": "2026-08-06T15:13:25+00:00"
     },
     {
-      "id": "296506c570589912",
-      "title": "Subaru Is Spending $9,650 Per Solterra Just To Get Them Off Lots",
-      "summary": "Spending on each electric Subaru ran roughly triple the Outback's, yet the sales still refused to move in any real way",
-      "url": "https://www.carscoops.com/2026/08/subaru-ev-marketing-costs/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Subaru_Solterra_045-copy-scaledaaa-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Subaru_Solterra_045-copy-scaledaaa-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-06T15:08:00+00:00"
-    },
-    {
       "id": "dcfb5560b27e003c",
       "title": "Ex-Tin Indian Racing 1967 Pontiac GTO Convertible Surfaces on Hagerty Marketplace",
       "summary": "A Knafel Pontiac/Tin Indian promotional 1967 GTO convertible is bidding past $30,500 on Hagerty Marketplace. See its racing history, factory specs, and what Hagerty's valuation tools say about the market.",
@@ -5456,24 +5431,6 @@
       "published": "2026-08-06T14:45:06+00:00"
     },
     {
-      "id": "2a84ac60e5445dea",
-      "title": "What is it like being a Williams F1 simulator driver?",
-      "summary": "Autosport: Let’s talk about your current role at Williams. Can you explain what impact you have on the car? Victor Martins: “I can have an impact on the car, but is it direct? Not necessarily, I’d say, because there are many people in the team, many departments, many things to improve, to analyse – so ‘direct’, I’d say no. “However, taking part in development, yes – be it ... Keep reading",
-      "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
-      "images": [
-        "https://cdn-3.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
-        "https://cdn-2.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
-        "https://cdn-7.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-7.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-7.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
-      ],
-      "source": "Autosport All",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-08-06T14:44:52+00:00"
-    },
-    {
       "id": "f0a994026e346414",
       "title": "What is it like being a Williams F1 simulator driver?",
       "summary": "Autosport: Let’s talk about your current role at Williams. Can you explain what impact you have on the car? Victor Martins: “I can have an impact on the car, but is it direct? Not necessarily, I’d say, because there are many people in the team, many departments, many things to improve, to analyse – so ‘direct’, I’d say no. “However, taking part in development, yes – be it ... Keep reading",
@@ -5481,13 +5438,31 @@
       "image": "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
       "images": [
         "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
-        "https://cdn-8.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-5.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn-8.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-8.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-5.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
+        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-3.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp"
       ],
       "source": "Autosport F1",
+      "source_url": "https://www.autosport.com",
+      "published": "2026-08-06T14:44:52+00:00"
+    },
+    {
+      "id": "2a84ac60e5445dea",
+      "title": "What is it like being a Williams F1 simulator driver?",
+      "summary": "Autosport: Let’s talk about your current role at Williams. Can you explain what impact you have on the car? Victor Martins: “I can have an impact on the car, but is it direct? Not necessarily, I’d say, because there are many people in the team, many departments, many things to improve, to analyse – so ‘direct’, I’d say no. “However, taking part in development, yes – be it ... Keep reading",
+      "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+      "image": "https://cdn-7.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
+      "images": [
+        "https://cdn-7.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
+        "https://cdn-2.motorsport.com/images/amp/2jEAKgP0/s200/kokoro-sato-team-optimus-cerum.webp",
+        "https://cdn-5.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-8.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
+        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-3.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp"
+      ],
+      "source": "Autosport All",
       "source_url": "https://www.autosport.com",
       "published": "2026-08-06T14:44:52+00:00"
     },
@@ -5496,14 +5471,14 @@
       "title": "What is it like being a Williams F1 simulator driver?",
       "summary": "Autosport: Let’s talk about your current role at Williams. Can you explain what impact you have on the car? Victor Martins: “I can have an impact on the car, but is it direct? Not necessarily, I’d say, because there are many people in the team, many departments, many things to improve, to analyse – so ‘direct’, I’d say no. “However, taking part in development, yes – be it ... Keep reading",
       "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
-        "https://cdn-3.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
-        "https://cdn-5.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-7.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-3.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
+        "https://cdn-6.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams-3.jpg",
+        "https://cdn-8.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-8.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
+        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-8.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-5.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -5555,12 +5530,7 @@
       "url": "https://www.carscoops.com/2026/08/bugatti-destrier-one-off/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/20-BUGATTI-Solitaire-Destrier-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/20-BUGATTI-Solitaire-Destrier-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Bugatti-Solitaire-Destrier-14-1743x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Bugatti-Solitaire-Destrier-15-1733x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Bugatti-Solitaire-Destrier-4-2048x1280.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Bugatti-Solitaire-Destrier-11-2048x1280.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Bugatti-Solitaire-Destrier-12-2048x1280.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/20-BUGATTI-Solitaire-Destrier-copy-1024x576.jpg"
       ],
       "source": "CarScoops Bugatti",
       "source_url": "https://www.carscoops.com",
@@ -5574,11 +5544,11 @@
       "image": "https://cdn-7.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
       "images": [
         "https://cdn-7.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
-        "https://cdn-9.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-4.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-2.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp",
-        "https://cdn-7.motorsport.com/images/amp/01QdVpZ0/s200/jack-miller-pramac-racing.webp",
-        "https://cdn-4.motorsport.com/images/amp/YEQRWrqY/s200/chase-briscoe-joe-gibbs-racing.webp"
+        "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-6.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-6.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -5592,11 +5562,11 @@
       "image": "https://cdn-8.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
       "images": [
         "https://cdn-8.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
-        "https://cdn-9.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-4.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-2.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp",
-        "https://cdn-7.motorsport.com/images/amp/01QdVpZ0/s200/jack-miller-pramac-racing.webp",
-        "https://cdn-4.motorsport.com/images/amp/YEQRWrqY/s200/chase-briscoe-joe-gibbs-racing.webp"
+        "https://cdn-2.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-6.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-6.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-6.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -5607,9 +5577,9 @@
       "title": "What life is like as a Williams F1 simulator driver",
       "summary": "Motorsport: Let’s talk about your current role at Williams. Can you explain what impact you have on the car? Victor Martins: “I can have an impact on the car, but is it direct? Not necessarily, I’d say, because there are many people in the team, many departments, many things to improve, to analyse – so ‘direct’, I’d say no. “However, taking part in development, yes – be it ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/what-life-is-like-as-a-williams-f1-simulator-driver/10843241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg"
+        "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5620,9 +5590,9 @@
       "title": "What life is like as a Williams F1 simulator driver",
       "summary": "Motorsport: Let’s talk about your current role at Williams. Can you explain what impact you have on the car? Victor Martins: “I can have an impact on the car, but is it direct? Not necessarily, I’d say, because there are many people in the team, many departments, many things to improve, to analyse – so ‘direct’, I’d say no. “However, taking part in development, yes – be it ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/what-life-is-like-as-a-williams-f1-simulator-driver/10843241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg"
+        "https://cdn-2.motorsport.com/images/amp/2y7Qo3p6/s6/victor-martins-williams.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -5852,19 +5822,6 @@
       "published": "2026-08-06T14:00:00+00:00"
     },
     {
-      "id": "527519350c619173",
-      "title": "2026 Isuzu MU-X X-Terrain review",
-      "summary": "Isuzu's MU-X continues to prove why it's a strong seller, but we don't think it makes sense to spring for the top-spec X-Terrain.",
-      "url": "https://www.carexpert.com.au/car-reviews/2026-isuzu-mu-x-x-terrain-review",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2026-isuzu-mu-x-x-terrain-stills-26.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2026-isuzu-mu-x-x-terrain-stills-26.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-08-06T14:00:00+00:00"
-    },
-    {
       "id": "df1fa7f7626b2991",
       "title": "2026 Ferrari 296 Speciale Aperta Review: The Red-Blooded Supercar Enzo Would Be Proud of",
       "summary": "Following in the footsteps of the magical 360 Challenge Stradale, 430 Scuderia, 458 Speciale, and 488 Pista—the Ferrari 296 Speciale honors its name with spicy looks and mind-bending performance. The post 2026 Ferrari 296 Speciale Aperta Review: The Red-Blooded Supercar Enzo Would Be Proud of appeared first on The Drive .",
@@ -5875,6 +5832,19 @@
       ],
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
+      "published": "2026-08-06T14:00:00+00:00"
+    },
+    {
+      "id": "527519350c619173",
+      "title": "2026 Isuzu MU-X X-Terrain review",
+      "summary": "Isuzu's MU-X continues to prove why it's a strong seller, but we don't think it makes sense to spring for the top-spec X-Terrain.",
+      "url": "https://www.carexpert.com.au/car-reviews/2026-isuzu-mu-x-x-terrain-review",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-isuzu-mu-x-x-terrain-stills-26.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2026-isuzu-mu-x-x-terrain-stills-26.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
       "published": "2026-08-06T14:00:00+00:00"
     },
     {
@@ -5941,6 +5911,24 @@
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
       "published": "2026-08-06T13:49:50+00:00"
+    },
+    {
+      "id": "80b737a81f3a2568",
+      "title": "Ford Promised A Sub-$30K Electric Truck, The Fathom Came In At $28,350",
+      "summary": "Ford's new electric truck undercuts nearly every rival except one bare-bones pickup with no speakers",
+      "url": "https://www.carscoops.com/2026/08/ford-fathom-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Name_Plate_16x9-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Name_Plate_16x9-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Ford-EV-Truck-Scoop-Baldauf-11-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Ford-EV-Truck-Scoop-Baldauf-10-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Ford-EV-Truck-Scoop-Baldauf-9-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Ford-EV-Truck-Scoop-Baldauf-8-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Ford-EV-Truck-Scoop-Baldauf-6-2048x1366.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-06T13:49:49+00:00"
     },
     {
       "id": "d1eb1892deda14a9",
@@ -6041,11 +6029,11 @@
       "image": "https://cdn-1.motorsport.com/images/amp/6VRzqrw6/s6/worldchampion-marc-marquez-duc-2.jpg",
       "images": [
         "https://cdn-1.motorsport.com/images/amp/6VRzqrw6/s6/worldchampion-marc-marquez-duc-2.jpg",
-        "https://cdn-2.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-4.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn-6.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-4.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
+        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-5.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
       ],
       "source": "Autosport MotoGP",
       "source_url": "https://www.autosport.com",
@@ -6056,9 +6044,9 @@
       "title": "Marquez expects rivals to risk more in hunt for MotoGP title",
       "summary": "Marc Marquez says he is under no extra pressure despite re-emerging as a genuine MotoGP title contender this year, insisting that winning another championship would not change his life. After battling with severe physical limitations in the early part of the 2026 season and missing two races due to surgery, Marquez has mounted an impressive comeback on the factory Ducati, winning three of ... Keep reading",
       "url": "https://www.autosport.com/motogp/news/marquez-expects-rivals-to-risk-more-in-hunt-for-motogp-title/10844517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/6VRzqrw6/s6/worldchampion-marc-marquez-duc-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/6VRzqrw6/s6/worldchampion-marc-marquez-duc-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/6VRzqrw6/s6/worldchampion-marc-marquez-duc-2.jpg"
+        "https://cdn-3.motorsport.com/images/amp/6VRzqrw6/s6/worldchampion-marc-marquez-duc-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -6115,14 +6103,9 @@
       "url": "https://www.caranddriver.com/reviews/a71051423/1994-lexus-gs300-archive-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/55d0ff71-e3c8-4e10-8028-94b93d3273e5.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/55d0ff71-e3c8-4e10-8028-94b93d3273e5.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/6a4f1aa3-bbdf-4a3d-a60a-05cb407a6938.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/99baf7b4-f18c-4e5d-b434-0769d46d3ee6.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/fc3de12c-94aa-49a7-a8d7-9a22e1ddd4c0.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/e50e48aa-3f29-41d9-ac9a-247e59e96dfb.jpg?resize=640:*"
+        "https://hips.hearstapps.com/hmg-prod/images/55d0ff71-e3c8-4e10-8028-94b93d3273e5.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-06T13:29:00+00:00"
     },
@@ -6140,24 +6123,6 @@
       "published": "2026-08-06T13:28:51+00:00"
     },
     {
-      "id": "f71aabf390c921ff",
-      "title": "Tested: 2026 Toyota Corolla Cross Hybrid Is Functional but Lacks Personality",
-      "summary": "The hybrid Corolla Cross isn't exciting, but it serves its purpose as an affordable vehicle that can meet a range of needs.",
-      "url": "https://www.caranddriver.com/reviews/a73306970/2026-toyota-corolla-cross-hybrid-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/986fab3f-df18-4e96-ae93-58b3654cfce1.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/986fab3f-df18-4e96-ae93-58b3654cfce1.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/1611dcdc-3cee-4eb1-aace-f21f3f6a2a34.jpg?crop=0.693xw:0.692xh;0.147xw",
-        "https://hips.hearstapps.com/hmg-prod/images/c009ea2e-0e6f-4793-a0b4-0fa9cab5d71f.jpg?crop=0.817xw:0.816xh;0.0984xw",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/2bf76ef9-bc85-4a39-915a-105767a6346c.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/9ce2acfe-8fb3-4a4d-b10b-a5da93b5ba82.jpg?resize=980:*"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-06T13:27:00+00:00"
-    },
-    {
       "id": "714d4ff4c0823dc2",
       "title": "View Exterior Photos of the 2026 Toyota Corolla Cross Hybrid",
       "summary": "See the exterior of the 2026 Toyota Corolla Cross Hybrid from every angle.",
@@ -6165,6 +6130,19 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/b1690611-726b-4d74-975e-863bfe5f2f43.jpg",
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/b1690611-726b-4d74-975e-863bfe5f2f43.jpg"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-06T13:27:00+00:00"
+    },
+    {
+      "id": "f71aabf390c921ff",
+      "title": "Tested: 2026 Toyota Corolla Cross Hybrid Is Functional but Lacks Personality",
+      "summary": "The hybrid Corolla Cross isn't exciting, but it serves its purpose as an affordable vehicle that can meet a range of needs.",
+      "url": "https://www.caranddriver.com/reviews/a73306970/2026-toyota-corolla-cross-hybrid-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/986fab3f-df18-4e96-ae93-58b3654cfce1.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/986fab3f-df18-4e96-ae93-58b3654cfce1.jpg"
       ],
       "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
@@ -6201,14 +6179,14 @@
       "title": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
       "summary": "Marc Marquez says he is under no extra pressure despite re-emerging as a genuine MotoGP title contender this year, insisting that winning another championship would not change his life. After battling with severe physical limitations in the early part of the 2026 season and missing two races due to surgery, Marquez has mounted an impressive comeback on the factory Ducati, winning three of ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life/10844513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg",
-        "https://cdn-4.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn-3.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-2.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp",
-        "https://cdn-1.motorsport.com/images/amp/01QdVpZ0/s200/jack-miller-pramac-racing.webp"
+        "https://cdn-7.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg",
+        "https://cdn-1.motorsport.com/images/amp/68VwWAB2/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-5.motorsport.com/images/amp/2eZxgV1Y/s200/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
+        "https://cdn-2.motorsport.com/images/amp/2QzAEx3Y/s200/marc-marquez-ducati-team.webp",
+        "https://cdn-5.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-9.motorsport.com/images/amp/YvKBxrG6/s200/team-report-card-am.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -6219,9 +6197,9 @@
       "title": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
       "summary": "Marc Marquez says he is under no extra pressure despite re-emerging as a genuine MotoGP title contender this year, insisting that winning another championship would not change his life. After battling with severe physical limitations in the early part of the 2026 season and missing two races due to surgery, Marquez has mounted an impressive comeback on the factory Ducati, winning three of ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life/10844513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YN7vwvV6/s6/marc-marquez-ducati-team.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6503,9 +6481,9 @@
       "title": "Valtteri Bottas celebrates major off-road cycling success during F1 summer break",
       "summary": "Valtteri Bottas has used the start of the Formula 1 summer shutdown to secure qualification for the UCI Gravel World Championship, finishing fifth in his age group at the qualifying event in the Czech Republic. The Finnish driver chose to tackle the 131km off-road cycling event alongside his partner, Olympic cyclist Tiffany Cromwell, while the F1 paddock observes its mandatory August break ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/valtteri-bottas-celebrates-major-off-road-cycling-success-during-f1-summer-break/10844506/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6516,9 +6494,9 @@
       "title": "Valtteri Bottas celebrates major off-road cycling success during F1 summer break",
       "summary": "Valtteri Bottas has used the start of the Formula 1 summer shutdown to secure qualification for the UCI Gravel World Championship, finishing fifth in his age group at the qualifying event in the Czech Republic. The Finnish driver chose to tackle the 131km off-road cycling event alongside his partner, Olympic cyclist Tiffany Cromwell, while the F1 paddock observes its mandatory August break ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/valtteri-bottas-celebrates-major-off-road-cycling-success-during-f1-summer-break/10844506/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6Vy7PadY/s6/valtteri-bottas-cadillac-racin.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -6568,9 +6546,9 @@
       "title": "Pedro Acosta not giving up hope of first MotoGP win with KTM",
       "summary": "Pedro Acosta says he will do everything it takes to put KTM back on the top step on the podium before he moves to Ducati’s factory MotoGP team next year. Acosta has been KTM’s benchmark since he stepped up to the Austrian marque’s works team last year, quickly learning from his early-career errors to emerge as a regular podium contender. The Spaniard started the 2026 season with a ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm/10844497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+        "https://cdn-8.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6581,9 +6559,9 @@
       "title": "Pedro Acosta not giving up hope of first MotoGP win with KTM",
       "summary": "Pedro Acosta says he will do everything it takes to put KTM back on the top step on the podium before he moves to Ducati’s factory MotoGP team next year. Acosta has been KTM’s benchmark since he stepped up to the Austrian marque’s works team last year, quickly learning from his early-career errors to emerge as a regular podium contender. The Spaniard started the 2026 season with a ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm/10844497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg"
+        "https://cdn-7.motorsport.com/images/amp/2jEADKN0/s6/pedro-acosta-red-bull-ktm-fact.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -6655,19 +6633,6 @@
       "published": "2026-08-06T12:28:57+00:00"
     },
     {
-      "id": "ffbbe8691566f66d",
-      "title": "Fernando Alonso spotted driving rare $5.9million Lamborghini on Monaco streets",
-      "summary": "Two-time F1 world champion Fernando Alonso boasts an impressive multi-million dollar car collection",
-      "url": "https://www.crash.net/f1/news/1102108/1/fernando-alonso-spotted-driving-rare-59million-lamborghini-monaco-streets",
-      "image": "https://www.crash.net/sites/default/files/2026-08/xpb_1425075_hires_0.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1425075_hires_0.jpg?width=1200"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-08-06T12:28:29+00:00"
-    },
-    {
       "id": "b5bcf2648bbfdc50",
       "title": "At $8,000, Is This 1985 BMW 635CSi A Teutonic Temptation?",
       "summary": "Does high mileage mean low appeal?",
@@ -6719,11 +6684,11 @@
       "image": "https://cdn-1.motorsport.com/images/amp/YMX3w4K2/s6/marco-bezzecchi-aprilia-racing-2.jpg",
       "images": [
         "https://cdn-1.motorsport.com/images/amp/YMX3w4K2/s6/marco-bezzecchi-aprilia-racing-2.jpg",
-        "https://cdn-2.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-4.motorsport.com/images/amp/6b8Zjm32/s200/20-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn-6.motorsport.com/images/amp/6DGqPrKY/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-6.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
-        "https://cdn-4.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
-        "https://cdn-6.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
+        "https://cdn-9.motorsport.com/images/amp/6AlvRNGY/s200/juan-manuel-fangio-alfa-romeo.webp",
+        "https://cdn-5.motorsport.com/images/amp/0LdeveW0/s200/jak-crawford-aston-martin.webp",
+        "https://cdn-4.motorsport.com/images/amp/2y7Qo3p6/s200/victor-martins-williams-3.webp"
       ],
       "source": "Autosport MotoGP",
       "source_url": "https://www.autosport.com",
@@ -6734,9 +6699,9 @@
       "title": "MotoGP title challenger Bezzecchi pessimistic for British GP",
       "summary": "Marco Bezzecchi has admitted that he is not fully fit as he prepares for a potential MotoGP comeback at the British Grand Prix, conceding his chances of a strong result at Silverstone. The factory Aprilia rider broke his collarbone during the opening lap of the Sachsenring sprint, forcing him out of the remainder of the German Grand Prix weekend in July. During the summer break, he ... Keep reading",
       "url": "https://www.autosport.com/motogp/news/motogp-title-challenger-bezzecchi-not-confident-for-silverstone/10844488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/YMX3w4K2/s6/marco-bezzecchi-aprilia-racing-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/YMX3w4K2/s6/marco-bezzecchi-aprilia-racing-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/YMX3w4K2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
+        "https://cdn-9.motorsport.com/images/amp/YMX3w4K2/s6/marco-bezzecchi-aprilia-racing-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -6769,39 +6734,13 @@
       "published": "2026-08-06T12:01:37+00:00"
     },
     {
-      "id": "05e45ac9573234ec",
-      "title": "New Bugatti Destrier is a one-off Bollide with an even more radical design",
-      "summary": "Say hello to one of the world’s most expensive new cars – and there’ll only ever be one",
-      "url": "https://www.autoexpress.co.uk/bugatti/370152/new-bugatti-destrier-one-bollide-even-more-radical-design",
-      "image": "https://media.autoexpress.co.uk/image/private/s--4xacVh2E--/t_rss_image_w_845/v1786006330/autoexpress/2026/08/Bugatti%20Destrier%202026-4.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--4xacVh2E--/t_rss_image_w_845/v1786006330/autoexpress/2026/08/Bugatti%20Destrier%202026-4.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-08-06T12:00:32+00:00"
-    },
-    {
-      "id": "9deddca6bde0d13a",
-      "title": "New Bugatti Destrier 2026 - pictures",
-      "summary": "Pictures of the new Bugatti Destrier",
-      "url": "https://www.autoexpress.co.uk/bugatti/370149/new-bugatti-destrier-2026-pictures",
-      "image": "https://media.autoexpress.co.uk/image/private/s--4xacVh2E--/t_rss_image_w_845/v1786006330/autoexpress/2026/08/Bugatti%20Destrier%202026-4.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--4xacVh2E--/t_rss_image_w_845/v1786006330/autoexpress/2026/08/Bugatti%20Destrier%202026-4.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-08-06T12:00:24+00:00"
-    },
-    {
       "id": "34c1a125faf1763b",
       "title": "F1 2026 mid-season grades: Cadillac gets off to respectable start on its adventure",
       "summary": "Brand-new Formula 1 teams don't come along very often, so it is always tough to know what to expect from a new entrant. Following a protracted entry process, the well-funded Cadillac outfit certainly came in under very different circumstances than team boss Graeme Lowdon's previous adventure with Manor. But it also had to produce or procure much more of its own parts than when F1's last new ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-cadillac-gets-off-to-respectable-start-to-its-adventure/10844400/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6812,9 +6751,9 @@
       "title": "F1 2026 mid-season grades: Cadillac gets off to respectable start on its adventure",
       "summary": "Brand-new Formula 1 teams don't come along very often, so it is always tough to know what to expect from a new entrant. Following a protracted entry process, the well-funded Cadillac outfit certainly came in under very different circumstances than team boss Graeme Lowdon's previous adventure with Manor. But it also had to produce or procure much more of its own parts than when F1's last new ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-cadillac-gets-off-to-respectable-start-to-its-adventure/10844400/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0o5AKJ7Y/s6/team-report-card-cadillac.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -6938,9 +6877,9 @@
       "title": "Marco Bezzecchi concedes British GP chances: I’m not feeling 100% after injury",
       "summary": "Marco Bezzecchi has admitted that he is not fully fit as he prepares for a potential MotoGP comeback at the British Grand Prix, conceding his chances of a strong finish at the Silverstone round. The factory Aprilia rider broke his collarbone during the opening lap of the Sachsenring sprint, forcing him out of the remainder of the German GP weekend. During the summer break, he underwent an ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury/10844483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg"
+        "https://cdn-9.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6951,9 +6890,9 @@
       "title": "Marco Bezzecchi concedes British GP chances: I’m not feeling 100% after injury",
       "summary": "Marco Bezzecchi has admitted that he is not fully fit as he prepares for a potential MotoGP comeback at the British Grand Prix, conceding his chances of a strong finish at the Silverstone round. The factory Aprilia rider broke his collarbone during the opening lap of the Sachsenring sprint, forcing him out of the remainder of the German GP weekend. During the summer break, he underwent an ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury/10844483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg"
+        "https://cdn-2.motorsport.com/images/amp/68VWq3X2/s6/marco-bezzecchi-aprilia-racing.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -7003,9 +6942,9 @@
       "title": "Emerson Fittipaldi explains why Kimi Antonelli-George Russell battle is good for F1",
       "summary": "Two-time Formula 1 champion Emerson Fittipaldi believes the escalating intra-team rivalry at Mercedes between George Russell and Kimi Antonelli is exactly what the series needs. Following Lewis Hamilton's high-profile switch to Ferrari, Russell was widely expected to assume the position of team leader at the Brackley outfit. While he took Antonelli under his wing in the Italian's rookie season ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/emerson-fittipaldi-explains-why-kimi-antonelli-george-russell-battle-is-good-for-f1/10844481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg"
+        "https://cdn-1.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -7016,9 +6955,9 @@
       "title": "Emerson Fittipaldi explains why Kimi Antonelli-George Russell battle is good for F1",
       "summary": "Two-time Formula 1 champion Emerson Fittipaldi believes the escalating intra-team rivalry at Mercedes between George Russell and Kimi Antonelli is exactly what the series needs. Following Lewis Hamilton's high-profile switch to Ferrari, Russell was widely expected to assume the position of team leader at the Brackley outfit. While he took Antonelli under his wing in the Italian's rookie season ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/emerson-fittipaldi-explains-why-kimi-antonelli-george-russell-battle-is-good-for-f1/10844481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg"
+        "https://cdn-2.motorsport.com/images/amp/2Qe8nd32/s6/george-russell-mercedes-andrea.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -7051,19 +6990,6 @@
       "published": "2026-08-06T11:38:41+00:00"
     },
     {
-      "id": "3c9249a7e665d2f2",
-      "title": "“A factory rider” - Honda’s new MotoGP star relaxed over team placement",
-      "summary": "David Alonso says joining Honda in MotoGP is a dream come true, but insists his 2027 team and crew chief remain undecided.",
-      "url": "https://www.crash.net/motogp/news/1102102/1/factory-rider-hondas-new-motogp-star-relaxed-over-team-placement",
-      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1328053_hires_1600x900.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-08/gng_1328053_hires_1600x900.jpg?width=1200"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-08-06T11:31:33+00:00"
-    },
-    {
       "id": "e0839f6e57d664db",
       "title": "800 km de autonomía: así es el AMG GT eléctrico \"barato\" que Mercedes se saca de la manga",
       "summary": "Más de 800 km de autonomía redefinen al Mercedes-AMG GT eléctrico \"barato\". Mercedes acaba de anunciar la versión más barata del AMG GT Coupé de 4 puertas. Con una tecnología eléctrica de 544 CV, es incluso más económico que el GT de gasolina, a la vez que ofrece la mejor cifra de autonomía hasta el momento. Es uno de los vehículos más especiales del mercado . Hablamos del Mercedes-AMG GT, que en su actual generación, cuenta con una gama muy bien diferenciada : las versiones GT de dos puertas , con motores de gasolina electrificados, y las versiones GT Coupé de 4 puertas , más grande y con…",
@@ -7088,6 +7014,58 @@
       "source": "RACER",
       "source_url": "https://www.racer.com",
       "published": "2026-08-06T11:19:21+00:00"
+    },
+    {
+      "id": "3261174d64cca7df",
+      "title": "Tata Nexon Special Editions Compared: Dark vs Red Dark vs Camo",
+      "summary": "One of these editions bundles functional enhancements.",
+      "url": "https://www.carwale.com/news/tata-nexon-special-editions-compared-dark-vs-red-dark-vs-camo/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/225448/nexon-exterior-left-front-three-quarter-3.jpeg?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/225448/nexon-exterior-left-front-three-quarter-3.jpeg?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-06T11:18:34+00:00"
+    },
+    {
+      "id": "8b62a8f9255cf796",
+      "title": "Lamborghini Revuelto SV is razendsnel op Hockenheim en claimt record",
+      "summary": "Dat Lamborghini werkt aan een snelle Revuelto is geen geheim. Nu slingeren de Italianen de Revuelto SV echter voor het eerst zelf de wereld in. Ook vestigde het merk naar eigen zeggen een ronderecord op de Hockenheimring, maar is dat wel zo?",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/lamborghini-revuelto-sv-is-razendsnel-op-hockenheim-en-claimt-record/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276533786/width/800/276533786",
+      "images": [
+        "https://images.autoweek.nl/276533786/width/800/276533786"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-08-06T11:16:30+00:00"
+    },
+    {
+      "id": "f4b2e99c8eeae4f4",
+      "title": "Have five DTM engineers quit at HRT? How the Ford team is responding",
+      "summary": "What is going on at HRT? As Motorsport-Total.com has learned from a reliable source, the members of the DTM engineering team of the Ford outfit are said to have submitted their resignations together a few days ago, on July 31. At the center is said to be experienced chief engineer Laurent Fedacou, who has been working for the Nurburgring-based team since the end of 2021. The Frenchman also sets ... Keep reading",
+      "url": "https://www.motorsport.com/dtm/news/have-five-dtm-engineers-quit-at-hrt-how-the-ford-team-is-responding/10844452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+      "image": "https://cdn-7.motorsport.com/images/amp/824RB1q6/s6/haben-fuenf-dtm-ingenieure-bei-hrt-gekuendigt-wie-das-ford-team-reagiert-26080501.jpg",
+      "images": [
+        "https://cdn-7.motorsport.com/images/amp/824RB1q6/s6/haben-fuenf-dtm-ingenieure-bei-hrt-gekuendigt-wie-das-ford-team-reagiert-26080501.jpg"
+      ],
+      "source": "Motorsport All",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-08-06T11:14:53+00:00"
+    },
+    {
+      "id": "8113f474ab912e67",
+      "title": "Marco Bezzecchi reveals mentality shift ahead of crucial MotoGP title run-in",
+      "summary": "Marco Bezzecchi has revealed a change of mentality ahead of the 2026 British MotoGP",
+      "url": "https://www.crash.net/motogp/news/1102101/1/marco-bezzecchi-reveals-mentality-shift-ahead-crucial-motogp-title-run",
+      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1331158_hires.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-08/gng_1331158_hires.jpg?width=1200"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-08-06T11:14:43+00:00"
     }
   ]
 }
