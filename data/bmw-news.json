@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-07T05:48:55.032868+00:00",
-  "generated_at_human": "2026-08-07 05:48 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-07T07:38:22.460399+00:00",
+  "generated_at_human": "2026-08-07 07:38 UTC",
+  "total_items": 292,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -39,18 +39,19 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarExpert",
+    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "CarWale IN",
     "Crash.net",
     "Electrek",
@@ -73,9 +74,48 @@
     "RushLane IN",
     "The Verge Transp"
   ],
-  "sources_count": 68,
+  "sources_count": 69,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "6f401e987e93c35e",
+      "title": "Цена «Весты», 639 сил и комфорт уровня BMW: новый Chery Fulwin A9L вышел на рынок",
+      "summary": "Новый Chery Fulwin A9L доступен в четырех комплектациях по цене от 139 900 юаней, что в пересчете по курсу составляет 1,72 млн рублей. За 197 900 юаней (около 2,44 млн рублей) предложена полноприводная версия мощностью, недоступной для многих спорткаров. Стандартно китайская новинка комплектуется гибридной установкой, которая базируется на 1,5-литровом двигателе и одном электромоторе. Их совокупная […]",
+      "url": "https://5koleso.ru/articles/novosti/czena-vesty-639-sil-i-komfort-urovnya-bmw-novyj-chery-fulwin-a9l-vyshel-na-rynok/",
+      "image": "https://5koleso.ru/wp-content/uploads/2026/08/a9l-8e6b094e59b8a-banner-pc-2x-1024x576.jpeg",
+      "images": [
+        "https://5koleso.ru/wp-content/uploads/2026/08/a9l-8e6b094e59b8a-banner-pc-2x-1024x576.jpeg"
+      ],
+      "source": "5koleso RU",
+      "source_url": "https://5koleso.ru",
+      "published": "2026-08-07T07:10:18+00:00"
+    },
+    {
+      "id": "bec34b90286a658b",
+      "title": "BMW X1 LWB To Launch In India On August 21 – All Key Details",
+      "summary": "GaadiWaadi - BMW X1 LWB features a larger cabin, premium features and a more spacious rear seat than the standard model BMW India is all set to consolidate its SUV portfolio as it will introduce the new X1 Long Wheelbase version on August 21, 2026. Already on sale in overseas markets, it will become the first long-wheelbase […] The post BMW X1 LWB To Launch In India On August 21 – All Key Details appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
+      "url": "https://gaadiwaadi.com/bmw-x1-lwb-to-launch-in-india-on-august-21-all-key-details/",
+      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/BMW-X1-LWB-2026-India-1.jpg",
+      "images": [
+        "https://gaadiwaadi.com/wp-content/uploads/2026/08/BMW-X1-LWB-2026-India-1.jpg"
+      ],
+      "source": "Gaadiwaadi IN",
+      "source_url": "https://gaadiwaadi.com",
+      "published": "2026-08-07T07:00:44+00:00"
+    },
+    {
+      "id": "4e72367f96a63459",
+      "title": "BMW i3 M will have Four Electric Motors and around 700bhp",
+      "summary": "The BMW i3 M is expected to enter production in March 2027, with its debut likely to take place before the end of 2026.",
+      "url": "https://www.carwale.com/news/bmw-i3-m-will-have-four-electric-motors-and-around-700bhp/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/225470/exterior-right-front-three-quarter.jpeg?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/225470/exterior-right-front-three-quarter.jpeg?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-07T06:14:16+00:00"
+    },
     {
       "id": "99cb73ae888e9bb7",
       "title": "Juli 2026: BMW Deutschland startet stark ins zweite Halbjahr",
@@ -336,7 +376,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2027-BMW-i3-Sedan-series-production-start-1-830x485.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-06T09:04:02+00:00"
     },
@@ -445,22 +485,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/11/2028-bmw-x3m-electric-za5-21-830x554.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-05T14:47:12+00:00"
-    },
-    {
-      "id": "955cc68b6ee55085",
-      "title": "BMW X1 LWB Teased; Launch on 21 August",
-      "summary": "The X1 LWB will be priced lower than the vanilla X1.",
-      "url": "https://www.carwale.com/news/bmw-x1-lwb-teased-launch-on-21-august/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/225408/x1-exterior-right-front-three-quarter.png?isig=0",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/225408/x1-exterior-right-front-three-quarter.png?isig=0"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-08-05T14:20:55+00:00"
     },
     {
       "id": "eabf1b709fbb5d5e",
@@ -471,7 +498,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-09-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-05T13:12:28+00:00"
     },
@@ -616,7 +643,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-m3-vs-m340i-value-retention-830x465.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-04T15:19:05+00:00"
     },
@@ -681,7 +708,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90647648_highres_bmw-group-plant-spar.jpg?itok=YiaSffnV"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-04T12:00:00+00:00"
     },
@@ -756,19 +783,6 @@
       "published": "2026-08-03T20:32:37+00:00"
     },
     {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
-    },
-    {
       "id": "a4006629828cabd2",
       "title": "New BMW X7 And 3 Series Spied Together In Las Vegas",
       "summary": "BMW has plans to roll out approximately 40 new or updated models by the end of 2027. Granted, we’ve already seen some of them, starting with last year’s iX3 and continuing with this year’s i3... First published by https://www.bmwblog.com",
@@ -812,9 +826,9 @@
       "title": "Early BMW Super Tourer and Polley Toyota recreation among Touring Car Rewind highlights",
       "summary": "Touring Car Rewind: South brought an array of retro tin-top machinery to Brands Hatch last weekend. Amid the nostalgia, 2013 British Touring Car champion Andrew Jordan in a Super Touring BMW and Ford Capri-mounted current BTCC star Charles Rainford were among those to catch the eye. Star Car: BMW 318i E36 Few Super Touring cars were as successful – or numerous – in period as BMW’s ... Keep reading",
       "url": "https://www.autosport.com/national/news/early-bmw-super-tourer-and-polley-toyota-recreation-among-touring-car-rewind-highlights/10843813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
+        "https://cdn-9.motorsport.com/images/amp/01QNJpZ0/s6/super-tourer-andrew-jordan-jpg.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -1004,9 +1018,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -1346,7 +1360,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1492,19 +1506,6 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-27T07:05:10+00:00"
-    },
-    {
-      "id": "214aeb19064c0506",
-      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
-      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-27T01:00:00+00:00"
     },
     {
       "id": "27f04a46093ce7f8",
@@ -1725,7 +1726,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2233,9 +2234,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2627,7 +2628,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2682,6 +2683,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-27T07:33:33+00:00"
+    },
+    {
+      "id": "102575a9a7a29af0",
+      "title": "Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV",
+      "summary": "The high-performance C-Class has been spied with less disguise as it gears up for an approaching debut",
+      "url": "https://www.carscoops.com/2026/06/mercedes-amg-c-class-ev-spied/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-27T01:00:00+00:00"
     },
     {
       "id": "ef8701a6dd6d0436",
@@ -2996,6 +3010,19 @@
       "published": "2026-06-16T09:46:00+00:00"
     },
     {
+      "id": "1301c83de6ef776a",
+      "title": "Mercedes-AMG Plans 27 New Cars In 36 Months To Catch BMW’s M",
+      "summary": "A flat-plane 4.0-liter twin-turbo V8 and a new six anchor the next wave of AMG performance models",
+      "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-16T09:08:00+00:00"
+    },
+    {
       "id": "008d2e899c4f29d6",
       "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
       "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
@@ -3202,6 +3229,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-09T11:21:41+00:00"
+    },
+    {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
     },
     {
       "id": "4990c9488bed2755",
@@ -3472,7 +3512,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3576,7 +3616,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3683,6 +3723,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -3878,19 +3931,6 @@
       "source": "BMW Blog Alpina tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-10T14:28:43+00:00"
-    },
-    {
-      "id": "ec700291baf073ac",
-      "title": "BMW Floods South Korea With Nine Special Editions",
-      "summary": "There’s no market in the world with as many special editions as South Korea. Over the past few years, BMW has made a habit of launching limited-run vehicles every month. These models typically come in... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/05/09/bmw-south-korea-nine-special-editions/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/05/BMW-M2-Coupe-Sao-Paulo-Yellow-Edition-830x653.jpg"
-      ],
-      "source": "BMW Blog M4",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-05-09T06:10:19+00:00"
     }
   ]
 }
