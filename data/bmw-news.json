@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-08T20:44:57.941855+00:00",
-  "generated_at_human": "2026-08-08 20:44 UTC",
-  "total_items": 288,
+  "generated_at": "2026-08-08T21:42:14.443543+00:00",
+  "generated_at_human": "2026-08-08 21:42 UTC",
+  "total_items": 286,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,15 +37,16 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
+    "BMW Blog i5 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
@@ -53,9 +54,7 @@
     "CarScoops Mercedes",
     "CarWale IN",
     "Electrek BMW",
-    "Electric Cars Report",
     "Hagerty Media",
-    "Hooniverse",
     "InsideEVs",
     "Motor1",
     "Motor1 BMW",
@@ -64,14 +63,43 @@
     "Motor1 Volvo",
     "Motorsport MotoGP",
     "Motorsport WEC",
-    "Paul Tan",
-    "RushLane IN",
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 14,
+  "sources_count": 61,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "25e6be5a747fba87",
+      "title": "The Sports Car With Toyota Reliability And BMW M-Car Performance",
+      "summary": "This sports car was born from special circumstances that are unlikely to ever occur again and we miss it already.",
+      "url": "https://www.topspeed.com/sports-car-with-toyota-reliability-bmw-m-performance/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/todayver0movr.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/todayver0movr.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_2026_toyota_grsupra_mkv_renaissancered_015.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_2026_toyota_grsupra_mkv_renaissancered_016.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/bmw-z4_m40i_6mt-2025-hd-13e69d811c27a76bf626970cdc76e098b454a8476.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_2026_toyota_grsupra_mkv_renaissancered_315.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2025-bmw-m240i-xdrive.jpg?q=49&fit=crop&w=875&h=540&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-08T21:15:10+00:00"
+    },
+    {
+      "id": "d7649cb0add4584b",
+      "title": "24k-Mile 2004 BMW 645Ci Convertible at No Reserve",
+      "summary": "This 2004 BMW 645Ci convertible was purchased new by the seller's friend, and it now has 24k miles following the seller's purchase in 2024. Specified in Black Sapphire Metallic over black Dakota leather, the car is powered by a 4.4-liter V8 paired with a six-speed automatic transmission. It has a black soft top, xenon headlights, Park Distance Control parking sensors, 18\" Style 120 alloy wheels, heated power-adjustable front seats, and iDrive with navigation. This E64 645Ci convertible is now offered at no reserve with all-weather front floor mats, a clean Carfax report, and a clean Texas…",
+      "url": "https://bringatrailer.com/listing/2004-bmw-645ci-convertible-26/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2004_bmw_645ci-convertible_2004_bmw_645ci-convertible_f7da44d3-5cad-4e72-96a8-1df033fbbbd7-yIJ77o-46177-46178-scaled-1-copy-2026-08-01-ddx-49314.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/2004_bmw_645ci-convertible_2004_bmw_645ci-convertible_f7da44d3-5cad-4e72-96a8-1df033fbbbd7-yIJ77o-46177-46178-scaled-1-copy-2026-08-01-ddx-49314.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-08T20:45:19+00:00"
+    },
     {
       "id": "edf6dbc8c5ba1c75",
       "title": "Mercedes Killed Its V8. BMW Never Did. Now AMG Wants It Back",
@@ -112,19 +140,6 @@
       "published": "2026-08-08T15:36:30+00:00"
     },
     {
-      "id": "b3e1afedd6842ab1",
-      "title": "Kia Stinger GT2: A Smart Alternative to the BMW F80 M3",
-      "summary": "The Stinger GT2 offers thrilling performance, rear-wheel drive dynamics, and a warranty-backed reliability that makes it a smarter choice than the M3.",
-      "url": "https://www.topspeed.com/kia-sport-sedan-f80-m3-pace-without-rebuild-anxiety/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/l4k6ashw.jpeg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/l4k6ashw.jpeg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-08T15:00:10+00:00"
-    },
-    {
       "id": "45b9453507c4d2f1",
       "title": "BMW-Backed Student EV Looks Like A Homemade Cybertruck But Ends The Day With More Charge Than It Started",
       "summary": "Deep Orange 17 uses 1,700 solar cells and promises surplus energy after a typical urban commute",
@@ -141,22 +156,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-08T14:08:00+00:00"
-    },
-    {
-      "id": "6e1d082598329818",
-      "title": "Electric Car Sales July 2026 – Tata, Mahindra, MG, Maruti, VinFast, Hyundai, Kia, BMW, Mercedes",
-      "summary": "The strongest July month across all segments, saw total electric passenger vehicle sales at an 83.13% YoY growth The post Electric Car Sales July 2026 – Tata, Mahindra, MG, Maruti, VinFast, Hyundai, Kia, BMW, Mercedes appeared first on RushLane .",
-      "url": "https://www.rushlane.com/electric-car-sales-july-2026-tata-mahindra-mg-maruti-vinfast-12552820.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/03/mahindra-xev-9s-delivery.jpeg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/03/mahindra-xev-9s-delivery.jpeg",
-        "https://www.rushlane.com/wp-content/uploads/2026/08/electric-car-sales-july-2026-2-1068x878.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/08/electric-car-sales-july-2026-1-1068x877.jpg",
-        "https://www.rushlane.com/wp-content/uploads/2026/08/car-sales-july-2026-fuel-wise-1068x560.jpg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-08-08T11:37:39+00:00"
     },
     {
       "id": "ea90cb7681cbcdf3",
@@ -219,19 +218,6 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-08-08T09:03:18+00:00"
-    },
-    {
-      "id": "31660884f5a4326b",
-      "title": "Why Mahindra’s Electric Origin SUVs Are Winning Over Premium EV Buyers",
-      "summary": "In terms of overall technology and feature set, BE 6, XEV 9e and XEV 9S overlap with premium electric SUVs such as BMW iX1, BYD Sealion 7 and Tesla Model Y, despite being priced considerably lower The post Why Mahindra’s Electric Origin SUVs Are Winning Over Premium EV Buyers appeared first on RushLane .",
-      "url": "https://www.rushlane.com/why-mahindras-electric-origin-suvs-are-winning-over-premium-ev-buyers-12552843.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/04/mahindra-xev-9s-sales-new.jpeg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/04/mahindra-xev-9s-sales-new.jpeg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-08-08T08:36:31+00:00"
     },
     {
       "id": "332a571e437c9ef7",
@@ -341,9 +327,14 @@
       "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/89fc1061-523c-49ed-8821-ec17e51332fd.jpg?crop=0.767xw:0.767xh;0.109xw",
+        "https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg?crop=0.727xw:0.728xh;0.159xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d22b0091-a000-421d-8a49-68b5a4a86654.jpg?crop=0.613xw:0.614xh;0.249xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d2c81f02-e5b2-4189-b8ef-66063a2ea531.jpg?crop=0.589xw:0.588xh;0.180xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8277272b-e323-4457-84de-c10733964f90.jpg?crop=0.603xw:0.604xh;0.223xw"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-07T13:36:00+00:00"
     },
@@ -408,7 +399,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -455,19 +446,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-07T10:08:00+00:00"
-    },
-    {
-      "id": "7971a1e175b5082f",
-      "title": "BMW Plant Munich Launches BMW i3 Series Production",
-      "summary": "BMW starts series production of the new electric i3 at Plant Munich, launching the Neue Klasse era with advanced EV manufacturing, lower costs, and new technology. The post BMW Plant Munich Launches BMW i3 Series Production appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/08/bmw-plant-munich-launches-bmw-i3-series-production/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-i3-Production.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-i3-Production.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-08-07T09:46:44+00:00"
     },
     {
       "id": "6f401e987e93c35e",
@@ -637,19 +615,6 @@
       "source": "BMW Blog X2",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-06T14:33:35+00:00"
-    },
-    {
-      "id": "454508b4ee40cbed",
-      "title": "Get great deals on a new BMW, MINI or BMW Motorrad at Auto Bavaria’s BMW Clubhouse event this August 6-9",
-      "summary": "Whether you’ve been dreaming of a new BMW, MINI or BMW Motorrad, this surely is the perfect time to make that upgrade, and the BMW Clubhouse event happening this weekend is surely the place to […] The post Get great deals on a new BMW, MINI or BMW Motorrad at Auto Bavaria’s BMW Clubhouse event this August 6-9 appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/08/06/get-great-deals-on-a-new-bmw-mini-or-bmw-motorrad-at-auto-bavarias-bmw-clubhouse-event-this-august-6-9/",
-      "image": "https://paultan.org/image/2026/08/AB-BMW-Clubhouse-630x330.png",
-      "images": [
-        "https://paultan.org/image/2026/08/AB-BMW-Clubhouse-630x330.png"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-08-06T10:09:05+00:00"
     },
     {
       "id": "23323a96b1d2a3ba",
@@ -915,6 +880,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-03T20:32:37+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1468,7 +1446,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1614,6 +1592,19 @@
       "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-27T07:05:10+00:00"
+    },
+    {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
     },
     {
       "id": "27f04a46093ce7f8",
@@ -1821,7 +1812,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1912,7 +1903,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2268,7 +2259,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog i5 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2684,7 +2675,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2778,19 +2769,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
