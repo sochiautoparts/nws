@@ -1,20 +1,21 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-08T18:54:41.345939+00:00",
-  "generated_at_human": "2026-08-08 18:54 UTC",
-  "total_items": 292,
+  "generated_at": "2026-08-08T19:40:06.815135+00:00",
+  "generated_at_human": "2026-08-08 19:40 UTC",
+  "total_items": 301,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
     "BMW Blog 4",
     "BMW Blog 5",
+    "BMW Blog 7 tag",
     "BMW Blog Alpina tag",
     "BMW Blog M",
     "BMW Blog M tag",
@@ -38,7 +39,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -46,12 +46,16 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
-    "CarScoops Lexus",
+    "CarScoops BMW M4",
+    "CarScoops BMW M5",
+    "CarScoops BMW iX",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
     "CarWale IN",
     "Electrek BMW",
@@ -71,9 +75,22 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 15,
+  "sources_count": 70,
+  "multi_photo_items": 21,
   "items": [
+    {
+      "id": "edf6dbc8c5ba1c75",
+      "title": "Mercedes Killed Its V8. BMW Never Did. Now AMG Wants It Back",
+      "summary": "Mercedes-AMG is bringing V8 power back to the lineup, with new models arriving before the end of 2026. AMG CEO Michael Scheibe told media the division is doubling down on combustion engines again, a reversal... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/08/mercedes-killed-its-v8-bmw-never-did-now-amg-wants-it-back/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2024/06/mercedes-amg-e53-vs-bmw-m5-01-830x830.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2024/06/mercedes-amg-e53-vs-bmw-m5-01-830x830.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-08T19:15:46+00:00"
+    },
     {
       "id": "badbe9062152e7fd",
       "title": "1994 BMW 740i 6-Speed at No Reserve",
@@ -107,12 +124,7 @@
       "url": "https://carbuzz.com/2027-bmw-x5-redesign/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-long-wheelbase-exterior-headlight-closeup.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-long-wheelbase-exterior-headlight-closeup.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-bmw-x5-40-xdrive-exterior-6.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-interior-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-interior-3.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-long-wheelbase-exterior-headlight-closeup.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -361,9 +373,14 @@
       "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/89fc1061-523c-49ed-8821-ec17e51332fd.jpg?crop=0.767xw:0.767xh;0.109xw",
+        "https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg?crop=0.727xw:0.728xh;0.159xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d22b0091-a000-421d-8a49-68b5a4a86654.jpg?crop=0.613xw:0.614xh;0.249xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d2c81f02-e5b2-4189-b8ef-66063a2ea531.jpg?crop=0.589xw:0.588xh;0.180xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8277272b-e323-4457-84de-c10733964f90.jpg?crop=0.603xw:0.604xh;0.223xw"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-07T13:36:00+00:00"
     },
@@ -428,7 +445,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -628,7 +645,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2027-bmw-7-series-i7-facelift-01-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 7 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-06T16:30:39+00:00"
     },
@@ -769,9 +786,14 @@
       "url": "https://www.carscoops.com/2026/08/bmw-dashboard-advertising/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-104941-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-104941-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-104941-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651590_highRes_bmw-brings-modern-mo-1638x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651589_highRes_bmw-brings-modern-mo-1638x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651335_highRes_bmw-brings-the-neue--2048x1537.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651593_highRes_bmw-brings-modern-mo-1366x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651591_highRes_bmw-brings-modern-mo-1366x2048.jpg"
       ],
-      "source": "CarScoops BMW",
+      "source": "CarScoops BMW iX",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-05T12:24:00+00:00"
     },
@@ -937,6 +959,19 @@
       "published": "2026-08-03T20:32:37+00:00"
     },
     {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
+    },
+    {
       "id": "a4006629828cabd2",
       "title": "New BMW X7 And 3 Series Spied Together In Las Vegas",
       "summary": "BMW has plans to roll out approximately 40 new or updated models by the end of 2027. Granted, we’ve already seen some of them, starting with last year’s iX3 and continuing with this year’s i3... First published by https://www.bmwblog.com",
@@ -982,9 +1017,14 @@
       "url": "https://www.carscoops.com/2026/08/bmw-m5-touring-facelift/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/BMW-M5-Touring-1Scoop-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90652124_highRes_clemson-university-u-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/DB2018AU02073_large-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Unplugged-Performance-Invincible-Tesla-Cybertruck-3840px-7-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/SB13652-copy-2048x1152.jpg"
       ],
-      "source": "CarScoops BMW",
+      "source": "CarScoops BMW M5",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-03T10:02:00+00:00"
     },
@@ -1146,9 +1186,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -1636,6 +1676,19 @@
       "published": "2026-07-27T07:05:10+00:00"
     },
     {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
+    },
+    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -1841,7 +1894,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2527,6 +2580,24 @@
       "published": "2026-07-08T08:14:09+00:00"
     },
     {
+      "id": "a4cb15a602b89858",
+      "title": "BMW’s Electric M4 Coupe Imagined With 1,000 HP Before It Exists",
+      "summary": "The sleek profile of the current M4 could be ditched in favor of a sharper, more radical design",
+      "url": "https://www.carscoops.com/2026/07/bmw-electric-m4-renders/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/34frwedcs-1024x577.webp",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/07/34frwedcs-1024x577.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-40-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-44-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-4-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-6-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-42-2048x1384.jpg"
+      ],
+      "source": "CarScoops BMW M4",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-07-07T23:39:00+00:00"
+    },
+    {
       "id": "754a346d8b8162e5",
       "title": "2027 BMW X7 Final Year: Same Power, Fewer Options",
       "summary": "The BMW X7 is closing out its first generation with the 2027 model year. Now entering its eighth model year, the SUV holds up well but is clearly ready to move into its second generation.... First published by https://www.bmwblog.com",
@@ -2657,6 +2728,24 @@
       "published": "2026-07-02T16:54:06+00:00"
     },
     {
+      "id": "8190842c1e131ea7",
+      "title": "A Stolen BMW M4 Fled Police At 130, Then Split In Half On A Sign Post",
+      "summary": "Police helicopter footage captures a spectacular crash involving two men linked to a much bigger luxury car theft investigation",
+      "url": "https://www.carscoops.com/2026/06/bmw-m4-crash-pursuit/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90652124_highRes_clemson-university-u-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/DB2018AU02073_large-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/srnresthserg-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Ram-1500-Rumble-Bee-392-519-2qqq-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Toyota_GRCorolla_GR-Four_PremiumPlus_HeavyMetal_305-copy-2048x1152.jpg"
+      ],
+      "source": "CarScoops BMW M4",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-30T19:19:00+00:00"
+    },
+    {
       "id": "322d07dc9c90204a",
       "title": "BMW iX5 vs iX3 Photo Comparison: Neue Klasse, Two Sizes",
       "summary": "It has been half a decade since BMW launched its first SUV, the BMW iX. Today, BMW launches their third electric SUV ever, the iX5, which will run concurrent with the iX3 to satisfy most,... First published by https://www.bmwblog.com",
@@ -2704,7 +2793,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2938,7 +3027,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -2954,6 +3043,24 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T13:23:26+00:00"
+    },
+    {
+      "id": "076fbd6bd16e7dcf",
+      "title": "Alpina’s Founders Built A 790-HP Sleeper Wagon, But The Sedan Fans Want Is Just A Render",
+      "summary": "An independent render answers what nobody at Bovensiepen will, giving the wagon-only 05 GT a classic sedan body",
+      "url": "https://www.carscoops.com/2026/06/bovensiepen-05-gt-sedan-render/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-Sedan-Rendering-main-scaled-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-Sedan-Rendering-main-scaled-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-New-11-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-New-10-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-New-17-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-New-14-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Bovensiepen-05-GT-New-8-2048x1536.jpg"
+      ],
+      "source": "CarScoops BMW M5",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-21T23:22:00+00:00"
     },
     {
       "id": "d4f44c24a642811b",
@@ -3190,6 +3297,24 @@
       "published": "2026-06-13T15:11:57+00:00"
     },
     {
+      "id": "91df334a02d22529",
+      "title": "BMW Just Opened The Door To More US Wagons After M5 Touring’s Success",
+      "summary": "BMW says M5 Touring sales are running neck-and-neck with the sedan, potentially opening doors for more wagons",
+      "url": "https://www.carscoops.com/2026/06/bmw-m5-touring-sales/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/P90584973_highRes_the-first-ever-bmw-m-copy-1-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/P90584973_highRes_the-first-ever-bmw-m-copy-1-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90652124_highRes_clemson-university-u-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/DB2018AU02073_large-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/srnresthserg-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Ram-1500-Rumble-Bee-392-519-2qqq-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Toyota_GRCorolla_GR-Four_PremiumPlus_HeavyMetal_305-copy-2048x1152.jpg"
+      ],
+      "source": "CarScoops BMW M5",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-12T21:20:00+00:00"
+    },
+    {
       "id": "6482cbcf3a03eb26",
       "title": "BMW put the new iX3 through the paces, and it still drove 500 miles on a single charge",
       "summary": "BMW drove the new iX3 through heavy rain and snow on public roads, climbing over 6,500 feet up hills, and it still managed 500 miles without stopping to charge.",
@@ -3307,19 +3432,6 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
-      "id": "61727afbda653219",
-      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
-      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
-      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Lexus",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-08T17:23:00+00:00"
-    },
-    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -3331,6 +3443,32 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
+    },
+    {
+      "id": "533a70598eab02ab",
+      "title": "This 1970s BMW CSL Coupe Is Hiding A Whole M5 Underneath",
+      "summary": "Someone dropped an E9 coupe body over an E39 M5 sedan and now you can buy the result",
+      "url": "https://www.carscoops.com/2026/06/bmw-e9-m5-fusion/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/IMG_2975-77389-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/IMG_2975-77389-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops BMW M5",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-07T11:12:00+00:00"
+    },
+    {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
@@ -3513,6 +3651,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-30T18:10:08+00:00"
+    },
+    {
+      "id": "e72f418cfcaf2fd5",
+      "title": "BMW Adds A 395-Mile Base iX3 And A Black Package For Summer",
+      "summary": "A handful of models will be offered with a new Black Package, which adds black accents and carbon fiber flourishes",
+      "url": "https://www.carscoops.com/2026/05/2026-bmw-summer-update/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/634172979_1355901536578930_8487840951495183653_n-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/634172979_1355901536578930_8487840951495183653_n-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops BMW M4",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-28T21:38:00+00:00"
     },
     {
       "id": "2ea8f50616b7e4cc",
