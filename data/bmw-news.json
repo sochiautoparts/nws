@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-09T14:48:12.782859+00:00",
-  "generated_at_human": "2026-08-09 14:48 UTC",
-  "total_items": 290,
+  "generated_at": "2026-08-09T15:42:32.632849+00:00",
+  "generated_at_human": "2026-08-09 15:42 UTC",
+  "total_items": 288,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,8 +37,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -47,13 +47,10 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
-    "CarScoops Lexus",
     "CarScoops Mercedes",
-    "CarScoops Volvo",
     "CarWale IN",
     "Electrek BMW",
     "Electric Cars Report",
@@ -71,9 +68,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 14,
+  "sources_count": 63,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "30f5dc0bec3d3360",
+      "title": "BMW R 18 Classic vs Harley Heritage: Touring Comfort",
+      "summary": "The BMW R 18 Classic matches Harley Heritage touring comfort with a windscreen, saddlebags, shaft drive, and 120 lb-ft boxer torque for $18,395.",
+      "url": "https://www.topspeed.com/cruiser-matches-harley-touring-comfort/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/2025-royal-enfield-r-18-classic-front.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/2025-royal-enfield-r-18-classic-front.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-harley-davidson-heritage-classic-liberty-edition-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/harley-davidson-heritage-classic-engine.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/2025-bmw-r-18-classic-front-34.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/01/2025-bmw-r-18-and-r-18-classic-top.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2025-bmw-r-18-classic-static-front-quarter-shot.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-09T15:31:10+00:00"
+    },
     {
       "id": "62f069d047d114b5",
       "title": "The Best Sports Sedan Under $45K Isn't BMW",
@@ -131,7 +146,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/prior_mug.jpg"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -165,19 +180,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-09T01:01:00+00:00"
-    },
-    {
-      "id": "d7779d88d190ab0b",
-      "title": "Cadillac Built A 318-HP Wagon That Gave Audi And BMW A Headache, And Now It's Increasing In Value",
-      "summary": "A lesser-known Cadillac wagon could stand up to some European alternatives in a straight fight.",
-      "url": "https://carbuzz.com/cadillac-cts-sport-wagon-bargain-versus-audi-bmw/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/573465_-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/573465_-1.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-09T00:01:14+00:00"
     },
     {
       "id": "edf6dbc8c5ba1c75",
@@ -245,7 +247,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/04/2025-BMW-3-Series-50-Years-Edition-5-830x623.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T11:11:39+00:00"
     },
@@ -442,7 +444,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-iX3-40-base-configuration-5-830x727.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-07T13:31:45+00:00"
     },
@@ -468,7 +470,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -2141,7 +2143,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2284,7 +2286,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2700,7 +2702,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3277,19 +3279,6 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
-      "id": "61727afbda653219",
-      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
-      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
-      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Lexus",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-08T17:23:00+00:00"
-    },
-    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -3532,7 +3521,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3636,7 +3625,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3743,19 +3732,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
-    },
-    {
-      "id": "d543db934ca83a82",
-      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
-      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
-      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
