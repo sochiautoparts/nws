@@ -1,12 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-08T23:39:37.488450+00:00",
-  "generated_at_human": "2026-08-08 23:39 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-09T02:25:10.164454+00:00",
+  "generated_at_human": "2026-08-09 02:25 UTC",
+  "total_items": 292,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
+    "AutoWeek News",
     "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
@@ -38,7 +39,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -46,9 +46,9 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
-    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -58,6 +58,7 @@
     "Hagerty Media",
     "Hooniverse",
     "InsideEVs",
+    "Jalopnik",
     "Motor1",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -70,9 +71,63 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 13,
+  "sources_count": 66,
+  "multi_photo_items": 17,
   "items": [
+    {
+      "id": "38e03cc5fc28e1c4",
+      "title": "Time Has Been Kind To BMW's 'Bangle Butt' Styling",
+      "summary": "Unsurprisingly, the traditionalist automotive media were put off by BMW's new design language, but I remember loving the bold new direction as a kid.",
+      "url": "https://www.jalopnik.com/2232806/time-kind-bmw-chris-bangle-butt-styling-design/",
+      "image": "https://www.jalopnik.com/img/gallery/time-has-been-kind-to-bmws-bangle-butt-styling/l-intro-1786132875.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/time-has-been-kind-to-bmws-bangle-butt-styling/l-intro-1786132875.jpg",
+        "https://www.jalopnik.com/img/uploads/embed/it-GuzHwT-1785794676.jpg",
+        "https://www.jalopnik.com/img/uploads/embed/it-NnKZW1-1785794398.jpg",
+        "https://www.jalopnik.com/img/gallery/time-has-been-kind-to-bmws-bangle-butt-styling/intro-1786132875.jpg",
+        "https://www.jalopnik.com/img/gallery/time-has-been-kind-to-bmws-bangle-butt-styling/it-may-have-started-with-the-e65-7-series-but-all-of-bangles-designs-were-mold-breaking-1786132876.jpg",
+        "https://www.jalopnik.com/img/gallery/time-has-been-kind-to-bmws-bangle-butt-styling/what-a-guy-1786132877.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-08-09T01:25:00+00:00"
+    },
+    {
+      "id": "fadc08cec918b798",
+      "title": "Driven Just 9K Miles, This 1977 BMW E21 Is About As Frozen In Time As It Gets",
+      "summary": "For more than 40 years, this E21-generation 3-Series remained under the stewardship of its original owner",
+      "url": "https://www.carscoops.com/2026/08/bmw-320i-e21-auction/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/HeritageGruppe_BMWE21-320i_002-scaled-72803-copy-1024x576.webp",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/HeritageGruppe_BMWE21-320i_002-scaled-72803-copy-1024x576.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90652124_highRes_clemson-university-u-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/DB2018AU02073_large-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/srnresthserg-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Ram-1500-Rumble-Bee-392-519-2qqq-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Heated-seats-new-study-2048x1152.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-09T01:01:00+00:00"
+    },
+    {
+      "id": "d7779d88d190ab0b",
+      "title": "Cadillac Built A 318-HP Wagon That Gave Audi And BMW A Headache, And Now It's Increasing In Value",
+      "summary": "A lesser-known Cadillac wagon could stand up to some European alternatives in a straight fight.",
+      "url": "https://carbuzz.com/cadillac-cts-sport-wagon-bargain-versus-audi-bmw/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/573465_-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/573465_-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/573464_-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2010_cadillac_cts-wagon_20250312_161509-41775.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2009-2014-cadillac-cts-sport-wagon-5-_20241203_154831_0013.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/3-111.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-09T00:01:14+00:00"
+    },
     {
       "id": "85b9810926699325",
       "title": "Euro 1975 BMW 1502",
@@ -111,19 +166,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T19:15:46+00:00"
-    },
-    {
-      "id": "be62c26cb99e1c7c",
-      "title": "2027 BMW X5 Redesign Is Neue Klasse On Display",
-      "summary": "The 2027 BMW X5 is the latest Neue Klasse creation. How is it different from its previous generations?",
-      "url": "https://carbuzz.com/2027-bmw-x5-redesign/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-long-wheelbase-exterior-headlight-closeup.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-long-wheelbase-exterior-headlight-closeup.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-08T16:00:15+00:00"
     },
     {
       "id": "2d20233b978b57c4",
@@ -248,6 +290,24 @@
       "published": "2026-08-08T08:36:31+00:00"
     },
     {
+      "id": "332a571e437c9ef7",
+      "title": "This Solar EV Can Make More Energy Than It Uses",
+      "summary": "Clemson engineering students teamed with BMW to create the 1,212-pound Luminetta, a solar-powered concept designed to produce a daily energy surplus.",
+      "url": "https://www.autoweek.com/news/a73380075/solar-ev-makes-more-energy-than-it-uses/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/ae8f8d91-53d4-48aa-a191-f8743cd84a4e.jpg?crop=1xw:0.844xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f66e4466-2251-40f2-8738-3a9767d0537a.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/4290f6ed-b09d-4580-8bf2-12968da6a2b1.jpeg?crop=0.667xw:1xh;0xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/dd0d74b2-8d79-45d4-b2d4-3bbaab146541.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/1e44cd74-ee66-4564-8bda-9279da59a9f0.png?crop=0.75xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-07T22:24:51+00:00"
+    },
+    {
       "id": "da0676f399502ff0",
       "title": "BMW says wagons, convertibles and other niche models are safe in Australia",
       "summary": "BMW won't follow rivals in axing or declining to import niche models into Australia, including wagons and convertibles.",
@@ -337,9 +397,14 @@
       "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/89fc1061-523c-49ed-8821-ec17e51332fd.jpg?crop=0.767xw:0.767xh;0.109xw",
+        "https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg?crop=0.727xw:0.728xh;0.159xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d22b0091-a000-421d-8a49-68b5a4a86654.jpg?crop=0.613xw:0.614xh;0.249xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d2c81f02-e5b2-4189-b8ef-66063a2ea531.jpg?crop=0.589xw:0.588xh;0.180xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8277272b-e323-4457-84de-c10733964f90.jpg?crop=0.603xw:0.604xh;0.223xw"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-07T13:36:00+00:00"
     },
@@ -441,12 +506,7 @@
       "url": "https://www.carscoops.com/2026/08/bmw-i3-munich-production/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-4-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-1-1366x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-i3-Production-Germany-6-1366x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/03/P90632228_highRes_the-new-bmw-i3-50-xd-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/03/P90632227_highRes_the-new-bmw-i3-50-xd-2048x1366.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/P90651994_highRes_start-of-production-copy-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -809,6 +869,19 @@
       "published": "2026-08-05T00:18:00+00:00"
     },
     {
+      "id": "e21fe63c0e1b4bbc",
+      "title": "BMW’s Spider-Man Promo Has Drivers Seeing Red",
+      "summary": "An in-car movie promotion is drawing criticism from owners who say dashboard screens shouldn’t become advertising space for vehicles they've already bought.",
+      "url": "https://www.autoweek.com/news/a73348334/bmw-spider-man-ad-has-drivers-seeing-red/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3020da05-7905-464a-8149-399b62a4201b.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3020da05-7905-464a-8149-399b62a4201b.jpeg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-04T22:45:07+00:00"
+    },
+    {
       "id": "3dcda728950cb472",
       "title": "BMW’s in-car Spider-Man ad is villain behavior",
       "summary": "When a premium car brand like BMW says it has a \"special surprise\" in store for drivers, I'd expect something more luxurious than having a movie commercial beamed onto the dashboard. That's exactly what's happening to many BMW owners, however, who are being shown banner ads for Spider-man: Brand New Day on their Control Display […]",
@@ -898,6 +971,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-03T20:32:37+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1109,9 +1195,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-8.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -1599,6 +1685,19 @@
       "published": "2026-07-27T07:05:10+00:00"
     },
     {
+      "id": "214aeb19064c0506",
+      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
+      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-07-27T01:00:00+00:00"
+    },
+    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -1783,19 +1882,6 @@
       "published": "2026-07-24T10:01:31+00:00"
     },
     {
-      "id": "4d4fb79d2fc8c7cc",
-      "title": "BMW’s Smallest Crossover Coupe Is Entering The Neue Klasse Era",
-      "summary": "The facelifted X2 M40 has been spied with a fresh design and an all-new interior",
-      "url": "https://www.carscoops.com/2026/07/2028-bmw-x2-m40-spied/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/2028-BMW-X2-M40-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/2028-BMW-X2-M40-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-07-24T00:21:00+00:00"
-    },
-    {
       "id": "2f081b63c2baacd8",
       "title": "BMW Has an EV Lineup Worth Shopping. Here’s the Order",
       "summary": "BMW has more electric cars on sale, or about to be, than at any point in its history, and not surprisingly, the newest ones are also the best ones. Also, for years, the choice was... First published by https://www.bmwblog.com",
@@ -1804,7 +1890,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1895,7 +1981,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2108,7 +2194,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2667,7 +2753,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2722,19 +2808,6 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-27T07:33:33+00:00"
-    },
-    {
-      "id": "102575a9a7a29af0",
-      "title": "Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV",
-      "summary": "The high-performance C-Class has been spied with less disguise as it gears up for an approaching debut",
-      "url": "https://www.carscoops.com/2026/06/mercedes-amg-c-class-ev-spied/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg"
-      ],
-      "source": "CarScoops AMG",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-27T01:00:00+00:00"
     },
     {
       "id": "ef8701a6dd6d0436",
@@ -3047,19 +3120,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-06-16T09:46:00+00:00"
-    },
-    {
-      "id": "1301c83de6ef776a",
-      "title": "Mercedes-AMG Plans 27 New Cars In 36 Months To Catch BMW’s M",
-      "summary": "A flat-plane 4.0-liter twin-turbo V8 and a new six anchor the next wave of AMG performance models",
-      "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
-      ],
-      "source": "CarScoops AMG",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-16T09:08:00+00:00"
     },
     {
       "id": "008d2e899c4f29d6",
@@ -3512,7 +3572,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3616,7 +3676,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
