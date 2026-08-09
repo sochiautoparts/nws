@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-09T21:44:55.194610+00:00",
-  "generated_at_human": "2026-08-09 21:44 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-09T22:45:50.464953+00:00",
+  "generated_at_human": "2026-08-09 22:45 UTC",
+  "total_items": 290,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,8 +37,9 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -46,11 +47,14 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "CarWale IN",
     "Electrek BMW",
     "Electric Cars Report",
@@ -68,9 +72,45 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 63,
-  "multi_photo_items": 13,
+  "sources_count": 67,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "041537ad4f239fff",
+      "title": "2023 BMW 330i Averages $30K As Luxury Cars Sit Unsold",
+      "summary": "Used luxury cars are sitting unsold for 50+ days, but savvy buyers may find remarkable value hiding in plain sight.",
+      "url": "https://carbuzz.com/2023-bmw-330i-pricing-dealer-inventory/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/p90479610_highres_the-new-bmw-m340i-xd_converted.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/p90479610_highres_the-new-bmw-m340i-xd_converted.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-bmw-3-series-lci-16_converted.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/p90549618_converted.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-bmw-3-series-lci-17_converted.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/p90462543_highres_the-new-bmw-3-series_converted.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-09T22:08:14+00:00"
+    },
+    {
+      "id": "1a5feec05883c3c3",
+      "title": "BMW Spider-Man In-Car Ads Draw Owner Backlash in 2026",
+      "summary": "BMW is showing Spider-Man: Brand New Day ads on iDrive screens in 70+ markets, contradicting a 2023 exec promise. Owners are furious — and the industry is watching.",
+      "url": "https://www.topspeed.com/bmw-spider-man-in-car-ads-backlash/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-3-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-3-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/2026-bmw-5-series-front.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/2026-bmw-5-series-interior.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/06/_dsc3888-copy.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-yamaha-xsr900-gp-riding-on-the-beach.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/indian-scout-bobber.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-09T22:00:10+00:00"
+    },
     {
       "id": "da62341ea9615c81",
       "title": "30k-Mile 2006 BMW 325Ci Convertible",
@@ -124,19 +164,6 @@
       "published": "2026-08-09T15:57:08+00:00"
     },
     {
-      "id": "30f5dc0bec3d3360",
-      "title": "BMW R 18 Classic vs Harley Heritage: Touring Comfort",
-      "summary": "The BMW R 18 Classic matches Harley Heritage touring comfort with a windscreen, saddlebags, shaft drive, and 120 lb-ft boxer torque for $18,395.",
-      "url": "https://www.topspeed.com/cruiser-matches-harley-touring-comfort/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/2025-royal-enfield-r-18-classic-front.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/2025-royal-enfield-r-18-classic-front.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-09T15:31:10+00:00"
-    },
-    {
       "id": "4c147bc9f5ce3456",
       "title": "BMW X5, iX5 LWB Showcased for China: India Entry Likely",
       "summary": "The new X5s not only bring a new design language, but a hydrogen fuel cell EV (FCEV) is also under tests.",
@@ -162,7 +189,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/prior_mug.jpg"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -414,14 +441,9 @@
       "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/89fc1061-523c-49ed-8821-ec17e51332fd.jpg?crop=0.767xw:0.767xh;0.109xw",
-        "https://hips.hearstapps.com/hmg-prod/images/792cb57b-dea8-4a19-a036-acf6db3a9b61.jpg?crop=0.727xw:0.728xh;0.159xw",
-        "https://hips.hearstapps.com/hmg-prod/images/d22b0091-a000-421d-8a49-68b5a4a86654.jpg?crop=0.613xw:0.614xh;0.249xw",
-        "https://hips.hearstapps.com/hmg-prod/images/d2c81f02-e5b2-4189-b8ef-66063a2ea531.jpg?crop=0.589xw:0.588xh;0.180xw",
-        "https://hips.hearstapps.com/hmg-prod/images/8277272b-e323-4457-84de-c10733964f90.jpg?crop=0.603xw:0.604xh;0.223xw"
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
       ],
-      "source": "Car and Driver Reviews",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-07T13:36:00+00:00"
     },
@@ -460,7 +482,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-iX3-40-base-configuration-5-830x727.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-07T13:31:45+00:00"
     },
@@ -486,7 +508,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -949,19 +971,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-03T20:32:37+00:00"
-    },
-    {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1650,19 +1659,6 @@
       "published": "2026-07-27T07:05:10+00:00"
     },
     {
-      "id": "214aeb19064c0506",
-      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
-      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-27T01:00:00+00:00"
-    },
-    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -1855,7 +1851,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2302,7 +2298,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2718,7 +2714,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2939,7 +2935,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3293,6 +3289,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-09T11:21:41+00:00"
+    },
+    {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
     },
     {
       "id": "4990c9488bed2755",
@@ -3659,6 +3668,19 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
+    },
+    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3748,6 +3770,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
@@ -3878,19 +3913,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-13T12:35:02+00:00"
-    },
-    {
-      "id": "587c59edae7aed08",
-      "title": "Audi Q9 Interior Revealed: BMW X7 Rival Gets Automatic Doors",
-      "summary": "It’s been a long time coming, but it’s finally here. Well, almost. Ahead of its July 29 premiere, the Audi Q9 appears in its first press images, revealing a posh cabin. Although the Q7 also... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/05/11/2027-audi-q9-interior-revealed/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2027-Audi-Q9-interior-2-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2027-Audi-Q9-interior-2-830x467.jpg"
-      ],
-      "source": "BMW Blog X7",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-05-11T22:01:19+00:00"
     }
   ]
 }
