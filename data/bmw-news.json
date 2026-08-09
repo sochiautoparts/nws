@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-09T10:48:52.747138+00:00",
-  "generated_at_human": "2026-08-09 10:48 UTC",
-  "total_items": 294,
+  "generated_at": "2026-08-09T11:40:17.455100+00:00",
+  "generated_at_human": "2026-08-09 11:40 UTC",
+  "total_items": 296,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -50,10 +50,11 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
+    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
-    "CarScoops Lucid",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "CarWale IN",
     "Electrek BMW",
     "Electric Cars Report",
@@ -73,8 +74,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 14,
+  "sources_count": 69,
+  "multi_photo_items": 15,
   "items": [
     {
       "id": "98c956fd674aea35",
@@ -89,7 +90,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/prior_mug.jpg"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -475,7 +476,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -863,7 +864,12 @@
       "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-10-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-9-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-8-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-6-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-5-2048x1366.jpg"
       ],
       "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
@@ -943,7 +949,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X5",
+      "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -1196,9 +1202,9 @@
       "title": "BMW wants to reunite KTM's only two MotoGP race winners in WSBK",
       "summary": "With the 2027 MotoGP rider line-up now practically complete, the manufacturers in the production-based World Superbike Championship have begun putting together their rosters for next season. One of the first confirmations was Iker Lecuona's renewal as a factory Ducati rider in the series. The Italian manufacturer will lose its current spearhead, Nicolo Bulega, who will make his MotoGP debut ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/bmw-wants-to-reunite-ktms-only-two-motogp-race-winners-in-wsbk/10843243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0rGRD5m2/s6/brad-binder-red-bull-ktm-facto.jpg"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -2754,7 +2760,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2809,6 +2815,19 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-27T07:33:33+00:00"
+    },
+    {
+      "id": "102575a9a7a29af0",
+      "title": "Mercedes-AMG C-Class Electric Will Bring The Fight To The BMW M3 EV",
+      "summary": "The high-performance C-Class has been spied with less disguise as it gears up for an approaching debut",
+      "url": "https://www.carscoops.com/2026/06/mercedes-amg-c-class-ev-spied/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2028-Mercedes-AMG-C-Class-E-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-27T01:00:00+00:00"
     },
     {
       "id": "ef8701a6dd6d0436",
@@ -3123,6 +3142,19 @@
       "published": "2026-06-16T09:46:00+00:00"
     },
     {
+      "id": "1301c83de6ef776a",
+      "title": "Mercedes-AMG Plans 27 New Cars In 36 Months To Catch BMW’s M",
+      "summary": "A flat-plane 4.0-liter twin-turbo V8 and a new six anchor the next wave of AMG performance models",
+      "url": "https://www.carscoops.com/2026/06/mercedes-amg-growth-plans/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Mercedes-Concept-AMG-GT-Track-Sport-2aaa-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-16T09:08:00+00:00"
+    },
+    {
       "id": "008d2e899c4f29d6",
       "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
       "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
@@ -3342,19 +3374,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
-    },
-    {
-      "id": "b5318e3d4ccc6988",
-      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
-      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
-      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
-      ],
-      "source": "CarScoops Lucid",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
@@ -3586,7 +3605,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3690,7 +3709,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3797,6 +3816,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
