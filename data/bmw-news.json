@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-09T17:43:16.193463+00:00",
-  "generated_at_human": "2026-08-09 17:43 UTC",
-  "total_items": 288,
+  "generated_at": "2026-08-09T18:56:48.557797+00:00",
+  "generated_at_human": "2026-08-09 18:56 UTC",
+  "total_items": 292,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -50,10 +50,13 @@
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarWale IN",
     "Electrek BMW",
+    "Electric Cars Report",
     "Hagerty Media",
+    "Hooniverse",
     "InsideEVs",
     "Jalopnik",
     "Motor1",
@@ -62,11 +65,12 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motorsport WEC",
+    "RushLane IN",
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 13,
+  "sources_count": 64,
+  "multi_photo_items": 12,
   "items": [
     {
       "id": "058cbaa6a62acdfd",
@@ -172,7 +176,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/prior_mug.jpg"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -245,11 +249,24 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/P90652126_highRes_clemson-university-u-2048x1365.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/P90652127_highRes_clemson-university-u-2048x1365.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/P90652124_highRes_clemson-university-u-1-2048x1365.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/SB13652-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/gem-e4-my24-arctic-frost-lifestyle-stop-sign-street_1770693647571_pzoca1-2048x1153.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-08T14:08:00+00:00"
+    },
+    {
+      "id": "6e1d082598329818",
+      "title": "Electric Car Sales July 2026 – Tata, Mahindra, MG, Maruti, VinFast, Hyundai, Kia, BMW, Mercedes",
+      "summary": "The strongest July month across all segments, saw total electric passenger vehicle sales at an 83.13% YoY growth The post Electric Car Sales July 2026 – Tata, Mahindra, MG, Maruti, VinFast, Hyundai, Kia, BMW, Mercedes appeared first on RushLane .",
+      "url": "https://www.rushlane.com/electric-car-sales-july-2026-tata-mahindra-mg-maruti-vinfast-12552820.html",
+      "image": "https://www.rushlane.com/wp-content/uploads/2026/03/mahindra-xev-9s-delivery.jpeg",
+      "images": [
+        "https://www.rushlane.com/wp-content/uploads/2026/03/mahindra-xev-9s-delivery.jpeg"
+      ],
+      "source": "RushLane IN",
+      "source_url": "https://rushlane.com",
+      "published": "2026-08-08T11:37:39+00:00"
     },
     {
       "id": "ea90cb7681cbcdf3",
@@ -260,7 +277,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/04/2025-BMW-3-Series-50-Years-Edition-5-830x623.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T11:11:39+00:00"
     },
@@ -355,11 +372,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/SB13652-copy-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/SB13652-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/gem-e4-my24-arctic-frost-lifestyle-stop-sign-street_1770693647571_pzoca1-2048x1153.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2027-BMW-5-Series-Touring-Scoop-Baldauf-1-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2027-BMW-5-Series-Touring-Scoop-Baldauf-2-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2027-BMW-5-Series-Touring-Scoop-Baldauf-3-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-BMW-5-Series-Touring-Scoop-Baldauf-4-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-BMW-5-Series-Touring-Scoop-Baldauf-7-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-BMW-5-Series-Touring-Scoop-Baldauf-4-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -457,7 +474,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-iX3-40-base-configuration-5-830x727.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-07T13:31:45+00:00"
     },
@@ -483,7 +500,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -525,6 +542,19 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-07T10:08:00+00:00"
+    },
+    {
+      "id": "7971a1e175b5082f",
+      "title": "BMW Plant Munich Launches BMW i3 Series Production",
+      "summary": "BMW starts series production of the new electric i3 at Plant Munich, launching the Neue Klasse era with advanced EV manufacturing, lower costs, and new technology. The post BMW Plant Munich Launches BMW i3 Series Production appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/08/bmw-plant-munich-launches-bmw-i3-series-production/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-i3-Production.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-i3-Production.jpg?a3781e&amp;a3781e"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-08-07T09:46:44+00:00"
     },
     {
       "id": "6f401e987e93c35e",
@@ -819,12 +849,7 @@
       "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-10-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-9-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-8-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-6-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-AMG-CLA-45-EV-Ring-Record-804-5-2048x1366.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg"
       ],
       "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
@@ -2143,7 +2168,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2798,6 +2823,19 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
+    },
+    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -2910,7 +2948,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M4",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3264,6 +3302,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-09T11:21:41+00:00"
+    },
+    {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
     },
     {
       "id": "4990c9488bed2755",
