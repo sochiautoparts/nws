@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-10T06:20:02.111194+00:00",
-  "generated_at_human": "2026-08-10 06:20 UTC",
-  "total_items": 291,
+  "generated_at": "2026-08-10T08:48:42.187754+00:00",
+  "generated_at_human": "2026-08-10 08:48 UTC",
+  "total_items": 290,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -39,7 +39,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -50,7 +49,6 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
-    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -70,9 +68,22 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 65,
+  "sources_count": 63,
   "multi_photo_items": 15,
   "items": [
+    {
+      "id": "d9fc0673ee86426b",
+      "title": "Deep Orange 17: BMW & US-Uni bauen Solar-Auto mit ‘negativem Verbrauch’",
+      "summary": "Ein Auto mit negativem Verbrauch im Alltag klingt zunächst ähnlich unmöglich wie ein Perpetuum Mobile, doch die Clemson University in Greenville hat sich der Aufgabe...",
+      "url": "https://www.bimmertoday.de/2026/08/10/deep-orange-17-bmw-us-uni-bauen-solar-auto-mit-negativem-verbrauch/",
+      "image": "https://vg09.met.vgwort.de/na/e605954d53044835b0aa052ae0ca17f7",
+      "images": [
+        "https://vg09.met.vgwort.de/na/e605954d53044835b0aa052ae0ca17f7"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-10T06:35:31+00:00"
+    },
     {
       "id": "6d54e20235ebf98c",
       "title": "Drag-Race: BMW M3 M xDrive schlägt neuen Audi RS 5 Hybrid mit 639 PS",
@@ -329,7 +340,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/04/2025-BMW-3-Series-50-Years-Edition-5-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T11:11:39+00:00"
     },
@@ -521,7 +532,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-iX3-40-base-configuration-5-830x727.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-07T13:31:45+00:00"
     },
@@ -1347,19 +1358,6 @@
       "published": "2026-07-30T07:34:21+00:00"
     },
     {
-      "id": "a26ee8cc3e398157",
-      "title": "Elektro-SUV im Bild-Vergleich: Neuer Mercedes GLA 2026 trifft BMW iX1",
-      "summary": "X1 und iX1 zählen seit Jahren zu den absoluten Bestsellern des BMW-Portfolios, doch nun erhalten beide Gegenwind aus Stuttgart: Der neue Mercedes GLA kommt sowohl...",
-      "url": "https://www.bimmertoday.de/2026/07/30/elektro-suv-im-bild-vergleich-neuer-mercedes-gla-2026-trifft-bmw-ix1/",
-      "image": "https://vg09.met.vgwort.de/na/4e2f584f430a40bba0e206cc94cd3ef2",
-      "images": [
-        "https://vg09.met.vgwort.de/na/4e2f584f430a40bba0e206cc94cd3ef2"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-07-30T05:09:12+00:00"
-    },
-    {
       "id": "480c7d2afe177b89",
       "title": "BMW’s Rumored G-Class Rival Looks Increasingly Unlikely",
       "summary": "Plans for a rugged BMW SUV have reportedly stalled and it could be related to low projected sales",
@@ -1550,7 +1548,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1890,7 +1888,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2753,7 +2751,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2974,7 +2972,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/F82-v-G80-1-hero-830x467.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M4",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-22T18:01:37+00:00"
     },
@@ -3572,7 +3570,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3676,7 +3674,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3692,19 +3690,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
-    },
-    {
-      "id": "7916c0fbced4069a",
-      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
-      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
-      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
-      ],
-      "source": "CarScoops Alfa",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
