@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-10T02:30:12.912306+00:00",
-  "generated_at_human": "2026-08-10 02:30 UTC",
+  "generated_at": "2026-08-10T04:49:35.974994+00:00",
+  "generated_at_human": "2026-08-10 04:49 UTC",
   "total_items": 289,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,8 +37,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
@@ -50,6 +50,7 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -66,13 +67,28 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motorsport WEC",
-    "RushLane IN",
     "The Verge Transp",
     "TopSpeed"
   ],
   "sources_count": 65,
-  "multi_photo_items": 14,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "f3f2c57412893b31",
+      "title": "How BMW plans to cut costs without shutting plants",
+      "summary": "BMW's profit margin for the first half of 2026 dipped to 3.6% but it's targeting 8-10% by the 2030s Job cuts, more direct selling to customers, cheaper parts and fewer model variants are the key elements to BMW’s cost-cutting programme, the firm's new CEO has said. The pressure to cut costs at the premium brand increased sharply after profit margins dipped to 3.6% in the first half of the year as a result of collapsing sales in China. “The figures in the first and second quarter are not satisfactory,” CEO Milan Nedeljkovic told analysts and media on the company’s earnings call in late…",
+      "url": "https://www.autocar.co.uk/car-news/business-corporate/how-bmw-plans-cut-costs-without-shutting-plants",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=Z51gvMlh",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=Z51gvMlh",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=cjkYX2gh",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/nick_gibbs_2.png?itok=HC8MgQ1a"
+      ],
+      "source": "Autocar BMW i",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-10T04:00:00+00:00"
+    },
     {
       "id": "48a151adddd2cc9d",
       "title": "A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months",
@@ -87,7 +103,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/Camaro-bowtie-Aug626109090901-copy-2048x1151.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Porsche-stick-Aug7261-2048x1151.jpg"
       ],
-      "source": "CarScoops BMW",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-10T00:10:00+00:00"
     },
@@ -200,7 +216,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/prior_mug.jpg"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -278,19 +294,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-08T14:08:00+00:00"
-    },
-    {
-      "id": "6e1d082598329818",
-      "title": "Electric Car Sales July 2026 – Tata, Mahindra, MG, Maruti, VinFast, Hyundai, Kia, BMW, Mercedes",
-      "summary": "The strongest July month across all segments, saw total electric passenger vehicle sales at an 83.13% YoY growth The post Electric Car Sales July 2026 – Tata, Mahindra, MG, Maruti, VinFast, Hyundai, Kia, BMW, Mercedes appeared first on RushLane .",
-      "url": "https://www.rushlane.com/electric-car-sales-july-2026-tata-mahindra-mg-maruti-vinfast-12552820.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/03/mahindra-xev-9s-delivery.jpeg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/03/mahindra-xev-9s-delivery.jpeg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-08-08T11:37:39+00:00"
     },
     {
       "id": "ea90cb7681cbcdf3",
@@ -519,7 +522,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -1535,7 +1538,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2179,7 +2182,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2322,7 +2325,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3557,7 +3560,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3661,7 +3664,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
