@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-11T13:36:53.028602+00:00",
-  "generated_at_human": "2026-08-11 13:36 UTC",
-  "total_items": 286,
+  "generated_at": "2026-08-11T15:13:21.809269+00:00",
+  "generated_at_human": "2026-08-11 15:13 UTC",
+  "total_items": 287,
   "sources_used": [
-    "Auto Esporte BR",
+    "Auto Bild ES",
+    "Auto Esporte Carros",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,8 +38,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -53,6 +54,7 @@
     "Gaadiwaadi IN",
     "Hooniverse",
     "InsideEVs",
+    "Jalopnik",
     "Kolesa RU",
     "Motor.es",
     "Motor1",
@@ -62,24 +64,86 @@
     "Motor1 Volvo",
     "Motorsport WEC",
     "Paul Tan",
-    "The Verge Transp",
-    "TopSpeed"
+    "Sports Car Digest",
+    "The Verge Transp"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 9,
+  "sources_count": 62,
+  "multi_photo_items": 12,
   "items": [
     {
-      "id": "50269f27918fb069",
-      "title": "10 BMW Motorcycles Worth Every Penny",
-      "summary": "This list has everything from a flagship tourer that beats the Gold Wing to a middleweight ADV with serious off-road ambitions",
-      "url": "https://www.topspeed.com/bmw-motorcycles-worth-every-penny/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/p90530072_highres_bmw-r-1300-gs-gs-tro.jpg",
+      "id": "35b90317a83b156e",
+      "title": "BMW and Kith Tease One-Off 2027 X5 Ahead of Monterey Reveal",
+      "summary": "We’ve already got a pretty good idea of what Kith and BMW cooked up for their next collaboration. Thanks to a fairly comprehensive preview post by Ronnie Fieg, Kith founder and CEO, we know that... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/11/bmw-kith-2027-x5-one-off-monterey-reveal/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-151-830x553.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/p90530072_highres_bmw-r-1300-gs-gs-tro.jpg"
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-151-830x553.jpg"
       ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-11T12:31:10+00:00"
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-11T15:10:01+00:00"
+    },
+    {
+      "id": "da15f62f3a0a7d44",
+      "title": "FOR SALE: 1957 BMW 507 Roadster Series II",
+      "summary": "Now offered through RM Sotheby’s Private Sales, this 1957 BMW 507 Roadster Series II represents one of the most significant and collectible automobiles ever produced by BMW. Finished in Graphite Grey Metallic over beige leather, the U.S.-delivery example underwent a comprehensive restoration by Martini Garage in Heilbronn, Germany, between 2014 and 2015. It is one of just 218 Series II cars produced from a total of only 252 BMW 507 Roadsters built between 1956 and 1959. Conceived largely through the […] The post FOR SALE: 1957 BMW 507 Roadster Series II appeared first on Sports Car Digest .",
+      "url": "https://sportscardigest.com/for-sale-1957-bmw-507-roadster-series-ii/",
+      "image": "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473756-scaled.jpg",
+      "images": [
+        "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473756-scaled.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473748-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473756-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473750-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473793-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/1957-BMW-507-Roadster-Series-II_1473754-2048x1366.jpg"
+      ],
+      "source": "Sports Car Digest",
+      "source_url": "https://www.sportscardigest.com",
+      "published": "2026-08-11T15:00:33+00:00"
+    },
+    {
+      "id": "da102100d112917a",
+      "title": "BMW Is Going Big at the 2026 Chengdu Motor Show",
+      "summary": "BMW is preparing for another major auto show, and unsurprisingly, the Neue Klasse will be at the center of attention. The automaker has outlined its plans for the 2026 Chengdu International Motor Show, where the... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/11/bmw-2026-chengdu-motor-show-plans/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/P90652145-highRes-08-2026-Custom-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/P90652145-highRes-08-2026-Custom-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-11T14:24:34+00:00"
+    },
+    {
+      "id": "836d5e224fd8e306",
+      "title": "BMW, Mercedes And Audi Can't Stop Their Doom Spirals In China",
+      "summary": "Plus, GM takes a step away from the EV space by selling its stake in a battery venture, Unifor and GM are set to begin contract talks and more.",
+      "url": "https://www.jalopnik.com/2234488/bmw-mercedes-audi-doom-spirals-china/",
+      "image": "https://www.jalopnik.com/img/gallery/bmw-mercedes-and-audi-cant-stop-their-doom-spirals-in-china/l-intro-1786457762.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/bmw-mercedes-and-audi-cant-stop-their-doom-spirals-in-china/l-intro-1786457762.jpg",
+        "https://www.jalopnik.com/img/uploads/embed/it-UIkPj9-1786449755.jpg",
+        "https://www.jalopnik.com/img/uploads/embed/it-bspfJD-1786449386.jpg",
+        "https://www.jalopnik.com/img/gallery/bmw-mercedes-and-audi-cant-stop-their-doom-spirals-in-china/intro-1786457762.jpg",
+        "https://www.jalopnik.com/img/gallery/bmw-mercedes-and-audi-cant-stop-their-doom-spirals-in-china/1st-gear-bmw-audi-and-mercedes-flounder-in-china-1786457763.jpg",
+        "https://www.jalopnik.com/img/gallery/bmw-mercedes-and-audi-cant-stop-their-doom-spirals-in-china/2nd-gear-gm-sells-stake-in-battery-venture-as-it-unwinds-ev-tie-ups-1786457764.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-08-11T14:20:19+00:00"
+    },
+    {
+      "id": "17ea7697428750e1",
+      "title": "BMW laat vermogen elektrische M3 doorschemeren",
+      "summary": "De huidige BMW M3 krijgt straks twee opvolgers: een elektrische en een brandstofversie. Nu weten we wat de elektrische versie zo ongeveer in huis heeft.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/bmw-laat-vermogen-elektrische-m3-doorschemeren/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276504874/width/800/276504874",
+      "images": [
+        "https://images.autoweek.nl/276504874/width/800/276504874"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-08-11T13:35:50+00:00"
     },
     {
       "id": "72afb85e727470e9",
@@ -111,6 +175,24 @@
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-11T10:15:00+00:00"
+    },
+    {
+      "id": "6f251bf046c19d9d",
+      "title": "Tan feo como eficiente, así es el nuevo coche creado gracias a la colaboración de BMW",
+      "summary": "La firma alemana reta a unos universitarios y estos crean el Deep Orange 17, un coche con tecnología integrada mediante energía solar.",
+      "url": "https://www.autobild.es/coche-electrico/tan-feo-como-eficiente-asi-es-nuevo-coche-creado-gracias-colaboracion-bmw_7024335_0.html",
+      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/10/6a79d6ee4c4775-54946258.jpeg",
+      "images": [
+        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/10/6a79d6ee4c4775-54946258.jpeg",
+        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/08/10/6a79d6ee4c4775-54946258.jpeg",
+        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/10/6a79dccb4ac7b0-57352882.jpeg",
+        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/10/6a79dc7d698409-93667768.jpeg",
+        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2026/06/01/6a1d8f5cb72363-34410947.jpeg",
+        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2023/10/03/68ca70417ae11.jpeg"
+      ],
+      "source": "Auto Bild ES",
+      "source_url": "https://www.autobild.es",
+      "published": "2026-08-11T10:00:00+00:00"
     },
     {
       "id": "5fe4ccc32f09e9ce",
@@ -303,7 +385,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/XKkoJ33mEZ8Rp9-QvRRBFgPg5UI=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/N/F/j3sg1DRdADnFOx07ocHA/bmw-ix3-dianteira003.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-10T13:00:08+00:00"
     },
@@ -368,7 +450,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-m3-touring-e46-2026-jh-23.jpg?itok=IofCKyVA"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T05:00:00+00:00"
     },
@@ -381,7 +463,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=Z51gvMlh"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T04:00:00+00:00"
     },
@@ -394,10 +476,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Gas-Station-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Ford-Escape-ST-Line-2-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/GAC-AION-UT-Premium-model-shown-exact-specifications-for-shorter-range-AION-UT-TBC_2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ferrari_Monza_being_taken_to_pound_jpg-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Lucid-Air-Stealth-1-2048x1152aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Flock-camera-Google-AI-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Lucid-Air-Stealth-1-2048x1152aaa-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -443,19 +525,6 @@
       "published": "2026-08-09T15:57:08+00:00"
     },
     {
-      "id": "4c147bc9f5ce3456",
-      "title": "BMW X5, iX5 LWB Showcased for China: India Entry Likely",
-      "summary": "The new X5s not only bring a new design language, but a hydrogen fuel cell EV (FCEV) is also under tests.",
-      "url": "https://www.carwale.com/news/bmw-x5-ix5-lwb-showcased-for-china-india-entry-likely/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/225514/x5-exterior-right-side-view.jpeg?isig=0",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/225514/x5-exterior-right-side-view.jpeg?isig=0"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-08-09T12:59:06+00:00"
-    },
-    {
       "id": "98c956fd674aea35",
       "title": "A big Golf GTI? My Skoda Kodiaq vRS proves itself on a Sunday drive",
       "summary": "An early morning Father's Day mission turned into a treat, thanks to the Kodiaq's mix of virtues I'll be honest, friends - I'm struggling a little with the Kodiaq I've been running. Not for any bad reason. But when I recently had a Morgan Super 3 and then a 20-year-old BMW 330Ci as my daily drivers, there was always - always - something new occurring to write about. A new Skoda, though? Gosh, they're just so competent. It's like trying to find new things to say about a kettle. So on a recent Sunday morning, Father's Day, I woke up at 5am and set off southbound from Oxfordshire to…",
@@ -464,7 +533,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/autocar-mp-s-lt-skoda-kodiaq-vrs-21.5.26-26.jpg?itok=9Ja7Vzmq"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -477,10 +546,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/HeritageGruppe_BMWE21-320i_002-scaled-72803-copy-1024x576.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Gas-Station-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Ford-Escape-ST-Line-2-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/GAC-AION-UT-Premium-model-shown-exact-specifications-for-shorter-range-AION-UT-TBC_2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ferrari-458-Speciale-Auction-Monterey-1sale-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Lucid-Air-Stealth-1-2048x1152aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Flock-camera-Google-AI-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Lucid-Air-Stealth-1-2048x1152aaa-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -534,22 +603,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/04/2025-BMW-3-Series-50-Years-Edition-5-830x623.jpg"
       ],
-      "source": "BMW Blog 3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-08T11:11:39+00:00"
-    },
-    {
-      "id": "3918130fca1ac588",
-      "title": "This BMW-Backed Solar EV Makes More Energy Than It Uses",
-      "summary": "Solar-powered cars have never quite escaped the concept stage, but BMW and Clemson University have developed a prototype that takes the idea further than simply placing a few panels on the roof. Called Deep Orange... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/08/bmw-backed-solar-ev-makes-more-energy-than-it-uses/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/P90652124-highRes-clemson-university-u-Custom-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/P90652124-highRes-clemson-university-u-Custom-830x467.jpg"
-      ],
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
-      "published": "2026-08-08T10:00:28+00:00"
+      "published": "2026-08-08T11:11:39+00:00"
     },
     {
       "id": "332a571e437c9ef7",
@@ -563,19 +619,6 @@
       "source": "AutoWeek News",
       "source_url": "https://www.autoweek.com",
       "published": "2026-08-07T22:24:51+00:00"
-    },
-    {
-      "id": "886b17762fae706f",
-      "title": "What Every Letter And Number In Your BMW’s VIN Actually Means",
-      "summary": "BMWs sold in the United States have used the standardized 17-character Vehicle Identification Number since the 1981 model year, following the structure set out in ISO 3779 and enforced domestically under 49 CFR Part 565.... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/07/bmw-vin-decoder-how-to-read-every-digit/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/vin-number-08-830x623.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/vin-number-08-830x623.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-07T21:42:25+00:00"
     },
     {
       "id": "66e8e7dc073f3e9e",
@@ -651,7 +694,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -1855,9 +1898,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-1.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2267,7 +2310,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2302,9 +2345,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2597,19 +2640,6 @@
       "published": "2026-07-06T10:31:25+00:00"
     },
     {
-      "id": "92253ed2f4e265d2",
-      "title": "Five BMW X5 Powertrains, One Body. Here’s What Sets Each One Apart",
-      "summary": "BMW’s new X5 is built around a single idea: one body, five powertrains, sold according to what each market actually wants. To get past the spec sheet version of that story, we sat down with... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/05/bmw-x5-g65-powertrains-packages/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/all-bmw-x5-powertrains-00-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/all-bmw-x5-powertrains-00-830x467.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-05T19:43:25+00:00"
-    },
-    {
       "id": "a8886a2e9d4eafbd",
       "title": "Here’s How Every BMW Sold In The US During Q2 2026",
       "summary": "There are winners and losers whenever an automaker publishes a sales report, and BMW’s latest figures for the United States are no exception. The Q2 2026 results are in, showing what worked and what didn’t... First published by https://www.bmwblog.com",
@@ -2683,7 +2713,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
