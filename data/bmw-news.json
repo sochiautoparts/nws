@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-11T09:11:20.065298+00:00",
-  "generated_at_human": "2026-08-11 09:11 UTC",
+  "generated_at": "2026-08-11T11:02:03.006434+00:00",
+  "generated_at_human": "2026-08-11 11:02 UTC",
   "total_items": 292,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,8 +37,9 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -58,6 +59,7 @@
     "InsideEVs",
     "Kolesa RU",
     "Motor.es",
+    "Motor1",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
@@ -66,9 +68,22 @@
     "Paul Tan",
     "The Verge Transp"
   ],
-  "sources_count": 61,
-  "multi_photo_items": 10,
+  "sources_count": 63,
+  "multi_photo_items": 9,
   "items": [
+    {
+      "id": "e69c76f5656b1867",
+      "title": "BMW’s Car2Car Project Proves 51% Of Scrap Can Feed New Cars",
+      "summary": "BMW Car2Car testing shows how steel, aluminum, and copper can loop back into new vehicles while plastics and glass still lag behind.",
+      "url": "https://www.motor1.com/news/804469/bmw-car2car-51-automotive-grade/",
+      "image": "https://cdn.motor1.com/images/mgl/Mkg7QY/s3/bmw-car2car-recycling-research-project.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Mkg7QY/s3/bmw-car2car-recycling-research-project.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-11T10:15:00+00:00"
+    },
     {
       "id": "5fe4ccc32f09e9ce",
       "title": "BMW Malaysia and UM install solar-powered smartphone charging station using second-life BMW EV batteries",
@@ -76,11 +91,7 @@
       "url": "https://paultan.org/2026/08/11/bmw-malaysia-and-um-install-solar-powered-smartphone-charging-station-using-second-life-bmw-ev-batteries/",
       "image": "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-1-630x363.jpg",
       "images": [
-        "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-1-630x363.jpg",
-        "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-4-1200x1800.jpg",
-        "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-2-1200x1077.jpg",
-        "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-3-1200x769.jpg",
-        "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-5-1200x709.jpg"
+        "https://paultan.org/image/2026/08/BMW-Malaysia-UM-second-life-battery-phone-charger-1-630x363.jpg"
       ],
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
@@ -394,7 +405,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-m3-touring-e46-2026-jh-23.jpg?itok=IofCKyVA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T05:00:00+00:00"
     },
@@ -407,7 +418,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=Z51gvMlh"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T04:00:00+00:00"
     },
@@ -420,10 +431,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Gas-Station-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/GAC-AION-UT-Premium-model-shown-exact-specifications-for-shorter-range-AION-UT-TBC_2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ferrari_Monza_being_taken_to_pound_jpg-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Lucid-Air-Stealth-1-2048x1152aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Flock-camera-Google-AI-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2024_Toyota_Tacoma_TRDOffroad_SolarOctane_085-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Flock-camera-Google-AI-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -490,7 +501,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/autocar-mp-s-lt-skoda-kodiaq-vrs-21.5.26-26.jpg?itok=9Ja7Vzmq"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -503,10 +514,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/HeritageGruppe_BMWE21-320i_002-scaled-72803-copy-1024x576.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Gas-Station-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/GAC-AION-UT-Premium-model-shown-exact-specifications-for-shorter-range-AION-UT-TBC_2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ferrari-458-Speciale-Auction-Monterey-1sale-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Lucid-Air-Stealth-1-2048x1152aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Flock-camera-Google-AI-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2024_Toyota_Tacoma_TRDOffroad_SolarOctane_085-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Flock-camera-Google-AI-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -682,7 +693,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -789,19 +800,6 @@
       "source": "BMW Blog 7 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-06T16:30:39+00:00"
-    },
-    {
-      "id": "b0b20cb23c30b27d",
-      "title": "BMW's Oldest Plant Has Always Made Gas Cars. Starting Next Year, It'll Only Make EVs",
-      "summary": "Now that i3 production has started at BMW's Munich plant, its days of producing gas-powered cars are numbered.",
-      "url": "https://insideevs.com/news/804067/bmw-i3-munich-production/",
-      "image": "https://cdn.motor1.com/images/mgl/bgPXP3/s3/bmw-i3-munich.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/bgPXP3/s3/bmw-i3-munich.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-08-06T16:28:21+00:00"
     },
     {
       "id": "ddd529040f03415e",
@@ -1890,7 +1888,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2337,7 +2335,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
