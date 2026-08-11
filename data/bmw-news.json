@@ -1,14 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-11T21:59:51.968321+00:00",
-  "generated_at_human": "2026-08-11 21:59 UTC",
-  "total_items": 293,
+  "generated_at": "2026-08-11T22:57:57.861167+00:00",
+  "generated_at_human": "2026-08-11 22:57 UTC",
+  "total_items": 288,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
+    "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -38,15 +39,13 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver BMW",
-    "Car and Driver Reviews",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -56,7 +55,6 @@
     "Hooniverse",
     "HotCars",
     "Jalopnik",
-    "Kolesa RU",
     "Motor.es",
     "Motor1",
     "Motor1 BMW",
@@ -70,9 +68,27 @@
     "Sports Car Digest",
     "The Verge Transp"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 15,
+  "sources_count": 63,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "e3e6e219c4696281",
+      "title": "New Audi Q7 2026 review: large SUV is good to drive at last",
+      "summary": "We hit the road in the new Audi Q7 to see if the seven-seat SUV is finally a serious BMW X5 rival",
+      "url": "https://www.autoexpress.co.uk/audi/q7/370188/new-audi-q7-2026-review-large-suv-good-drive-last",
+      "image": "https://media.autoexpress.co.uk/image/private/s--bAWVrqHS--/t_rss_image_w_845/v1786444735/autoexpress/2026/08/Audi%20Q7%202026-9.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--bAWVrqHS--/t_rss_image_w_845/v1786444735/autoexpress/2026/08/Audi%20Q7%202026-9.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--11lee9im--/f_auto,t_author-mobile@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
+        "https://www.autoexpress.co.uk/audi/q7/370188/t_author-desktop@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
+        "https://www.autoexpress.co.uk/audi/q7/370188/t_author-mobile@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--bAWVrqHS--/f_auto,t_primary-image-mobile@1/v1786444735/autoexpress/2026/08/Audi%20Q7%202026-9.jpg",
+        "https://www.autoexpress.co.uk/audi/q7/370188/t_primary-image-desktop@1/v1786444735/autoexpress/2026/08/Audi%20Q7%202026-9.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-08-11T22:05:32+00:00"
+    },
     {
       "id": "d482b77aa38a2e3a",
       "title": "This '90s M5 Was Peak BMW, And Nothing Has Topped It",
@@ -108,19 +124,6 @@
       "source": "Quatro Rodas BR",
       "source_url": "https://quatrorodas.abril.com.br",
       "published": "2026-08-11T21:00:03+00:00"
-    },
-    {
-      "id": "fa04ce419038516f",
-      "title": "31k-Mile 2008 BMW 328i Convertible 6-Speed",
-      "summary": "This 2008 BMW 328i convertible has remained under the care of its original owner until 2026, and it has 31k miles. The car is powered by a 3.0-liter inline-six paired with a six-speed manual transmission and is finished in Black Sapphire Metallic over Coral Red Dakota leather. Features include a power-retractable hardtop, adaptive xenon headlights, 17\" Style 157 alloy wheels, heated power-adjustable front seats, Comfort Access, iDrive with navigation, and dual-zone automatic climate control. This E93 is now offered by the selling dealer with the owner’s manuals, a clean Carfax report, and…",
-      "url": "https://bringatrailer.com/listing/2008-bmw-328i-convertible-33/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3673-scaled-copy-2026-08-07-x3n-21802.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3673-scaled-copy-2026-08-07-x3n-21802.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-11T20:44:38+00:00"
     },
     {
       "id": "510683223ca6a447",
@@ -166,9 +169,9 @@
       "title": "“Good things take time” says Dries Vanthoor as BMW M Team WRT continues rapid IMSA transition",
       "summary": "Building a championship-caliber sports car program from scratch in four months is a daunting task, but Dries Vanthoor is helping steer BMW’s top-class GTP effort through a rapid operational evolution in the IMSA WeatherTech SportsCar Championship. Now in his second full-time IMSA season, the 28-year-old Belgian driver finds himself at the center of a major transition for the manufacturer ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/good-things-take-time-says-dries-vanthoor-as-bmw-m-team-wrt-continues-rapid-imsa-transition/10845787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/25d3Vjn0/s6/24-bmw-m-team-wrt-sheldon-van-.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/25d3Vjn0/s6/24-bmw-m-team-wrt-sheldon-van-.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/25d3Vjn0/s6/24-bmw-m-team-wrt-sheldon-van-.jpg",
+        "https://cdn-1.motorsport.com/images/amp/25d3Vjn0/s6/24-bmw-m-team-wrt-sheldon-van-.jpg",
         "https://cdn-5.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
         "https://cdn-8.motorsport.com/images/amp/25d3Vjn0/s1000/24-bmw-m-team-wrt-sheldon-van-.webp",
         "https://cdn.motorsport.com/images/mgl/YWKA9gOY/s1000/24-bmw-m-team-wrt-bmw-m-hybrid.jpg",
@@ -193,7 +196,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/ford-mustang-dark-horse-bbdc-2024-me-7.jpg?itok=LJUfrd8L",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/charlie-martin-autocar.jpg"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-11T15:24:39+00:00"
     },
@@ -486,19 +489,6 @@
       "published": "2026-08-10T14:00:52+00:00"
     },
     {
-      "id": "582548623033eacb",
-      "title": "Новый BMW X6: первые изображения",
-      "summary": "Не так давно состоялась премьера нового поколения популярного кроссовера BMW X5, а теперь мы решили представить, какой будет его купеобразная версия с индексом Х6.",
-      "url": "https://www.kolesa.ru/news/novyi-bmw-x6-pervye-izobrazeniia",
-      "image": "https://kolesa-uploads.ru/-/3aa73c8a-d745-43b1-adee-d0b71c74095e/bmw-x6-front1-mini.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/3aa73c8a-d745-43b1-adee-d0b71c74095e/bmw-x6-front1-mini.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-08-10T14:00:00+00:00"
-    },
-    {
       "id": "f22c7258ba4c5f81",
       "title": "BMW iX3: 5 absurdos sobre o novo SUV elétrico de R$ 583 mil",
       "summary": "O BMW iX3 é o carro mais revolucionário da marca nos últimos 50 anos e chegou ao mercado brasileiro por R$ 582.950, em versão única, a topo de linha 50 xDrive. Alguns fatos já eram conhecidos sobre o SUV, como a autonomia de 570 km segundo o Inmetro, que o posiciona como o modelo elétrico com o maior alcance do Brasil. Após testar o modelo na Espanha, Autoesporte teve o primeiro contato oficial com o modelo em solo nacional para conhecer de perto todas as tecnologias que equipam o SUV. Primeiro carro da era Neue Klasse, o iX3 fica posicionado entre a opção mais barata do X3, 30 xDrive M…",
@@ -572,7 +562,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-m3-touring-e46-2026-jh-23.jpg?itok=IofCKyVA"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T05:00:00+00:00"
     },
@@ -585,7 +575,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=Z51gvMlh"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T04:00:00+00:00"
     },
@@ -597,10 +587,10 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/EV-Prices-vs-hybrids-fervd-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Subaru-of-America-Inc-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/250902-26_rh1250s_sporsters_beautyjc-2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ford-Escape-ST-Line-2-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/GAC-AION-UT-Premium-model-shown-exact-specifications-for-shorter-range-AION-UT-TBC_2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Chevy-sneakers-Aug11261011-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
@@ -655,7 +645,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/autocar-mp-s-lt-skoda-kodiaq-vrs-21.5.26-26.jpg?itok=9Ja7Vzmq"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-09T05:00:00+00:00"
     },
@@ -769,19 +759,6 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
-      "id": "899a6cd14d95eccf",
-      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
-      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-07T13:36:00+00:00"
-    },
-    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -816,7 +793,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651333_highres_bmw-brings-the-neue-.jpg?itok=TDb20GTO"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-07T11:28:14+00:00"
     },
@@ -1128,7 +1105,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X7",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -1157,19 +1134,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-03T20:32:37+00:00"
-    },
-    {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1793,19 +1757,6 @@
       "published": "2026-07-27T07:05:10+00:00"
     },
     {
-      "id": "214aeb19064c0506",
-      "title": "2001 Comparison Test: Audi A4, BMW 325i, Lexus IS300, M-B C240, Saab 9-3, Volvo S60",
-      "summary": "From the archive: Six sports sedans that are guaranteed to dial up your thermostat.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a71867614/2001-audi-bmw-lexus-mercedes-benz-saab-volvo-sport-sedan-archive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/37875bba-bdbe-48e5-9485-c32bfb293d29.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-27T01:00:00+00:00"
-    },
-    {
       "id": "27f04a46093ce7f8",
       "title": "The 8 Series Is Dead. Time for ALPINA to Revive the 6 Series",
       "summary": "BMW killed the 8 Series last year, for the second time. The last coupes, convertibles, and Gran Coupes rolled off the Dingolfing line in April of this year, and there’s no confirmed successor waiting in... First published by https://www.bmwblog.com",
@@ -2276,7 +2227,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2419,7 +2370,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2809,7 +2760,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3628,7 +3579,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3732,7 +3683,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3943,19 +3894,6 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-14T14:33:28+00:00"
-    },
-    {
-      "id": "a73e923833c65bb9",
-      "title": "The BMW 1M Still Makes the M2 CS Work for It",
-      "summary": "Vicki Butler-Henderson and Tiff Needell took the E82 BMW 1M Coupe and the G87 BMW M2 CS to Anglesey in the wet, which meant the 530-horsepower M2 spent most of the session trying to scare... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/05/13/bmw-1m-vs-m2-cs-track-test/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/05/bmw-1m-vs-g87-m2-cs-00-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/05/bmw-1m-vs-g87-m2-cs-00-830x467.jpg"
-      ],
-      "source": "BMW Blog M",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-05-13T22:50:49+00:00"
     }
   ]
 }
