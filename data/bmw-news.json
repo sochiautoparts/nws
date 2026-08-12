@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-12T22:56:12.311129+00:00",
-  "generated_at_human": "2026-08-12 22:56 UTC",
-  "total_items": 285,
+  "generated_at": "2026-08-12T23:55:06.252426+00:00",
+  "generated_at_human": "2026-08-12 23:55 UTC",
+  "total_items": 287,
   "sources_used": [
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,6 +41,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
@@ -49,6 +50,8 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver Reviews",
+    "CarBuzz",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -67,21 +70,39 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 10,
+  "sources_count": 65,
+  "multi_photo_items": 11,
   "items": [
     {
-      "id": "8c9b1a0885dcda91",
-      "title": "2006 BMW 650i Convertible Sport at No Reserve",
-      "summary": "This 2006 BMW 650i convertible is powered by a 4.8-liter V8 paired with a six-speed SMG automated transmission, and it is said to have been fitted with Dinan suspension components as well as a Dinan ECU tune, strut tower bracing, and exhaust system. Finished in Mineral Silver Metallic over Cream Beige Dakota leather, the car is equipped with the Sport Package, a gray soft top, xenon headlights, Park Distance Control parking sensors, 19\" Style 249 alloy wheels, heated power-adjustable front sport seats, a head-up display, Comfort Access, a Harman Kardon Logic7 sound system, a heated…",
-      "url": "https://bringatrailer.com/listing/2006-bmw-650i-convertible-27/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2006_bmw_650i-convertible_2006_bmw_650i-convertible_7cd1d87f-c526-47e4-86b1-b14f62de137a-QZlqPL-25599-25600-scaled.jpg?w=940",
+      "id": "1a4be8fc021276e9",
+      "title": "17×8.5″ and 17×9.5″ Hartge Wheels for BMW at No Reserve",
+      "summary": "O.Z. Racing manufactured these 5×120 three-piece wheels for Hartge, and the seller notes that they are suitable for E34 5-Series and E32 7-Series models. The seller acquired the wheels in 2020 and had them refurbished in February 2026, and they have not been used since. The set of four wheels is now offered at no reserve in Kazuno, Akita, Japan.",
+      "url": "https://bringatrailer.com/listing/oz-racing-for-hartge-three-piece-forged-alloy-wheels/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3167_result-scaled-copy-2026-08-12-kgm-44706.jpg?w=940",
       "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/2006_bmw_650i-convertible_2006_bmw_650i-convertible_7cd1d87f-c526-47e4-86b1-b14f62de137a-QZlqPL-25599-25600-scaled.jpg?w=940"
+        "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3167_result-scaled-copy-2026-08-12-kgm-44706.jpg?w=940"
       ],
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
-      "published": "2026-08-12T22:13:48+00:00"
+      "published": "2026-08-12T23:40:13+00:00"
+    },
+    {
+      "id": "9795a4ea9d06397d",
+      "title": "A $40,000 3 Series Luxury Sedan Now Costs $12,000 Because Of BMW's Own Leasing Addiction",
+      "summary": "The BMW F30 320i lost 73.7% of its value in 10 years. Heavy leasing and N20 engine issues sent prices to around $12,000 used.",
+      "url": "https://carbuzz.com/bmw-3-series-leasing-addiction-ruins-residual-values/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/p90083152_highres.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/p90083152_highres.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/p90083270_highres_the-new-bmw-3-series-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/p90083311_highres_the-new-bmw-3-series-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/p90087195_highres.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/p90083212-highres-bmw-4-cylinder-petro.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-12T23:14:14+00:00"
     },
     {
       "id": "143e53b0a6d1fba1",
@@ -331,7 +352,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ford_mustang_4dr_render_2024_0.jpg?itok=_-g78mvw"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-11T15:24:39+00:00"
     },
@@ -588,7 +609,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-m3-touring-e46-2026-jh-23.jpg?itok=IofCKyVA"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T05:00:00+00:00"
     },
@@ -601,7 +622,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90617878_highres_bmw-group-plant-debr.jpg?itok=Z51gvMlh"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-10T04:00:00+00:00"
     },
@@ -644,10 +665,10 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/HeritageGruppe_BMWE21-320i_002-scaled-72803-copy-1024x576.webp",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/HeritageGruppe_BMWE21-320i_002-scaled-72803-copy-1024x576.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/HRCHeritage-999-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/24NWSRM_G2_R1S_004-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2026_Toyota-Camry_XSE_007-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Chevrolet-Bolt-2027-Pack-scaledaaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Rolls-Cullinan-Urban-Auction-6aa-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Elantra-v2-Aug12261-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
@@ -1565,7 +1586,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1892,7 +1913,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2196,7 +2217,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2703,7 +2724,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3522,7 +3543,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3626,7 +3647,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3642,6 +3663,19 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
