@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-14T15:03:50.427784+00:00",
-  "generated_at_human": "2026-08-14 15:03 UTC",
-  "total_items": 278,
+  "generated_at": "2026-08-14T16:03:40.102978+00:00",
+  "generated_at_human": "2026-08-14 16:03 UTC",
+  "total_items": 283,
   "sources_used": [
-    "Auto Esporte BR",
+    "Auto Esporte Carros",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -38,18 +38,20 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "ClassicCars Journal",
     "Electrek BMW",
     "Electric Cars Report",
@@ -65,10 +67,9 @@
     "MotorBeam IN",
     "Motorsport WEC",
     "Paul Tan",
-    "Sports Car Digest",
-    "TopSpeed"
+    "Sports Car Digest"
   ],
-  "sources_count": 63,
+  "sources_count": 64,
   "multi_photo_items": 11,
   "items": [
     {
@@ -88,6 +89,45 @@
       "source": "ClassicCars Journal",
       "source_url": "https://journal.classiccars.com",
       "published": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "id": "faca5695e5528098",
+      "title": "1999 BMW M Roadster",
+      "summary": "This 1999 BMW M Roadster is one of 274 finished in Arctic Silver Metallic over black Nappa leather for the North American market for the model year. It has been registered in California from new, and it remained in the same owner's care from June 2001 until earlier this year. The car is powered by a 3.2-liter S52 inline-six linked with a five-speed manual transmission and a limited-slip differential, and equipment includes a black convertible soft top, silver-finished 17\" Style 40 wheels, heated sport seats, a Dovox RS-21 stereo, a Harman Kardon sound system, air conditioning, and cruise…",
+      "url": "https://bringatrailer.com/listing/1999-bmw-m-roadster-98/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1999_bmw_m-roadster_DSC08548-16541.jpeg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/1999_bmw_m-roadster_DSC08548-16541.jpeg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-14T15:40:15+00:00"
+    },
+    {
+      "id": "e1662f7cb78c5dd5",
+      "title": "Wiesmann’s New BMW V8-Powered MF5 Raises More Questions Than Answers",
+      "summary": "Wiesmann is attempting another comeback, and it is returning to the formula that once made the boutique German manufacturer so compelling: retro styling, tiny production numbers, and BMW M power. The new MF5 Tributo revives... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/14/wiesmann-bmw-v8-powered-mf5-tributo/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/Wiesmann-GT-MF5-02-750x562.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/Wiesmann-GT-MF5-02-750x562.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-14T15:25:18+00:00"
+    },
+    {
+      "id": "112cfa41cb8d945a",
+      "title": "Exclusive: Mercedes-AMG's New SUV Already Looks Better Than The BMW XM",
+      "summary": "A camouflaged AMG GT SUV is one of the rarest finds at Monterey Car Week",
+      "url": "https://carbuzz.com/mercedes-amg-gt-suv-spied-car-week-2026-exclusive/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/mb-amg-suv-2.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/mb-amg-suv-2.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-14T15:12:26+00:00"
     },
     {
       "id": "d7ce46b2155b885f",
@@ -127,19 +167,6 @@
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
       "published": "2026-08-14T12:50:10+00:00"
-    },
-    {
-      "id": "e0833fea8c655beb",
-      "title": "Why Japanese Engines Reach 300,000 Miles While Luxury Turbos Don't",
-      "summary": "Learn why the Toyota 2UZ-FE and Honda K-series reach 300,000 miles while BMW N63 and Audi 3.0T engines fail early—and how to spot the difference.",
-      "url": "https://www.topspeed.com/japanese-engines-reach-300000-miles-luxury-turbos-dont/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/image-271-3.jpeg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/image-271-3.jpeg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-14T12:00:10+00:00"
     },
     {
       "id": "affec9b5450f7e7a",
@@ -215,7 +242,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -420,7 +447,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/hzDdCQSx4wXxN28-mxC1h8qPjx0=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/B/j/OYyUA5SACOppvuOHWqCQ/honda-prelude-salao-automovel.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-13T10:00:19+00:00"
     },
@@ -869,6 +896,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1176,7 +1216,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X7",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -1192,6 +1232,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1623,7 +1676,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2371,7 +2424,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3700,6 +3753,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
