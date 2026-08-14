@@ -1,15 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-14T04:58:29.976302+00:00",
-  "generated_at_human": "2026-08-14 04:58 UTC",
-  "total_items": 277,
+  "generated_at": "2026-08-14T06:24:26.981396+00:00",
+  "generated_at_human": "2026-08-14 06:24 UTC",
+  "total_items": 276,
   "sources_used": [
     "Auto Esporte BR",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -56,8 +56,6 @@
     "CarScoops Mercedes",
     "ClassicCars Journal",
     "Electrek BMW",
-    "Electric Cars Report",
-    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Kolesa RU",
@@ -66,12 +64,31 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motorsport WEC",
+    "Paul Tan",
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 64,
+  "sources_count": 63,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "db37c4d4c6622f13",
+      "title": "2026 Mercedes-Benz GLC EV – RM370k-400k estimated price in Malaysia for rival to BMW iX3, Volvo EX60",
+      "summary": "Mercedes-Benz Malaysia has announced estimated pricing for the Mercedes-Benz GLC EV in Malaysia, for which registration of interest had opened last December. The battery-electric GLC is a direct rival to the BMW iX3 which was […] The post 2026 Mercedes-Benz GLC EV – RM370k-400k estimated price in Malaysia for rival to BMW iX3, Volvo EX60 appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/08/14/mercedes-benz-glc-with-eq-technology-rm370k-400k-estimated-price-in-malaysia-for-rival-to-bmw-ix3/",
+      "image": "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-1-630x330.jpg",
+      "images": [
+        "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-1-630x330.jpg",
+        "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-39-1260x840.jpg",
+        "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-2-1200x800.jpg",
+        "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-3-1200x800.jpg",
+        "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-4-1200x800.jpg",
+        "https://paultan.org/image/2025/09/2026-Mercedes-Benz-GLC-with-EQ-Technology-debut-5-1200x800.jpg"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-08-14T05:12:36+00:00"
+    },
     {
       "id": "a7bfe09f5d8cba73",
       "title": "The Classic Coupe That Quietly Became A Six-Figure Collectible",
@@ -177,24 +194,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-13T17:21:17+00:00"
-    },
-    {
-      "id": "712aa833685b6bf0",
-      "title": "BMW M Concept Neue Klasse Leads BMW’s Monterey Car Week 2026 Lineup",
-      "summary": "BMW unveils the electric M Concept Neue Klasse and Vision BMW ALPINA at Monterey Car Week 2026, while celebrating 40 years of the BMW M3. The post BMW M Concept Neue Klasse Leads BMW’s Monterey Car Week 2026 Lineup appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/08/bmw-m-concept-neue-klasse-leads-bmws-monterey-car-week-2026-lineup/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_1.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_1.jpg?a3781e&amp;a3781e",
-        "https://electriccarsreport.com/wp-content/uploads/2026/08/Kia-EV3-Chevrolet-Bolt-Nissan-Leaf-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/Leapmotor-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2024/06/2025-Nissan-Leaf-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/08/2027-Kia-EV3-300x300.jpg",
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_2.jpg?a3781e&a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-08-13T14:00:16+00:00"
     },
     {
       "id": "7918a30292a16ac6",
@@ -514,7 +513,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ford_mustang_4dr_render_2024_0.jpg?itok=_-g78mvw"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-11T15:24:39+00:00"
     },
@@ -2801,19 +2800,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
