@@ -1,11 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-14T13:35:38.320206+00:00",
-  "generated_at_human": "2026-08-14 13:35 UTC",
-  "total_items": 276,
+  "generated_at": "2026-08-14T15:03:50.427784+00:00",
+  "generated_at_human": "2026-08-14 15:03 UTC",
+  "total_items": 278,
   "sources_used": [
     "Auto Esporte BR",
-    "Autocar BMW",
+    "AutoWeek News",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,15 +38,15 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
-    "CarScoops Alfa",
+    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -67,9 +68,40 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 62,
+  "sources_count": 63,
   "multi_photo_items": 11,
   "items": [
+    {
+      "id": "783f2adea8557088",
+      "title": "The Dakar Yellow 1995 BMW M3 Is a Collector Icon",
+      "summary": "Paying homage to one of the world’s most challenging automotive events",
+      "url": "https://journal.classiccars.com/2026/08/14/the-dakar-yellow-1995-bmw-m3-is-a-collector-icon/",
+      "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/Dakar-Rally.jpg",
+      "images": [
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/Dakar-Rally.jpg",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/08/1995-BMW-M3-3-2048x1271.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1995-BMW-M3-5-2048x1152.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1995-BMW-M3-4-2048x1152.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1995-BMW-M3-6-2048x1152.webp",
+        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/07/1995-BMW-M3-Engine-1536x864.webp"
+      ],
+      "source": "ClassicCars Journal",
+      "source_url": "https://journal.classiccars.com",
+      "published": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "id": "d7ce46b2155b885f",
+      "title": "BMW X 5M Generations: Everything You Need To Know In One Place",
+      "summary": "The high-performance X5 M has long been one of America's favorite hotted-up SUVs, but do you know where it started?",
+      "url": "https://carbuzz.com/cars/bmw/x5-m/generations/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/2025-bmw-x5-m-competition-exterior-8.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/2025-bmw-x5-m-competition-exterior-8.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-14T13:36:59+00:00"
+    },
     {
       "id": "142b4913b68a89a2",
       "title": "1970 BMW 2002 4-Speed",
@@ -129,12 +161,7 @@
       "url": "https://www.hotcars.com/the-ultimate-straight-six-dodge-hurricane-vs-bmw-s58-comparison/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/hurricane-sixpack-engine.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/hurricane-sixpack-engine.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/10/jeep-wagoneer-hurricane-inline-6.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2022-ram-1500-trx.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/bmw-s58-in-m4-competition.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/2026-dodge-charger-coupe-and-sedan-body-styles.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/07/2025-bmw-m4.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/hurricane-sixpack-engine.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -188,7 +215,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -245,19 +272,6 @@
       "published": "2026-08-14T01:00:13+00:00"
     },
     {
-      "id": "7d2d753923cc4fc0",
-      "title": "27k-Mile 2008 BMW Z4 Coupe 3.0si 6-Speed",
-      "summary": "This 2008 BMW Z4 coupe 3.0si has 27k miles and is finished in Black Sapphire Metallic over Saddle Brown High Performance leather. Power is provided by a 3.0-liter inline-six paired with a six-speed manual transmission, and the optional Sport Package added a sport suspension and Dynamic Driving Control. Additional features include heated power-adjustable Sport seats, 18\" Apex wheels, a Hi-Fi sound system, cruise control, and bi-xenon headlights. The car spent time with two Ohio owners before the selling dealer's recent acquisition. This E86 coupe is now offered by the selling dealer with…",
-      "url": "https://bringatrailer.com/listing/2008-bmw-z4-coupe-19/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/Photo_Aug_12_2026_1_18_37_PM-scaled-copy-2026-08-13-d8q-91441.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/Photo_Aug_12_2026_1_18_37_PM-scaled-copy-2026-08-13-d8q-91441.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-13T23:37:26+00:00"
-    },
-    {
       "id": "c3d044052dd3789c",
       "title": "$8K Buys You A BMW E46 Doing A Very Bad Mustang Impression",
       "summary": "Aging gracefully was the E46's gift, and this owner spent real money undoing every bit of it",
@@ -265,11 +279,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Overpass-crash-NY-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Pony.ai-robotaxi22-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Jeep-Wrangler-Lamborghini-Countach-mains-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Lincoln_3-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/26-HC-FORD-LAP-0697_2_132-2048x1151.jpeg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/330210_4000x3000-copy-2048x1151.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/26-HC-FORD-LAP-0697_2_132-2048x1151.jpeg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -740,11 +754,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Overpass-crash-NY-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Suzuki-Carry-Patrol-Van-main-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/IMG_20230831_082855-copy-2048x1152.webp",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Autonomous-Trucks-3california-lawsuit-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/asdfawdfawefrgaegrer-2048x1151.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Autonomous-Trucks-3california-lawsuit-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -814,6 +828,19 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T11:11:39+00:00"
+    },
+    {
+      "id": "332a571e437c9ef7",
+      "title": "This Solar EV Can Make More Energy Than It Uses",
+      "summary": "Clemson engineering students teamed with BMW to create the 1,212-pound Luminetta, a solar-powered concept designed to produce a daily energy surplus.",
+      "url": "https://www.autoweek.com/news/a73380075/solar-ev-makes-more-energy-than-it-uses/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-07T22:24:51+00:00"
     },
     {
       "id": "66e8e7dc073f3e9e",
@@ -1102,6 +1129,19 @@
       "published": "2026-08-05T00:18:00+00:00"
     },
     {
+      "id": "e21fe63c0e1b4bbc",
+      "title": "BMW’s Spider-Man Promo Has Drivers Seeing Red",
+      "summary": "An in-car movie promotion is drawing criticism from owners who say dashboard screens shouldn’t become advertising space for vehicles they've already bought.",
+      "url": "https://www.autoweek.com/news/a73348334/bmw-spider-man-ad-has-drivers-seeing-red/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3020da05-7905-464a-8149-399b62a4201b.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3020da05-7905-464a-8149-399b62a4201b.jpeg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-04T22:45:07+00:00"
+    },
+    {
       "id": "49c5943eb9072767",
       "title": "Do BMW M Cars Really Hold Their Value Better in 2026?",
       "summary": "Part of the allure of buying the full-fat M model over the base model is performance. But there are several other benefits often used to sell the more expensive car over the entry level version.... First published by https://www.bmwblog.com",
@@ -1136,7 +1176,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X5",
+      "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -1583,7 +1623,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1919,9 +1959,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2188,7 +2228,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2331,7 +2371,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2353,9 +2393,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2366,9 +2406,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3068,9 +3108,9 @@
       "title": "Le Mans 24H, H16: #12 Cadillac out front as Toyota and BMW battle over second",
       "summary": "The #12 Cadillac pulled out a healthy lead at the two-thirds mark in the Le Mans 24 Hours, while Toyota and BMW engaged in a close scrap for second position. The two Jota-run factory Cadillacs moved to the front of the field in the 14th hour, as they leapfrogged the erstwhile-leading #8 Toyota GR010 Hybrid in the pits. However, the #38 Cadillac that had been running second suffered a power ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
+        "https://cdn-3.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3107,9 +3147,9 @@
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "summary": "The #8 Toyota leads the 2026 Le Mans 24 Hours one hour into the race, despite starting from a lowly 15th position. Kevin Magnussen’s polesitting #15 BMW collapsed to eighth in the first hour; the Dane lost out to Will Stevens’ #12 Cadillac before even the first corner of the race before Rene Rast passed them both in the sister #20 BMW, by the first chicane of the Mulsanne ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid/10829935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-1.motorsport.com/images/amp/0mXR8N56/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3449,7 +3489,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3553,7 +3593,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -3569,19 +3609,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
-    },
-    {
-      "id": "7916c0fbced4069a",
-      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
-      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
-      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
-      ],
-      "source": "CarScoops Alfa",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
