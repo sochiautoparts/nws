@@ -1,14 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-14T02:40:18.667145+00:00",
-  "generated_at_human": "2026-08-14 02:40 UTC",
-  "total_items": 275,
+  "generated_at": "2026-08-14T04:58:29.976302+00:00",
+  "generated_at_human": "2026-08-14 04:58 UTC",
+  "total_items": 277,
   "sources_used": [
+    "Auto Esporte BR",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,13 +43,13 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -68,7 +69,7 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 63,
+  "sources_count": 64,
   "multi_photo_items": 13,
   "items": [
     {
@@ -121,8 +122,8 @@
       "published": "2026-08-13T22:15:10+00:00"
     },
     {
-      "id": "a7dd57983a0d47b5",
-      "title": "$7,890 Buys A BMW E46 Doing A Very Bad Mustang Impression",
+      "id": "c3d044052dd3789c",
+      "title": "$8K Buys You A BMW E46 Doing A Very Bad Mustang Impression",
       "summary": "Aging gracefully was the E46's gift, and this owner spent real money undoing every bit of it",
       "url": "https://www.carscoops.com/2026/08/bmw-e46-ford-mustang-replica/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-1024x576.jpg",
@@ -300,7 +301,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/hzDdCQSx4wXxN28-mxC1h8qPjx0=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/B/j/OYyUA5SACOppvuOHWqCQ/honda-prelude-salao-automovel.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-13T10:00:19+00:00"
     },
@@ -513,7 +514,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ford_mustang_4dr_render_2024_0.jpg?itok=_-g78mvw"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-11T15:24:39+00:00"
     },
@@ -799,6 +800,19 @@
       "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-07T14:10:19+00:00"
+    },
+    {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
     },
     {
       "id": "6f9d87635d727b13",
@@ -1137,6 +1151,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1869,7 +1896,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2173,7 +2200,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
