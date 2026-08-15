@@ -1,11 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-15T08:41:52.335672+00:00",
-  "generated_at_human": "2026-08-15 08:41 UTC",
-  "total_items": 277,
+  "generated_at": "2026-08-15T09:36:32.370253+00:00",
+  "generated_at_human": "2026-08-15 09:36 UTC",
+  "total_items": 276,
   "sources_used": [
-    "Auto Esporte BR",
-    "Autocar BMW",
+    "Auto Esporte Carros",
+    "AutoWeek News",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -37,14 +38,13 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver BMW",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -120,9 +120,9 @@
       "title": "DTM Nurburgring: Manthey dominates free practice, is AMG stronger than it looks?",
       "summary": "Extreme heat at the start of DTM practice at the Nürburgring: In 36-degree air temperatures and with a forest fire not far from the Eifel circuit sending up a column of smoke, Porsche’s top team Manthey secured the leading positions: Thomas Preining set the day’s best time of 1:25.517, 0.249 seconds faster than team-mate Ricardo Feller in second place. Preining was only 0.399 seconds ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-nurburgring-practice-manthey-dominates-is-amg-stronger-than-it-looks/10846392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg"
+        "https://cdn-3.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -228,7 +228,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -402,7 +402,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/hzDdCQSx4wXxN28-mxC1h8qPjx0=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/B/j/OYyUA5SACOppvuOHWqCQ/honda-prelude-salao-automovel.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-13T10:00:19+00:00"
     },
@@ -812,6 +812,19 @@
       "published": "2026-08-08T11:11:39+00:00"
     },
     {
+      "id": "332a571e437c9ef7",
+      "title": "This Solar EV Can Make More Energy Than It Uses",
+      "summary": "Clemson engineering students teamed with BMW to create the 1,212-pound Luminetta, a solar-powered concept designed to produce a daily energy surplus.",
+      "url": "https://www.autoweek.com/news/a73380075/solar-ev-makes-more-energy-than-it-uses/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-07T22:24:51+00:00"
+    },
+    {
       "id": "66e8e7dc073f3e9e",
       "title": "BMW’s Facelifted 5-Series Wagon Is Getting A Neue Klasse Transplant",
       "summary": "Fresh spy shots reveal the updated 5-Series Touring, with the biggest changes saved for a cabin borrowing heavily from the Neue Klasse cars",
@@ -836,19 +849,6 @@
       "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-07T14:10:19+00:00"
-    },
-    {
-      "id": "899a6cd14d95eccf",
-      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
-      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-07T13:36:00+00:00"
     },
     {
       "id": "6f9d87635d727b13",
@@ -1161,19 +1161,6 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
-    },
-    {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2353,7 +2340,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
