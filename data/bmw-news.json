@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-15T22:34:24.340808+00:00",
-  "generated_at_human": "2026-08-15 22:34 UTC",
-  "total_items": 279,
+  "generated_at": "2026-08-15T23:30:46.653778+00:00",
+  "generated_at_human": "2026-08-15 23:30 UTC",
+  "total_items": 280,
   "sources_used": [
     "Auto Esporte BR",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -40,8 +40,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -49,13 +49,14 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "ClassicCars Journal",
     "Diariomotor",
     "Electrek BMW",
+    "Electric Cars Report",
+    "Hooniverse",
     "InsideEVs",
     "Jalopnik",
     "Motor.es",
@@ -69,7 +70,7 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 64,
+  "sources_count": 65,
   "multi_photo_items": 10,
   "items": [
     {
@@ -123,19 +124,6 @@
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-08-15T17:00:10+00:00"
-    },
-    {
-      "id": "9795a4ea9d06397d",
-      "title": "A $40,000 3 Series Luxury Sedan Now Costs $12,000 Because Of BMW's Own Leasing Addiction",
-      "summary": "The BMW F30 320i lost 73.7% of its value in 10 years. Heavy leasing and N20 engine issues sent prices to around $12,000 used.",
-      "url": "https://carbuzz.com/bmw-3-series-leasing-addiction-ruins-residual-values/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/p90083152_highres.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/p90083152_highres.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-15T16:30:16+00:00"
     },
     {
       "id": "0d578eb0c8aa20cc",
@@ -294,7 +282,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -367,6 +355,19 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-13T17:21:17+00:00"
+    },
+    {
+      "id": "712aa833685b6bf0",
+      "title": "BMW M Concept Neue Klasse Leads BMW’s Monterey Car Week 2026 Lineup",
+      "summary": "BMW unveils the electric M Concept Neue Klasse and Vision BMW ALPINA at Monterey Car Week 2026, while celebrating 40 years of the BMW M3. The post BMW M Concept Neue Klasse Leads BMW’s Monterey Car Week 2026 Lineup appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/08/bmw-m-concept-neue-klasse-leads-bmws-monterey-car-week-2026-lineup/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_1.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_1.jpg?a3781e&amp;a3781e"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-08-13T14:00:16+00:00"
     },
     {
       "id": "260ff448cb548a8d",
@@ -2406,7 +2407,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2851,6 +2852,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
