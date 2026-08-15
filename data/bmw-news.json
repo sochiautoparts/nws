@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-15T09:36:32.370253+00:00",
-  "generated_at_human": "2026-08-15 09:36 UTC",
+  "generated_at": "2026-08-15T10:34:58.132360+00:00",
+  "generated_at_human": "2026-08-15 10:34 UTC",
   "total_items": 276,
   "sources_used": [
-    "Auto Esporte Carros",
+    "Auto Esporte BR",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -45,6 +45,7 @@
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -52,8 +53,6 @@
     "ClassicCars Journal",
     "Diariomotor",
     "Electrek BMW",
-    "Electric Cars Report",
-    "Hooniverse",
     "InsideEVs",
     "Jalopnik",
     "Motor.es",
@@ -68,7 +67,7 @@
     "Paul Tan",
     "Sports Car Digest"
   ],
-  "sources_count": 63,
+  "sources_count": 62,
   "multi_photo_items": 10,
   "items": [
     {
@@ -120,9 +119,9 @@
       "title": "DTM Nurburgring: Manthey dominates free practice, is AMG stronger than it looks?",
       "summary": "Extreme heat at the start of DTM practice at the Nürburgring: In 36-degree air temperatures and with a forest fire not far from the Eifel circuit sending up a column of smoke, Porsche’s top team Manthey secured the leading positions: Thomas Preining set the day’s best time of 1:25.517, 0.249 seconds faster than team-mate Ricardo Feller in second place. Preining was only 0.399 seconds ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-nurburgring-practice-manthey-dominates-is-amg-stronger-than-it-looks/10846392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg"
+        "https://cdn-9.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -228,7 +227,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -301,19 +300,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-13T17:21:17+00:00"
-    },
-    {
-      "id": "712aa833685b6bf0",
-      "title": "BMW M Concept Neue Klasse Leads BMW’s Monterey Car Week 2026 Lineup",
-      "summary": "BMW unveils the electric M Concept Neue Klasse and Vision BMW ALPINA at Monterey Car Week 2026, while celebrating 40 years of the BMW M3. The post BMW M Concept Neue Klasse Leads BMW’s Monterey Car Week 2026 Lineup appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/08/bmw-m-concept-neue-klasse-leads-bmws-monterey-car-week-2026-lineup/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_1.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse_1.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-08-13T14:00:16+00:00"
     },
     {
       "id": "260ff448cb548a8d",
@@ -402,7 +388,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/hzDdCQSx4wXxN28-mxC1h8qPjx0=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/B/j/OYyUA5SACOppvuOHWqCQ/honda-prelude-salao-automovel.jpg"
       ],
-      "source": "Auto Esporte Carros",
+      "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-13T10:00:19+00:00"
     },
@@ -851,6 +837,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1145,7 +1144,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X5",
+      "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -1161,6 +1160,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1928,9 +1940,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-7.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2375,9 +2387,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2704,7 +2716,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -2798,19 +2810,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3458,7 +3457,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3562,7 +3561,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
