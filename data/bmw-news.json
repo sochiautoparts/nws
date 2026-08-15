@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-15T04:42:45.153419+00:00",
-  "generated_at_human": "2026-08-15 04:42 UTC",
-  "total_items": 277,
+  "generated_at": "2026-08-15T05:36:48.336382+00:00",
+  "generated_at_human": "2026-08-15 05:36 UTC",
+  "total_items": 280,
   "sources_used": [
     "Auto Esporte BR",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -40,6 +40,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -47,13 +48,16 @@
     "Car and Driver BMW",
     "Car and Driver Reviews",
     "CarBuzz",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Land Rover",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "ClassicCars Journal",
     "Electrek BMW",
     "Electric Cars Report",
-    "Hooniverse",
     "InsideEVs",
     "Jalopnik",
     "Motor.es",
@@ -68,7 +72,7 @@
     "Paul Tan",
     "Sports Car Digest"
   ],
-  "sources_count": 63,
+  "sources_count": 67,
   "multi_photo_items": 10,
   "items": [
     {
@@ -107,9 +111,9 @@
       "title": "DTM Nurburgring: Manthey dominates free practice, is AMG stronger than it looks?",
       "summary": "Extreme heat at the start of DTM practice at the Nürburgring: In 36-degree air temperatures and with a forest fire not far from the Eifel circuit sending up a column of smoke, Porsche’s top team Manthey secured the leading positions: Thomas Preining set the day’s best time of 1:25.517, 0.249 seconds faster than team-mate Ricardo Feller in second place. Preining was only 0.399 seconds ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-nurburgring-practice-manthey-dominates-is-amg-stronger-than-it-looks/10846392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg"
+        "https://cdn-9.motorsport.com/images/amp/VY91rdAY/s6/dtm-training-nuerburgring-manthey-dominanz-amg-staerker-als-es-aussieht-26081404.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -215,7 +219,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -1605,7 +1609,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -1906,7 +1910,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -1997,7 +2001,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2210,7 +2214,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2813,19 +2817,6 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
-    },
-    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -2837,6 +2828,19 @@
       "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
+    },
+    {
+      "id": "3a88f96e6c066a22",
+      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
+      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
+      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Land Rover",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-24T19:45:00+00:00"
     },
     {
       "id": "878f7609834cee38",
@@ -3255,6 +3259,19 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -3593,6 +3610,19 @@
       "published": "2026-05-26T10:38:00+00:00"
     },
     {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
+    },
+    {
       "id": "2d2e6597cd2ff873",
       "title": "The Next BMW X7 and XM: What’s Coming and When",
       "summary": "BMW’s flagship SUV lineup has always been the place where the brand makes its boldest statements. The original X7 exceeded BMW’s own sales expectations, at... The post The Next BMW X7 and XM: What’s Coming and When appeared first on BimmerFile .",
@@ -3682,6 +3712,19 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-18T19:50:42+00:00"
+    },
+    {
+      "id": "d543db934ca83a82",
+      "title": "Volvo’s New EX60 Lands In America $3,100 Under BMW’s iX3",
+      "summary": "The newest electric crossover from Volvo arrives in three trims, topped by a 670-hp variant with a claimed 400 miles of range",
+      "url": "https://www.carscoops.com/2026/05/2027-volvo-ex60-us-pricing/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-Volvo-EX60-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-18T16:00:00+00:00"
     },
     {
       "id": "701c94196dc95d59",
