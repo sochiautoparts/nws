@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-16T03:09:48.683106+00:00",
-  "generated_at_human": "2026-08-16 03:09 UTC",
-  "total_items": 278,
+  "generated_at": "2026-08-16T04:46:51.478495+00:00",
+  "generated_at_human": "2026-08-16 04:46 UTC",
+  "total_items": 281,
   "sources_used": [
-    "Auto Esporte BR",
+    "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,14 +42,17 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "ClassicCars Journal",
     "Diariomotor",
@@ -68,7 +71,7 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 63,
+  "sources_count": 66,
   "multi_photo_items": 10,
   "items": [
     {
@@ -298,7 +301,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -459,7 +462,7 @@
       "images": [
         "https://s2-autoesporte.glbimg.com/hzDdCQSx4wXxN28-mxC1h8qPjx0=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2025/B/j/OYyUA5SACOppvuOHWqCQ/honda-prelude-salao-automovel.jpg"
       ],
-      "source": "Auto Esporte BR",
+      "source": "Auto Esporte Carros",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-08-13T10:00:19+00:00"
     },
@@ -903,6 +906,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1213,6 +1229,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -1932,7 +1961,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2236,7 +2265,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -3266,6 +3295,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-09T11:21:41+00:00"
+    },
+    {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
     },
     {
       "id": "4990c9488bed2755",
