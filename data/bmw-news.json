@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-16T13:40:13.471064+00:00",
-  "generated_at_human": "2026-08-16 13:40 UTC",
-  "total_items": 286,
+  "generated_at": "2026-08-16T14:34:56.876082+00:00",
+  "generated_at_human": "2026-08-16 14:34 UTC",
+  "total_items": 288,
   "sources_used": [
     "AutoExpress",
     "AutoWeek News",
-    "Autocar",
+    "Autocar BMW",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -52,6 +52,9 @@
     "Car and Driver Reviews",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Land Rover",
+    "CarScoops Lexus",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
     "ClassicCars Journal",
     "Diariomotor",
@@ -68,10 +71,11 @@
     "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
-    "Sports Car Digest"
+    "Sports Car Digest",
+    "TopSpeed"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 15,
+  "sources_count": 69,
+  "multi_photo_items": 16,
   "items": [
     {
       "id": "783f2adea8557088",
@@ -87,18 +91,49 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
+      "id": "7f9e58c612de4334",
+      "title": "Watch the New BMW X5 Open and Close Its Own Doors",
+      "summary": "The fifth-generation BMW X5 is arguably the model’s most ambitious entry yet. The G65 retains the proportions and apparent versatility that have made the X5 a success for decades, but adds cutting-edge Neue Klasse design... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/16/new-bmw-x5-automatic-doors-video/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-ix5-exterior-13-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-ix5-exterior-13-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-16T14:00:24+00:00"
+    },
+    {
+      "id": "457fbceeb92946a8",
+      "title": "The Sports Car With Toyota Reliability And Porsche-Level Handling",
+      "summary": "Check out the BMW Z4 roadster, which promises Toyota-like reliability without sacrificing its Porsche-level handling.",
+      "url": "https://www.topspeed.com/sports-car-toyota-reliability-porsche-level-handling/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/iuyjthgfb.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/iuyjthgfb.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/batch_b1oejne6.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/trhegdgtfyg.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/2026-bmw-z4-final-edition-wheel.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/08/iyutjhfg.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/z4.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-16T14:00:10+00:00"
+    },
+    {
       "id": "6b6ce4fc9b1f6c06",
       "title": "DTM Nurburgring: Wittmann wins for BMW after AMG meltdown",
       "summary": "The smiling winner of the second DTM race at the Nurburgring is Marco Wittmann: the Schubert BMW driver, who started from sixth on the grid, benefited from his rivals’ mistakes after the start and at the first pit stop to snatch his third DTM victory in the Eifel overall. \"A superb race,\" Wittmann said happily on ProSieben. \"A very wild race, especially in the early stages, but we were able ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/wittmann-wins-nurburgring-dtm-race-for-bmw-after-amg-meltdown/10846680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg",
-        "https://cdn-7.motorsport.com/images/amp/G2e49Bb0/s1000/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.webp",
-        "https://cdn-8.motorsport.com/images/amp/Q2jgQ9bY/s300/dtm-rennen-nuerburgring-1-cairoli-feiert-dritten-saisonsieg-zwoelf-autos-im-ziel-26081503.webp",
-        "https://cdn-1.motorsport.com/images/amp/rYEkdAL0/s300/dtm-rennen-oschersleben-2-bortolotti-staubt-sieg-nach-manthey-fauxpas-ab-26072602-2.webp",
-        "https://cdn-2.motorsport.com/images/amp/725jEDNY/s300/dtm-rennen-norisring-2-thiim-holt-zweiten-sieg-und-dtm-tabellenfuehrung-26070503.webp",
-        "https://cdn-5.motorsport.com/images/mgl/0mbkzp42/s100/7-bentley-team-m-sport-bentle-1.webp"
+        "https://cdn-9.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg",
+        "https://cdn-1.motorsport.com/images/amp/G2e49Bb0/s1000/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.webp",
+        "https://cdn-5.motorsport.com/images/amp/Q2jgQ9bY/s300/dtm-rennen-nuerburgring-1-cairoli-feiert-dritten-saisonsieg-zwoelf-autos-im-ziel-26081503.webp",
+        "https://cdn-6.motorsport.com/images/amp/rYEkdAL0/s300/dtm-rennen-oschersleben-2-bortolotti-staubt-sieg-nach-manthey-fauxpas-ab-26072602-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/725jEDNY/s300/dtm-rennen-norisring-2-thiim-holt-zweiten-sieg-und-dtm-tabellenfuehrung-26070503.webp",
+        "https://cdn-7.motorsport.com/images/mgl/0mbkzp42/s100/7-bentley-team-m-sport-bentle-1.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -179,9 +214,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -192,9 +227,9 @@
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+        "https://cdn-7.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
         "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn.motorsport.com/images/mgl/2d1knknY/s1000/vincent-vosse-wrt.jpg",
         "https://cdn.motorsport.com/images/mgl/0R7BwJZ2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
@@ -237,7 +272,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_mobile_v1-01.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-17813-profile_photo.jpg?itok=fg8_XCcL"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -253,7 +288,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/luc_bbdc_2021_0191_1.jpg?itok=NLojxMzB"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -274,19 +309,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-16T00:43:00+00:00"
-    },
-    {
-      "id": "73c1c16d532882be",
-      "title": "2002 BMW M3 Coupe 6-Speed at No Reserve",
-      "summary": "This 2002 BMW M3 coupe was acquired from its previous owner of 14 years by the seller on BaT in May 2024 , and subsequent work included a valve adjustment, fluid changes, rebuilding and resealing the VANOS system, and replacing the thermostat, timing chain tensioner, cooling fan clutch, engine mounts, accessory drive belts, tires, and brake components. Finished in Titanium Silver Metallic over Imola Red Nappa leather, the car is powered by a 3.2-liter inline-six linked with a six-speed manual transmission and a limited-slip differential. Equipment includes the Premium Package, 19″ M…",
-      "url": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-135/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2002_bmw_m3-coupe_2002_bmw_m3-coupe_a6506798-eba4-4598-8374-0b14c0a16e06-9IW2HS-06127-06128-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/2002_bmw_m3-coupe_2002_bmw_m3-coupe_a6506798-eba4-4598-8374-0b14c0a16e06-9IW2HS-06127-06128-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-15T23:35:24+00:00"
     },
     {
       "id": "0d578eb0c8aa20cc",
@@ -427,7 +449,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-745-le-030720190094.jpg?itok=OcYiVD8o"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T07:00:00+00:00"
     },
@@ -653,7 +675,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/G45-X3-offroad-South-Africa-dust-hero-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-12T17:41:09+00:00"
     },
@@ -1760,7 +1782,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2365,7 +2387,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -2721,19 +2743,6 @@
       "published": "2026-07-07T18:14:54+00:00"
     },
     {
-      "id": "d3ed4118f0a856ab",
-      "title": "The New BMW iX5 Has A Smaller Front Trunk Than The iX3",
-      "summary": "Following a long hiatus, the front trunk is back. The iX3 leads the way for the frunk’s return, followed shortly by the i3 sedan. While those two EVs are built on the dedicated Neue Klasse... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/07/bmw-ix5-front-trunk-capacity-revealed/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-ix5-interior-02-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-ix5-interior-02-830x553.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-07T13:18:04+00:00"
-    },
-    {
       "id": "1029c66409b221df",
       "title": "Here’s What The Next BMW X6 Could Look Like",
       "summary": "BMW only just showed the world the reworked G65 X5, and the renders of what comes next are already circulating. Theophilus Chin, the artist behind a long list of speculative BMW previews, wasted no time... First published by https://www.bmwblog.com",
@@ -2979,6 +2988,19 @@
       "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
+    },
+    {
+      "id": "3a88f96e6c066a22",
+      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
+      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
+      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Land Rover",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-24T19:45:00+00:00"
     },
     {
       "id": "878f7609834cee38",
@@ -3397,6 +3419,19 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -3408,6 +3443,19 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
+    },
+    {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
@@ -3850,19 +3898,6 @@
       "source": "BMW Blog Alpina tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-18T14:42:38+00:00"
-    },
-    {
-      "id": "bf6a67f8f940cb09",
-      "title": "The 2027 BMW M3 CS Handschalter Is the Manual M3 We’ve Been Waiting For",
-      "summary": "BMW has finally made the manual M3 we’ve been waiting for. Or more specifically, BMW of North America has. Because this is a North... The post The 2027 BMW M3 CS Handschalter Is the Manual M3 We’ve Been Waiting For appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/05/18/the-2027-bmw-m3-cs-handschalter-is-the-manual-m3-weve-been-waiting-for/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/05/18085931/M3_CS_-Handschalter_66-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/05/18085931/M3_CS_-Handschalter_66-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-05-18T14:05:01+00:00"
     }
   ]
 }
