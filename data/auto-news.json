@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-08-16T22:33:13.393802+00:00",
-  "generated_at_human": "2026-08-16 22:33 UTC",
+  "generated_at": "2026-08-16T23:31:26.172760+00:00",
+  "generated_at_human": "2026-08-16 23:31 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -10,6 +10,7 @@
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
+    "Autocar",
     "Autosport All",
     "Autosport F1",
     "Autosport MotoGP",
@@ -23,11 +24,9 @@
     "CarExpert",
     "CarScoops",
     "CarScoops Bugatti",
-    "CarScoops Chevy",
     "CarScoops Lamborghini",
     "CarScoops Porsche",
     "CarScoops Tesla",
-    "CarScoops Volvo",
     "CarWale IN",
     "ClassicCars Journal",
     "Crash.net",
@@ -46,8 +45,6 @@
     "Motor.es",
     "Motor1",
     "Motor1 Fiat",
-    "Motor1 Lamborghini",
-    "Motoring Research",
     "Motoring World IN",
     "Motorious",
     "Motorsport All",
@@ -63,12 +60,13 @@
     "RACER",
     "Response JP",
     "RushLane IN",
+    "Sports Car Digest",
     "The Drive",
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 92,
+  "sources_count": 60,
+  "multi_photo_items": 93,
   "items": [
     {
       "id": "7efb4c0107e8d653",
@@ -102,6 +100,19 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
+      "id": "b9ea01c99b0c53fa",
+      "title": "Marcus Ericsson celebra su renovación de contrato en Markham con su primera victoria para Andretti",
+      "summary": "A inicios de este mes, Michael Andretti decidió renovar el contrato de Marcus Ericsson y hoy el piloto sueco realizó en Canadá una gran demostración que justificó la confianza que han depositado nuevamente en él. En la primera carrera realizada en el circuito callejero de Markham, ubicado en Ontario, Canadá, Ericsson y Andretti aplicaron una osada estrategia que le permitió ser el más rápido en pista en los últimos tramos de la carrera y en menos de diez vueltas pudo dejar atrás a Álex Palou, Will Power y Romain Grosjean para de esta forma obtener una victoria que buscaba desde la…",
+      "url": "https://www.diariomotor.com/competicion/noticia/marcus-ericsson-celebra-markham-victoria-andretti/",
+      "image": "https://www.diariomotor.com/imagenes/2026/08/Marcus_Ericsson_IndyCar_Canada_Andretti_2026_2_26-6a8242d828b4a.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/08/Marcus_Ericsson_IndyCar_Canada_Andretti_2026_2_26-6a8242d828b4a.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-08-17T01:18:24+00:00"
+    },
+    {
       "id": "592cea1184cbc0df",
       "title": "Más de 200 km/h entre barrancos: así se pulveriza un récord en Mt. Washington con el Project Midnight de Subaru",
       "summary": "Se ha convertido ya en toda una tradición la visita veraniega de Subaru Motorsports USA al Mt. Washington. Para la firma de las estrellas es prácticamente como participar en su propio Pikes Peak, buscando superarse año tras año hasta conseguir un récord que sirva para ser un techo prácticamente inalcanzable para cualquiera que se plantee afrontar el Paul Giblin Memorial Climb to the Clouds. Esta vez desde luego lo tenían un poco más sencillo, ya que la estructura norteamericana, junto a Vermont SportsCar ya tenía el trabajo hecho en el pasado con un desarrollo tan radical como el que…",
@@ -115,6 +126,42 @@
       "published": "2026-08-16T23:57:25+00:00"
     },
     {
+      "id": "e2f1fb14de34d57a",
+      "title": "ティアフォー、自動運転レベル4向けAIチップをオープンソース化へ",
+      "summary": "自動運転の民主化をビジョンに掲げるティアフォーは、国立研究開発法人科学技術振興機構（JST）の「次世代エッジAI半導体研究開発事業」に参画し、自動運転レベル4向けのソフトウェア定義型システム・オン・チップ（SoC）の研究開発を推進すると発表した。",
+      "url": "https://response.jp/article/2026/08/17/415313.html",
+      "image": "https://response.jp/imgs/rss/2235277.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2235277.jpg",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2235277.jpg",
+        "https://response.jp/imgs/sq_m_l1/2235277.jpg",
+        "https://response.jp/imgs/sq_m_l1/2235278.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-08-16T23:30:03+00:00"
+    },
+    {
+      "id": "33012ba90a345d85",
+      "title": "The Fastest-Depreciating Luxury SUV Lost $55k In Five Years, Making It A Used Steal",
+      "summary": "The 2021 Lincoln Navigator L Black Label loses nearly 55% of its value in five years, dropping to around $46k on the used market.",
+      "url": "https://carbuzz.com/lincoln-navigator-fastest-depreciating-luxury-suv-lost-55k-in-five-years-and-is-now-a-bargain/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/lincoln-navigator-l-3.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/lincoln-navigator-l-3.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/lincoln-navigator-l-5-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/lincoln-navigator-l-2-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/lincoln-navigator-l-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/04/lincoln-navigator-l-4-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-16T23:29:14+00:00"
+    },
+    {
       "id": "d66824371e141a83",
       "title": "La nueva era del WRC empieza a complicarse: los WRC27 y los Rally2 Kit siguen sin llegar",
       "summary": "En poco más de una semana, el Mundial de Rallyes estará viajando hacia la que será su undécima cita de la temporada, un Rally de Paraguay que sin duda marcará en buena parte la lucha por el título después de que Finlandia diera todo un giro al WRC tras el accidente sufrido por Sébastien Ogier cuando era líder en la parte final de la etapa del sábado. Además de la parte deportiva, el campeonato avanzó lo que era la llegada del nuevo propietario del WRC Promoter GmbH , en lo que era una decisión que aguardaba el campeonato para tratar de empezar a consolidar los cimientos del futuro del…",
@@ -126,6 +173,254 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-16T23:26:30+00:00"
+    },
+    {
+      "id": "e255c2aa2581e107",
+      "title": "Marcus Ericsson impide la épica de Romain Grosjean; Álex Palou ya roza el título",
+      "summary": "El blanco y el negro le fueron como un guante a Ericsson para volver a la senda del triunfo. IndyCar Media El sueco y el francés arriesgaron de forma distinta con la estrategia, cazando Ericsson a Grosjean a falta de cinco vueltas. Carrera con varios accidentados, entre ellos el poleman Louis Foster o Kyle Kirkwood. Palou acabó cuarto tras una carrera yo-yo, con error propio al final. 2023 era la temporada en la que Marcus Ericsson y Romain Grosjean lograron sus últimos grandes éxitos en IndyCar . La última victoria del sueco, en St. Petersburg. El último podio del francés, en Barber.…",
+      "url": "https://www.motor.es/noticias/ericsson-indycar-markham-2026115856.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/marcus-ericsson-impide-la-epica-de-romain-grosjean-alex-palou-ya-roza-el-titulo-2026115856-1786922339_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/marcus-ericsson-impide-la-epica-de-romain-grosjean-alex-palou-ya-roza-el-titulo-2026115856-1786922339_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-16T23:20:36+00:00"
+    },
+    {
+      "id": "c8ffcc3aa5ae4c61",
+      "title": "20k-Mile 2001 Honda S2000",
+      "summary": "This 2001 Honda S2000 was purchased new by the seller's late mother-in-law and has 20k miles. Work completed in 2026 has included changing the fluids, servicing the fuel system, and replacing the spark plugs and tires. Finished in Silverstone Metallic over black leather upholstery, the car is powered by a 2.0-liter VTEC inline-four linked to a six-speed manual transmission and a limited-slip differential. Equipment includes a black convertible soft top, xenon headlights, 16\" five-spoke alloy wheels, air conditioning, a CD stereo, and cruise control. This AP1 S2000 is offered with a…",
+      "url": "https://bringatrailer.com/listing/2001-honda-s2000-245/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2001_honda_s2000_2001_honda_s2000_7869c91f-44e1-450b-af3d-cc031cf3c282-9fhgxF-39315-39316-scaled.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/2001_honda_s2000_2001_honda_s2000_7869c91f-44e1-450b-af3d-cc031cf3c282-9fhgxF-39315-39316-scaled.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-16T23:10:20+00:00"
+    },
+    {
+      "id": "798013f51caeae0f",
+      "title": "O'Ward grateful to Arrow McLaren crew for salvaging his weekend",
+      "summary": "O’Ward was pleasantly surprised to round out the top-five in Markham after a weekend when the Arrow McLaren-Chevrolet team appeared to be fighting from the back foot.",
+      "url": "https://racer.com/2026/08/16/o-ward-grateful-to-arrow-mclaren-crew-for-salvaging-his-weekend",
+      "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt65096788034fcc0f/6a8244380f118a92832d9ace/GettyImages-2290253250.jpg?environment=live",
+      "images": [
+        "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt65096788034fcc0f/6a8244380f118a92832d9ace/GettyImages-2290253250.jpg?environment=live"
+      ],
+      "source": "RACER",
+      "source_url": "https://www.racer.com",
+      "published": "2026-08-16T23:09:26+00:00"
+    },
+    {
+      "id": "b19ece5a85952252",
+      "title": "Original-Owner 1997 Ford Mustang SVT Cobra Convertible",
+      "summary": "This 1997 Ford Mustang SVT Cobra convertible was purchased new by the seller, and it now shows 57k miles. The car has been registered in Oregon and Tennessee from new. Finished in Pacific Green Clearcoat Metallic over Saddle leather, the car is powered by a 4.6-liter V8 paired with a five-speed manual transmission. Features include a limited-slip differential, a saddle soft top, fog lights, 17″ cast-aluminum wheels, a Mach sound system, a CD/cassette stereo, and air conditioning. This Mustang SVT Cobra convertible is now offered with a clean Tennessee title in the seller's name.",
+      "url": "https://bringatrailer.com/listing/1997-ford-mustang-svt-cobra-convertible-20/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/1997_ford_mustang-svt-cobra-convertible_1997_ford_mustang-svt-cobra-convertible_3c9a0217-bacb-4a67-8100-e060debd49f5-RoVkcj-39187-39188-scaled.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/05/1997_ford_mustang-svt-cobra-convertible_1997_ford_mustang-svt-cobra-convertible_3c9a0217-bacb-4a67-8100-e060debd49f5-RoVkcj-39187-39188-scaled.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-16T23:05:43+00:00"
+    },
+    {
+      "id": "45028f2f4e7b589b",
+      "title": "The Struggling Toyota Crown's Main Rival Comes From Within Toyota's Own Ranks",
+      "summary": "An overlapping lineup is really hurting some of Toyota's products, and the Crown is one of the ones hit the hardest.",
+      "url": "https://carbuzz.com/toyota-crowns-main-rival-camry-comparison/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/toyota-crown.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/toyota-crown.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/2026-camry-xse-awd-heavymetalblackroof-006.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2026-toyota-camry-xse-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2025-toyota-crown-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/20260715_01_01-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-16T23:04:14+00:00"
+    },
+    {
+      "id": "4d92727cdd3d7e54",
+      "title": "Mercedes-AMG’s Flat-Plane V8 Mythos Is Being Built To Ruin The BMW M4",
+      "summary": "Mercedes’ hardcore V8 coupe has returned with revised aero, more cooling and its carbon roof finally exposed",
+      "url": "https://www.carscoops.com/2026/08/mercedes-amg-cle63-mythos-spied/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-lead-CLEMyAug1126101-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-lead-CLEMyAug1126101-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-CLE-63-Mythos-scoop-00015-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-CLE-63-Mythos-scoop-00014-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-CLE-63-Mythos-scoop-00016-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-CLE-63-Mythos-scoop-00017-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/AMG-CLE-63-Mythos-scoop-00018-2048x1365.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-16T23:04:00+00:00"
+    },
+    {
+      "id": "cfbf9fe2a99c589c",
+      "title": "2000 Dodge Ram 2500HD Laramie SLT Quad Cab 4×4 V10",
+      "summary": "This 2000 Dodge Ram 2500HD Laramie SLT 4×4 is a ¾-ton Quad Cab pickup that has 55k miles and is powered by an 8.0-liter Magnum V10 linked with a four-speed automatic transmission, a dual-range transfer case, and a limited-slip rear differential. Finished in Bright White over Agate cloth, the truck is equipped with the Trailer Tow, Light, and Travel Convenience Packages, a gooseneck hitch, 16\" forged aluminum wheels, a CD stereo, an Alpine XM Satellite Radio receiver, cruise control, air conditioning, and power windows. This Ram 2500HD is offered by the selling dealer with an owner's…",
+      "url": "https://bringatrailer.com/listing/2000-dodge-ram-2500hd-4/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/IMG_4305-copy-2026-06-04-t87-31621-scaled.jpeg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/05/IMG_4305-copy-2026-06-04-t87-31621-scaled.jpeg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-16T23:03:09+00:00"
+    },
+    {
+      "id": "c1683adb2f12f9c1",
+      "title": "The Pontiac Muscle Car That Gave Buyers GTO Power Without The GTO Badge",
+      "summary": "The 1971 Pontiac GT-37 offered every engine on the GTO's menu, including the 455 H.O., starting at a lower base price than the GTO.",
+      "url": "https://www.hotcars.com/pontiac-muscle-car-gto-power-without-badge/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1971-pontiac-gt-37-455-v8-mecum-steering-wheel.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1971-pontiac-gt-37-455-v8-mecum-steering-wheel.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1969-pontiac-judge-gto-convertible-badge-close-up-resized.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1971-pontiac-gto-judge-coupe-455-ho-bring-a-trailer-air-cleaner.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/07/pontiac-gto-judge-455-ho-front-3_4-angle.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1971-pontiac-gt-37-455-v8-mecum-front-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1971-pontiac-gt-37-455-v8-mecum-engine-bay.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-16T23:00:13+00:00"
+    },
+    {
+      "id": "e61eb11f983666d5",
+      "title": "The Japanese Motorcycle That Captures Harley’s Spirit In A Different Way",
+      "summary": "For half the price, this factory-custom Honda does an impressive job of capturing the custom chopper styling better than the Harley Breakout.",
+      "url": "https://www.topspeed.com/japanese-motorcycle-captures-harley-spirit-in-different-way/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/hondafuryvt1300cx-4595_4-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/hondafuryvt1300cx-4595_4-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/riders-near-motorcycles-american-flag-ls.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/rider-sitting-on-a-2026-indian-scout-bobber.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/2026-harley-davidson-breakout.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/honda-fury_4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/honda-fury.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-16T23:00:10+00:00"
+    },
+    {
+      "id": "d52d0b87759818ea",
+      "title": "1960 Chevrolet Impala Sport Coupe 4-Speed",
+      "summary": "This 1960 Chevrolet Impala is a two-door sport coupe that underwent a repaint in red in the 1990s, and its tri-power 348ci V8 was overhauled in 2022. Work following the current owner's 2025 acquisition involved adjusting the shifter for the four-speed manual transmission and replacing the ring-and-pinion gear set, radiator, driveshaft support bearing, U-joints, fuel lines, and rear brake shoes. The interior is trimmed in red and white upholstery and equipped with power windows and a power-adjustable front bench seat. Additional details include chrome bumpers, dual side mirrors, power…",
+      "url": "https://bringatrailer.com/listing/1960-chevrolet-impala-51/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/20260804_094953-scaled-copy-2026-08-04-edx-74617.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/20260804_094953-scaled-copy-2026-08-04-edx-74617.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-16T23:00:07+00:00"
+    },
+    {
+      "id": "4580cfc0b332446c",
+      "title": "トヨタ『カローラツーリング』次期型はどうなる？ 5つの注目点",
+      "summary": "SUV人気が続くなかでも、ステーションワゴンならではの低重心な走りと高い積載性を兼ね備えたトヨタ『カローラツーリング』は、根強い支持を集めている。現行モデルは2019年に登場した。登場からまもなく7年を迎えることから、次期型への期待も高まりつつある。",
+      "url": "https://response.jp/article/2026/08/17/415312.html",
+      "image": "https://response.jp/imgs/rss/2235256.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2235256.jpg",
+        "https://response.jp/base/images/google-source-banner.png",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2235256.jpg",
+        "https://response.jp/imgs/sq_m_l1/2235256.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-08-16T23:00:03+00:00"
+    },
+    {
+      "id": "1b124fcf0b77b6df",
+      "title": "Ranch Truck: 1959 Volkswagen Single Cab",
+      "summary": "The thing about patina is it can’t be faked – it has to be earned. And while some car flippers may claim otherwise, rust does not equal patina; it simply means the car has been in the elements, unprotected,... Read More »",
+      "url": "https://barnfinds.com/ranch-truck-1959-volkswagen-single-cab/",
+      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1959-Volkswagen-single-cab-side-e1786721324165-630x390.jpg",
+      "images": [
+        "https://barnfinds.com/wp-content/uploads/2026/08/1959-Volkswagen-single-cab-side-e1786721324165-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1959-Volkswagen-single-cab-rear-e1786721380332-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1959-Volkswagen-single-cab-interior-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1959-Volkswagen-single-cab-engine-e1786721418921-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1985-Chevrolet-El-Camino-1-120x120.jpeg",
+        "https://barnfinds.com/wp-content/uploads/2025/02/crackerbox_gmc_by_426maxwedgie-120x120.jpg"
+      ],
+      "source": "BarnFinds",
+      "source_url": "https://barnfinds.com",
+      "published": "2026-08-16T23:00:00+00:00"
+    },
+    {
+      "id": "912146d60cf19648",
+      "title": "Bugatti Destrier’s Monterey Car Week Debut",
+      "summary": "Amid the spectacle of Monterey Car Week, where many of the world’s most significant automobiles gather in a celebration of heritage, craftsmanship and design, Bugatti presented the Destrier, the third one-of-one creation from the marque’s Programme Solitaire. Following its digital reveal earlier in August, the Destrier made its physical debut in California, appearing in public for the first time and joining the exclusive collection of bespoke vehicles created through Programme Solitaire. Commissioned by a single customer and conceived as a […] The post Bugatti Destrier’s Monterey Car Week…",
+      "url": "https://sportscardigest.com/bugatti-destriers-monterey-car-week-debut/",
+      "image": "https://sportscardigest.com/wp-content/uploads/2026/08/12-BUGATTI-Destrier-at-The-Quail.jpg",
+      "images": [
+        "https://sportscardigest.com/wp-content/uploads/2026/08/12-BUGATTI-Destrier-at-The-Quail.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/15-BUGATTI-Destrier-at-The-Quail-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/10-BUGATTI-Destrier-at-The-Quail-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/05-BUGATTI-Destrier-at-The-Quail-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/03-BUGATTI-Destrier-at-The-Quail-2048x1366.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/11-BUGATTI-Destrier-at-The-Quail-2048x1365.jpg"
+      ],
+      "source": "Sports Car Digest",
+      "source_url": "https://www.sportscardigest.com",
+      "published": "2026-08-16T22:55:17+00:00"
+    },
+    {
+      "id": "79b7606fffc00d97",
+      "title": "One-Owner 2009 Aston Martin DB9",
+      "summary": "This 2009 Aston Martin DB9 was acquired by the current owner in September 2009 and now has 9k miles. Finished in Storm Black over Obsidian Black leather, the car is powered by a 5.9-liter V12 linked with a six-speed automatic transaxle and a limited-slip differential. Equipment includes 19″ Sport Pack forged alloy wheels, rear parking sensors, power-adjustable front seats with position memory, and a navigation system. This DB9 is now offered by the seller on behalf of the owner with the owner's manual, accessories, a clean Carfax report, and a clean Connecticut title.",
+      "url": "https://bringatrailer.com/listing/2009-aston-martin-db9-29/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/DSC_1941-1-scaled-copy-2026-07-17-o5c-22762.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/06/DSC_1941-1-scaled-copy-2026-07-17-o5c-22762.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-16T22:50:16+00:00"
+    },
+    {
+      "id": "2bc4c3fecc0bdf28",
+      "title": "Acura Nexera concept previews new design language for Honda's luxury brand",
+      "summary": "Acura is returning to its coupe roots for its 40th anniversary, but the Nexera is said to point the way to a new generation of SUVs rather than a slinky two-door production car.",
+      "url": "https://www.carexpert.com.au/car-news/acura-nexera-concept-previews-new-design-language-for-hondas-luxury-brand",
+      "image": "https://images.carexpert.com.au/cms/v1/media/acura-nexera-vision-3.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/acura-nexera-vision-3.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-08-16T22:46:00+00:00"
+    },
+    {
+      "id": "b6c004b6b5eabe7a",
+      "title": "The Porsche That Holds Its Value Better Than Any Investment",
+      "summary": "This blistering Porsche darn near outperforms traditional investments. Oh, did we mention it's an absolute demon?",
+      "url": "https://www.topspeed.com/the-porsche-holds-value-better/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/298480_6000x4500.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/298480_6000x4500.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-1954.jpeg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-1965.jpeg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/fgeregee.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/2016-porsche-911-gt3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/01/ghbfhgfh-copy.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-16T22:45:10+00:00"
     },
     {
       "id": "b1ec7e50bd301a13",
@@ -183,12 +478,7 @@
       "url": "https://www.topspeed.com/this-budget-fast-motorcycle-outperforms-models-twice-price/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2008-bmw-s-1000-rr-wheelie.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2008-bmw-s-1000-rr-wheelie.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/img_080_6.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/19582-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/12/gsxr1000k5blackerik-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/p90048286_highres_bmw-s-1000-rr-07-200.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2010_bmw_s1000rr_img_4178-43951-scaled.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2008-bmw-s-1000-rr-wheelie.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -251,7 +541,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/1b86c24f-5481-40ff-8625-5a0abfea64d7.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/619190f3-707e-444f-8806-52946807b335.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-16T22:09:00+00:00"
     },
@@ -260,14 +550,14 @@
       "title": "Complete IndyCar championship standings after 2026 Markham",
       "summary": "A fourth-place finish in a high-attrition race on the streets of Markhan helped Alex Palou to add another 23 points to his championship lead, now 133 points ahead of Kyle Kirkwood (who wrecked). David Malukas is four points behind Kirkwood in third, while Christian Lundgaard is just two points back of Malukas in a close battle for second. Inside the top ten, the only other significant ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-markham/10846741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
-        "https://cdn-5.motorsport.com/images/amp/YMXbVlL2/s1000/alex-palou-chip-ganassi-racing.webp",
+        "https://cdn-8.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
+        "https://cdn-1.motorsport.com/images/amp/YMXbVlL2/s1000/alex-palou-chip-ganassi-racing.webp",
         "https://cdn.motorsport.com/images/amp/0R7B5Or2/s2/marcus-ericsson-andretti-globa.jpg",
         "https://cdn.motorsport.com/images/amp/6b8ZpJE2/s2/ontario-20honda-20dealers-20in-2.jpg",
-        "https://cdn-9.motorsport.com/images/amp/0R7B5Or2/s300/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-4.motorsport.com/images/amp/YK15gyX0/s300/joey-logano-no-22-team-penske-.webp"
+        "https://cdn-3.motorsport.com/images/amp/0R7B5Or2/s300/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-9.motorsport.com/images/amp/YK15gyX0/s300/joey-logano-no-22-team-penske-.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -278,14 +568,14 @@
       "title": "Complete IndyCar championship standings after 2026 Markham",
       "summary": "A fourth-place finish in a high-attrition race on the streets of Markhan helped Alex Palou to add another 23 points to his championship lead, now 133 points ahead of Kyle Kirkwood (who wrecked). David Malukas is four points behind Kirkwood in third, while Christian Lundgaard is just two points back of Malukas in a close battle for second. Inside the top ten, the only other significant ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-markham/10846741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
-        "https://cdn-5.motorsport.com/images/amp/YMXbVlL2/s1000/alex-palou-chip-ganassi-racing.webp",
+        "https://cdn-8.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
+        "https://cdn-1.motorsport.com/images/amp/YMXbVlL2/s1000/alex-palou-chip-ganassi-racing.webp",
         "https://cdn.motorsport.com/images/amp/0R7B5Or2/s2/marcus-ericsson-andretti-globa.jpg",
         "https://cdn.motorsport.com/images/amp/6b8ZpJE2/s2/ontario-20honda-20dealers-20in-2.jpg",
-        "https://cdn-9.motorsport.com/images/amp/0R7B5Or2/s300/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-4.motorsport.com/images/amp/YK15gyX0/s300/joey-logano-no-22-team-penske-.webp"
+        "https://cdn-1.motorsport.com/images/amp/0R7B5Or2/s300/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-2.motorsport.com/images/amp/YK15gyX0/s300/joey-logano-no-22-team-penske-.webp"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -347,12 +637,7 @@
       "url": "https://www.topspeed.com/cr-v-popular-underrated-suv-better-buy/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-mazda-cx-50-headlight.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-mazda-cx-50-headlight.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/11/2025-mazda-cx-50-hybrid-full-dashboard-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/11/2025-mazda-cx-50-hybrid-infotainment-system-2-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/11/2025-mazda-cx-50-hybrid-seats-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/11/2025-mazda-cx-50-hybrid-rear-seats-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2024/11/2025-mazda-cx-50-hybrid-cargo-space-2-topspeed.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-mazda-cx-50-headlight.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -365,12 +650,7 @@
       "url": "https://response.jp/article/2026/08/17/415310.html",
       "image": "https://response.jp/imgs/rss/2235260.jpg",
       "images": [
-        "https://response.jp/imgs/rss/2235260.jpg",
-        "https://response.jp/base/images/google-source-banner.png",
-        "https://response.jp/base/images/ico-jpx-iid.png",
-        "https://response.jp/base/images/ico-privacy-iid.png",
-        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2235260.jpg",
-        "https://response.jp/imgs/sq_m_l1/2235260.jpg"
+        "https://response.jp/imgs/rss/2235260.jpg"
       ],
       "source": "Response JP",
       "source_url": "https://response.jp",
@@ -453,12 +733,7 @@
       "url": "https://response.jp/article/2026/08/17/415309.html",
       "image": "https://response.jp/imgs/rss/2235288.jpg",
       "images": [
-        "https://response.jp/imgs/rss/2235288.jpg",
-        "https://response.jp/base/images/google-source-banner.png",
-        "https://response.jp/base/images/ico-jpx-iid.png",
-        "https://response.jp/base/images/ico-privacy-iid.png",
-        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2235288.jpg",
-        "https://response.jp/imgs/sq_m_l1/2235288.jpg"
+        "https://response.jp/imgs/rss/2235288.jpg"
       ],
       "source": "Response JP",
       "source_url": "https://response.jp",
@@ -582,12 +857,7 @@
       "url": "https://carbuzz.com/2026-lincoln-aviator-genesis-gv80-price/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/new_jet_appearance_package_brings_sleeker-_black_accents_to_the_lincoln_aviator.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/new_jet_appearance_package_brings_sleeker-_black_accents_to_the_lincoln_aviator.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/1226453_converted.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/2021-genesis-gv80-4.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/1226447_converted.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/cropped-5730-2026gv80prestigeblack.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/new_jet_appearance_package_brings_sleeker-_black_accents_to_the_lincoln_aviator.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -598,9 +868,9 @@
       "title": "How Marcus Ericsson turned a 'Big reset' into a masterclass on the Streets of Markham",
       "summary": "Marcus Ericsson’s return to form culminated in a statement victory as the 35-year-old Swede ended a 63-race winless drought with a late charge to win the inaugural Ontario Honda Dealers Indy at Markham. Driving the #28 Andretti Global Honda, the win marked Ericsson’s fifth career IndyCar victory—his fourth on a street course—and his first visit to victory lane since St. Petersburg in ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/how-marcus-ericsson-turned-a-big-reset-into-a-masterclass-on-the-streets-of-markham/10846751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
+        "https://cdn-4.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
         "https://cdn-7.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
         "https://cdn-7.motorsport.com/images/amp/25dLw5E0/s1000/marcus-ericsson-andretti-globa.webp",
         "https://cdn.motorsport.com/images/amp/6x7LAB8Y/s2/ontario-20honda-20dealers-20in.jpg",
@@ -616,9 +886,9 @@
       "title": "How Marcus Ericsson turned a 'Big reset' into a masterclass on the Streets of Markham",
       "summary": "Marcus Ericsson’s return to form culminated in a statement victory as the 35-year-old Swede ended a 63-race winless drought with a late charge to win the inaugural Ontario Honda Dealers Indy at Markham. Driving the #28 Andretti Global Honda, the win marked Ericsson’s fifth career IndyCar victory—his fourth on a street course—and his first visit to victory lane since St. Petersburg in ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/how-marcus-ericsson-turned-a-big-reset-into-a-masterclass-on-the-streets-of-markham/10846751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
+        "https://cdn-9.motorsport.com/images/amp/25dLw5E0/s6/marcus-ericsson-andretti-globa.jpg",
         "https://cdn-7.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
         "https://cdn-7.motorsport.com/images/amp/25dLw5E0/s1000/marcus-ericsson-andretti-globa.webp",
         "https://cdn.motorsport.com/images/amp/6x7LAB8Y/s2/ontario-20honda-20dealers-20in.jpg",
@@ -704,14 +974,14 @@
       "title": "Romain Grosjean “cried a little” after late-race defeat extends wait for maiden IndyCar win",
       "summary": "Five laps. That was all that stood between Romain Grosjean and the end of an agonizing winless drought that dates back more than 15 years. Instead, the 40-year-old Swiss-born Frenchman watched a storybook victory slip through his fingers on the 2.19-mile, 12-turn temporary street circuit at the Ontario Honda Dealers Indy at Markham. Driving the #18 Dale Coyne Racing Honda, Grosjean ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/romain-grosjean-cried-a-little-after-late-markham-defeat-denies-first-indycar-win/10846749/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
-        "https://cdn-3.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
-        "https://cdn-8.motorsport.com/images/amp/6x7LAB8Y/s1000/ontario-20honda-20dealers-20in.webp",
+        "https://cdn-5.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
+        "https://cdn-5.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
+        "https://cdn-4.motorsport.com/images/amp/6x7LAB8Y/s1000/ontario-20honda-20dealers-20in.webp",
         "https://cdn.motorsport.com/images/amp/YpbAxJd0/s2/ontario-20honda-20dealers-20in-3.jpg",
         "https://cdn.motorsport.com/images/amp/0R7B5Or2/s2/marcus-ericsson-andretti-globa.jpg",
-        "https://cdn-3.motorsport.com/images/usa/10R75r27/s100/img138404304-1.webp"
+        "https://cdn-5.motorsport.com/images/usa/10R75r27/s100/img138404304-1.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -722,9 +992,9 @@
       "title": "Romain Grosjean “cried a little” after late-race defeat extends wait for maiden IndyCar win",
       "summary": "Five laps. That was all that stood between Romain Grosjean and the end of an agonizing winless drought that dates back more than 15 years. Instead, the 40-year-old Swiss-born Frenchman watched a storybook victory slip through his fingers on the 2.19-mile, 12-turn temporary street circuit at the Ontario Honda Dealers Indy at Markham. Driving the #18 Dale Coyne Racing Honda, Grosjean ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/romain-grosjean-cried-a-little-after-late-markham-defeat-denies-first-indycar-win/10846749/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
+        "https://cdn-3.motorsport.com/images/amp/6x7LAB8Y/s6/ontario-20honda-20dealers-20in.jpg",
         "https://cdn-3.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
         "https://cdn-8.motorsport.com/images/amp/6x7LAB8Y/s1000/ontario-20honda-20dealers-20in.webp",
         "https://cdn.motorsport.com/images/amp/YpbAxJd0/s2/ontario-20honda-20dealers-20in-3.jpg",
@@ -742,12 +1012,7 @@
       "url": "https://carbuzz.com/bmw-added-six-more-spark-plugs-keep-ice-engines-alive/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/bmw-m3-cs-handschalter-package-18.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/bmw-m3-cs-handschalter-package-18.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/bmw-m-ignite-technology-2026-15.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/bmw-m-ignite-technology-2026-4.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/bmw-m-ignite-technology-2026-9.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2026_bmw_m3_002.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/bmw-m3-cs-handschalter-package-18.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -773,12 +1038,7 @@
       "url": "https://www.hotcars.com/buick-muscle-car-more-torque-than-ls6-chevelle/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/buick-gs-455-headlight.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/buick-gs-455-headlight.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/1964-corvette.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/03/mixcollage-11-mar-2026-10-44-am-451.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1970-chevrolet-chevelle-ls6-feature.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/02/4-9.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/1970-buick-gs-455-stage-1-bring-a-trailer-photos-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/buick-gs-455-headlight.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -817,12 +1077,7 @@
       "url": "https://barnfinds.com/desirable-5-speed-1987-ford-thunderbird-turbo-coupe/",
       "image": "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-1-e1786850470966-630x390.jpg",
       "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-1-e1786850470966-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-2-e1786850495236-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-3-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-4-e1786850515587-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-5-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1985-Chevrolet-El-Camino-1-120x120.jpeg"
+        "https://barnfinds.com/wp-content/uploads/2026/08/1987-Ford-Thunderbird-Turbo-Coupe-1-e1786850470966-630x390.jpg"
       ],
       "source": "BarnFinds",
       "source_url": "https://barnfinds.com",
@@ -959,9 +1214,9 @@
       "title": "Official race results: 2026 IndyCar at Markham",
       "summary": "Marcus Ericsson passed Romain Grosjean with five laps to go on the streets of Markham, earning his first win since March of 2023 at St. Pete. It's the Swede's fifth career IndyCar victory, and his first since joining Andretti. Markham ends a 63-race winless streak for Ericsson. Grosjean followed in second, earning his sixth career runner-up finish and seventh podium while now 0-77 in his ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/official-race-results-2026-indycar-at-markham/10846737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -972,9 +1227,9 @@
       "title": "Official race results: 2026 IndyCar at Markham",
       "summary": "Marcus Ericsson passed Romain Grosjean with five laps to go on the streets of Markham, earning his first win since March of 2023 at St. Pete. It's the Swede's fifth career IndyCar victory, and his first since joining Andretti. Markham ends a 63-race winless streak for Ericsson. Grosjean followed in second, earning his sixth career runner-up finish and seventh podium while now 0-77 in his ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/official-race-results-2026-indycar-at-markham/10846737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0R7B5Or2/s6/marcus-ericsson-andretti-globa.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -998,9 +1253,9 @@
       "title": "Marcus Ericsson denies Romain Grosjean with late charge to Markham IndyCar victory",
       "summary": "Andretti Global’s Marcus Ericsson ended a 63-race winless drought with a dramatic late charge to pass Romain Grosjean and win the inaugural Ontario Honda Dealers Indy at Markham. After pitting from the lead with 21 laps remaining and droppping to seventh, Ericsson stormed back on fresh alternate tires, passed Grosjean for the lead with five laps to go and coasted to victory by 7.5305s on the ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/marcus-ericsson-denies-romain-grosjean-with-late-charge-to-markham-indycar-victory/10846735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg"
+        "https://cdn-9.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1011,9 +1266,9 @@
       "title": "Marcus Ericsson denies Romain Grosjean with late charge to Markham IndyCar victory",
       "summary": "Andretti Global’s Marcus Ericsson ended a 63-race winless drought with a dramatic late charge to pass Romain Grosjean and win the inaugural Ontario Honda Dealers Indy at Markham. After pitting from the lead with 21 laps remaining and droppping to seventh, Ericsson stormed back on fresh alternate tires, passed Grosjean for the lead with five laps to go and coasted to victory by 7.5305s on the ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/marcus-ericsson-denies-romain-grosjean-with-late-charge-to-markham-indycar-victory/10846735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg"
+        "https://cdn-2.motorsport.com/images/amp/YpbAxJd0/s6/ontario-20honda-20dealers-20in-3.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -1115,14 +1370,14 @@
       "title": "Antonio Felix da Costa defends Jaguar, says Pascal Wehrlein took Jake Dennis out “on purpose”",
       "summary": "Antonio Felix da Costa has defended his aggressive tactics to hold up Pascal Wehrlein for much of the London E-Prix, while accusing the Porsche driver of deliberately crashing into title rival Jake Dennis. With Jaguar’s Mitch Evans heading into Sunday’s Formula E finale with a 21-point deficit to Porsche rival Wehrlein, the Kiwi needed to win the race and hope Wehrlein finished outside ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/antonio-felix-da-costa-defends-jaguar-says-pascal-wehrlein-took-jake-dennis-out-on-purpose/10846739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg",
-        "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-8.motorsport.com/images/amp/0rVPQaW0/s1000/antonio-felix-da-costa-jaguar-.webp",
+        "https://cdn-8.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg",
+        "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/amp/0rVPQaW0/s1000/antonio-felix-da-costa-jaguar-.webp",
         "https://cdn.motorsport.com/images/amp/YE9EMDPY/s2/pascal-wehrlein-porsche-formul.jpg",
         "https://cdn.motorsport.com/images/amp/6zoDlaw0/s2/pascal-wehrlein-porsche-formul.jpg",
-        "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp"
+        "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -1133,9 +1388,9 @@
       "title": "Antonio Felix da Costa defends Jaguar, says Pascal Wehrlein took Jake Dennis out “on purpose”",
       "summary": "Antonio Felix da Costa has defended his aggressive tactics to hold up Pascal Wehrlein for much of the London E-Prix, while accusing the Porsche driver of deliberately crashing into title rival Jake Dennis. With Jaguar’s Mitch Evans heading into Sunday’s Formula E finale with a 21-point deficit to Porsche rival Wehrlein, the Kiwi needed to win the race and hope Wehrlein finished outside ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/antonio-felix-da-costa-defends-jaguar-says-pascal-wehrlein-took-jake-dennis-out-on-purpose/10846739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0rVPQaW0/s6/antonio-felix-da-costa-jaguar-.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1177,9 +1432,9 @@
       "title": "Pole-sitter Louis Foster crashes out of Markham IndyCar race",
       "summary": "Louis Foster chances for his first IndyCar Series win came to an abrupt end near the halfway point of the Ontario Honda Dealers Indy at Markham. After starting on pole, the 23-year-old Briton was out front and in control of the 90-lap race. An untimely caution during the pit cycle caught Foster before he had stopped, while several rivals had already pitted, dropping him down the order after ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/pole-sitter-louis-foster-crashes-out-of-markham-indycar-race/10846728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg"
+        "https://cdn-6.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1190,9 +1445,9 @@
       "title": "Pole-sitter Louis Foster crashes out of Markham IndyCar race",
       "summary": "Louis Foster chances for his first IndyCar Series win came to an abrupt end near the halfway point of the Ontario Honda Dealers Indy at Markham. After starting on pole, the 23-year-old Briton was out front and in control of the 90-lap race. An untimely caution during the pit cycle caught Foster before he had stopped, while several rivals had already pitted, dropping him down the order after ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/pole-sitter-louis-foster-crashes-out-of-markham-indycar-race/10846728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg"
+        "https://cdn-6.motorsport.com/images/amp/2y7QZEo6/s6/foster-crash.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -1221,14 +1476,14 @@
       "title": "Pascal Wehrlein: Jaguar wanted to \"destroy my race” in controversial London finale",
       "summary": "Pascal Wehrlein has accused Jaguar rival Antonio Felix da Costa of conspiring against him to “destroy my race” and “ruin my championship” in a contentious Formula E season finale on Sunday. The German was crowned the 2025-26 champion after beating Jake Dennis and Mitch Evans in the London double header. But tensions flared up as both Porsche and Jaguar deployed team tactics to support ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/pascal-wehrlein-jaguar-wanted-to-destroy-my-race-in-controversial-london-finale/10846723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg",
+        "https://cdn-9.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
         "https://cdn-3.motorsport.com/images/amp/6zoDlaw0/s1000/pascal-wehrlein-porsche-formul.webp",
         "https://cdn.motorsport.com/images/amp/YE9EMDPY/s2/pascal-wehrlein-porsche-formul.jpg",
         "https://cdn-2.motorsport.com/images/usa/K6OwDN6a/s100/img1610267195-2-2.webp",
-        "https://cdn-2.motorsport.com/images/amp/0rVPQaW0/s300/antonio-felix-da-costa-jaguar-.webp"
+        "https://cdn-8.motorsport.com/images/amp/0rVPQaW0/s300/antonio-felix-da-costa-jaguar-.webp"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -1239,9 +1494,9 @@
       "title": "Pascal Wehrlein: Jaguar wanted to \"destroy my race” in controversial London finale",
       "summary": "Pascal Wehrlein has accused Jaguar rival Antonio Felix da Costa of conspiring against him to “destroy my race” and “ruin my championship” in a contentious Formula E season finale on Sunday. The German was crowned the 2025-26 champion after beating Jake Dennis and Mitch Evans in the London double header. But tensions flared up as both Porsche and Jaguar deployed team tactics to support ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/pascal-wehrlein-jaguar-wanted-to-destroy-my-race-in-controversial-london-finale/10846723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg"
+        "https://cdn-5.motorsport.com/images/amp/6zoDlaw0/s6/pascal-wehrlein-porsche-formul.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1265,9 +1520,9 @@
       "title": "Jake Dennis: \"Embarrassing\" how Pascal Wehrlein became Formula E champion",
       "summary": "Jake Dennis offered a very strong reaction to the 2025-26 Formula E title decider in London, claiming it’s \"embarrassing\" the way that Pascal Wehrlein won the world championship. The Porsche driver joined Jean-Eric Vergne as the only two-time Formula E champions after the most frantic season finale at the ExCeL, where team orders were a talking point throughout. It started on Saturday when ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/jake-dennis-embarrassing-how-pascal-wehrlein-became-formula-e-champion/10846726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YE9EMDPY/s6/pascal-wehrlein-porsche-formul.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YE9EMDPY/s6/pascal-wehrlein-porsche-formul.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YE9EMDPY/s6/pascal-wehrlein-porsche-formul.jpg",
+        "https://cdn-2.motorsport.com/images/amp/YE9EMDPY/s6/pascal-wehrlein-porsche-formul.jpg",
         "https://cdn-9.motorsport.com/images/usa/X0kxjPv2/s2/img1449340684-1.jpg",
         "https://cdn-3.motorsport.com/images/amp/YE9EMDPY/s1000/pascal-wehrlein-porsche-formul.webp",
         "https://cdn.motorsport.com/images/mgl/2dE7xD5Y/s1000/jake-dennis-andretti-formula-e.jpg",
@@ -1324,12 +1579,7 @@
       "url": "https://www.carscoops.com/2026/08/jlr-defender-stellantis-us-production/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/JP026_023WR2nftdrvph82h20dbtil3ce2lf2-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/JP026_023WR2nftdrvph82h20dbtil3ce2lf2-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Land_Rover-Defender_110-2020-HD-76ab97151c6625fbb05eb138533a405e25121636d-2048x1370.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/JP026_019WR3dm6vfrmjhh9gu9mfs4s7d6988-2048x1365.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Jeep-Cherokee-2048x1155.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/S24_2879_a3_rgb-copy-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/20230606_01_01-tybg-tv-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/JP026_023WR2nftdrvph82h20dbtil3ce2lf2-copy-1024x576.jpg"
       ],
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
@@ -1483,9 +1733,9 @@
       "title": "Mick Schumacher crashes out of Markham IndyCar race after strong start",
       "summary": "Mick Schumacher’s promising Markham IndyCar weekend ended with a crash during Sunday’s race. The RLL driver crashed without contact at Turn 4, clipping the inside wall as he was chasing down the lead pack. Update: After returning to the pits, Schumacher spoke to reporters and confirmed the incident was a driving error. \"We weren't even pushing hard. We had a really good car,\" said ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/indycar-markham-2026-mick-schumacher-retires-after-crash/10846719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg"
+        "https://cdn-3.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1496,9 +1746,9 @@
       "title": "Mick Schumacher crashes out of Markham IndyCar race after strong start",
       "summary": "Mick Schumacher’s promising Markham IndyCar weekend ended with a crash during Sunday’s race. The RLL driver crashed without contact at Turn 4, clipping the inside wall as he was chasing down the lead pack. Update: After returning to the pits, Schumacher spoke to reporters and confirmed the incident was a driving error. \"We weren't even pushing hard. We had a really good car,\" said ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/indycar-markham-2026-mick-schumacher-retires-after-crash/10846719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg"
+        "https://cdn-9.motorsport.com/images/amp/6lmAMEj0/s6/mick-schumacher-rahal-letterma-2.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -1542,19 +1792,6 @@
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-08-16T17:00:13+00:00"
-    },
-    {
-      "id": "9c4fdaabe41fc773",
-      "title": "Genesis G90 Review: Six-Figure Luxury At A Lower Price",
-      "summary": "The Genesis G90 starts at $94,195 and rivals the Mercedes-Benz S-Class with predictive air suspension and a 409 hp twin-turbo V6.",
-      "url": "https://www.topspeed.com/genesis-sedan-feels-like-six-figure-luxury-car/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/edited-2023-genesis-g90-original-3263-g90mia787.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/edited-2023-genesis-g90-original-3263-g90mia787.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-16T17:00:10+00:00"
     },
     {
       "id": "43df017c23da3fb2",
@@ -1614,19 +1851,6 @@
       "published": "2026-08-16T16:37:53+00:00"
     },
     {
-      "id": "70b1eb1e545bdcec",
-      "title": "The Inline-Four Touring Motorcycle That Makes 500-Mile Days Feel Easy",
-      "summary": "In a sea of superbike-derived sport-tourers, this Kawasaki boasts one of the most easy-going inline-four engines in the touring world",
-      "url": "https://www.topspeed.com/inline-four-touring-motorcycle-makes-500-mile-days-easy/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-kawasaki-versys-1100-base-model-top-view-in-studio.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-kawasaki-versys-1100-base-model-top-view-in-studio.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-16T16:31:10+00:00"
-    },
-    {
       "id": "ec7b5f64a485d4d7",
       "title": "1974 Porsche 911 Carrera Coupe 5-Speed",
       "summary": "This 1974 Porsche 911 Carrera coupe is one of 528 imported to the US for the model year, and it was specified in Black over Midnight leatherette upholstery with a rear spoiler, gold Carrera script on the doors, and equipment for California. The car has spent much of its life in the San Diego area and was acquired by the current owner in 2015. It is powered by a 2.7-liter flat-six mated to a five-speed manual transaxle and is equipped with 15″ Fuchs alloy wheels, Bilstein front shocks, front bucket seats, power windows, and a cassette radio. This mid-year 911 is now offered by the seller, a…",
@@ -1679,19 +1903,6 @@
       "published": "2026-08-16T16:25:00+00:00"
     },
     {
-      "id": "af63789aefd6dc16",
-      "title": "2000 Toyota Tacoma SR5 XtraCab TRD V6 4×4 5-Speed at No Reserve",
-      "summary": "This 2000 Toyota Tacoma SR5 XtraCab was sold new in Texas and spent time in New Mexico prior to the seller's acquisition in 2025. Finished in Lunar Mist Metallic over gray cloth, it is powered by a 3.4-liter 5VZ V6 linked with a five-speed manual transmission, a dual-range transfer case, and a locking rear differential. The truck rides on 15\" alloy wheels and is equipped with the TRD Off-Road package, a chrome grille and bumpers, a bed liner, a sliding rear window, a receiver hitch, power steering, an Alpine touchscreen stereo, a security system, cruise control, air conditioning, and power…",
-      "url": "https://bringatrailer.com/listing/2000-toyota-tacoma-56/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/2000_toyota_tacoma_2000_toyota_tacoma_8b1da0dd-dfb4-497c-8af6-bda246b40aa5-E1b5nS-27619-27620-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/2000_toyota_tacoma_2000_toyota_tacoma_8b1da0dd-dfb4-497c-8af6-bda246b40aa5-E1b5nS-27619-27620-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-16T16:20:17+00:00"
-    },
-    {
       "id": "98cc1b29877f56d5",
       "title": "Toyota Could Give The Prius A GR Sport Send-Off In 2027",
       "summary": "Japan’s sensible hybrid might bow out wearing GR badges, and Toyota already showed us how wild it could look",
@@ -1718,19 +1929,6 @@
       "published": "2026-08-16T16:11:08+00:00"
     },
     {
-      "id": "48f43397f71c69f2",
-      "title": "2013 Porsche Cayenne GTS",
-      "summary": "This 2013 Porsche Cayenne GTS is a triple-black SUV powered by a 4.8-liter V8 linked with an eight-speed Tiptronic S automatic transmission and a locking center differential. Equipment includes 21\" Cayenne SportEdition wheels, a panoramic sunroof, heated and ventilated front seats, Bose audio, Porsche Entry & Drive, and PCM with navigation. Recently acquired by the selling dealer, this Cayenne GTS has 117k miles and is now offered in New Jersey with the owner's manual, accessories, and a New York title.",
-      "url": "https://bringatrailer.com/listing/2013-porsche-cayenne-gts-93/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/DSC04683-1-scaled-copy-2026-07-28-bw9-69839.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/DSC04683-1-scaled-copy-2026-07-28-bw9-69839.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-16T16:10:20+00:00"
-    },
-    {
       "id": "bd67585d6c13f109",
       "title": "Ni Africa Twin, ni Transalp, la todoterreno-todoasfalto más esperada es japonesa y ya está aquí, aunque tardase más de lo previsto",
       "summary": "Es uno de los grandes lanzamientos - aunque no el único - de Honda este año. Con la gama más todoterreno de la casa dirigida por las aventureras Africa Twin y Transalp, los japoneses apuestan por un concepto con una filosofía viajera, pero asfáltica , que para más inri llega a lo más alto del catálogo tetracilíndrico de la marca. Una Honda CB1000GT que se convierte en la nueva incorporación de la gama de cuatro cilindros después del lanzamiento de la exótica Honda CB1000F en la que se apostaba por la filosofía deportiva, retro y urbana, convirtiéndose en una verdadera Hornet de estilo…",
@@ -1742,19 +1940,6 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-16T16:00:26+00:00"
-    },
-    {
-      "id": "5ad1857d696a461b",
-      "title": "Two-Piece Ferrari 550 Maranello Luggage Set by Schedoni at No Reserve",
-      "summary": "This two-piece luggage set was produced by Schedoni of Modena, Italy, for use in a Ferrari 550 Maranello and comprises two soft-sided bags in red leather with tan interior linings. Each piece features a prancing horse logo, leather handles, and polished hardware. These Ferrari 550 luggage pieces are now offered at no reserve in the Netherlands.",
-      "url": "https://bringatrailer.com/listing/luggage-199/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/tempImageDCLpfs-scaled-copy-2026-08-14-d0k-36318.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/tempImageDCLpfs-scaled-copy-2026-08-14-d0k-36318.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-16T16:00:16+00:00"
     },
     {
       "id": "e36374a352134ce7",
@@ -1785,19 +1970,6 @@
       ],
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
-      "published": "2026-08-16T16:00:00+00:00"
-    },
-    {
-      "id": "f1c957dc97cc6e3e",
-      "title": "Yesterday’s comments of note",
-      "summary": "A few of the comments that stood out to us yesterday: \"The Gumball Rally Cobra S/N 3243 had been stored for years until around 2013. Sitting next to it was a 289 Comp.Car. Both came back into the sunlight. https://www.themotorcarsociety.com/barn-find-cobra-s.html I have photos of CSX3243 in January of 2014 at the shop of an incredible Pebble Beach restoration mechanic and a dear friend. Chuck Bail really did it right using Daytona Spyder's, A/C Cobra's and recording sounds with Parabolic mikes. There will never be another. Sold my Spyder and…\" 21 Bambino commented on 1967 Shelby Cobra 427…",
-      "url": "https://bringatrailer.com/2026/08/16/yesterdays-comments-of-note-2542/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/12DSC_7734-Shelby_Cobra_-_1966_-_Blue_Web-scaled-78099.jpg?w=155&#38;h=105&#38;crop=1",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/12DSC_7734-Shelby_Cobra_-_1966_-_Blue_Web-scaled-78099.jpg?w=155&#38;h=105&#38;crop=1"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
       "published": "2026-08-16T16:00:00+00:00"
     },
     {
@@ -1851,19 +2023,6 @@
       "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-08-16T15:53:52+00:00"
-    },
-    {
-      "id": "86ac396c7d060194",
-      "title": "1996 Toyota Land Cruiser FZJ80",
-      "summary": "This 1996 Toyota Land Cruiser is powered by a 4.5-liter inline-six mated to a four-speed automatic transmission, a dual-range transfer case, and locking front, center, and rear differentials. It rides on 16\" Mickey Thompson wheels as well as an Old Man Emu suspension lift kit and is finished in Super White over beige leather. Equipment includes Nitro Gear 4.88:1 gears, an ARB front bumper and onboard air compressor, a Slee Off Road rear bumper and rock sliders, a Warn winch, a sunroof, and front and rear wind deflectors. Inside, the power-adjustable front seats are complemented by…",
-      "url": "https://bringatrailer.com/listing/1996-toyota-land-cruiser-fzj80-161/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1996_toyota_land-cruiser-fzj80_1996_toyota_land-cruiser-fzj80_b5ea8b2e-97fa-46d1-8deb-a981707dd9c4-d252V9-76421-76421-scaled-1-copy-2026-08-10-ig2-92880.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/1996_toyota_land-cruiser-fzj80_1996_toyota_land-cruiser-fzj80_b5ea8b2e-97fa-46d1-8deb-a981707dd9c4-d252V9-76421-76421-scaled-1-copy-2026-08-10-ig2-92880.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-16T15:50:23+00:00"
     },
     {
       "id": "a9bd76761f528ea3",
@@ -1936,19 +2095,6 @@
       "published": "2026-08-16T15:00:34+00:00"
     },
     {
-      "id": "af375d8cbb91a071",
-      "title": "Mazda CX-50 Reliability: The Best (And Worst) Model Years To Buy",
-      "summary": "Mazda's rugged little crossover is a value-for-money buy - but can you trust every model year to keep you on the road?",
-      "url": "https://carbuzz.com/mazda-cx-50-reliability/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/mazda-cx-50-4.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/mazda-cx-50-4.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-16T15:00:15+00:00"
-    },
-    {
       "id": "6f7bd626c3e49c3f",
       "title": "Exclusivo: andamos no Pagani Utopia Roadster, carro mais caro do Brasil",
       "summary": "Utopia, segundo o dicionário Michaelis, “é um plano ou sonho irrealizável; ideia generosa, porém impossível; fantasia”. Sentado no banco do passageiro do Pagani Utopia Roadster, e após uma volta rápida na encharcada pista do campo de provas da Pirelli, em Vizzola Ticino, em Milão (Itália), comecei a duvidar do verdadeiro sentido do verbete. Ou entendi o senso de humor de Horario Pagani ao escolher o nome de seu mais novo hipercarro. A facilidade do piloto de testes da Pagani, Matteo Bolondi, em controlar o esportivo, mesmo com o asfalto muito molhado, me fez acreditar que um supercarro…",
@@ -2015,9 +2161,9 @@
       "title": "Formula E London E-Prix: Pascal Wehrlein takes second title despite zero points in season finale",
       "summary": "Pascal Wehrlein has become the 2025-26 Formula E world champion despite finishing outside of the points in the London E-Prix as Taylor Barnard won the frantic season finale. The Porsche driver has now joined Jean-Eric Vergne as the all-electric championship’s only two-time series champions after Wehrlein took his first in the 2023-24 London finale. He took this year’s title despite ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/formula-e-london-e-prix-race-2-report-/10846699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -2028,9 +2174,9 @@
       "title": "Formula E London E-Prix: Pascal Wehrlein takes second title despite zero points in season finale",
       "summary": "Pascal Wehrlein has become the 2025-26 Formula E world champion despite finishing outside of the points in the London E-Prix as Taylor Barnard won the frantic season finale. The Porsche driver has now joined Jean-Eric Vergne as the all-electric championship’s only two-time series champions after Wehrlein took his first in the 2023-24 London finale. He took this year’s title despite ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/formula-e-london-e-prix-race-2-report-/10846699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YBVjrgJY/s6/pascal-wehrlein-porsche-formul-2.jpg"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -2053,19 +2199,6 @@
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
       "published": "2026-08-16T14:45:21+00:00"
-    },
-    {
-      "id": "d87394436ad0f5e7",
-      "title": "The Man Who Steered Toyota Toward Hybrid Dominance Has Passed Away",
-      "summary": "Beyond backing the Prius in the 1990s, Hiroshi Okuda bet big on overseas plants and helped double US sales.",
-      "url": "https://carbuzz.com/hiroshi-okuda-toyota-obituary-august-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2023-2026-toyota-prius-11.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2023-2026-toyota-prius-11.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-16T14:30:15+00:00"
     },
     {
       "id": "d5594cc55cbe4733",
@@ -2200,19 +2333,6 @@
       "published": "2026-08-16T14:00:00+00:00"
     },
     {
-      "id": "22f0825c49b29fb8",
-      "title": "Lamborghini’s Legendary V12 Once Powered Racing Boats",
-      "summary": "Of course, Lambos are fast on land. But that's not all. The post Lamborghini’s Legendary V12 Once Powered Racing Boats appeared first on The Drive .",
-      "url": "https://www.thedrive.com/news/lamborghinis-legendary-v12-once-powered-racing-boats",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-2.09.00-PM.jpeg?quality=85",
-      "images": [
-        "https://www.thedrive.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-2.09.00-PM.jpeg?quality=85"
-      ],
-      "source": "The Drive",
-      "source_url": "https://www.thedrive.com",
-      "published": "2026-08-16T14:00:00+00:00"
-    },
-    {
       "id": "909250d301372564",
       "title": "2026 Jaecoo J5 EV Summit review",
       "summary": "This small electric SUV offers a lot for the price, but buyers in this segment have many other contenders to consider.",
@@ -2223,6 +2343,19 @@
       ],
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
+      "published": "2026-08-16T14:00:00+00:00"
+    },
+    {
+      "id": "22f0825c49b29fb8",
+      "title": "Lamborghini’s Legendary V12 Once Powered Racing Boats",
+      "summary": "Of course, Lambos are fast on land. But that's not all. The post Lamborghini’s Legendary V12 Once Powered Racing Boats appeared first on The Drive .",
+      "url": "https://www.thedrive.com/news/lamborghinis-legendary-v12-once-powered-racing-boats",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-2.09.00-PM.jpeg?quality=85",
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-2.09.00-PM.jpeg?quality=85"
+      ],
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
       "published": "2026-08-16T14:00:00+00:00"
     },
     {
@@ -2321,9 +2454,9 @@
       "title": "DTM Nurburgring: Wittmann wins for BMW after AMG meltdown",
       "summary": "The smiling winner of the second DTM race at the Nurburgring is Marco Wittmann: the Schubert BMW driver, who started from sixth on the grid, benefited from his rivals’ mistakes after the start and at the first pit stop to snatch his third DTM victory in the Eifel overall. \"A superb race,\" Wittmann said happily on ProSieben. \"A very wild race, especially in the early stages, but we were able ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/wittmann-wins-nurburgring-dtm-race-for-bmw-after-amg-meltdown/10846680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg"
+        "https://cdn-1.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -2373,9 +2506,9 @@
       "title": "Joey Logano is winning \"4 the haters\" amid 'Mickey Mouse champion' criticism",
       "summary": "Joey Logano has proven countless times throughout his career how dangerous it is to underestimate him, and yet, many still do. When the Team Penske star came out of nowhere to win the 2024 NASCAR Cup title, many were upset at the format for allowing him a driver with a 17.1 average finish to become champion. And while there's plenty to be said about the inherit issues with the now-defunct ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/joey-logano-is-doing-it-4-the-haters-and-doesnt-care-what-the-title-format-is/10846622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/YK15gyX0/s6/joey-logano-no-22-team-penske-.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/YK15gyX0/s6/joey-logano-no-22-team-penske-.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YK15gyX0/s6/joey-logano-no-22-team-penske-.jpg"
+        "https://cdn-3.motorsport.com/images/amp/YK15gyX0/s6/joey-logano-no-22-team-penske-.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -2430,14 +2563,14 @@
       "title": "Honda reveals timeline to become a \"top competitor\" in F1 again",
       "summary": "The first months of Honda's partnership with Aston Martin have been downright painful, but the Japanese manufacturer is now looking ahead again. Honda’s F1 project looks completely different from its glory years with Red Bull in terms of personnel, which led Honda to realise in January that the start of this new era would be problematic – even more problematic than expected, as general ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/honda-reveals-timeline-to-become-a-top-competitor-in-f1-again/10846301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg",
-        "https://cdn-9.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
-        "https://cdn-3.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-9.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
-        "https://cdn-3.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-5.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
+        "https://cdn-1.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg",
+        "https://cdn-5.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
+        "https://cdn-7.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-4.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
+        "https://cdn-6.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-2.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -2448,9 +2581,9 @@
       "title": "Honda reveals timeline to become a \"top competitor\" in F1 again",
       "summary": "The first months of Honda's partnership with Aston Martin have been downright painful, but the Japanese manufacturer is now looking ahead again. Honda’s F1 project looks completely different from its glory years with Red Bull in terms of personnel, which led Honda to realise in January that the start of this new era would be problematic – even more problematic than expected, as general ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/honda-reveals-timeline-to-become-a-top-competitor-in-f1-again/10846301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg"
+        "https://cdn-6.motorsport.com/images/amp/25d3qex0/s6/lance-stroll-aston-martin-raci-3.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -2667,6 +2800,22 @@
       "published": "2026-08-16T12:00:15+00:00"
     },
     {
+      "id": "7a31098325121fca",
+      "title": "Top of the Europa league: I've owned 14 examples of this rare Lotus",
+      "summary": "How to Europa correctly? There's one man who knows them better than anyone else Is John Rand the world’s most dedicated Lotus Europa owner? He’s owned 14 of them and loved each one. “My parents wouldn’t buy one for me so I bought my own, my first one, for my 21st birthday in 1975,” he says. “Mum and Dad were right to refuse me because I smashed it up the next day. I put it into a telegraph pole then had to learn how to work with fibreglass to repair it because I couldn't afford to have someone else do it. “Unfortunately, I kept clouting things with it. Subsequently, I decided why not buy a…",
+      "url": "https://www.autocar.co.uk/car-news/features/top-europa-league-ive-owned-14-examples-rare-lotus",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/lotus_europa_owner.jpg?itok=KKpBkkrp",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/lotus_europa_owner.jpg?itok=KKpBkkrp",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/lotus_europa_owner.jpg?itok=iuHMtl23",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/john-evans_1.jpg?itok=t63gtI6r"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-16T12:00:00+00:00"
+    },
+    {
       "id": "9455d1650175738e",
       "title": "Beautifully Unrestored: 1982 Porsche 930 Turbo",
       "summary": "The other day, a Porsche 911 of a certain desirable spec sold for over $1 million on a popular auction site. The buyer was all too happy to share that it will be joining a private collection where it... Read More »",
@@ -2706,19 +2855,6 @@
       "published": "2026-08-16T12:00:00+00:00"
     },
     {
-      "id": "fc74c710f7754e43",
-      "title": "Pole to de Vries for London Formula E title-decider",
-      "summary": "Nyck de Vries backed up his table-topping performance in final practice to take pole position for the Formula E season finale in London.",
-      "url": "https://racer.com/2026/08/16/pole-to-de-vries-for-london-formula-e-title-decider",
-      "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt083c6c86461d2f40/6a81a46bcbb9ed4f985402b0/GettyImages-2290698545.jpg?environment=live",
-      "images": [
-        "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt083c6c86461d2f40/6a81a46bcbb9ed4f985402b0/GettyImages-2290698545.jpg?environment=live"
-      ],
-      "source": "RACER",
-      "source_url": "https://www.racer.com",
-      "published": "2026-08-16T11:47:03+00:00"
-    },
-    {
       "id": "26233b47e459f25c",
       "title": "F1’s youngest world champions: Where do Hamilton, Verstappen, Alonso rank?",
       "summary": "Several of the current grid feature among some all-time greats.",
@@ -2732,31 +2868,18 @@
       "published": "2026-08-16T11:33:49+00:00"
     },
     {
-      "id": "51e836bb0d14831a",
-      "title": "The 2006 Suzuki Superbike That Still Out-Launches Ducati's 2026 Flagship",
-      "summary": "A brand-new, electronics-loaded Italian flagship just tried to beat a 20-year-old number. It came close, but not close enough.",
-      "url": "https://www.hotcars.com/2006-suzuki-superbike-that-still-out-launches-ducatis-2026-flagship/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2006-suzuki-gsx-r1000-8.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2006-suzuki-gsx-r1000-8.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-08-16T11:30:12+00:00"
-    },
-    {
       "id": "abff836cf3b9044b",
       "title": "F1 2026 mid-season grades: Mercedes' early dominance evaporates as reliability woes strike",
       "summary": "After four years in the doldrums with a tough to tame ground-effect car, Toto Wolff's Mercedes empire was desperate to strike back. The combined efforts of its chassis team in Brackley and its power unit division in Brixworth came up with a rocket ship, but enduring reliability problems are taking its grade down to A-. The good Mercedes came out of winter test as the odds-on favourite for ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike/10846644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg",
-        "https://cdn-2.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-8.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
-        "https://cdn-4.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-4.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp",
-        "https://cdn-3.motorsport.com/images/amp/0rVPQaW0/s200/antonio-felix-da-costa-jaguar-.webp"
+        "https://cdn-5.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg",
+        "https://cdn-5.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
+        "https://cdn-7.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-1.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
+        "https://cdn-7.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-7.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -2767,9 +2890,9 @@
       "title": "F1 2026 mid-season grades: Mercedes' early dominance evaporates as reliability woes strike",
       "summary": "After four years in the doldrums with a tough to tame ground-effect car, Toto Wolff's Mercedes empire was desperate to strike back. The combined efforts of its chassis team in Brackley and its power unit division in Brixworth came up with a rocket ship, but enduring reliability problems are taking its grade down to A-. The good Mercedes came out of winter test as the odds-on favourite for ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike/10846644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YN7v3Oe6/s6/team-report-card-mercedes.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -2993,9 +3116,9 @@
       "title": "DTM Nurburgring: ‘Mamba’ bites with pole as Thiim hits back",
       "summary": "Day of revenge in the DTM at the Nurburgring: Winward-Mercedes driver Jules Gounon, who has had a difficult season so far, secured his first pole of the season in Sunday qualifying in just under 20 degrees and with initial fog. The Frenchman even set a new lap record with 1:25.062, the previous mark having been held by Mirko Bortolotti from 2023 (1:25.118). McLaren youngster Ben Dorr finished ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/dtm-nurburgring-qualifying-2-mamba-bites-as-thiim-hits-back/10846639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/jYNKbx46/s6/dtm-qualifying-nuerburgring-2-mamba-beisst-zu-thiim-schlaegt-zurueck-26081602.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/jYNKbx46/s6/dtm-qualifying-nuerburgring-2-mamba-beisst-zu-thiim-schlaegt-zurueck-26081602.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/jYNKbx46/s6/dtm-qualifying-nuerburgring-2-mamba-beisst-zu-thiim-schlaegt-zurueck-26081602.jpg"
+        "https://cdn-3.motorsport.com/images/amp/jYNKbx46/s6/dtm-qualifying-nuerburgring-2-mamba-beisst-zu-thiim-schlaegt-zurueck-26081602.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3348,14 +3471,14 @@
       "title": "The best drives of the 2026 F1 season so far, according to our writers",
       "summary": "Formula 1’s competitive order was shaken up in 2026 with the roll out of sweeping new regulations across the chassis, aerodynamics and power units. Mercedes came out on top, with it now leading the constructors’ standings and Kimi Antonelli is on top in the drivers’ championship. But the team hasn’t been bulletproof this year, and strong performances from drivers up and down the grid ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/sun-the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg",
-        "https://cdn-2.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
-        "https://cdn-9.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-3.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
-        "https://cdn-3.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-2.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
+        "https://cdn-3.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg",
+        "https://cdn-5.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
+        "https://cdn-7.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-1.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
+        "https://cdn-7.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-7.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -3366,9 +3489,9 @@
       "title": "The best drives of the 2026 F1 season so far, according to our writers",
       "summary": "Formula 1’s competitive order was shaken up in 2026 with the roll out of sweeping new regulations across the chassis, aerodynamics and power units. Mercedes came out on top, with it now leading the constructors’ standings and Kimi Antonelli is on top in the drivers’ championship. But the team hasn’t been bulletproof this year, and strong performances from drivers up and down the grid ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/sun-the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg"
+        "https://cdn-4.motorsport.com/images/amp/68VWZKG2/s6/lewis-hamilton-ferrari-max-ver.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3690,6 +3813,24 @@
       "published": "2026-08-16T06:00:04+00:00"
     },
     {
+      "id": "4e7dfe388238cfeb",
+      "title": "Horse reveals methanol-powered range-extender for electric cars",
+      "summary": "Horse D20 uses clever motor tech and an extremely efficient methanol-burning engine to slash emissions Alternative powertrain progress may have swung inexorably in favour of BEVs, but there's a big wide world out there where liquid fuels are still in demand. This month, Toyota, BMW and Repsol began a pilot scheme in Spain to demonstrate how existing vehicles can run exclusively on Repsol's fully renewable petrol, Nexa 95. Bosch is also a collaborator in the project, contributing its 'digital fuel tracking solution'. Liquid fuel is big in China, but rather than petrol or diesel we're…",
+      "url": "https://www.autocar.co.uk/car-news/technology/horse-reveals-methanol-powered-range-extender-electric-cars",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=cNAQPuHB",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_desktop_v1.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_mobile_v1-01.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-17813-profile_photo.jpg?itok=fg8_XCcL"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-16T06:00:00+00:00"
+    },
+    {
       "id": "54e1946949349281",
       "title": "Carlos Sainz padre pone a prueba el Madring subido en un Ford Mustang GTD de 800 CV: \"El circuito tiene mucha mucha tela\"",
       "summary": "La leyenda del Dakar se sube a un deportivo de la firma del óvalo para probar a fondo el nuevo circuito madrileño de Fórmula 1.",
@@ -3781,13 +3922,29 @@
       "published": "2026-08-16T05:00:03+00:00"
     },
     {
+      "id": "775c20eec9330592",
+      "title": "What Alpina did next: How Bovensiepen will keep building ultimate BMWs",
+      "summary": "BMW has taken control of Alpina, so what's next for the family that established the name? Andreas Bovensiepen sweeps into a deserted canteen at the Salzburgring, six minutes late for our interview. I'd planned to hit him with some pithy enquiry as to the emotional toll of flogging the company his father Burkard founded, but he triggers a vibe-shift. He reports, with some relish, that the Bovensiepen Zagato he's just leapt out of nailed 265kph on the back straight. This makes it as quick as the slick-shod B6 GT3 they used to hammer here at Alpina events, he continues almost to himself,…",
+      "url": "https://www.autocar.co.uk/car-news/features/what-alpina-did-next-how-bovensiepen-will-keep-building-ultimate-bmws",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=LFCKdUf3",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/luc_bbdc_2021_0191_1.jpg?itok=NLojxMzB"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-16T05:00:00+00:00"
+    },
+    {
       "id": "4368cb2a46fa88d8",
       "title": "Dale Earnhardt's grandson Wyatt Miller flips wildly in crash, but drives away",
       "summary": "At Bark River International Raceway on Saturday afternoon, Wyatt Miller was driving a Pro Spec truck in the Championship Off-Road Series. The 14-year-old grandson of NASCAR's greatest icon, Dale Earnhardt Sr., (and nephew of Dale Earnhardt Jr.) was running third when his truck bit into a rut at a fast right-hander, and it quickly rolled. The No. 73 Chevrolet rotated three times in the dramatic ... Keep reading",
       "url": "https://www.motorsport.com/general/news/dale-earnhardts-grandson-wyatt-miller-goes-for-wild-rollover-crash-but-keeps-going/10846616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/2QedwXO2/s6/wyatt-flip.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/2QedwXO2/s6/wyatt-flip.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/2QedwXO2/s6/wyatt-flip.jpg"
+        "https://cdn-1.motorsport.com/images/amp/2QedwXO2/s6/wyatt-flip.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3824,9 +3981,9 @@
       "title": "Denny Hamlin breaks down pit struggles that cost No. 11 team",
       "summary": "Denny Hamlin's homecoming weekend and Richmond Raceway unfortunately didn't end in victory lane. The No. 11 team battled for a fourth-place finish with a blistering final stretch on the track, but two brutal pit stops made it impossible for Hamlin to ever truly contend for the race win against the top duo of Joey Logano and Chase Briscoe. Hamlin explained his team's struggle in the pit lane ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/denny-hamlin-breaks-down-pit-struggles-that-cost-no-11-team/10846614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6AlvzMqY/s6/denny-hamlin-no-11-joe-gibbs-r.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/6AlvzMqY/s6/denny-hamlin-no-11-joe-gibbs-r.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6AlvzMqY/s6/denny-hamlin-no-11-joe-gibbs-r.jpg"
+        "https://cdn-7.motorsport.com/images/amp/6AlvzMqY/s6/denny-hamlin-no-11-joe-gibbs-r.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3850,9 +4007,9 @@
       "title": "Shane van Gisbergen falls to Chase bubble but actually gains ground at Richmond",
       "summary": "Shane Van Gisbergen started Saturday's NASCAR Cup race at Richmond outside the top 30 in the running order. With Austin Cindric ended up having his best run of the 2026 season, it was looking as if the three-time Supercars champion was in for a rough night. However, SVG actually left Richmond three points further up from the cut-line than he was at the start of the 400-lap race ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/shane-van-gisbergen-falls-to-chase-bubble-but-actually-gains-ground-at-richmond/10846612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/63QakDq2/s6/shane-van-gisbergen-trackhouse.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/63QakDq2/s6/shane-van-gisbergen-trackhouse.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/63QakDq2/s6/shane-van-gisbergen-trackhouse.jpg"
+        "https://cdn-8.motorsport.com/images/amp/63QakDq2/s6/shane-van-gisbergen-trackhouse.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3889,9 +4046,9 @@
       "title": "Austin Cindric: Richmond was the 'kick in the ass' we needed",
       "summary": "It was a big night for Team Penske at Richmond Raceway on Saturday, with Joey Logano taking the checkered flag and Austin Cindric finishing in third. Cindric was in need of a strong showing, coming off of a 29th-place showing in Iowa and not having secured a top-10 finish since May. With the No. 2 car sitting on the bubble of the Chase standings in 16th place heading into the race, there was ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/austin-cindric-richmond-was-the-kick-in-the-ass-we-needed/10846610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YvKBbev6/s6/joey-logano-rigjt-and-teammate.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YvKBbev6/s6/joey-logano-rigjt-and-teammate.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YvKBbev6/s6/joey-logano-rigjt-and-teammate.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YvKBbev6/s6/joey-logano-rigjt-and-teammate.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3928,9 +4085,9 @@
       "title": "Christopher Bell says finish was 'better than we deserved' after Richmond gamble",
       "summary": "Christopher Bell was clearly tired of coming in second place. Heading into the final long run at Richmond Raceway on Saturday night, Bell and Tyler Reddick were the only two cars in contention to run an alternate strategy, attempting to close out the race on one stop while the rest of the leaders planned for two. It did not work out. While Bell briefly led as the leaders took their extra ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/christopher-bell-says-finish-was-better-than-we-deserved-after-richmond-gamble/10846608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0qgKAmwY/s6/christopher-bell-no-20-joe-gib.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0qgKAmwY/s6/christopher-bell-no-20-joe-gib.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0qgKAmwY/s6/christopher-bell-no-20-joe-gib.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0qgKAmwY/s6/christopher-bell-no-20-joe-gib.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3941,9 +4098,9 @@
       "title": "Complete NASCAR Cup points standings after Richmond 2026",
       "summary": "With just two races left before the Chase reset, Denny Hamlin holds a 115-point lead in the championship. After the reset, it will be reduced to just 25 over whoever is second. After Richmond, that driver is now Ryan Blaney, who jumped back ahead of Ty Gibbs. The biggest mover in the standings was easily Joey Logano, rocketing up four positions to ninth after winning the Cup race at Richmond ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/complete-nascar-cup-points-standings-after-richmond-2026/10846606/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0R7B5yV2/s6/chase-briscoe-joe-gibbs-racing.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0R7B5yV2/s6/chase-briscoe-joe-gibbs-racing.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0R7B5yV2/s6/chase-briscoe-joe-gibbs-racing.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0R7B5yV2/s6/chase-briscoe-joe-gibbs-racing.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4009,9 +4166,9 @@
       "title": "Chase Briscoe 'frustrated' after second-place finish at Richmond",
       "summary": "Joey Logano held off a late charge from Chase Briscoe through the final laps at Richmond Raceway on Saturday night to take the checkered flag. Briscoe had been the most dominant car on the track for most of the night, leading for 171 of 400 laps, but a strong long run from Logano in the third stage flipped the lead late in the race. Briscoe closed the gap all the way up to the finish, but was ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/chase-briscoe-frustrated-after-second-place-finish-at-richmond/10846601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/2GdKmBVY/s6/chase-briscoe-no-19-joe-gibbs--2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/2GdKmBVY/s6/chase-briscoe-no-19-joe-gibbs--2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/2GdKmBVY/s6/chase-briscoe-no-19-joe-gibbs--2.jpg"
+        "https://cdn-4.motorsport.com/images/amp/2GdKmBVY/s6/chase-briscoe-no-19-joe-gibbs--2.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4144,9 +4301,9 @@
       "title": "Louis Foster drove “with a bit of rage” in Fast Six en route to Markham IndyCar pole",
       "summary": "Sometimes pure frustration is the best fuel in racing. After an execution misstep almost knocked him out in the Round of 12, ending up in the final transfer spot by 0.0770s to be exact, Louis Foster channeled his frustration into an unbeatable final run to capture pole position for the inaugural Ontario Honda Dealers Indy at Markham. Driving the #45 Rahal Letterman Lanigan Racing (RLL)Honda ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/louis-foster-drove-with-a-bit-of-rage-in-fast-six-en-route-to-markham-indycar-pole/10846590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/YXyKmjo6/s6/louis-foster-rahal-letterman-l-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/YXyKmjo6/s6/louis-foster-rahal-letterman-l-2.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/YXyKmjo6/s6/louis-foster-rahal-letterman-l-2.jpg"
+        "https://cdn-7.motorsport.com/images/amp/YXyKmjo6/s6/louis-foster-rahal-letterman-l-2.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -4183,9 +4340,9 @@
       "title": "Alex Palou crashes in Markham qualifying after rare IndyCar mistake",
       "summary": "Reigning and four-time IndyCar Series champion Alex Palou experienced a rare qualifying mistake and crashed out during qualifying for the Ontario Honda Dealers Indy at Markham on Saturday. The 29-year-old Spaniard, who leads the 2026 IndyCar standings, was caught out during the second segment of qualifying around the newly constructed 12-turn, 2.19-mile temporary street circuit. With ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-crashes-in-markham-qualifying-after-rare-indycar-mistake/10846587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YMXbVlL2/s6/alex-palou-chip-ganassi-racing.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -4222,9 +4379,9 @@
       "title": "IndyCar Markham starting lineup: Louis Foster storms to pole as Alex Palou crashes",
       "summary": "Louis Foster surged late in qualifying to claim pole for the inaugural Ontario Honda Dealers Indy at Markham. Driving the #45 Rahal Letterman Lanigan Racing Honda, the 23-year-old Briton produced a 1m13.2383s lap to take pole around the 12-turn, 2.19-mile temporary street circuit. It marks just the second pole of his career, and first since his last season at Road America. “Well, it's ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/indycar-markham-starting-lineup-louis-foster-storms-to-markham-indycar-pole-as-alex-palou-crashes/10846570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/01QNKXv0/s6/louis-foster-rahal-letterman-l.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/01QNKXv0/s6/louis-foster-rahal-letterman-l.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/01QNKXv0/s6/louis-foster-rahal-letterman-l.jpg"
+        "https://cdn-4.motorsport.com/images/amp/01QNKXv0/s6/louis-foster-rahal-letterman-l.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -4294,19 +4451,6 @@
       ],
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
-      "published": "2026-08-15T23:00:00+00:00"
-    },
-    {
-      "id": "e4256337e55b4cff",
-      "title": "One-Family Owned: 1957 Buick Century",
-      "summary": "It’s anybody’s guess what the percentage of 69-year-old vehicles have remained in the same family since brand new. I’m sure it’s in the low single-digits. Well, here’s one of those rare vehicles that’s been in the same family since... Read More »",
-      "url": "https://barnfinds.com/one-family-owned-1957-buick-century-hardtop/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/image-20-e1786844440790-630x390.jpeg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/image-20-e1786844440790-630x390.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-08-15T23:00:00+00:00"
     },
     {
@@ -4514,9 +4658,9 @@
       "title": "Will Power crashes hard in second IndyCar Markham practice",
       "summary": "Will Power became the first driver to crash at the inaugural Ontario Honda Dealers Indy at Markham, bringing out a red flag late in Saturday’s second practice session. The Aussie was rolling around the newly-constructed 2.19-mile, 12-turn temporary street circuit when he ended up off-line in Turn 10 and clipped the right side of his #26 Andretti Global Honda into the tire barriers. The ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/will-power-crashes-hard-in-second-indycar-markham-practice/10846566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YpbAx9X0/s6/26willpowercrash.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YpbAx9X0/s6/26willpowercrash.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YpbAx9X0/s6/26willpowercrash.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YpbAx9X0/s6/26willpowercrash.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -4560,6 +4704,24 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-08-15T19:05:00+00:00"
+    },
+    {
+      "id": "aab361632b5bdfb6",
+      "title": "2026 Corkscrew Hillclimb at Monterey Motorsports Pre-Reunion",
+      "summary": "The Monterey Motorsports Pre-Reunion roared to life Saturday at WeatherTech Raceway Laguna Seca, with a full slate of practice and qualifying sessions featuring many of the world’s finest historic race cars ahead of the first two races of Monterey Car Week on Sunday. Saturday’s action culminated with one of the weekend’s most anticipated traditions: the Corkscrew Hillclimb. Held just once a year, the event sends competitors racing uphill through Laguna Seca’s legendary Corkscrew, reversing the usual direction on one of […] The post 2026 Corkscrew Hillclimb at Monterey Motorsports…",
+      "url": "https://sportscardigest.com/2026-corkscrew-hillclimb-at-monterey-motorsports-pre-reunion/",
+      "image": "https://sportscardigest.com/wp-content/uploads/2026/08/2026-Corkscrew-HillClimb-031-e1786388962756.jpg",
+      "images": [
+        "https://sportscardigest.com/wp-content/uploads/2026/08/2026-Corkscrew-HillClimb-031-e1786388962756.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/10/2026-Corkscrew-HillClimb-028-1536x1229.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/2026-Corkscrew-HillClimb-001-1536x1229.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/2026-Corkscrew-HillClimb-025-1536x1229.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/2026-Corkscrew-HillClimb-032-1536x1229.jpg",
+        "https://sportscardigest.com/wp-content/uploads/2026/08/2026-Corkscrew-HillClimb-009-1536x1229.jpg"
+      ],
+      "source": "Sports Car Digest",
+      "source_url": "https://www.sportscardigest.com",
+      "published": "2026-08-15T18:58:37+00:00"
     },
     {
       "id": "cab5b03479e50f43",
@@ -4631,9 +4793,9 @@
       "title": "Pascal Wehrlein responds to Porsche’s team tactics after dominant London win",
       "summary": "Pascal Wehrlein has defended Porsche’s use of team tactics to aid his victory in Saturday’s London E-Prix and strengthen his bid for the 2025-26 Formula E title. Wehrlein converted pole position into a dominant win in the penultimate race of the season, jumping from third to first in the drivers’ standings in the process. While the German was rapid throughout the day, his chances of a ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/pascal-wehrlein-responds-to-porsches-team-tactics-after-dominant-london-win/10846550/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/24QGNZeY/s6/pascal-wehrlein-porsche-formul.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/24QGNZeY/s6/pascal-wehrlein-porsche-formul.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/24QGNZeY/s6/pascal-wehrlein-porsche-formul.jpg"
+        "https://cdn-4.motorsport.com/images/amp/24QGNZeY/s6/pascal-wehrlein-porsche-formul.jpg"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -4646,14 +4808,9 @@
       "url": "https://www.carscoops.com/2026/08/chevrolet-silverado-zr2-review/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/tbg-fdbvg-f-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/tbg-fdbvg-f-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-ZR2-for-Carscoops-by-Stephen-Rivers-80-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-ZR2-for-Carscoops-by-Stephen-Rivers-66-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-ZR2-for-Carscoops-by-Stephen-Rivers-8-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-ZR2-for-Carscoops-by-Stephen-Rivers-9-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-ZR2-for-Carscoops-by-Stephen-Rivers-59-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/tbg-fdbvg-f-1024x576.jpg"
       ],
-      "source": "CarScoops Chevy",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-15T17:43:00+00:00"
     },
@@ -4675,9 +4832,9 @@
       "title": "“It’s typical of my luck” - Mitch Evans after VSC and “extreme” Porsche “games” in London",
       "summary": "Mitch Evans reckons the ill-timed virtual safety car was “typical of my luck” in race one of the London E-Prix, after Porsche’s “extreme games” already compromised his Formula E title chances on Saturday. The factory Jaguar driver could only manage an eighth-place finish at the ExCeL after starting third on the grid, while title rival Pascal Wehrlein converted pole position into a ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/its-typical-of-my-luck-mitch-evans-after-vsc-and-extreme-porsche-games-in-london/10846548/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0kZXyND6/s6/mitch-evans-jaguar-tcs-racing.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0kZXyND6/s6/mitch-evans-jaguar-tcs-racing.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0kZXyND6/s6/mitch-evans-jaguar-tcs-racing.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0kZXyND6/s6/mitch-evans-jaguar-tcs-racing.jpg"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -4701,9 +4858,9 @@
       "title": "David Malukas hails new Markham IndyCar circuit as “a blast”",
       "summary": "After Friday’s on-track activities were cancelled, compressing the IndyCar Series schedule into a busy Saturday, 24-year-old David Malukas emerged sixth fastest in opening practice for the inaugural Ontario Honda Dealers Indy at Markham. The 24-year-old, currently sitting third in championship points, clocked a 1m15.3298s lap around the new 12-turn, 2.19-mile temporary street ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-hails-new-markham-indycar-circuit-as-a-blast/10846545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/6zoDMdl0/s6/david-malukas-team-penske.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6zoDMdl0/s6/david-malukas-team-penske.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/6zoDMdl0/s6/david-malukas-team-penske.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6zoDMdl0/s6/david-malukas-team-penske.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -4914,9 +5071,9 @@
       "title": "Formula E London E-Prix: Pascal Wehrlein dominates race one to take championship lead",
       "summary": "Pascal Wehrlein dominated the opening race of the London E-Prix weekend to grab the Formula E championship lead ahead of Sunday’s title decider. The factory Porsche driver won by six seconds ahead of erstwhile points leader Jake Dennis for Andretti with Jaguar’s Antonio Felix da Costa completing the podium at the tight ExCeL Arena. It leaves Wehrlein five points ahead of second-placed ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/formula-e-london-e-prix-race-report-/10846527/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/YE9EMBKY/s6/pascal-wehrlein-porsche-formul-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/YE9EMBKY/s6/pascal-wehrlein-porsche-formul-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/YE9EMBKY/s6/pascal-wehrlein-porsche-formul-2.jpg"
+        "https://cdn-3.motorsport.com/images/amp/YE9EMBKY/s6/pascal-wehrlein-porsche-formul-2.jpg"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -5097,8 +5254,21 @@
         "https://hips.hearstapps.com/hmg-prod/images/0111d019-2cd1-4e95-abb1-9ec14941ec76.jpg?crop=0.935xw:0.421xh;0.017xw",
         "https://hips.hearstapps.com/hmg-prod/images/4921e757-4cec-4389-8640-ac62c69a8e40.jpg?crop=1xw:0.849xh;0xw"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-15T14:00:00+00:00"
+    },
+    {
+      "id": "a1202dabb8d43840",
+      "title": "2026 Nissan Z Heritage Edition review",
+      "summary": "Nissan has dusted off a special can of paint to give its old-school Z sports car some fresh sparkle. Has it paid off?",
+      "url": "https://www.carexpert.com.au/car-reviews/2026-nissan-z-heritage-edition-review",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-nissan-z-heritage-25.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2026-nissan-z-heritage-25.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
       "published": "2026-08-15T14:00:00+00:00"
     },
     {
@@ -5125,19 +5295,6 @@
       ],
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
-      "published": "2026-08-15T14:00:00+00:00"
-    },
-    {
-      "id": "a1202dabb8d43840",
-      "title": "2026 Nissan Z Heritage Edition review",
-      "summary": "Nissan has dusted off a special can of paint to give its old-school Z sports car some fresh sparkle. Has it paid off?",
-      "url": "https://www.carexpert.com.au/car-reviews/2026-nissan-z-heritage-edition-review",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2026-nissan-z-heritage-25.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2026-nissan-z-heritage-25.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
       "published": "2026-08-15T14:00:00+00:00"
     },
     {
@@ -5375,14 +5532,9 @@
       "url": "https://www.carscoops.com/2026/08/chevrolet-express-touchscreen/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Express-lead-Aug1026100001-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Express-lead-Aug1026100001-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Chevrolet-Express-MY26-Aug10260900007-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Chevrolet-Express-MY26-Aug10260900004-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Chevrolet-Express-MY26-Aug10260900001-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Chevrolet-Express-MY26-Aug10260900002-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Chevrolet-Express-MY26-Aug10260900003-2048x1153.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Express-lead-Aug1026100001-copy-1024x576.jpg"
       ],
-      "source": "CarScoops Chevy",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-15T12:28:00+00:00"
     },
@@ -5413,30 +5565,30 @@
       "published": "2026-08-15T12:00:18+00:00"
     },
     {
-      "id": "d3b4768033b48365",
-      "title": "Con 4x4 y un tamaño más compacto que el Nissan Qashqai, el SUV más todoterreno de Nissan es un todocamino perfecto para España",
-      "summary": "No podemos negarlo y Nissan debería haberse dado cuenta a estas alturas y haberlo empezado a remediar, pero el Nissan Juke ha perdido toda la fuerza que tuvo en su primera generación y el coche que acompaña estas líneas, ya sea en esta versión o en las convencionales, tiene todos los ingredientes para seguir con el éxito del Nissan Qashqai en Europa, que sí que sigue teniendo una gran aceptación gracias a un acertado precio . Se llama Nissan Kicks y la versión que da forma a la siguiente galería de imágenes se denomina Rock Creek . Se trata de una variante de estética más aventurera,…",
-      "url": "https://www.diariomotor.com/noticia/nissan-kicks-rock-creek/",
-      "image": "https://www.diariomotor.com/imagenes/2026/08/Nissan-Kicks-Rock-Creek-16-6a7f087caa683.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/08/Nissan-Kicks-Rock-Creek-16-6a7f087caa683.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-08-15T12:00:14+00:00"
-    },
-    {
       "id": "f311a5b7e72f6d6b",
       "title": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
       "summary": "Gabriel Bortoleto expects to remain at Audi for the long-term, stating that he has a deal with the Swiss-German Formula 1 outfit to cover the next few seasons. The Brazilian joined the team in 2025 for its final season as Sauber and scored 19 points in his rookie year, and across 2026 has scored 10 of Audi's 12 points. As it stands, he sits 14th in the championship - eight points behind Haas' ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/68VwQ842/s6/gabriel-bortoleto-audi-f1-team.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/68VwQ842/s6/gabriel-bortoleto-audi-f1-team.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/68VwQ842/s6/gabriel-bortoleto-audi-f1-team.jpg"
+        "https://cdn-9.motorsport.com/images/amp/68VwQ842/s6/gabriel-bortoleto-audi-f1-team.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
       "published": "2026-08-15T12:00:02+00:00"
+    },
+    {
+      "id": "d6fce40884c7471e",
+      "title": "My ultra-efficient Leapmotor C10 has got me out of the slow lane",
+      "summary": "Must you drive like a saint to get heavenly economy? This range-extender says not There I was, cruising along the inside lane of the M4 at my usual circa-65mph, congratulating myself on the energy I was saving, when another Leapmotor C10 , metallic green just like mine, steamed past in the overtaking lane, briskly dispatching all the quicker traffic as it went. It made me wonder what I was doing. I have been driving electric cars and plug-in hybrids most of the time for the past four years or so and have become used to easing along motorways in the inside lanes, telling myself (usually…",
+      "url": "https://www.autocar.co.uk/car-news/features/my-ultra-efficient-leapmotor-c10-has-got-me-out-slow-lane",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/autocar-leapmotor-c10-sc-lt-21.jpg?itok=gJDXXbQ-",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/autocar-leapmotor-c10-sc-lt-21.jpg?itok=gJDXXbQ-"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-15T12:00:00+00:00"
     },
     {
       "id": "78470a9d395c3523",
@@ -5482,9 +5634,9 @@
       "title": "Mercedes no longer needs Max Verstappen, says Guenther Steiner",
       "summary": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes' need to sign Max Verstappen has faded, suggesting the Brackley outfit has already found \"the next Max Verstappen\" in Kimi Antonelli. Verstappen's F1 future has been the subject of paddock rumours for some time, particularly with Red Bull struggling to keep up with Mercedes at the front of the grid in 2026. The Dutchman has ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/mercedes-no-longer-needs-max-verstappen-says-guenther-steiner/10846482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0arEMow2/s6/max-verstappen-red-bull-racing.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/0arEMow2/s6/max-verstappen-red-bull-racing.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0arEMow2/s6/max-verstappen-red-bull-racing.jpg"
+        "https://cdn-2.motorsport.com/images/amp/0arEMow2/s6/max-verstappen-red-bull-racing.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -5628,11 +5780,11 @@
       "image": "https://cdn-5.motorsport.com/images/amp/0JXRxXAY/s6/raul-fernandez-trackhouse-raci.jpg",
       "images": [
         "https://cdn-5.motorsport.com/images/amp/0JXRxXAY/s6/raul-fernandez-trackhouse-raci.jpg",
-        "https://cdn-1.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
-        "https://cdn-6.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-3.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
+        "https://cdn-6.motorsport.com/images/amp/YMXbVlL2/s200/alex-palou-chip-ganassi-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/25dLw5E0/s200/marcus-ericsson-andretti-globa.webp",
+        "https://cdn-9.motorsport.com/images/amp/6x7LAB8Y/s200/ontario-20honda-20dealers-20in.webp",
         "https://cdn-1.motorsport.com/images/amp/0R7B5Or2/s200/marcus-ericsson-andretti-globa.webp",
-        "https://cdn-7.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
+        "https://cdn-3.motorsport.com/images/amp/YpbAxJd0/s200/ontario-20honda-20dealers-20in-3.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -5821,9 +5973,9 @@
       "title": "Formula E nearly man Nick Cassidy \"sad\" he doesn't have a title",
       "summary": "Nick Cassidy revealed he’s “a bit sad” at not yet becoming a Formula E world champion and has been left ruing his inconsistent results in the 2025/26 campaign. The 31-year-old is a series stalwart with 12 victories from six seasons leaving him joint-fifth on the all-time wins list, alongside 30 podiums and eight pole positions. But the best he’s achieved is being a championship ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/formula-e-nearly-man-nick-cassidy-sad-at-not-having-a-title/10846453/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/6x7ZzWJY/s6/nick-cassidy-citroen-racing.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6x7ZzWJY/s6/nick-cassidy-citroen-racing.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/6x7ZzWJY/s6/nick-cassidy-citroen-racing.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6x7ZzWJY/s6/nick-cassidy-citroen-racing.jpg"
       ],
       "source": "Motorsport Formula E",
       "source_url": "https://www.motorsport.com",
@@ -5834,9 +5986,9 @@
       "title": "Max Verstappen pinpoints Red Bull's \"big priority\" for second half of F1 2026",
       "summary": "During Formula 1's summer break, Max Verstappen finds himself no fewer than 110 points behind championship leader Kimi Antonelli. Last season, the four-time world champion launched a spectacular comeback from Zandvoort onwards and finished on the podium in every grand prix during the second half of the season, but this time he is absolutely not expecting that scenario. Red Bull's problems ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/2jED5J90/s6/max-verstappen-red-bull-racing.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/2jED5J90/s6/max-verstappen-red-bull-racing.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/2jED5J90/s6/max-verstappen-red-bull-racing.jpg"
+        "https://cdn-9.motorsport.com/images/amp/2jED5J90/s6/max-verstappen-red-bull-racing.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -5878,9 +6030,9 @@
       "title": "George Russell still carries scars from 2020 Mercedes F1 call-up",
       "summary": "Mercedes Formula 1 driver George Russell has revealed he still carries scars on his hips from squeezing into seven-time champion Lewis Hamilton's race seat during his appearance for the Brackley outfit at the 2020 Sakhir Grand Prix. Russell, who was driving for Williams at the time, was called up to Mercedes for the penultimate race of 2020 after Hamilton tested positive for ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/george-russell-still-carries-scars-from-2020-mercedes-f1-call-up/10846449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/6VyKK4nY/s6/george-russell-mercedes.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/6VyKK4nY/s6/george-russell-mercedes.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/6VyKK4nY/s6/george-russell-mercedes.jpg"
+        "https://cdn-3.motorsport.com/images/amp/6VyKK4nY/s6/george-russell-mercedes.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -5924,19 +6076,6 @@
       "source": "GM Authority",
       "source_url": "https://gmauthority.com",
       "published": "2026-08-15T08:01:24+00:00"
-    },
-    {
-      "id": "3689b04fee244b59",
-      "title": "「実車マジかっけぇ！」「販売望むしかない」人気ゲーム『ゼンゼロ』仕様のヤマハバイクがSNSで話題に！",
-      "summary": "ヤマハ発動機と人気ゲーム『ゼンレスゾーンゼロ（以下『ゼンゼロ』）』のコラボバイクが7月31日、東京・秋葉原に降臨した。これに対し、SNS上では「かっこよすぎ」「販売望むしかない」など、注目が集まった。",
-      "url": "https://response.jp/article/2026/08/15/415288.html",
-      "image": "https://response.jp/imgs/rss/2235183.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2235183.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-08-15T08:00:03+00:00"
     },
     {
       "id": "54a319535497e2cc",
@@ -5991,17 +6130,17 @@
       "published": "2026-08-15T07:07:48+00:00"
     },
     {
-      "id": "7cc148da69187253",
-      "title": "生活道路の法定速度が30km/hへ、9月1日から引き下げ---ここまで影響アリ",
-      "summary": "生活道路を走る自動車の法定速度が、2026年9月1日から原則30km/hに引き下げられる。中央線などがない一般道路が対象で、現在の60km/hから半分の速度になる。",
-      "url": "https://response.jp/article/2026/08/15/415287.html",
-      "image": "https://response.jp/imgs/rss/2235041.jpg",
+      "id": "a2a7b2b145e27616",
+      "title": "Concours restorations? I prefer to save a banger on a budget",
+      "summary": "Barn find rescues are big business on Youtube - is it time to have a go at your own classic resurrection? The YouTube pros make it look so easy. One of my favourite channels is Vice Grip Garage, wherein charming Minnesotan mechanic Derek Bieri ventures into the undergrowth to extract long-forgotten classic cars, remove the rat nests, replace the requisite fuel lines and tyre stems and nurse them several hundred miles back to his ranch - often several decades since they last turned a wheel in anger. Customarily, he can take a rusted-out, moss-covered hunk of junk from abandoned to animated…",
+      "url": "https://www.autocar.co.uk/opinion/used-cars/concours-restorations-i-prefer-save-banger-budget",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/wil.jpg?itok=bmC6jp1n",
       "images": [
-        "https://response.jp/imgs/rss/2235041.jpg"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/wil.jpg?itok=bmC6jp1n"
       ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-08-15T07:00:03+00:00"
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-15T07:00:00+00:00"
     },
     {
       "id": "4b028287c32066bf",
@@ -6118,6 +6257,19 @@
       "published": "2026-08-15T06:00:58+00:00"
     },
     {
+      "id": "307ea9040fb3e145",
+      "title": "National Motor Museum confusion proves we need plain speaking",
+      "summary": "Conflicting comms and corporate jargon can miss the point and confuse the people who really care I didn't realise the National Motor Museum and the Beaulieu Estate were anything other than the same thing, and that was fine. In fact, I imagine that was part of the idea when the estate-owning Montagu family established a museum trust in 1972 to be responsible for the car collection housed there. This week we've learned they're not one and the same. Beaulieu doesn't own the National Motor Museum – at least not everything in it. Does that matter? To us it doesn't, but clearly it does to them.…",
+      "url": "https://www.autocar.co.uk/opinion/features/national-motor-museum-confusion-proves-we-need-plain-speaking",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ac-ww-22-beaulieu-behind-the-scenes-je-20220620_1378.jpg?itok=qFN7itB5",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ac-ww-22-beaulieu-behind-the-scenes-je-20220620_1378.jpg?itok=qFN7itB5"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-15T06:00:00+00:00"
+    },
+    {
       "id": "c5dbef533cb0f5b9",
       "title": "Las nuevas cámaras con IA de Cataluña ya han cazado a miles de conductores usando el móvil",
       "summary": "La implementación de cámaras de tráfico con IA identifica más de 8.500 casos solo en la prueba piloto.",
@@ -6168,6 +6320,19 @@
       "source": "CarWale IN",
       "source_url": "https://www.carwale.com",
       "published": "2026-08-15T05:20:17+00:00"
+    },
+    {
+      "id": "f5f587dd27b3ac04",
+      "title": "JCB Hydromax: inside the quest to set a 406mph hydrogen record",
+      "summary": "Andy Green's run to a hydrogen land speed record looked easy – but things weren't nearly that simple The Bonneville Salt Flats were named to recognise explorer Benjamin Bonneville. But to the special, wonderful breed of individuals drawn to this quiet corner of Utah to drive extreme vehicles as fast as they possibly can in a straight line, it’s simply known as The Salt. The definite article is used because The Salt isn’t simply the remnants of a long-dried up lake. It’s vast, otherworldly and barren yet simulteneously evocative and steeped in history. Hot, dry, exposed and, yes, very…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/jcb-hydromax-inside-quest-set-406mph-hydrogen-record",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jcb_action_1.jpg?itok=oZmoQdd2",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/jcb_action_1.jpg?itok=oZmoQdd2"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-15T05:00:00+00:00"
     },
     {
       "id": "e26b92dc7318cbb1",
@@ -6265,31 +6430,13 @@
       "title": "Frustration in Markham: IndyCar president calls out Green Savoree Promotions over delayed track build",
       "summary": "Delays completing the new Streets of Markham circuit have disrupted the inaugural Ontario Honda Dealers Indy, prompting IndyCar president J. Douglas Boles to publicly criticise event promoter Green Savoree Racing Promotions. Addressing the delays, IndyCar president J. Douglas Boles also offered a direct apology to fans on site. “IndyCar is incredibly disappointed that our promoter was ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/frustration-in-markham-indycar-president-boles-calls-out-green-savoree-promotions-over-delayed-trac/10846424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/2QedwgW2/s6/crowds-leave-markham-after-del-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/2QedwgW2/s6/crowds-leave-markham-after-del-2.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/2QedwgW2/s6/crowds-leave-markham-after-del-2.jpg"
+        "https://cdn-9.motorsport.com/images/amp/2QedwgW2/s6/crowds-leave-markham-after-del-2.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
       "published": "2026-08-14T23:02:09+00:00"
-    },
-    {
-      "id": "e8120913c967e01c",
-      "title": "Your Volvo Can Grade Your Driving For Cheaper Insurance Premiums, If You Let It",
-      "summary": "Built on real crash data, Volvo's new app rewards predictable driving and lands in the US after its Nordic debut",
-      "url": "https://www.carscoops.com/2026/08/volvo-safety-coach-app/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/New-Safety-Coach-app-helps-Volvo-drivers-build-safer-habits-and-lower-insurance-ratesNew-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/New-Safety-Coach-app-helps-Volvo-drivers-build-safer-habits-and-lower-insurance-ratesNew-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Volvo-Safety-Coach-App-01-2048x2012.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Volvo-Safety-Coach-App-03-2048x1984.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Volvo-Safety-Coach-App-05-2048x1838.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Volvo-Safety-Coach-App-02-2048x1674.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Volvo-Safety-Coach-App-06-2048x1152.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-14T22:22:00+00:00"
     },
     {
       "id": "02ecd317e55e036c",
@@ -6410,9 +6557,9 @@
       "title": "King Willem-Alexander to present F1 Dutch GP winner's trophy at Zandvoort",
       "summary": "King Willem-Alexander of the Netherlands will present the winner's trophy at the Dutch Grand Prix at Zandvoort. It will be his first 'official' visit to a sporting event in the Netherlands to present a prize. While King Willem-Alexander and Queen Máxima have attended the Dutch Grand Prix regularly since its return to the Formula 1 calendar in 2021, those prior appearances were made in a ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort/10846416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/24vxJ5e6/s6/max-verstappen-red-bull-racing.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/24vxJ5e6/s6/max-verstappen-red-bull-racing.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/24vxJ5e6/s6/max-verstappen-red-bull-racing.jpg"
+        "https://cdn-5.motorsport.com/images/amp/24vxJ5e6/s6/max-verstappen-red-bull-racing.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -6566,9 +6713,9 @@
       "title": "FOX Sports reveals broadcast team for inaugural Washington, D.C. IndyCar race",
       "summary": "FOX Sports has revealed its broadcast team for the Freedom 250 Grand Prix of Washington, D.C., on Sunday, 23 August. The race will mark IndyCar’s first event on the streets of the US capital as part of celebrations surrounding America’s 250th anniversary. The Race Call and Pit Lane Coverage FOX’s regular IndyCar commentary team of Will Buxton, Townsend Bell and James Hinchcliffe will ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/fox-sports-reveals-broadcast-team-for-inaugural-washington-indycar-race/10846408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/Y9lN7gA2/s6/will-buxton-danica-patrick-and-3.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/Y9lN7gA2/s6/will-buxton-danica-patrick-and-3.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/Y9lN7gA2/s6/will-buxton-danica-patrick-and-3.jpg"
+        "https://cdn-9.motorsport.com/images/amp/Y9lN7gA2/s6/will-buxton-danica-patrick-and-3.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -6653,7 +6800,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/b4ffccd0-6a4a-4103-9088-e6bef9c4fb59.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-14T19:15:00+00:00"
     },
@@ -6714,9 +6861,9 @@
       "title": "Track construction woes delay Markham IndyCar activities to Saturday",
       "summary": "The IndyCar Series’ highly anticipated debut on the Streets of Markham has hit a significant bump in the road. Preparations for the inaugural Ontario Honda Grand Prix of Markham remained incomplete on Friday, forcing officials to hold the opening track sessions. UPDATE: Although there was hope to have the track build sorted before the day was finished to have cars on track by 6pm ET, three ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/markham-indycar-debut-delayed-by-unfinished-track-construction/10846396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/2jEA7Gz0/s6/markham-track-construction-3.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/2jEA7Gz0/s6/markham-track-construction-3.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/2jEA7Gz0/s6/markham-track-construction-3.jpg"
+        "https://cdn-4.motorsport.com/images/amp/2jEA7Gz0/s6/markham-track-construction-3.jpg"
       ],
       "source": "Motorsport IndyCar",
       "source_url": "https://www.motorsport.com",
@@ -6749,7 +6896,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e56371e2-c56b-483f-bf53-df857f52a5a4.jpeg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-14T19:00:00+00:00"
     },
@@ -6764,6 +6911,32 @@
       ],
       "source": "Motorious",
       "source_url": "https://motorious.com",
+      "published": "2026-08-14T19:00:00+00:00"
+    },
+    {
+      "id": "f072c5a4faf7bfc0",
+      "title": "GMA S1: New Murray supercar is the McLaren F1 reborn for 2026",
+      "summary": "Toned-down take on S1 LM majors on long-distance refinement; keeps howling V12 and manual gearbox Gordon Murray has revealed the S1 as a modern-day tribute to his seminal McLaren F1 supercar. The latest limited-run creation from Gordon Murray Automotive's Special Vehicles division is a \"more touring-focused\" take on the S1 LM revealed last year. While that car took inspiration from the Le Mans-winning F1 GTR, this new arrival is pitched as a follow-up to the 250mph F1 road car. As such, it has been completely rebodied with less fearsome styling, \"optimised for mechanical grip, rather than…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/gma-s1-new-murray-supercar-mclaren-f1-reborn-2026",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/gmsv_s1_09.jpg?itok=yxDvhXYN",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/gmsv_s1_09.jpg?itok=yxDvhXYN"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-14T19:00:00+00:00"
+    },
+    {
+      "id": "2d844b9c50966470",
+      "title": "Defender Dakar racer goes road-legal as 626bhp limited edition",
+      "summary": "Rally-raid weapon hits the road as an extreme four-seater with wild chassis tech – and Flight mode The Defender Dakar racer is now available as a highly exclusive off-road supercar with a 626bhp V8, a desert-ready suspension package - and numberplates. The road-legal version of JLR's works Dakar Rally entry is an uprated version of the extreme Defender Octa , featuring a suite of upgrades used in the formidable D7X-R rally raider, which won the new Stock category of last year's event. Previewed by a concept at Monterey Car Week , the Defender Dakar rides on a hardcore specialist suspension…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/defender-dakar-racer-goes-road-legal-626bhp-limited-edition",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/l663_dakar_reveal_14082026_1.jpg?itok=hoX2s4bh",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/l663_dakar_reveal_14082026_1.jpg?itok=hoX2s4bh"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-14T19:00:00+00:00"
     },
     {
@@ -6835,180 +7008,6 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-08-14T18:00:45+00:00"
-    },
-    {
-      "id": "ba1ad293f446fb81",
-      "title": "New Porsche 911 Flachbau RS - pictures",
-      "summary": "Pictures of the Porsche 911 Flachbau RS",
-      "url": "https://www.autoexpress.co.uk/porsche/911/370221/new-porsche-911-flachbau-rs-pictures",
-      "image": "https://media.autoexpress.co.uk/image/private/s--3F-oaDcy--/t_rss_image_w_845/v1786704081/autoexpress/2026/08/Porsche%20911%20Flachbau%20RS%202026-7.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--3F-oaDcy--/t_rss_image_w_845/v1786704081/autoexpress/2026/08/Porsche%20911%20Flachbau%20RS%202026-7.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-08-14T18:00:40+00:00"
-    },
-    {
-      "id": "9e43b81a6ef9fd59",
-      "title": "New Lamborghini Revuelto SV 2026 - pictures",
-      "summary": "Pictures of the new Lamborghini Revuelto SV",
-      "url": "https://www.autoexpress.co.uk/lamborghini/revuelto/370216/new-lamborghini-revuelto-sv-2026-pictures",
-      "image": "https://media.autoexpress.co.uk/image/private/s--SxR-A9RM--/t_rss_image_w_845/v1786700524/autoexpress/2026/08/Lamborghini%20Revuelto%20SV%202026-16.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--SxR-A9RM--/t_rss_image_w_845/v1786700524/autoexpress/2026/08/Lamborghini%20Revuelto%20SV%202026-16.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-08-14T18:00:30+00:00"
-    },
-    {
-      "id": "23721d2362f2e1a5",
-      "title": "Lamborghini Revuelto SV is krachtigste Lamborghini ooit",
-      "summary": "De Lamborghini Revuelto is al van een compleet krankzinnige orde, maar traditioneel gezien is er altijd nog meer mogelijk met een topmodel van Lamborghini. Dat draagt ook nu de letters SV, van Super Veloce.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/lamborghini-revuelto-sv-is-krachtigste-lamborghini-ooit/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/276738871/width/800/276738871",
-      "images": [
-        "https://images.autoweek.nl/276738871/width/800/276738871"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-08-14T18:00:22+00:00"
-    },
-    {
-      "id": "3bdacf03edf18b19",
-      "title": "New Revuelto SV is the fastest and most intense Lamborghini ever",
-      "summary": "Revealed at Monterey Car Week, the 1,065hp Revuelto Super Veloce is Lamborghini’s new flagship supercar. Tim Pitt takes a detailed look The post New Revuelto SV is the fastest and most intense Lamborghini ever appeared first on Motoring Research .",
-      "url": "https://www.motoringresearch.com/car-news/new-lamborghini-revuelto-sv-revealed/",
-      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/08/8.jpg",
-      "images": [
-        "https://www.motoringresearch.com/wp-content/uploads/2026/08/8.jpg"
-      ],
-      "source": "Motoring Research",
-      "source_url": "https://www.motoringresearch.com",
-      "published": "2026-08-14T18:00:15+00:00"
-    },
-    {
-      "id": "f2bd3c7b4ba100e0",
-      "title": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination",
-      "summary": "Lamborghini Revuelto SV sharpens its hybrid V12 with revised aero, chassis tuning, and software changes aimed at higher cornering speeds on track.",
-      "url": "https://www.motor1.com/news/804953/lamborghini-revuelto-sv-track-focus/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWkby/s3/lamborghini-revuelto-sv.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/VzWkby/s3/lamborghini-revuelto-sv.jpg",
-        "https://cdn.motor1.com/images/mgl/pbJprv/s5/lamborghini-revuelto-sv.jpg",
-        "https://cdn.motor1.com/images/mgl/XBzpK9/s5/lamborghini-revuelto-sv.jpg",
-        "https://cdn.motor1.com/images/mgl/P3Bp9K/s5/lamborghini-revuelto-sv.jpg",
-        "https://cdn.motor1.com/images/mgl/40Y3zo/s5/lamborghini-revuelto-sv.jpg",
-        "https://cdn.motor1.com/images/mgl/Rqkp73/s5/lamborghini-revuelto-sv.jpg"
-      ],
-      "source": "Motor1 Lamborghini",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "9e32025f0a9dd486",
-      "title": "2027 Lamborghini Revuelto SV Gains More Power and Downforce",
-      "summary": "The Super Veloce moniker is back, honing Lamborghini's V-12 hybrid supercar into a track-ready toy with a new fixed rear wing and manually adjustable dampers.",
-      "url": "https://www.caranddriver.com/news/a73403892/2027-lamborghini-revuelto-sv-revealed/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/985a5e92-6f69-43ba-8030-08c645373f2a.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/985a5e92-6f69-43ba-8030-08c645373f2a.jpg"
-      ],
-      "source": "Car and Driver News",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "7bf52f5930099de5",
-      "title": "View Interior Photos of the 2027 Lamborghini Revuelto SV",
-      "summary": "Get an up-close look at the interior of the new 2027 Lamborghini Revuelto SV.",
-      "url": "https://www.caranddriver.com/photos/a73395546/2027-lamborghini-revuelto-sv-revealed-interior-gallery/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/8bcb1fbc-a40c-45f1-8596-c0da4287b242.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/8bcb1fbc-a40c-45f1-8596-c0da4287b242.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "1b7062c4f2f63ff7",
-      "title": "View Exterior Photos of the 2027 Lamborghini Revuelto SV",
-      "summary": "See the 2027 Lamborghini Revuelto SV from every exterior angle.",
-      "url": "https://www.caranddriver.com/photos/a73395543/2027-lamborghini-revuelto-sv-revealed-exterior-gallery/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5b51d656-5f8d-4372-9486-df20816494e4.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/5b51d656-5f8d-4372-9486-df20816494e4.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "f4f85a8de8f7584a",
-      "title": "Velotric Nomad 2 e-bike new 1,749 low, Greenworks 60V 54-inch MaximusZ mower bundle low, Anker SOLIX, Segway, more",
-      "summary": "We are closing out this week with a fully packed Green Deals edition, half of which are EV deals. To start, there’s Velotric’s newly launched End of Summer Sale , which has offers like the Nomad 2 Off-Road Fat Tire e-bike at a new $1,749 low . We also spotted a bundle for Greenworks’ 60V 54-inch MaximusZ Cordless Electric Zero Turn Riding Mower with 6x batteries and a wall charger at a new $5,000 low . There’s also the Anker SOLIX F3000 Portable Power Station at an exclusive $1,330 price, and the Segway Max G2 Electric Scooter down at $750 , which is part of the soon-to-end Back to School…",
-      "url": "https://electrek.co/2026/08/14/velotric-nomad-2-e-bike-greenworks-60v-54-inch-maximusz-mower-anker-solix-segway-more/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Velotric-Greenworks-Anker-SOLIX-Segway-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/08/Velotric-Greenworks-Anker-SOLIX-Segway-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "3d96d59875eaa63c",
-      "title": "2027 Lamborghini Revuelto SV: Fastest, most powerful Lamborghini road car yet",
-      "summary": "The flagship SV version of the Italian brand's V12-powered Revuelto is the fastest and most powerful Lamborghini ever, and it’s coming to Australia.",
-      "url": "https://www.carexpert.com.au/car-news/2027-lamborghini-revuelto-sv-fastest-most-powerful-lamborghini-road-car-yet",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2027_lamborghini_revuelto-sv_azzurro-thetys_studio_16-9__ext_03-s.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2027_lamborghini_revuelto-sv_azzurro-thetys_studio_16-9__ext_03-s.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "896b7f1e027c71c7",
-      "title": "Lamborghini says record sales don't diminish its cachet value",
-      "summary": "The allure of the Lamborghini badge hasn’t been reduced by record sales over the past five years, according to its sales and marketing boss.",
-      "url": "https://www.carexpert.com.au/car-news/lamborghini-says-record-sales-dont-diminish-its-cachet-value",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2027_lamborghini_revuelto_sv_static_front_threequarter.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2027_lamborghini_revuelto_sv_static_front_threequarter.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "f386c15a51f4ebbe",
-      "title": "Faster Lamborghini Revuelto SVJ on the cards",
-      "summary": "A ‘Jota’ edition Revuelto would be only the third Lamborghini to wear the legendary SVJ badge, but fans will have to wait – if it happens at all.",
-      "url": "https://www.carexpert.com.au/car-news/faster-lamborghini-revuelto-svj-on-the-cards",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2027_lamborghini_revuelto-sv_ambient_16-9__ext_04.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2027_lamborghini_revuelto-sv_ambient_16-9__ext_04.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-08-14T18:00:00+00:00"
-    },
-    {
-      "id": "af622ad923a5d9cd",
-      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-      "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's tagline for the new Revuelto SV: […]",
-      "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/0X7B8284.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "images": [
-        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/0X7B8284.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      ],
-      "source": "The Verge Transp",
-      "source_url": "https://www.theverge.com",
-      "published": "2026-08-14T18:00:00+00:00"
     }
   ]
 }
