@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-18T05:41:02.972888+00:00",
-  "generated_at_human": "2026-08-18 05:41 UTC",
+  "generated_at": "2026-08-18T07:00:31.662992+00:00",
+  "generated_at_human": "2026-08-18 07:00 UTC",
   "total_items": 276,
   "sources_used": [
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -42,6 +42,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -51,6 +52,7 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -64,9 +66,40 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 59,
-  "multi_photo_items": 12,
+  "sources_count": 61,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "1e542638d8cf783b",
+      "title": "BYD designer Egger: Milan studio to help Denza chase Audi, BMW",
+      "summary": "Chinese giant will use European base to deploy \"new designs and innovation\" against established brands BYD design chief Wolfgang Egger - previously of Alfa Romeo, Audi and Lamborghini - is going after his previous employers on their home soil with a new Europe-centric design approach for the Denza premium marque. The Chinese giant is ramping up operations at its new European headquarters in Milan, where a dedicated design facility will aim to bring all BYD cars into line with local tastes and expectations. In an exclusive interview with Autocar, Egger said the new facility will be \"the…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/byd-designer-egger-milan-studio-help-denza-chase-audi-bmw",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=R00BDnfp",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/dsc_8431.jpg?itok=ccWaRxhl",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/goodwood-fos-2025-social-photos-me-53.jpg?itok=mlO5eRO2",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/denza_z9gt_02static_035.jpg?itok=F7c_QgVb"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-18T06:00:00+00:00"
+    },
+    {
+      "id": "9909ceb50575b3c9",
+      "title": "Mercedes C-Klasse Facelift: W206 MOPF nimmt BMW 3er G50 ins Visier",
+      "summary": "Wenige Wochen vor der Enthüllung des neuen BMW 3er (G50) präsentiert Mercedes seine überarbeitete C-Klasse (W206 MOPF), die neben dem Audi A5 zu den wichtigsten...",
+      "url": "https://www.bimmertoday.de/2026/08/18/mercedes-c-klasse-facelift-w206-mopf-nimmt-bmw-3er-g50-ins-visier/",
+      "image": "https://vg09.met.vgwort.de/na/77fa3cfdfde0454e9bccf071dc9adbfa",
+      "images": [
+        "https://vg09.met.vgwort.de/na/77fa3cfdfde0454e9bccf071dc9adbfa"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-18T05:53:21+00:00"
+    },
     {
       "id": "0ba4f106fc80e919",
       "title": "GAC people mover to swap one BMW name for another in Australia",
@@ -112,7 +145,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-7-1536x2048.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-10-1536x2048.jpg"
       ],
-      "source": "CarScoops BMW",
+      "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-18T00:11:00+00:00"
     },
@@ -242,7 +275,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-17T09:00:39+00:00"
     },
@@ -268,7 +301,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -295,9 +328,9 @@
       "title": "DTM Nurburgring: Wittmann wins for BMW after AMG meltdown",
       "summary": "The smiling winner of the second DTM race at the Nurburgring is Marco Wittmann: the Schubert BMW driver, who started from sixth on the grid, benefited from his rivals’ mistakes after the start and at the first pit stop to snatch his third DTM victory in the Eifel overall. \"A superb race,\" Wittmann said happily on ProSieben. \"A very wild race, especially in the early stages, but we were able ... Keep reading",
       "url": "https://www.autosport.com/dtm/news/dtm-nurburgring-wittmann-wins-for-bmw-after-amg-meltdown/10846702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
+        "https://cdn-3.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -370,9 +403,9 @@
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -387,7 +420,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -400,7 +433,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -444,7 +477,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/P90080220_highRes-750x422.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-15T13:00:32+00:00"
     },
@@ -548,10 +581,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Carscoops-BMW-X5-Kith-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Ford-LMDh-hypercar-Paul-Ricard-1aa-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/McLaren-F1-GTR-Auction-RM-Sothebys-12-copy-2048x1152.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-095601-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/021_2012Accord_EX-L_V6_Coupe-source-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/One-Eleven-Mercedes-Benz-w111-Coupe-by-KUGEL-1-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/021_2012Accord_EX-L_V6_Coupe-source-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -1161,19 +1194,6 @@
       "published": "2026-08-06T06:30:14+00:00"
     },
     {
-      "id": "d05b0b8a709864e2",
-      "title": "Polizei stoppt Polisei: BMW 5er E39 als falsches Polizeiauto im Einsatz",
-      "summary": "Wer etwas zu verbergen hat und möglichst nicht auffallen will, sollte sich möglicherweise nicht in ein falsches Polizeiauto setzen. Das mussten nun zwei Geschwister erfahren,...",
-      "url": "https://www.bimmertoday.de/2026/08/06/polizei-stoppt-polisei-bmw-5er-e39-als-falsches-polizeiauto-im-einsatz/",
-      "image": "https://vg09.met.vgwort.de/na/48dec3d933d34733a4de83841f0d4ffb",
-      "images": [
-        "https://vg09.met.vgwort.de/na/48dec3d933d34733a4de83841f0d4ffb"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-06T05:34:09+00:00"
-    },
-    {
       "id": "07acdb23c155e6db",
       "title": "This BMW M4 Pickup Sold For More Than A Brand New M4 Competition",
       "summary": "A California builder sawed the roof off a new BMW M4 to make a pickup, and it just sold for a surprising sum on Bring A Trailer",
@@ -1237,19 +1257,6 @@
       "source": "CarScoops Audi",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-05T11:41:00+00:00"
-    },
-    {
-      "id": "77564bbdcf462d2d",
-      "title": "Nürburgring: Mercedes-AMG CLA 45 mit 680 PS bleibt hinter dem BMW M2",
-      "summary": "Mit dem elektrischen Mercedes-AMG CLA 45 (C174) verschiebt sich das Leistungsniveau in der sportlichen Kompaktklasse grundlegend: Waren Werte zwischen 400 und 500 PS bisher das Maß...",
-      "url": "https://www.bimmertoday.de/2026/08/05/nurburgring-mercedes-amg-cla-45-mit-680-ps-bleibt-hinter-dem-bmw-m2/",
-      "image": "https://vg09.met.vgwort.de/na/dba0a948dc434145a1c22a4e8d196afa",
-      "images": [
-        "https://vg09.met.vgwort.de/na/dba0a948dc434145a1c22a4e8d196afa"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-05T06:29:19+00:00"
     },
     {
       "id": "46addcaf6647ce16",
@@ -1728,7 +1735,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2029,7 +2036,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2120,7 +2127,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
