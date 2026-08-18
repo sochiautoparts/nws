@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-18T14:47:58.275794+00:00",
-  "generated_at_human": "2026-08-18 14:47 UTC",
-  "total_items": 277,
+  "generated_at": "2026-08-18T15:42:43.808232+00:00",
+  "generated_at_human": "2026-08-18 15:42 UTC",
+  "total_items": 279,
   "sources_used": [
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -43,12 +43,13 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
@@ -63,11 +64,79 @@
     "Motor1 Volvo",
     "Motorsport WEC",
     "Sports Car Digest",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 12,
+  "sources_count": 62,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "cb625d11f8b2358f",
+      "title": "The BMW Motorcycle Built For Riders Who Hate Compromise",
+      "summary": "This luxury touring motorcycle pairs effortless power, serious comfort, and clever tech for riders who refuse to compromise.",
+      "url": "https://www.topspeed.com/bmw-motorcycle-for-riders-who-hate-compromise/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/bmw-k-1600-gtl-front-quarter-with-rider.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/bmw-k-1600-gtl-front-quarter-with-rider.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/front-shot-of-2025-honda-gold-wing-tour-riding-during-the-sunset.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/436a8241-34261-scaled-jpg.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2015-bmw-k-1600-gtl-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/p90451775_highres_bmw-k-1600-gtl-02-20-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/bmw-k-1600-gtl-engine.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-18T15:31:11+00:00"
+    },
+    {
+      "id": "7d5bce98784dd54e",
+      "title": "Used BMW X2 (Mk2 2023 - date) buyer’s guide: a striking yet spacious coupé-SUV",
+      "summary": "A full used buyer's guide on the BMW X2 that's been on sale in the UK since 2023",
+      "url": "https://www.autoexpress.co.uk/bmw/x2/370244/used-bmw-x2-mk2-2023-date-buyers-guide-striking-yet-spacious-coupe-suv",
+      "image": "https://media.autoexpress.co.uk/image/private/s--vP8aqp6N--/t_rss_image_w_845/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--vP8aqp6N--/t_rss_image_w_845/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--S2zaDHkN--/f_auto,t_author-mobile@1/v1570622433/autoexpress/unnamed-1_0.jpg",
+        "https://www.autoexpress.co.uk/bmw/x2/370244/t_author-desktop@1/v1570622433/autoexpress/unnamed-1_0.jpg",
+        "https://www.autoexpress.co.uk/bmw/x2/370244/t_author-mobile@1/v1570622433/autoexpress/unnamed-1_0.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--vP8aqp6N--/f_auto,t_primary-image-mobile@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+        "https://www.autoexpress.co.uk/bmw/x2/370244/t_primary-image-desktop@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-08-18T15:27:50+00:00"
+    },
+    {
+      "id": "da063a854508a568",
+      "title": "Used BMW X2 - pictures",
+      "summary": "Pictures of a used BMW X2",
+      "url": "https://www.autoexpress.co.uk/bmw/x2/370243/used-bmw-x2-pictures",
+      "image": "https://media.autoexpress.co.uk/image/private/s--vP8aqp6N--/t_rss_image_w_845/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--vP8aqp6N--/t_rss_image_w_845/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--vP8aqp6N--/f_auto,t_content-image-full-mobile@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+        "https://www.autoexpress.co.uk/bmw/x2/370243/t_content-image-full-desktop@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+        "https://www.autoexpress.co.uk/bmw/x2/370243/t_content-image-full-mobile@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20001.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--Wu3mk9Pb--/f_auto,t_content-image-full-mobile@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20002.jpg",
+        "https://www.autoexpress.co.uk/bmw/x2/370243/t_content-image-full-desktop@1/v1787066019/autoexpress/2026/08/Used%20BMW%20X2%20Mk2%20002.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-08-18T15:21:08+00:00"
+    },
+    {
+      "id": "7844d8d6971cc4d0",
+      "title": "M42-Powered 1975 BMW 2002 5-Speed",
+      "summary": "This 1975 BMW 2002 was acquired by the seller in 2013 and has since been modified with a 1.8L M42 inline-four, a Getrag five-speed manual transmission, and a limited-slip differential. The car was repainted Inka and fitted with Euro-style bumpers in 2019, and it rides on 15\" Rota wheels with H&R springs, Bilstein shocks, and Suspension Techniques sway bars. The interior houses Recaro seats that have been re-trimmed in gray cloth and black vinyl along with a Pioneer touchscreen stereo, Infinity speakers, a Mountney steering wheel, and a wood shift knob. This BMW 2002 is now offered with…",
+      "url": "https://bringatrailer.com/listing/1975-bmw-2002-147/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_8944-scaled-copy-2026-08-10-jvl-86157.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_8944-scaled-copy-2026-08-10-jvl-86157.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-18T15:00:15+00:00"
+    },
     {
       "id": "3d34ae8a049040e4",
       "title": "Cadillac V-One combineert racegenen met ‘luxe’",
@@ -116,7 +185,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/New-BMW-iX3-in-Mexico-2-830x526.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T11:50:51+00:00"
     },
@@ -140,12 +209,7 @@
       "url": "https://www.autoexpress.co.uk/features/370241/three-car-garage-used-bmw-i3-citroen-c4-cactus-range-rover-evoque-ps30k",
       "image": "https://media.autoexpress.co.uk/image/private/s--cZ_fb58o--/t_rss_image_w_845/v1787051698/autoexpress/2026/08/3-car%20garage%20for%2030%2C000_pwruar.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--cZ_fb58o--/t_rss_image_w_845/v1787051698/autoexpress/2026/08/3-car%20garage%20for%2030%2C000_pwruar.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--11lee9im--/f_auto,t_author-mobile@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
-        "https://www.autoexpress.co.uk/features/370241/t_author-desktop@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
-        "https://www.autoexpress.co.uk/features/370241/t_author-mobile@1/v1570031548/autoexpress/alastair_crooks_headshot.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--cZ_fb58o--/f_auto,t_primary-image-mobile@1/v1787051698/autoexpress/2026/08/3-car%20garage%20for%2030%2C000_pwruar.jpg",
-        "https://www.autoexpress.co.uk/features/370241/t_primary-image-desktop@1/v1787051698/autoexpress/2026/08/3-car%20garage%20for%2030%2C000_pwruar.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--cZ_fb58o--/t_rss_image_w_845/v1787051698/autoexpress/2026/08/3-car%20garage%20for%2030%2C000_pwruar.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -160,7 +224,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2027-Mercedes-C-Class-facelift-2-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T10:38:20+00:00"
     },
@@ -191,7 +255,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/goodwood-fos-2025-social-photos-me-53.jpg?itok=mlO5eRO2",
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/denza_z9gt_02static_035.jpg?itok=F7c_QgVb"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -339,7 +403,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-17T09:00:39+00:00"
     },
@@ -365,7 +429,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -387,9 +451,9 @@
       "title": "DTM Nurburgring: Wittmann wins for BMW after AMG meltdown",
       "summary": "The smiling winner of the second DTM race at the Nurburgring is Marco Wittmann: the Schubert BMW driver, who started from sixth on the grid, benefited from his rivals’ mistakes after the start and at the first pit stop to snatch his third DTM victory in the Eifel overall. \"A superb race,\" Wittmann said happily on ProSieben. \"A very wild race, especially in the early stages, but we were able ... Keep reading",
       "url": "https://www.autosport.com/dtm/news/dtm-nurburgring-wittmann-wins-for-bmw-after-amg-meltdown/10846702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
+        "https://cdn-4.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -462,9 +526,9 @@
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-4.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -479,7 +543,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -492,7 +556,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -523,7 +587,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/P90080220_highRes-750x422.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-15T13:00:32+00:00"
     },
@@ -1045,19 +1109,6 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
-      "id": "899a6cd14d95eccf",
-      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
-      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-07T13:36:00+00:00"
-    },
-    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1329,19 +1380,6 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
-    },
-    {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2043,7 +2081,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2347,7 +2385,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-15T15:48:56+00:00"
     },
@@ -3530,7 +3568,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3634,7 +3672,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
