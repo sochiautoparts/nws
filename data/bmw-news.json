@@ -1,12 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-17T23:33:15.729355+00:00",
-  "generated_at_human": "2026-08-17 23:33 UTC",
-  "total_items": 279,
+  "generated_at": "2026-08-18T01:47:30.522402+00:00",
+  "generated_at_human": "2026-08-18 01:47 UTC",
+  "total_items": 281,
   "sources_used": [
     "AutoExpress",
-    "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -42,7 +41,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -50,13 +48,16 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver Reviews",
+    "CarBuzz",
+    "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
     "Diariomotor",
     "Electrek BMW",
     "Electric Cars Report",
-    "Hooniverse",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
@@ -67,21 +68,70 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 62,
-  "multi_photo_items": 12,
+  "sources_count": 63,
+  "multi_photo_items": 13,
   "items": [
     {
-      "id": "10bd69341a918e88",
-      "title": "1995 BMW K75 at No Reserve",
-      "summary": "This 1995 BMW K75 was purchased as a disassembled project by the seller in 2026, and the cafe racer-style build was completed shortly thereafter with work that included refinishing the fuel tank in BMW Yas Marina Blue and installing a frame hoop and integrated taillight, a solo bump seat, clip-on handlebars, a YSS monoshock, an LED headlight, and a bar-end mirror. Maintenance work during the build included changing the engine, gearbox, and final drive oils, flushing the brake fluid and coolant, and replacing the fuel pump, fuel hoses, battery, brake pads, front brake hoses, and fuses.…",
-      "url": "https://bringatrailer.com/listing/1995-bmw-k75-4/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_1165-scaled-copy-2026-08-12-5pi-54390.jpeg?w=940",
+      "id": "0ba4f106fc80e919",
+      "title": "GAC people mover to swap one BMW name for another in Australia",
+      "summary": "The GAC M8 people mover is set to get a new name in Australia after a clash with a BMW model prompted the Chinese brand to rethink its local approach.",
+      "url": "https://www.carexpert.com.au/car-news/gac-people-mover-to-swap-one-bmw-name-for-another-in-australia",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2025-12-2026-gac-m8-phev-1.jpg",
       "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_1165-scaled-copy-2026-08-12-5pi-54390.jpeg?w=940"
+        "https://images.carexpert.com.au/cms/v1/media/2025-12-2026-gac-m8-phev-1.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-08-18T01:13:00+00:00"
+    },
+    {
+      "id": "c1333b03215599b2",
+      "title": "Only One Pure Combustion Engine Made Wards' 10 Best List, And BMW's 717-HP Hybrid V8 Killed The Rest",
+      "summary": "Thank Chevy for keeping combustion power on the list in 2026, and BMW for paving the way forward.",
+      "url": "https://carbuzz.com/only-combustion-engine-wards-best-list/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-bmw-m5-touring-12.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-bmw-m5-touring-12.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-bmw-m5-sedan-15.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2026-chevrolet-corvette-zr1-convertible35.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/chevrolet-corvette-zr1-coupe-009_cropped_processed_by_imagy-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-bmw-m5-sedan-13.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-18T00:14:15+00:00"
+    },
+    {
+      "id": "035baade15151b45",
+      "title": "BMW And Kith Throw A V10 And 6-Speed Manual Into First-Gen X5",
+      "summary": "The first-generation X5 skipped the M variant, so this is as close as we'll get to one",
+      "url": "https://www.carscoops.com/2026/08/bmw-kith-x5/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Carscoops-BMW-X5-Kith-1024x578.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Carscoops-BMW-X5-Kith-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-5-1536x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-9-1536x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-1-1536x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-7-1536x2048.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2000-BMW-X5-Kith-817-10-1536x2048.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-18T00:11:00+00:00"
+    },
+    {
+      "id": "d811dd8926eb7c2d",
+      "title": "32k-Mile 2008 BMW 535xi Sedan at No Reserve",
+      "summary": "This 2008 BMW 535xi sedan has 32k miles and was registered in California from new. The car is finished in Silver Gray Metallic over Cream Beige Dakota leather and is powered by a twin-turbocharged 3.0L inline-six that drives all four wheels through a six-speed automatic transmission. Equipment includes the Premium and Cold Weather Packages, the latter of which included heated front seats, headlight washers, a ski bag, and a heated steering wheel. The car is further equipped with BMW Night Vision and Lane Departure Warning systems. Additional features consist of adaptive xenon headlights, a…",
+      "url": "https://bringatrailer.com/listing/2008-bmw-535xi-sedan-6/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/DSC01283-1-copy-2026-08-17-k9q-06433.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/08/DSC01283-1-copy-2026-08-17-k9q-06433.jpg?w=940"
       ],
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
-      "published": "2026-08-17T23:06:08+00:00"
+      "published": "2026-08-17T23:37:00+00:00"
     },
     {
       "id": "3967b308d1f8bf19",
@@ -196,7 +246,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-17T09:00:39+00:00"
     },
@@ -251,7 +301,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -383,7 +433,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -396,7 +446,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -440,7 +490,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/P90080220_highRes-750x422.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-15T13:00:32+00:00"
     },
@@ -518,7 +568,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/bmw-m-concept-neue-klasse-08-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-14T06:38:09+00:00"
     },
@@ -543,11 +593,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-E46-Ford-Mustang-Temu-13aa-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Sealander-Caravan-5-copy-1-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Carscoops-BMW-X5-Kith-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/McLaren-F1-GTR-Auction-RM-Sothebys-12-copy-2048x1152.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-095601-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/021_2012Accord_EX-L_V6_Coupe-source-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/One-Eleven-Mercedes-Benz-w111-Coupe-by-KUGEL-1-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/MY26-Nissan-Pathfinder-3-18-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/One-Eleven-Mercedes-Benz-w111-Coupe-by-KUGEL-1-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -812,12 +862,7 @@
       "url": "https://www.carscoops.com/2026/08/bmw-x5-v10-swap/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X5-E53-Le-Mans-V12-08_2-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X5-E53-Le-Mans-V12-08_2-copy-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/1972-BMW-3.0-CSi-and-a-1987-BMW-M6-E24-by-Kith-1-1638x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/1972-BMW-3.0-CSi-and-a-1987-BMW-M6-E24-by-Kith-3-1536x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/1972-BMW-3.0-CSi-and-a-1987-BMW-M6-E24-by-Kith-7-1536x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/1972-BMW-3.0-CSi-and-a-1987-BMW-M6-E24-by-Kith-8-1536x2048.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/1972-BMW-3.0-CSi-and-a-1987-BMW-M6-E24-by-Kith-9-1536x2048.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X5-E53-Le-Mans-V12-08_2-copy-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -978,19 +1023,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T11:11:39+00:00"
-    },
-    {
-      "id": "332a571e437c9ef7",
-      "title": "This Solar EV Can Make More Energy Than It Uses",
-      "summary": "Clemson engineering students teamed with BMW to create the 1,212-pound Luminetta, a solar-powered concept designed to produce a daily energy surplus.",
-      "url": "https://www.autoweek.com/news/a73380075/solar-ev-makes-more-energy-than-it-uses/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-07T22:24:51+00:00"
     },
     {
       "id": "66e8e7dc073f3e9e",
@@ -1313,7 +1345,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X7",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -1721,19 +1753,6 @@
       "published": "2026-07-28T14:05:00+00:00"
     },
     {
-      "id": "99ed849cce37ed52",
-      "title": "BMW Is Building The Electric Convertible Everyone Else Gave Up On",
-      "summary": "The Neue Klasse family is sprouting an i4 soft-top convertible with proper range and interior room",
-      "url": "https://www.carscoops.com/2026/07/bmw-i4-convertible-spied/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/SB22465-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/07/SB22465-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-07-28T13:24:00+00:00"
-    },
-    {
       "id": "1327d1f7d047a33f",
       "title": "BMW Is Letting iX3 Drivers Test Its New Cockpit Tech First",
       "summary": "With the market launch of the BMW iX3, the brand is introducing not only its next-generation eDrive technology but also a fully redesigned user experience. Alongside the new BMW Operating System X, drivers can expect... First published by https://www.bmwblog.com",
@@ -1755,7 +1774,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2056,7 +2075,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2898,19 +2917,6 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
-    },
-    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -3340,6 +3346,19 @@
       "published": "2026-06-09T11:21:41+00:00"
     },
     {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
+    },
+    {
       "id": "4990c9488bed2755",
       "title": "The E46 Beat the E36. Here’s the Case For and Against",
       "summary": "I’ve had this argument recently in a podcast with other fellow BMW enthusiasts, and once again, it never ends clean because people are so invested in their favorite 3 Series generation. So let me just... First published by https://www.bmwblog.com",
@@ -3351,6 +3370,19 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
+    },
+    {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
