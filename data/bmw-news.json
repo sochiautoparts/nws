@@ -1,13 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-18T17:38:46.353838+00:00",
-  "generated_at_human": "2026-08-18 17:38 UTC",
-  "total_items": 279,
+  "generated_at": "2026-08-18T18:53:16.739188+00:00",
+  "generated_at_human": "2026-08-18 18:53 UTC",
+  "total_items": 280,
   "sources_used": [
     "AutoExpress",
     "AutoWeek NL",
-    "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -41,9 +40,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -51,12 +49,14 @@
     "Bring a Trailer",
     "Car and Driver BMW",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarWale IN",
     "Electrek BMW",
+    "Hooniverse",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
@@ -70,17 +70,43 @@
   "multi_photo_items": 11,
   "items": [
     {
-      "id": "83ef82a0e6bb90a0",
-      "title": "2003 BMW 540i M Sport",
-      "summary": "This 2003 BMW 540i sedan was optioned with the M Sport Package, and it remained registered in California through the seller's acquisition on BaT in October 2024 . Subsequent work included replacing the windshield, stereo head unit, timing chain tensioner, water pump, valley pan, accessory drive belt, spark plugs, power steering hoses, front brake pads and wear sensors, and assorted engine gaskets and seals. Finished in Jet Black over black leather upholstery, the car is powered by a 4.4-liter M62 V8 paired with a Steptronic five-speed automatic transmission. It also has a sunroof, xenon…",
-      "url": "https://bringatrailer.com/listing/2003-bmw-540i-211/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/tempImageEuCQoY-copy-2026-07-27-ykd-scaled-78049.jpg?w=940",
+      "id": "9f3dd56f668c208a",
+      "title": "M30B35-Powered 1971 BMW 2800CS 5-Speed",
+      "summary": "This 1971 BMW 2800CS is powered by a 3.4-liter M30B35 inline-six linked with a five-speed manual transmission. The car is finished in white over tan leather, and equipment includes 15″ basketweave wheels, front disc brakes, wood interior trim, a Blaupunkt cassette stereo, and power windows. It was previously sold on BaT in March 2021 and was acquired by the selling dealer in 2026. This E9 is now offered in Pennsylvania at no reserve with a Montana title.",
+      "url": "https://bringatrailer.com/listing/1971-bmw-2800cs-46/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1-copy-2026-07-31-ylv-26234.jpg?w=940",
       "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/06/tempImageEuCQoY-copy-2026-07-27-ykd-scaled-78049.jpg?w=940"
+        "https://bringatrailer.com/wp-content/uploads/2026/07/1-copy-2026-07-31-ylv-26234.jpg?w=940"
       ],
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
-      "published": "2026-08-18T17:32:33+00:00"
+      "published": "2026-08-18T18:32:11+00:00"
+    },
+    {
+      "id": "80c547347dce7d34",
+      "title": "BMW Is 20 Years Into Sponsoring Golf, and the Prize Just Got a Choice",
+      "summary": "The BMW Championship is back at Bellerive Country Club in St. Louis for the first time since 2008, and the timing lines up with a milestone for the title sponsor: this is BMW’s 20th year... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/18/bmw-championship-st-louis-bellerive-2026/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-bmw-championship-830x554.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-bmw-championship-830x554.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-18T17:58:01+00:00"
+    },
+    {
+      "id": "8d69ae851d12e5b3",
+      "title": "BMW Could Fundamentally Change The Mini Cooper As We've Known It For Decades",
+      "summary": "Is a rear-wheel-drive Mini still a Mini?",
+      "url": "https://carbuzz.com/next-mini-cooper-rwd-bmw-august-2026-report/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/p90567147-highres.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/p90567147-highres.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-18T17:50:15+00:00"
     },
     {
       "id": "cb625d11f8b2358f",
@@ -239,7 +265,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/goodwood-fos-2025-social-photos-me-53.jpg?itok=mlO5eRO2",
         "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/denza_z9gt_02static_035.jpg?itok=F7c_QgVb"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -400,7 +426,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -422,9 +448,9 @@
       "title": "DTM Nurburgring: Wittmann wins for BMW after AMG meltdown",
       "summary": "The smiling winner of the second DTM race at the Nurburgring is Marco Wittmann: the Schubert BMW driver, who started from sixth on the grid, benefited from his rivals’ mistakes after the start and at the first pit stop to snatch his third DTM victory in the Eifel overall. \"A superb race,\" Wittmann said happily on ProSieben. \"A very wild race, especially in the early stages, but we were able ... Keep reading",
       "url": "https://www.autosport.com/dtm/news/dtm-nurburgring-wittmann-wins-for-bmw-after-amg-meltdown/10846702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
+        "https://cdn-5.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -497,9 +523,9 @@
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-7.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -514,7 +540,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -527,7 +553,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -561,19 +587,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-15T13:00:32+00:00"
-    },
-    {
-      "id": "abbce02120e61ed3",
-      "title": "Gordon Murray’s New S1 Revives the BMW-Powered McLaren F1 Formula",
-      "summary": "Staying quite true to the teaser we saw just a few days ago, Gordon Murray has unveiled the S1, a new analog supercar that combines a naturally aspirated V12, a six-speed manual transmission, and a... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/15/gordon-murray-s1-bmw-mclaren-f1-formula/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/GMSV-S1-011-Custom-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/GMSV-S1-011-Custom-830x467.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-15T11:55:54+00:00"
     },
     {
       "id": "affec9b5450f7e7a",
@@ -1039,19 +1052,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-08T11:11:39+00:00"
-    },
-    {
-      "id": "332a571e437c9ef7",
-      "title": "This Solar EV Can Make More Energy Than It Uses",
-      "summary": "Clemson engineering students teamed with BMW to create the 1,212-pound Luminetta, a solar-powered concept designed to produce a daily energy surplus.",
-      "url": "https://www.autoweek.com/news/a73380075/solar-ev-makes-more-energy-than-it-uses/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/77db34ed-5545-4afa-9929-5c9189e39945.jpg"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-07T22:24:51+00:00"
     },
     {
       "id": "66e8e7dc073f3e9e",
@@ -1777,7 +1777,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2078,7 +2078,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2525,7 +2525,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2905,6 +2905,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
