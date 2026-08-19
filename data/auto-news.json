@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-08-19T10:41:19.969258+00:00",
-  "generated_at_human": "2026-08-19 10:41 UTC",
+  "generated_at": "2026-08-19T11:36:19.894227+00:00",
+  "generated_at_human": "2026-08-19 11:36 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -10,19 +10,23 @@
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autosport All",
     "Autosport F1",
     "Autosport WRC",
-    "BarnFinds",
     "Bike EXIF",
     "Bring a Trailer",
     "Car and Driver",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
+    "CarScoops Aston",
     "CarScoops Bugatti",
+    "CarScoops Ford",
     "CarScoops Lamborghini",
     "CarScoops Mercedes",
+    "CarScoops Toyota",
     "CarThrottle",
     "CarWale IN",
     "ClassicCars Journal",
@@ -41,13 +45,17 @@
     "Motor.es",
     "Motor1",
     "Motor1 Audi",
+    "Motor1 Bugatti",
     "Motor1 Chevrolet",
     "Motor1 Chrysler",
+    "Motor1 Fiat",
     "Motor1 Hyundai",
     "Motor1 Jeep",
     "Motor1 Lamborghini",
     "Motor1 McLaren",
     "Motor1 Nissan",
+    "Motor1 Porsche",
+    "Motor1 Tesla",
     "Motor1 Toyota",
     "MotorBeam IN",
     "Motoring Research",
@@ -70,8 +78,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 96,
+  "sources_count": 73,
+  "multi_photo_items": 102,
   "items": [
     {
       "id": "f89ed7694738c105",
@@ -100,6 +108,32 @@
       "published": "2026-08-22T14:00:00+00:00"
     },
     {
+      "id": "4ec2b83b147a9b0a",
+      "title": "Ligier Automotive ya tiene a los primeros tres clientes del JS P228, su nueva propuesta LMP2",
+      "summary": "Jacques Nicolet, presidente de Ligier Automotive, comunicó que ha establecido acuerdos con tres equipos para que compitan con su nueva propuesta LMP2, el JS P228, a partir de 2028. Se trata de tres interesantes nombres: Algarve Pro Racing, Inter Europol Competition y Panis Racing . Así que el fabricante tendrá a tres socios de postín involucrados en el desarrollo de su novedoso coche con el cual esperan disputar la supremacía que hasta ahora mantiene ORECA en la división LMP2. Este movimiento que involucra a Ligier con tres de los mejores equipos de la European Le Mans Series es un claro…",
+      "url": "https://www.diariomotor.com/competicion/noticia/ligier-tres-clientes-del-js-p228/",
+      "image": "https://www.diariomotor.com/imagenes/2026/08/Ligier_Automotive_LMP2_NE_2026_28-6a85896ac8a0c.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/08/Ligier_Automotive_LMP2_NE_2026_28-6a85896ac8a0c.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-08-19T13:24:37+00:00"
+    },
+    {
+      "id": "0bbe991fa70fe999",
+      "title": "Su motor tiene trompetas y se ríe de los eléctricos alcanzando 10.000rpm para mover los 895kg del Ford Escort 2026",
+      "summary": "Esta pelotilla atómica tiene cambio manual, tracción trasera y alergia a las pantallas. Está hecho en Reino Unido bajo licencia oficial de Ford y su motor atmosférico diseñado cero, no solo se ríe de los eléctricos en pleno 2026 , también se presenta como una puerta a la integración de técnicas de fabricación normalmente destinadas a la competición, en vehículos de calle (que no tendrían por qué ser radicales). Hablando más claro: La de horas que los apasionados ingenieros de Boreham Motorworks han echado en este coche tienen una intención más allá de la de ganar pasta. Por un lado, sí, el…",
+      "url": "https://www.diariomotor.com/noticia/ford-escort-2026-trompetas/",
+      "image": "https://www.diariomotor.com/imagenes/2026/06/Ford-escort-mk1-Boreham-2026-interior_14-6a2fb059c737f.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/06/Ford-escort-mk1-Boreham-2026-interior_14-6a2fb059c737f.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-08-19T13:00:39+00:00"
+    },
+    {
       "id": "d679ce66a0162767",
       "title": "Parece un todoterreno, pero es el nuevo SUV, grande, con espacio a raudales, que demuestra que Europa no solo tiene que preocuparse de los coches chinos",
       "summary": "Siento ser tan negativo, pero no puedo evitar sentir una profunda decepción al contemplar como una buena parte de la industria europea del automóvil ha evolucionado, no solo en lo que respecta al desarrollo tecnológico de sus coches, sino también en lo que respecta a un aspecto otrora tan decisivo y distintivo como lo es el diseño. El Hyundai Tucson estrena una quinta generación más grande, espaciosa y con una imagen mucho más robusta, incluso propia de lo que entendemos por un todoterreno. Su carrocería alcanza los 4,70 metros y su distancia entre ejes crece hasta los 2,79 metros. La…",
@@ -113,8 +147,62 @@
       "published": "2026-08-19T12:00:04+00:00"
     },
     {
-      "id": "76dbd02069268898",
-      "title": "Isack Hadjar podría perderse el Gran Premio de los Países Bajos por lesión y Red Bull ya tiene un plan B",
+      "id": "00d9ee0a800f1f71",
+      "title": "The Honda Motorcycle Built For The Long Haul",
+      "summary": "The Gold Wing Tour's 1,833cc flat-six, DCT option, and airbag model make it Honda's most complete long-haul tourer, starting at $29,500.",
+      "url": "https://www.topspeed.com/honda-motorcycle-built-for-long-haul/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/rider-next-to-a-2026-honda-gold-wingtour.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/rider-next-to-a-2026-honda-gold-wingtour.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/bmw-k-1600-series-models-cruising-on-a-highway.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/indian-pursuit-riding-two-up-on-the-open-road.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/kawasaki-concours-14-rear-tracking-shot.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/rider-and-passenger-next-to-a-2026-honda-gold-wingtour.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2025-gold-wing-tour-rear-suspension.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-19T11:31:14+00:00"
+    },
+    {
+      "id": "cd68e533106667a7",
+      "title": "BYD Just Added Another Giant To China’s Super-Sized SUV Craze",
+      "summary": "BYD's Tai 9 pairs dual electric motors with a turbocharged gasoline engine for one of the brand's largest hybrids yet",
+      "url": "https://www.carscoops.com/2026/08/fangchengbao-tai-9/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Fangchengbao-Tai-9-New-3aa-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Fangchengbao-Tai-9-New-3aa-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Skoda-Slavia-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/MINI-Cooper-S-Rooftop-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mahindra-Scorpio-Lifestyler-1-copy-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Voyah-Passion-S-China-Tunnel-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Ken-Okuyama-Kode89-3-copy-2048x1152.webp"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-19T11:30:00+00:00"
+    },
+    {
+      "id": "d6aada8edad7ca81",
+      "title": "Jeep Sends A Stock Gladiator Into The Brutal 2026 Rebelle Rally",
+      "summary": "Factory-stock Desert Rated hardware turns the Jeep Gladiator Mojave into a real-world test bed across 1,500 miles of Rebelle Rally stages.",
+      "url": "https://www.motor1.com/news/805456/jeep-gladiator-mojave-2026-rebelle/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3L6/s3/jeep-gladiator-mojave.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/BXZ3L6/s3/jeep-gladiator-mojave.jpg",
+        "https://cdn.motor1.com/images/mgl/RqYOWK/s5/2024-jeep-gladiator-mojave-review.jpg",
+        "https://cdn.motor1.com/images/mgl/6ZQGMZ/s5/2024-jeep-gladiator-mojave-review.jpg",
+        "https://cdn.motor1.com/images/mgl/jlEkv6/s5/2024-jeep-gladiator-mojave-review.jpg",
+        "https://cdn.motor1.com/images/mgl/G3npMA/s5/2024-jeep-gladiator-mojave-review.jpg",
+        "https://cdn.motor1.com/images/mgl/VzeKmB/s5/2024-jeep-gladiator-mojave-review.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-19T11:30:00+00:00"
+    },
+    {
+      "id": "2f11f2fa5fbbb627",
+      "title": "OFICIAL: Isack Hadjar se pierde el Gran Premio de los Países Bajos por lesión y Red Bull ya tiene un plan B",
       "summary": "Muchos recordaran que Zanvoort ya fue el escenario en el que tuvimos una de las últimas sustituciones forzosas de la Fórmula 1 después de que Daniel Ricciardo tuviera un accidente en la primera curva peraltada del trazado neerlandés y se dañara la muñeca. El piloto australiano tuvo que dejar su asiento en manos de Liam Lawson después de romperse el quinto metatarsiano en la FP2 del Gran Premio de los Países Bajos y ahora la situación parece repetirse , también involucrando a los pilotos bajo el paraguas de Red Bull. En esta ocasión ha sido Isack Hadjar el que se ha visto afectado por lo…",
       "url": "https://www.diariomotor.com/competicion/noticia/isack-hadjar-perderse-gran-premio-paises-bajos/",
       "image": "https://www.diariomotor.com/imagenes/2026/08/isack-hadjar-f1-2026-zandvoort-paises-bajos-2-6a8575209149f.jpg?class=XL",
@@ -124,6 +212,145 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-19T11:20:05+00:00"
+    },
+    {
+      "id": "e87120ee2efa62db",
+      "title": "Buick's Forgotten Turbocharged Coupe Used A Famous Name And Slant-Back Styling",
+      "summary": "Buick was turbocharging cars before it was fashionable, which is precisely why this model is so cool.",
+      "url": "https://carbuzz.com/the-buick-century-turbo-coupe-forgotten-turbo-model/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/buick-classic-car.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/buick-classic-car.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/1979_buick_century_turbo_coupe_front.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/1955_buick_century_riviera_4-door.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/1979_buick_century_turbo_coupe_badge1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/1979_buick_century_turbo_coupe_side.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-19T11:15:10+00:00"
+    },
+    {
+      "id": "18963b917fe856d7",
+      "title": "Yuki Tsunoda to race in Dutch GP for Racing Bulls as injured Isack Hadjar replaced by Liam Lawson",
+      "summary": "Yuki Tsunoda will make an unexpected F1 return at the Dutch Grand Prix.",
+      "url": "https://www.crash.net/f1/news/1102543/1/yuki-tsunoda-race-dutch-gp-racing-bulls-isack-hadjar-replaced-liam-lawson",
+      "image": "https://www.crash.net/sites/default/files/2026-08/si202607250342.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-08/si202607250342.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/pictures/1bc46a82-ac76-40ea-9cf5-d309b802b0ef_1.jpeg",
+        "https://www.crash.net/sites/default/files/2026-08/xpb_1428249_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/xpb_1232159_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/xpb_1368517_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/xpb_1396128_hires.jpg?aspect_ratio=1:1"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-08-19T11:12:25+00:00"
+    },
+    {
+      "id": "611001539bf4dbb5",
+      "title": "Lawson to replace Hadjar at Red Bull for Dutch GP",
+      "summary": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend’s Formula 1 Dutch Grand Prix. News emerged on Wednesday morning that Hadjar had sustained a wrist injury from a gym session and was therefore set to skip Zandvoort, with a formal decision impending. It means Hadjar is unable to compete at the track which has so far given him his only ... Keep reading",
+      "url": "https://www.autosport.com/f1/news/lawson-to-replace-hadjar-at-dutch-gp/10847307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image": "https://cdn-9.motorsport.com/images/amp/27NQWEx0/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "images": [
+        "https://cdn-9.motorsport.com/images/amp/27NQWEx0/s6/isack-hadjar-red-bull-racing-2.jpg",
+        "https://cdn-7.motorsport.com/images/amp/27NQWEx0/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-3.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp"
+      ],
+      "source": "Autosport F1",
+      "source_url": "https://www.autosport.com",
+      "published": "2026-08-19T11:09:43+00:00"
+    },
+    {
+      "id": "b6ebb3809b9bb3a7",
+      "title": "Lawson to replace Hadjar at Red Bull for Dutch GP",
+      "summary": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend’s Formula 1 Dutch Grand Prix. News emerged on Wednesday morning that Hadjar had sustained a wrist injury from a gym session and was therefore set to skip Zandvoort, with a formal decision impending. It means Hadjar is unable to compete at the track which has so far given him his only ... Keep reading",
+      "url": "https://www.autosport.com/f1/news/lawson-to-replace-hadjar-at-dutch-gp/10847307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+      "image": "https://cdn-2.motorsport.com/images/amp/27NQWEx0/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "images": [
+        "https://cdn-2.motorsport.com/images/amp/27NQWEx0/s6/isack-hadjar-red-bull-racing-2.jpg",
+        "https://cdn-7.motorsport.com/images/amp/27NQWEx0/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-3.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp"
+      ],
+      "source": "Autosport All",
+      "source_url": "https://www.autosport.com",
+      "published": "2026-08-19T11:09:43+00:00"
+    },
+    {
+      "id": "a2e73042ee33b868",
+      "title": "Liam Lawson, Yuki Tsunoda in as Hadjar ruled out of Dutch Grand Prix",
+      "summary": "Isack Hadjar will miss the Dutch Grand Prix with a wrist injury.",
+      "url": "https://www.planetf1.com/news/isack-hadjar-red-bull-replacement-liam-lawson-announcement",
+      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/03/25210706/liam-lawson-yuki-tsunoda-red-bull-f1-2025-120x120.png",
+      "images": [
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/03/25210706/liam-lawson-yuki-tsunoda-red-bull-f1-2025-120x120.png",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18170804/mclaren-lando-norris-hungary-2026-turn-planetf1-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19114806/marcin-budkowski-cadillac-f1-team-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg"
+      ],
+      "source": "PlanetF1",
+      "source_url": "https://www.planetf1.com",
+      "published": "2026-08-19T11:09:16+00:00"
+    },
+    {
+      "id": "a2c4041f5f875f1e",
+      "title": "Isack Hadjar to miss F1 Dutch GP, Red Bull replacement confirmed",
+      "summary": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend’s Formula 1 Dutch Grand Prix. News emerged on Wednesday morning that Hadjar had sustained a wrist injury from a gym session and was therefore set to skip Zandvoort, with a formal decision impending. It means Hadjar is unable to compete at the track which has so far given him his only ... Keep reading",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-miss-f1-dutch-gp-red-bulls-replacement-confirmed/10847292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image": "https://cdn-7.motorsport.com/images/amp/6zoJ59L0/s6/isack-hadjar-red-bull-racing.jpg",
+      "images": [
+        "https://cdn-7.motorsport.com/images/amp/6zoJ59L0/s6/isack-hadjar-red-bull-racing.jpg",
+        "https://cdn-7.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-6.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-3.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-4.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-1.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
+      ],
+      "source": "Motorsport F1",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-08-19T11:05:48+00:00"
+    },
+    {
+      "id": "6ae9d51fcbfd8177",
+      "title": "Isack Hadjar to miss F1 Dutch GP, Red Bull replacement confirmed",
+      "summary": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend’s Formula 1 Dutch Grand Prix. News emerged on Wednesday morning that Hadjar had sustained a wrist injury from a gym session and was therefore set to skip Zandvoort, with a formal decision impending. It means Hadjar is unable to compete at the track which has so far given him his only ... Keep reading",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-miss-f1-dutch-gp-red-bulls-replacement-confirmed/10847292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+      "image": "https://cdn-4.motorsport.com/images/amp/6zoJ59L0/s6/isack-hadjar-red-bull-racing.jpg",
+      "images": [
+        "https://cdn-4.motorsport.com/images/amp/6zoJ59L0/s6/isack-hadjar-red-bull-racing.jpg",
+        "https://cdn-7.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-6.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-3.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-4.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-1.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
+      ],
+      "source": "Motorsport All",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-08-19T11:05:48+00:00"
+    },
+    {
+      "id": "dc13329d0106d6df",
+      "title": "Red Bull confirma la lesión de Hadjar y su sustituto para Zandvoort",
+      "summary": "Isack Hadjar estará ausente en Zandvoort a consecuencia de una lesión de muñeca El piloto francés de Red Bull, Isack Hadjar, se ha lesionado una muñeca durante el periodo vacacional previo al Gran Premio de Países Bajos. El equipo angloaustriaco así lo ha confirmado, nombrando a uno de sus pilotos de la temporada pasada como sustituto provisional. El entrenamiento de los pilotos debe ser variado, no solo para ser efectivo, sino también ameno. Y es que, a diferencia del resto de atletas, no es posible practicar con un Fórmula 1 . Y esto le ha jugado una mala pasada a Isack Hadjar, que se…",
+      "url": "https://www.motor.es/formula-1/red-bull-lesion-hadjar-sustituto-zandvoort-2026115904.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/red-bull-lesion-hadjar-sustituto-zandvoort-2026115904-1787134145_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/red-bull-lesion-hadjar-sustituto-zandvoort-2026115904-1787134145_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-19T11:03:32+00:00"
     },
     {
       "id": "be5c8b097327570d",
@@ -137,6 +364,198 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-19T11:00:15+00:00"
+    },
+    {
+      "id": "720322c5ad0b91a0",
+      "title": "Herbie Wertheim Pays $40M for Ferrari Luce at Monterey Auction",
+      "summary": "Billionaire inventor Dr. Herbie Wertheim paid $40 million for Ferrari's first EV, the Luce Chassis 0, at Monterey Car Week — 36 times its estimate and a new auction record.",
+      "url": "https://www.hotcars.com/herbie-wertheim-ferrari-luce-40m-auction/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/ferrari-luce.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/ferrari-luce.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/05/2027-ferrari-luce-ev-launch.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/05/2027-ferrari-luce-ev-fail-design.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/05/2027-ferrari-luce-ev-news.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/02/img_4583.jpeg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/03/2010-cadillac-cts-v-engine.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-19T11:00:12+00:00"
+    },
+    {
+      "id": "9e61fbeaa6c7a983",
+      "title": "The Last Hand-Built American V8 Super-Sedan Nobody Noticed Cadillac Killed",
+      "summary": "A rare Cadillac super-sedan paired a hand-built twin-turbo V8 with advanced chassis tech before production ended after a remarkably short run.",
+      "url": "https://www.hotcars.com/last-hand-built-american-v8-super-sedan/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2019-cadillac-ct6-v-v-series-badge.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2019-cadillac-ct6-v-v-series-badge.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/01/mixcollage-06-jan-2026-04-47-pm-1862.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2019-cadillac-ct6-v-wheel.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2019-cadillac-ct6-v-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2019-cadillac-ct6-v-rear-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/01/mixcollage-06-jan-2026-05-05-pm-2098.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-19T11:00:12+00:00"
+    },
+    {
+      "id": "0fc9d88e60b32b7d",
+      "title": "『シビックタイプR』用HKSフロントパイプ発売、HKSキャタとの組み合わせで出力347psへ",
+      "summary": "チューニングパーツメーカー・HKSがホンダ『シビックタイプR』（FL5 2022年9月～）向けのフロントパイプ「HKSフロントパイプ」［33004-AH003］を発売した。税込み価格は7万4800円。",
+      "url": "https://response.jp/article/2026/08/19/415473.html",
+      "image": "https://response.jp/imgs/rss/2235906.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2235906.jpg",
+        "https://response.jp/base/images/google-source-banner.png",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2235906.jpg",
+        "https://response.jp/imgs/sq_m_l1/2235906.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-08-19T11:00:03+00:00"
+    },
+    {
+      "id": "88b0157cddae18f2",
+      "title": "Bentley’s New EV Uses 100% Merino Wool—Not Leather",
+      "summary": "Bentley Torcal EV pairs 100-percent Merino wool upholstery with Ombre walnut veneer and recycled paper trim to push sustainable luxury beyond familiar synthetic cabins.",
+      "url": "https://www.motor1.com/news/805445/bentley-torcal-ev-interior-uses/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WxB/s3/bentley-torcal-interior.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/2N4WxB/s3/bentley-torcal-interior.jpg",
+        "https://cdn.motor1.com/images/mgl/Ak3eYP/s5/bentley-torcal-interior.jpg",
+        "https://cdn.motor1.com/images/mgl/VzWk1B/s5/bentley-torcal-interior.jpg",
+        "https://cdn.motor1.com/images/mgl/RqkPBK/s5/bentley-torcal-interior.jpg",
+        "https://cdn.motor1.com/images/mgl/40Y21Y/s5/bentley-torcal-interior.jpg",
+        "https://cdn.motor1.com/images/mgl/MkgGz6/s5/bentley-torcal-interior.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "id": "f096332f4d0ca5e4",
+      "title": "You're Probably Not Checking Your Tire Pressure Enough",
+      "summary": "It takes just minutes, but ignoring your tire pressure could cost you fuel, tire life—and potentially your safety.",
+      "url": "https://www.motor1.com/features/805319/tire-pressure-check-every-month/",
+      "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/xYzq1tBEnpc/s3/thumb.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "id": "04aeda25c580b203",
+      "title": "Новый Kia Sportage: первые изображения",
+      "summary": "Недавно в Сети появились свежие шпионские фотографии, демонстрирующие некоторые особенности внешнего вида кроссовера Sportage нового поколения. Благодаря им у нас есть возможность составит первое представление о внешнем виде грядущей новинки.",
+      "url": "https://www.kolesa.ru/news/novyi-kia-sportage-pervye-izobrazeniia",
+      "image": "https://kolesa-uploads.ru/-/3bbf4c73-13ae-4611-b2a7-a1f2ba31e09d/kia-sportage-front1-mini.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/3bbf4c73-13ae-4611-b2a7-a1f2ba31e09d/kia-sportage-front1-mini.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "id": "2dad2e8f31a07544",
+      "title": "Rivian ya tiene su desembarco europeo dibujado: tres modelos serán los encargados de abrirle la puerta",
+      "summary": "El Rivian R2 llegará a Europa algo más tarde de lo esperado, pero si lo hace bien vendrá bien acompañado. La firma liderada por RJ Scaringe continúa con la intención de aterrizar en el Viejo Continente dado que uno de sus modelos se pensó especialmente teniendo en cuenta gustos y tendencias de Europa, pese a que los coches seguirán fabricándose en Estados Unidos con una nueva planta prevista para 2028. Hace tiempo que esperamos en Europa la llegada oficial de Rivian , tanto con su R2 de formato SUV mediano como con el R3 de corte hatchback. De hecho, si echamos la vista para atrás un par…",
+      "url": "https://www.motor.es/noticias/rivian-r2-europa-2026115896.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/rivian-ya-tiene-su-desembarco-europeo-dibujado-tres-modelos-seran-los-encargados-de-abrirle-la-puerta-2026115896-1787120137_3.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/rivian-ya-tiene-su-desembarco-europeo-dibujado-tres-modelos-seran-los-encargados-de-abrirle-la-puerta-2026115896-1787120137_3.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "id": "a51616e71df600ff",
+      "title": "New Cadillac boss given four immediate priorities as ‘major obstacle’ targeted",
+      "summary": "Cadillac has a new team principal halfway through its first season.",
+      "url": "https://www.planetf1.com/news/cadillac-marcin-budkowski-priorities",
+      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19114806/marcin-budkowski-cadillac-f1-team-120x120.jpg",
+      "images": [
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19114806/marcin-budkowski-cadillac-f1-team-120x120.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/03/25210706/liam-lawson-yuki-tsunoda-red-bull-f1-2025-712x400.png",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18170804/mclaren-lando-norris-hungary-2026-turn-planetf1-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg"
+      ],
+      "source": "PlanetF1",
+      "source_url": "https://www.planetf1.com",
+      "published": "2026-08-19T10:56:39+00:00"
+    },
+    {
+      "id": "de5811f0df9a95cb",
+      "title": "Hyundai Tucson ondergaat totale gedaantewisseling",
+      "summary": "De Hyundai Tucson is altijd al een opvallende verschijning geweest en dat verandert bij deze geheel nieuwe generatie absoluut niet. De in Zuid-Korea onthulde Tucson ziet er lekker eigenzinnig uit.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/hyundai-tucson-ondergaat-totale-gedaantewisseling/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/276892628/width/800/276892628",
+      "images": [
+        "https://images.autoweek.nl/276892628/width/800/276892628"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-08-19T10:56:00+00:00"
+    },
+    {
+      "id": "54cb493c41eed1d7",
+      "title": "MotoGP team boss targeted by fake pass “scam”",
+      "summary": "Gino Borsoi has issued a warning after learning people are impersonating him and requesting money for MotoGP passes.",
+      "url": "https://www.crash.net/motogp/news/1102542/1/motogp-team-boss-targeted-fake-pass-scam",
+      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1322505_hires_1600x900.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-08/gng_1322505_hires_1600x900.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/pictures/picture-72168-1654791772.png",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1332703_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1336982_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/jack-miller-2026-british-motogp-06365_0.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-08/gng_1335888_hires_1600x900.jpg?aspect_ratio=1:1"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-08-19T10:45:05+00:00"
+    },
+    {
+      "id": "55a3ff6a2c3426f9",
+      "title": "『RAV4』60系専用「LED増設ラゲッジランプ」発売、無段階調光＆メモリ機能も搭載",
+      "summary": "カー用品ブランド「CRAFTWORKS（クラフトワークス）」から、トヨタ『RAV4』60系専用の「LED増設ラゲッジランプ」が新発売。購入は楽天市場、アマゾン、Yahoo!ショッピングの各公式ストアから。参考販売価格は税込み5680円より。",
+      "url": "https://response.jp/article/2026/08/19/415472.html",
+      "image": "https://response.jp/imgs/rss/2235874.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2235874.jpg",
+        "https://response.jp/base/images/google-source-banner.png",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2235874.jpg",
+        "https://response.jp/imgs/sq_m_l1/2235874.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-08-19T10:45:03+00:00"
+    },
+    {
+      "id": "e68a963262141623",
+      "title": "Land Rover готовит экстремальный Defender Dakar с 635-сильным V8 и «режимом полёта»",
+      "summary": "В начале 2027 года в продажу поступит адаптированный к дорогам общего пользования Defender Dakar, сделанный на базе гоночного Defender Dakar D7X-R — победителя ралли Дакар 2026 в классе Stock. Главными особенностями Defender Dakar будут самый мощный в гамме бензиновый двигатель V8 и «бронебойная» подвеска.",
+      "url": "https://www.kolesa.ru/news/land-rover-gotovit-ekstremalnyi-defender-dakar-s-635-silnym-v8-i-rezimom-poleta",
+      "image": "https://kolesa-uploads.ru/-/3c790452-6d22-4b20-9469-1ddb968d2bd4/0-0.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/3c790452-6d22-4b20-9469-1ddb968d2bd4/0-0.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-08-19T10:32:22+00:00"
     },
     {
       "id": "9829926d8167967a",
@@ -188,7 +607,7 @@
         "https://cdn.motor1.com/images/mgl/0eWL9z/s5/il-tesla-cybercab-visto-dal-vivo.jpg",
         "https://cdn.motor1.com/images/mgl/1ZEnB7/s5/il-tesla-cybercab-visto-dal-vivo.jpg"
       ],
-      "source": "Motor1",
+      "source": "Motor1 Tesla",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-19T10:30:00+00:00"
     },
@@ -206,18 +625,31 @@
       "published": "2026-08-19T10:30:00+00:00"
     },
     {
+      "id": "7956d885cf7abdd7",
+      "title": "“Biting the screen”: Honda BSB boss praises Ryan Vickers after first 2026 wins",
+      "summary": "Honda Racing UK team manager Scot Hargreaves has praised Ryan Vickers’ effort after securing the team’s first BSB win of 2026.",
+      "url": "https://www.crash.net/bsb/news/1102541/1/biting-screen-honda-bsb-boss-praises-ryan-vickers-after-first-2026-wins",
+      "image": "https://www.crash.net/sites/default/files/2026-08/ih_bsb_thruxton_92039.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-08/ih_bsb_thruxton_92039.jpg?width=1200"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-08-19T10:27:52+00:00"
+    },
+    {
       "id": "eb6e5d8879f2cec3",
       "title": "How F1 drivers spent the 2026 summer beak",
       "summary": "Formula 1's mandatory summer shutdown has given the paddock a much-needed chance to recharge ahead of the Dutch Grand Prix. With the drivers now returning to work in the lead-up to the race at Zandvoort, they have shared a glimpse of how they spent their time off. Here is what the F1 drivers have been up to during the summer break. Kimi Antonelli Current championship leader Antonelli was ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/how-f1-drivers-spent-the-2026-summer-beak/10847288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
-        "https://cdn-1.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-5.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-9.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-1.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
+        "https://cdn-4.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
+        "https://cdn-2.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-9.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-4.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-9.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -228,14 +660,14 @@
       "title": "How F1 drivers spent the 2026 summer beak",
       "summary": "Formula 1's mandatory summer shutdown has given the paddock a much-needed chance to recharge ahead of the Dutch Grand Prix. With the drivers now returning to work in the lead-up to the race at Zandvoort, they have shared a glimpse of how they spent their time off. Here is what the F1 drivers have been up to during the summer break. Kimi Antonelli Current championship leader Antonelli was ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/how-f1-drivers-spent-the-2026-summer-beak/10847288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
-        "https://cdn-3.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
-        "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-2.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-6.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-8.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
+        "https://cdn-2.motorsport.com/images/amp/0kZAOqK6/s6/race-start.jpg",
+        "https://cdn-7.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-6.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-3.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-4.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-1.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -266,12 +698,7 @@
       "url": "https://www.crash.net/f1/news/1102540/1/court-date-set-mclaren-and-red-bull-monaco-gp-appeal-hearing",
       "image": "https://www.crash.net/sites/default/files/2026-08/0506monacofri.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-08/0506monacofri.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/pictures/1bc46a82-ac76-40ea-9cf5-d309b802b0ef_1.jpeg",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1428249_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1232159_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1368517_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1396128_hires.jpg?aspect_ratio=1:1"
+        "https://www.crash.net/sites/default/files/2026-08/0506monacofri.jpg?width=1200"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -284,12 +711,7 @@
       "url": "https://response.jp/article/2026/08/19/415470.html",
       "image": "https://response.jp/imgs/rss/2236095.jpg",
       "images": [
-        "https://response.jp/imgs/rss/2236095.jpg",
-        "https://response.jp/base/images/google-source-banner.png",
-        "https://response.jp/base/images/ico-jpx-iid.png",
-        "https://response.jp/base/images/ico-privacy-iid.png",
-        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2236095.jpg",
-        "https://response.jp/imgs/sq_m_l1/2236095.jpg"
+        "https://response.jp/imgs/rss/2236095.jpg"
       ],
       "source": "Response JP",
       "source_url": "https://response.jp",
@@ -302,12 +724,7 @@
       "url": "https://www.crash.net/motogp/news/1102539/1/without-trying-win-every-time-aprilia-explains-marco-bezzecchis-new-motogp",
       "image": "https://www.crash.net/sites/default/files/2026-08/gng_1336434_hires_1600x900.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-08/gng_1336434_hires_1600x900.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/pictures/picture-72168-1654791772.png",
-        "https://www.crash.net/sites/default/files/2026-08/jorge-martin-2026-british-motogp-00202.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1337361_hires_1600x900.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1337063_hires_1600x900.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/gng_1336993_hires_1600x900.jpg?aspect_ratio=1:1"
+        "https://www.crash.net/sites/default/files/2026-08/gng_1336434_hires_1600x900.jpg?width=1200"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -318,14 +735,14 @@
       "title": "Pedro Acosta: “I’ve never had friends in the paddock, I don’t have any qualms overtaking anyone”",
       "summary": "Just after the summer break and before getting back on the bike at Silverstone – where he finished fifth – Pedro Acosta visited the Motorsport.com studio for an in-depth conversation about what will be his final season as KTM’s leading rider in MotoGP. Next year, he will wear red and his benchmark will be Marc Marquez, who is already waiting for him. Motorsport.com: You went to the ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/acosta-ive-never-had-friends-in-the-paddock-so-i-dont-have-any-qualms-overtaking-anyone-/10847276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
-        "https://cdn-4.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
-        "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-6.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-1.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-6.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
+        "https://cdn-8.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+        "https://cdn-5.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-9.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-2.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-3.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -336,14 +753,14 @@
       "title": "Pedro Acosta: “I’ve never had friends in the paddock, I don’t have any qualms overtaking anyone”",
       "summary": "Just after the summer break and before getting back on the bike at Silverstone – where he finished fifth – Pedro Acosta visited the Motorsport.com studio for an in-depth conversation about what will be his final season as KTM’s leading rider in MotoGP. Next year, he will wear red and his benchmark will be Marc Marquez, who is already waiting for him. Motorsport.com: You went to the ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/acosta-ive-never-had-friends-in-the-paddock-so-i-dont-have-any-qualms-overtaking-anyone-/10847276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
-        "https://cdn-5.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-6.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-3.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-7.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp",
-        "https://cdn-6.motorsport.com/images/amp/25dLeVx0/s200/isack-hadjar-red-bull-racing.webp"
+        "https://cdn-3.motorsport.com/images/amp/25d3mpM0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+        "https://cdn-5.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-9.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-2.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-3.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -361,6 +778,19 @@
       "source": "Motoring Research",
       "source_url": "https://www.motoringresearch.com",
       "published": "2026-08-19T10:04:51+00:00"
+    },
+    {
+      "id": "d1a69034eb46b357",
+      "title": "Седан Nissan Sentra слегка обновился и получил «затемнённую» версию",
+      "summary": "Стоимость посвежевшей четырёхдверки на американском рынке уже известна. За стартовый вариант теперь просят не менее 22 890 долларов, что на 290 долларов больше по сравнению с вариантом 2026 модельного года.",
+      "url": "https://www.kolesa.ru/news/sedan-nissan-sentra-slegka-obnovilsia-i-polucil-zatemnennuiu-versiiu",
+      "image": "https://kolesa-uploads.ru/-/13567c58-7797-4e89-b0f0-90f1439d7d9e/2027-sentra-midnight-edition-1-kopiia.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/13567c58-7797-4e89-b0f0-90f1439d7d9e/2027-sentra-midnight-edition-1-kopiia.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-08-19T10:01:00+00:00"
     },
     {
       "id": "234608a62f40b0d8",
@@ -400,12 +830,7 @@
       "url": "https://response.jp/article/2026/08/19/415469.html",
       "image": "https://response.jp/imgs/rss/2236006.jpg",
       "images": [
-        "https://response.jp/imgs/rss/2236006.jpg",
-        "https://response.jp/base/images/google-source-banner.png",
-        "https://response.jp/base/images/ico-jpx-iid.png",
-        "https://response.jp/base/images/ico-privacy-iid.png",
-        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2236006.jpg",
-        "https://response.jp/imgs/sq_m_l1/2236006.jpg"
+        "https://response.jp/imgs/rss/2236006.jpg"
       ],
       "source": "Response JP",
       "source_url": "https://response.jp",
@@ -443,7 +868,7 @@
         "https://cdn.motor1.com/images/mgl/Znze4e/s5/2026-fiat-topolino.jpg",
         "https://cdn.motor1.com/images/mgl/VzWJ47/s5/2026-fiat-topolino.jpg"
       ],
-      "source": "Motor1",
+      "source": "Motor1 Fiat",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-19T10:00:00+00:00"
     },
@@ -530,11 +955,11 @@
       "image": "https://cdn-2.motorsport.com/images/amp/Y9lLZPb2/s6/start-grid.jpg",
       "images": [
         "https://cdn-2.motorsport.com/images/amp/Y9lLZPb2/s6/start-grid.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
-        "https://cdn-1.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-5.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-9.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-1.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
+        "https://cdn-2.motorsport.com/images/amp/6zoJ59L0/s200/isack-hadjar-red-bull-racing.webp",
+        "https://cdn-9.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-4.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-9.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -545,14 +970,9 @@
       "title": "F1 pre-start procedure to stay despite FIA saying it is no longer a safety issue",
       "summary": "After the practice starts during winter testing in Bahrain proved rather problematic for several Formula 1 outfits, the issue quickly sparked a political debate in the paddock. Many teams wanted more time during the starting procedure to spool their turbochargers and build up the revs, but Ferrari was not keen on that idea as its smaller turbo gave the Scuderia a competitive advantage off the ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/f1-pre-start-procedure-to-stay-despite-fia-saying-it-is-no-longer-a-safety-issue/10847147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/Y9lLZPb2/s6/start-grid.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/Y9lLZPb2/s6/start-grid.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/Y9lLZPb2/s6/start-grid.jpg",
-        "https://cdn-2.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
-        "https://cdn-3.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-5.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-6.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-3.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
+        "https://cdn-6.motorsport.com/images/amp/Y9lLZPb2/s6/start-grid.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -563,14 +983,14 @@
       "title": "Pre-start procedure set to remain for F1 2027",
       "summary": "After the practice starts during winter testing in Bahrain proved rather problematic for several Formula 1 outfits, the issue quickly sparked a political debate in the paddock. Many teams wanted more time during the starting procedure to spool their turbochargers and build up the revs, but Ferrari was not keen on that idea as its smaller turbo gave the Scuderia a competitive advantage off the ... Keep reading",
       "url": "https://www.autosport.com/f1/news/pre-start-procedure-set-to-remain-for-f1-2027/10847275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
-        "https://cdn-4.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
-        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp",
-        "https://cdn-7.motorsport.com/images/amp/YE9EMJLY/s200/image-6-6.webp"
+        "https://cdn-4.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
+        "https://cdn-7.motorsport.com/images/amp/27NQWEx0/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-3.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp"
       ],
       "source": "Autosport F1",
       "source_url": "https://www.autosport.com",
@@ -581,14 +1001,14 @@
       "title": "Pre-start procedure set to remain for F1 2027",
       "summary": "After the practice starts during winter testing in Bahrain proved rather problematic for several Formula 1 outfits, the issue quickly sparked a political debate in the paddock. Many teams wanted more time during the starting procedure to spool their turbochargers and build up the revs, but Ferrari was not keen on that idea as its smaller turbo gave the Scuderia a competitive advantage off the ... Keep reading",
       "url": "https://www.autosport.com/f1/news/pre-start-procedure-set-to-remain-for-f1-2027/10847275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
-        "https://cdn-4.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
-        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp",
-        "https://cdn-7.motorsport.com/images/amp/YE9EMJLY/s200/image-6-6.webp"
+        "https://cdn-4.motorsport.com/images/amp/0qgPbP8Y/s6/practice-start-2.jpg",
+        "https://cdn-9.motorsport.com/images/amp/27NQWEx0/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
+        "https://cdn-2.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-1.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
+        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -761,8 +1181,8 @@
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-712x400.jpg",
         "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/06/19175416/lewis-hamilton-charles-leclerc-ferrari-barcelona-2026-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/03/29104353/f1-2027-confirmed-drivers-planetf1-712x400.jpg"
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19114806/marcin-budkowski-cadillac-f1-team-712x400.jpg",
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg"
       ],
       "source": "PlanetF1",
       "source_url": "https://www.planetf1.com",
@@ -825,14 +1245,9 @@
       "title": "Cadillac \"wouldn't be on the grid\" without Graeme Lowdon, says former F1 TV host",
       "summary": "Former Formula 1 broadcaster Will Buxton has praised Graeme Lowdon following his abrupt exit from his role as Cadillac team principal, insisting the American outfit would not be on the grid today without him. Cadillac announced during the summer break that after just 11 races of its debut campaign, team principal Lowdon would be replaced by former Renault executive director and FIA technical ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/cadillac-wouldnt-be-on-the-grid-without-graeme-lowdon-says-former-f1-tv-host/10847263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
-        "https://cdn-1.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
-        "https://cdn-5.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-9.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-1.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
+        "https://cdn-4.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -843,9 +1258,9 @@
       "title": "Cadillac \"wouldn't be on the grid\" without Graeme Lowdon, says former F1 TV host",
       "summary": "Former Formula 1 broadcaster Will Buxton has praised Graeme Lowdon following his abrupt exit from his role as Cadillac team principal, insisting the American outfit would not be on the grid today without him. Cadillac announced during the summer break that after just 11 races of its debut campaign, team principal Lowdon would be replaced by former Renault executive director and FIA technical ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/cadillac-wouldnt-be-on-the-grid-without-graeme-lowdon-says-former-f1-tv-host/10847263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg"
+        "https://cdn-3.motorsport.com/images/amp/68VWODG2/s6/graeme-lowdon-team-principal-o.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -934,7 +1349,7 @@
     {
       "id": "e884d7d96c3b8b09",
       "title": "The RACER Mailbag, August 19",
-      "summary": "Welcome to the RACER Mailbag. Questions for any of RACER’s writers can be sent to mailbag@racer.com. We love hearing your comments and opinions, but letters that include a question are more likely to be published. Questions received after 12pm ET each Monday will be saved for the following week.Q: I...",
+      "summary": "Markham plus and minus,",
       "url": "https://racer.com/2026/08/18/the-racer-mailbag-august-19",
       "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt8cc46d79cf750ebb/67d4400c34c6be3ff1adb6ee/mailbag.jpg?environment=live",
       "images": [
@@ -981,12 +1396,7 @@
       "url": "https://www.crash.net/f1/feature/1102535/1/f1-driver-market-latest-rumours-amid-possible-2027-shake",
       "image": "https://www.crash.net/sites/default/files/2026-08/si202607180098.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-08/si202607180098.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/pictures/1bc46a82-ac76-40ea-9cf5-d309b802b0ef_1.jpeg",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1232159_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1232243_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1301822_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1368517_hires.jpg?aspect_ratio=1:1"
+        "https://www.crash.net/sites/default/files/2026-08/si202607180098.jpg?width=1200"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -1010,9 +1420,9 @@
       "title": "Why ADAC Nordrhein’s new Nurburgring-based racing series is a high-risk game",
       "summary": "The announcement of ADAC Nordrhein’s new endurance series last month was a bombshell the fallout from which is still settling. But one thing is abundantly clear from the move: the stakes are enormous for everyone involved. NLS once again finds itself in a fight for survival. That is hardly uncharted territory by now, so the NLS organiser VLN is taking things remarkably calmly. Like NES ... Keep reading",
       "url": "https://www.motorsport.com/endurance/news/why-adac-nordrhein-new-nurburgring-racing-series-high-risk-game/10847142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/725jENkY/s6/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/725jENkY/s6/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/725jENkY/s6/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.jpg"
+        "https://cdn-4.motorsport.com/images/amp/725jENkY/s6/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -1123,12 +1533,7 @@
       "url": "https://www.hotcars.com/oldsmobile-beat-mopar-six-pack-decade-early/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1957-oldsmobile-super-88-emblem-copy.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1957-oldsmobile-super-88-emblem-copy.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2023/06/1956-ford-fairlane-mecum-auctions.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1957-oldsmobile-super-88-convertible.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/371-rocket-v8-tri-power.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/mixcollage-03-jul-2026-09-59-am-1208.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2-10.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1957-oldsmobile-super-88-emblem-copy.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -1198,12 +1603,7 @@
       "url": "https://www.planetf1.com/news/mercedes-w17-toto-wolff-upgrade-plan",
       "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-120x120.jpg",
       "images": [
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-120x120.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18170804/mclaren-lando-norris-hungary-2026-turn-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/06/19175416/lewis-hamilton-charles-leclerc-ferrari-barcelona-2026-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/03/29104353/f1-2027-confirmed-drivers-planetf1-712x400.jpg"
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-120x120.jpg"
       ],
       "source": "PlanetF1",
       "source_url": "https://www.planetf1.com",
@@ -1473,14 +1873,14 @@
       "title": "Hadjar could miss F1 Dutch GP with Red Bull replacement plan already in place",
       "summary": "Max Verstappen could have a different team-mate alongside him for his final home race on the Formula 1 calendar. Isack Hadjar is dealing with a wrist injury sustained during a gym session ahead of the race weekend at Zandvoort, Autosport has learned, and could be forced to miss the Dutch Grand Prix. Laurent Mekies' team has yet to make a formal decision and, at this stage, was unable to ... Keep reading",
       "url": "https://www.autosport.com/f1/news/hadjar-could-miss-f1-dutch-gp/10847250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
+        "https://cdn-4.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
+        "https://cdn-7.motorsport.com/images/amp/27NQWEx0/s200/isack-hadjar-red-bull-racing-2.webp",
         "https://cdn-3.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
         "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
-        "https://cdn-6.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp",
-        "https://cdn-4.motorsport.com/images/amp/YE9EMJLY/s200/image-6-6.webp"
+        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp"
       ],
       "source": "Autosport F1",
       "source_url": "https://www.autosport.com",
@@ -1491,14 +1891,14 @@
       "title": "Hadjar could miss F1 Dutch GP with Red Bull replacement plan already in place",
       "summary": "Max Verstappen could have a different team-mate alongside him for his final home race on the Formula 1 calendar. Isack Hadjar is dealing with a wrist injury sustained during a gym session ahead of the race weekend at Zandvoort, Autosport has learned, and could be forced to miss the Dutch Grand Prix. Laurent Mekies' team has yet to make a formal decision and, at this stage, was unable to ... Keep reading",
       "url": "https://www.autosport.com/f1/news/hadjar-could-miss-f1-dutch-gp/10847250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
-        "https://cdn-5.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
-        "https://cdn-1.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
-        "https://cdn-7.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp",
-        "https://cdn-6.motorsport.com/images/amp/YE9EMJLY/s200/image-6-6.webp"
+        "https://cdn-7.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-2.jpg",
+        "https://cdn-2.motorsport.com/images/amp/27NQWEx0/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-9.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
+        "https://cdn-4.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
+        "https://cdn-3.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
+        "https://cdn-5.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -1526,9 +1926,9 @@
       "title": "Isack Hadjar could miss F1 Dutch GP with Red Bull replacement plan already in place",
       "summary": "Max Verstappen could have a different team-mate alongside him for his final home race on the Formula 1 calendar. Isack Hadjar is dealing with a wrist injury sustained during a gym session ahead of the race weekend at Zandvoort, Motorsport.com has learned, and could be forced to miss the Dutch Grand Prix. Laurent Mekies' team has yet to make a formal decision and, at this stage, was unable to ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/isack-hadjar-could-miss-f1-dutch-gp-with-red-bull-replacement-plan-already-in-place/10847237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/25dLeVx0/s6/isack-hadjar-red-bull-racing.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/25dLeVx0/s6/isack-hadjar-red-bull-racing.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/25dLeVx0/s6/isack-hadjar-red-bull-racing.jpg"
+        "https://cdn-1.motorsport.com/images/amp/25dLeVx0/s6/isack-hadjar-red-bull-racing.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -1585,7 +1985,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/Skoda-Slavia-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/MINI-Cooper-S-Rooftop-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Mahindra-Scorpio-Lifestyler-1-copy-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Hyundai-Elantra-Wagon-N-Red-Front-copy-2048x1153.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Hyundai-Tucson-New-Design-3-2048x1152.jpg"
       ],
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
@@ -1738,12 +2138,7 @@
       "url": "https://www.planetf1.com/news/isack-hadjar-dutch-grand-prix-2026-injury",
       "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-120x120.jpg",
       "images": [
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-120x120.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18170804/mclaren-lando-norris-hungary-2026-turn-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/18163313/toto-wolff-mercedes-garage-vesti-background-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/06/19175416/lewis-hamilton-charles-leclerc-ferrari-barcelona-2026-planetf1-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/09/17153800/planetf1-whatsapp-channel-712x400.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2025/03/29104353/f1-2027-confirmed-drivers-planetf1-712x400.jpg"
+        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/19071336/isack-hadjar-red-bull-f1-2026-hungarian-grand-prix-120x120.jpg"
       ],
       "source": "PlanetF1",
       "source_url": "https://www.planetf1.com",
@@ -2050,19 +2445,6 @@
       "published": "2026-08-19T05:46:08+00:00"
     },
     {
-      "id": "b5e93cf22b30a7b4",
-      "title": "自動運転トラックの公道テスト認可、米カリフォルニア州で取得…Kodiak AI",
-      "summary": "自動運転技術を開発するコディアックAI（Kodiak AI）は、米国カリフォルニア州自動車局（DMV）の新たな自動運転車テスト（AVT）プログラムのもと、重量商用自動運転車の公道テスト認可を取得したと発表した。",
-      "url": "https://response.jp/article/2026/08/19/415448.html",
-      "image": "https://response.jp/imgs/rss/2235835.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2235835.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-08-19T05:45:02+00:00"
-    },
-    {
       "id": "a06771c630e38000",
       "title": "Ferrari told ‘leave Charles Leclerc alone’ amid Lewis Hamilton battle",
       "summary": "\"Leave him alone.\"",
@@ -2113,19 +2495,6 @@
       "source": "Gaadiwaadi IN",
       "source_url": "https://gaadiwaadi.com",
       "published": "2026-08-19T05:30:10+00:00"
-    },
-    {
-      "id": "59d8d1a3f832fb10",
-      "title": "ヒューマノイドを新卒総合職として採用へ…その名は「宮澤ノア」",
-      "summary": "長野県の鉄鋼製品メーカー・カクイチとロボティクス企業のPlay Roboticsが、二足歩行型ヒューマノイドロボット「宮澤ノア」（Unitree社製G1）を2027年4月に新卒総合職として迎える共同プロジェクトを始動した。日本の中小企業として初の取り組みで、配属先を限定せず……",
-      "url": "https://response.jp/article/2026/08/19/415447.html",
-      "image": "https://response.jp/imgs/rss/2235743.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2235743.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-08-19T05:30:04+00:00"
     },
     {
       "id": "3f3628186472b5cf",
@@ -2423,24 +2792,6 @@
       "published": "2026-08-19T03:02:34+00:00"
     },
     {
-      "id": "ed863099fef5c455",
-      "title": "One Owner to 2025: 1967 Chevrolet Impala SS 396",
-      "summary": "Chevrolet released the Super Sport in 1961 as a performance version of the Impala. The following year, the car became more about style, and any Chevy drivetrain could be ordered. Demand began to decline as the decade wore on,... Read More »",
-      "url": "https://barnfinds.com/one-owner-to-2025-1967-chevrolet-impala-ss-396/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevy-Impala-SS-e1787076617994-630x390.png",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevy-Impala-SS-e1787076617994-630x390.png",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevy-Impala-Super-Sport-e1787076657619-630x390.png",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Impala-SS-Buckets-e1787076684770-630x390.png",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevy-396-V8-e1787076711164-630x390.png",
-        "https://barnfinds.com/wp-content/uploads/2021/05/Russ-Dixon-120x120.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1971-Chevrolet-Camaro-RS-2-120x120.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-19T03:00:00+00:00"
-    },
-    {
       "id": "4ed83c039e29ed22",
       "title": "Audi could keep five-cylinder engine in production",
       "summary": "Audi could keep its turbocharged five-cylinder engine in production for another generation of models despite tightening emissions regulations, reported Autocar. The turbocharged 2.5 litre inline-five cylinder engine, presently codenamed EA855 is currently in use by […] The post Audi could keep five-cylinder engine in production appeared first on Paul Tan's Automotive News .",
@@ -2465,6 +2816,24 @@
       "source": "CarWale IN",
       "source_url": "https://www.carwale.com",
       "published": "2026-08-19T02:38:23+00:00"
+    },
+    {
+      "id": "85d4ce5959f8fa79",
+      "title": "Volkswagen’s New E-Bike Watches Your Back",
+      "summary": "Rear-facing radar can spot approaching cars from 230 feet away, while connected glasses put blind-spot warnings and navigation directly in the rider’s view.",
+      "url": "https://www.autoweek.com/news/a73468772/volkswagens-e-bike-reveal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/095c8943-932b-4d71-9eea-69c5b6ffd0d0.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/095c8943-932b-4d71-9eea-69c5b6ffd0d0.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/58d1c399-5499-4768-8c19-c2b6befcd79e.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/cdada14d-516f-44ed-b382-a976db2d620f.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/778fa614-702c-4cd1-a805-3c09318cc1d8.jpg?crop=1xw:0.966xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/20626511-c987-4280-af0a-36580c57fa9f.jpg?crop=0.667xw:1xh;0.216xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/19a3dd9a-2efd-4e05-95ba-18d89c16145d.jpg?crop=0.676xw:1xh;0.187xw,0xh&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-19T02:34:21+00:00"
     },
     {
       "id": "f5c8b3882f55ab07",
@@ -2584,34 +2953,11 @@
       "url": "https://www.hotcars.com/the-volkswagen-wagon-hiding-w8-engine-nobody-bought/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/volkswagen-passat-4-0-liter-w8-engine.jpeg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/volkswagen-passat-4-0-liter-w8-engine.jpeg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/03/2004-volkswagen-phaeton-w12-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/10/cropped-imgi_1_2003_volkswagen_passat_2003_volkswagen_passat_c61b290d-b315-4f22-a042-8f8cc50078.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/volkswagen-passat-w8-estate.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/793190.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/04/hurricane-sixpack-engine.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/volkswagen-passat-4-0-liter-w8-engine.jpeg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-08-19T02:00:22+00:00"
-    },
-    {
-      "id": "f17cf991cb894f1a",
-      "title": "Numbers Matching: 1967 Chevrolet Camaro RS Convertible",
-      "summary": "Although it isn’t an SS, there’s much to like about this 1967 Chevrolet Camaro Convertible. It features the touches you would expect from the RS variant, and it retains its numbers-matching drivetrain. It underwent restoration approximately twenty-five years ago,... Read More »",
-      "url": "https://barnfinds.com/numbers-matching-1967-chevrolet-camaro-rs-convertible/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevrolet-Camaro-RS-Convertible-1-e1787065454780-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevrolet-Camaro-RS-Convertible-1-e1787065454780-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevrolet-Camaro-RS-Convertible-2-e1787008177734-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevrolet-Camaro-RS-Convertible-3-e1787008200745-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevrolet-Camaro-RS-Convertible-4-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Chevrolet-Camaro-RS-Convertible-5-e1787008222849-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1971-Chevrolet-Camaro-RS-2-120x120.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-19T02:00:00+00:00"
     },
     {
       "id": "ac2e0271ba391c0f",
@@ -2900,24 +3246,6 @@
       "published": "2026-08-19T01:00:12+00:00"
     },
     {
-      "id": "02123cabfa81c680",
-      "title": "429 V8 Drop-Top: 1969 Ford Galaxie XL",
-      "summary": "Ford introduced the Galaxie 500 XL (supposedly for “Extra Lively”) in 1962 to compete against the Chevrolet Impala Super Sport. The seller says this 1969 edition is a Galaxie XL, which had become a trim level rather than a... Read More »",
-      "url": "https://barnfinds.com/429-v8-drop-top-1969-ford-galaxie-xl/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-Galaxie-500-e1787065943230-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-Galaxie-500-e1787065943230-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Galaxie-500-Ford-e1787065977260-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-Galaxie-Interior-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-Galaxie-Steering-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2021/05/Russ-Dixon-120x120.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/08/1971-Chevrolet-Camaro-RS-2-120x120.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-19T01:00:00+00:00"
-    },
-    {
       "id": "7199c226f17f73cb",
       "title": "Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine",
       "summary": "The specialized truck is designed to help emergency crews reach incident scenes significantly faster than traditional full-sized fire trucks",
@@ -2931,7 +3259,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ford-Ranger-Super-Duty-Fire-Response-Unit-6-2048x1366.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ford-Ranger-Super-Duty-Fire-Response-Unit-7-2048x1366.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Ford",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-19T00:49:00+00:00"
     },
@@ -3032,26 +3360,13 @@
       "published": "2026-08-19T00:00:12+00:00"
     },
     {
-      "id": "f2ec6cf91a646e7a",
-      "title": "Stored 12 Years: 1967 Ford Falcon Sports Coupe",
-      "summary": "For the first half of the 1960s, the Ford Falcon dominated U.S. compact car sales. But demand tapered off in the second half as the new Mustang “pony car” drew away some of the Falcon’s audience. The seller has... Read More »",
-      "url": "https://barnfinds.com/stored-12-years-1967-ford-falcon-sports-coupe/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1967-Ford-Falcon-e1787063309462-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Ford-Falcon-e1787063309462-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-19T00:00:00+00:00"
-    },
-    {
       "id": "93a56f5610be0e6d",
       "title": "Man charged with burglarizing Greg Biffle's home after fatal plane crash, investigation ongoing",
       "summary": "Iredell County Sheriff Darren Campbell announced that Terrell Williams of Georgia, aged 44, has been charged with second-degree burglary, safe cracking, money laundering, obtaining property by false pretense, possession of burglary tools, larceny, and other felonies. Sheriff Campbell said that Williams is being held without bond in Cobb County, Georgia, on suspicion of a completely different ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/man-charged-with-burglarizing-greg-biffles-home-after-fatal-plane-crash-investigation-ongoing/10847222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/63QakA82/s6/biffle.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/63QakA82/s6/biffle.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/63QakA82/s6/biffle.jpg"
+        "https://cdn-1.motorsport.com/images/amp/63QakA82/s6/biffle.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3064,12 +3379,7 @@
       "url": "https://carbuzz.com/subaru-ej-engine-head-gasket-reliability/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2014-subaru-forester.png",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2014-subaru-forester.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/11-9.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/subaru-forester-2011-1280-4c6edea739a434939e59e3c53328e1cd18.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/08/2014-forester-on-the-road.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/2014-subaru-forester-xt.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2014-subaru-forester.png"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -3167,19 +3477,6 @@
       "published": "2026-08-18T23:00:00+00:00"
     },
     {
-      "id": "3d9588a2e3ab5a25",
-      "title": "One-Owner Sport Tourer: 2001 Honda ST1100",
-      "summary": "Some motorcycles encourage you to take the long way home. Honda’s ST1100 was built for riders who might decide the long way should include another state. This 2001 Honda ST1100, described by the seller as a Canadian-version Pan American,... Read More »",
-      "url": "https://barnfinds.com/one-owner-sport-tourer-2001-honda-st1100/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/2001-Honda-ST1100-Pan-American-1.jpeg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/2001-Honda-ST1100-Pan-American-1.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T23:00:00+00:00"
-    },
-    {
       "id": "01fe40c36d3a73e8",
       "title": "Kia Tasman: preço, equipamentos, consumo e desempenho",
       "summary": "Anunciada no Salão do Automóvel, a Kia Tasman acaba de ser lançada no Brasil. A picape média será mais uma rival para Toyota Hilux, Ford Ranger, Mitsubishi Triton e companhia, apostando forte em aspectos como tecnologia e design (exótico para os padrões do segmento). Oferecida inicialmente em versão única, GL, a Kia Tasman será vendida por R$ 249.990. A picape média é equipada com motor 2.2 turbodiesel de 210 cv e 45 kgfm de torque. O câmbio é automático de oito marchas com tração 4x4 com seletor de terrenos. Kia Tasman chega ao Brasil com o visual que causou polêmica no mundo André…",
@@ -3241,9 +3538,9 @@
       "title": "Connor Zilisch couldn’t say ‘no’ to a Cup ride at Hendrick Motorsports",
       "summary": "Loyalty means a great deal to Connor Zilisch but this is Hendrick Motorsports. The 20-year-old is trudging along through a challenging Cup Series rookie season with Trackhouse Racing but already knows where he is going after that first contract expires after next season -- the No. 48 Ally Chevrolet. It is a unique scenario because Rick Hendrick has coveted Zilisch ever since last season ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/connor-zilisch-couldnt-say-no-to-a-cup-ride-at-hendrick-motorsports-/10847216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/0R7B5zv2/s6/rick-hendrick-and-connor-zilis.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0R7B5zv2/s6/rick-hendrick-and-connor-zilis.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/0R7B5zv2/s6/rick-hendrick-and-connor-zilis.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0R7B5zv2/s6/rick-hendrick-and-connor-zilis.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3320,6 +3617,24 @@
       "published": "2026-08-18T22:00:12+00:00"
     },
     {
+      "id": "5ebbe032b27529fd",
+      "title": "Aston Martin’s 838 HP Vanquish S Has An Exhaust Problem We Can’t Ignore",
+      "summary": "The hotter V12 flagship is back testing, and its eight tailpipes have us asking questions",
+      "url": "https://www.carscoops.com/2026/08/aston-martins-838-hp-vanquish-s-has-an-exhaust-problem-we-cant-ignore/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-Aug-26-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-Aug-26-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-00003-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-00006-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-00001-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-00002-1-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-00004-2048x1365.jpg"
+      ],
+      "source": "CarScoops Aston",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-18T22:00:00+00:00"
+    },
+    {
       "id": "46293bde1c4dfe14",
       "title": "Cadillac’s best-selling SUV gets PHEV power, clever Chinese assisted driving tech",
       "summary": "Cadillac is belatedly launching another plug-in hybrid, which will also feature assisted driving technology from Momenta.",
@@ -3330,32 +3645,6 @@
       ],
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
-      "published": "2026-08-18T22:00:00+00:00"
-    },
-    {
-      "id": "5ebbe032b27529fd",
-      "title": "Aston Martin’s 838 HP Vanquish S Has An Exhaust Problem We Can’t Ignore",
-      "summary": "The hotter V12 flagship is back testing, and its eight tailpipes have us asking questions",
-      "url": "https://www.carscoops.com/2026/08/aston-martins-838-hp-vanquish-s-has-an-exhaust-problem-we-cant-ignore/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-Aug-26-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Aston-Martin-Vanquish-S-scoop-Aug-26-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-18T22:00:00+00:00"
-    },
-    {
-      "id": "581f0cf68b6476d6",
-      "title": "Grandfather’s Truck: 1992 Ford F-250",
-      "summary": "It’s a simple thing, but an OBS – or “Old Bodystyle” Ford F-Series truck is one of the more pleasing rigs to find in good, clean condition these days. It reinforces just how great this design was when it... Read More »",
-      "url": "https://barnfinds.com/grandfathers-truck-1992-ford-f-250/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1992-Ford-F250-front-e1787047689485-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1992-Ford-F250-front-e1787047689485-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-08-18T22:00:00+00:00"
     },
     {
@@ -3479,12 +3768,7 @@
       "url": "https://www.topspeed.com/japanese-adventure-bike-does-it-all/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/fb_r_w-1-1.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/fb_r_w-1-1.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/10/2024-honda-africa-twin-actionsand.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/12/fb_r_w.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/07/2024-honda-africa-twin-crf1100l-cruising-over-sand-dunes.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/20-honda-crf1100l-africa-twin-adventure-sports-se_front-brake.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/07/2024-honda-africa-twin-crf1100l-engine-with-dct-close-up-detail.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/fb_r_w-1-1.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -3528,32 +3812,6 @@
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-18T21:00:00+00:00"
-    },
-    {
-      "id": "166fd5d4a2bd5236",
-      "title": "Family Owned V12: 1990 Jaguar XJS Convertible",
-      "summary": "When we think of collector cars, we tend to make a connection between vintage vehicles and value. I know I’m guilty of this; if a car doesn’t have potential to increase in value, even gradually, I may write it... Read More »",
-      "url": "https://barnfinds.com/family-owned-v12-1990-jaguar-xjs-convertible/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1990-Jaguar-XJS-front-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1990-Jaguar-XJS-front-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T21:00:00+00:00"
-    },
-    {
-      "id": "0221767921f1b169",
-      "title": "Lincoln's Luxury Bronco Could Battle The Mercedes G-Class Earlier Than Expected",
-      "summary": "The upscale off-roader could hit production in 2029, if new reports are to be believed.",
-      "url": "https://carbuzz.com/lincoln-bronco-rumored-2029-launch-august-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/1999-lincoln-blackwood-concept-closeup.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/1999-lincoln-blackwood-concept-closeup.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-18T20:46:26+00:00"
     },
     {
       "id": "947d973323f1d0be",
@@ -3678,19 +3936,6 @@
       "published": "2026-08-18T20:22:15+00:00"
     },
     {
-      "id": "c344fa450b6793d4",
-      "title": "Jeeporghini: Countach Body On A 1995 Jeep Wrangler YJ",
-      "summary": "A North Carolina builder merged a Fiero-based Countach replica with a 1995 Jeep Wrangler YJ frame, creating a lifted, 4WD off-roader unlike anything else in 2026.",
-      "url": "https://www.hotcars.com/jeeporghini-countach-wrangler-yj-build/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/jeeporghini.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/jeeporghini.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-08-18T20:19:44+00:00"
-    },
-    {
       "id": "cdb048c21c788eaf",
       "title": "GWM Ora 03 e Ora 5: compare os elétricos chineses em detalhes",
       "summary": "O GWM Ora 03 chegou ao Brasil em 2023 para tentar frear o ímpeto do BYD Dolphin. Agora, três anos depois, o hatch é vendido em versão única e teve redução nos valores após a chegada de um irmão, o Ora 5. A chegada do Ora 5 causou alvoroço na rede de concessionárias e filas de espera. O SUV, com porte de Toyota Corolla Cross, chegou por R$ 159.990. O Ora 03 era vendido por R$ 169.990, mas ficou R$ 20 mil mais barato justamente para abrir espaço no portfólio da GWM. Visual retrô é uma das apostas da linha Ora Divulgação Na oferta do Mercado Livre, além do bônus de R$ 20 mil, é possível optar…",
@@ -3769,19 +4014,6 @@
       "published": "2026-08-18T20:00:00+00:00"
     },
     {
-      "id": "e28cf1c462671e27",
-      "title": "13k Original Miles: 1978 Buick LeSabre",
-      "summary": "If, for some reason, you’d like to be transported back to 1978, then here’s your way there. This striking 1978 Buick LeSaber Custom Landau looks practically new and has only 13,298 original miles. It was purchased new from Win Stephens... Read More »",
-      "url": "https://barnfinds.com/13k-original-miles-1978-buick-lesabre/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/image-630x390.png",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/image-630x390.png"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T20:00:00+00:00"
-    },
-    {
       "id": "76aa959ee2a3bb2a",
       "title": "Toyota Corolla обзавелась юбилейной версией на одном из главных для модели рынков",
       "summary": "Теперь посвящённый 60-летию вариант появился и у Короллы, предназначенной для США. В продажу такой седан поступит в начале 2027 года.",
@@ -3801,9 +4033,14 @@
       "url": "https://www.carscoops.com/2026/08/2027-toyota-corolla/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-Corolla-60th-1024x578.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-Corolla-60th-1024x578.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-Corolla-60th-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Toyota-Corolla-818-12-2048x1391.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Toyota-Corolla-818-11-2048x1389.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Toyota-Corolla-818-13-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Toyota-Corolla-818-14-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Toyota-Corolla-818-3-2048x1331.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Toyota",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-18T19:54:00+00:00"
     },
@@ -3812,14 +4049,9 @@
       "title": "Plato departs troubled BTCC team",
       "summary": "Plato Racing will continue in the British Touring Car Championship with a new name after the departure of team principal Jason Plato. Since the team’s stellar weekend at Knockhill last time out, which netted the first win for its Mercedes A35 Saloon in a full-points Sunday championship race, Plato Racing was placed into administration with losses of over £800,000. Following a statement ... Keep reading",
       "url": "https://www.autosport.com/btcc/news/plato-departs-troubled-btcc-team/10847259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/YN7w5kW6/s6/daniel-rowbottom-plato-racing.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s6/daniel-rowbottom-plato-racing.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/YN7w5kW6/s6/daniel-rowbottom-plato-racing.jpg",
-        "https://cdn-1.motorsport.com/images/usa/x6zDxZ72/s2/img923954371-1.jpg",
-        "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s1000/daniel-rowbottom-plato-racing.webp",
-        "https://cdn.motorsport.com/images/mgl/2GdKmzzY/s1000/adam-morgan-cataclean-plato-ra.jpg",
-        "https://cdn.motorsport.com/images/amp/Y9lN7pG2/s2/daniel-lloyd-restart-racing-hy-2.jpg",
-        "https://cdn.motorsport.com/images/amp/2Qedwpv2/s2/doble-r6tb3510-jpg.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YN7w5kW6/s6/daniel-rowbottom-plato-racing.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -3856,9 +4088,9 @@
       "title": "Kyle Larson shares his favorite Kyle Busch memory",
       "summary": "NASCAR has declared August 18 as Kyle Busch Day, celebrating the two numbers (8/18) with which he built the legend of his racing career. Across the sport, Busch's fans and fellow drivers alike are sharing memories of Rowdy and telling stories of how he impacted their lives in the racing world. Kyle Larson took part in the remembrances in a video shared by Hendrick Motorsports, telling the story ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/kyle-larson-shares-his-favorite-kyle-busch-memory/10847199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/68yqrAV0/s6/kyle-busch-richard-childress-r.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/68yqrAV0/s6/kyle-busch-richard-childress-r.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/68yqrAV0/s6/kyle-busch-richard-childress-r.jpg"
+        "https://cdn-2.motorsport.com/images/amp/68yqrAV0/s6/kyle-busch-richard-childress-r.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -3876,19 +4108,6 @@
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-08-18T19:31:15+00:00"
-    },
-    {
-      "id": "7fcb893b3c30f6e6",
-      "title": "The Last 400-Horsepower Manual Transmission Cars Left In America In 2026",
-      "summary": "When you want 400 horsepower and a manual transmision, there aren't many cars to choose from. Thankfully, those offered are pretty amazing.",
-      "url": "https://www.hotcars.com/last-400-horsepower-manual-transmission-cars-left-america-in-2025/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/lotus-emira-manual-shifter.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/lotus-emira-manual-shifter.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-08-18T19:30:12+00:00"
     },
     {
       "id": "80b1494ef90a40e4",
@@ -3915,19 +4134,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-08-18T19:25:00+00:00"
-    },
-    {
-      "id": "e6d452dd68194a82",
-      "title": "How Much It Costs To Replace A Honda CR-V Hybrid Battery In 2026",
-      "summary": "A new battery for your hybrid CR-V is going to set you back by a couple of thousand dollars.",
-      "url": "https://www.topspeed.com/replacement-costs-honda-cr-v-hybrid-battery/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-315-1.jpeg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-315-1.jpeg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-18T19:15:11+00:00"
     },
     {
       "id": "056a82e64b717696",
@@ -4042,19 +4248,6 @@
       "source": "GM Authority",
       "source_url": "https://gmauthority.com",
       "published": "2026-08-18T19:00:05+00:00"
-    },
-    {
-      "id": "b8926fa5867a1a2a",
-      "title": "$100K When New: 1992 Mercedes-Benz 500SL",
-      "summary": "One of the more staggering details about vehicles that end up as projects or barn finds is how much they originally cost. The seller of this R129-series Mercedes-Benz 500SL has the original window sticker and other details confirming the... Read More »",
-      "url": "https://barnfinds.com/100k-when-new-1992-mercedes-benz-500sl/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1992-Mercedes-Benz-500SL-front-e1786979510137-630x390.webp",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1992-Mercedes-Benz-500SL-front-e1786979510137-630x390.webp"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T19:00:00+00:00"
     },
     {
       "id": "415f9074d675239e",
@@ -4231,19 +4424,6 @@
       "published": "2026-08-18T18:00:00+00:00"
     },
     {
-      "id": "6b17711dc166bb30",
-      "title": "Color Changed: 1967 Ford Fairlane 500",
-      "summary": "While some enthusiasts prefer to fly under the radar, others want their classic to make a bold statement. If you fall into the second category, this 1967 Ford Fairlane 500 deserves a close look. It features a V8 under... Read More »",
-      "url": "https://barnfinds.com/color-changed-1967-ford-fairlane-500/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1967-Ford-Fairlane-500-Photo-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1967-Ford-Fairlane-500-Photo-1-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T18:00:00+00:00"
-    },
-    {
       "id": "51ca6e4c881edadf",
       "title": "Más de 80 caravanas ocupan los campos de un club de rugby y la paciencia de los dueños se ha acabado: \"Solo falta enviarles una invitación para venir al camping\"",
       "summary": "Más de 680 jugadores federados de un club de rugby de Marsella no pueden utilizar sus propios campos de juego porque han sido invadidos por decenas de autocaravanas.",
@@ -4261,9 +4441,9 @@
       "title": "Kyle Larson's Knoxville Nationals win brings Cup momentum too",
       "summary": "In some ways, Kyle Larson winning the Knoxville Nationals on Saturday night was a victory for Hendrick Motorsports, even though the Cup Series team is not directly involved with the Paul Silva No. 57 program. When Larson races Sprint Cars, he does so with a degree of sponsorship support from Rick Hendrick, but he otherwise drives out of a stable owned by the veteran crew chief and car owner of ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/kyle-larsons-knoxville-nationals-win-brings-cup-momentum-too-/10847188/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0Zq8wK86/s6/kyle-larson-hendrick-motorspor.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0Zq8wK86/s6/kyle-larson-hendrick-motorspor.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0Zq8wK86/s6/kyle-larson-hendrick-motorspor.jpg"
+        "https://cdn-7.motorsport.com/images/amp/0Zq8wK86/s6/kyle-larson-hendrick-motorspor.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4287,9 +4467,9 @@
       "title": "Drivers like Connor Zilisch and Erik Jones show how Kyle Busch's legacy crossed generations",
       "summary": "NASCAR is celebrating August 18 as Kyle Busch Day, honoring the two numbers (8/18) that Busch wore through the majority of his racing career. Busch died unexpectedly in May of this year, sending a shock through the NASCAR world. His fellow drivers have been honoring his memory throughout the year since his passing, and Kyle Busch Day allowed for another wave of tributes to pour in. Busch's ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/drivers-like-connor-zilisch-and-erik-jones-show-how-kyle-buschs-legacy-crossed-nascar-generations/10847176/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/YP7r8aQ2/s6/kyle-busch-richard-childress-r.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YP7r8aQ2/s6/kyle-busch-richard-childress-r.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YP7r8aQ2/s6/kyle-busch-richard-childress-r.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YP7r8aQ2/s6/kyle-busch-richard-childress-r.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4488,19 +4668,6 @@
       "published": "2026-08-18T17:00:00+00:00"
     },
     {
-      "id": "434188a77d1e86df",
-      "title": "One-Owner: 1985 Buick LeSabre Custom",
-      "summary": "Beginning in 1959, the LeSabre became Buick’s leading full-size product. And it held that role into the early 21st Century. In 1977, Buick began downsizing some of its cars for better fuel mileage, including the LeSabre. The seller’s 1985... Read More »",
-      "url": "https://barnfinds.com/one-owner-1985-buick-lesabre-custom/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1985-Buick-LeSabre-e1787020635297-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1985-Buick-LeSabre-e1787020635297-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T17:00:00+00:00"
-    },
-    {
       "id": "ae888ccf18399191",
       "title": "Xiaomi convierte su primer coche en un fenómeno: 500.000 SU7 vendidos en solo 28 meses",
       "summary": "El Xiaomi SU7 ha logrado vender medio millón de unidades desde su debut en marzo de 2024 sólo en China. Desde el lanzamiento de la primera versión, en marzo de 2024, ha alcanzado el tiempo récord la cifra del medio millón de unidades registradas, desde principios de este año con una versión renovada con mejor equipamiento para continuar mandando entre los sedán eléctricos en China. Xiaomi aseguró el pasado lunes 17 de agosto que su SU7, su sedán eléctrico insignia (acompañado en la gama por el YU7 SUV) ya ha superado la barrera de los 500.000 ejemplares vendidos al público. Lo ha…",
@@ -4570,9 +4737,9 @@
       "title": "NASCAR declares 8/18 'Kyle Busch Day' as tributes pour in",
       "summary": "In a fitting tribute for one of the greatest drivers the world has ever seen, NASCAR declared that August 18 would be celebrated as \"Kyle Busch Day\" in honor of the two numbers (8/18) that he was most closely associated with. Busch died unexpectedly in May of this year, just a little over a week after winning a Truck Series race in Dover, due to a case of pneumonia that progressed into ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/nascar-declares-8-18-kyle-busch-day-as-tributes-pour-in/10847165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/YBVokR7Y/s6/tribute-to-kyle-busch.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YBVokR7Y/s6/tribute-to-kyle-busch.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/YBVokR7Y/s6/tribute-to-kyle-busch.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YBVokR7Y/s6/tribute-to-kyle-busch.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4637,12 +4804,7 @@
       "url": "https://www.autosport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847076/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "image": "https://cdn-1.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0qgPbP8Y/s200/practice-start-2.webp",
-        "https://cdn-9.motorsport.com/images/amp/Y9lNNNX2/s200/isack-hadjar-red-bull-racing-2.webp",
-        "https://cdn-4.motorsport.com/images/amp/YN7w5kW6/s200/daniel-rowbottom-plato-racing.webp",
-        "https://cdn-2.motorsport.com/images/amp/0JXwGbMY/s200/valtteri-bottas-cadillac-racin.webp",
-        "https://cdn-7.motorsport.com/images/amp/YE9EMJLY/s200/image-6-6.webp"
+        "https://cdn-1.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
       ],
       "source": "Autosport F1",
       "source_url": "https://www.autosport.com",
@@ -4653,9 +4815,9 @@
       "title": "\"No nine to five cruise\" - The challenge of assembling Cadillac's trackside F1 team from scratch",
       "summary": "When brand-new entrant Cadillac started its search for a race team manager, still a full year removed from joining the 2026 Formula 1 grid, it didn't have to look very long, or far, to identify the right target. Over at Haas, F1's previous start-up team in 2016, long serving team manager Peter Crolla had been looking for a new challenge, and the prospect of another chance to build a team from ... Keep reading",
       "url": "https://www.autosport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847076/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -4744,9 +4906,9 @@
       "title": "Homestead will again host NASCAR championship weekend in 2027",
       "summary": "Homestead-Miami Speedway will again host all three national title-deciders in 2027, the track confirmed on Tuesday. The 2027 NASCAR championship weekend is set to take place from Nov. 12-14 next year. The facility has also been undergoing a $20 million renovation, featuring a new primary entry gate experience, a remodeled Ally Champions Club, an expanded fan zone and more. The NASCAR ... Keep reading",
       "url": "https://www.motorsport.com/nascar-cup/news/homestead-will-again-host-nascar-championship-weekend-in-2027/10847167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2jX471p6/s6/homestead-miami-speedway.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/2jX471p6/s6/homestead-miami-speedway.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/2jX471p6/s6/homestead-miami-speedway.jpg"
+        "https://cdn-9.motorsport.com/images/amp/2jX471p6/s6/homestead-miami-speedway.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4757,9 +4919,9 @@
       "title": "Christian Horner to headline 2026 ABX NYC",
       "summary": "Motorsport Network has revealed the lineup for its second annual Autosport Business Exchange New York event today, which will be headlined by former Oracle Red Bull Racing team principal Christian Horner. The ex-F1 team boss will take to the stage for his first US appearance since leaving the team at the event on 21 October. Building on the “Rise of Racing in America” theme, the 2026 ABX ... Keep reading",
       "url": "https://www.autosport.com/general/news/christian-horner-to-headline-2026-abx-nyc/10847153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/YE9EMJLY/s6/image-6-6.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/YE9EMJLY/s6/image-6-6.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/YE9EMJLY/s6/image-6-6.jpg"
+        "https://cdn-4.motorsport.com/images/amp/YE9EMJLY/s6/image-6-6.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -4783,9 +4945,9 @@
       "title": "Christian Horner to headline 2026 ABX NYC",
       "summary": "Motorsport Network has revealed the lineup for its second annual Autosport Business Exchange New York event today, which will be headlined by former Oracle Red Bull Racing team principal Christian Horner. The ex-F1 team boss will take to the stage for his first US appearance since leaving the team at the event on 21 October. Building on the “Rise of Racing in America” theme, the 2026 ABX ... Keep reading",
       "url": "https://www.motorsport.com/general/news/christian-horner-to-headline-2026-abx-nyc/10847144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/6DGgBa9Y/s6/abx-nyc-headliners-6.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/6DGgBa9Y/s6/abx-nyc-headliners-6.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/6DGgBa9Y/s6/abx-nyc-headliners-6.jpg"
+        "https://cdn-6.motorsport.com/images/amp/6DGgBa9Y/s6/abx-nyc-headliners-6.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4812,8 +4974,8 @@
       "image": "https://cdn-1.motorsport.com/images/amp/YP74xJe2/s6/lucas-di-grassi-lola-yamaha-ab.jpg",
       "images": [
         "https://cdn-1.motorsport.com/images/amp/YP74xJe2/s6/lucas-di-grassi-lola-yamaha-ab.jpg",
-        "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-7.motorsport.com/images/amp/YP74xJe2/s1000/lucas-di-grassi-lola-yamaha-ab.webp",
+        "https://cdn-4.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/amp/YP74xJe2/s1000/lucas-di-grassi-lola-yamaha-ab.webp",
         "https://cdn.motorsport.com/images/amp/0Ldexzj0/s2/lucas-di-grassi-lola-yamaha-ab.jpg",
         "https://cdn.motorsport.com/images/mgl/6n7bMkl0/s1000/jean-eric-vergne-citroen-racin.jpg",
         "https://cdn.motorsport.com/images/amp/6lmd7Jk0/s2/lucas-di-grassi-lola-yamaha-ab.jpg"
@@ -4827,9 +4989,9 @@
       "title": "Everything that went wrong in Lucas di Grassi’s farewell Formula E weekend",
       "summary": "Lucas di Grassi endured a miserable final weekend in Formula E, with factors outside his control resulting in a double retirement in the London E-Prix. Even as the main focus remained on the championship battle at the front, Di Grassi’s swansong was one of the biggest talking points in London, as the Brazilian prepared to hang up his helmet after a brilliant career spanning over two ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/everything-that-went-wrong-in-lucas-di-grassis-farewell-formula-e-weekend/10847043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/YP74xJe2/s6/lucas-di-grassi-lola-yamaha-ab.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YP74xJe2/s6/lucas-di-grassi-lola-yamaha-ab.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/YP74xJe2/s6/lucas-di-grassi-lola-yamaha-ab.jpg"
+        "https://cdn-2.motorsport.com/images/amp/YP74xJe2/s6/lucas-di-grassi-lola-yamaha-ab.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -4939,19 +5101,6 @@
       "published": "2026-08-18T16:00:00+00:00"
     },
     {
-      "id": "5259a77a82d10a09",
-      "title": "BF Classified: 1978 AMC Matador Barcelona",
-      "summary": "Some collector cars attract attention because everyone knows exactly what they are. Others are interesting precisely because nobody remembers the last time they saw one. This 1978 AMC Matador Barcelona Edition falls firmly into the second category. With its... Read More »",
-      "url": "https://barnfinds.com/bf-classified-1978-amc-matador-barcelona/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1978-AMC-Matador-Barcelona-1-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1978-AMC-Matador-Barcelona-1-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T16:00:00+00:00"
-    },
-    {
       "id": "6816d1f4597fa657",
       "title": "Andrea Fernández, camionera de 25 años: \"Dudaba si sacarme el carné de tráiler o el de autobús, pero el de autobús me parecía mucha responsabilidad, muchas vidas a mi cargo\"",
       "summary": "La joven gallega comparte su experiencia en el sector del transporte y la decisión que le llevó a subirse a la cabina.",
@@ -4969,9 +5118,9 @@
       "title": "Winners and losers from the IndyCar race in Markham",
       "summary": "Well, the inaugural Ontario Honda Dealers Indy at Markham had just about anything and everything for an IndyCar race weekend. What started off as a non-existent embarrassment track construction filtering over into the scheduled three days of on-track action and cancelling Friday’s activities, turned into the most manic race of the 2026 season on Sunday. Marcus Ericsson put together ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-markham/10847156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg",
+        "https://cdn-5.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg",
         "https://cdn-7.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
         "https://cdn-3.motorsport.com/images/amp/2jEA7RN0/s1000/romain-grosjean-dale-coyne-rac.webp",
         "https://cdn.motorsport.com/images/mgl/YK15gkk0/s1000/marcus-ericsson-andretti-globa.jpg",
@@ -4987,9 +5136,9 @@
       "title": "Winners and losers from the IndyCar race in Markham",
       "summary": "Well, the inaugural Ontario Honda Dealers Indy at Markham had just about anything and everything for an IndyCar race weekend. What started off as a non-existent embarrassment track construction filtering over into the scheduled three days of on-track action and cancelling Friday’s activities, turned into the most manic race of the 2026 season on Sunday. Marcus Ericsson put together ... Keep reading",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-markham/10847156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg"
+        "https://cdn-6.motorsport.com/images/amp/2jEA7RN0/s6/romain-grosjean-dale-coyne-rac.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5195,9 +5344,9 @@
       "title": "\"No nine to five cruise\" - The rewarding challenge of assembling Cadillac's trackside team from scratch",
       "summary": "When brand-new entrant Cadillac started its search for a race team manager, still a full year removed from joining the 2026 Formula 1 grid, it didn't have to look very long, or far, to identify the right target. Over at Haas, F1's previous start-up team in 2016, long serving team manager Peter Crolla had been looking for a new challenge, and the prospect of another chance to build a team from ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -5208,9 +5357,9 @@
       "title": "\"No nine to five cruise\" - The rewarding challenge of assembling Cadillac's trackside team from scratch",
       "summary": "When brand-new entrant Cadillac started its search for a race team manager, still a full year removed from joining the 2026 Formula 1 grid, it didn't have to look very long, or far, to identify the right target. Over at Haas, F1's previous start-up team in 2016, long serving team manager Peter Crolla had been looking for a new challenge, and the prospect of another chance to build a team from ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0JXwGbMY/s6/valtteri-bottas-cadillac-racin.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5349,19 +5498,6 @@
       "published": "2026-08-18T15:00:00+00:00"
     },
     {
-      "id": "67fade41e3b4fd55",
-      "title": "Wrecked Classic: 1965 Chevrolet Chevelle SS",
-      "summary": "This 1965 Chevy Chevelle Super Sport was a beautifully built restomod that was no doubt quite the performer. Unfortunately, the hot car was involved in an accident that ruined the front clip and right rear, and some frame damage... Read More »",
-      "url": "https://barnfinds.com/wrecked-classic-1965-chevrolet-chevelle-ss/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1965-Chevelle-SS-e1787065179970-630x390.png",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1965-Chevelle-SS-e1787065179970-630x390.png"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T15:00:00+00:00"
-    },
-    {
       "id": "e5f66af83e1022cc",
       "title": "Aston Martin pone en marcha un programa de IA para optimizar el descanso de sus mecánicos e ingenieros",
       "summary": "Fernando Alonso intercambia impresiones con su jefe de mecánicos en Aston Martin Aston Martin ha convertido el descanso de sus mecánicos e ingenieros en otro dato a optimizar: la inteligencia artificial analiza cientos de variables biométricas cada noche para proteger el rendimiento cognitivo del equipo a lo largo de un calendario de 23 grandes premios. De un Gran Premio se mide casi todo: la temperatura del asfalto, la degradación de cada compuesto de neumático, el reparto de carga aerodinámica milímetro a milímetro y cientos de variables más. Lo que rara vez aparece en pantalla es el…",
@@ -5444,9 +5580,9 @@
       "title": "Top five roles on Motorsport Jobs this week",
       "summary": "1. Jaguar TCS Racing - Industrial Placement (2027-2028) – Control Systems Industrial Placement (2027-2028) - Kidlington Jaguar TCS Racing has an opportunity for a Control Systems Industrial Placement for September 2027 to August 2028. You will get to work as part of the Car Development Team where you will be developing control strategies using the MATLAB toolchain for both the team’s ... Keep reading",
       "url": "https://www.autosport.com/general/news/top-five-roles-on-motorsport-jobs-this-week-10847139/10847139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
+        "https://cdn-5.motorsport.com/images/amp/YBenXdB2/s6/motorsport-jobs-of-the-week.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -5475,9 +5611,9 @@
       "title": "Lappi returns to Hyundai line-up for WRC Rally Chile",
       "summary": "Hyundai has announced Esapekka Lappi will pilot the third factory entry at Rally Chile next month. The Korean manufacturer has decided to cycle through three crews across its third i20 N Rally1 car this season with Lappi, New Zealand’s Hayden Paddon and veteran Dani Sordo each enjoying spells behind the wheel. Lappi was unsure if he would receive another opportunity this year after he and ... Keep reading",
       "url": "https://www.autosport.com/wrc/news/lappi-returns-to-hyundai-line-up-for-wrc-rally-chile/10847137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/2d19XGDY/s6/esapekka-lappi-hyundai-world-r-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/2d19XGDY/s6/esapekka-lappi-hyundai-world-r-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/2d19XGDY/s6/esapekka-lappi-hyundai-world-r-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/2d19XGDY/s6/esapekka-lappi-hyundai-world-r-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -5532,9 +5668,9 @@
       "title": "Esapekka Lappi to rejoin Hyundai for WRC Rally Chile",
       "summary": "Hyundai has confirmed its driver line-up for Rally Chile with Esapekka Lappi set to pilot the third factory entry at the gravel event next month. The Korean manufacturer has decided to cycle through three crews across its third i20 N Rally1 car this season with Lappi, New Zealand’s Hayden Paddon and veteran Dani Sordo each enjoying spells behind the wheel. Lappi was unsure if he would ... Keep reading",
       "url": "https://www.motorsport.com/wrc/news/esapekka-lappi-to-rejoin-hyundai-for-wrc-rally-chile/10847133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/6O1kWP52/s6/esapekka-lappi-hyundai-world-r.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/6O1kWP52/s6/esapekka-lappi-hyundai-world-r.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6O1kWP52/s6/esapekka-lappi-hyundai-world-r.jpg"
+        "https://cdn-2.motorsport.com/images/amp/6O1kWP52/s6/esapekka-lappi-hyundai-world-r.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -5571,9 +5707,9 @@
       "title": "Red Bull protege Kalousdian dominates Snetterton Ginetta Junior event",
       "summary": "Melvin Kalousdian scored his first three Ginetta Junior victories, as his R Racing team dominated proceedings at Snetterton last weekend. The opener was red-flagged early on when title contenders Lewis Goff and Harrison Mackie clashed at Riches and triggered a multi-car incident that resulted in five drivers retiring. The race was then halted once more when Jacob Ashcroft locked up and ... Keep reading",
       "url": "https://www.autosport.com/national/news/red-bull-protege-kalousdian-dominates-snetterton-ginetta-junior-event/10846997/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/0qgKAzQY/s6/5-dg5-9265.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0qgKAzQY/s6/5-dg5-9265.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0qgKAzQY/s6/5-dg5-9265.jpg"
+        "https://cdn-5.motorsport.com/images/amp/0qgKAzQY/s6/5-dg5-9265.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -5617,19 +5753,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-08-18T14:25:00+00:00"
-    },
-    {
-      "id": "614246c5a486aea7",
-      "title": "$300K Camper Has A Fold-Out Balcony For The Middle Of Nowhere And A Hemi To Get You There",
-      "summary": "Storyteller’s GXV Wild mixes serious Ram hardware with four-person camping and one very clever rear deck",
-      "url": "https://www.carscoops.com/2026/08/storyteller-gxv-wild-camper/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/6hgtbv5rg-f-1024x576.webp",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/6hgtbv5rg-f-1024x576.webp"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-18T14:21:00+00:00"
     },
     {
       "id": "20265f2c097fdaf0",
@@ -5827,19 +5950,6 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
-      "id": "bdc506b5c962da54",
-      "title": "350/4-Speed: 1969 Chevrolet Chevelle Malibu Convertible",
-      "summary": "There is no danger that this 1969 Chevrolet Chevelle Malibu Convertible will blend into the scenery. From its sparkling paint to its spotless interior and impressive mechanical specifications, this classic has a lot to offer. It isn’t original, but... Read More »",
-      "url": "https://barnfinds.com/350-4-speed-1969-chevrolet-chevelle-malibu-convertible-2/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1969-Chevrolet-Chevelle-Convertible-1-e1787064475104-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Chevrolet-Chevelle-Convertible-1-e1787064475104-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T14:00:00+00:00"
-    },
-    {
       "id": "308497fb4f18b3e2",
       "title": "El avión eléctrico más grande del mundo ya vuela: su primer viaje consumió apenas 4 euros de electricidad",
       "summary": "El avión eléctrico más grande ya está en el aire, y su primer vuelo costó menos que un refresco. El mundo de la aviación tiene un reto mucho mayor que los vehículos para reducir sus emisiones contaminantes. Se espera que la electrificación llegue en un futuro aún lejano, pero pruebas como esta en Estados Unidos suponen un salto adelante importante. La necesidad global de reducir emisiones contaminantes a la atmósfera en el transporte parece que solo se reduce a los vehículos y a los camiones, pero debe ir mucho más allá. Dos sectores tan grandes y contaminantes como los barcos y los…",
@@ -5875,14 +5985,14 @@
       "title": "Netflix taps “Fast and Furious” writer for MotoGP-inspired film",
       "summary": "Netflix is reportedly working with Hollywood actor Alan Ritchson to prepare a new heist thriller with MotoGP as its backdrop. According to Jay Penske's Deadline media outlet, the streaming giant has formed a creative partnership with Ritchson after he recently starred in one of its major 2026 hits, the War Machine. As a result of this partnership, created through Ritchson's production ... Keep reading",
       "url": "https://www.motorsport.com/motogp/news/netflix-plans-motogp-inspired-film/10847124/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/Y9lNoDx2/s6/salida-de-la-carrera-sprint-de.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/Y9lNoDx2/s6/salida-de-la-carrera-sprint-de.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/Y9lNoDx2/s6/salida-de-la-carrera-sprint-de.jpg",
-        "https://cdn-8.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
-        "https://cdn-7.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
-        "https://cdn-4.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp",
-        "https://cdn-8.motorsport.com/images/amp/25dLeVx0/s200/isack-hadjar-red-bull-racing.webp",
-        "https://cdn-4.motorsport.com/images/amp/63QakA82/s200/biffle.webp"
+        "https://cdn-3.motorsport.com/images/amp/Y9lNoDx2/s6/salida-de-la-carrera-sprint-de.jpg",
+        "https://cdn-4.motorsport.com/images/amp/0kZAOqK6/s200/race-start.webp",
+        "https://cdn-2.motorsport.com/images/amp/25d3mpM0/s200/pedro-acosta-red-bull-ktm-fact.webp",
+        "https://cdn-6.motorsport.com/images/amp/Y9lLZPb2/s200/start-grid.webp",
+        "https://cdn-1.motorsport.com/images/amp/68VWODG2/s200/graeme-lowdon-team-principal-o.webp",
+        "https://cdn-6.motorsport.com/images/amp/725jENkY/s200/kolumne-warum-der-adac-nordrhein-ein-riskantes-spiel-spielt-26081801.webp"
       ],
       "source": "Motorsport MotoGP",
       "source_url": "https://www.motorsport.com",
@@ -6054,9 +6164,9 @@
       "title": "Albon commits to Williams F1 team for 2027",
       "summary": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension. Albon joined Williams ahead of the 2022 season and was one of several drivers out of contract at the end of this year, amid speculation over his and team-mate Carlos Sainz's future with the underperforming outfit. But the 30-year-old has now committed his ... Keep reading",
       "url": "https://www.autosport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg"
+        "https://cdn-3.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg"
       ],
       "source": "Autosport F1",
       "source_url": "https://www.autosport.com",
@@ -6067,9 +6177,9 @@
       "title": "Albon commits to Williams F1 team for 2027",
       "summary": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension. Albon joined Williams ahead of the 2022 season and was one of several drivers out of contract at the end of this year, amid speculation over his and team-mate Carlos Sainz's future with the underperforming outfit. But the 30-year-old has now committed his ... Keep reading",
       "url": "https://www.autosport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg"
+        "https://cdn-7.motorsport.com/images/amp/2jEDOLM0/s6/alexander-albon-williams-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -6093,9 +6203,9 @@
       "title": "Alex Albon commits to Williams F1 team for 2027",
       "summary": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension. Albon joined Williams ahead of the 2022 season and was one of several drivers out of contract at the end of this year, amid speculation over his and team-mate Carlos Sainz's future with the underperforming outfit. But the 30-year-old has now committed his ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg"
+        "https://cdn-6.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -6106,9 +6216,9 @@
       "title": "Alex Albon commits to Williams F1 team for 2027",
       "summary": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension. Albon joined Williams ahead of the 2022 season and was one of several drivers out of contract at the end of this year, amid speculation over his and team-mate Carlos Sainz's future with the underperforming outfit. But the 30-year-old has now committed his ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg"
+        "https://cdn-1.motorsport.com/images/amp/YMXbbGL2/s6/alexander-albon-williams.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6197,9 +6307,9 @@
       "title": "Lewis Hamilton vs Michael Schumacher: You decide F1's greatest driver",
       "summary": "Our Top 25 Formula 1 drivers ranking produced the one result nobody could ignore: a dead heat at number one. After 10 journalists from Motorsport, Autosport and Yahoo Sports submitted their individual top-25 rankings, a clear result emerged: Lewis Hamilton and Michael Schumacher finished level at the top of the combined standings on 235 points each. Both drivers are seven-time world ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-vs-michael-schumacher-you-decide-f1s-greatest-driver/10846978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg"
+        "https://cdn-6.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -6210,9 +6320,9 @@
       "title": "Lewis Hamilton vs Michael Schumacher: You decide F1's greatest driver",
       "summary": "Our Top 25 Formula 1 drivers ranking produced the one result nobody could ignore: a dead heat at number one. After 10 journalists from Motorsport, Autosport and Yahoo Sports submitted their individual top-25 rankings, a clear result emerged: Lewis Hamilton and Michael Schumacher finished level at the top of the combined standings on 235 points each. Both drivers are seven-time world ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-vs-michael-schumacher-you-decide-f1s-greatest-driver/10846978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg"
+        "https://cdn-8.motorsport.com/images/amp/27No5ZE0/s6/top-2-hamilton-schumacher.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6245,32 +6355,6 @@
       "published": "2026-08-18T13:00:00+00:00"
     },
     {
-      "id": "e2604eaad123fb95",
-      "title": "Only 100 Will Exist: Meet The Nürburgring-Born Porsche 911 GT3",
-      "summary": "An early tribute, since the anniversary is actually not until 2027",
-      "url": "https://www.motor1.com/news/805315/porsche-911-gt3-edition/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3egP/s3/porsche-911-gt3-100-jahre-nurburgring-edition-2026.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/Ak3egP/s3/porsche-911-gt3-100-jahre-nurburgring-edition-2026.jpg"
-      ],
-      "source": "Motor1",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-08-18T13:00:00+00:00"
-    },
-    {
-      "id": "85acc7a42b6a7971",
-      "title": "Stunning Cream Puff: 1969 Ford F100 Ranger",
-      "summary": "Most Pickups work to justify their existence and can begin to look tired as they age. However, one will occasionally appear at Barn Finds that rewrites that rule. That is undoubtedly the case with this 1969 Ford F100 Ranger.... Read More »",
-      "url": "https://barnfinds.com/stunning-cream-puff-1969-ford-f100-ranger/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-F100-Ranger-1-1-e1787000450562-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-F100-Ranger-1-1-e1787000450562-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-08-18T13:00:00+00:00"
-    },
-    {
       "id": "62839038e98f84df",
       "title": "Final Parking Spaces: 1988 Ford Escort Pony and GT",
       "summary": "The tale of the first-generation Ford Escort for North America is an interesting one, and I’ve managed to find one example apiece of the cheapest and the most expensive versions for the 1988 model year. Each is painted Oxford White, each was built at Wayne Stamping and Assembly in Michigan, and each was sold new […]",
@@ -6284,13 +6368,31 @@
       "published": "2026-08-18T13:00:00+00:00"
     },
     {
+      "id": "e2604eaad123fb95",
+      "title": "Only 100 Will Exist: Meet The Nürburgring-Born Porsche 911 GT3",
+      "summary": "An early tribute, since the anniversary is actually not until 2027",
+      "url": "https://www.motor1.com/news/805315/porsche-911-gt3-edition/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3egP/s3/porsche-911-gt3-100-jahre-nurburgring-edition-2026.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Ak3egP/s3/porsche-911-gt3-100-jahre-nurburgring-edition-2026.jpg"
+      ],
+      "source": "Motor1 Porsche",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-18T13:00:00+00:00"
+    },
+    {
       "id": "b2eae1c16a47479d",
       "title": "Guenther Steiner makes Haas confession amid F1 return speculation",
       "summary": "Former Haas Formula 1 boss Guenther Steiner has conceded that he remained with the team for too long.",
       "url": "https://www.crash.net/f1/news/1102525/1/guenther-steiner-makes-haas-confession-amid-f1-return-speculation",
       "image": "https://www.crash.net/sites/default/files/2026-08/xpb_1309813_hires.jpg?width=1200",
       "images": [
-        "https://www.crash.net/sites/default/files/2026-08/xpb_1309813_hires.jpg?width=1200"
+        "https://www.crash.net/sites/default/files/2026-08/xpb_1309813_hires.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/pictures/whatsapp-image-2026-03-05-at-12.30.04.jpeg",
+        "https://www.crash.net/sites/default/files/2026-07/xpb_1423767_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/xpb_1428994_hires_0.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/xpb_1428410_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/xpb_1425002_hires.jpg?aspect_ratio=1:1"
       ],
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
@@ -6375,7 +6477,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/E6Yk9v/s3/ceo-mate-rimac-with-bugatti.jpg"
       ],
-      "source": "Motor1",
+      "source": "Motor1 Bugatti",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-18T12:30:00+00:00"
     },
@@ -6423,9 +6525,9 @@
       "title": "Grasser appeals disqualification: Verdict before DTM title finale realistic?",
       "summary": "The Lamborghini team Grasser has followed through on its announcement and filed an appeal against the disqualification of Mirko Bortolotti at Oschersleben within the deadline. The German governing body DMSB has officially confirmed this. After the disqualification, the team had 96 hours - so until 5 p.m. on Monday - to do so. Within one week, the appeal must now also be substantiated in ... Keep reading",
       "url": "https://www.motorsport.com/dtm/news/grasser-appeals-disqualification-verdict-before-dtm-title-finale-realistic/10847083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/E6Dwd9JY/s6/grasser-berufung-gegen-disqualifikation-urteil-vor-dem-dtm-titelfinale-realistisch-26081702.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/E6Dwd9JY/s6/grasser-berufung-gegen-disqualifikation-urteil-vor-dem-dtm-titelfinale-realistisch-26081702.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/E6Dwd9JY/s6/grasser-berufung-gegen-disqualifikation-urteil-vor-dem-dtm-titelfinale-realistisch-26081702.jpg"
+        "https://cdn-7.motorsport.com/images/amp/E6Dwd9JY/s6/grasser-berufung-gegen-disqualifikation-urteil-vor-dem-dtm-titelfinale-realistisch-26081702.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6514,9 +6616,9 @@
       "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
       "summary": "Formula 1 has grown significantly in recent years, not least on social media. While that is essentially a positive development, one downside has been the considerable increase in online abuse aimed at drivers and others working in the pinnacle of motorsport. The FIA and F1 are trying to tackle the issue in several ways, for example through the United Against Online Abuse initiative, by ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg"
+        "https://cdn-6.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
@@ -6527,9 +6629,9 @@
       "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
       "summary": "Formula 1 has grown significantly in recent years, not least on social media. While that is essentially a positive development, one downside has been the considerable increase in online abuse aimed at drivers and others working in the pinnacle of motorsport. The FIA and F1 are trying to tackle the issue in several ways, for example through the United Against Online Abuse initiative, by ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg"
+        "https://cdn-6.motorsport.com/images/amp/Y9lNvj82/s6/franco-colapinto-alpine.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6562,6 +6664,24 @@
       "published": "2026-08-18T12:00:24+00:00"
     },
     {
+      "id": "320401133fa28017",
+      "title": "Prototype Drive: 2027 Toyota Sequoia and Tundra Go Trail Hunting",
+      "summary": "The Trailhunter is not a top trim with these two, but rather an option package you can add to the venerable SR5 grade.",
+      "url": "https://www.caranddriver.com/reviews/a73447484/2027-toyota-sequoia-tundra-trailhunter-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/13da9314-b15b-40e4-9b96-84d50792054c.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/13da9314-b15b-40e4-9b96-84d50792054c.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/30118ec9-78d4-4a8a-9573-a258a248de04.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/5b45d134-3aba-4071-84c1-c70dbf431113.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/bdfa8b00-bccd-4677-a241-a72eefe0c782.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/2d424a02-b438-41bc-8161-383206907881.jpg?crop=0.783xw:0.783xh;0.136xw",
+        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-18T12:00:00+00:00"
+    },
+    {
       "id": "868c9c58ad2c1a36",
       "title": "View Exterior Photos of the 2027 Toyota Sequoia Trailhunter Prototype",
       "summary": "See the exterior of the 2027 Toyota Sequoia Trailhunter prototype from every angle.",
@@ -6582,19 +6702,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/63f2f566-ad9a-49b0-a860-d5ee49c07d34.jpg",
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/63f2f566-ad9a-49b0-a860-d5ee49c07d34.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "id": "320401133fa28017",
-      "title": "Prototype Drive: 2027 Toyota Sequoia and Tundra Go Trail Hunting",
-      "summary": "The Trailhunter is not a top trim with these two, but rather an option package you can add to the venerable SR5 grade.",
-      "url": "https://www.caranddriver.com/reviews/a73447484/2027-toyota-sequoia-tundra-trailhunter-prototype-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/13da9314-b15b-40e4-9b96-84d50792054c.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/13da9314-b15b-40e4-9b96-84d50792054c.jpg"
       ],
       "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
@@ -6624,19 +6731,6 @@
       ],
       "source": "ClassicCars Journal",
       "source_url": "https://journal.classiccars.com",
-      "published": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "id": "35ad6ae6634aa7b9",
-      "title": "Mid-Engine Barn Find: 1985 Pontiac Fiero",
-      "summary": "The Fiero was Pontiac’s first 2-seat automobile in more than 50 years. Launched in 1984 and in production through 1988, it was a sports car with a mid-engine layout. The Fiero used plastic body panels like the later Saturn,... Read More »",
-      "url": "https://barnfinds.com/mid-engine-barn-find-1985-pontiac-fiero/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1985-Pontiac-Fiero-e1787001433268-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1985-Pontiac-Fiero-e1787001433268-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-08-18T12:00:00+00:00"
     },
     {
@@ -6690,6 +6784,24 @@
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
       "published": "2026-08-18T11:40:00+00:00"
+    },
+    {
+      "id": "29f7b2fa19d63c4c",
+      "title": "Toyota’s $220K GR GT Supercar Is Already Sold Out In The US",
+      "summary": "The 641-hp GR GT is Toyota's most expensive car yet, and buying one takes more than just having the money",
+      "url": "https://www.carscoops.com/2026/08/toyota-gr-gt-sold-out/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/2026_grgt_trinitymediaevent_011-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2026_grgt_trinitymediaevent_011-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-GR-GT-New-2-2048x1536.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-GR-GT-New-1-2048x1536.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-GR-GT-New-3-2048x1536.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-GR-GT-Sales-1-2048x1536.webp",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Toyota-GR-GT-New-4-2048x1366.webp"
+      ],
+      "source": "CarScoops Toyota",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-18T11:34:00+00:00"
     },
     {
       "id": "d835ef811118e6ce",
@@ -6748,9 +6860,9 @@
       "title": "Did Formula E's London finale go too far with team orders and personal vendettas?",
       "summary": "Jaguar and Porsche. Formula E’s two heavyweights. Going head-to-head in the title decider. It doesn’t get better than that. Does it? Formula E has delivered some epic title battles over the years. London itself has been the scene of multiple championship deciders. And what happened at ExCeL over the course of the weekend will certainly go down as one of the defining moments in the history ... Keep reading",
       "url": "https://www.autosport.com/formula-e/news/did-formula-es-london-finale-go-too-far-with-team-orders-and-personal-vendettas/10847050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-8.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg"
+        "https://cdn-6.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -6783,28 +6895,15 @@
       "published": "2026-08-18T11:12:07+00:00"
     },
     {
-      "id": "aa51316e8b839f86",
-      "title": "Toto Wolff ‘superstitious’ over Kimi Antonelli chances despite sizeable lead",
-      "summary": "Should Kimi Antonelli be labelled the favourite for the rest of F1 2026?",
-      "url": "https://www.planetf1.com/news/toto-wolff-kimi-antonelli-title-assessment-mercedes",
-      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/04/28162519/kimi-antonelli-stronger-miami-gp-120x120.jpg",
-      "images": [
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/04/28162519/kimi-antonelli-stronger-miami-gp-120x120.jpg"
-      ],
-      "source": "PlanetF1",
-      "source_url": "https://www.planetf1.com",
-      "published": "2026-08-18T11:11:58+00:00"
-    },
-    {
       "id": "3b8088455c729efa",
       "title": "Did Formula E’s London finale go too far with team games and personal vendettas?",
       "summary": "Jaguar and Porsche. Formula E’s two heavyweights. Going head-to-head in the title decider. It doesn’t get better than that. Does it? Formula E has delivered some epic title battles over the years. London itself has been the scene of multiple championship deciders. And what happened at ExCel over the course of the weekend will certainly go down as one of the defining moments in the history ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/did-formula-es-london-finale-go-too-far-with-team-games-and-personal-vendettas/10846984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FORMULA-E&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
-        "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
-        "https://cdn-8.motorsport.com/images/amp/YK15g8B0/s1000/mitch-evans-jaguar-tcs-racing.webp",
+        "https://cdn-4.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
+        "https://cdn-6.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-5.motorsport.com/images/amp/YK15g8B0/s1000/mitch-evans-jaguar-tcs-racing.webp",
         "https://cdn.motorsport.com/images/mgl/0rVPQaW0/s1000/antonio-felix-da-costa-jaguar-.jpg",
         "https://cdn.motorsport.com/images/amp/68VweRV2/s2/pascal-wehrlein-porsche-formul.jpg",
         "https://cdn.motorsport.com/images/amp/25dLw1N0/s2/nyck-de-vries-mahindra-racing-.jpg"
@@ -6818,9 +6917,9 @@
       "title": "Did Formula E’s London finale go too far with team games and personal vendettas?",
       "summary": "Jaguar and Porsche. Formula E’s two heavyweights. Going head-to-head in the title decider. It doesn’t get better than that. Does it? Formula E has delivered some epic title battles over the years. London itself has been the scene of multiple championship deciders. And what happened at ExCel over the course of the weekend will certainly go down as one of the defining moments in the history ... Keep reading",
       "url": "https://www.motorsport.com/formula-e/news/did-formula-es-london-finale-go-too-far-with-team-games-and-personal-vendettas/10846984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg"
+        "https://cdn-2.motorsport.com/images/amp/YK15g8B0/s6/mitch-evans-jaguar-tcs-racing.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -6877,19 +6976,6 @@
       ],
       "source": "The Verge Transp",
       "source_url": "https://www.theverge.com",
-      "published": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "2ad3ac0517aec70d",
-      "title": "Original Paint: 1969 Ford Fairlane 500 Convertible",
-      "summary": "The hood could be this 1969 Ford Fairlane 500 Convertible’s most important attribute. The seller states that it is the only panel not wearing original paint, while beneath it rests a 351ci V8 promising very respectable performance. It isn’t... Read More »",
-      "url": "https://barnfinds.com/original-paint-1969-ford-fairlane-500-convertible/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-Fairlane-500-Convertible-1-e1786996780373-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/08/1969-Ford-Fairlane-500-Convertible-1-e1786996780373-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
       "published": "2026-08-18T11:00:00+00:00"
     },
     {
@@ -6974,58 +7060,6 @@
       "source": "Motor1 Audi",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-18T10:30:00+00:00"
-    },
-    {
-      "id": "2aa8160035f76fea",
-      "title": "El creador del Ferrari Enzo firma ahora su propio sueño: un V12 manual inspirado en la era dorada de Japón",
-      "summary": "El Kode89 de Ken Okuyama es una oda a 1989, el año considerado cúspide del diseño de automóviles nipones. Esta belleza cuenta con un chasis propio, en lugar de ser un derivado de un superdeportivo existente, sirviendo como homenaje a la era en la que los concept japoneses asombraban al mundo entero con lo que podían llegar a hacer. Hubo una época en la que Japón eclipsó al resto del mundo en tecnología del automóvil. Entre mediados de los ochenta y principios de los noventa, hasta que estalló su burbuja económica, la mayoría de sus fabricantes mostraron al mundo concept espectaculares,…",
-      "url": "https://www.motor.es/noticias/ken-okuyama-kode89-v12-2026115886.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/08/el-disenador-del-ferrari-enzo-crea-kode89-un-superdeportivo-v12-con-cambio-manual-homenaje-a-la-era-donde-japon-reinaba-en-el-automovil-2026115886-1787044816_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/08/el-disenador-del-ferrari-enzo-crea-kode89-un-superdeportivo-v12-con-cambio-manual-homenaje-a-la-era-donde-japon-reinaba-en-el-automovil-2026115886-1787044816_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-08-18T10:30:00+00:00"
-    },
-    {
-      "id": "80645f30b5e7d21f",
-      "title": "7 Great Performance Cars That Were Killed Off Too Soon",
-      "summary": "Some performance cars are replaced by something better. Others disappear completely, leaving a hole that still hasn’t been filled...",
-      "url": "https://www.carthrottle.com/news/7-great-performance-cars-were-killed-too-soon",
-      "image": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/p90283615_highres_the-bmw-i8-10-2017.jpg?width=1200",
-      "images": [
-        "https://www.carthrottle.com/sites/default/files/uploads/2026-08/p90283615_highres_the-bmw-i8-10-2017.jpg?width=1200"
-      ],
-      "source": "CarThrottle",
-      "source_url": "https://www.carthrottle.com",
-      "published": "2026-08-18T10:24:50+00:00"
-    },
-    {
-      "id": "fc9e75c2f2d93d01",
-      "title": "Rivian Is Recalling Over 30,000 R1S And R1T EVs Over Faulty Indicators",
-      "summary": "The initial recall started last year, but the company found additional cars that may have been fitted with faulty turn signals.",
-      "url": "https://insideevs.com/news/805305/rivian-r1s-r1t-turn-signal-recall/",
-      "image": "https://cdn.motor1.com/images/mgl/YA3jZJ/s3/2025-rivian-r1s-green-2.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/YA3jZJ/s3/2025-rivian-r1s-green-2.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-08-18T10:24:15+00:00"
-    },
-    {
-      "id": "57072171b8a61427",
-      "title": "Olie- en brandstofprijzen stijgen na aflopen vredesdeal",
-      "summary": "De olieprijzen zijn weer verder opgelopen en ook de prijzen aan de pomp stijgen. De dieselprijs stijgt iets sneller dan de benzineprijs.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/olie-en-brandstofprijzen-stijgen-na-aflopen-vredesdeal/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/271641704/width/800/271641704",
-      "images": [
-        "https://images.autoweek.nl/271641704/width/800/271641704"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-08-18T10:16:10+00:00"
     }
   ]
 }
