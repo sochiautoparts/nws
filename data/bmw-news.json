@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-19T05:41:16.637404+00:00",
-  "generated_at_human": "2026-08-19 05:41 UTC",
+  "generated_at": "2026-08-19T07:01:39.612715+00:00",
+  "generated_at_human": "2026-08-19 07:01 UTC",
   "total_items": 288,
   "sources_used": [
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport All",
     "Autosport WEC",
     "BMW Blog",
@@ -43,13 +43,14 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarExpert",
     "CarScoops Audi",
@@ -68,9 +69,22 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 63,
+  "sources_count": 64,
   "multi_photo_items": 12,
   "items": [
+    {
+      "id": "ea5da8d52228102a",
+      "title": "1030 Kilometer im Praxistest: BMW iX3 Langversion überzeugt in China",
+      "summary": "Die Frage nach der maximalen Reichweite spielt im Alltag der meisten Menschen kaum eine Rolle, wird bei Elektroautos aber weltweit immer wieder gestellt. Die BMW...",
+      "url": "https://www.bimmertoday.de/2026/08/19/1030-kilometer-im-praxistest-bmw-ix3-langversion-uberzeugt-in-china/",
+      "image": "https://vg09.met.vgwort.de/na/6581717e088747428914ad8687178082",
+      "images": [
+        "https://vg09.met.vgwort.de/na/6581717e088747428914ad8687178082"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-19T05:51:30+00:00"
+    },
     {
       "id": "4408a5827043efef",
       "title": "Strong sales, high costs: Why BMW needs to rethink Mini's future",
@@ -79,11 +93,11 @@
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX",
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=jcPiIoSd",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=jcPiIoSd&loggedIn=true",
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/nick_gibbs_2.png?itok=HC8MgQ1a"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -179,7 +193,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/97fe446a-a717-4bd2-a2cf-437d13db017d.png?crop=0.597619047619xw:1xh;center,top&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/6a0d050b-1e09-4a79-a29f-d0b6c2327e5d.jpg?crop=0.542xw:0.814xh;0.212xw,0.117xh&resize=360:*"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-18T21:30:00+00:00"
     },
@@ -309,7 +323,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/New-BMW-iX3-in-Mexico-2-830x526.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T11:50:51+00:00"
     },
@@ -374,7 +388,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -509,7 +523,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-17T09:00:39+00:00"
     },
@@ -535,7 +549,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -557,9 +571,9 @@
       "title": "DTM Nurburgring: Wittmann wins for BMW after AMG meltdown",
       "summary": "The smiling winner of the second DTM race at the Nurburgring is Marco Wittmann: the Schubert BMW driver, who started from sixth on the grid, benefited from his rivals’ mistakes after the start and at the first pit stop to snatch his third DTM victory in the Eifel overall. \"A superb race,\" Wittmann said happily on ProSieben. \"A very wild race, especially in the early stages, but we were able ... Keep reading",
       "url": "https://www.autosport.com/dtm/news/dtm-nurburgring-wittmann-wins-for-bmw-after-amg-meltdown/10846702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
+        "https://cdn-1.motorsport.com/images/amp/G2e49Bb0/s6/dtm-rennen-nuerburgring-2-wittmann-holt-bmw-sieg-nach-irrem-amg-debakel-26081603-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -632,9 +646,9 @@
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-2.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
@@ -649,7 +663,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -662,7 +676,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -1278,19 +1292,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-07T05:41:36+00:00"
-    },
-    {
-      "id": "34289dd21c5b4724",
-      "title": "BMW i3: Serien-Produktion der Neuen Klasse im Werk München gestartet",
-      "summary": "Am heutigen Donnerstag fiel im Werk München der Startschuss für die Serien-Produktion des neuen BMW i3 (NA0). Der Neue Klasse-3er soll von Anfang an in...",
-      "url": "https://www.bimmertoday.de/2026/08/06/bmw-i3-serien-produktion-der-neuen-klasse-im-werk-munchen-gestartet/",
-      "image": "https://vg09.met.vgwort.de/na/00040c495f114113bf9eef97a5f8e410",
-      "images": [
-        "https://vg09.met.vgwort.de/na/00040c495f114113bf9eef97a5f8e410"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-06T20:49:08+00:00"
     },
     {
       "id": "df0fe57efda138c9",
@@ -2187,7 +2188,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2920,7 +2921,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3674,7 +3675,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3778,7 +3779,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
