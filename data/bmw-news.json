@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-20T16:48:16.596824+00:00",
-  "generated_at_human": "2026-08-20 16:48 UTC",
-  "total_items": 302,
+  "generated_at": "2026-08-20T17:40:44.693414+00:00",
+  "generated_at_human": "2026-08-20 17:40 UTC",
+  "total_items": 305,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -53,6 +53,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -79,9 +80,53 @@
     "Sports Car Digest",
     "The Drive"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 12,
+  "sources_count": 75,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "6df549c310f93ccf",
+      "title": "The Z4 Color ALPINA Never Made, Built by an Independent Atelier",
+      "summary": "Popken’s first project under his Atelier Edo Popken banner was a BMW Z8, bought from its original owner through Perillo Motors in Chicago and brought back to Switzerland. He liked the six-speed manual and the... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/20/edo-popken-alpina-green-bmw-z4-leggera/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg"
+      ],
+      "source": "BMW Blog Z4",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-20T17:39:17+00:00"
+    },
+    {
+      "id": "5d6d32a3447ea111",
+      "title": "7k-Mile 2008 BMW 335i Sport Convertible",
+      "summary": "This 2008 BMW 335i convertible has spent time in California and Arizona, and now has under 7k miles. The car is powered by a twin-turbocharged 3.0L inline-six paired with a six-speed Steptronic automatic transmission and is finished in Jet Black over black Dakota leather. Equipment includes the Premium Package, the Sport Package, a power-retractable hardtop, adaptive xenon headlights, 18\" Style 189 alloy wheels, heated power-adjustable front sport seats, a Logic7 sound system, Comfort Access, iDrive with navigation, Dynamic Cruise Control, and dual-zone automatic climate control. The car…",
+      "url": "https://bringatrailer.com/listing/2008-bmw-335i-convertible-38/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/05/2008_bmw_335i-convertible_2008_bmw_335i-convertible_8148b655-f68f-494b-bb79-f2a5a880b20d-AbOZrr-11557-11557-scaled-1-copy-2026-08-05-9ek-62636.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/05/2008_bmw_335i-convertible_2008_bmw_335i-convertible_8148b655-f68f-494b-bb79-f2a5a880b20d-AbOZrr-11557-11557-scaled-1-copy-2026-08-05-9ek-62636.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-20T17:30:12+00:00"
+    },
+    {
+      "id": "fbe23c3e3db6297b",
+      "title": "The Most-Hated BMW Model May Finally Get What It Deserves",
+      "summary": "Even China isn't interested in the polarizing XM.",
+      "url": "https://carbuzz.com/bmw-xm-i4-8-series-cancellation-rumor-august-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90602684-highres-exterior-pictures-th.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90602684-highres-exterior-pictures-th.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/p90602681_highres_exterior-pictures-th-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-i4-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/infiniti-cup-holders-4.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/nissan-frontier.png?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-20T17:19:11+00:00"
+    },
     {
       "id": "e250afcfc460a8c0",
       "title": "1989 BMW M3",
@@ -654,7 +699,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -680,7 +725,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -849,7 +894,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -953,7 +998,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -1001,9 +1046,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1017,7 +1062,7 @@
       "image": "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
         "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
-        "https://cdn-4.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn.motorsport.com/images/mgl/2d1knknY/s1000/vincent-vosse-wrt.jpg",
         "https://cdn.motorsport.com/images/mgl/0R7BwJZ2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn.motorsport.com/images/amp/2eZxgV1Y/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
@@ -2172,7 +2217,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2482,9 +2527,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2916,9 +2961,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3908,7 +3953,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -4012,7 +4057,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
