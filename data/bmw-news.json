@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-19T23:33:14.556286+00:00",
-  "generated_at_human": "2026-08-19 23:33 UTC",
-  "total_items": 293,
+  "generated_at": "2026-08-20T01:48:14.770203+00:00",
+  "generated_at_human": "2026-08-20 01:48 UTC",
+  "total_items": 297,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -44,9 +44,11 @@
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
+    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
@@ -54,12 +56,14 @@
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Land Rover",
     "CarScoops Mercedes",
     "CarWale IN",
     "Electrek BMW",
     "Gaadiwaadi IN",
     "Hagerty Media",
     "Hooniverse",
+    "HotCars",
     "InsideEVs",
     "Jalopnik",
     "Motor1 BMW",
@@ -75,9 +79,58 @@
     "Sports Car Digest",
     "The Drive"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 14,
+  "sources_count": 74,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "c112bbd67bea96d3",
+      "title": "Genesis Built A 641-HP Drift-Mode EV For Less Than A BMW M3",
+      "summary": "The 2027 Genesis GV60 Magma delivers 641 hp and a 3.4-second 0-60 for $69,950 — undercutting every BMW M3 variant by at least $9,000.",
+      "url": "https://www.hotcars.com/genesis-641-hp-drift-mode-ev-less-than-bmw-m3/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv60-magma-heasdlight-detail.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv60-magma-heasdlight-detail.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/2025-2026-bmw-m3-2-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/porsche-macan-turbo-quarter-front.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv60-magma-front-three-quarter-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/sharedimages/2025/12/genesis-gv60-magma-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv60-magma-front-three-quarter-3.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-20T01:00:12+00:00"
+    },
+    {
+      "id": "0f91cd3a7700b683",
+      "title": "Sport Package Driver: 1990 BMW 325is",
+      "summary": "Following up on our recent post about the Buick LeSabre T-Type, here’s a car that GM was hoping to target with its European-inspired models: a 1990 BMW 325is. Otherwise known as an E30, the 3-Series BMW had become a... Read More »",
+      "url": "https://barnfinds.com/high-mileage-driver-1990-bmw-325is/",
+      "image": "https://barnfinds.com/wp-content/uploads/2026/08/1990-BMW-325is-front-e1786979457884-630x390.jpg",
+      "images": [
+        "https://barnfinds.com/wp-content/uploads/2026/08/1990-BMW-325is-front-e1786979457884-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1990-BMW-325is-interior-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1990-BMW-325is-odo-e1786979480527-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1990-BMW-325is-side-e1786979467643-626x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1971-Chevrolet-Camaro-RS-2-120x120.jpeg",
+        "https://barnfinds.com/wp-content/uploads/2026/08/1988-Mercedes-Benz-300SE-Exterior-1-e1786977464409-120x120.jpeg"
+      ],
+      "source": "BarnFinds",
+      "source_url": "https://barnfinds.com",
+      "published": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "id": "1a97cf666ff02a53",
+      "title": "Original-Owner 2002 BMW M3 Coupe 6-Speed",
+      "summary": "This 2002 BMW M3 coupe was purchased new by its owner and is powered by a 3.2-liter inline-six linked with a six-speed manual transmission and a limited-slip differential. Finished in Steel Gray Metallic over gray Nappa leather, the car was optioned with the Luxury and Power Seat packages. Equipment includes 19\" Style 163M wheels, Dinan suspension, a power sunroof, xenon headlights, power-adjustable front sport seats, a Harman Kardon sound system, and automatic climate control. This E46 M3 has 85k miles and is offered by the seller on behalf of its owner's estate with a window sticker…",
+      "url": "https://bringatrailer.com/listing/2002-bmw-m3-coupe-134/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1000003838-scaled-copy-2026-08-19-r6v-77344.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/1000003838-scaled-copy-2026-08-19-r6v-77344.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-19T23:58:17+00:00"
+    },
     {
       "id": "f1c5fc288e405021",
       "title": "BMW’s Fix For A Driveshaft Recall? Glue, Unless It’s Too Late",
@@ -87,10 +140,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/The_new_2021_BMW_5_Series_Sedan._European_model_shown-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Driving-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ram-Rearview-Camera-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Carscoops-BMW-X5-Kith-2048x1155.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-bf3f76851c673d2a9577c223b9232009e33d77a2a-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-1-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-bf3f76851c673d2a9577c223b9232009e33d77a2a-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -162,10 +215,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/SB16751-copy-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Denza-Z9-GT-Special-Edition-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/CZV-11-Wing-Detail-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Geely-Galaxy-E8-1asolid-state-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Tesla-Model-Y-Performance-22-copyaaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-1-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Tesla-Model-Y-Performance-22-copyaaa-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -220,9 +273,9 @@
       "title": "Foley, Turner Motorsport ready to “Turn up the wick” in GTD title fight at VIR",
       "summary": "With just three rounds remaining in the IMSA WeatherTech SportsCar Championship, Robby Foley and Turner Motorsport are gearing up for a crucial stretch run starting this weekend at Virginia International Raceway. Driving the #96 Turner Motorsport BMW M4 GT3 EVO alongside co-driver Patrick Gallagher, Foley arrives at the Michelin GT Challenge at VIR sitting third in the GTD class standings. The ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/foley-turner-motorsport-ready-to-turn-up-the-wick-in-gtd-title-fight-at-vir/10847387/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
+        "https://cdn-8.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -262,11 +315,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-1-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-1-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Driving-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Ram-Rearview-Camera-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-3-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Hyundai-Kia-Thefts-massachsetts-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Serve-Robotics-1k-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Hyundai-Kia-Thefts-massachsetts-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -369,7 +422,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/volvo_ex60_review_front_lead.png?itok=gHlpyGo5",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/volvo_ex60_review_side_pan.png?itok=UxLz7x9K"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -408,7 +461,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -577,7 +630,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2027-Mercedes-C-Class-facelift-2-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T10:38:20+00:00"
     },
@@ -603,7 +656,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -733,7 +786,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -821,7 +874,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -834,7 +887,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -2009,7 +2062,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -3043,7 +3096,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3163,6 +3216,19 @@
       "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
+    },
+    {
+      "id": "3a88f96e6c066a22",
+      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
+      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
+      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Land Rover",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-24T19:45:00+00:00"
     },
     {
       "id": "878f7609834cee38",
