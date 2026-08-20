@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-20T05:42:19.311627+00:00",
-  "generated_at_human": "2026-08-20 05:42 UTC",
-  "total_items": 298,
+  "generated_at": "2026-08-20T07:02:44.995462+00:00",
+  "generated_at_human": "2026-08-20 07:02 UTC",
+  "total_items": 303,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -43,20 +43,22 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lexus",
     "CarScoops Mercedes",
     "CarWale IN",
     "Electrek BMW",
@@ -65,6 +67,8 @@
     "HotCars",
     "InsideEVs",
     "Jalopnik",
+    "Motor.es",
+    "Motor1 Audi",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
@@ -78,9 +82,92 @@
     "Sports Car Digest",
     "The Drive"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 15,
+  "sources_count": 77,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "b3e2fad20b2740ce",
+      "title": "El coche eléctrico se juega su mejor baza a largo plazo: más de 9.000 euros de ahorro cuando alcanzas los 100.000 km",
+      "summary": "100.000 kilómetros pueden cambiar las cuentas: un coche eléctrico llega a ahorrar más de 9.000 euros. La OCU ha realizado su último informe relacionado con coches eléctricos y marcas. La organización ha preguntado a casi 4.000 conductores y revela que BMW y Smart son los más fiables. Pero hay otros datos todavía más interesantes que destacar. Los vehículos eléctricos están ganando nuevas batallas con el paso del tiempo , pero todavía hay una que se le resiste. Sus precios de partida siguen siendo más elevados que los de combustión a igualdad de tamaño, aunque es cierto que, contando las…",
+      "url": "https://www.motor.es/noticias/coche-electrico-ahorro-euros-100000-kilometros-gasolina-2026115912.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/coche-electrico-ahorro-euros-100000-kilometros-gasolina-2026115912-1787208880_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/coche-electrico-ahorro-euros-100000-kilometros-gasolina-2026115912-1787208880_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-20T07:00:00+00:00"
+    },
+    {
+      "id": "e1823e12bb691e25",
+      "title": "Nicht vor 2028: BMW Deutschland verschiebt Agenturmodell erneut",
+      "summary": "Die Einführung des Agenturmodells im Vertrieb von BMW Deutschland wird erneut verschoben. Wie das Manager Magazin berichtet, wurden die deutschen BMW-Händler Anfang August in einem...",
+      "url": "https://www.bimmertoday.de/2026/08/20/nicht-vor-2028-bmw-deutschland-verschiebt-agenturmodell-erneut/",
+      "image": "https://vg09.met.vgwort.de/na/8edb317b2c86468da3d4f4e0330bc1df",
+      "images": [
+        "https://vg09.met.vgwort.de/na/8edb317b2c86468da3d4f4e0330bc1df"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-20T06:34:35+00:00"
+    },
+    {
+      "id": "be5d34632f3ebaee",
+      "title": "El nuevo BMW M3 eléctrico rozará los 700 CV, el modelo de gasolina empieza a quedarse sin argumentos",
+      "summary": "Fotos espía BMW M3 eléctrico 2027 Motor.es El desarrollo del nuevo BMW M3 eléctrico sigue su curso, aproximándose a su final. Este sedán deportivo, que seguirá conviviendo con una versión de gasolina, empieza a destaparse al mismo tiempo que fuentes de la marca apuntan a unos 700 CV de potencia. Más que la versión de combustión. El futuro BMW M3 eléctrico cada vez está más cerca. La marca alemana continúa con un exigente proceso de desarrollo que, a pesar de que el fabricante haya reiterado en sucesivas ocasiones que es tan completo como el de otros modelos de combustión, va mucho más…",
+      "url": "https://www.motor.es/noticias/bmw-m3-electrico-pruebas-potencia-2026115906.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/bmw-2026115906-1787158522_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/bmw-2026115906-1787158522_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-20T06:00:00+00:00"
+    },
+    {
+      "id": "3d97a2c225d6fe41",
+      "title": "The BMW XM Is Reportedly Facing The Chopping Block",
+      "summary": "Munich’s eccentric SUV is struggling, and its future looks increasingly uncertain.",
+      "url": "https://www.motor1.com/news/805528/bmw-xm-successor-unlikely-report/",
+      "image": "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg",
+        "https://cdn.motor1.com/images/mgl/G3Z4rq/s5/bmw-xm-label-red-2023.jpg",
+        "https://cdn.motor1.com/images/mgl/40LJAo/s5/bmw-xm-label-red-2023.jpg",
+        "https://cdn.motor1.com/images/mgl/3WGyVj/s5/bmw-xm-label-red-2023.jpg",
+        "https://cdn.motor1.com/images/mgl/Ak2vV2/s5/bmw-xm-label-red-2023.jpg",
+        "https://cdn.motor1.com/images/mgl/xqo7mz/s5/bmw-xm-label-red-2023.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-20T05:52:09+00:00"
+    },
+    {
+      "id": "009200c59682e5cb",
+      "title": "eMobility Excellence Report 2026: My BMW App überzeugt im App-Vergleich",
+      "summary": "Für den Alltag mit Elektroautos spielen Smartphone-Apps seit Jahren eine wichtige Rolle, schließlich unterstützen die smarten Apps bei einer Vielzahl von Funktionen und sind gerade...",
+      "url": "https://www.bimmertoday.de/2026/08/20/emobility-excellence-report-2026-my-bmw-app-uberzeugt-im-app-vergleich/",
+      "image": "https://vg09.met.vgwort.de/na/4b7903d19b094855b5f0606345ba3f22",
+      "images": [
+        "https://vg09.met.vgwort.de/na/4b7903d19b094855b5f0606345ba3f22"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-20T05:43:03+00:00"
+    },
+    {
+      "id": "8e99c6c4a0a95e88",
+      "title": "New BMW X1 LWB to be Launched in India Tomorrow",
+      "summary": "It will be offered exclusively with a petrol engine.",
+      "url": "https://www.carwale.com/news/new-bmw-x1-lwb-to-be-launched-in-india-tomorrow/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/226029/x1-lwb-exterior-right-front-three-quarter-9.jpeg?isig=0&wm=1&isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/226029/x1-lwb-exterior-right-front-three-quarter-9.jpeg?isig=0&wm=1&isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-20T05:42:36+00:00"
+    },
     {
       "id": "9bbcb09940462418",
       "title": "Enjoy the Ultimate Care Service Package by Sime Performance Motors Damansara and Puchong, til Sept 6",
@@ -311,9 +398,9 @@
       "title": "Foley, Turner Motorsport ready to “Turn up the wick” in GTD title fight at VIR",
       "summary": "With just three rounds remaining in the IMSA WeatherTech SportsCar Championship, Robby Foley and Turner Motorsport are gearing up for a crucial stretch run starting this weekend at Virginia International Raceway. Driving the #96 Turner Motorsport BMW M4 GT3 EVO alongside co-driver Patrick Gallagher, Foley arrives at the Michelin GT Challenge at VIR sitting third in the GTD class standings. The ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/foley-turner-motorsport-ready-to-turn-up-the-wick-in-gtd-title-fight-at-vir/10847387/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
+        "https://cdn-8.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -398,7 +485,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-1-830x467.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-19T11:01:05+00:00"
     },
@@ -423,11 +510,11 @@
       "image": "http://motoringworld.in/wp-content/uploads/2026/08/2-9-505x336.jpg",
       "images": [
         "http://motoringworld.in/wp-content/uploads/2026/08/2-9-505x336.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/RayZR-Street-Rally-TFT-Matte-Titan-2048x1762.png",
         "https://motoringworld.in/wp-content/uploads/2026/08/ValvolinexMahindra.jpg-1536x1023.jpeg",
         "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-9.45.13-AM-1018x680.png",
         "https://motoringworld.in/wp-content/uploads/2026/08/1-9-768x512.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/1-10-768x512.jpg"
+        "https://motoringworld.in/wp-content/uploads/2026/08/1-10-768x512.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/2-9-768x512.jpg"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -455,7 +542,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -494,7 +581,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -533,7 +620,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e8d7cb92-bb8e-4f67-b518-262c5e742745.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-18T21:30:00+00:00"
     },
@@ -624,7 +711,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/New-BMW-iX3-in-Mexico-2-830x526.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T11:50:51+00:00"
     },
@@ -650,7 +737,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2027-Mercedes-C-Class-facelift-2-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T10:38:20+00:00"
     },
@@ -676,7 +763,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -806,7 +893,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -894,7 +981,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
     },
@@ -907,7 +994,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T05:00:00+00:00"
     },
@@ -1307,19 +1394,6 @@
       "published": "2026-08-10T06:35:31+00:00"
     },
     {
-      "id": "6d54e20235ebf98c",
-      "title": "Drag-Race: BMW M3 M xDrive schlägt neuen Audi RS 5 Hybrid mit 639 PS",
-      "summary": "Auch mit einer imposanten Mehrleistung von über 100 PS gelingt es dem neuen Audi RS 5 Hybrid nicht, sich im Drag-Race gegen den aktuellen BMW...",
-      "url": "https://www.bimmertoday.de/2026/08/10/drag-race-bmw-m3-m-xdrive-schlagt-neuen-audi-rs-5-hybrid-mit-639-ps/",
-      "image": "https://vg09.met.vgwort.de/na/c6a2994492fb4adfba12eb8a9cd0126a",
-      "images": [
-        "https://vg09.met.vgwort.de/na/c6a2994492fb4adfba12eb8a9cd0126a"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-10T05:44:19+00:00"
-    },
-    {
       "id": "48a151adddd2cc9d",
       "title": "A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months",
       "summary": "The sentencing of a 19-year-old BMW driver has reignited questions about speeding, driver training and accountability",
@@ -1500,19 +1574,6 @@
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-07T10:08:00+00:00"
-    },
-    {
-      "id": "99cb73ae888e9bb7",
-      "title": "Juli 2026: BMW Deutschland startet stark ins zweite Halbjahr",
-      "summary": "Die Messlatte aus dem Vorjahr lag hoch, aber BMW Deutschland konnte sie im Juli 2026 dennoch leicht übertreffen und mit 24.644 Neuzulassungen einen starken Auftakt...",
-      "url": "https://www.bimmertoday.de/2026/08/07/juli-2026-bmw-deutschland-startet-stark-ins-zweite-halbjahr/",
-      "image": "https://vg09.met.vgwort.de/na/3b994fa706224d699520426b7a83e573",
-      "images": [
-        "https://vg09.met.vgwort.de/na/3b994fa706224d699520426b7a83e573"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-07T05:41:36+00:00"
     },
     {
       "id": "df0fe57efda138c9",
@@ -2383,7 +2444,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2739,7 +2800,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/BXZkGA/s3/audi-q7-vs-bmw-x5.jpg"
       ],
-      "source": "Motor1 BMW",
+      "source": "Motor1 Audi",
       "source_url": "https://www.motor1.com",
       "published": "2026-07-14T16:00:00+00:00"
     },
@@ -3116,7 +3177,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3639,6 +3700,19 @@
       "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-09T11:21:41+00:00"
+    },
+    {
+      "id": "61727afbda653219",
+      "title": "Lexus Charges BMW Money On A Toyota Budget, And It’s Working",
+      "summary": "While rivals rethink EV investments, Lexus is betting that flexibility and Toyota's scale will play to its advantage",
+      "url": "https://www.carscoops.com/2026/06/lexus-flexible-ev-platform/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/2027_Lexus_TZ_033-copy-1024x576.jpg"
+      ],
+      "source": "CarScoops Lexus",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-08T17:23:00+00:00"
     },
     {
       "id": "4990c9488bed2755",
