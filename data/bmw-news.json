@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-20T11:37:55.639658+00:00",
-  "generated_at_human": "2026-08-20 11:37 UTC",
-  "total_items": 304,
+  "generated_at": "2026-08-20T13:08:34.362518+00:00",
+  "generated_at_human": "2026-08-20 13:08 UTC",
+  "total_items": 308,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -40,7 +40,9 @@
     "BMW Blog X7 tag",
     "BMW Blog XM tag",
     "BMW Blog Z4",
+    "BMW Blog concepts",
     "BMW Blog i",
+    "BMW Blog i3 tag",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
@@ -49,8 +51,10 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
     "CarScoops Audi",
@@ -73,16 +77,93 @@
     "Motor1 Volvo",
     "Motoring World IN",
     "Motorious",
-    "Motorsport All",
     "Motorsport WEC",
     "Paul Tan",
     "Sports Car Digest",
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 75,
-  "multi_photo_items": 16,
+  "sources_count": 78,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "0939cae8a9eec6e4",
+      "title": "BMW M2 CS at the 0–150–0-MPH Speed Test 2026",
+      "summary": "Two doors, two-wheel drive, and too good to ignore.",
+      "url": "https://www.caranddriver.com/features/a73415566/bmw-m2-cs-0-150-0-speed-test-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/23bb07a6-82c7-414a-b937-f5ffe7d46c41.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/23bb07a6-82c7-414a-b937-f5ffe7d46c41.jpg"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-20T13:00:00+00:00"
+    },
+    {
+      "id": "16bef9257d75ed80",
+      "title": "BMW M5 at the 0–150–0-MPH Speed Test 2026",
+      "summary": "First comes the menu diving, then comes the physics defying.",
+      "url": "https://www.caranddriver.com/features/a73416104/bmw-m5-0-150-0-speed-test-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/80919755-63c2-4336-9fb6-0d5c51bc4e60.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/80919755-63c2-4336-9fb6-0d5c51bc4e60.jpg"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-20T13:00:00+00:00"
+    },
+    {
+      "id": "aa6f59959488e0f1",
+      "title": "BMW prepara una poda histórica en su gama: hasta cuatro modelos pueden desaparecer y los SUV tampoco están a salvo",
+      "summary": "Varios modelos de BMW, además de los ya conocidos, podrían irse sin que haya reemplazo en el futuro. Ante las expectativas de menores beneficios dadas las condiciones actuales y el cada vez más complicado mercado en China, el actual CEO Milan Nedeljkovic se ve obligado a prescindir de algunos de los modelos que menos resultado están dando al grupo. BMW sigue con el desarrollo de sus modelos Neue Klasse, comenzando por los iX3 e i3 y se extenderá no solo con los modelos de la marca bávara, sino también con otras marcas del grupo, tanto MINI como BMW ALPINA. No obstante, el actual CEO Milan…",
+      "url": "https://www.motor.es/noticias/bmw-modelos-peligro-produccion-2026115918.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/08/bmw-prepara-una-poda-historica-en-su-gama-hasta-cuatro-modelos-pueden-desaparecer-y-los-suv-tampoco-estan-a-salvo-2026115918-1787216459_6.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/08/bmw-prepara-una-poda-historica-en-su-gama-hasta-cuatro-modelos-pueden-desaparecer-y-los-suv-tampoco-estan-a-salvo-2026115918-1787216459_6.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-08-20T13:00:00+00:00"
+    },
+    {
+      "id": "edc093333a260232",
+      "title": "The New BMW iX3 Just Won A Rally Dedicated To Green Cars",
+      "summary": "The new BMW iX3 has already racked up plenty of attention for its efficiency and long-distance capability. Still, the Neue Klasse electric SUV has now added an unusual achievement to its résumé. The second-generation iX3... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/20/bmw-ix3-wins-strabag-green-rally/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-at-the-Strabag-Green-Rally-2026-3-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-at-the-Strabag-Green-Rally-2026-3-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-20T12:50:32+00:00"
+    },
+    {
+      "id": "880a1eccc4b82c60",
+      "title": "BMW iX3 Supports Cyclist On 560-Kilometer Course",
+      "summary": "Long-distance hauling used to be a job for diesel-powered vehicles, but electric vehicles are catching up. While EVs are still far from achieving the mileage numbers of an oil-burner out on the open road, BMW... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/20/bmw-ix3-accompanies-cyclist-560-kilometer-course/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-1-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-1-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-20T12:12:28+00:00"
+    },
+    {
+      "id": "da43cd9c262da851",
+      "title": "177 BaT Auctions Closing Today",
+      "summary": "1973 Porsche 911 Carrera RS Lightweight 4,600-Mile 2007 Lamborghini Murcielago LP640 Coupe 29k-Mile 1997 Porsche 911 Turbo 1977 Porsche 930 Turbo Carrera 2024 Maserati MCXtrema 10k-Mile 2005 Acura NSX-T 6-Speed 2,200-Mile 2017 Aston Martin V12 Vantage S 7-Speed No Reserve: BMW i8 Full-Scale Display Model 2000 Porsche 911 Carrera Coupe 6-Speed Coyote-Powered 1975 Ford Bronco by Heritage Bronco No Reserve: BMW i3 Full-Scale Display Model 49-Years-Owned 1968 Chevrolet Corvette Convertible 4-Speed 350-Powered 1974 Toyota Land Cruiser FJ40 2004 Jeep Wrangler X Columbia Edition 4.0 2005…",
+      "url": "https://bringatrailer.com/auctions/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/RS217-scaled-copy-2026-07-27-4yu-86884.jpg?w=310&#38;h=210&#38;crop=1",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/RS217-scaled-copy-2026-07-27-4yu-86884.jpg?w=310&#38;h=210&#38;crop=1"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-20T12:00:00+00:00"
+    },
     {
       "id": "5fd2ee2648250eda",
       "title": "The Luxury Motorcycle That Undercuts Popular Middleweights",
@@ -90,12 +171,7 @@
       "url": "https://www.topspeed.com/luxury-motorcycle-undercuts-popular-middleweights/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2022-bmw-k-1600-gtl-headlight-closeup.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2022-bmw-k-1600-gtl-headlight-closeup.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/rider-on-a-blue-2015-harley-davidson-road-glide-cruising-on-a-country-road.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/p90440037_highres_bmw-r-18-transcontin.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2015-bmw-k-1600-gtl-6.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2015-bmw-k-1600-gtl-15.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2015-bmw-k-1600-gtl-4.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2022-bmw-k-1600-gtl-headlight-closeup.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -108,12 +184,7 @@
       "url": "https://carbuzz.com/the-ferrari-ff-family-car-cheaper-than-2026-bmw-m5/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/ferrari-ff-interior.png",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/ferrari-ff-interior.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-rear-seat.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-driving-2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-engine.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2011-2016-ferrari-ff-front.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/ferrari-ff-interior.png"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -249,7 +320,7 @@
     {
       "id": "dde89c8f11451dd0",
       "title": "Exceptional deals on BMW Premium Selection models at Wheelcorp Premium Setia Alam, August 21-23, fr. RM58k",
-      "summary": "If you’re shopping for a pre-owned BMW, here’s some great news. Wheelcorp Premium Setia Alam is offering a number of fully certified pre-owned BMW vehicle models at incredibly attractive prices this August 21-23, from 9am […] The post Exceptional deals on BMW Premium Selection models at Wheelcorp Premium Setia Alam, August 21-23, fr. RM58k appeared first on Paul Tan's Automotive News .",
+      "summary": "If you’re shopping for a pre-owned BMW, here’s some great news. Wheelcorp Premium Setia Alam is offering a number of fully certified pre-owned BMW vehicle models at incredibly attractive prices this August 21-23, from 9am to 6pm daily. A wide selection of BMW Premium Selection (BPS) units are up for […] The post Exceptional deals on BMW Premium Selection models at Wheelcorp Premium Setia Alam, August 21-23, fr. RM58k appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/08/20/exceptional-deals-on-bmw-premium-selection-models-at-wheelcorp-premium-setia-alam-aug-21-23-fr-rm58k/",
       "image": "https://paultan.org/image/2026/08/Wheelcorp-Premium-BPS-630x330.jpeg",
       "images": [
@@ -319,7 +390,7 @@
     {
       "id": "9bbcb09940462418",
       "title": "Enjoy the Ultimate Care Service Package by Sime Performance Motors Damansara and Puchong, til Sept 6",
-      "summary": "Get the best for your BMW or MINI at Sime Performance Motors at the Damansara and Puchong locations from now until September 6, with a range of vehicle maintenance services to keep your BMW or […] The post Enjoy the Ultimate Care Service Package by Sime Performance Motors Damansara and Puchong, til Sept 6 appeared first on Paul Tan's Automotive News .",
+      "summary": "Get the best for your BMW or MINI at Sime Performance Motors at the Damansara and Puchong locations from now until September 6, with a range of vehicle maintenance services to keep your BMW or MINI in optimal condition for your journeys ahead. Book your vehicle in with Sime Performance […] The post Enjoy the Ultimate Care Service Package by Sime Performance Motors Damansara and Puchong, til Sept 6 appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/08/20/enjoy-the-ultimate-care-service-package-by-sime-performance-motors-damansara-and-puchong-til-sept-6/",
       "image": "https://paultan.org/image/2026/08/PMM_Aftersales-AUG_1200x628_19082026-630x330.png",
       "images": [
@@ -465,10 +536,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/SB16751-copy-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Denza-Z9-GT-Special-Edition-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Cybercab-Austin-12-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/6.-Coach_EX_01_43-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/CZV-11-Wing-Detail-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Geely-Galaxy-E8-1asolid-state-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -514,19 +585,6 @@
       "published": "2026-08-19T16:22:25+00:00"
     },
     {
-      "id": "b63187519a0c5351",
-      "title": "Foley, Turner Motorsport ready to “Turn up the wick” in GTD title fight at VIR",
-      "summary": "With just three rounds remaining in the IMSA WeatherTech SportsCar Championship, Robby Foley and Turner Motorsport are gearing up for a crucial stretch run starting this weekend at Virginia International Raceway. Driving the #96 Turner Motorsport BMW M4 GT3 EVO alongside co-driver Patrick Gallagher, Foley arrives at the Michelin GT Challenge at VIR sitting third in the GTD class standings. The ... Keep reading",
-      "url": "https://www.motorsport.com/imsa/news/foley-turner-motorsport-ready-to-turn-up-the-wick-in-gtd-title-fight-at-vir/10847387/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
-      "images": [
-        "https://cdn-8.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-08-19T15:41:33+00:00"
-    },
-    {
       "id": "a456b44df726ff09",
       "title": "Ford Bronco Pickup Reportedly Planned by 2030: TDS",
       "summary": "Also, the next Hyundai Tucson will look nothing like the last, and BMW is recalling nearly 30,000 sedans for rear-diff issues. The post Ford Bronco Pickup Reportedly Planned by 2030: TDS appeared first on The Drive .",
@@ -562,9 +620,9 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-1-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Driving-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-X3-steering-wheel-recall-3-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Cybercab-Austin-12-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/USA-Canada-trade-deal-tariffs-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Hyundai-Kia-Thefts-massachsetts-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -629,12 +687,7 @@
       "url": "https://motoringworld.in/car-news/mercedes-benz-updates-the-c-class-with-sharper-styling-more-tech-and-new-engines-to-take-on-the-new-bmw-3-series/",
       "image": "http://motoringworld.in/wp-content/uploads/2026/08/2-9-505x336.jpg",
       "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/08/2-9-505x336.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/ValvolinexMahindra.jpg-1536x1023.jpeg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-9.45.13-AM-1018x680.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/1-9-768x512.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/1-10-768x512.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/08/2-9-768x512.jpg"
+        "http://motoringworld.in/wp-content/uploads/2026/08/2-9-505x336.jpg"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -649,7 +702,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -675,7 +728,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -831,7 +884,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/bmw-m-concept-neue-klasse-monterey-car-week-01-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog concepts",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T10:00:48+00:00"
     },
@@ -844,7 +897,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -948,7 +1001,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mini_render_front_2026_final.jpg?itok=G1OeLXrA"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-17T05:00:00+00:00"
     },
@@ -1012,7 +1065,7 @@
       "image": "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
         "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
-        "https://cdn-9.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-4.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn.motorsport.com/images/mgl/2d1knknY/s1000/vincent-vosse-wrt.jpg",
         "https://cdn.motorsport.com/images/mgl/0R7BwJZ2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn.motorsport.com/images/amp/2eZxgV1Y/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
@@ -1031,22 +1084,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/8246cde2d766585b_org_0.jpg?itok=N-VaovMp"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-16T06:00:00+00:00"
-    },
-    {
-      "id": "775c20eec9330592",
-      "title": "What Alpina did next: How Bovensiepen will keep building ultimate BMWs",
-      "summary": "BMW has taken control of Alpina, so what's next for the family that established the name? Andreas Bovensiepen sweeps into a deserted canteen at the Salzburgring, six minutes late for our interview. I'd planned to hit him with some pithy enquiry as to the emotional toll of flogging the company his father Burkard founded, but he triggers a vibe-shift. He reports, with some relish, that the Bovensiepen Zagato he's just leapt out of nailed 265kph on the back straight. This makes it as quick as the slick-shod B6 GT3 they used to hammer here at Alpina events, he continues almost to himself,…",
-      "url": "https://www.autocar.co.uk/car-news/features/what-alpina-did-next-how-bovensiepen-will-keep-building-ultimate-bmws",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen-05-gt-20_0.jpg?itok=g9kKZT9z"
-      ],
-      "source": "Autocar BMW",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-08-16T05:00:00+00:00"
     },
     {
       "id": "3cf20ac0296e51d7",
@@ -1561,6 +1601,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1793,6 +1846,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2167,7 +2233,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2315,19 +2381,6 @@
       "published": "2026-07-26T16:54:56+00:00"
     },
     {
-      "id": "9c29eef4e1a80575",
-      "title": "The New BMW iX3 Becomes Brazil’s Longest-Range EV",
-      "summary": "Depending on where you live, BMW advertises the new iX3 with widely different driving ranges. In Europe and other regions that use the WLTP standard, the electric crossover is rated for up to 500 miles... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/26/bmw-ix3-longest-range-ev-brazil/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Polarized-Grey-9-830x746.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-Polarized-Grey-9-830x746.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-26T09:47:39+00:00"
-    },
-    {
       "id": "8255edd56e0799a8",
       "title": "The New BMW X5 Costs Over $95,000 With Every Option",
       "summary": "The 2027 BMW X5 configurator is live, so we built the most expensive version possible.",
@@ -2357,19 +2410,6 @@
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-07-24T16:49:00+00:00"
-    },
-    {
-      "id": "5658569a621d41a7",
-      "title": "The BMW i4 Convertible Is Coming Sooner Than You Think",
-      "summary": "As you’ve likely heard by now, the i4 is not long for this world. All signs point to BMW retiring the electric 4 Series Gran Coupe next year, with no direct replacement planned. However, we’ve... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/24/bmw-i4-convertible-na3/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-design-sketches-30-830x587.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-design-sketches-30-830x587.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-24T16:43:45+00:00"
     },
     {
       "id": "81bdc24542670c8b",
@@ -2468,7 +2508,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog i3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3201,7 +3241,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
