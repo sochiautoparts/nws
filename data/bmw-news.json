@@ -1,9 +1,10 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-20T08:52:23.974295+00:00",
-  "generated_at_human": "2026-08-20 08:52 UTC",
-  "total_items": 301,
+  "generated_at": "2026-08-20T09:47:37.046887+00:00",
+  "generated_at_human": "2026-08-20 09:47 UTC",
+  "total_items": 305,
   "sources_used": [
+    "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
@@ -40,8 +41,8 @@
     "BMW Blog XM tag",
     "BMW Blog Z4",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
@@ -49,14 +50,14 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
-    "CarScoops Range Rover",
     "CarWale IN",
     "Electrek BMW",
     "Electric Cars Report",
@@ -80,9 +81,22 @@
     "Sports Car Digest",
     "The Drive"
   ],
-  "sources_count": 75,
-  "multi_photo_items": 18,
+  "sources_count": 76,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "adee62bb9e42efa4",
+      "title": "Куплю, дорого: названы самые популярные премиальные бренды в России",
+      "summary": "Первое место занял Mercedes-Benz. В первой половине 2026 года на автомобили этой марки пришлось 21,8 % от общего числа полисов каско дороже 250 000 рублей. То есть каждый пятый покупатель «премиума» в России выбирает машин с трехлучевой звездой на эмблеме. Наибольшей популярностью пользуются Mercedes-Benz G-Class, S-Class, Maybach и «заряженные» AMG-версии. На втором месте идет BMW: […]",
+      "url": "https://5koleso.ru/articles/novosti/kuplyu-dorogo-nazvany-samye-populyarnye-premialnye-brendy-v-rossii/",
+      "image": "https://5koleso.ru/wp-content/uploads/2026/08/img_0132-1024x768.jpg",
+      "images": [
+        "https://5koleso.ru/wp-content/uploads/2026/08/img_0132-1024x768.jpg"
+      ],
+      "source": "5koleso RU",
+      "source_url": "https://5koleso.ru",
+      "published": "2026-08-20T09:00:00+00:00"
+    },
     {
       "id": "08e428db8d302fe8",
       "title": "BMW X3 Recall: 13 SUVs Could Lose Steering, Check Your VIN Now",
@@ -484,9 +498,9 @@
       "title": "Foley, Turner Motorsport ready to “Turn up the wick” in GTD title fight at VIR",
       "summary": "With just three rounds remaining in the IMSA WeatherTech SportsCar Championship, Robby Foley and Turner Motorsport are gearing up for a crucial stretch run starting this weekend at Virginia International Raceway. Driving the #96 Turner Motorsport BMW M4 GT3 EVO alongside co-driver Patrick Gallagher, Foley arrives at the Michelin GT Challenge at VIR sitting third in the GTD class standings. The ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/foley-turner-motorsport-ready-to-turn-up-the-wick-in-gtd-title-fight-at-vir/10847387/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
+        "https://cdn-5.motorsport.com/images/amp/2wlEeJBY/s6/96-turner-motorsport-bmw-m4-gt.jpg"
       ],
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
@@ -571,7 +585,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-1-830x467.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-19T11:01:05+00:00"
     },
@@ -680,7 +694,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/e8d7cb92-bb8e-4f67-b518-262c5e742745.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-18T21:30:00+00:00"
     },
@@ -758,7 +772,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/New-BMW-iX3-in-Mexico-2-830x526.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T11:50:51+00:00"
     },
@@ -784,7 +798,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2027-Mercedes-C-Class-facelift-2-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T10:38:20+00:00"
     },
@@ -975,14 +989,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn-6.motorsport.com/images/amp/0o5PrQlY/s1000/20-bmw-m-team-wrt-bmw-m-hybrid.webp",
-        "https://cdn.motorsport.com/images/mgl/2d1knknY/s1000/vincent-vosse-wrt.jpg",
-        "https://cdn.motorsport.com/images/mgl/0R7BwJZ2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn.motorsport.com/images/amp/2eZxgV1Y/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn.motorsport.com/images/amp/YXyp9VP6/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1545,6 +1554,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1777,6 +1799,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2487,9 +2522,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2543,7 +2578,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2559,6 +2594,42 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T07:00:43+00:00"
+    },
+    {
+      "id": "9a00ad92a80efad6",
+      "title": "Long-term test: BMW iX3 50 xDrive M Sport Pro",
+      "summary": "First fleetwatch report: the iX3 has been a joy to drive, but one loose seat panel has raised questions over its build quality",
+      "url": "https://www.autoexpress.co.uk/bmw/ix3/370037/long-term-test-bmw-ix3-50-xdrive-m-sport-pro-sarah-perks",
+      "image": "https://media.autoexpress.co.uk/image/private/s--QPYRZSRJ--/t_rss_image_w_845/v1787215773/autoexpress/2026/08/BMW%20iX3%2050%20xDrive%20M%20Sport%20Pro%20-%20seat%20panel_ttit5h.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--QPYRZSRJ--/t_rss_image_w_845/v1787215773/autoexpress/2026/08/BMW%20iX3%2050%20xDrive%20M%20Sport%20Pro%20-%20seat%20panel_ttit5h.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--QPYRZSRJ--/f_auto,t_primary-image-mobile@1/v1787215773/autoexpress/2026/08/BMW%20iX3%2050%20xDrive%20M%20Sport%20Pro%20-%20seat%20panel_ttit5h.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/370037/t_primary-image-desktop@1/v1787215773/autoexpress/2026/08/BMW%20iX3%2050%20xDrive%20M%20Sport%20Pro%20-%20seat%20panel_ttit5h.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/370037/t_primary-image-mobile@1/v1787215773/autoexpress/2026/08/BMW%20iX3%2050%20xDrive%20M%20Sport%20Pro%20-%20seat%20panel_ttit5h.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/f_auto,t_content-image-full-mobile@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/370037/t_content-image-full-desktop@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-07-18T09:05:36+00:00"
+    },
+    {
+      "id": "450c5c983d71e3ab",
+      "title": "BMW iX3 long-term test - pictures",
+      "summary": "Images from our latest BMW iX3 long-term test",
+      "url": "https://www.autoexpress.co.uk/bmw/ix3/370036/bmw-ix3-long-term-test-pictures",
+      "image": "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/f_auto,t_content-image-full-mobile@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/370036/t_content-image-full-desktop@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/370036/t_content-image-full-mobile@1/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--Yqku_Bg8--/f_auto,t_content-image-full-mobile@1/v1784286362/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20interior_igbmsw.jpg",
+        "https://www.autoexpress.co.uk/bmw/ix3/370036/t_content-image-full-desktop@1/v1784286362/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20interior_igbmsw.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-07-18T09:05:26+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -2873,7 +2944,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -2908,9 +2979,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3159,7 +3230,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3279,19 +3350,6 @@
       "source": "BMW Blog X6",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-24T23:15:06+00:00"
-    },
-    {
-      "id": "3a88f96e6c066a22",
-      "title": "Facelifted 2027 Range Rover Is Going Electric, But Its BMW V8 Isn’t Dead Yet",
-      "summary": "The refreshed Range Rover keeps its familiar shape and physical buttons while adding a 112 kWh battery to a lineup that still includes a V8",
-      "url": "https://www.carscoops.com/2026/06/range-rover-facelift-ev/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/06/Range-Rover-FL-4-copy-1024x576.jpg"
-      ],
-      "source": "CarScoops Range Rover",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-06-24T19:45:00+00:00"
     },
     {
       "id": "878f7609834cee38",
@@ -3913,7 +3971,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -4017,7 +4075,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
