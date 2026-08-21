@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-21T07:54:46.881914+00:00",
-  "generated_at_human": "2026-08-21 07:54 UTC",
-  "total_items": 302,
+  "generated_at": "2026-08-21T08:54:27.206613+00:00",
+  "generated_at_human": "2026-08-21 08:54 UTC",
+  "total_items": 303,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
@@ -43,7 +43,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -55,6 +54,7 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -64,6 +64,7 @@
     "Hagerty Media",
     "Hooniverse",
     "InsideEVs",
+    "Kolesa RU",
     "Motor.es",
     "Motor1 Audi",
     "Motor1 BMW",
@@ -78,22 +79,66 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 73,
+  "sources_count": 74,
   "multi_photo_items": 13,
   "items": [
     {
+      "id": "c48ab2129a6c628f",
+      "title": "BMW Owners Outraged After Spider-Man Ads Pop Into Dashboards",
+      "summary": "Spider-Man: Brand New Day clips appeared in BMW infotainment systems without opt-in, raising fresh concerns about in-car ads and driver privacy.",
+      "url": "https://www.motor1.com/news/805679/bmw-owners-upset-over-surprise/",
+      "image": "https://cdn.motor1.com/images/mgl/y2lEbl/s3/bmw---spider-man-brand-new-day-collaboration.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/y2lEbl/s3/bmw---spider-man-brand-new-day-collaboration.jpg",
+        "https://cdn.motor1.com/images/mgl/L3yQEm/s5/bmw---spider-man-brand-new-day-collaboration.jpg",
+        "https://cdn.motor1.com/images/mgl/g4Omeg/s5/bmw---spider-man-brand-new-day-collaboration.jpg",
+        "https://cdn.motor1.com/images/mgl/wl8YME/s5/bmw---spider-man-brand-new-day-collaboration.jpg",
+        "https://cdn.motor1.com/images/mgl/JONqY6/s5/bmw---spider-man-brand-new-day-collaboration.jpg",
+        "https://cdn.motor1.com/images/mgl/y2lEbl/s5/bmw---spider-man-brand-new-day-collaboration.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-08-21T08:35:31+00:00"
+    },
+    {
+      "id": "db7d7b5a7e19fcb7",
+      "title": "Genesis’ New GV90 Goes After BMW Money With Rolls-Royce Tricks (Live Photos)",
+      "summary": "With 657 hp, a 123.5-kWh battery, and a coach-door Neolun version, Genesis' GV90 aims straight at luxury-SUV royalty",
+      "url": "https://www.carscoops.com/2026/08/genesis-gv90-flagship/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Photo-2-aE˜GV90-NeolunaE™-Exterior-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Photo-3-aE˜GV90aE™-Exterior-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Photo-4-aE˜GV90aE™-Exterior-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Photo-5-aE˜GV90aE™-Exterior-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/10.Swing_EX_03_43-2048x1536.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-21T08:16:42+00:00"
+    },
+    {
+      "id": "cfa2084622d83f26",
+      "title": "BMW i5 LWB unveiled; Bookings open",
+      "summary": "Second locally assembled BMW EV for India",
+      "url": "https://www.carwale.com/news/bmw-i5-lwb-unveiled-bookings-open/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/226176/i5-exterior-left-front-three-quarter.jpeg?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/226176/i5-exterior-left-front-three-quarter.jpeg?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-21T08:10:17+00:00"
+    },
+    {
       "id": "714fb7cc70639c9c",
       "title": "2026 BMW iX3 L in China – new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k",
-      "summary": "We’ve waited pretty patiently for this, but the new Neue Klasse BMW iX3 L has finally been launched in China at the ongoing Chengdu Motor Show. The long-wheelbase electric SUV’s belated arrival in the Middle […] The post 2026 BMW iX3 L in China – new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k appeared first on Paul Tan's Automotive News .",
+      "summary": "We’ve waited pretty patiently for this, but the new Neue Klasse BMW iX3 L has finally been launched in China at the ongoing Chengdu Motor Show. The long-wheelbase electric SUV’s belated arrival in the Middle Kingdom also sees the debut of a new specially-developed 30L variant to join the 40L […] The post 2026 BMW iX3 L in China – new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/08/21/2026-bmw-ix3-l-in-china-new-30l-with-lfp-battery-joins-40l-and-50l-up-to-919-km-cltc-from-rm162k/",
       "image": "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-1-e1787286667671-630x355.jpg",
       "images": [
-        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-1-e1787286667671-630x355.jpg",
-        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-10-1260x945.jpg",
-        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-12-1260x945.jpg",
-        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-4-e1787286712404-1260x710.jpg",
-        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-2-850x638.jpg",
-        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-3-850x638.jpg"
+        "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-1-e1787286667671-630x355.jpg"
       ],
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
@@ -104,9 +149,9 @@
       "title": "BMW X1 LWB Launched In India at Rs. 49.90 lakh",
       "summary": "The X1 LWB will be sold alongside the standard wheelbase and the electric iX1.",
       "url": "https://www.carwale.com/news/bmw-x1-lwb-launched-in-india-at-rs-4990-lakh/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/226168/x1-lwb-exterior-left-front-three-quarter.jpeg?isig=0",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/226168/x1-lwb-exterior-left-front-three-quarter-2.jpeg?isig=0",
       "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/226168/x1-lwb-exterior-left-front-three-quarter.jpeg?isig=0"
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/226168/x1-lwb-exterior-left-front-three-quarter-2.jpeg?isig=0"
       ],
       "source": "CarWale IN",
       "source_url": "https://www.carwale.com",
@@ -292,6 +337,19 @@
       "published": "2026-08-20T19:50:17+00:00"
     },
     {
+      "id": "7f39276d895c85e4",
+      "title": "BMW может отправить в отставку плохо продающийся гибридный кроссовер XM",
+      "summary": "Пока что баварская компания не приняла окончательного решения касательно этой модели, но её будущее выглядит неопределённым.",
+      "url": "https://www.kolesa.ru/news/bmw-mozet-otpravit-v-otstavku-ploxo-prodaiushhiisia-gibridnyi-krossover-xm",
+      "image": "https://kolesa-uploads.ru/-/fa32189d-84df-4f03-92ec-4d2c3706cabd/bmw-xm-label.jpg",
+      "images": [
+        "https://kolesa-uploads.ru/-/fa32189d-84df-4f03-92ec-4d2c3706cabd/bmw-xm-label.jpg"
+      ],
+      "source": "Kolesa RU",
+      "source_url": "https://www.kolesa.ru",
+      "published": "2026-08-20T19:48:26+00:00"
+    },
+    {
       "id": "fe2e82dc2694d489",
       "title": "Reports Say the BMW XM Is Dead. Our Sources Say Otherwise",
       "summary": "A second-generation BMW XM has not been ruled out, and BMW is actively exploring the idea, despite a wave of reports today declaring the opposite. Automotive News kicked off the latest round of XM obituaries,... First published by https://www.bmwblog.com",
@@ -313,7 +371,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T17:39:17+00:00"
     },
@@ -479,19 +537,6 @@
       "published": "2026-08-20T07:13:33+00:00"
     },
     {
-      "id": "b3e2fad20b2740ce",
-      "title": "El coche eléctrico se juega su mejor baza a largo plazo: más de 9.000 euros de ahorro cuando alcanzas los 100.000 km",
-      "summary": "100.000 kilómetros pueden cambiar las cuentas: un coche eléctrico llega a ahorrar más de 9.000 euros. La OCU ha realizado su último informe relacionado con coches eléctricos y marcas. La organización ha preguntado a casi 4.000 conductores y revela que BMW y Smart son los más fiables. Pero hay otros datos todavía más interesantes que destacar. Los vehículos eléctricos están ganando nuevas batallas con el paso del tiempo , pero todavía hay una que se le resiste. Sus precios de partida siguen siendo más elevados que los de combustión a igualdad de tamaño, aunque es cierto que, contando las…",
-      "url": "https://www.motor.es/noticias/coche-electrico-ahorro-euros-100000-kilometros-gasolina-2026115912.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/08/coche-electrico-ahorro-euros-100000-kilometros-gasolina-2026115912-1787208880_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/08/coche-electrico-ahorro-euros-100000-kilometros-gasolina-2026115912-1787208880_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-08-20T07:00:00+00:00"
-    },
-    {
       "id": "e1823e12bb691e25",
       "title": "Nicht vor 2028: BMW Deutschland verschiebt Agenturmodell erneut",
       "summary": "Die Einführung des Agenturmodells im Vertrieb von BMW Deutschland wird erneut verschoben. Wie das Manager Magazin berichtet, wurden die deutschen BMW-Händler Anfang August in einem...",
@@ -505,31 +550,13 @@
       "published": "2026-08-20T06:34:35+00:00"
     },
     {
-      "id": "be5d34632f3ebaee",
-      "title": "El nuevo BMW M3 eléctrico rozará los 700 CV, el modelo de gasolina empieza a quedarse sin argumentos",
-      "summary": "Fotos espía BMW M3 eléctrico 2027 Motor.es El desarrollo del nuevo BMW M3 eléctrico sigue su curso, aproximándose a su final. Este sedán deportivo, que seguirá conviviendo con una versión de gasolina, empieza a destaparse al mismo tiempo que fuentes de la marca apuntan a unos 700 CV de potencia. Más que la versión de combustión. El futuro BMW M3 eléctrico cada vez está más cerca. La marca alemana continúa con un exigente proceso de desarrollo que, a pesar de que el fabricante haya reiterado en sucesivas ocasiones que es tan completo como el de otros modelos de combustión, va mucho más…",
-      "url": "https://www.motor.es/noticias/bmw-m3-electrico-pruebas-potencia-2026115906.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/08/bmw-2026115906-1787158522_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/08/bmw-2026115906-1787158522_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-08-20T06:00:00+00:00"
-    },
-    {
       "id": "3d97a2c225d6fe41",
       "title": "The BMW XM Is Reportedly Facing The Chopping Block",
       "summary": "Munich’s eccentric SUV is struggling, and its future looks increasingly uncertain.",
       "url": "https://www.motor1.com/news/805528/bmw-xm-successor-unlikely-report/",
       "image": "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg",
-        "https://cdn.motor1.com/images/mgl/G3Z4rq/s5/bmw-xm-label-red-2023.jpg",
-        "https://cdn.motor1.com/images/mgl/40LJAo/s5/bmw-xm-label-red-2023.jpg",
-        "https://cdn.motor1.com/images/mgl/3WGyVj/s5/bmw-xm-label-red-2023.jpg",
-        "https://cdn.motor1.com/images/mgl/Ak2vV2/s5/bmw-xm-label-red-2023.jpg",
-        "https://cdn.motor1.com/images/mgl/xqo7mz/s5/bmw-xm-label-red-2023.jpg"
+        "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -613,10 +640,10 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/SB16751-copy-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/SB16751-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Model-S-Plaid-Signature-Edition-001-Completed-Preservation-Unplugged-Performance-1s-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-EV-RST-Stars-and-Steel-Edition-4s-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Cybercab-Austin-12-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/6.-Coach_EX_01_43-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/CZV-11-Wing-Detail-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
@@ -1057,9 +1084,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-8.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2464,7 +2491,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2499,9 +2526,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-3.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2649,19 +2676,6 @@
       "source": "BMW Blog M8",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-17T18:32:46+00:00"
-    },
-    {
-      "id": "d8e821ea5a80c7b9",
-      "title": "Why Does BMW's Headquarters Look Like That?",
-      "summary": "You've probably never considered it, but there's a reason BMW's headquarters in Munich looks the way it does.",
-      "url": "https://www.motor1.com/features/800899/who-designed-bmw-headquarters/",
-      "image": "https://cdn.motor1.com/images/mgl/XBzW8b/s3/bmw-headquarters.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/XBzW8b/s3/bmw-headquarters.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-07-17T13:00:00+00:00"
     },
     {
       "id": "61ca59ca4e52a60f",
@@ -2933,9 +2947,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-1.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -3171,7 +3185,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
