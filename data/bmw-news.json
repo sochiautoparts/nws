@@ -1,14 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-21T09:49:27.712060+00:00",
-  "generated_at_human": "2026-08-21 09:49 UTC",
-  "total_items": 306,
+  "generated_at": "2026-08-21T10:42:32.220157+00:00",
+  "generated_at_human": "2026-08-21 10:42 UTC",
+  "total_items": 304,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -43,7 +44,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -52,7 +52,6 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
@@ -82,9 +81,38 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 77,
-  "multi_photo_items": 14,
+  "sources_count": 76,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "4a9a95578c27db07",
+      "title": "The New BMW iX3 Is Predictably Cheap In China",
+      "summary": "We first saw the long-wheelbase iX3 at the end of May, but we had to wait until today for BMW to dish out pricing details. Launching in China this week, where pre-orders are now open,... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/21/2026-bmw-ix3-price-china/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-21T10:15:01+00:00"
+    },
+    {
+      "id": "e7f9b82e4ceaaf6c",
+      "title": "Autobots, roll out - meet the androids changing car factories for good",
+      "summary": "BMW last year used its Figure 02 robot to support the production of more than 30,000 X3s Autonomous features are turning cars into robots that nag you into paying attention, flash speed limit warnings and slam on the brakes if you’re about to hit something. Fully autonomous taxis and delivery vehicles are on the way, and before long we may see fully autonomous private cars. On top of all that, the way cars are produced is also becoming increasingly robotic. Robots have been used to build cars for more than 40 years. In the past they didn’t resemble the two-armed, two-legged sci-fi variety,…",
+      "url": "https://www.autocar.co.uk/car-news/technology/autobots-roll-out-meet-androids-changing-car-factories-good",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=jmidKgYZ",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-17813-profile_photo.jpg?itok=fg8_XCcL"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-21T10:00:00+00:00"
+    },
     {
       "id": "3a0f0083248b1ae6",
       "title": "BMW India Steps Up Luxury Car Race – X1 LWB Launched, i5 LWB Bookings Open",
@@ -431,7 +459,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg"
       ],
-      "source": "BMW Blog Z4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T17:39:17+00:00"
     },
@@ -823,7 +851,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -849,7 +877,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -865,19 +893,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-18T21:54:25+00:00"
-    },
-    {
-      "id": "3221835f9d7ceeec",
-      "title": "Why BMW Is Recalling 27,720 Cars Over a Rare Rollaway Risk",
-      "summary": "BMW is recalling 27,720 vehicles over a driveshaft connection that can wear out badly enough to cut power to the rear wheels, or in rare cases, let the car roll away on its own. The... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/18/bmw-driveshaft-recall-rollaway-risk/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2021/03/2021_bmw_840i_gran_coupe_49-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2021/03/2021_bmw_840i_gran_coupe_49-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-18T21:48:07+00:00"
     },
     {
       "id": "8e4392d5a3820fe7",
@@ -992,7 +1007,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -1644,19 +1659,6 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
-      "id": "899a6cd14d95eccf",
-      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
-      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-07T13:36:00+00:00"
-    },
-    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1889,19 +1891,6 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
-    },
-    {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2359,19 +2348,6 @@
       "published": "2026-07-27T14:00:00+00:00"
     },
     {
-      "id": "ef4f2a6627a34069",
-      "title": "China’s BMW iX3 Officially Rated At 571 Miles Of Range",
-      "summary": "We recently talked about why the BMW iX3 for Brazil is rated at only 354 miles (570 kilometers) of range. It all comes down to different testing methodologies, with Brazil using one of the strictest... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/27/long-wheelbase-bmw-ix3-571-miles-range-china/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-27T10:40:52+00:00"
-    },
-    {
       "id": "928785ebd5a405a8",
       "title": "China's Long-Wheelbase BMW X5 Has A Feature The Rest Of The World Misses",
       "summary": "The stretched version gets a nicer interior with better seats and more legroom.",
@@ -2538,7 +2514,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3232,7 +3208,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3973,7 +3949,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -4077,7 +4053,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
