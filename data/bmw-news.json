@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-21T15:44:56.303103+00:00",
-  "generated_at_human": "2026-08-21 15:44 UTC",
-  "total_items": 301,
+  "generated_at": "2026-08-21T16:48:30.621651+00:00",
+  "generated_at_human": "2026-08-21 16:48 UTC",
+  "total_items": 303,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
@@ -40,19 +40,20 @@
     "BMW Blog Z4",
     "BMW Blog concepts",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops",
+    "CarScoops Alfa",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -79,9 +80,40 @@
     "RushLane IN",
     "Sports Car Digest"
   ],
-  "sources_count": 74,
+  "sources_count": 75,
   "multi_photo_items": 16,
   "items": [
+    {
+      "id": "675aceba11405c19",
+      "title": "What Makes a BMW Timeless? Ronnie Fieg (Kith) and Oliver Heilmer (BMW) Explain",
+      "summary": "Monterey Car Week is a blur by design. Six days, a dozen venues, and more press releases than any one person can read on a plane home. But there’s usually one hour that sticks with... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/21/kith-bmw-design-chat-ronnie-fieg-oliver-heilmer/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/kith-bmw-design-panel-00-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/kith-bmw-design-panel-00-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-21T16:14:52+00:00"
+    },
+    {
+      "id": "f63bf27424a2f017",
+      "title": "Mercedes-AMG E-Class Getting Radical 900-HP Pivot To Beat BMW M5",
+      "summary": "The E-Class AMG would reportedly adopt an electric powertrain potentially making 800 to 900 horsepower.",
+      "url": "https://carbuzz.com/mercedes-benz-amg-e63-electric-spy-august-21/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/mercedes-amg-e-class-5-2.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/mercedes-amg-e-class-5-2.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/mercedes-amg-e-class-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/mercedes-amg-e-class-6-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/mercedes-amg-e-class-9-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/mercedes-amg-e-class-3-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-21T16:04:12+00:00"
+    },
     {
       "id": "2a460a8900975b0f",
       "title": "Alemana, fabricada en Brasil, así es el verdadero Mercedes Clase G de dos ruedas, un todoterreno de alta tecnología y lujo",
@@ -115,12 +147,7 @@
       "url": "https://www.hotcars.com/the-forgotten-suzuki-single-that-defined-the-adventure-bike-template/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/suzuki-dr-750s-close-up.JPG",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/suzuki-dr-750s-close-up.JPG",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/bmw-r80gs-front.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/suzuki-dr750s-motor.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/suzuki-dr-750s-2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2023/12/1988-suzuki-dr750s.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/05/1990-dr800s-big-blue-r-2000.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/suzuki-dr-750s-close-up.JPG"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -143,19 +170,6 @@
       "source": "Hagerty Media",
       "source_url": "https://www.hagerty.com",
       "published": "2026-08-21T14:00:00+00:00"
-    },
-    {
-      "id": "d18f3caf69a6cef5",
-      "title": "One-Owner 2002 BMW M5",
-      "summary": "This 2002 BMW M5 was purchased new by the current owner in California, and it now has 54k miles. Specified in Carbon Black Metallic over black Nappa Heritage leather upholstery, the car is powered by a 4.9-liter V8 linked with a six-speed manual transmission and a limited-slip differential. Further equipment includes 18\" Style 65 wheels, a sunroof, xenon headlights, fog lights, heated power-adjustable front seats, dual-zone automatic climate control, and navigation. Work completed since 2024 consisted of cosmetic refreshes of the wheels and portions of the body, rebuilding the instrument…",
-      "url": "https://bringatrailer.com/listing/2002-bmw-m5-299/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/2002_bmw_m5_2002_bmw_m5_a46169e7-de03-4701-b610-c500bf6e7eed-fhgXZj-98497-98498-scaled.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/07/2002_bmw_m5_2002_bmw_m5_a46169e7-de03-4701-b610-c500bf6e7eed-fhgXZj-98497-98498-scaled.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-08-21T13:10:18+00:00"
     },
     {
       "id": "5ad8d0283c22a4b3",
@@ -245,7 +259,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:56:09+00:00"
     },
@@ -258,7 +272,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:15:01+00:00"
     },
@@ -614,7 +628,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-at-the-Strabag-Green-Rally-2026-3-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T12:50:32+00:00"
     },
@@ -627,7 +641,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-1-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T12:12:28+00:00"
     },
@@ -817,7 +831,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/Polestar-4-SUV-Scoop-1-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Model-S-Plaid-Signature-Edition-001-Completed-Preservation-Unplugged-Performance-1s-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-EV-RST-Stars-and-Steel-Edition-4s-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Corvette-smoke-Aug20261-copy-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -871,7 +885,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/2025-bmw-m3-touring-twilight-purple-48-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-19T12:02:18+00:00"
     },
@@ -2285,7 +2299,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/bmw-i4-convertible-10-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-28T10:45:43+00:00"
     },
@@ -2417,8 +2431,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/0e0618e0-2efe-4930-bdb9-4786007f54c5.jpg?crop=0.889xw:0.750xh;0.104xw",
         "https://hips.hearstapps.com/hmg-prod/images/2a021208-3cd2-4e83-b990-83b94f50cd9f.jpg?crop=1.00xw:0.847xh;0",
         "https://hips.hearstapps.com/hmg-prod/images/95e6eaed-83cb-4495-83a4-87d8ea332497.jpg?crop=0.712xw:0.710xh;0.0817xw,0.179xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-101-684987b3c06db.jpg?crop=1.00xw:0.348xh;0,0.291xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-101-671a7a863cbf6.jpg?crop=0.796xw:0.673xh;0.147xw,0.260xh&resize=700:*"
       ],
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
@@ -2435,8 +2449,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/0e0618e0-2efe-4930-bdb9-4786007f54c5.jpg?crop=0.889xw:0.750xh;0.104xw",
         "https://hips.hearstapps.com/hmg-prod/images/2a021208-3cd2-4e83-b990-83b94f50cd9f.jpg?crop=1.00xw:0.847xh;0",
         "https://hips.hearstapps.com/hmg-prod/images/95e6eaed-83cb-4495-83a4-87d8ea332497.jpg?crop=0.712xw:0.710xh;0.0817xw,0.179xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-xm-label-pr-101-684987b3c06db.jpg?crop=1.00xw:0.348xh;0,0.291xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-101-671a7a863cbf6.jpg?crop=0.796xw:0.673xh;0.147xw,0.260xh&resize=700:*"
       ],
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
@@ -2911,7 +2925,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3171,7 +3185,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3912,7 +3926,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -4016,7 +4030,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
@@ -4032,6 +4046,19 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-05-26T10:38:00+00:00"
+    },
+    {
+      "id": "7916c0fbced4069a",
+      "title": "Alfa Romeo Is Bringing Back The Hatchback That Saved It Once Before",
+      "summary": "Alfa has confirmed that it’ll build a hatchback rival to the BMW 1-Series in addition to other models revealed last week",
+      "url": "https://www.carscoops.com/2026/05/alfa-romeo-new-hatchback/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/05/tgvfrb-dc--1024x576.jpg"
+      ],
+      "source": "CarScoops Alfa",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-05-25T14:54:00+00:00"
     },
     {
       "id": "2d2e6597cd2ff873",
