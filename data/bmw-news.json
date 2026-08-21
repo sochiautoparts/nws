@@ -1,15 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-21T10:42:32.220157+00:00",
-  "generated_at_human": "2026-08-21 10:42 UTC",
-  "total_items": 304,
+  "generated_at": "2026-08-21T11:36:29.865217+00:00",
+  "generated_at_human": "2026-08-21 11:36 UTC",
+  "total_items": 306,
   "sources_used": [
     "5koleso RU",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -52,6 +51,7 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
@@ -82,8 +82,57 @@
     "TopSpeed"
   ],
   "sources_count": 76,
-  "multi_photo_items": 15,
+  "multi_photo_items": 17,
   "items": [
+    {
+      "id": "9b639d302e719e64",
+      "title": "BMW X1 LWB Launched In India At Rs 49.90 Lakh",
+      "summary": "The X1 LWB is the most affordable BMW SUV in India, and is only available with a petrol powertrain.",
+      "url": "https://motoringworld.in/car-news/bmw-x1-lwb-launched-in-india-at-rs-49-90-lakh/",
+      "image": "http://motoringworld.in/wp-content/uploads/2026/08/BMW-X1-LWB-3-505x336.jpg",
+      "images": [
+        "http://motoringworld.in/wp-content/uploads/2026/08/BMW-X1-LWB-3-505x336.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-20-at-7.12.24-PM-1536x864.jpeg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/BMW-X1-LWB-768x512.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/Skoda-Superb-3-1-768x512.png",
+        "https://motoringworld.in/wp-content/uploads/2026/08/BMW-X1-LWB-3-768x512.jpg",
+        "https://motoringworld.in/wp-content/uploads/2026/08/BMW-X1-LWB-2-768x512.jpg"
+      ],
+      "source": "Motoring World IN",
+      "source_url": "https://www.motoringworld.in",
+      "published": "2026-08-21T11:16:04+00:00"
+    },
+    {
+      "id": "b8bfd45175519b97",
+      "title": "BMW F 650 GS Revival: Middleweight Adventure Prototype Spied",
+      "summary": "BMW spy shots reveal a new middleweight GS prototype between the F 450 GS and F 900 GS. Here's what the specs suggest and what it means for adventure riders.",
+      "url": "https://www.topspeed.com/bmw-f650-gs-revival-middleweight-spy-shots/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/bmw-f-600-gs-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/bmw-f-600-gs-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/bmw-f-600-gs-2-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/bmw-f-650-gs-dakar-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/indian-challenger-face.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/11/2025-honda-xl750-transalp-headlamp.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-bmw-r-18-headlight-closeup-shot-in-the-street.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-21T11:00:14+00:00"
+    },
+    {
+      "id": "cc59ce1cf11c8a07",
+      "title": "The BMW iX3 30 Is A New Base Model Most Markets Won’t Get",
+      "summary": "While the United States waits for Europe’s iX3 40 to cross the pond, BMW is introducing an even cheaper version in China. Coinciding with the pre-sales launch of the long-wheelbase electric SUV is the announcement... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/21/2026-bmw-ix3-30-details-price/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-21T10:56:09+00:00"
+    },
     {
       "id": "4a9a95578c27db07",
       "title": "The New BMW iX3 Is Predictably Cheap In China",
@@ -109,7 +158,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-17813-profile_photo.jpg?itok=fg8_XCcL"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -222,7 +271,7 @@
     {
       "id": "714fb7cc70639c9c",
       "title": "2026 BMW iX3 L in China – new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k",
-      "summary": "We’ve waited pretty patiently for this, but the new Neue Klasse BMW iX3 L has finally been launched in China at the ongoing Chengdu Motor Show. The long-wheelbase electric SUV’s belated arrival in the Middle Kingdom also sees the debut of a new specially-developed 30L variant to join the 40L […] The post 2026 BMW iX3 L in China – new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k appeared first on Paul Tan's Automotive News .",
+      "summary": "We’ve waited pretty patiently for this, but the new Neue Klasse BMW iX3 L has finally been launched in China at the ongoing Chengdu Motor Show. The long-wheelbase electric SUV’s belated arrival in the Middle […] The post 2026 BMW iX3 L in China – new 30L with LFP battery joins 40L and 50L; up to 919 km CLTC, from RM162k appeared first on Paul Tan's Automotive News .",
       "url": "https://paultan.org/2026/08/21/2026-bmw-ix3-l-in-china-new-30l-with-lfp-battery-joins-40l-and-50l-up-to-919-km-cltc-from-rm162k/",
       "image": "https://paultan.org/image/2026/08/2026-BMW-iX3-L-China-1-e1787286667671-630x355.jpg",
       "images": [
@@ -732,7 +781,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Model-S-Plaid-Signature-Edition-001-Completed-Preservation-Unplugged-Performance-1s-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Chevrolet-Silverado-EV-RST-Stars-and-Steel-Edition-4s-copy-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Tesla-Cybercab-Austin-12-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Corvette-smoke-Aug20261-copy-2048x1151.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -851,7 +900,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -877,22 +926,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
-    },
-    {
-      "id": "c7aef311d1f77232",
-      "title": "A Light Steering Wheel Tip Led BMW to Recall Just 13 X3s",
-      "summary": "BMW’s steering spindle recall traces back to a single complaint from outside the U.S.: a customer told their dealer that the steering wheel on a 2025 X3 could be turned with barely any effort at... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/18/bmw-x3-steering-spindle-recall/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/07/2025-bmw-x3-m50-fire-red-review-01-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/07/2025-bmw-x3-m50-fire-red-review-01-830x467.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-18T21:54:25+00:00"
     },
     {
       "id": "8e4392d5a3820fe7",
@@ -1007,7 +1043,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -1659,6 +1695,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1891,6 +1940,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2270,19 +2332,6 @@
       "published": "2026-07-28T10:05:00+00:00"
     },
     {
-      "id": "a8c7e68b40abc160",
-      "title": "BMW Has Already Built 50,000 iX3 Neue Klasse Electric SUVs",
-      "summary": "Well, that was fast. BMW’s Debrecen factory has already assembled the 50,000th iX3 from the Neue Klasse family. Series production started in late October 2025, and less than a year later, the first major milestone... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/28/new-bmw-ix3-production-reaches-50000/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/50000th-BMW-iX3-Neue-Klasse-8-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/50000th-BMW-iX3-Neue-Klasse-8-830x554.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-28T08:39:40+00:00"
-    },
-    {
       "id": "9a8de093686cd627",
       "title": "BMW is finally making the electric convertible we’ve been waiting for",
       "summary": "BMW is planning an all-electric i4 Convertible for 2028, according to a new report from BMWBLOG citing sources close to the automaker. That would make it one of a small handful of electric convertibles anywhere in the world. Right now, you can buy exactly one new EV convertible in the US, and it starts at $206,095.",
@@ -2634,19 +2683,6 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-07-18T09:05:36+00:00"
-    },
-    {
-      "id": "450c5c983d71e3ab",
-      "title": "BMW iX3 long-term test - pictures",
-      "summary": "Images from our latest BMW iX3 long-term test",
-      "url": "https://www.autoexpress.co.uk/bmw/ix3/370036/bmw-ix3-long-term-test-pictures",
-      "image": "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--LMsdNNXn--/t_rss_image_w_845/v1784286370/autoexpress/2026/07/BMW%20iX3%20long-term%20test%20-%20header_ke4hol.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-07-18T09:05:26+00:00"
     },
     {
       "id": "a68057768c7eaf9c",
@@ -3208,7 +3244,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
