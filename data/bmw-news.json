@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-22T07:40:25.200876+00:00",
-  "generated_at_human": "2026-08-22 07:40 UTC",
-  "total_items": 305,
+  "generated_at": "2026-08-22T08:43:28.201555+00:00",
+  "generated_at_human": "2026-08-22 08:43 UTC",
+  "total_items": 304,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
@@ -41,6 +41,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -61,7 +62,6 @@
     "Gaadiwaadi IN",
     "Hagerty Media",
     "Hagerty News",
-    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Jalopnik",
@@ -80,7 +80,7 @@
     "Sports Car Digest"
   ],
   "sources_count": 74,
-  "multi_photo_items": 14,
+  "multi_photo_items": 13,
   "items": [
     {
       "id": "cd063c072ff260b2",
@@ -205,7 +205,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-8-series-07-1643213429.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-21T17:39:29+00:00"
     },
@@ -304,11 +304,7 @@
       "url": "https://www.autocar.co.uk/car-news/new-cars/gm-reviewing-plans-relaunch-cadillac-uk",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=0k8KXFIB",
-        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/charlie-martin-autocar.jpg?itok=7c2HuvZw",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/charlie-martin-autocar.jpg"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
       "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
@@ -2565,7 +2561,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3311,19 +3307,6 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
-    },
-    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -3956,7 +3939,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -4060,7 +4043,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
