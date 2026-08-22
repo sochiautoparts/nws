@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-22T09:37:44.454890+00:00",
-  "generated_at_human": "2026-08-22 09:37 UTC",
-  "total_items": 303,
+  "generated_at": "2026-08-22T10:35:45.589770+00:00",
+  "generated_at_human": "2026-08-22 10:35 UTC",
+  "total_items": 304,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,6 +41,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -50,6 +51,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -78,9 +80,27 @@
     "Paul Tan",
     "Sports Car Digest"
   ],
-  "sources_count": 73,
+  "sources_count": 75,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "f636158e8fe35fa7",
+      "title": "Mazda's $40K Inline-Six Crossover Embarrasses Its Downsized BMW And Mercedes Rivals",
+      "summary": "The Mazda CX-70's inline-six engine outclasses BMW X1 and Mercedes GLA four-cylinders at the same $42K price point.",
+      "url": "https://carbuzz.com/mazda-cx70-inline-six-embarrasses-downsized-bmw-mercedes-rivals/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026_cx-70_08-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026_cx-70_08-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/2026-mazda-cx-70.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/10/mazda-cx-90-inline-six-engine-bay.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/_34a2162-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-x1-m35i-action-4.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-22T10:00:10+00:00"
+    },
     {
       "id": "cd063c072ff260b2",
       "title": "2028 BMW X7 Caught On Video As M Performance Model",
@@ -114,12 +134,7 @@
       "url": "https://www.hotcars.com/audis-biggest-luxury-suv-small-v6/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-front-grille-1.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-front-grille-1.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/09/original-6891-2020audiq717-cropped.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-front-three-quarter-2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-interior-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-rear-side.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-assembly-line-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2027-audi-q9-front-grille-1.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -305,7 +320,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -375,7 +390,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -858,10 +873,10 @@
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/SB16751-copy-1024x576.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Lincoln-Grille-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/SB16998-copy-2048x1153.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Fuyao-solar-roof-EV2-copy-2048x1152.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/AUDI-E7X-winter-testingaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Luxeed-RX-Ferrari-design-7aaa-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Polestar-4-SUV-Scoop-1-copy-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Luxeed-RX-Ferrari-design-7aaa-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -954,7 +969,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -980,7 +995,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -1071,7 +1086,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -2547,7 +2562,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3197,7 +3212,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
