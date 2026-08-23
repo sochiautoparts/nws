@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-23T20:35:47.036908+00:00",
-  "generated_at_human": "2026-08-23 20:35 UTC",
+  "generated_at": "2026-08-23T21:32:10.411227+00:00",
+  "generated_at_human": "2026-08-23 21:32 UTC",
   "total_items": 294,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -52,6 +52,7 @@
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
+    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -60,7 +61,6 @@
     "Electric Cars Report",
     "Hagerty Media",
     "Hagerty News",
-    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Kolesa RU",
@@ -80,18 +80,31 @@
   "multi_photo_items": 8,
   "items": [
     {
+      "id": "7a2b10d605ac1d91",
+      "title": "Walking, Talking Factory Robots Are Here, But Humans Are Still Faster. For Now",
+      "summary": "BMW, Hyundai, Mercedes and Tesla see humanoids as factory workers, though some experts question whether they’re worth the trouble",
+      "url": "https://www.carscoops.com/2026/08/automakers-humanoid-robots-factory/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Aug18261-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Aug18261-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Spartanburg-00006-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Spartanburg-00003-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Spartanburg-00002-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Spartanburg-00001-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Spartanburg-00004-2048x1366.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-23T20:43:00+00:00"
+    },
+    {
       "id": "6bd196e2b7f496d5",
       "title": "BMW Made It's Own SUV Irrelevant, And Now It Has Lost Nearly Half Its Value Over 3 Years",
       "summary": "The sharp end of the electric SUV market is dynamic. Those who bought into BMW's original technology flagship may find out why that's the case.",
       "url": "https://carbuzz.com/bmw-made-ix-irrelevant/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026-bmw-ix-exterior-11.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026-bmw-ix-interior-3.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/p90615635_highres_the-new-bmw-ix3-50-x-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-9-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -171,7 +184,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-i3-Long-Wheelbase-4-830x584.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T07:50:24+00:00"
     },
@@ -254,7 +267,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T06:22:21+00:00"
     },
@@ -368,7 +381,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -407,7 +420,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:56:09+00:00"
     },
@@ -420,7 +433,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:15:01+00:00"
     },
@@ -433,7 +446,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -929,7 +942,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -955,7 +968,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -3175,19 +3188,6 @@
       "published": "2026-06-26T12:31:13+00:00"
     },
     {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
-    },
-    {
       "id": "4cf9754c14aa24bd",
       "title": "2027 BMW X6 Gets Pricier While the New X5 Moves On",
       "summary": "Generally, the BMW X6 and its more practical mechanical twin, the BMW X5, run a nearly identical production course. Not so this time around. While we’ll be seeing the new G65 BMW X5 sooner rather... First published by https://www.bmwblog.com",
@@ -3820,7 +3820,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3924,7 +3924,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
