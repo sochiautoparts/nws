@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-23T18:45:02.893363+00:00",
-  "generated_at_human": "2026-08-23 18:45 UTC",
+  "generated_at": "2026-08-23T19:30:58.731163+00:00",
+  "generated_at_human": "2026-08-23 19:30 UTC",
   "total_items": 293,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,13 +42,15 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver BMW",
+    "Car and Driver",
     "Car and Driver News",
+    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
@@ -75,9 +77,22 @@
     "Response JP",
     "Sports Car Digest"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 9,
+  "sources_count": 72,
+  "multi_photo_items": 8,
   "items": [
+    {
+      "id": "70bdbcb9d3811fc6",
+      "title": "'Prices Are Almost Guaranteed To Skyrocket' - The Two Nearly-Gone BMWs You Want To Invest In Right Now",
+      "summary": "BMW is pivoting toward electrification, and prices on select models could be on the rise.",
+      "url": "https://carbuzz.com/bmw-z4-8-series-going-away-values-changing/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2019_bmw_z4_front_grille-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2019_bmw_z4_front_grille-1.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-23T19:00:10+00:00"
+    },
     {
       "id": "7b2f24eb78c1bbe9",
       "title": "47k-Mile 2002 BMW M3 Coupe 6-Speed",
@@ -123,32 +138,6 @@
       "published": "2026-08-23T17:15:47+00:00"
     },
     {
-      "id": "066e10d8b20a779f",
-      "title": "BMW M3 vs M4: The $3,000 Problem - Same Performance, Higher Price",
-      "summary": "Do these two BMW M models have more in common than you think, or is the difference just doors and seating space?",
-      "url": "https://carbuzz.com/bmw-m3-vs-m4-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/p90551026_highres_the-new-bmw-m3-sedan.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/p90551026_highres_the-new-bmw-m3-sedan.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-23T14:00:10+00:00"
-    },
-    {
-      "id": "0885c77d5b12c4b9",
-      "title": "BMW's Velcro Headliner Idea Could Make Your 4 Series Feel Like A Rolls-Royce",
-      "summary": "A new modular top could open a world of convertible customization.",
-      "url": "https://carbuzz.com/bmw-modular-headliner-patent-august-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/05_bmw_m4_c_0052_rgb.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/05_bmw_m4_c_0052_rgb.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-23T13:30:11+00:00"
-    },
-    {
       "id": "fb0220b3c66ed17e",
       "title": "BMW’s First Electric Sedan Made In India: The i5 Long Wheelbase",
       "summary": "India is one of those rare markets where BMW sells the same car with different wheelbases. Many of us would like that, as some buyers prefer a roomier back seat while others don’t want to... First published by https://www.bmwblog.com",
@@ -170,7 +159,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-i3-Long-Wheelbase-4-830x584.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T07:50:24+00:00"
     },
@@ -227,7 +216,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/162cf361-9a7a-40fc-8c34-3796b7201162.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-22T13:00:00+00:00"
     },
@@ -253,7 +242,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T06:22:21+00:00"
     },
@@ -279,7 +268,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-8-series-07-1643213429.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-21T17:39:29+00:00"
     },
@@ -367,7 +356,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -406,7 +395,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:56:09+00:00"
     },
@@ -419,7 +408,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:15:01+00:00"
     },
@@ -432,7 +421,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -637,7 +626,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg"
       ],
-      "source": "BMW Blog Z4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T17:39:17+00:00"
     },
@@ -928,7 +917,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -954,7 +943,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -1653,6 +1642,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1885,6 +1887,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
@@ -2342,24 +2357,6 @@
       "published": "2026-07-26T16:54:56+00:00"
     },
     {
-      "id": "52bad06591fcd573",
-      "title": "2028 BMW M3 EV",
-      "summary": "What We Know So Far",
-      "url": "https://www.caranddriver.com/bmw/m3-ev",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/0e0618e0-2efe-4930-bdb9-4786007f54c5.jpg?crop=0.889xw:0.750xh;0.104xw",
-        "https://hips.hearstapps.com/hmg-prod/images/2a021208-3cd2-4e83-b990-83b94f50cd9f.jpg?crop=1.00xw:0.847xh;0",
-        "https://hips.hearstapps.com/hmg-prod/images/95e6eaed-83cb-4495-83a4-87d8ea332497.jpg?crop=0.712xw:0.710xh;0.0817xw,0.179xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-101-671a7a863cbf6.jpg?crop=0.796xw:0.673xh;0.147xw,0.260xh&resize=700:*"
-      ],
-      "source": "Car and Driver BMW",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-24T16:49:00+00:00"
-    },
-    {
       "id": "9780b82c028e8665",
       "title": "Our Ideal 2027 BMW X5 Still Costs More Than $80,000",
       "summary": "The U.S. configurator is finally live for BMW’s newest X5. Trim levels are limited for the time being — only the entry-level 2027 BMW X5 40 xDrive is available — but there’s still a whole... First published by https://www.bmwblog.com",
@@ -2420,7 +2417,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3070,7 +3067,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3811,7 +3808,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3915,7 +3912,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
