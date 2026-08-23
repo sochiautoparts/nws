@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-23T21:32:10.411227+00:00",
-  "generated_at_human": "2026-08-23 21:32 UTC",
-  "total_items": 294,
+  "generated_at": "2026-08-23T22:34:36.600599+00:00",
+  "generated_at_human": "2026-08-23 22:34 UTC",
+  "total_items": 295,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,6 +42,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -61,6 +62,7 @@
     "Electric Cars Report",
     "Hagerty Media",
     "Hagerty News",
+    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Kolesa RU",
@@ -74,11 +76,30 @@
     "Motorsport WEC",
     "Paul Tan",
     "Response JP",
-    "Sports Car Digest"
+    "Sports Car Digest",
+    "TopSpeed"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 8,
+  "sources_count": 74,
+  "multi_photo_items": 9,
   "items": [
+    {
+      "id": "48748aa786838f89",
+      "title": "The Korean Luxury SUV That Just Gave BMW And Mercedes A Long-Term Reality Check",
+      "summary": "The Genesis GV70 3.5T hit 60 mph in 5.0 sec after 40,000 miles and backs it with a 10-year powertrain warranty.",
+      "url": "https://www.topspeed.com/korean-luxury-suv-beat-bmw-and-mercedes-long-haul-game/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/01/2026-genesis-gv70-3-5t-sport-prestige-awd-exterior-headlight-detail.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/01/2026-genesis-gv70-3-5t-sport-prestige-awd-exterior-headlight-detail.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/01/2026-genesis-gv70-3-5t-sport-prestige-awd-exterior-right-front-3-25-on-road.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/01/2026-genesis-gv70-3-5t-sport-prestige-awd-interior-tech-daylight.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/01/2026-genesis-gv70-3-5t-sport-prestige-awd-interior-front-seats.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/10/2026-genesis-gv70-6-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/10/2026-genesis-gv70-8-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-23T22:00:15+00:00"
+    },
     {
       "id": "7a2b10d605ac1d91",
       "title": "Walking, Talking Factory Robots Are Here, But Humans Are Still Faster. For Now",
@@ -109,19 +130,6 @@
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-08-23T20:10:11+00:00"
-    },
-    {
-      "id": "70bdbcb9d3811fc6",
-      "title": "'Prices Are Almost Guaranteed To Skyrocket' - The Two Nearly-Gone BMWs You Want To Invest In Right Now",
-      "summary": "BMW is pivoting toward electrification, and prices on select models could be on the rise.",
-      "url": "https://carbuzz.com/bmw-z4-8-series-going-away-values-changing/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2019_bmw_z4_front_grille-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2019_bmw_z4_front_grille-1.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-23T19:00:10+00:00"
     },
     {
       "id": "7b2f24eb78c1bbe9",
@@ -381,7 +389,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -446,7 +454,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -651,7 +659,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T17:39:17+00:00"
     },
@@ -942,7 +950,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -968,7 +976,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -2442,7 +2450,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3092,7 +3100,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3186,6 +3194,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
