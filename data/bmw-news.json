@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-23T08:44:40.034415+00:00",
-  "generated_at_human": "2026-08-23 08:44 UTC",
+  "generated_at": "2026-08-23T09:38:54.462919+00:00",
+  "generated_at_human": "2026-08-23 09:38 UTC",
   "total_items": 302,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,14 +42,12 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -66,7 +64,6 @@
     "Hooniverse",
     "HotCars",
     "InsideEVs",
-    "Jalopnik",
     "Kolesa RU",
     "Motor1 Audi",
     "Motor1 BMW",
@@ -81,9 +78,22 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 76,
+  "sources_count": 73,
   "multi_photo_items": 11,
   "items": [
+    {
+      "id": "fb0220b3c66ed17e",
+      "title": "BMW’s First Electric Sedan Made In India: The i5 Long Wheelbase",
+      "summary": "India is one of those rare markets where BMW sells the same car with different wheelbases. Many of us would like that, as some buyers prefer a roomier back seat while others don’t want to... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/23/first-bmw-electric-sedan-made-india/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-i5-Long-Wheelbase-4-830x615.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-i5-Long-Wheelbase-4-830x615.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-23T08:44:42+00:00"
+    },
     {
       "id": "d27474572ae6c2fc",
       "title": "New BMW i3 Long Wheelbase Filmed At Chengdu Auto Show",
@@ -246,7 +256,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/cb09492c-c112-4836-88bd-b9264b72c8e3.jpg?crop=1xw:0.563xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-22T13:00:00+00:00"
     },
@@ -277,19 +287,6 @@
       "published": "2026-08-22T06:22:21+00:00"
     },
     {
-      "id": "f27bf1eb5d0208f4",
-      "title": "Ow! My Balls!",
-      "summary": "The M Carbon Buckets in BMW's M2 CS did a commendable job holding my thunder thighs in place, but seem designed to ensure I can't have children in the future.",
-      "url": "https://www.jalopnik.com/2241980/bmw-m2-cs-uncomfortable-m-carbon-bucket-seats/",
-      "image": "https://www.jalopnik.com/img/gallery/ow-my-balls/l-intro-1787348497.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/ow-my-balls/l-intro-1787348497.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-08-21T21:44:40+00:00"
-    },
-    {
       "id": "af61e885688910b3",
       "title": "The Best Non-BMW Cars Powered by BMW’s B48 Engine",
       "summary": "BMW’s turbocharged 2.0-liter B48 has become one of the company’s most widely used modern engines. It has appeared in sedans, coupes, convertibles, SUVs, and plug-in hybrids, producing anywhere from relatively modest power to more than... First published by https://www.bmwblog.com",
@@ -311,7 +308,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-8-series-07-1643213429.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-21T17:39:29+00:00"
     },
@@ -412,7 +409,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -477,7 +474,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -708,7 +705,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-at-the-Strabag-Green-Rally-2026-3-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T12:50:32+00:00"
     },
@@ -973,7 +970,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -999,7 +996,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -1090,7 +1087,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -2540,7 +2537,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3190,7 +3187,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
