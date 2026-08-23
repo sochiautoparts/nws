@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-23T19:30:58.731163+00:00",
-  "generated_at_human": "2026-08-23 19:30 UTC",
-  "total_items": 293,
+  "generated_at": "2026-08-23T20:35:47.036908+00:00",
+  "generated_at_human": "2026-08-23 20:35 UTC",
+  "total_items": 294,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,7 +42,6 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
-    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -77,9 +76,27 @@
     "Response JP",
     "Sports Car Digest"
   ],
-  "sources_count": 72,
+  "sources_count": 71,
   "multi_photo_items": 8,
   "items": [
+    {
+      "id": "6bd196e2b7f496d5",
+      "title": "BMW Made It's Own SUV Irrelevant, And Now It Has Lost Nearly Half Its Value Over 3 Years",
+      "summary": "The sharp end of the electric SUV market is dynamic. Those who bought into BMW's original technology flagship may find out why that's the case.",
+      "url": "https://carbuzz.com/bmw-made-ix-irrelevant/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026-bmw-ix-exterior-11.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026-bmw-ix-interior-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/p90615635_highres_the-new-bmw-ix3-50-x-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-9-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-23T20:10:11+00:00"
+    },
     {
       "id": "70bdbcb9d3811fc6",
       "title": "'Prices Are Almost Guaranteed To Skyrocket' - The Two Nearly-Gone BMWs You Want To Invest In Right Now",
@@ -113,12 +130,7 @@
       "url": "https://www.hotcars.com/300-hp-lexus-v8-sedan-ran-with-bmw-540i/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-grille-close-up-resized.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-grille-close-up-resized.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-bmw-540i-front-three-quarter-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1998-bmw-e39-540i-with-a-manual-shifter-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-bmw-540i-engine-bay-close-up-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1998-lexus-gs-400-engine-bay-close-up-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-front-three-quarter-resized.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-grille-close-up-resized.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -159,7 +171,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-i3-Long-Wheelbase-4-830x584.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T07:50:24+00:00"
     },
@@ -242,7 +254,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T06:22:21+00:00"
     },
@@ -356,7 +368,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -395,7 +407,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:56:09+00:00"
     },
@@ -408,7 +420,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:15:01+00:00"
     },
@@ -421,7 +433,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -917,7 +929,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -943,7 +955,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -2417,7 +2429,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3808,7 +3820,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3912,7 +3924,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/06/2024-alpina-b3-gt-01-1-830x553.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-26T13:18:25+00:00"
     },
