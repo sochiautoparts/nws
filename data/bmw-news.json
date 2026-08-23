@@ -1,12 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-23T04:49:04.384413+00:00",
-  "generated_at_human": "2026-08-23 04:49 UTC",
-  "total_items": 303,
+  "generated_at": "2026-08-23T05:39:54.274766+00:00",
+  "generated_at_human": "2026-08-23 05:39 UTC",
+  "total_items": 300,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,6 +41,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "BarnFinds",
     "Bike EXIF",
@@ -58,11 +59,8 @@
     "CarWale IN",
     "Diariomotor",
     "Electrek BMW",
-    "Electric Cars Report",
-    "Gaadiwaadi IN",
     "Hagerty Media",
     "Hagerty News",
-    "Hooniverse",
     "HotCars",
     "InsideEVs",
     "Jalopnik",
@@ -80,7 +78,7 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 75,
+  "sources_count": 73,
   "multi_photo_items": 10,
   "items": [
     {
@@ -367,7 +365,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -432,22 +430,9 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
-    },
-    {
-      "id": "8bb8b57cf676d591",
-      "title": "BMW i5 LWB Bookings Open; First Locally Made e-Sedan Gets 669 Km Range",
-      "summary": "GaadiWaadi - BMW i5 LWB comes with a stretched 5 Series cabin and it features an 81.6 kWh battery pack; an exclusive First Edition is limited to 99 units BMW India has opened bookings for the first ever i5 Long Wheelbase. The maiden locally produced electric sedan in the country will roll out from BMW Group’s production […] The post BMW i5 LWB Bookings Open; First Locally Made e-Sedan Gets 669 Km Range appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
-      "url": "https://gaadiwaadi.com/bmw-i5-lwb-bookings-open-first-locally-made-e-sedan-gets-669-km-range/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/02-The-first-ever-BMW-i5-LWB-1.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/08/02-The-first-ever-BMW-i5-LWB-1.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-08-21T09:11:37+00:00"
     },
     {
       "id": "c48ab2129a6c628f",
@@ -650,7 +635,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/edo-leggera-bmw-z4-roadster-alpina-green-07-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Z4",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-20T17:39:17+00:00"
     },
@@ -744,19 +729,6 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-08-20T07:46:54+00:00"
-    },
-    {
-      "id": "3958478ad7222af5",
-      "title": "Next-Gen BMW iX3 Travels 1,030 km With 5% Battery Left",
-      "summary": "The next-generation BMW iX3 has traveled 1,030.2 km without recharging in an internal road test, showcasing its new 800V platform and battery technology. The post Next-Gen BMW iX3 Travels 1,030 km With 5% Battery Left appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/08/next-gen-bmw-ix3-travels-1030-km-with-5-battery-left/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-iX3-50L.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-iX3-50L.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-08-20T07:22:47+00:00"
     },
     {
       "id": "21deff46b7a0af20",
@@ -967,7 +939,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -993,7 +965,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90578277_highres_mini-cooper-converti.jpg?itok=qCRgkoTX"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T04:00:00+00:00"
     },
@@ -1084,7 +1056,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/denza-gt-2026-jh-10_0.jpg?itok=DqeFksgf"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-18T06:00:00+00:00"
     },
@@ -2547,7 +2519,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3291,19 +3263,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
