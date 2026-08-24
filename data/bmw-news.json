@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-24T17:40:48.863610+00:00",
-  "generated_at_human": "2026-08-24 17:40 UTC",
-  "total_items": 286,
+  "generated_at": "2026-08-24T18:55:17.256289+00:00",
+  "generated_at_human": "2026-08-24 18:55 UTC",
+  "total_items": 283,
   "sources_used": [
     "Auto Bild ES",
     "Autocar BMW i",
@@ -38,15 +38,13 @@
     "BMW Blog Z4",
     "BMW Blog concepts",
     "BMW Blog i",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX1 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
@@ -60,7 +58,7 @@
     "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
-    "InsideEVs",
+    "HotCars",
     "Kolesa RU",
     "Motor.es",
     "Motor1 Audi",
@@ -73,11 +71,30 @@
     "Motorious Auction",
     "Motorsport WEC",
     "Sports Car Digest",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 6,
+  "sources_count": 69,
+  "multi_photo_items": 8,
   "items": [
+    {
+      "id": "d5c6e300ffda0a49",
+      "title": "BMW Thinks Drivers Under 45 Are Done Poking Buttons. Other Brands Disagree",
+      "summary": "BMW says touch and voice are the future while rivals like VW and Hyundai rediscover buttons",
+      "url": "https://www.carscoops.com/2026/08/bmw-buttons-dashboard/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-iDrive-Aug24261-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-iDrive-Aug24261-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/2027-VW-ID.-Polo-GTI-00028-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/03/P90626666_highRes_the-new-bmw-ix3-50-x-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/snapshot-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/S25_0627_a3_rgb-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/VW-Tukan-Brazil-main-copy-2048x1152.jpg"
+      ],
+      "source": "CarScoops BMW",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-24T18:39:00+00:00"
+    },
     {
       "id": "af28c599366719b9",
       "title": "En Lamborghini Squadra Corse no esperaban luchar por el título de la clase GTD Pro",
@@ -90,6 +107,42 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-08-24T18:22:38+00:00"
+    },
+    {
+      "id": "9851f6d04fdf487e",
+      "title": "This 300-HP Lexus Sleeper Matched BMW Muscle Without The German Repair Bills",
+      "summary": "The Lexus GS 400 matched the BMW 540i with 300 hp and sub-6-second 0-60 times, yet never earned the same enthusiast reputation.",
+      "url": "https://www.hotcars.com/300-hp-lexus-v8-sedan-ran-with-bmw-540i/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-grille-close-up-resized.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-grille-close-up-resized.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-bmw-540i-front-three-quarter-resized.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1998-bmw-e39-540i-with-a-manual-shifter-resized.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-bmw-540i-engine-bay-close-up-resized.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1998-lexus-gs-400-engine-bay-close-up-resized.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1998-lexus-gs-400-front-three-quarter-resized.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-08-24T18:16:06+00:00"
+    },
+    {
+      "id": "0365dd4cc999ad99",
+      "title": "BMW Neue Klasse Drops Buttons — What Safety Data Says",
+      "summary": "BMW's Neue Klasse i3, iX3, and X5/iX5 rely on voice and touchscreens over physical buttons. Here's what NHTSA distraction research says about that trade-off.",
+      "url": "https://www.topspeed.com/bmw-neue-klasse-buttonless-distraction-safety/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-bmw-m240i-dashboard.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-bmw-m240i-dashboard.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/p90602693_highres_interior-pictures-th3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2027-bmw-m3-cs-handschalter-31.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-bmw-m2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/bmw-7-series.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/todaymu6zbigi.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-24T18:00:15+00:00"
     },
     {
       "id": "0176d8dec120f3ee",
@@ -144,19 +197,6 @@
       "published": "2026-08-24T15:30:08+00:00"
     },
     {
-      "id": "f636158e8fe35fa7",
-      "title": "Mazda's $40K Inline-Six Crossover Embarrasses Its Downsized BMW And Mercedes Rivals",
-      "summary": "The Mazda CX-70's inline-six engine outclasses BMW X1 and Mercedes GLA four-cylinders at the same $42K price point.",
-      "url": "https://carbuzz.com/mazda-cx70-inline-six-embarrasses-downsized-bmw-mercedes-rivals/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026_cx-70_08-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026_cx-70_08-1.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-24T15:02:11+00:00"
-    },
-    {
       "id": "539d9e77bda6507b",
       "title": "The BMW M2 CS Becomes The First CS Model Sold In Argentina",
       "summary": "The M2 CS is enjoying somewhat of a renaissance. Even though the special edition broke cover in late May 2025, BMW keeps finding ways to bring it back. Japan recently got the Competition Sport as... First published by https://www.bmwblog.com",
@@ -204,7 +244,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T13:21:49+00:00"
     },
@@ -217,7 +257,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T12:38:41+00:00"
     },
@@ -365,7 +405,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-i3-Long-Wheelbase-4-830x584.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T07:50:24+00:00"
     },
@@ -430,7 +470,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T06:22:21+00:00"
     },
@@ -565,7 +605,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-11-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:56:09+00:00"
     },
@@ -578,7 +618,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-7-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T10:15:01+00:00"
     },
@@ -833,29 +873,11 @@
       "url": "https://www.carscoops.com/2026/08/bmw-driveline-recall/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/The_new_2021_BMW_5_Series_Sedan._European_model_shown-2048x1366.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Cadillac-Engine-Gauthier-Carscoops-2048x1155.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/2023-Dodge-Durango-2048x1155.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Driving-2048x1155.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-bf3f76851c673d2a9577c223b9232009e33d77a2a-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M850i_Edition_M_Heritage-2026-HD-24a1fa701c6759c375630de04309700c8f60a1a2a-1024x576.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-19T22:41:00+00:00"
-    },
-    {
-      "id": "9d733a783ee6df25",
-      "title": "BMW's Chinese-Market iX3 50L Just Drove 640 Miles On One Charge",
-      "summary": "The test was to drive from one place to another, so there isn't any CLTC leniency going on here.",
-      "url": "https://insideevs.com/news/805513/bmw-ix3-drove-640-miles/",
-      "image": "https://cdn.motor1.com/images/mgl/0egMR9/s3/bmw-ix3-50l-range-test.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/0egMR9/s3/bmw-ix3-50l-range-test.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-08-19T20:35:07+00:00"
     },
     {
       "id": "acf7e131b87b1995",
@@ -1656,19 +1678,6 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
-      "id": "899a6cd14d95eccf",
-      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
-      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
-      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-07T13:36:00+00:00"
-    },
-    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1877,19 +1886,6 @@
       "published": "2026-08-03T21:06:30+00:00"
     },
     {
-      "id": "3c45d5ce949687ff",
-      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
-      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
-      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-08-03T18:37:00+00:00"
-    },
-    {
       "id": "a4006629828cabd2",
       "title": "New BMW X7 And 3 Series Spied Together In Las Vegas",
       "summary": "BMW has plans to roll out approximately 40 new or updated models by the end of 2027. Granted, we’ve already seen some of them, starting with last year’s iX3 and continuing with this year’s i3... First published by https://www.bmwblog.com",
@@ -1927,19 +1923,6 @@
       "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T12:45:54+00:00"
-    },
-    {
-      "id": "21992a9e971d954f",
-      "title": "The M5 Is Way Too Heavy So BMW Made The Grilles Skinnier",
-      "summary": "The updated M5 Touring was filmed lapping the Nurburgring with a fresh face and the same yacht-grade weight it launched with",
-      "url": "https://www.carscoops.com/2026/08/bmw-m5-touring-facelift/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M5-FL-scoop-Mar18261-1024x576.webp"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-03T10:02:00+00:00"
     },
     {
       "id": "c83d6af8b73fbec4",
@@ -2366,7 +2349,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2457,7 +2440,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2756,7 +2739,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3016,7 +2999,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3744,7 +3727,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 4",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3812,19 +3795,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-05-26T19:31:53+00:00"
-    },
-    {
-      "id": "1740bfac03a481f1",
-      "title": "Five Things We Loved About the BMW M5 Touring After a Week Behind the Wheel",
-      "summary": "There’s a lot to say about the BMW M5 Touring. With this generation M5 being one of the most controversial yet — thanks to a hybrid powertrain and massive curb weight — and the G99... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/05/26/five-things-loved-bmw-m5-touring-review/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/05/G99-M5-Touring-front-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/05/G99-M5-Touring-front-830x467.jpg"
-      ],
-      "source": "BMW Blog M5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-05-26T18:21:33+00:00"
     }
   ]
 }
