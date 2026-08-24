@@ -1,11 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-24T18:55:17.256289+00:00",
-  "generated_at_human": "2026-08-24 18:55 UTC",
-  "total_items": 283,
+  "generated_at": "2026-08-24T19:38:54.031857+00:00",
+  "generated_at_human": "2026-08-24 19:38 UTC",
+  "total_items": 282,
   "sources_used": [
     "Auto Bild ES",
-    "Autocar BMW i",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -44,10 +44,11 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver News",
-    "CarBuzz",
     "CarExpert",
     "CarScoops",
+    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -55,7 +56,6 @@
     "Diariomotor",
     "Electrek BMW",
     "Gaadiwaadi IN",
-    "Hagerty Media",
     "Hagerty News",
     "Hooniverse",
     "HotCars",
@@ -75,8 +75,21 @@
     "TopSpeed"
   ],
   "sources_count": 69,
-  "multi_photo_items": 8,
+  "multi_photo_items": 7,
   "items": [
+    {
+      "id": "ee6f8ef830ae1817",
+      "title": "1950 BMW R51/2",
+      "summary": "This 1950 BMW R51/2 is one of approximately 5k produced during the model’s two-year run, and it was purchased by the seller in 2017. A subsequent three-year refurbishment included a repaint of the bodywork in black with white pinstriping and powder-coating the frame to match. Additional work involved overhauling its 494cc opposed-twin, exposed driveshaft, hydraulic fork, plunger shocks, steering damper, wire-spoke wheels, and half-width drum brakes. The bike is further equipped with a black rubber Pagusa saddle, valanced fenders, a rear luggage rack, and a fuel tank with an inset locking…",
+      "url": "https://bringatrailer.com/listing/1950-bmw-r25-2/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/S591A0002-scaled-83027.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/08/S591A0002-scaled-83027.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-24T19:29:17+00:00"
+    },
     {
       "id": "d5c6e300ffda0a49",
       "title": "BMW Thinks Drivers Under 45 Are Done Poking Buttons. Other Brands Disagree",
@@ -133,12 +146,7 @@
       "url": "https://www.topspeed.com/bmw-neue-klasse-buttonless-distraction-safety/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-bmw-m240i-dashboard.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-bmw-m240i-dashboard.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/p90602693_highres_interior-pictures-th3.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/2027-bmw-m3-cs-handschalter-31.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2026-bmw-m2.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/bmw-7-series.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/todaymu6zbigi.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2025-bmw-m240i-dashboard.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -182,19 +190,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T16:38:11+00:00"
-    },
-    {
-      "id": "e815acd050338403",
-      "title": "Consumers Are Raging Against Buttonless Interiors, So BMW Is Killing Even More Buttons",
-      "summary": "Despite a lot of evidence, BMW says younger buyers want touchscreens.",
-      "url": "https://carbuzz.com/bmw-killing-buttons-younger-buyers/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/bmw-panoramic-idrive-with-operating-system-x-17.JPG",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/bmw-panoramic-idrive-with-operating-system-x-17.JPG"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-24T15:30:08+00:00"
     },
     {
       "id": "539d9e77bda6507b",
@@ -327,7 +322,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_mr2_render_2026.jpg?itok=qG-jbJ_6"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-24T05:00:00+00:00"
     },
@@ -392,7 +387,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-i5-Long-Wheelbase-4-830x615.jpg"
       ],
-      "source": "BMW Blog 5",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T08:44:42+00:00"
     },
@@ -579,7 +574,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -631,7 +626,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -893,19 +888,6 @@
       "published": "2026-08-19T19:19:52+00:00"
     },
     {
-      "id": "24c5cc151f4df537",
-      "title": "2025 BMW M2 Review: Ch- Ch- Ch- Changes",
-      "summary": "BMW’s high-performance M branch had a banner year in 2025, posting record sales totaling 213,457 vehicles. For all the ways BMW loyalists, including your author, lament the ways that the M brand’s expansion has diluted and muddied its core character, the business is thriving. The motorsport-driven BMW M of the early 1990s in no way […]",
-      "url": "https://www.hagerty.com/media/new-car-reviews/2025-bmw-m2-review-ch-ch-ch-changes/",
-      "image": "https://media.hagerty.com/media/wp-content/uploads/2026/08/2026-BMW-M2-manual-14.jpg",
-      "images": [
-        "https://media.hagerty.com/media/wp-content/uploads/2026/08/2026-BMW-M2-manual-14.jpg"
-      ],
-      "source": "Hagerty Media",
-      "source_url": "https://www.hagerty.com",
-      "published": "2026-08-19T19:00:00+00:00"
-    },
-    {
       "id": "61e38fb5f2ede375",
       "title": "BMW’s New Wagon Is The Cure For Everyone Bored By Electric SUVs",
       "summary": "A large 108.7 kWh battery pack will ensure the BMW i3 Touring is just as practical as a combustion-powered 3-Series",
@@ -1005,7 +987,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -1834,6 +1816,19 @@
       "published": "2026-08-05T11:41:00+00:00"
     },
     {
+      "id": "46addcaf6647ce16",
+      "title": "Mercedes-AMG’s Latest EV Is Already Breaking Lap Records",
+      "summary": "The 671 hp CLA 45 lapped the Green Hell in 7:32.070, which is quicker than a BMW M2",
+      "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-05T00:18:00+00:00"
+    },
+    {
       "id": "49c5943eb9072767",
       "title": "Do BMW M Cars Really Hold Their Value Better in 2026?",
       "summary": "Part of the allure of buying the full-fat M model over the base model is performance. But there are several other benefits often used to sell the more expensive car over the entry level version.... First published by https://www.bmwblog.com",
@@ -2440,7 +2435,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M5",
+      "source": "BMW Blog M2",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -3727,7 +3722,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/05/2026-BMW-M340i-Touring-with-Black-Package-1-830x666.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
     },
@@ -3782,19 +3777,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-27T00:49:06+00:00"
-    },
-    {
-      "id": "5e7d3e113a3bbdf5",
-      "title": "BMW is saying goodbye to this popular gas sports car, but a new performance EV will step in",
-      "summary": "The 2027 G80 BMW M3 will be the final model year for the iconic gas-powered sports car, but a performance EV is coming soon that promises to pack even more performance.",
-      "url": "https://electrek.co/2026/05/26/bmw-dropping-iconic-gas-sports-car-ev-will-step-in/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/BMW-gas-sports-car-EV.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/05/BMW-gas-sports-car-EV.jpeg?quality=82&#038;strip=all&#038;w=1400"
-      ],
-      "source": "Electrek BMW",
-      "source_url": "https://electrek.co",
-      "published": "2026-05-26T19:31:53+00:00"
     }
   ]
 }
