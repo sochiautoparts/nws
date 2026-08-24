@@ -1,11 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-24T19:38:54.031857+00:00",
-  "generated_at_human": "2026-08-24 19:38 UTC",
+  "generated_at": "2026-08-24T20:44:27.321156+00:00",
+  "generated_at_human": "2026-08-24 20:44 UTC",
   "total_items": 282,
   "sources_used": [
     "Auto Bild ES",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -46,9 +46,9 @@
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver News",
+    "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
-    "CarScoops",
-    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -75,20 +75,38 @@
     "TopSpeed"
   ],
   "sources_count": 69,
-  "multi_photo_items": 7,
+  "multi_photo_items": 8,
   "items": [
     {
-      "id": "ee6f8ef830ae1817",
-      "title": "1950 BMW R51/2",
-      "summary": "This 1950 BMW R51/2 is one of approximately 5k produced during the model’s two-year run, and it was purchased by the seller in 2017. A subsequent three-year refurbishment included a repaint of the bodywork in black with white pinstriping and powder-coating the frame to match. Additional work involved overhauling its 494cc opposed-twin, exposed driveshaft, hydraulic fork, plunger shocks, steering damper, wire-spoke wheels, and half-width drum brakes. The bike is further equipped with a black rubber Pagusa saddle, valanced fenders, a rear luggage rack, and a fuel tank with an inset locking…",
-      "url": "https://bringatrailer.com/listing/1950-bmw-r25-2/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/S591A0002-scaled-83027.jpg?w=940",
+      "id": "aa1b708d1a0fcb30",
+      "title": "Genesis G70 May Lose Its Best Weapon In The War Against The BMW 3 Series",
+      "summary": "We don't think it's a sign of surrender, though",
+      "url": "https://carbuzz.com/genesis-g70-losing-twin-turbo-v6-option/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-4316-g70arizona807-1.jpg",
       "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/S591A0002-scaled-83027.jpg?w=940"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-4316-g70arizona807-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-6053-g70prestigegraphite71-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-6050-g70prestigegraphite79-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-6043-g70prestigegraphite006-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv90-in-person-1.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-24T20:30:10+00:00"
+    },
+    {
+      "id": "a46fcac6e9e84591",
+      "title": "2003 BMW M3 Convertible",
+      "summary": "This 2003 BMW M3 convertible is finished in Titanium Silver Metallic over Grey Nappa leather, and it is powered by a 3.2-liter inline-six paired with a six-speed SMG sequential transmission and a limited-slip differential. Features include the Premium Package, the Cold Weather Package, a black soft top, 19″ M double-spoke Style 67 wheels, xenon headlights, LED taillights, Park Distance Control, driver-seat position memory, cruise control, a Harman Kardon sound system, and a BMW Business CD stereo. The current owner purchased the car in 2020, and it now has 64k miles. This E46 M3 is now…",
+      "url": "https://bringatrailer.com/listing/2003-bmw-m3-convertible-180/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/BMW_M3-80-06210-scaled-1-scaled-copy-2026-07-23-j8z-36434.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/07/BMW_M3-80-06210-scaled-1-scaled-copy-2026-07-23-j8z-36434.jpg?w=940"
       ],
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
-      "published": "2026-08-24T19:29:17+00:00"
+      "published": "2026-08-24T19:49:45+00:00"
     },
     {
       "id": "d5c6e300ffda0a49",
@@ -322,7 +340,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_mr2_render_2026.jpg?itok=qG-jbJ_6"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-24T05:00:00+00:00"
     },
@@ -351,19 +369,6 @@
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
       "published": "2026-08-24T03:11:00+00:00"
-    },
-    {
-      "id": "7a2b10d605ac1d91",
-      "title": "Walking, Talking Factory Robots Are Here, But Humans Are Still Faster. For Now",
-      "summary": "BMW, Hyundai, Mercedes and Tesla see humanoids as factory workers, though some experts question whether they’re worth the trouble",
-      "url": "https://www.carscoops.com/2026/08/automakers-humanoid-robots-factory/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Aug18261-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-robots-Aug18261-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-23T20:43:00+00:00"
     },
     {
       "id": "222e2486ef5aaf3f",
@@ -574,7 +579,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -626,7 +631,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -660,19 +665,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-21T05:33:41+00:00"
-    },
-    {
-      "id": "d775e3e4f09a1eb3",
-      "title": "Why German Drivers Are Ditching Gas Cars, Right as BMW’s EV Wave Hits",
-      "summary": "A record 12% of German drivers who replaced a combustion-engine car in the second quarter chose an EV instead, according to a survey conducted for insurer Huk-Coburg and reported by Bloomberg. That is more than... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/20/german-ev-sales-surge-fuel-prices-bmw-neue-klasse-lineup/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-3-830x622.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-3-830x622.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-21T00:35:22+00:00"
     },
     {
       "id": "f7e27fad7de3a741",
@@ -987,7 +979,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/volvo_ex60_review_front_lead.png?itok=fal9_Oft"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-19T08:00:00+00:00"
     },
@@ -1660,6 +1652,19 @@
       "published": "2026-08-07T14:10:19+00:00"
     },
     {
+      "id": "899a6cd14d95eccf",
+      "title": "2026 Audi A6 vs. 2026 BMW 540i: Battle of the Executive Class",
+      "summary": "The redesigned V-6-only Audi A6 takes on the six-cylinder BMW 540i in a mid-size luxury-sedan showdown.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73346305/2026-audi-a6-quattro-vs-2026-bmw-540i-xdrive-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d6b2a98e-b966-4400-8c7e-936b7f6faffb.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-07T13:36:00+00:00"
+    },
+    {
       "id": "6f9d87635d727b13",
       "title": "BMW’s Cheaper iX3 Is Reportedly Coming To America In March 2027",
       "summary": "March 2027 is when the iX3 40 and iX3 40 xDrive are now expected to land in America, according to same forum source with a solid track record on Neue Klasse details. BMW’s US lineup... First published by https://www.bmwblog.com",
@@ -1816,19 +1821,6 @@
       "published": "2026-08-05T11:41:00+00:00"
     },
     {
-      "id": "46addcaf6647ce16",
-      "title": "Mercedes-AMG’s Latest EV Is Already Breaking Lap Records",
-      "summary": "The 671 hp CLA 45 lapped the Green Hell in 7:32.070, which is quicker than a BMW M2",
-      "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg"
-      ],
-      "source": "CarScoops AMG",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-05T00:18:00+00:00"
-    },
-    {
       "id": "49c5943eb9072767",
       "title": "Do BMW M Cars Really Hold Their Value Better in 2026?",
       "summary": "Part of the allure of buying the full-fat M model over the base model is performance. But there are several other benefits often used to sell the more expensive car over the entry level version.... First published by https://www.bmwblog.com",
@@ -1879,6 +1871,19 @@
       "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:06:30+00:00"
+    },
+    {
+      "id": "3c45d5ce949687ff",
+      "title": "From the Archive: The 2001 Hartge H50 Stuffed an M5 V-8 into an E46 3-Series",
+      "summary": "How do you get eight into three? You crib the answer from Herbert Hartge—the mastermind behind this M3-bodied M5-engined monster.",
+      "url": "https://www.caranddriver.com/reviews/a73285378/2001-hartge-h50-v-8-e46-3-series-archive-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ef6dca37-9654-4923-8ff9-9e1db16c40c6.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-08-03T18:37:00+00:00"
     },
     {
       "id": "a4006629828cabd2",
