@@ -1,11 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-25T14:59:05.763681+00:00",
-  "generated_at_human": "2026-08-25 14:59 UTC",
+  "generated_at": "2026-08-25T15:55:50.718435+00:00",
+  "generated_at_human": "2026-08-25 15:55 UTC",
   "total_items": 276,
   "sources_used": [
     "Auto Bild ES",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -53,6 +53,7 @@
     "CarScoops BMW",
     "CarScoops Mercedes",
     "Diariomotor",
+    "Electrek",
     "Electrek BMW",
     "Hagerty Media",
     "Hooniverse",
@@ -71,8 +72,8 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 7,
+  "sources_count": 67,
+  "multi_photo_items": 5,
   "items": [
     {
       "id": "10cbca4b2a11d652",
@@ -88,6 +89,24 @@
       "published": "2026-08-25T16:00:32+00:00"
     },
     {
+      "id": "3dffdbfc9f99faca",
+      "title": "The Luxury Sedan That Quietly Outruns German Rivals",
+      "summary": "The G70 delivers 365 horsepower, AWD, and a bargain price that will make you forget about the BMW M340i and AMG C43.",
+      "url": "https://www.topspeed.com/luxury-sedan-outruns-german-rivals/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-18.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-18.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-19.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-6.jpg?q=49&fit=contain&w=1920&h=1081&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-14.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-12.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-13.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-25T15:00:15+00:00"
+    },
+    {
       "id": "e8e30cad9939b186",
       "title": "BMW i3 Touring captured on video for the first time [Video]",
       "summary": "With the sedan version now on sale, the new BMW i3 Touring was captured for the first time with its wagon tail on display.",
@@ -96,7 +115,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i3-touring-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek BMW",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-08-25T14:44:42+00:00"
     },
@@ -109,7 +128,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2019/09/E46-BMW-3-Series-Touring-830x613.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-25T14:07:22+00:00"
     },
@@ -120,12 +139,7 @@
       "url": "https://www.topspeed.com/affordable-suv-like-bmw-x5-without-price/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/08/2025-hyundai-santa-fe-hybrid-wheel.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/08/2025-hyundai-santa-fe-hybrid-wheel.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-4.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-3-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/image1-4.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_9ywmpasg.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/08/2025-hyundai-santa-fe-hybrid-cargo-area-07.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/08/2025-hyundai-santa-fe-hybrid-wheel.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -140,7 +154,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-i3-Long-Wheelbase-18-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-25T13:15:35+00:00"
     },
@@ -216,12 +230,7 @@
       "url": "https://www.autobild.es/motor/tan-grande-como-un-bmw-x5-pero-con-mas-espacio-mas-1-000-kilometros-autonomia-por-50-000-euros-menos-si-viene-china_7028907_0.html",
       "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg",
       "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg",
-        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/24/6a8c85482d3834-71546214.jpeg",
-        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/24/6a8c8549588ed0-73857292.jpeg",
-        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2026/06/01/6a1d8edd669445-65887169.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/02/19/6997686560b9e8-81192263.jpeg"
+        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg"
       ],
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
@@ -304,14 +313,9 @@
       "url": "https://www.caranddriver.com/news/a73513693/bmw-executive-interview-loss-of-buttons/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/2027-bmw-ix3-xdrive50-327-6914c3945fce0.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/2027-bmw-ix3-xdrive50-327-6914c3945fce0.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/2027-bmw-ix3-xdrive50-198-6914c38e46359.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/9ca81c5f-e5d3-4708-a008-e2e89793c775.jpg?crop=0.889xw:1xh;0.055xw",
-        "https://hips.hearstapps.com/hmg-prod/images/7c569b9f-3721-4361-a097-33dbc8abf326.jpg?crop=0.889xw:1xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/345989ef-d047-46e8-8223-1ad78813e023.jpg?crop=0.562380952381xw:1xh;center,top&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/2027-bmw-ix3-xdrive50-327-6914c3945fce0.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-24T21:30:00+00:00"
     },
@@ -433,7 +437,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T13:21:49+00:00"
     },
@@ -446,7 +450,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T12:38:41+00:00"
     },
@@ -490,7 +494,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_mr2_render_2026.jpg?itok=qG-jbJ_6"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-24T05:00:00+00:00"
     },
@@ -506,19 +510,6 @@
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
       "published": "2026-08-24T03:11:00+00:00"
-    },
-    {
-      "id": "222e2486ef5aaf3f",
-      "title": "Acude al taller por el mal olor de su coche y el mecánico descubre la desagradable causa: \"Hay que tirar el coche a la basura\"",
-      "summary": "El propietario de este BMW tenía un grave problema de mal olor en el interior de su coche. El origen de la pestilencia tenía patas y llevaba algún tiempo muerto.",
-      "url": "https://www.autobild.es/motor/acude-taller-por-mal-olor-su-coche-mecanico-descubre-desagradable-causa-hay-que-tirar-coche-basura_7028237_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8abfa3e43d93-60425008.jpeg",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8abfa3e43d93-60425008.jpeg"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-08-23T17:00:00+00:00"
     },
     {
       "id": "fb0220b3c66ed17e",
@@ -542,7 +533,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-i3-Long-Wheelbase-4-830x584.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T07:50:24+00:00"
     },
@@ -581,7 +572,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T06:22:21+00:00"
     },
@@ -659,7 +650,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -711,7 +702,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -1269,7 +1260,7 @@
       "image": "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
         "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
-        "https://cdn-1.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
+        "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s1000/15-bmw-m-team-wrt-bmw-m-hybrid-2.webp",
         "https://cdn.motorsport.com/images/mgl/2d1knknY/s1000/vincent-vosse-wrt.jpg",
         "https://cdn.motorsport.com/images/mgl/0R7BwJZ2/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
         "https://cdn.motorsport.com/images/amp/2eZxgV1Y/s2/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
@@ -2952,7 +2943,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
