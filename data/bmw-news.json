@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-25T15:55:50.718435+00:00",
-  "generated_at_human": "2026-08-25 15:55 UTC",
-  "total_items": 276,
+  "generated_at": "2026-08-25T16:51:45.779040+00:00",
+  "generated_at_human": "2026-08-25 16:51 UTC",
+  "total_items": 278,
   "sources_used": [
     "Auto Bild ES",
     "Autocar BMW",
@@ -25,6 +25,7 @@
     "BMW Blog M5",
     "BMW Blog M8",
     "BMW Blog Mini Cooper",
+    "BMW Blog Mini tag",
     "BMW Blog X1",
     "BMW Blog X2",
     "BMW Blog X3",
@@ -44,19 +45,19 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Car and Driver",
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
     "Diariomotor",
-    "Electrek",
     "Electrek BMW",
     "Hagerty Media",
     "Hooniverse",
+    "Jalopnik",
     "Kolesa RU",
     "Motor.es",
     "Motor1 Audi",
@@ -72,9 +73,55 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 67,
-  "multi_photo_items": 5,
+  "sources_count": 68,
+  "multi_photo_items": 7,
   "items": [
+    {
+      "id": "336233e229da9e0d",
+      "title": "Genesis G70 Is Losing The Engine It Needs To Beat The BMW 3 Series",
+      "summary": "We don't think it's a sign of surrender, though",
+      "url": "https://carbuzz.com/genesis-g70-losing-twin-turbo-v6-option/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-4316-g70arizona807-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-4316-g70arizona807-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/marketplace/camry-ad.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-6053-g70prestigegraphite71-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/original-6043-g70prestigegraphite006-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv90-in-person-1.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-genesis-gv90-neolun-first-edition-in-person-9.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-08-25T16:44:59+00:00"
+    },
+    {
+      "id": "461491a13a999a8e",
+      "title": "One-of-Seven BMW M535i Lightweight Leads a Secret Barn Tour",
+      "summary": "South Africa’s automotive history is filled with cars that exist nowhere else. But few are as interesting as the BMW featured at the beginning of a new video from YouTube channel “e34xpeditions,” who has apparently... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/25/bmw-m535i-lightweight-secret-barn-tour/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2016/12/BMW-M535i-E12-58-750x500.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2016/12/BMW-M535i-E12-58-750x500.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-25T16:31:46+00:00"
+    },
+    {
+      "id": "ee21e31b41b481e8",
+      "title": "'Multitasking' Young Buyers Are Why BMW Is Ditching Physical Buttons",
+      "summary": "New BMW vehicles are short on physical controls, with only a few buttons in the cabin, and practically everything else is controlled by the touchscreen.",
+      "url": "https://www.jalopnik.com/2242981/bmw-ditching-physical-buttons-for-touchscreens-multitasking-young-buyers/",
+      "image": "https://www.jalopnik.com/img/gallery/multitasking-young-buyers-are-why-bmw-is-ditching-physical-buttons/l-intro-1787594712.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/multitasking-young-buyers-are-why-bmw-is-ditching-physical-buttons/l-intro-1787594712.jpg",
+        "https://www.jalopnik.com/img/gallery/multitasking-young-buyers-are-why-bmw-is-ditching-physical-buttons/intro-1787594712.jpg",
+        "https://www.jalopnik.com/img/gallery/multitasking-young-buyers-are-why-bmw-is-ditching-physical-buttons/a-helpful-assistant-1787594714.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-08-25T16:25:00+00:00"
+    },
     {
       "id": "10cbca4b2a11d652",
       "title": "Los BMW nuevos son todo pantalla por culpa de la gente joven, pero yo lo que quiero son botones",
@@ -95,12 +142,7 @@
       "url": "https://www.topspeed.com/luxury-sedan-outruns-german-rivals/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-18.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-18.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-19.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-6.jpg?q=49&fit=contain&w=1920&h=1081&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-14.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-12.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-13.jpg?q=49&fit=contain&w=1920&h=1079&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/07/2025-genesis-g70-topspeed-18.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -115,7 +157,7 @@
       "images": [
         "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i3-touring-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400"
       ],
-      "source": "Electrek",
+      "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-08-25T14:44:42+00:00"
     },
@@ -128,7 +170,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2019/09/E46-BMW-3-Series-Touring-830x613.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-25T14:07:22+00:00"
     },
@@ -154,7 +196,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/BMW-i3-Long-Wheelbase-18-830x467.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-25T13:15:35+00:00"
     },
@@ -183,19 +225,6 @@
       "source": "Motor.es",
       "source_url": "https://www.motor.es",
       "published": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "id": "2f7eefdd83250e01",
-      "title": "BMW Made Its Own SUV Irrelevant, And Now It Has Lost Nearly Half Its Value Over 3 Years",
-      "summary": "The sharp end of the electric SUV market is dynamic. Those who bought into BMW's original technology flagship may find out why that's the case.",
-      "url": "https://carbuzz.com/bmw-made-ix-irrelevant/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-bmw-ix-7-1.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-08-25T11:30:11+00:00"
     },
     {
       "id": "6d9c9142601fb9e6",
@@ -230,7 +259,12 @@
       "url": "https://www.autobild.es/motor/tan-grande-como-un-bmw-x5-pero-con-mas-espacio-mas-1-000-kilometros-autonomia-por-50-000-euros-menos-si-viene-china_7028907_0.html",
       "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg",
       "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg"
+        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg",
+        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/08/24/6a8c854a865035-35865062.jpeg",
+        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/24/6a8c85482d3834-71546214.jpeg",
+        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/24/6a8c8549588ed0-73857292.jpeg",
+        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2026/06/01/6a1d8edd669445-65887169.jpeg",
+        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/02/19/6997686560b9e8-81192263.jpeg"
       ],
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
@@ -315,7 +349,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/2027-bmw-ix3-xdrive50-327-6914c3945fce0.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-24T21:30:00+00:00"
     },
@@ -437,7 +471,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T13:21:49+00:00"
     },
@@ -450,7 +484,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-bmw-i3-touring-07-830x553.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-24T12:38:41+00:00"
     },
@@ -533,7 +567,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-i3-Long-Wheelbase-4-830x584.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-23T07:50:24+00:00"
     },
@@ -546,7 +580,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/162cf361-9a7a-40fc-8c34-3796b7201162.jpg"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-08-22T13:00:00+00:00"
     },
@@ -572,7 +606,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T06:22:21+00:00"
     },
@@ -585,7 +619,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2023/10/bmw-b48-01-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog Mini tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-21T19:51:15+00:00"
     },
@@ -3468,6 +3502,19 @@
       "published": "2026-06-07T16:00:15+00:00"
     },
     {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
+    },
+    {
       "id": "c3ff705537647cd5",
       "title": "BMW M5 Depreciation Tracker: F10 Bargains, F90 Strength, G90 Questions",
       "summary": "Depreciation is a funny thing when it comes to M cars. Enthusiasts love to talk about future classics, special engines, analog appeal, and the models that will one day be “the one to have.” The... First published by https://www.bmwblog.com",
@@ -3674,19 +3721,6 @@
       "source": "BMW Blog 4",
       "source_url": "https://bmwblog.com",
       "published": "2026-05-28T10:04:47+00:00"
-    },
-    {
-      "id": "cc8d0bb546f974cd",
-      "title": "You Can Buy One of BMW’s Best-Handling Cars For Corolla Money (For Now)",
-      "summary": "The used BMW market is full of cars that look like bargains until you remember what they cost to maintain. Cheap 7 Series sedans, tired M cars, and neglected turbocharged SUVs can all tempt the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/05/27/bmw-135i-used-market-value-corolla-money/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2020/08/BMW-1-Series-E82-E88-1-830x551.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2020/08/BMW-1-Series-E82-E88-1-830x551.jpg"
-      ],
-      "source": "BMW Blog 1",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-05-27T16:22:27+00:00"
     }
   ]
 }
