@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-26T10:48:24.917974+00:00",
-  "generated_at_human": "2026-08-26 10:48 UTC",
-  "total_items": 276,
+  "generated_at": "2026-08-26T11:39:34.214855+00:00",
+  "generated_at_human": "2026-08-26 11:39 UTC",
+  "total_items": 277,
   "sources_used": [
     "5koleso RU",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -43,6 +43,7 @@
     "BMW Blog i",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -50,6 +51,7 @@
     "Car and Driver News",
     "Car and Driver Reviews",
     "CarScoops",
+    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -68,12 +70,30 @@
     "Motorious Auction",
     "Motorsport WEC",
     "RushLane IN",
-    "Sports Car Digest",
-    "The Drive"
+    "The Drive",
+    "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 7,
+  "sources_count": 68,
+  "multi_photo_items": 8,
   "items": [
+    {
+      "id": "86af1134b0b77495",
+      "title": "Manual Transmission 2026: Which Automakers Still Offer a Stick",
+      "summary": "Porsche, McLaren, Subaru, Toyota, Ford, and BMW are keeping manual transmissions alive in 2026. Here's what each brand is offering and who's walking away.",
+      "url": "https://www.topspeed.com/automakers-keeping-manual-transmission-2026/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2027-porsche-911-carrera-s-manual-aubergine-24.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2027-porsche-911-carrera-s-manual-aubergine-24.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/2027-porsche-911-carrera-s-manual-aubergine-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-subaru-wrx-21.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/04/2026-toyota-gr-corolla-25.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/edited-ready-2026_bmw_m2_coupe_base_d_oem_1_1600x1067.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/image-327.jpeg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-26T11:00:14+00:00"
+    },
     {
       "id": "c0177e945d77a88a",
       "title": "El BMW i7 ALPINA 70 xDrive ya rueda en pruebas: casi 700 CV y una conexión con M que no encaja en el guion habitual",
@@ -177,7 +197,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/nick_gibbs_2.png?itok=HC8MgQ1a"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -193,7 +213,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/dsc_7967.jpg?itok=m5leGy8-"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -590,7 +610,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_mr2_render_2026.jpg?itok=qG-jbJ_6"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-24T05:00:00+00:00"
     },
@@ -733,7 +753,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/2024-cadillac-lyriq-001.jpg?itok=y87oteLy"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T12:00:00+00:00"
     },
@@ -785,7 +805,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/figure_03_robot.jpg?itok=Wmb2WnU_"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-21T10:00:00+00:00"
     },
@@ -1314,9 +1334,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1417,19 +1437,6 @@
       "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-13T11:00:02+00:00"
-    },
-    {
-      "id": "59ce2473c838d44a",
-      "title": "FOR SALE: 1979 BMW M1",
-      "summary": "Now available through RM Sotheby’s Private Sales, this 1979 BMW M1 represents one of the most historically significant examples of BMW’s first and only production supercar. Conceived in the late 1970s to challenge Porsche’s dominance, the M1 originated under BMW Motorsport chief Jochen Neerpasch as a purpose-built racing machine. BMW initially turned to Lamborghini for development assistance, but financial difficulties at the Italian manufacturer prompted BMW to bring the project in-house in 1978. Despite that change, the M1 remained an […] The post FOR SALE: 1979 BMW M1 appeared first on…",
-      "url": "https://sportscardigest.com/for-sale-1979-bmw-m1/",
-      "image": "https://sportscardigest.com/wp-content/uploads/2026/08/1979-BMW-M1_1448598.jpg",
-      "images": [
-        "https://sportscardigest.com/wp-content/uploads/2026/08/1979-BMW-M1_1448598.jpg"
-      ],
-      "source": "Sports Car Digest",
-      "source_url": "https://www.sportscardigest.com",
-      "published": "2026-08-13T10:47:20+00:00"
     },
     {
       "id": "76954947fb093d2c",
@@ -1872,6 +1879,19 @@
       "source": "CarScoops Audi",
       "source_url": "https://www.carscoops.com",
       "published": "2026-08-05T11:41:00+00:00"
+    },
+    {
+      "id": "46addcaf6647ce16",
+      "title": "Mercedes-AMG’s Latest EV Is Already Breaking Lap Records",
+      "summary": "The 671 hp CLA 45 lapped the Green Hell in 7:32.070, which is quicker than a BMW M2",
+      "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-05T00:18:00+00:00"
     },
     {
       "id": "49c5943eb9072767",
@@ -2363,7 +2383,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2398,9 +2418,9 @@
       "title": "Nick Yelloly explains “bittersweet” Acura IMSA exit and why Ford was “the way to go”",
       "summary": "Nick Yelloly admitted that the impending departure of Acura from the IMSA SportsCar Championship leaves him with a “bittersweet” feeling, as he prepares to join Ford in the World Endurance Championship next year. The Briton joined the factory Meyer Shank team at the start of the 2025 IMSA season after two years with BMW, teaming up with veteran Renger van der Zande in the #93 Acura ARX-06 ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/nick-yelloly-explains-bittersweet-acura-imsa-exit-and-why-ford-was-the-way-to-go/10840503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
+        "https://cdn-4.motorsport.com/images/amp/6Vy7QrNY/s6/93-acura-meyer-shank-racing-w-.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2454,7 +2474,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/05/bmw-m2-cs-g87-62-830x553.jpg"
       ],
-      "source": "BMW Blog M2",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-19T09:00:03+00:00"
     },
@@ -2775,9 +2795,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
+        "https://cdn-8.motorsport.com/images/amp/0o5APR1Y/s6/race-start-2.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
