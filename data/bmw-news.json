@@ -1,14 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-30T00:13:59.419479+00:00",
-  "generated_at_human": "2026-08-30 00:13 UTC",
-  "total_items": 283,
+  "generated_at": "2026-08-30T06:34:50.491594+00:00",
+  "generated_at_human": "2026-08-30 06:34 UTC",
+  "total_items": 282,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -28,6 +28,7 @@
     "BMW Blog M8",
     "BMW Blog Mini Cooper",
     "BMW Blog Mini tag",
+    "BMW Blog X",
     "BMW Blog X1",
     "BMW Blog X2",
     "BMW Blog X3",
@@ -42,8 +43,8 @@
     "BMW Blog concepts",
     "BMW Blog i",
     "BMW Blog i3 tag",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -55,7 +56,6 @@
     "CarScoops BMW",
     "CarScoops Mercedes",
     "CarWale IN",
-    "Diariomotor",
     "Electrek BMW",
     "Electric Cars Report",
     "Hagerty News",
@@ -79,6 +79,22 @@
   "multi_photo_items": 12,
   "items": [
     {
+      "id": "6fe0914508969c5f",
+      "title": "From XM to E46: BMW dealers are re-training to keep classics alive",
+      "summary": "Got an E36 or an E46? You can now give it the new car treatment with main dealer servicing Do you own a BMW 3 Series of the E46 generation, on sale from 1998 to 2006? You already know it's a classic, but now it's official, following BMW's UK appointment of four Classic partners, existing main dealerships equipped and approved to service, repair and restore your old E46 and those generations that came before it – not only 3 Series but all BMW models that ceased production as recently as 2010. You might think all BMW dealers that have held the franchise long enough must have experience with…",
+      "url": "https://www.autocar.co.uk/car-news/features/xm-e46-bmw-dealers-are-re-training-keep-classics-alive",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=ACjKA-Dx",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=ACjKA-Dx",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=pno7mIFu",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/john-evans_1.jpg?itok=t63gtI6r"
+      ],
+      "source": "Autocar BMW",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-08-30T06:00:00+00:00"
+    },
+    {
       "id": "29cd7a7a6b00b21c",
       "title": "40k-Mile 2000 BMW Z3 2.3 5-Speed",
       "summary": "This 2000 BMW Z3 2.5 has spent most of its time registered in Texas and California and now has 40k miles. The car is finished in Topaz Blue Metallic over Beige Oregon leather and is powered by a 2.5-liter inline-six paired with a five-speed manual transmission. It was optioned with the Premium Package and heated front seats. Equipment includes a Dark Beige soft top, a tonneau cover, 16″ Style 18 alloy wheels, Dynamic Stability Control (DSC), dual roll hoops, wood trim and shift knob, a wind deflector, cruise control, and air conditioning. The seller purchased the car in December 2020, and…",
@@ -98,10 +114,7 @@
       "url": "https://www.jalopnik.com/2245171/buy-whole-damn-mta-train-for-price-of-bmw-5-series/",
       "image": "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/l-intro-1787789905.jpg",
       "images": [
-        "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/l-intro-1787789905.jpg",
-        "https://www.jalopnik.com/img/uploads/embed/it-7I815C-1787778384.jpg",
-        "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/intro-1787789905.jpg",
-        "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/you-could-conduct-1787789906.jpg"
+        "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/l-intro-1787789905.jpg"
       ],
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
@@ -128,11 +141,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M-EV-Neue-Klasse-report-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M-EV-Neue-Klasse-report-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/08/1991-Honda-Civic-Si-331-5-2048x1365.webp",
         "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Jeep-Recon-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/08/Lexus-TZ-Grille-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-8-copy-1-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-13-copy-1-2048x1153.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-13-copy-1-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-14-copy-1-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -248,7 +261,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/02/BMW-X9-rendering-2-830x654.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-28T22:03:46+00:00"
     },
@@ -343,11 +356,11 @@
       "image": "https://cdn-3.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
         "https://cdn-3.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
-        "https://cdn-9.motorsport.com/images/amp/2Qedwrm2/s200/ryan-blaney-team-penske.webp",
-        "https://cdn-5.motorsport.com/images/amp/6VyKyGdY/s200/zane-smith-front-row-motorspor.webp",
-        "https://cdn-1.motorsport.com/images/amp/2y7Q7Og6/s200/whatsapp-image-2026-08-29-at-1.webp",
-        "https://cdn-7.motorsport.com/images/amp/68VwVnl2/s200/riley-herbst-23xi-racing.webp",
-        "https://cdn-7.motorsport.com/images/amp/YP74xOX2/s200/shane-van-gisbergen-trackhouse.webp"
+        "https://cdn-5.motorsport.com/images/amp/YP747jQ2/s200/chase-briscoe-joe-gibbs-racing.webp",
+        "https://cdn-9.motorsport.com/images/amp/2jEAEBg0/s200/start-action.webp",
+        "https://cdn-6.motorsport.com/images/amp/YN7v7xV6/s200/nascar-cup-field-races-at-dayt.webp",
+        "https://cdn-6.motorsport.com/images/amp/YpbAb1d0/s200/adelaide-circuit-overview.webp",
+        "https://cdn-2.motorsport.com/images/amp/0mXyX5z6/s200/shane-van-gisbergen-no-97-trac.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -358,39 +371,13 @@
       "title": "BMW explains why it’s not interested in F1 entry",
       "summary": "BMW has cited a lack of opportunities for technology transfer as the key reason why it is not interested in joining Mercedes and Audi in Formula 1. The Munich-based manufacturer has remained absent from F1 since it sold its majority stake in Sauber in 2009, despite the series’ growing popularity making it more attractive to carmakers than ever before. The same Sauber team that BMW ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bmw-explains-why-its-not-interested-in-f1-entry-wec-and-imsa-are-better-for-us/10850004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
-        "https://cdn-8.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
+        "https://cdn-9.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
       ],
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
       "published": "2026-08-28T11:29:25+00:00"
-    },
-    {
-      "id": "2b2ecbab531488b8",
-      "title": "El Audi A6 Avant de Toyota es una perfecta idea en 2026 como coche familiar de diseño deportivo",
-      "summary": "Hace algo más de un año, el que escribe estas líneas por fin pudo, o mejor dicho, por fin tuvo la excusa, para comprar un coche familiar cuyo diseño siempre ha sido de los más conseguidos de estos últios diez años, o al menos así me lo parece. Un BMW Serie 3 Touring , no a estreno, sino de 2016, concretamente un F31 LCI con un eficiente y suficiente motor diésel de 2 litros y 150 CV . Realmente, no hubo ningún otro coche dentro de los que valoré que me gustase tanto como este familiar alemán del segmento D . De hecho, el único coche que hubiera valorado como alternativa, no existía: un…",
-      "url": "https://www.diariomotor.com/noticia/lexus-es-touring-2026-idea/",
-      "image": "https://www.diariomotor.com/imagenes/2026/08/Lexus-ES-Touring-6a7b1d60d58fb.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/08/Lexus-ES-Touring-6a7b1d60d58fb.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-08-28T11:00:59+00:00"
-    },
-    {
-      "id": "2f1559be745194c1",
-      "title": "«Es inaceptable»: El CEO de Siemens Energy lo deja claro mientras los fabricantes alemanes presionan a la Unión Europa a actuar contra China",
-      "summary": "Cada vez más voces presionan para que se establezcan medidas en aras de proteger los intereses de Europa. La industria del primer país productor de automóviles exige al canciller Friedrich Merz a llevar a cabo medidas más duras contra Pekín, habiendo señales de una postura de su gobierno más cercanas a las de España, Francia e Italia, entre otros. La industria alemana está incrementando drásticamente la presión sobre el canciller Friedrich Merz para adoptar una postura más firme ante Pekín . Las grandes empresas del país, incluyendo al propio grupo Volkswagen (además que otras. como BMW y…",
-      "url": "https://www.motor.es/noticias/alemania-china-union-europea-industria-2026116092.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/08/alemania-china-union-europea-industria-2026116092-1787900094_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/08/alemania-china-union-europea-industria-2026116092-1787900094_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-08-28T09:00:00+00:00"
     },
     {
       "id": "4f8e4c8618f87a10",
@@ -458,7 +445,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_-celica-gr-render-2026-red.jpg?itok=zjbUklbc"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-28T05:00:00+00:00"
     },
@@ -868,7 +855,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/nissan-qashqai-production-sunderland_2_0.jpg?itok=zZ5oO8V7"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -881,7 +868,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7032.jpg?itok=sniDhnw5"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -2199,7 +2186,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X5",
+      "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -2953,7 +2940,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3174,7 +3161,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
