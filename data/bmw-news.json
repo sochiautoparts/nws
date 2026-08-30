@@ -1,15 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-30T21:00:07.495226+00:00",
-  "generated_at_human": "2026-08-30 21:00 UTC",
-  "total_items": 276,
+  "generated_at": "2026-08-30T23:27:00.047326+00:00",
+  "generated_at_human": "2026-08-30 23:27 UTC",
+  "total_items": 281,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -45,6 +45,7 @@
     "BMW Blog i3 tag",
     "BMW Blog i8 tag",
     "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -54,11 +55,13 @@
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
+    "CarWale IN",
     "Electrek BMW",
+    "Electric Cars Report",
     "Hagerty News",
     "Hagerty People",
+    "Hooniverse",
     "InsideEVs",
-    "Jalopnik",
     "Kolesa RU",
     "Motor1 Audi",
     "Motor1 BMW",
@@ -67,11 +70,43 @@
     "Motor1 Volvo",
     "Motorsport WEC",
     "Paul Tan",
+    "Response JP",
     "TopSpeed"
   ],
-  "sources_count": 64,
+  "sources_count": 68,
   "multi_photo_items": 11,
   "items": [
+    {
+      "id": "95ccd0989f90f633",
+      "title": "BMW『2シリーズ グラン クーペ』、新エントリーモデル「オリジナル」設定…498万円",
+      "summary": "・ビー・エム・ダブリューがBMW 2シリーズ グラン クーペの新エントリーモデル「オリジナル」を498万円で販売開始。納車は9月以降を予定。 ・新モデルはBMW 48Vインテグレイテッド・ハイブリッドやナビゲーション・システム、先進安全機能ドライビング・アシスト、デジタル・キー・プラスなど主要装備を搭載しつつ、標準装備を厳選することで価格を抑えた。 ・現行の2シリーズ グラン クーペは2025年に第2世代へ進化し、スポーティなデザインと最新テクノロジーを採用している。",
+      "url": "https://response.jp/article/2026/08/31/415913.html",
+      "image": "https://response.jp/imgs/rss/2238583.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2238583.jpg",
+        "https://response.jp/base/images/google-source-banner.png",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2238583.jpg",
+        "https://response.jp/imgs/sq_m_l1/2238583.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-08-30T23:00:04+00:00"
+    },
+    {
+      "id": "a419b590a448b334",
+      "title": "The Lexus SUV That Makes German Luxury Feel Overcomplicated",
+      "summary": "The 2026 Lexus RX 350h gets 36 mpg combined, starts at $54,275 with standard AWD, and undercuts the BMW X5 and Mercedes GLE in price and complexity.",
+      "url": "https://www.topspeed.com/lexus-makes-german-luxury-feel-overcomplicated/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-lexus-rx-side.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-lexus-rx-side.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-08-30T21:00:14+00:00"
+    },
     {
       "id": "b629bd141b542d8e",
       "title": "Потратил на ремонт «немца» почти 200 тысяч за полгода: отзыв владельца 5-летней BMW 3-й серии с пробегом 70 000 км",
@@ -92,12 +127,7 @@
       "url": "https://www.topspeed.com/affordable-bmw-models-buy-used/",
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2020-bmw-4-series.jpg",
       "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2020-bmw-4-series.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/11/2020-bmw-x1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2023-bmw-2-series-gran-coupe.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/06/p90438648_highres_bmw-x3-m40i-10-2021-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2020-bmw-5-series.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/8myo567m.jpeg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2020-bmw-4-series.jpg"
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
@@ -203,22 +233,9 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/john-evans_1.jpg?itok=t63gtI6r"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-30T06:00:00+00:00"
-    },
-    {
-      "id": "e133f116ed439ee0",
-      "title": "For The Price Of A BMW 5 Series, You Could Buy A Whole Damn Train",
-      "summary": "This General Electric Genesis P32AC-DM locomotive, straight from the rails of the Metro-North Railroad, is just about the neatest thing I've seen on GovDeals.",
-      "url": "https://www.jalopnik.com/2245171/buy-whole-damn-mta-train-for-price-of-bmw-5-series/",
-      "image": "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/l-intro-1787789905.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/for-the-price-of-a-bmw-5-series-you-could-buy-a-whole-damn-train/l-intro-1787789905.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-08-29T21:05:00+00:00"
     },
     {
       "id": "7c19905ba84e059d",
@@ -276,6 +293,19 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-08-29T10:00:24+00:00"
+    },
+    {
+      "id": "09ea961c49cfe8b9",
+      "title": "Porsche Cayenne Electric to Debut on 30 September",
+      "summary": "The Cayenne Electric will rival the likes of the BMW iX and the Lotus Eletre.",
+      "url": "https://www.carwale.com/news/porsche-cayenne-electric-to-debut-on-30-september/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/226662/cayenne-ev-exterior-tail-light-tail-lamp.avif?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/226662/cayenne-ev-exterior-tail-light-tail-lamp.avif?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-08-29T08:45:30+00:00"
     },
     {
       "id": "996fd88f62c9430a",
@@ -431,6 +461,19 @@
       "published": "2026-08-28T06:32:52+00:00"
     },
     {
+      "id": "229147056d1a9eaa",
+      "title": "BMW Expands Advanced Safety Features Across Its Next-Generation EVs",
+      "summary": "BMW's Neue Klasse brings advanced safety technology to EVs, including active door opening protection, emergency steering, improved braking and smarter driver assistance. The post BMW Expands Advanced Safety Features Across Its Next-Generation EVs appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/08/bmw-expands-advanced-safety-features-across-its-next-generation-evs/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-Neue-Klasse.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2026/08/BMW-Neue-Klasse.jpg?a3781e&amp;a3781e"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-08-28T06:32:32+00:00"
+    },
+    {
       "id": "950f4676c692715f",
       "title": "Neue Klasse, neue Assistenzsysteme: BMW bringt mehr Features in Serie",
       "summary": "Die Neue Klasse bringt bei BMW nicht nur Antrieb und Infotainment auf ein neues Niveau, auch bei den Sicherheits- und Assistenzsystemen folgt der nächste große...",
@@ -452,7 +495,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_-celica-gr-render-2026-red.jpg?itok=zjbUklbc"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-28T05:00:00+00:00"
     },
@@ -494,6 +537,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-27T20:01:05+00:00"
+    },
+    {
+      "id": "f84e1209c50bb427",
+      "title": "BMW Delivers 2 Million EVs as Neue Klasse Gains Momentum",
+      "summary": "BMW has delivered 2 million fully electric vehicles worldwide. Strong iX3 demand and the new BMW i3 are accelerating the Neue Klasse EV rollout in 2026. The post BMW Delivers 2 Million EVs as Neue Klasse Gains Momentum appeared first on Electric Cars Report .",
+      "url": "https://electriccarsreport.com/2026/08/bmw-delivers-2-million-evs-as-neue-klasse-gains-momentum/",
+      "image": "https://electriccarsreport.com/wp-content/uploads/2025/09/BMW-iX3-2.jpg?a3781e&amp;a3781e",
+      "images": [
+        "https://electriccarsreport.com/wp-content/uploads/2025/09/BMW-iX3-2.jpg?a3781e&amp;a3781e"
+      ],
+      "source": "Electric Cars Report",
+      "source_url": "https://electriccarsreport.com",
+      "published": "2026-08-27T18:23:00+00:00"
     },
     {
       "id": "afb2e9ae298a15d4",
@@ -818,7 +874,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/nissan-qashqai-production-sunderland_2_0.jpg?itok=zZ5oO8V7"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -831,7 +887,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7032.jpg?itok=sniDhnw5"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -2123,7 +2179,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/g65-bmw-x5-vs-bmw-x7-00-830x623.jpg"
       ],
-      "source": "BMW Blog X5",
+      "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-03T21:29:59+00:00"
     },
@@ -2552,7 +2608,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3179,6 +3235,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty... The post Searching For Orcas In A BMW M5 Touring appeared first on Hooniverse .",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
