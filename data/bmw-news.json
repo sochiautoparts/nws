@@ -1,15 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-08-31T05:25:26.339062+00:00",
-  "generated_at_human": "2026-08-31 05:25 UTC",
-  "total_items": 283,
+  "generated_at": "2026-08-31T13:36:25.794514+00:00",
+  "generated_at_human": "2026-08-31 13:36 UTC",
+  "total_items": 285,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -42,20 +42,25 @@
     "BMW Blog concepts",
     "BMW Blog i",
     "BMW Blog i3 tag",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Cadillac",
+    "CarScoops Genesis",
     "CarScoops Mercedes",
     "CarWale IN",
+    "Diariomotor",
     "Electrek BMW",
     "Electric Cars Report",
+    "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
     "Hooniverse",
@@ -69,13 +74,107 @@
     "Motor1 Volvo",
     "Motoring World IN",
     "Motorsport WEC",
-    "Paul Tan",
-    "Response JP",
-    "TopSpeed"
+    "Paul Tan"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 12,
+  "sources_count": 71,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "c84a80bf52f6fee4",
+      "title": "Electric BMW M3 Looks Fast And Wide In New Spy Video",
+      "summary": "At 2,205 kilograms or 4,861 pounds, the new i3 50 xDrive is already considerably heavier than every gas-fueled 3 Series before it. With BMW already confirming that the electric M3 will have four motors instead... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/08/31/electric-bmw-m3-spy-video/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/12/2027-bmw-m3-za0-electric-prototype-17-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2025/12/2027-bmw-m3-za0-electric-prototype-17-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-08-31T13:12:15+00:00"
+    },
+    {
+      "id": "736560d72cb1aa52",
+      "title": "BaT Auction Success Story: Payam9999’s Honda S2K Feels Just Right",
+      "summary": "Our latest Success Story comes to us from payam9999 , who won this AP1 S2000 from Prescott_Collection in a December 2025 BaT auction: For nine years, the S2000 sat firmly at the top of my dream-car list. The spark started when I watched Jeremy Clarkson drive an AP1 on the Isle of Man alongside Richard Hammond in a BMW Z4 and James May in a Porsche Boxster on Top Gear .",
+      "url": "https://bringatrailer.com/2026/08/31/bat-auction-success-story-payam9999s-honda-s2k-feels-just-right/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/04/1000035967-71053-scaled-e1775771072958.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/04/1000035967-71053-scaled-e1775771072958.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-08-31T13:00:06+00:00"
+    },
+    {
+      "id": "89a74a7c12229dcf",
+      "title": "Semi-Stalking Yet Another BMW Unicorn",
+      "summary": "Those of you who have been reading me for a while know that I have a thing for BMW wagons. I owned a 1999 E39 528iT stick sport-package wagon about 15 years ago, which was a very cool car other than eating me alive with its constant needs. I then bought an E46 325XiT stick, […]",
+      "url": "https://www.hagerty.com/media/opinion/the-hack-mechanic/semi-stalking-yet-another-bmw-unicorn/",
+      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/08/Hack-Mechanic-Mishandling-Unicorn-lede.jpg",
+      "images": [
+        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/08/Hack-Mechanic-Mishandling-Unicorn-lede.jpg",
+        "https://hagerty-media-prod.imgix.net/2026/08/Hack-Mechanic-Mishandling-Unicorn-lede.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&max-h=481&max-w=640",
+        "https://hagerty-media-prod.imgix.net/2026/08/Traveler-in-Barn-6-Large.jpeg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
+        "https://hagerty-media-prod.imgix.net/2026/08/Kinardi-Line-Bentley-Interior-V2.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
+        "https://hagerty-media-prod.imgix.net/2026/08/Hack-Mechanic-wagon1bc2.jpg?auto=format%2Ccompress&fit=crop&h=768&ixlib=php-3.3.0&w=1024",
+        "https://hagerty-media-prod.imgix.net/2026/08/Hack-Mechanic-wagon4c2.jpg?auto=format%2Ccompress&fit=crop&h=768&ixlib=php-3.3.0&w=1024"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-08-31T13:00:00+00:00"
+    },
+    {
+      "id": "5a1f237c3dae34b9",
+      "title": "Europa obsesionada con los eléctricos y llegan los japoneses y plantan, por 20.000 € menos que los alemanes, un seis cilindros diésel en un SUV con tamaño de BMW X3",
+      "summary": "Cuando uno piensa en comprar un SUV grande, práctico y eficiente es muy posible que ponga la vista en las opciones alemanas. Pero, ¿qué pasa si existe una alternativa considerablemente más barata? Este SUV diésel con etiqueta ECO tiene tamaño de BMW X3, pero cuesta 20.000 euros menos Cuenta con un seis cilindros diésel de 200 CV . Ofrece consumos muy contenidos . Tiene etiqueta ECO . Y es que esto mismo consigue ofrecer Mazda de la mano de su Mazda CX-60 . Y concretamente a través de su versión diésel que, al igual que hacen muchos de sus rivales alemanes, recurre a un motor poco usual en…",
+      "url": "https://www.diariomotor.com/noticia/oferta-mazda-cx-60-agosto-2026/",
+      "image": "https://www.diariomotor.com/imagenes/2022/09/mazda-cx-60-phev-2022-27-63199610e7943.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2022/09/mazda-cx-60-phev-2022-27-63199610e7943.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-08-31T09:45:24+00:00"
+    },
+    {
+      "id": "ebbb711c0d94479a",
+      "title": "Мощность до 1210 сил и зарядка за 9 минут: раскрыт большой кроссовер BYD Denza N8",
+      "summary": "Одной из главных особенностей нового BYD Denza N8 станет 1,1-метровый панорамный экран, который вытянулся вдоль лобового стекла. Однако его нельзя назвать уникальным как для китайского, так и для мирового автопрома. Ранее, например, Changan начал оснащать автомобили марки Avatr подобными экранами. Сходный по исполнению дисплей BMW стала внедрять в новые электрокары линейки Neue Klasse. На панорамный экран […]",
+      "url": "https://5koleso.ru/articles/novosti/moshhnost-do-1210-sil-i-zaryadka-za-9-minut-raskryt-bolshoj-krossover-byd-denza-n8/",
+      "image": "https://5koleso.ru/wp-content/uploads/2026/08/9ed3f0a7gy1igmysfzcx6j23341a9qv9-1-1024x426.jpg",
+      "images": [
+        "https://5koleso.ru/wp-content/uploads/2026/08/9ed3f0a7gy1igmysfzcx6j23341a9qv9-1-1024x426.jpg"
+      ],
+      "source": "5koleso RU",
+      "source_url": "https://5koleso.ru",
+      "published": "2026-08-31T07:49:00+00:00"
+    },
+    {
+      "id": "a9e6f782cb369583",
+      "title": "BMW M5 Facelift 2027: Weniger Neue Klasse als gedacht?",
+      "summary": "Bleibt das BMW M5 Facelift 2027 doch näher am aktuellen Look als an der Formensprache der Neuen Klasse? Genau das will BMWblog.com erfahren haben, denn...",
+      "url": "https://www.bimmertoday.de/2026/08/31/bmw-m5-facelift-2027-weniger-neue-klasse-als-gedacht/",
+      "image": "https://vg09.met.vgwort.de/na/7c1cf8c876124381b6c85fd188061b68",
+      "images": [
+        "https://vg09.met.vgwort.de/na/7c1cf8c876124381b6c85fd188061b68"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-31T06:17:39+00:00"
+    },
+    {
+      "id": "c03aa121e8c2b422",
+      "title": "Erlkönig-Video: BMW M3 ZA0 gibt mit 4 E-Motoren Vollgas am Nürburgring",
+      "summary": "Der neue BMW M3 (ZA0) lässt in einem neuen Erlkönig-Video seine elektrischen Muskeln spielen und gibt Vollgas auf der Nürburgring Nordschleife. Wie ein Blick auf...",
+      "url": "https://www.bimmertoday.de/2026/08/31/erlkonig-video-bmw-m3-za0-gibt-mit-4-e-motoren-vollgas-am-nurburgring/",
+      "image": "https://vg09.met.vgwort.de/na/6f3a4d996f6a414aa3c81b295639dc7a",
+      "images": [
+        "https://vg09.met.vgwort.de/na/6f3a4d996f6a414aa3c81b295639dc7a"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-08-31T05:28:04+00:00"
+    },
     {
       "id": "ef53e1c91a3a4594",
       "title": "Biggest test of 2026: BMW iX3 vs Volvo EX60 vs Mercedes GLC",
@@ -88,7 +187,7 @@
         "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/illya-verpraet-mug-1.jpg?itok=Uu02JECO"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-31T04:00:00+00:00"
     },
@@ -112,12 +211,7 @@
       "url": "https://www.hotcars.com/sports-car-bmw-straight-six-power-toyota-longevity/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2021-toyota-supra-gr-headlight-close-up-resized.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2021-toyota-supra-gr-headlight-close-up-resized.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/2020-chevrolet-camaro-zl1-13.png?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-b58-engine-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2021-toyota-supra-gr-front-three-quarter-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2021-toyota-supra-gr-suspension-setup-resized.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2021-toyota-supra-gr-badge-close-up-resized.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2021-toyota-supra-gr-headlight-close-up-resized.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -130,42 +224,11 @@
       "url": "https://motoringworld.in/car-news/gta-6s-biggest-stars-might-be-its-cars/",
       "image": "http://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-5.11.08-AM-505x283.png",
       "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-5.11.08-AM-505x283.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-4.41.32-AM-1536x1026.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-5.12.27-AM-1536x948.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-5.11.01-AM-1536x857.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-4.56.36-AM-768x766.png",
-        "https://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-5.11.08-AM-1024x573.png"
+        "http://motoringworld.in/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-5.11.08-AM-505x283.png"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
       "published": "2026-08-30T23:47:20+00:00"
-    },
-    {
-      "id": "95ccd0989f90f633",
-      "title": "BMW『2シリーズ グラン クーペ』、新エントリーモデル「オリジナル」設定…498万円",
-      "summary": "・ビー・エム・ダブリューがBMW 2シリーズ グラン クーペの新エントリーモデル「オリジナル」を498万円で販売開始。納車は9月以降を予定。 ・新モデルはBMW 48Vインテグレイテッド・ハイブリッドやナビゲーション・システム、先進安全機能ドライビング・アシスト、デジタル・キー・プラスなど主要装備を搭載しつつ、標準装備を厳選することで価格を抑えた。 ・現行の2シリーズ グラン クーペは2025年に第2世代へ進化し、スポーティなデザインと最新テクノロジーを採用している。",
-      "url": "https://response.jp/article/2026/08/31/415913.html",
-      "image": "https://response.jp/imgs/rss/2238583.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2238583.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-08-30T23:00:04+00:00"
-    },
-    {
-      "id": "a419b590a448b334",
-      "title": "The Lexus SUV That Makes German Luxury Feel Overcomplicated",
-      "summary": "The 2026 Lexus RX 350h gets 36 mpg combined, starts at $54,275 with standard AWD, and undercuts the BMW X5 and Mercedes GLE in price and complexity.",
-      "url": "https://www.topspeed.com/lexus-makes-german-luxury-feel-overcomplicated/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-lexus-rx-side.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-lexus-rx-side.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-30T21:00:14+00:00"
     },
     {
       "id": "b629bd141b542d8e",
@@ -179,19 +242,6 @@
       "source": "5koleso RU",
       "source_url": "https://5koleso.ru",
       "published": "2026-08-30T20:57:55+00:00"
-    },
-    {
-      "id": "05ee16a8c86f9c97",
-      "title": "10 Affordable BMW Models You Should Buy Used",
-      "summary": "Find 2020 BMW models at peak depreciation in 2026, offering luxury for half their original price, like the X1 at $17,400 and the X6 at $34,800.",
-      "url": "https://www.topspeed.com/affordable-bmw-models-buy-used/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2020-bmw-4-series.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/02/2020-bmw-4-series.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-08-30T20:01:14+00:00"
     },
     {
       "id": "f1331aba429841a9",
@@ -257,12 +307,7 @@
       "url": "https://www.autobild.es/motor/comparativa-bmw-x3-m50-frente-audi-sq5-suv-deportivos-tamano-medio-entre-los-que-no-hay-un-verdadero-perdedor_7030623_0.html",
       "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/29/6a92fba63dba99-38975317.jpeg",
       "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/29/6a92fba63dba99-38975317.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/08/29/6a92fba63dba99-38975317.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2025/06/16/68d4fac2e3f81.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2024/09/23/68d5102fccf53.jpeg",
-        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/29/6a92fbfa34bd08-31857013.jpeg",
-        "https://imagenes.autobild.es/files/image_640_auto/uploads/imagenes/2026/08/29/6a92fc20932970-03214384.jpeg"
+        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/08/29/6a92fba63dba99-38975317.jpeg"
       ],
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
@@ -277,7 +322,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=ACjKA-Dx"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-30T06:00:00+00:00"
     },
@@ -463,11 +508,11 @@
       "image": "https://cdn-2.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
         "https://cdn-2.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
-        "https://cdn-4.motorsport.com/images/amp/2eZx9AaY/s200/david-20malukas-20-20snap-on-2-2.webp",
-        "https://cdn-3.motorsport.com/images/amp/0arExRk2/s200/pato-o-ward-arrow-mclaren.webp",
-        "https://cdn-7.motorsport.com/images/amp/YvKQqln6/s200/sebastien-ogier-toyota-gazoo-r.webp",
-        "https://cdn-5.motorsport.com/images/amp/Y9lNr9Z2/s200/snap-on-20makers-20and-20fixer.webp",
-        "https://cdn-8.motorsport.com/images/amp/0LdeV1V0/s200/alex-palou-chip-ganassi-racing.webp"
+        "https://cdn-8.motorsport.com/images/amp/68VWodx2/s200/lando-norris-mclaren.webp",
+        "https://cdn-6.motorsport.com/images/amp/0R7B7Vr2/s200/chris-buescher-rfk-racing-kyle.webp",
+        "https://cdn-4.motorsport.com/images/amp/01QNqZm0/s200/sergio-perez-cadillac-racing.webp",
+        "https://cdn-3.motorsport.com/images/amp/0qgKX8OY/s200/charles-leclerc-ferrari-lewis--2.webp",
+        "https://cdn-7.motorsport.com/images/amp/2jEAEBg0/s200/start-action-2.webp"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -539,7 +584,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_-celica-gr-render-2026-red.jpg?itok=zjbUklbc"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-28T05:00:00+00:00"
     },
@@ -611,7 +656,7 @@
     {
       "id": "8d0c21e663f43884",
       "title": "BMW’s new iX3 EV is racking up orders, even in China, despite selling only an image",
-      "summary": "With global orders for the new iX3 near 100,000, BMW dealers in China are reportedly overwhelmed by demand, with tens of thousands of pre-orders coming in in less than a week after it went on sale.",
+      "summary": "With global orders for the new iX3 near 100,000, BMW dealers in China are reportedly overwhelmed by demand, with tens of thousands of pre-orders coming in in less than a week after it went on sale. more…",
       "url": "https://electrek.co/2026/08/27/bmws-new-ix3-ev-racking-up-orders-even-in-china/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BMW-iX3-orders-China.jpeg?quality=82&#038;strip=all&#038;w=1200",
       "images": [
@@ -656,7 +701,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/bmw-m-concept-neue-klasse-04-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-27T13:19:45+00:00"
     },
@@ -918,20 +963,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/nissan-qashqai-production-sunderland_2_0.jpg?itok=zZ5oO8V7"
       ],
-      "source": "Autocar BMW",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-08-26T05:00:00+00:00"
-    },
-    {
-      "id": "e3b538445ff07c4f",
-      "title": "The truth about electric car holidays: 1400 miles in the BMW iX3",
-      "summary": "It's the ultimate EV test: two weeks of autoroute-bashing with the kids and the dog. How did we do? Electric cars are ideal for short commutes, but the prospect of endless charging stops made me nervous of the trek to south-western France for a family holiday – particularly with a long-suffering dog aboard. However, the BMW iX3 's claims of more than 400 miles made it far more realistic, and I decided to mitigate my mileage by taking an overnight ferry to St Malo. The plan was to blast down to Portsmouth for a quick top-up in the UK, but as we reached Brittany Ferries' check-in we had…",
-      "url": "https://www.autocar.co.uk/car-news/electric-cars/truth-about-electric-car-holidays-1400-miles-bmw-ix3",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7032.jpg?itok=sniDhnw5",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7032.jpg?itok=sniDhnw5"
-      ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-26T05:00:00+00:00"
     },
@@ -960,6 +992,24 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T00:13:59+00:00"
+    },
+    {
+      "id": "a67e7e8fb969425b",
+      "title": "Are Cadillac And Lincoln Making A Mistake By Killing Off Affordable Luxury?",
+      "summary": "Lincoln's new entry-level crossover costs far more than rivals from Audi, BMW, and Lexus",
+      "url": "https://www.carscoops.com/2026/08/cadillac-lincoln-afforable-luxury/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Lincoln-Grille-1-1024x578.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Lincoln-Grille-1-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Lincoln-Corsair-825-15-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Lincoln-Corsair-825-16-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Lincoln-Corsair-825-17-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2027-Lincoln-Corsair-825-20-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2026-Cadillac-CT4-825-3-2048x1366.jpg"
+      ],
+      "source": "CarScoops Cadillac",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-25T23:55:00+00:00"
     },
     {
       "id": "61d6f4ebefdace52",
@@ -1021,7 +1071,7 @@
     {
       "id": "e8e30cad9939b186",
       "title": "BMW i3 Touring captured on video for the first time [Video]",
-      "summary": "With the sedan version now on sale, the new BMW i3 Touring was captured for the first time with its wagon tail on display.",
+      "summary": "With the sedan version now on sale, the new BMW i3 Touring was captured for the first time with its wagon tail on display. more…",
       "url": "https://electrek.co/2026/08/25/bmw-i3-touring-captured-video-first-time-video/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i3-touring-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -1266,19 +1316,6 @@
       "published": "2026-08-21T19:51:15+00:00"
     },
     {
-      "id": "3916c5139f488f8f",
-      "title": "BMW iX3 30 L: Neue China-Basis mit LFP-Akku als Vorbild für Europa?",
-      "summary": "Das Motoren- und Antriebsportfolio für den neuen BMW iX3 (NA5) ist noch ausgesprochen überschaubar, aber im Lauf der nächsten Monate wird die Auswahl deutlich größer....",
-      "url": "https://www.bimmertoday.de/2026/08/21/bmw-ix3-30-l-neue-china-basis-mit-lfp-akku-als-vorbild-fur-europa/",
-      "image": "https://vg09.met.vgwort.de/na/f149c049f7f443b2aaef7537d5c8032a",
-      "images": [
-        "https://vg09.met.vgwort.de/na/f149c049f7f443b2aaef7537d5c8032a"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-21T15:21:40+00:00"
-    },
-    {
       "id": "e89ad2be98896fe8",
       "title": "BMW X5 V-10 with a Six-Speed Stick Is the Restomodded E53 of Our Dreams",
       "summary": "BMW’s Motorsport division never got its hands on the original, E53-generation X5, so an enthusiast commissioned a restomod that explores what a first-generation X5 M could have looked like. Unveiled during Monterey Car Week, this BMW X5 V-10 is a one-off that features M5 power, a six-speed manual transmission, and all-wheel-drive in addition to numerous […]",
@@ -1357,17 +1394,17 @@
       "published": "2026-08-21T08:35:31+00:00"
     },
     {
-      "id": "5f7c9227041d2e05",
-      "title": "Larte BMW XM: Brachialer Auftritt mit Carbon-Bodykit in Olivgrün",
-      "summary": "Für einen unauffälligen Auftritt gibt es zweifellos besser geeignete Fahrzeuge als den BMW XM, der sich aus jedem Blickwinkel deutlich von den übrigen Baureihen abgrenzt...",
-      "url": "https://www.bimmertoday.de/2026/08/21/larte-bmw-xm-brachialer-auftritt-mit-carbon-bodykit-in-olivgrun/",
-      "image": "https://vg09.met.vgwort.de/na/4838a980b01443a594c91be1656302fa",
+      "id": "db7d7b5a7e19fcb7",
+      "title": "Genesis’ New GV90 Goes After BMW Money With Rolls-Royce Tricks (Live Photos)",
+      "summary": "With 657 hp, a 123.5-kWh battery, and a coach-door Neolun version, Genesis' GV90 aims straight at luxury-SUV royalty",
+      "url": "https://www.carscoops.com/2026/08/genesis-gv90-flagship/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-1024x576.jpg",
       "images": [
-        "https://vg09.met.vgwort.de/na/4838a980b01443a594c91be1656302fa"
+        "https://www.carscoops.com/wp-content/uploads/2026/08/2028-Genesis-GV90-62-copy-1024x576.jpg"
       ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-21T05:33:41+00:00"
+      "source": "CarScoops Genesis",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-21T08:16:42+00:00"
     },
     {
       "id": "f7e27fad7de3a741",
@@ -2178,7 +2215,7 @@
     {
       "id": "8e4c30aae52be746",
       "title": "BMW fast-tracks i3 production as strong demand sparks a major ramp-up",
-      "summary": "BMW is hurrying to ramp up production of the new i3 after opening orders early due to stronger-than-expected demand.",
+      "summary": "BMW is hurrying to ramp up production of the new i3 after opening orders early due to stronger-than-expected demand. more…",
       "url": "https://electrek.co/2026/08/06/bmw-fast-tracks-i3-production-stronger-than-expected-demand/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BMW-i3-demand-production.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -2412,7 +2449,7 @@
     {
       "id": "f606231098e6f423",
       "title": "BMW opens i3 orders months early as buyers rush in",
-      "summary": "The new i3 is here sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest.",
+      "summary": "The new i3 is here sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest. more…",
       "url": "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-EV-orders-open.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -2438,7 +2475,7 @@
     {
       "id": "b228e7d72cd8495a",
       "title": "BMW ramps up iX3 output as orders near 100,000",
-      "summary": "The new BMW iX3 has already received nearly 100,000 orders. Now, BMW is ramping up production at a record pace to meet the strong demand.",
+      "summary": "The new BMW iX3 has already received nearly 100,000 orders. Now, BMW is ramping up production at a record pace to meet the strong demand. more…",
       "url": "https://electrek.co/2026/07/28/bmw-ramps-up-ix3-output-orders-near-100000/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX3-orders.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -2503,7 +2540,7 @@
     {
       "id": "9a8de093686cd627",
       "title": "BMW is finally making the electric convertible we’ve been waiting for",
-      "summary": "BMW is planning an all-electric i4 Convertible for 2028, according to a new report from BMWBLOG citing sources close to the automaker. That would make it one of a small handful of electric convertibles anywhere in the world. Right now, you can buy exactly one new EV convertible in the US, and it starts at $206,095.",
+      "summary": "BMW is planning an all-electric i4 Convertible for 2028, according to a new report from BMWBLOG citing sources close to the automaker. That would make it one of a small handful of electric convertibles anywhere in the world. Right now, you can buy exactly one new EV convertible in the US, and it starts at $206,095. more…",
       "url": "https://electrek.co/2026/07/27/bmw-i4-electric-convertible-2028/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i4-convertible-concept.png?w=1600",
       "images": [
@@ -2542,7 +2579,7 @@
     {
       "id": "05ae7267a0531ae1",
       "title": "BMW iX5 LWB debuts with a range of over 620 miles and a huge Theater Screen [Images]",
-      "summary": "BMW introduced the new iX5 Long Wheelbase in China with a CLTC driving range of over 620 miles (1,000 km) and plenty of digital screens.",
+      "summary": "BMW introduced the new iX5 Long Wheelbase in China with a CLTC driving range of over 620 miles (1,000 km) and plenty of digital screens. more…",
       "url": "https://electrek.co/2026/07/27/bmw-ix5-lwb-debuts-620-miles-range-huge-screens-images/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX5-LWB-range.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -2789,7 +2826,7 @@
     {
       "id": "7bcba80f7a267a7d",
       "title": "The BMW iX4 looks more like a grand tourer than an SUV [Images]",
-      "summary": "The 2027 iX4 is set to join BMW’s electric vehicle lineup soon, bringing a unique new look to the family. Ahead of its debut, the 2027 BMW iX4 was spotted on the road in Germany.",
+      "summary": "The 2027 iX4 is set to join BMW’s electric vehicle lineup soon, bringing a unique new look to the family. Ahead of its debut, the 2027 BMW iX4 was spotted on the road in Germany. more…",
       "url": "https://electrek.co/2026/07/16/bmw-ix4-looks-more-like-gt-than-suv-images/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX4-GT-SUV-2.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -2964,7 +3001,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3153,7 +3190,7 @@
     {
       "id": "f17a67f3c6ae53e1",
       "title": "The BMW iX5 sets the benchmark with 525 miles of range, fast charging [Images]",
-      "summary": "BMW revealed the new X5 on Tuesday, including the first all-electric iX5. The iX5 adopts the Neue Klasse style and tech with an impressive range of up to 525 miles on a single charge.",
+      "summary": "BMW revealed the new X5 on Tuesday, including the first all-electric iX5. The iX5 adopts the Neue Klasse style and tech with an impressive range of up to 525 miles on a single charge. more…",
       "url": "https://electrek.co/2026/06/30/bmw-ix5-sets-benchmark-with-525-miles-range-images/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX5-debut-range.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3185,14 +3222,14 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
     {
       "id": "11673d883570706e",
       "title": "BMW’s new iX5 leaks ahead of its debut with a unique look [Images]",
-      "summary": "BMW will officially unveil the iX5 on June 30, but we are already getting an early look after images leaked online.",
+      "summary": "BMW will officially unveil the iX5 on June 30, but we are already getting an early look after images leaked online. more…",
       "url": "https://electrek.co/2026/06/29/bmw-ix5-leaks-with-unique-look-images/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX5-EV-leaks.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3478,7 +3515,7 @@
     {
       "id": "008d2e899c4f29d6",
       "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
-      "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge.",
+      "summary": "The first electric iX5 will have a massive battery, the largest in a BMW EV yet, that could offer a range of over 500 miles on a single charge. more…",
       "url": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX5-battery-range-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3556,7 +3593,7 @@
     {
       "id": "6482cbcf3a03eb26",
       "title": "BMW put the new iX3 through the paces, and it still drove 500 miles on a single charge",
-      "summary": "BMW drove the new iX3 through heavy rain and snow on public roads, climbing over 6,500 feet up hills, and it still managed 500 miles without stopping to charge.",
+      "summary": "BMW drove the new iX3 through heavy rain and snow on public roads, climbing over 6,500 feet up hills, and it still managed 500 miles without stopping to charge. more…",
       "url": "https://electrek.co/2026/06/12/bmw-new-ix3-drove-500-miles/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX3-500-miles-range.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3582,7 +3619,7 @@
     {
       "id": "76c82a51c642dd75",
       "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
-      "summary": "BMW unveiled the M Concept Neue Klasse on Friday, offering a sneak peek at the all-electric quad-motor i3 M EV.",
+      "summary": "BMW unveiled the M Concept Neue Klasse on Friday, offering a sneak peek at the all-electric quad-motor i3 M EV. more…",
       "url": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-M-Concept-EV-i3.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3621,7 +3658,7 @@
     {
       "id": "ba51b4720c0af7e8",
       "title": "BMW’s new iX3 is off to a hot start with 10,000+ models sold, top-selling EV in its class",
-      "summary": "After deliveries began in April, the new BMW iX3 already looks like it could be the luxury brand’s next hit. BMW has now sold over 10,000 models, and the new iX3 has already become the best-selling EV in its class.",
+      "summary": "After deliveries began in April, the new BMW iX3 already looks like it could be the luxury brand’s next hit. BMW has now sold over 10,000 models, and the new iX3 has already become the best-selling EV in its class. more…",
       "url": "https://electrek.co/2026/06/11/bmws-new-ix3-off-to-hot-start-sales-top-10000/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-new-iX3-sales.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3738,7 +3775,7 @@
     {
       "id": "d2eac86714836ccc",
       "title": "BMW’s new iX3 drove 485 miles on a single charge, the longest-range EV in NAF’s test",
-      "summary": "BMW’s new iX3 beat out the competition, driving 485 miles on a single charge, making it the longest-range EV during Motor and NAF’s summer range test.",
+      "summary": "BMW’s new iX3 beat out the competition, driving 485 miles on a single charge, making it the longest-range EV during Motor and NAF’s summer range test. more…",
       "url": "https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX3-longest-range-EV.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "images": [
@@ -3799,19 +3836,6 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-02T13:46:26+00:00"
-    },
-    {
-      "id": "851e38830ed33c8e",
-      "title": "The BMW M Cars You Can Actually Afford in 2026",
-      "summary": "The average new car in America sold for $49,461 in April 2026, according to Kelley Blue Book. A base 2026 M3 Competition xDrive starts at $88,900. That’s a nearly $40,000 gap, and BMW has spent... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/06/02/bmw-m-performance-cars-affordable-2026/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-performance-automobiles-to-buy-00-830x623.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-m-performance-automobiles-to-buy-00-830x623.jpg"
-      ],
-      "source": "BMW Blog M",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-06-02T05:46:38+00:00"
     }
   ]
 }
