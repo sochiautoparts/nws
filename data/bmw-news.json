@@ -1,15 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-01T04:59:28.169004+00:00",
-  "generated_at_human": "2026-09-01 04:59 UTC",
-  "total_items": 285,
+  "generated_at": "2026-09-01T10:01:00.408541+00:00",
+  "generated_at_human": "2026-09-01 10:01 UTC",
+  "total_items": 282,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
-    "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -54,7 +53,6 @@
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
-    "CarWale IN",
     "Diariomotor",
     "Electrek BMW",
     "Electric Cars Report",
@@ -74,9 +72,22 @@
     "Motorsport WEC",
     "Quatro Rodas BR"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 10,
+  "sources_count": 67,
+  "multi_photo_items": 9,
   "items": [
+    {
+      "id": "6ae8bbcb95fc71a5",
+      "title": "Primeras imágenes del Lexus NX de 2026, el BMW X3 de Toyota se pone al día pero mantiene su motor híbrido",
+      "summary": "Pocos trabajos hay más importantes para un fabricante de automóviles que el de renovar su coche más vendido , ya que, incluso cuando se trata de efectuar un lavado de cara para mantenerlo al día, se trata de un paso crítico que marca el devenir del modelo durante la segunda parte de su vida comercial. Y esta es, precisamente, la tarea que acaba de afrontar Lexus con el que es su coche más importante a nivel global, el Lexus NX , un SUV de tamaño medio que ha recibido el pertinente restyling de media vida para seguir siendo un coche de referencia frente a un número cada vez mayor de…",
+      "url": "https://www.diariomotor.com/noticia/lexus-nx-2027/",
+      "image": "https://www.diariomotor.com/imagenes/2026/09/Lexus-NX-2027-F-Sport-1-6a968d8196310.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/09/Lexus-NX-2027-F-Sport-1-6a968d8196310.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-09-01T11:00:49+00:00"
+    },
     {
       "id": "913790d05f46029f",
       "title": "2028 BMW 5 Series Facelift: What’s Changing (and What Isn’t)",
@@ -369,7 +380,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_ix3_vs_merc_glc_ev_vs_volvo_ex60_group_test_lead.jpg?itok=u9YGSc13"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-31T04:00:00+00:00"
     },
@@ -444,19 +455,6 @@
       "published": "2026-08-30T11:42:00+00:00"
     },
     {
-      "id": "4be0d061e1916c5d",
-      "title": "De nieuwe BMW i4 gaat van start met ... een cabrio! - Vooruitblik",
-      "summary": "De gloednieuwe BMW i3 staat straks naast de welbekende i4 in de showroom, maar er zit ook een geheel nieuwe i4 in het vat. Die begint als cabriolet.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/de-nieuwe-bmw-i4-gaat-van-start-met-een-cabrio-vooruitblik/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/277100077/width/800/277100077",
-      "images": [
-        "https://images.autoweek.nl/277100077/width/800/277100077"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-08-30T08:00:18+00:00"
-    },
-    {
       "id": "1b7fa922c0656e2a",
       "title": "BMW Shouldn’t Just Worry About China. Genesis Is Also A Threat",
       "summary": "BMW has plenty of reasons to keep a close eye on China. Local automakers have become increasingly competitive, particularly in the electric vehicle space. Their spectacular rise has taken its toll on sales of the... First published by https://www.bmwblog.com",
@@ -491,7 +489,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=ACjKA-Dx"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-30T06:00:00+00:00"
     },
@@ -551,19 +549,6 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-08-29T10:00:24+00:00"
-    },
-    {
-      "id": "09ea961c49cfe8b9",
-      "title": "Porsche Cayenne Electric to Debut on 30 September",
-      "summary": "The Cayenne Electric will rival the likes of the BMW iX and the Lotus Eletre.",
-      "url": "https://www.carwale.com/news/porsche-cayenne-electric-to-debut-on-30-september/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/226662/cayenne-ev-exterior-tail-light-tail-lamp.avif?isig=0",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/226662/cayenne-ev-exterior-tail-light-tail-lamp.avif?isig=0"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-08-29T08:45:30+00:00"
     },
     {
       "id": "996fd88f62c9430a",
@@ -648,14 +633,9 @@
       "title": "BMW explains why it’s not interested in F1 entry",
       "summary": "BMW has cited a lack of opportunities for technology transfer as the key reason why it is not interested in joining Mercedes and Audi in Formula 1. The Munich-based manufacturer has remained absent from F1 since it sold its majority stake in Sauber in 2009, despite the series’ growing popularity making it more attractive to carmakers than ever before. The same Sauber team that BMW ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bmw-explains-why-its-not-interested-in-f1-entry-wec-and-imsa-are-better-for-us/10850004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
-        "https://cdn-9.motorsport.com/images/amp/6zoDowp0/s200/ryan-blaney-team-penske.webp",
-        "https://cdn-3.motorsport.com/images/amp/68Vwedl2/s200/joey-logano-team-penske.webp",
-        "https://cdn-1.motorsport.com/images/amp/YN7vbb36/s200/joey-logano-leads-a-group-of-c.webp",
-        "https://cdn-6.motorsport.com/images/amp/YWKAKXyY/s200/joey-logano-team-penske.webp",
-        "https://cdn-5.motorsport.com/images/amp/6O79keJ6/s200/andrea-kimi-antonelli-mercedes.webp"
+        "https://cdn-1.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -727,7 +707,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/toyota_-celica-gr-render-2026-red.jpg?itok=zjbUklbc"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-28T05:00:00+00:00"
     },
@@ -769,19 +749,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-27T20:01:05+00:00"
-    },
-    {
-      "id": "f84e1209c50bb427",
-      "title": "BMW Delivers 2 Million EVs as Neue Klasse Gains Momentum",
-      "summary": "BMW has delivered 2 million fully electric vehicles worldwide. Strong iX3 demand and the new BMW i3 are accelerating the Neue Klasse EV rollout in 2026. The post BMW Delivers 2 Million EVs as Neue Klasse Gains Momentum appeared first on Electric Cars Report .",
-      "url": "https://electriccarsreport.com/2026/08/bmw-delivers-2-million-evs-as-neue-klasse-gains-momentum/",
-      "image": "https://electriccarsreport.com/wp-content/uploads/2025/09/BMW-iX3-2.jpg?a3781e&amp;a3781e",
-      "images": [
-        "https://electriccarsreport.com/wp-content/uploads/2025/09/BMW-iX3-2.jpg?a3781e&amp;a3781e"
-      ],
-      "source": "Electric Cars Report",
-      "source_url": "https://electriccarsreport.com",
-      "published": "2026-08-27T18:23:00+00:00"
     },
     {
       "id": "afb2e9ae298a15d4",
@@ -1861,9 +1828,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1874,9 +1841,9 @@
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-2.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3044,9 +3011,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-4.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3256,7 +3223,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3564,9 +3531,9 @@
       "title": "Le Mans 24h: Toyota beats BMW and Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-6.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
+        "https://cdn-3.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3577,9 +3544,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-6.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3590,9 +3557,9 @@
       "title": "Le Mans 24H, H16: #12 Cadillac out front as Toyota and BMW battle over second",
       "summary": "The #12 Cadillac pulled out a healthy lead at the two-thirds mark in the Le Mans 24 Hours, while Toyota and BMW engaged in a close scrap for second position. The two Jota-run factory Cadillacs moved to the front of the field in the 14th hour, as they leapfrogged the erstwhile-leading #8 Toyota GR010 Hybrid in the pits. However, the #38 Cadillac that had been running second suffered a power ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
+        "https://cdn-5.motorsport.com/images/amp/YBVoD48Y/s6/12-cadillac-hertz-team-jota-ca.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3603,26 +3570,13 @@
       "title": "Le Mans 24h, H8: Safety car blows race wide open",
       "summary": "The safety car has blown the 2026 Le Mans 24 Hours wide open, with no fewer than 14 cars gathered in the lead after the eighth hour of racing. Up until now, the race had turned into a four-way battle between the #8 Toyota, the #20 BMW, and the #12 and #38 Cadillac, whose driver Earl Bamber has set the fastest lap of the race so far. On-track battles featured Jack Aitken (#38 Cadillac) ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h8-safety-car-blows-race-wide-open/10830128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
+        "https://cdn-3.motorsport.com/images/amp/0Ld5bM90/s6/8-toyota-racing-toyota-tr010-h.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
       "published": "2026-06-13T22:12:22+00:00"
-    },
-    {
-      "id": "cd3816fcec1cfc43",
-      "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
-      "summary": "Toyota continues to lead the Le Mans 24 Hours at the end of the fourth hour, cementing its advantage over Cadillac and BMW in the Hypercar class. After an undercut catapulted the #8 Toyota TR010 at the head of the pack in the opening hour, Sebastien Buemi quickly pulled away from the chasing pack, building an advantage of nearly half a minute through his triple stint. Hartley took over the ... Keep reading",
-      "url": "https://www.autosport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg",
-      "images": [
-        "https://cdn-7.motorsport.com/images/amp/63QmGyg2/s6/8-toyota-racing-toyota-tr010-h.jpg"
-      ],
-      "source": "Autosport WEC",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-06-13T18:14:01+00:00"
     },
     {
       "id": "6482cbcf3a03eb26",
