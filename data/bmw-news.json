@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-03T19:46:34.568702+00:00",
-  "generated_at_human": "2026-09-03 19:46 UTC",
-  "total_items": 277,
+  "generated_at": "2026-09-03T22:31:17.890197+00:00",
+  "generated_at_human": "2026-09-03 22:31 UTC",
+  "total_items": 280,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar",
+    "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,13 +41,13 @@
     "BMW Blog concepts",
     "BMW Blog i",
     "BMW Blog i3 tag",
-    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX1 tag",
+    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
     "CarExpert",
     "CarScoops Audi",
@@ -61,6 +61,7 @@
     "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
+    "Hooniverse",
     "HotCars",
     "Motor.es",
     "Motor1 Audi",
@@ -69,11 +70,43 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motorious",
-    "Motorsport WEC"
+    "Motorsport WEC",
+    "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 7,
+  "sources_count": 68,
+  "multi_photo_items": 8,
   "items": [
+    {
+      "id": "06db79bfe0ac45d7",
+      "title": "1987 BMW 325is Coupe 5-Speed at No Reserve",
+      "summary": "This 1987 BMW 325is coupe was initially delivered to John Markel in Omaha, Nebraska, and remained in that state until the current owner's purchase from its long-term prior owner in 2026. Finished in Delphin Gray Metallic over Pearl Beige leather upholstery, it is powered by a 2.5-liter inline-six linked to a five-speed manual transmission. The 325is received a front air dam with fog lights as well as a decklid spoiler, bolstered sport seats, and a sunroof from the factory. Additional equipment includes a limited-slip differential, 14\" basketweave alloy wheels, four-wheel anti-lock disc…",
+      "url": "https://bringatrailer.com/listing/1987-bmw-325is-165/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/DSC8550-scaled-copy-2026-08-31-lcf-09481.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/08/DSC8550-scaled-copy-2026-08-31-lcf-09481.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-09-03T22:05:05+00:00"
+    },
+    {
+      "id": "a2ba16367d51ed3a",
+      "title": "The Volkswagen That Feels More Luxurious Than A BMW",
+      "summary": "This luxury SUV offers a serene driving experience and comfort that surpasses expectations, rivaling BMW's offerings.",
+      "url": "https://www.topspeed.com/volkswagen-that-feels-more-luxurious-than-bmw/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/editedzp1xlg0c.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/editedzp1xlg0c.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/11/image-11-3.jpeg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/editedozvsrrf5.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/edited-volkswagen-touaregdb2023au01203_medium.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/01/edited-volkswagen-touareg20250215_161547.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/edited-volkswagen-touaregdb2023au01205_medium.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-03T20:00:16+00:00"
+    },
     {
       "id": "8de4c8c10db4267c",
       "title": "BMW Recalls 189,000 3, 5, and 7 Series Over Silent Starter Fire Risk",
@@ -353,7 +386,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-03T05:00:00+00:00"
     },
@@ -431,7 +464,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dsc_2276.jpg?itok=ipAdrlVH"
       ],
-      "source": "Autocar",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-02T07:00:00+00:00"
     },
@@ -2705,7 +2738,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX1 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2991,7 +3024,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog i4 tag",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3212,7 +3245,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3306,6 +3339,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty...",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
