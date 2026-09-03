@@ -1,13 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-03T05:44:00.609400+00:00",
-  "generated_at_human": "2026-09-03 05:44 UTC",
-  "total_items": 274,
+  "generated_at": "2026-09-03T11:07:37.016738+00:00",
+  "generated_at_human": "2026-09-03 11:07 UTC",
+  "total_items": 276,
   "sources_used": [
-    "5koleso RU",
     "Auto Bild ES",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,8 +40,9 @@
     "BMW Blog concepts",
     "BMW Blog i",
     "BMW Blog i3 tag",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -53,8 +53,12 @@
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
+    "Crash.net",
+    "Diariomotor",
     "Electrek BMW",
+    "Gaadiwaadi IN",
     "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
@@ -67,11 +71,126 @@
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motorious",
-    "Motorsport WEC"
+    "Motorsport WEC",
+    "TopSpeed"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 8,
+  "sources_count": 69,
+  "multi_photo_items": 7,
   "items": [
+    {
+      "id": "dc1b16d827dac089",
+      "title": "Rear-Wheel-Drive BMW iX3 Availability Expanding To South Africa",
+      "summary": "With nearly 100,000 orders in the books and production already surpassing 50,000 vehicles, it’s safe to say the new iX3 is off to a flying start. It’s all thanks to European demand for the first... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/09/03/2027-bmw-ix3-40-south-africa/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-BMW-iX3-50-xDrive-in-South-Africa-7-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-BMW-iX3-50-xDrive-in-South-Africa-7-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-09-03T10:49:39+00:00"
+    },
+    {
+      "id": "00300caf808f265a",
+      "title": "The Honda ADV With Gold Wing Comfort And Off-Road Capability",
+      "summary": "Rivals like the BMW R 1300 GS and the Ducati Multistrada V4 can't close to matching the immense value on offer with this Honda",
+      "url": "https://www.topspeed.com/the-honda-adv-gold-wing-comfort-off-road-capability/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/568918_26ym_honda_crf1100l_africa_twin_adventure_sports-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/568918_26ym_honda_crf1100l_africa_twin_adventure_sports-1.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/bmw-r-1300-gs-adventure.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/10/tiger-900_rally-pro_my24_20633_jp.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/07/2024-honda-africa-twin-crf1100l-top-down-detail.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/honda-africa-twin-adventure-sports-2026-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/20-honda-crf1100l-africa-twin-adventure-sports-se_engine-guard.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-03T10:46:15+00:00"
+    },
+    {
+      "id": "a3e5be2db613c955",
+      "title": "El Geely E2 se apunta una victoria inesperada frente al BMW iX3: esta vez no ha sido por precio",
+      "summary": "Geely demuestra que sus coches no solo son baratos, también seguros: así pasó el E2 los test Euro NCAP. El utilitario eléctrico chino Geely E2 está llamado a ser uno de los coches protagonistas de este 2026 en Europa. Para aderezar su llegada a nuestro mercado, además de tener un precio realmente atractivo, le suma ahora las cinco estrellas Euro NCAP. Ya no podemos decir aquello de que los coches chinos que llegan a Europa son poco seguros. El organismo encargado de realizar las pruebas de choque en nuestra región, Euro NCAP, ha multiplicado casi por diez los vehículos chinos evaluados…",
+      "url": "https://www.motor.es/noticias/geely-e2-victoria-bmw-ix3-seguridad-pruebas-euro-ncap-2026116194.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/09/geely-e2-victoria-bmw-ix3-seguridad-pruebas-euro-ncap-2026116194-1788425307_4.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/09/geely-e2-victoria-bmw-ix3-seguridad-pruebas-euro-ncap-2026116194-1788425307_4.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-09-03T10:00:00+00:00"
+    },
+    {
+      "id": "01c008aa861a95c6",
+      "title": "BMW makes Miguel Oliveira decision as first 2027 WorldSBK rider confirmed",
+      "summary": "BMW has announced it has re-signed Miguel Oliveira for the 2027 WorldSBK season.",
+      "url": "https://www.crash.net/wsbk/news/1103409/1/bmw-makes-miguel-oliveira-decision-first-2027-worldsbk-rider-confirmed",
+      "image": "https://www.crash.net/sites/default/files/2026-09/p90633889_highres_27th-29th-march-2026.jpg?width=1200",
+      "images": [
+        "https://www.crash.net/sites/default/files/2026-09/p90633889_highres_27th-29th-march-2026.jpg?width=1200",
+        "https://www.crash.net/sites/default/files/2026-06/gng_1324446_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/pictures/picture-alex-w.jpg",
+        "https://www.crash.net/sites/default/files/2026-07/danilo-petrucci-2026-donington-park-worldsbk-09888.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1331384_hires.jpg?aspect_ratio=1:1",
+        "https://www.crash.net/sites/default/files/2026-07/gng_1319694_hires.jpg?aspect_ratio=1:1"
+      ],
+      "source": "Crash.net",
+      "source_url": "https://www.crash.net",
+      "published": "2026-09-03T09:56:53+00:00"
+    },
+    {
+      "id": "eec5fe4f5ff5a16c",
+      "title": "BMW Might Replace The i4 With An Actual Coupe And Even A Convertible",
+      "summary": "BMW may be pulling the plug on the i4 Gran Coupe, but the nameplate won't be gone for long.",
+      "url": "https://www.motor1.com/news/806997/bmw-i4-coupe-convertible-report/",
+      "image": "https://cdn.motor1.com/images/mgl/y29bZm/s3/bmw-i4-coupe-2027-rendering.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/y29bZm/s3/bmw-i4-coupe-2027-rendering.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-09-03T09:49:03+00:00"
+    },
+    {
+      "id": "6ca3f26106f730f1",
+      "title": "El BMW Serie 3 de Toyota es una berlina de perfecto diseño e indestructible motor que necesitamos en España",
+      "summary": "Todavía me genera tristeza el hecho de que dejase de comercializarse en Europa la única berlina japonesa capaz de mirar de tú a tú a los sedanes europeos del segmento D . Pero la moda de los SUV se ha cobrado muchas víctimas de este tipo, haciendo que lanzamientos como el que nos ocupa hoy solo podamos contemplarlos desde la distancia . Y es que Lexus ha presentado una nueva versión de su berlina del segmento D para el mercado americano . Es el Lexus IS Special Appearance Package y, acabado en un intenso color exterior verde, se encarga de recordarnos que la mejor versión del modelo hasta…",
+      "url": "https://www.diariomotor.com/noticia/lexus-is-special-appearance-package/",
+      "image": "https://www.diariomotor.com/imagenes/2026/09/Lexus-IS-Special-Appearance-Package-8-6a9808013d9e7.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/09/Lexus-IS-Special-Appearance-Package-8-6a9808013d9e7.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-09-03T09:00:05+00:00"
+    },
+    {
+      "id": "bb38498b386bef53",
+      "title": "Neue Klasse vor atemberaubender Kulisse: BMW iX3 startet in Südafrika",
+      "summary": "Wenige Monate nach ihrem Marktstart in Europa ist die Neue Klasse nun auch in Südafrika angekommen: Erste Fotos zeigen den BMW iX3 (NA5) unter anderem...",
+      "url": "https://www.bimmertoday.de/2026/09/03/neue-klasse-vor-atemberaubender-kulisse-bmw-ix3-startet-in-sudafrika/",
+      "image": "https://vg09.met.vgwort.de/na/11c83153e3324418a1790d2696a7cb56",
+      "images": [
+        "https://vg09.met.vgwort.de/na/11c83153e3324418a1790d2696a7cb56"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-09-03T05:44:17+00:00"
+    },
+    {
+      "id": "cbb4d15f843e7d8f",
+      "title": "BMW To Likely Launch 3 New Sedans This Month In India",
+      "summary": "GaadiWaadi - BMW will bring the updated 7 Series and i7 to India on September 11, alongside the new locally assembled i5 LWB electric sedan The BMW 7 Series facelift and i7 facelift have already been confirmed to launch this month while the prices of the i5 LWB is also expected to be revealed. The updated 7 […] The post BMW To Likely Launch 3 New Sedans This Month In India appeared first on Gaadiwaadi.com - Latest Car & Bike News by Surendhar M .",
+      "url": "https://gaadiwaadi.com/bmw-to-likely-launch-3-new-sedans-this-month-in-india/",
+      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/08/02-The-first-ever-BMW-i5-LWB-1.jpg",
+      "images": [
+        "https://gaadiwaadi.com/wp-content/uploads/2026/08/02-The-first-ever-BMW-i5-LWB-1.jpg"
+      ],
+      "source": "Gaadiwaadi IN",
+      "source_url": "https://gaadiwaadi.com",
+      "published": "2026-09-03T05:30:48+00:00"
+    },
     {
       "id": "bc534817954e2e2d",
       "title": "Why car makers are putting 'fake' gearboxes in performance EVs",
@@ -79,14 +198,9 @@
       "url": "https://www.autocar.co.uk/car-news/electric-cars/why-car-makers-are-putting-fake-gearboxes-performance-evs",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=6yKUd9sN",
-        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_desktop_v1.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_mobile_v1-01.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/pictures/user-17813-profile_photo.jpg?itok=fg8_XCcL"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-03T05:00:00+00:00"
     },
@@ -110,12 +224,7 @@
       "url": "https://carbuzz.com/most-expensive-diesel-car-in-the-usa-costs-more-than-100000/",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2025-yukon-xl-grille.jpg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2025-yukon-xl-grille.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/02/gm-3-0l-duramax-engine-1.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-gmc-yukon-xl-all-row-seats-side-view.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-gmc-yukon-xl-rear-view.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2025-gmc-yukon-xl-front-angle-view-7.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/9bf8375d79385a07_800x800ar-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2025-yukon-xl-grille.jpg"
       ],
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
@@ -174,19 +283,6 @@
       "published": "2026-09-02T23:45:06+00:00"
     },
     {
-      "id": "efec3732421dce57",
-      "title": "BMW X1 vs X3: Why Spending Extra Might Be The Best Decision If You're Buying Used",
-      "summary": "BMW's X1 and X3 SUVs are favorites in the USA, but which one should you pick if your budget only allows for a used option?",
-      "url": "https://carbuzz.com/bmw-x1-vs-x3-used-buy/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/p90263694_highres_the-new-bmw-x3-xdriv-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/p90263694_highres_the-new-bmw-x3-xdriv-1.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-09-02T21:00:10+00:00"
-    },
-    {
       "id": "7f5f60e7bed563b8",
       "title": "5 BMW Kidney Grilles That Changed the Brand",
       "summary": "BMW’s kidney grille attracts more scrutiny than perhaps any other single automotive design feature. Of course, it’s also one of the most enduring auto design cues, now approaching 100 years of relevance. You don’t attain... First published by https://www.bmwblog.com",
@@ -226,19 +322,6 @@
       "published": "2026-09-02T08:47:18+00:00"
     },
     {
-      "id": "3c2a03b73c427bc5",
-      "title": "El nuevo Polestar 4 SUV recupera la luneta trasera que nunca debió desaparecer del Coupé",
-      "summary": "El nuevo 4 SUV es otro eléctrico, el primer familiar de la gama con aptitudes off-road. Polestar Polestar ya tiene un importante rival para el futuro BMW i3 Touring. Los suecos se han adelantado a Volvo, que también quiere apostar por los familiares eléctricos, con el nuevo Polestar 4 SUV. Un modelo más práctico con hasta 1.665 litros de maletero, y que recupera la típica luneta trasera. Polestar acaba de presentar la variante SUV del Polestar 4, un modelo que no sustituye al Coupé sino que se venderá en paralelo. La firma sueca ha decidido ampliar su gama de coches eléctricos con una…",
-      "url": "https://www.motor.es/noticias/polestar-4-suv-2027-informacion-2026116162.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/polestar-4-suv-2027-informacion-2026116162-1788332881_3.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/polestar-4-suv-2027-informacion-2026116162-1788332881_3.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-02T07:22:05+00:00"
-    },
-    {
       "id": "dc09440e56600132",
       "title": "New Polestar 4 SUV is more practical and £2k cheaper than coupe",
       "summary": "Oddball EV gains a rear window and more range, while undercutting key rivals on price Polestar is looking to build on the success of its best-selling model by adding more space and cutting its price. The new SUV version of the Polestar 4 gains a bigger boot, updated interior tech and a reinstated rear window in a bid to take on rivals such as the BMW iX3 and Mercedes-Benz GLC Electric – and a starting price of £54,750 makes it £2000 cheaper than its sleeker sibling. The line-up will mirror the coupé with both Rear Motor and Dual Motor variants, including a 536bhp Performance version of the…",
@@ -247,7 +330,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dsc_2276.jpg?itok=ipAdrlVH"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-02T07:00:00+00:00"
     },
@@ -468,7 +551,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/12/2027-bmw-m3-za0-electric-prototype-17-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-31T13:12:15+00:00"
     },
@@ -484,19 +567,6 @@
       "source": "Hagerty Media",
       "source_url": "https://www.hagerty.com",
       "published": "2026-08-31T13:00:00+00:00"
-    },
-    {
-      "id": "ebbb711c0d94479a",
-      "title": "Мощность до 1210 сил и зарядка за 9 минут: раскрыт большой кроссовер BYD Denza N8",
-      "summary": "Одной из главных особенностей нового BYD Denza N8 станет 1,1-метровый панорамный экран, который вытянулся вдоль лобового стекла. Однако его нельзя назвать уникальным как для китайского, так и для мирового автопрома. Ранее, например, Changan начал оснащать автомобили марки Avatr подобными экранами. Сходный по исполнению дисплей BMW стала внедрять в новые электрокары линейки Neue Klasse. На панорамный экран […]",
-      "url": "https://5koleso.ru/articles/novosti/moshhnost-do-1210-sil-i-zaryadka-za-9-minut-raskryt-bolshoj-krossover-byd-denza-n8/",
-      "image": "https://5koleso.ru/wp-content/uploads/2026/08/9ed3f0a7gy1igmysfzcx6j23341a9qv9-1-1024x426.jpg",
-      "images": [
-        "https://5koleso.ru/wp-content/uploads/2026/08/9ed3f0a7gy1igmysfzcx6j23341a9qv9-1-1024x426.jpg"
-      ],
-      "source": "5koleso RU",
-      "source_url": "https://5koleso.ru",
-      "published": "2026-08-31T07:49:00+00:00"
     },
     {
       "id": "a9e6f782cb369583",
@@ -533,7 +603,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_ix3_vs_merc_glc_ev_vs_volvo_ex60_group_test_lead.jpg?itok=u9YGSc13"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-08-31T04:00:00+00:00"
     },
@@ -593,19 +663,6 @@
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
       "published": "2026-08-30T07:00:00+00:00"
-    },
-    {
-      "id": "6fe0914508969c5f",
-      "title": "From XM to E46: BMW dealers are re-training to keep classics alive",
-      "summary": "Got an E36 or an E46? You can now give it the new car treatment with main dealer servicing Do you own a BMW 3 Series of the E46 generation, on sale from 1998 to 2006? You already know it's a classic, but now it's official, following BMW's UK appointment of four Classic partners, existing main dealerships equipped and approved to service, repair and restore your old E46 and those generations that came before it – not only 3 Series but all BMW models that ceased production as recently as 2010. You might think all BMW dealers that have held the franchise long enough must have experience with…",
-      "url": "https://www.autocar.co.uk/car-news/features/xm-e46-bmw-dealers-are-re-training-keep-classics-alive",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=ACjKA-Dx",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-dealer-clasic-repairs-jb20260610_2291_0.jpg?itok=ACjKA-Dx"
-      ],
-      "source": "Autocar BMW",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-08-30T06:00:00+00:00"
     },
     {
       "id": "7c19905ba84e059d",
@@ -695,9 +752,9 @@
       "title": "BMW explains why it’s not interested in F1 entry",
       "summary": "BMW has cited a lack of opportunities for technology transfer as the key reason why it is not interested in joining Mercedes and Audi in Formula 1. The Munich-based manufacturer has remained absent from F1 since it sold its majority stake in Sauber in 2009, despite the series’ growing popularity making it more attractive to carmakers than ever before. The same Sauber team that BMW ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bmw-explains-why-its-not-interested-in-f1-entry-wec-and-imsa-are-better-for-us/10850004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
+        "https://cdn-5.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -871,12 +928,7 @@
       "url": "https://www.motor1.com/news/806252/bmw-neue-klasse-pushes-brand/",
       "image": "https://cdn.motor1.com/images/mgl/koKvrB/s3/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/koKvrB/s3/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg",
-        "https://cdn.motor1.com/images/mgl/Oo9kje/s5/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg",
-        "https://cdn.motor1.com/images/mgl/7ZEnKP/s5/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg",
-        "https://cdn.motor1.com/images/mgl/BXZjwA/s5/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg",
-        "https://cdn.motor1.com/images/mgl/9m8qAm/s5/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg",
-        "https://cdn.motor1.com/images/mgl/W8Km0q/s5/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg"
+        "https://cdn.motor1.com/images/mgl/koKvrB/s3/bmw-i5-m60-xdrive-is-two-millionth-all-electric-vehicle-at-dingolfing-plant.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -1034,19 +1086,6 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-08-26T06:35:11+00:00"
-    },
-    {
-      "id": "8a6b124b9b631b38",
-      "title": "Touch- und Spracheingabe im Fokus: Kein Knopf-Comeback bei BMW",
-      "summary": "Mit dem Cockpit der Neuen Klasse hat BMW vor wenigen Monaten auch sein Konzept für die Bedienung von iDrive & Co. umfassend erneuert. Die Richtung...",
-      "url": "https://www.bimmertoday.de/2026/08/26/touch-und-spracheingabe-im-fokus-kein-knopf-comeback-bei-bmw/",
-      "image": "https://vg09.met.vgwort.de/na/b7b50412d28c44f09571f13504aeab51",
-      "images": [
-        "https://vg09.met.vgwort.de/na/b7b50412d28c44f09571f13504aeab51"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-26T05:56:59+00:00"
     },
     {
       "id": "3a1a165a6e9e6c0c",
@@ -1320,19 +1359,6 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-22T07:17:28+00:00"
-    },
-    {
-      "id": "b47d819053b6f487",
-      "title": "China’s Entry-Level BMW iX3 Uses A Different Battery Chemistry",
-      "summary": "The differences between the iX3 sold in China and everywhere else go well beyond the longer wheelbase. Not only is it better equipped and has a nicer interior, but the “NA6” also gets features you... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/22/entry-level-bmw-ix3-different-battery-chemistry/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/08/2026-BMW-iX3-Long-Wheelbase-3-830x623.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-22T06:22:21+00:00"
     },
     {
       "id": "af61e885688910b3",
@@ -1755,9 +1781,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-2.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2388,19 +2414,6 @@
       "published": "2026-07-31T11:34:38+00:00"
     },
     {
-      "id": "b17ff368c4e32040",
-      "title": "BMW Will Flood The Market With New Cars Through 2027",
-      "summary": "Munich has a big agenda for the next 18 months.",
-      "url": "https://www.motor1.com/news/803329/bmw-product-roadmap-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/eo7veE/s3/2027-bmw-x5-40.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/eo7veE/s3/2027-bmw-x5-40.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-07-31T09:22:00+00:00"
-    },
-    {
       "id": "a000aa6c59ed184c",
       "title": "New Mercedes GLA Electric Takes On the BMW iX1: Photo Comparison",
       "summary": "The BMW iX1 has enjoyed a relatively clear run among compact electric luxury SUVs, but its newest rival arrives with several additional years of development. It’s a rival as old as time, too: Mercedes-Benz. The... First published by https://www.bmwblog.com",
@@ -2630,7 +2643,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -2916,7 +2929,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3137,7 +3150,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3237,9 +3250,9 @@
       "title": "Searching For Orcas In A BMW M5 Touring",
       "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty...",
       "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "image": "https://i0.wp.com/www.hooniverse.com/wp-content/uploads/2026/06/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
       "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+        "https://i0.wp.com/www.hooniverse.com/wp-content/uploads/2026/06/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
       ],
       "source": "Hooniverse",
       "source_url": "https://hooniverse.com",
@@ -3621,6 +3634,19 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
+    },
+    {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
