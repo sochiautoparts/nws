@@ -1,13 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-04T00:57:16.446706+00:00",
-  "generated_at_human": "2026-09-04 00:57 UTC",
+  "generated_at": "2026-09-04T05:48:41.412307+00:00",
+  "generated_at_human": "2026-09-04 05:48 UTC",
   "total_items": 279,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -50,6 +50,7 @@
     "Car and Driver BMW",
     "CarScoops Audi",
     "CarScoops BMW",
+    "CarScoops Lucid",
     "CarScoops Mercedes",
     "Crash.net",
     "Diariomotor",
@@ -59,7 +60,6 @@
     "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
-    "Hooniverse",
     "HotCars",
     "Motor.es",
     "Motor1 Audi",
@@ -72,7 +72,7 @@
     "TopSpeed"
   ],
   "sources_count": 66,
-  "multi_photo_items": 7,
+  "multi_photo_items": 6,
   "items": [
     {
       "id": "708c60def0d95c88",
@@ -112,12 +112,7 @@
       "url": "https://www.hotcars.com/bmw-recalls-189000-3-5-and-7-series-over-silent-starter-fire-risk/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-m440d-detail-feature-pic.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-m440d-detail-feature-pic.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/bmw-3-series-front-3_4-angle.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/09/p90543777_highres_the-bmw-760i-protect.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/01/is-m-power-still-relevant_-700hp-540i-vs-700hp-m5-3-4-screenshot.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/2020-bmw-r-1250-gs-feature-pic.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/1982-datsun-maxima-light-detail-pic.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-m440d-detail-feature-pic.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -236,7 +231,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-i3-plant-munich-01-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-03T13:17:59+00:00"
     },
@@ -379,7 +374,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-03T05:00:00+00:00"
     },
@@ -457,7 +452,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dsc_2276.jpg?itok=ipAdrlVH"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-02T07:00:00+00:00"
     },
@@ -2718,7 +2713,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog i3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3225,7 +3220,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3319,19 +3314,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty...",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3709,6 +3691,19 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-07T16:00:15+00:00"
+    },
+    {
+      "id": "b5318e3d4ccc6988",
+      "title": "BMW Beat 23 Other EVs In Range, Then Beat Its Own Too",
+      "summary": "Norway ran 24 electric cars to empty in mild summer weather, and two Chinese models landed at opposite ends of the honesty scale",
+      "url": "https://www.carscoops.com/2026/06/naf-ev-range-test/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/06/Xpeng-X9-BMW-iX3-1024x576.jpg"
+      ],
+      "source": "CarScoops Lucid",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-06-06T20:25:00+00:00"
     },
     {
       "id": "c3ff705537647cd5",
