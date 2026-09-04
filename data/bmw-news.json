@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-04T11:11:29.921734+00:00",
-  "generated_at_human": "2026-09-04 11:11 UTC",
-  "total_items": 272,
+  "generated_at": "2026-09-04T16:17:27.326779+00:00",
+  "generated_at_human": "2026-09-04 16:17 UTC",
+  "total_items": 273,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
+    "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -41,20 +42,20 @@
     "BMW Blog concepts",
     "BMW Blog i",
     "BMW Blog i3 tag",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Bring a Trailer",
     "Car and Driver BMW",
+    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
-    "Crash.net",
     "Electrek",
     "Electrek BMW",
-    "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
     "Hooniverse",
@@ -64,12 +65,102 @@
     "Motor1 Genesis",
     "Motor1 Land Rover",
     "Motor1 Volvo",
-    "Motorious",
     "Motorsport WEC"
   ],
   "sources_count": 62,
-  "multi_photo_items": 6,
+  "multi_photo_items": 5,
   "items": [
+    {
+      "id": "6ef5c33b77f82c71",
+      "title": "No todos los coches se van de precio: el Livan X3 Pro, ahora desde menos de 15.000 euros",
+      "summary": "El Livan X3 Pro, en su variante con cambio manual, se sitúa en el mismo terreno y precio que el MG ZS. La marca apoyada por el grupo Geely anuncia sus ofertas para el mes de septiembre, ofreciendo unas opciones muy atractivas tanto para el X3 PRO, tanto con cambio automático como manual, así como el X6 PRO para quien busque la comodidad de un SUV. De entre todas las marcas chinas existentes en el mercado y que hayan llegado a España en tiempos recientes, hay una que ha apostado por una receta clásica, cual chef joven y moderno que se dedica en cuerpo y alma a refinar su tortilla de patatas…",
+      "url": "https://www.motor.es/noticias/ofertas-septiembre-livan-x3-x6-pro-2026116240.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/09/no-todos-los-coches-se-van-de-precio-el-livan-x3-pro-ahora-desde-menos-de-15000-euros-2026116240-1788531725_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/09/no-todos-los-coches-se-van-de-precio-el-livan-x3-pro-ahora-desde-menos-de-15000-euros-2026116240-1788531725_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-09-04T16:00:00+00:00"
+    },
+    {
+      "id": "e3a8fd5d3011fed6",
+      "title": "Las llantas grandes pueden hacerte perder hasta 73 km de autonomía en un coche eléctrico, y nadie te lo cuenta",
+      "summary": "Llaman mucho la atención por bonitas y por grandes, demasiado lastre para la autonomía de los eléctricos. BMW Las llantas grandes siempre han subido el consumo en los coches de combustión, pero era un problema menor, cuestión de segundos extra en el surtidor. En los eléctricos, la misma diferencia de tamaño puede recortar hasta 73 kilómetros de autonomía real, convirtiendo una decisión estética en un problema práctico serio. Durante décadas, elegir unas llantas grandes para el coche nuevo ha sido, sobre todo, una cuestión de estética. Un coche con llantas de 20 pulgadas siempre ha lucido…",
+      "url": "https://www.motor.es/noticias/coche-electrico-llantas-autonomia-2026116236.html",
+      "image": "https://static.motor.es/fotos-noticias/2026/09/coches-2026116236-1788521220_1.jpg",
+      "images": [
+        "https://static.motor.es/fotos-noticias/2026/09/coches-2026116236-1788521220_1.jpg"
+      ],
+      "source": "Motor.es",
+      "source_url": "https://www.motor.es",
+      "published": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "id": "5ebacae38c8df81e",
+      "title": "Forget The BMW 7 Series: This $27,000 Twin-Turbo V8 Cadillac Comes With A 15-Year Warranty",
+      "summary": "If you're after a cheap high-end luxury car that won't break the bank, Cadillac's discontinued sofa-on-wheels stands out as a bit of a bargain.",
+      "url": "https://carbuzz.com/cadillac-ct6-twin-turbo-v6-current-value-with-warranty-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2019-cadillac-ct6-tail.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2019-cadillac-ct6-tail.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-04T13:45:10+00:00"
+    },
+    {
+      "id": "76efa21dac138f3f",
+      "title": "BMW iX3 Tows And Powers Mobile Photo Studio Across France",
+      "summary": "The iX3 is taking on a rather unusual job as BMW is putting the first Neue Klasse EV to work as a tow vehicle. It also doubles as a mobile power source for a traveling... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/09/04/new-bmw-ix3-tows-powers-mobile-photo-studio/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/09/New-BMW-iX3-tows-mobile-photo-studio-6-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/09/New-BMW-iX3-tows-mobile-photo-studio-6-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-09-04T13:28:41+00:00"
+    },
+    {
+      "id": "6dfc0ff117968638",
+      "title": "1993 BMW 850Ci at No Reserve",
+      "summary": "This black-on-black 1993 BMW 850Ci was purchased by the seller in 2024 and has 77k miles. Powered by a 5.0-liter M70 V12 linked to a four-speed automatic transmission, the car features revised mufflers, an aftermarket ECU chip, a power-operated sunroof, fog lights, 18\" Style 37 M Parallel wheels, a cassette stereo, dual-zone automatic climate control, heated power-adjustable front seats, and cruise control. This E31 is offered at no reserve with manufacturer's literature, three keys, an alarm system remote, spare throttle body encoders, a Carfax report, and a Wisconsin title in the…",
+      "url": "https://bringatrailer.com/listing/1993-bmw-850ci-80/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_2174-scaled-copy-2026-08-28-gl1-33217.jpeg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_2174-scaled-copy-2026-08-28-gl1-33217.jpeg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-09-04T13:10:10+00:00"
+    },
+    {
+      "id": "23e62cc05726e6f0",
+      "title": "De BMW 5-serie Touring wordt vernieuwd en gaat de Neue Klasse achterna",
+      "summary": "Hoewel de huidige generatie BMW 5-serie nog helemaal niet zo oud is, staat hij op het punt grondig te worden vernieuwd. Dat moet ook wel: op diverse vlakken zijn modellen als de iX3 en de nieuwe X5/iX5 hem voorbijgestreefd.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/de-bmw-5-serie-touring-wordt-vernieuwd-en-gaat-de-neue-klasse-achterna/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/277388221/width/800/277388221",
+      "images": [
+        "https://images.autoweek.nl/277388221/width/800/277388221"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-09-04T12:16:59+00:00"
+    },
+    {
+      "id": "b5cf4115ffae727a",
+      "title": "BMW Regensburg Plant Pairs Batteries With Bodies For Neue Klasse",
+      "summary": "BMW is making another major production investment as the Neue Klasse rollout begins. This time, its Regensburg plant in Germany has completed several hundred structural and equipment upgrades. These changes were necessary to prepare the... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/09/04/bmw-regensburg-plant-pairs-batteries-bodies-neue-klasse/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/09/BMW-Regensburg-Plant-pairs-batteries-with-car-bodies-1-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/09/BMW-Regensburg-Plant-pairs-batteries-with-car-bodies-1-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-09-04T11:40:05+00:00"
+    },
     {
       "id": "339101e44a21132a",
       "title": "New BMW iX3 Makes Public Debut In Brazil At Interlagos Car Show",
@@ -116,12 +207,7 @@
       "url": "https://www.autoexpress.co.uk/lexus/rx/370372/hot-new-lexus-rx-high-performance-suv-nobody-saw-coming",
       "image": "https://media.autoexpress.co.uk/image/private/s--yNMmrxwM--/t_rss_image_w_845/v1788512026/autoexpress/2026/09/Hot%20Lexus%20RX.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--yNMmrxwM--/t_rss_image_w_845/v1788512026/autoexpress/2026/09/Hot%20Lexus%20RX.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--e7VZgNbD--/f_auto,t_author-mobile@1/v1570211866/autoexpress/dsc_7774.jpg",
-        "https://www.autoexpress.co.uk/lexus/rx/370372/t_author-desktop@1/v1570211866/autoexpress/dsc_7774.jpg",
-        "https://www.autoexpress.co.uk/lexus/rx/370372/t_author-mobile@1/v1570211866/autoexpress/dsc_7774.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--yNMmrxwM--/f_auto,t_primary-image-mobile@1/v1788512026/autoexpress/2026/09/Hot%20Lexus%20RX.jpg",
-        "https://www.autoexpress.co.uk/lexus/rx/370372/t_primary-image-desktop@1/v1788512026/autoexpress/2026/09/Hot%20Lexus%20RX.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--yNMmrxwM--/t_rss_image_w_845/v1788512026/autoexpress/2026/09/Hot%20Lexus%20RX.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -139,19 +225,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-04T08:38:06+00:00"
-    },
-    {
-      "id": "08c1d732e3fc570d",
-      "title": "Miguel Oliveira hoping to tap into “unreached potential” with new BMW WorldSBK deal",
-      "summary": "Miguel Oliveira says there is “unreached potential” to tap into with BMW in WorldSBK 2027.",
-      "url": "https://www.crash.net/wsbk/news/1103435/1/miguel-oliveira-hoping-tap-unreached-potential-new-bmw-worldsbk-deal",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1331386_hires.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-09/gng_1331386_hires.jpg?width=1200"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-09-04T08:08:01+00:00"
     },
     {
       "id": "09891d4c75555cd6",
@@ -235,19 +308,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-03T14:14:53+00:00"
-    },
-    {
-      "id": "eef8bf3cee097921",
-      "title": "El nuevo BMW i3, un Geely muy esperado, lo último de Dongfeng y un Hyundai familiar; los estrenos más destacados en agosto de 2026",
-      "summary": "En agosto de 2026 han llegado a España nuevos modelos como el BMW i3 y el Geely E2. En agosto de 2026 se han producido importantes estrenos en el mercado automovilístico español. Han llegado a los concesionarios nuevos vehículos que serán protagonistas en sus respectivos segmentos. Llega el nuevo BMW i3, un Geely eléctrico muy esperado, lo último de Dongfeng y un Hyundai familiar. El mercado automovilístico español acelera su crecimiento. En agosto de 2026 las ventas de coches nuevos en España han contabilizado 68.544 unidades . Esta cantidad de matriculaciones, si se compara con la…",
-      "url": "https://www.motor.es/noticias/nuevos-coches-espana-2026-agosto-2026116197.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/nuevos-coches-espana-2026-agosto-2026116197-1788428532_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/nuevos-coches-espana-2026-agosto-2026116197-1788428532_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-03T14:00:00+00:00"
     },
     {
       "id": "e376b23eae6a358a",
@@ -349,7 +409,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-03T05:00:00+00:00"
     },
@@ -427,7 +487,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dsc_2276.jpg?itok=ipAdrlVH"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-02T07:00:00+00:00"
     },
@@ -466,22 +526,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/i3-v-i4-hero-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-01T21:45:37+00:00"
-    },
-    {
-      "id": "fba4a1991cdfd604",
-      "title": "This Track-Ready 1976 BMW 2002 Is a Blue-Blooded Giant Killer Worth Chasing",
-      "summary": "A final-year 1976 BMW 2002 has been turned into a track-ready racer with a built M10 engine, roll cage, and coilover suspension — and it's up for bid now on Hagerty Marketplace.",
-      "url": "https://www.motorious.com/articles/all/this-track-ready-1976-bmw-2002-is-a-blue-blooded-giant-killer-worth-chasing/",
-      "image": "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/08/Screenshot-2026-08-31-at-12.50.12---PM.png",
-      "images": [
-        "https://storage.ghost.io/c/62/cf/62cf4eaa-3504-4d7c-bf19-95873eb32115/content/images/2026/08/Screenshot-2026-08-31-at-12.50.12---PM.png"
-      ],
-      "source": "Motorious",
-      "source_url": "https://motorious.com",
-      "published": "2026-09-01T21:30:18+00:00"
     },
     {
       "id": "8d82594555d3b562",
@@ -492,7 +539,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/Lexus-NX-vs-BMW-X3-G45-Hero-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X3",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-01T19:01:54+00:00"
     },
@@ -627,19 +674,6 @@
       "published": "2026-08-31T13:12:15+00:00"
     },
     {
-      "id": "89a74a7c12229dcf",
-      "title": "Semi-Stalking Yet Another BMW Unicorn",
-      "summary": "Those of you who have been reading me for a while know that I have a thing for BMW wagons. I owned a 1999 E39 528iT stick sport-package wagon about 15 years ago, which was a very cool car other than eating me alive with its constant needs. I then bought an E46 325XiT stick, […]",
-      "url": "https://www.hagerty.com/media/opinion/the-hack-mechanic/semi-stalking-yet-another-bmw-unicorn/",
-      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/08/Hack-Mechanic-Mishandling-Unicorn-lede.jpg",
-      "images": [
-        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/08/Hack-Mechanic-Mishandling-Unicorn-lede.jpg"
-      ],
-      "source": "Hagerty Media",
-      "source_url": "https://www.hagerty.com",
-      "published": "2026-08-31T13:00:00+00:00"
-    },
-    {
       "id": "a9e6f782cb369583",
       "title": "BMW M5 Facelift 2027: Weniger Neue Klasse als gedacht?",
       "summary": "Bleibt das BMW M5 Facelift 2027 doch näher am aktuellen Look als an der Formensprache der Neuen Klasse? Genau das will BMWblog.com erfahren haben, denn...",
@@ -730,11 +764,11 @@
       "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M-EV-Neue-Klasse-report-1024x576.jpg",
       "images": [
         "https://www.carscoops.com/wp-content/uploads/2026/08/BMW-M-EV-Neue-Klasse-report-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Carscoops-Fake-AI-Dealer-We-2048x1155.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-8-copy-1-2048x1153.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-13-copy-1-2048x1153.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-14-copy-1-2048x1152.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-3-copy-1-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-3-copy-1-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M-Concept-Neue-Klasse-4-copy-1-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -810,9 +844,9 @@
       "title": "BMW explains why it’s not interested in F1 entry",
       "summary": "BMW has cited a lack of opportunities for technology transfer as the key reason why it is not interested in joining Mercedes and Audi in Formula 1. The Munich-based manufacturer has remained absent from F1 since it sold its majority stake in Sauber in 2009, despite the series’ growing popularity making it more attractive to carmakers than ever before. The same Sauber team that BMW ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bmw-explains-why-its-not-interested-in-f1-entry-wec-and-imsa-are-better-for-us/10850004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
-        "https://cdn-9.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
+        "https://cdn-2.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1310,19 +1344,6 @@
       "published": "2026-08-24T14:01:31+00:00"
     },
     {
-      "id": "6ae010d9e86274f4",
-      "title": "BMW Brings New (And Old) Cars To Chengdu Auto Show: Video",
-      "summary": "BMW may be falling hard in China, but it’s not about to wave the white flag. With a new influx of models, the company aims to bounce back and win over customers it has lost... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/08/24/bmw-at-2026-chengdu-auto-show/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-BMW-iX3-Long-Wheelbase-830x651.jpg"
-      ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-08-24T13:21:49+00:00"
-    },
-    {
       "id": "ca90a9df4d243e56",
       "title": "BMW Is Killing Buttons Because Young People Would Rather Talk To Their Cars",
       "summary": "In BMW’s vision, voice and touch commands are the future, while physical controls are becoming a thing of the past.",
@@ -1782,9 +1803,9 @@
       "title": "BMW’s ascent from an also-ran to WEC title contender",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-6.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2062,19 +2083,6 @@
       "source": "BMW Blog 8 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-10T16:28:26+00:00"
-    },
-    {
-      "id": "48a151adddd2cc9d",
-      "title": "A Teen Drove A BMW 100 MPH And Killed Two People. He Got Six Months",
-      "summary": "The sentencing of a 19-year-old BMW driver has reignited questions about speeding, driver training and accountability",
-      "url": "https://www.carscoops.com/2026/08/bmw-crash-sentence/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/08/afdagreht-1024x576.jpg"
-      ],
-      "source": "CarScoops BMW",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-08-10T00:10:00+00:00"
     },
     {
       "id": "bdf6f4010e2cb034",
@@ -2917,7 +2925,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
