@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-05T00:53:29.963783+00:00",
-  "generated_at_human": "2026-09-05 00:53 UTC",
-  "total_items": 272,
+  "generated_at": "2026-09-05T05:39:38.846713+00:00",
+  "generated_at_human": "2026-09-05 05:39 UTC",
+  "total_items": 275,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
-    "Autocar BMW i",
+    "AutoWeek News",
+    "Autocar BMW M",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -44,10 +45,13 @@
     "BMW Blog i4 tag",
     "BMW Blog i8 tag",
     "BMW Blog iX3 tag",
+    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
     "Car and Driver BMW",
+    "CarBuzz",
+    "CarScoops AMG",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -56,7 +60,6 @@
     "Hagerty News",
     "Hagerty People",
     "Hooniverse",
-    "HotCars",
     "Motor.es",
     "Motor1 Audi",
     "Motor1 BMW",
@@ -66,9 +69,45 @@
     "Motorsport WEC",
     "The Drive"
   ],
-  "sources_count": 61,
-  "multi_photo_items": 5,
+  "sources_count": 64,
+  "multi_photo_items": 7,
   "items": [
+    {
+      "id": "000a3cb48db2816d",
+      "title": "Diving Board Driver: 1975 BMW 2002",
+      "summary": "We often try and shy away from restored cars but when a specimen was restored many years ago and is holding together well, it seems to edge closer to the “preserved” category. The 1975 BMW 2002 shown here represents... Read More »",
+      "url": "https://barnfinds.com/diving-board-driver-1975-bmw-2002/",
+      "image": "https://barnfinds.com/wp-content/uploads/2026/09/Diving-Board-Bumpers-3-630x390.jpg",
+      "images": [
+        "https://barnfinds.com/wp-content/uploads/2026/09/Diving-Board-Bumpers-3-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/09/1975-BMW-2002-e1788553803133-630x390.webp",
+        "https://barnfinds.com/wp-content/uploads/2026/09/1975-BMW-2002-interior-630x390.webp",
+        "https://barnfinds.com/wp-content/uploads/2026/09/1975-BMW-2002-back-seat-630x390.webp",
+        "https://barnfinds.com/wp-content/uploads/2026/09/2002-siennabraun-630x390.jpg",
+        "https://barnfinds.com/wp-content/uploads/2026/09/1959-Triumph-TR3A-1-120x120.jpeg"
+      ],
+      "source": "BarnFinds",
+      "source_url": "https://barnfinds.com",
+      "published": "2026-09-05T03:00:00+00:00"
+    },
+    {
+      "id": "0be2224bf7417dd6",
+      "title": "Hyundai And Kia Just Set A US Sales Record While BMW Cuts 8,000 EV Jobs",
+      "summary": "Hyundai and Kia hit a US sales record in H1 2026, driven by hybrid growth, as BMW cuts 8,000 EV jobs amid slumping demand.",
+      "url": "https://carbuzz.com/hyundai-kia-bmw-sales-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2023-2025-kia-sportage-hybrid-5th-gen-nq5-rear-light.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2023-2025-kia-sportage-hybrid-5th-gen-nq5-rear-light.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026-hyundai-tucson-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026-bmw-i4-m60.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2024-2025-hyundai-sonata-hybrid-8th-gen-dn8-facelift-rear-angle-view-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2028-mercedes-benz-gla-class-electric-exterior-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2024-2026-chevrolet-equinox-ev-1st-gen-43.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-05T02:10:11+00:00"
+    },
     {
       "id": "ff50b5ae90274be4",
       "title": "This Independent BMW Mechanic Built a Cooler Digital Dash Than BMW Itself",
@@ -94,19 +133,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-04T17:28:31+00:00"
-    },
-    {
-      "id": "ac73ec2ee5fff004",
-      "title": "Lexus Is Going Electric, And The Sports Sedan War Just Got Interesting",
-      "summary": "The new Lexus ES 350e and 500e go fully electric while BMW's 3 Series sticks to hybrid combustion. Here's what that philosophical split means for luxury-sedan buyers.",
-      "url": "https://www.hotcars.com/lexus-es-electric-vs-bmw-3-series/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/2027-lexus-es-3.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/2027-lexus-es-3.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-09-04T16:21:57+00:00"
     },
     {
       "id": "6ef5c33b77f82c71",
@@ -330,7 +356,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-i3-plant-munich-01-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-03T13:17:59+00:00"
     },
@@ -421,7 +447,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche_taycan_e-shift_paddles.jpg?itok=_Him481x"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-03T05:00:00+00:00"
     },
@@ -499,7 +525,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dsc_2276.jpg?itok=ipAdrlVH"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-02T07:00:00+00:00"
     },
@@ -856,9 +882,9 @@
       "title": "BMW explains why it’s not interested in F1 entry",
       "summary": "BMW has cited a lack of opportunities for technology transfer as the key reason why it is not interested in joining Mercedes and Audi in Formula 1. The Munich-based manufacturer has remained absent from F1 since it sold its majority stake in Sauber in 2009, despite the series’ growing popularity making it more attractive to carmakers than ever before. The same Sauber team that BMW ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bmw-explains-why-its-not-interested-in-f1-entry-wec-and-imsa-are-better-for-us/10850004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
-        "https://cdn-6.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
+        "https://cdn-8.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1185,6 +1211,19 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T00:13:59+00:00"
+    },
+    {
+      "id": "61d6f4ebefdace52",
+      "title": "Waymo Is Taking Its Robotaxis into BMW’s Backyard",
+      "summary": "The autonomous-driving company will begin testing in Munich within weeks ahead of a potential fully driverless service in late 2027.",
+      "url": "https://www.autoweek.com/news/a73524631/waymo-robotaxis-to-munich-germany/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-25T20:00:58+00:00"
     },
     {
       "id": "0d5c5f7d30f23a2d",
@@ -2240,6 +2279,19 @@
       "published": "2026-08-05T11:41:00+00:00"
     },
     {
+      "id": "46addcaf6647ce16",
+      "title": "Mercedes-AMG’s Latest EV Is Already Breaking Lap Records",
+      "summary": "The 671 hp CLA 45 lapped the Green Hell in 7:32.070, which is quicker than a BMW M2",
+      "url": "https://www.carscoops.com/2026/08/mercedes-amg-cla-45-ev-lap-record/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/08/Mercedes-CLA-45-Ring-Record-1024x576.jpg"
+      ],
+      "source": "CarScoops AMG",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-08-05T00:18:00+00:00"
+    },
+    {
       "id": "49c5943eb9072767",
       "title": "Do BMW M Cars Really Hold Their Value Better in 2026?",
       "summary": "Part of the allure of buying the full-fat M model over the base model is performance. But there are several other benefits often used to sell the more expensive car over the entry level version.... First published by https://www.bmwblog.com",
@@ -2638,7 +2690,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog i3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3145,7 +3197,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
