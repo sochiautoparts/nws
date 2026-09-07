@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-07T18:14:47.871123+00:00",
-  "generated_at_human": "2026-09-07 18:14 UTC",
-  "total_items": 272,
+  "generated_at": "2026-09-07T21:59:07.390679+00:00",
+  "generated_at_human": "2026-09-07 21:59 UTC",
+  "total_items": 274,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
-    "Autocar BMW M",
+    "AutoWeek News",
+    "Autocar",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -48,8 +49,8 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver News",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -58,6 +59,7 @@
     "Hagerty News",
     "Hagerty People",
     "Hooniverse",
+    "HotCars",
     "Motor.es",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -66,12 +68,42 @@
     "Motoring World IN",
     "Motorious",
     "Motorsport WEC",
-    "RushLane IN",
-    "TopSpeed"
+    "RushLane IN"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 7,
+  "sources_count": 65,
+  "multi_photo_items": 8,
   "items": [
+    {
+      "id": "a8f45c51b73ac896",
+      "title": "«Гусь» для зумеров: тест BMW F 450 GS",
+      "summary": "BMW F 450 GSЦена: от 1 100 000 р.В продаже: с 2026 г. Стильный, модный, молодежный, да еще и подтянутый по дизайну к флагманскому BMW R 1300 GS — устоять невозможно! Класс компактных среднекубатурных турэндуро сейчас один из самых популярных и конкурентных на рынке. Со своим G 310 GS баварцы выглядели там аутсайдерами, и появление нового мотоцикла было лишь вопросом времени. […]",
+      "url": "https://5koleso.ru/articles/moto/gus-dlya-zumerov-test-bmw-f-450-gs/",
+      "image": "https://5koleso.ru/wp-content/uploads/2026/09/bmw-f-450-gs.jpg",
+      "images": [
+        "https://5koleso.ru/wp-content/uploads/2026/09/bmw-f-450-gs.jpg"
+      ],
+      "source": "5koleso RU",
+      "source_url": "https://5koleso.ru",
+      "published": "2026-09-07T19:18:23+00:00"
+    },
+    {
+      "id": "0ce4ce2cf75337b7",
+      "title": "10 Sleeper Sedans To Buy Instead Of A New BMW 3 Series",
+      "summary": "BMW's sporty 3 Series is a popular gearhead choice, but these cheap sleepers blow it out of the water.",
+      "url": "https://www.hotcars.com/ten-sleeper-sedans-buy-instead-of-new-bmw-3-series/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/10/2003-rs6-audi.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/2006-mercedes-amg-e55.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/pontiac-g8-gxp.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/cadillac_cts-v_20.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/2010-lexus-is-f.jpeg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-07T18:27:54+00:00"
+    },
     {
       "id": "759d96814ebe582c",
       "title": "Euro 1968 BMW 1600-2",
@@ -84,19 +116,6 @@
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
       "published": "2026-09-07T18:00:15+00:00"
-    },
-    {
-      "id": "fd3559ee7024a46d",
-      "title": "The Affordable Luxury Cars Worth Buying In 2026",
-      "summary": "The 10 best affordable luxury cars of 2026, ranked by score. From the Acura Integra to the BMW 330i, all under $50,000.",
-      "url": "https://www.topspeed.com/affordable-luxury-cars-worth-buying/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/2026-acura-integra-4.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/2026-acura-integra-4.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-09-07T16:00:15+00:00"
     },
     {
       "id": "f0fceeb0644687b1",
@@ -136,7 +155,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/05/BMW-M3-CS-Handschalter-New-12-2048x1366.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-M2-xDrive-20277-2048x1366.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/09/GM-AI-assistant-reports-2048x1153.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/LPR-Context-2048x1152.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/GMC-HUMMER-EV-ICON-25-NACS-INLET-copy-2048x1152.jpg"
       ],
       "source": "CarScoops BMW",
       "source_url": "https://www.carscoops.com",
@@ -330,7 +349,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/f6586573-9de5-44a0-81bf-2ce2b60db0dc.jpeg?crop=1xw:1xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-09-06T15:00:00+00:00"
     },
@@ -447,7 +466,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche-cayenne-triple-test-2026-001.jpg?itok=7gke-QTX"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-05T07:00:00+00:00"
     },
@@ -608,7 +627,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-i3-plant-munich-01-830x554.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-03T13:17:59+00:00"
     },
@@ -1328,6 +1347,19 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T00:13:59+00:00"
+    },
+    {
+      "id": "61d6f4ebefdace52",
+      "title": "Waymo Is Taking Its Robotaxis into BMW’s Backyard",
+      "summary": "The autonomous-driving company will begin testing in Munich within weeks ahead of a potential fully driverless service in late 2027.",
+      "url": "https://www.autoweek.com/news/a73524631/waymo-robotaxis-to-munich-germany/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-25T20:00:58+00:00"
     },
     {
       "id": "0d5c5f7d30f23a2d",
@@ -2729,7 +2761,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog i3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3223,7 +3255,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
