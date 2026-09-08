@@ -1,11 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-07T21:59:07.390679+00:00",
-  "generated_at_human": "2026-09-07 21:59 UTC",
-  "total_items": 274,
+  "generated_at": "2026-09-08T00:16:48.734649+00:00",
+  "generated_at_human": "2026-09-08 00:16 UTC",
+  "total_items": 279,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
+    "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
@@ -42,8 +43,8 @@
     "BMW Blog concepts",
     "BMW Blog i",
     "BMW Blog i3 tag",
+    "BMW Blog i4 tag",
     "BMW Blog i8 tag",
-    "BMW Blog iX tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -51,6 +52,8 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
+    "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -58,7 +61,6 @@
     "Electrek BMW",
     "Hagerty News",
     "Hagerty People",
-    "Hooniverse",
     "HotCars",
     "Motor.es",
     "Motor1 BMW",
@@ -70,9 +72,133 @@
     "Motorsport WEC",
     "RushLane IN"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 8,
+  "sources_count": 67,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "192dbea9ef87e8c9",
+      "title": "This BMW M350 Might Be Better Than the M340i Ever Was – First Drive Review",
+      "summary": "I have been on this Miramas skid pad before, in an iX3, trying and failing to get it sideways. The Heart of Joy software made that car feel like it was driving itself out of... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/09/07/bmw-m350-xdrive-prototype-first-drive-review/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-bmw-m350-review-57-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-bmw-m350-review-57-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-09-07T23:42:54+00:00"
+    },
+    {
+      "id": "8e4d05e672040901",
+      "title": "Lexus UX production wrapping, replacement yet to be announced",
+      "summary": "Lexus is set to end production of its rival to the popular Audi Q3 and BMW X1, leaving the LBX as its only SUV positioned below the mid-size NX.",
+      "url": "https://www.carexpert.com.au/car-news/lexus-ux-production-wrapping-replacement-yet-to-be-announced",
+      "image": "https://images.carexpert.com.au/cms/v1/media/2026-lexus-ux300h-luxury-2wd-22.jpg",
+      "images": [
+        "https://images.carexpert.com.au/cms/v1/media/2026-lexus-ux300h-luxury-2wd-22.jpg"
+      ],
+      "source": "CarExpert",
+      "source_url": "https://carexpert.com.au",
+      "published": "2026-09-07T22:34:00+00:00"
+    },
+    {
+      "id": "20ba291a76f05627",
+      "title": "New BMW 3 Series prototype review: a thrilling exec for the modern era",
+      "summary": "We hit the road in the a prototype version of the new BMW 3 Series, and signs are very promising",
+      "url": "https://www.autoexpress.co.uk/bmw/3-series/370388/new-bmw-3-series-prototype-review-thrilling-exec-modern-era",
+      "image": "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/f_auto,t_primary-image-mobile@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://www.autoexpress.co.uk/bmw/3-series/370388/t_primary-image-desktop@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://www.autoexpress.co.uk/bmw/3-series/370388/t_primary-image-mobile@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--4SNG0fFy--/f_auto,t_content-image-full-mobile@1/v1788795639/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-5.jpg",
+        "https://www.autoexpress.co.uk/bmw/3-series/370388/t_content-image-full-desktop@1/v1788795639/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-5.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-09-07T22:05:37+00:00"
+    },
+    {
+      "id": "72d0e430066ba1ec",
+      "title": "New BMW M350 xDrive prototype - pictures",
+      "summary": "Pictures of the new BMW M350 xDrive prototype",
+      "url": "https://www.autoexpress.co.uk/road-tests/370387/new-bmw-m350-xdrive-prototype-pictures",
+      "image": "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/f_auto,t_content-image-full-mobile@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://www.autoexpress.co.uk/road-tests/370387/t_content-image-full-desktop@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://www.autoexpress.co.uk/road-tests/370387/t_content-image-full-mobile@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--4SNG0fFy--/f_auto,t_content-image-full-mobile@1/v1788795639/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-5.jpg",
+        "https://www.autoexpress.co.uk/road-tests/370387/t_content-image-full-desktop@1/v1788795639/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-5.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-09-07T22:05:26+00:00"
+    },
+    {
+      "id": "1a81b147624eda6b",
+      "title": "BMW M350 G50: Sechszylinder-3er kommt mit 443 PS & Drift-Modus",
+      "summary": "Mit dem BMW M350 xDrive erhält der nächste 3er (G50) noch Ende 2026 ein M Performance Modell, das noch mehr Fahrspaß als der scheidende M340i...",
+      "url": "https://www.bimmertoday.de/2026/09/08/bmw-m350-g50-sechszylinder-3er-kommt-mit-443-ps-drift-modus/",
+      "image": "https://vg09.met.vgwort.de/na/b8aeb0756ad74cf5a1c75140e040cede",
+      "images": [
+        "https://vg09.met.vgwort.de/na/b8aeb0756ad74cf5a1c75140e040cede"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-09-07T22:02:44+00:00"
+    },
+    {
+      "id": "683d8937a81afe6f",
+      "title": "BMW 3er G50: Mehr Infos zum G20-Nachfolger mit Vier- und Sechszylinder",
+      "summary": "Die nächste Generation der BMW 3er-Reihe wirft ihre Schatten immer konkreter voraus: Wenige Wochen vor der offiziellen Enthüllung zeigen zahlreiche frische Erlkönig-Fotos den intern als...",
+      "url": "https://www.bimmertoday.de/2026/09/08/bmw-3er-g50-mehr-infos-zum-g20-nachfolger-mit-vier-und-sechszylinder/",
+      "image": "https://vg09.met.vgwort.de/na/2989f6aca1b340358c2323996b7c5a09",
+      "images": [
+        "https://vg09.met.vgwort.de/na/2989f6aca1b340358c2323996b7c5a09"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-09-07T22:01:15+00:00"
+    },
+    {
+      "id": "36ca385929036cdf",
+      "title": "2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas",
+      "summary": "The upcoming not-quite-M3 model treads closer than ever to full M status.",
+      "url": "https://www.caranddriver.com/reviews/a73584051/2027-bmw-m350-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/4d6efc37-9479-4bca-8cb4-a70f70b50200.jpg?crop=0.837xw:0.837xh;0.127xw",
+        "https://hips.hearstapps.com/hmg-prod/images/cf88c050-9039-4624-9f64-a6814a446015.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/1e4897a4-7218-4345-822c-a29c2a4cfaeb.jpg?crop=0.735xw:0.735xh;0.087xw",
+        "https://hips.hearstapps.com/hmg-prod/images/bc6880ed-9494-4e5e-9b6a-83a84174b43c.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/a471ef92-c2cc-40d1-9cab-f3e1bf9498b6.jpg?crop=1xw:1xh;center"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-09-07T22:01:00+00:00"
+    },
+    {
+      "id": "4d9be88c2e907ff5",
+      "title": "BMW 3 Series M350 brings 437bhp straight six – and drift mode",
+      "summary": "Replacement for the M340i keeps its 3.0-litre straight six but puts out 50bhp and 30lb ft more The range-topping M350 derivative of the next-generation BMW 3 Series will be significantly more powerful than its M340i predecessor – and it will offer a drift mode for the first time. Aside from the M3 , it will be the only derivative of the 3 Series available with the signature turbocharged 3.0-litre in-line six-cylinder engine, BMW said. It will put out 437bhp and 428lb ft, increases of 50bhp and 30lb ft respectively. Drive will be sent to all four wheels via the familiar eight-speed…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-3-series-m350-brings-437bhp-straight-six-%E2%80%93-and-drift-mode",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651553_highres.jpg?itok=RyGW7cPr",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651553_highres.jpg?itok=RyGW7cPr",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651553_highres.jpg?itok=CQVzSoOp",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651558_highres.jpg?itok=0iBHa1El",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651546_highres.jpg?itok=ZyTb6Pct",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651513_highres.jpg?itok=XAM5g6dL",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651515_highres.jpg?itok=afA--GPj"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-09-07T22:01:00+00:00"
+    },
     {
       "id": "a8f45c51b73ac896",
       "title": "«Гусь» для зумеров: тест BMW F 450 GS",
@@ -93,12 +219,7 @@
       "url": "https://www.hotcars.com/ten-sleeper-sedans-buy-instead-of-new-bmw-3-series/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/10/2003-rs6-audi.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/2006-mercedes-amg-e55.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/pontiac-g8-gxp.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/cadillac_cts-v_20.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/2010-lexus-is-f.jpeg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
@@ -349,7 +470,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/f6586573-9de5-44a0-81bf-2ce2b60db0dc.jpeg?crop=1xw:1xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/image002-656a1bf27320c.png?crop=1xw:1xh;center"
       ],
-      "source": "Car and Driver",
+      "source": "Car and Driver News",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-09-06T15:00:00+00:00"
     },
@@ -544,7 +665,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/BMW-iX3-at-the-Interlagos-Carros-2026-Festival-1-830x621.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-04T10:37:47+00:00"
     },
@@ -1077,32 +1198,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-28T06:33:25+00:00"
-    },
-    {
-      "id": "56ebfe327bb0c3e1",
-      "title": "BMW M240i-Tuning: Tieferlegung von H&R für noch mehr Spaß im G42",
-      "summary": "Dass der BMW M240i (G42) in Form des M2 (G87) einen großen und in vielerlei Hinsicht noch heißeren Bruder hat, macht ihn für sich genommen...",
-      "url": "https://www.bimmertoday.de/2026/08/28/bmw-m240i-tuning-tieferlegung-von-hr-fur-noch-mehr-spas-im-g42/",
-      "image": "https://vg09.met.vgwort.de/na/e9381c0f3ae541cc95c717b9cddabd94",
-      "images": [
-        "https://vg09.met.vgwort.de/na/e9381c0f3ae541cc95c717b9cddabd94"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-28T06:32:52+00:00"
-    },
-    {
-      "id": "950f4676c692715f",
-      "title": "Neue Klasse, neue Assistenzsysteme: BMW bringt mehr Features in Serie",
-      "summary": "Die Neue Klasse bringt bei BMW nicht nur Antrieb und Infotainment auf ein neues Niveau, auch bei den Sicherheits- und Assistenzsystemen folgt der nächste große...",
-      "url": "https://www.bimmertoday.de/2026/08/28/neue-klasse-neue-assistenzsysteme-bmw-bringt-mehr-features-in-serie/",
-      "image": "https://vg09.met.vgwort.de/na/72e63a4c9e7f4aa2ae04bf643383022c",
-      "images": [
-        "https://vg09.met.vgwort.de/na/72e63a4c9e7f4aa2ae04bf643383022c"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-08-28T06:19:21+00:00"
     },
     {
       "id": "d2453b6baa6f7ed0",
@@ -2761,7 +2856,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog i3 tag",
+      "source": "BMW Blog iX3 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3034,7 +3129,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2025/07/bmw-ev-depreciation-comparison-i4-i5-i7-ix-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX tag",
+      "source": "BMW Blog i4 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-13T16:09:58+00:00"
     },
@@ -3336,19 +3431,6 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
-    },
-    {
-      "id": "5431cf0fa3324665",
-      "title": "Searching For Orcas In A BMW M5 Touring",
-      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty...",
-      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
-      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Hooniverse",
-      "source_url": "https://hooniverse.com",
-      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
