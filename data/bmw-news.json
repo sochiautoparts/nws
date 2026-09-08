@@ -1,15 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-08T05:54:47.742875+00:00",
-  "generated_at_human": "2026-09-08 05:54 UTC",
-  "total_items": 283,
+  "generated_at": "2026-09-08T11:11:29.649344+00:00",
+  "generated_at_human": "2026-09-08 11:11 UTC",
+  "total_items": 284,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -45,6 +45,7 @@
     "BMW Blog i3 tag",
     "BMW Blog i4 tag",
     "BMW Blog i8 tag",
+    "BMW Blog iX1 tag",
     "BMW Blog iX3 tag",
     "Bike EXIF",
     "BimmerFile",
@@ -54,7 +55,6 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "CarExpert",
-    "CarScoops",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -63,24 +63,122 @@
     "Gaadiwaadi IN",
     "Hagerty News",
     "Hagerty People",
-    "HotCars",
-    "Motor.es",
+    "Hooniverse",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "Motoring World IN",
     "Motorious",
+    "Motorsport All",
     "Motorsport WEC",
-    "RushLane IN"
+    "Response JP"
   ],
   "sources_count": 69,
-  "multi_photo_items": 11,
+  "multi_photo_items": 12,
   "items": [
     {
-      "id": "fd4e7521353e2cdf",
-      "title": "Nieuwe BMW 3-serie: met vier- én zescilinders én veel Neue Klasse",
-      "summary": "Er is een fonkelnieuwe elektrische BMW i3. Daarnaast komt een zo mogelijk nog nieuwere BMW 3-serie met verbrandingsmotoren naast. Die krijgt vier- én zescilindermotoren en wordt gelardeerd met invloeden van de Neue Klasse.",
+      "id": "8f392324323d8cde",
+      "title": "【BMW X1 新型試乗】走る楽しさ以外のBMWの原点とは何か？ 525万円のエントリーグレードの実力",
+      "summary": "BMWのコンパクトSUV「X1」に新グレードの「オリジナル」が登場。走りの楽しさをはじめとしたBMWらしさをキープしつつ、装備の厳選によって価格抑制を図った新たなエントリーグレードだ。都市部におけるドライバビリティーとユーザービリティーをリポートする。",
+      "url": "https://response.jp/article/2026/09/08/416326.html",
+      "image": "https://response.jp/imgs/rss/2241382.jpg",
+      "images": [
+        "https://response.jp/imgs/rss/2241382.jpg",
+        "https://response.jp/base/images/provider-webcg.jpg",
+        "https://response.jp/base/images/google-source-banner.png",
+        "https://response.jp/base/images/ico-jpx-iid.png",
+        "https://response.jp/base/images/ico-privacy-iid.png",
+        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2241381.jpg"
+      ],
+      "source": "Response JP",
+      "source_url": "https://response.jp",
+      "published": "2026-09-08T11:00:03+00:00"
+    },
+    {
+      "id": "7df11eca52aa51c0",
+      "title": "How Toyota and BMW’s Austin miseries have blown 2026 WEC title fight wide open",
+      "summary": "The title fight in the World Endurance Championship has been blown wide open after three of the leading cars failed to score points at the Lone Star Le Mans. Heading into last weekend’s six-hour fixture at the Circuit of the Americas, the #20 BMW M Hybrid V8 and the #7 Toyota TR010 Hybrid were tied at the top of the standings on 75 points, with the #51 Ferrari 499P trailing them by 18 points ... Keep reading",
+      "url": "https://www.motorsport.com/wec/news/how-toyota-and-bmw-austin-miseries-have-blown-2026-wec-title-fight-wide-open/10853484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+      "image": "https://cdn-7.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
+      "images": [
+        "https://cdn-7.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
+        "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-1.motorsport.com/images/amp/6zoDAek0/s1000/8-toyota-gazoo-racing-toyota-t.webp",
+        "https://cdn.motorsport.com/images/amp/0rVPM3q0/s2/50-ferrari-af-corse-ferrari-49-2.jpg",
+        "https://cdn.motorsport.com/images/mgl/YK15vMb0/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn.motorsport.com/images/mgl/0rVP1V50/s1000/51-ferrari-af-corse-ferrari-49.jpg"
+      ],
+      "source": "Motorsport All",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-09-08T10:00:04+00:00"
+    },
+    {
+      "id": "f279fb920576e299",
+      "title": "How Toyota and BMW’s Austin miseries have blown 2026 WEC title fight wide open",
+      "summary": "The title fight in the World Endurance Championship has been blown wide open after three of the leading cars failed to score points at the Lone Star Le Mans. Heading into last weekend’s six-hour fixture at the Circuit of the Americas, the #20 BMW M Hybrid V8 and the #7 Toyota TR010 Hybrid were tied at the top of the standings on 75 points, with the #51 Ferrari 499P trailing them by 18 points ... Keep reading",
+      "url": "https://www.motorsport.com/wec/news/how-toyota-and-bmw-austin-miseries-have-blown-2026-wec-title-fight-wide-open/10853484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "image": "https://cdn-6.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
+      "images": [
+        "https://cdn-6.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
+        "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/amp/6zoDAek0/s1000/8-toyota-gazoo-racing-toyota-t.webp",
+        "https://cdn.motorsport.com/images/amp/0rVPM3q0/s2/50-ferrari-af-corse-ferrari-49-2.jpg",
+        "https://cdn.motorsport.com/images/mgl/YK15vMb0/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+        "https://cdn.motorsport.com/images/mgl/0rVP1V50/s1000/51-ferrari-af-corse-ferrari-49.jpg"
+      ],
+      "source": "Motorsport WEC",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-09-08T10:00:04+00:00"
+    },
+    {
+      "id": "03ae4eecb9ddcbf8",
+      "title": "BMW Turns iX3 Owners Into Real-World Safety Testers, If They Opt In",
+      "summary": "New BMW iX3 models in EU markets capture near-miss footage and sensor data to refine driver-assistance behavior while enforcing privacy-by-design safeguards.",
+      "url": "https://www.motor1.com/news/807485/bmw-ix3-fleet-data-eu/",
+      "image": "https://cdn.motor1.com/images/mgl/wlklqo/s3/bmw-ix3-50-xdrive-automated-driving-with-the-bmw-highway-assistant.jpg.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/wlklqo/s3/bmw-ix3-50-xdrive-automated-driving-with-the-bmw-highway-assistant.jpg.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-09-08T09:17:17+00:00"
+    },
+    {
+      "id": "6e33951a812f7a41",
+      "title": "Deze automerken vangen in Nederland klappen: van Ford tot Polestar en Alfa Romeo tot Nissan",
+      "summary": "Automerken als Kia, BMW, Renault en Toyota realiseren in Nederland al jaren heel behoorlijke verkoopcijfers. Aan de andere kant van het spectrum vinden we dit jaar onder meer Polestar, Mitsubishi, Ford en Alfa Romeo.",
+      "url": "https://www.autoweek.nl/autonieuws/artikel/deze-automerken-vangen-in-nederland-klappen-van-ford-tot-polestar-en-alfa-romeo-tot-nissan/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
+      "image": "https://images.autoweek.nl/261235124/width/800/261235124",
+      "images": [
+        "https://images.autoweek.nl/261235124/width/800/261235124"
+      ],
+      "source": "AutoWeek NL",
+      "source_url": "https://www.autoweek.nl",
+      "published": "2026-09-08T06:42:38+00:00"
+    },
+    {
+      "id": "c2f6158cab7323ac",
+      "title": "The New BMW 3 Series Gets A More Powerful Six-Cylinder Engine",
+      "summary": "It looks a lot like the fully electric i3, but it packs a beefy inline-six and a quad exhaust.",
+      "url": "https://www.motor1.com/news/807455/2027-bmw-3-series-m350-details-photos/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqbq69/s3/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Rqbq69/s3/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
+        "https://cdn.motor1.com/images/mgl/ko8oBQ/s5/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
+        "https://cdn.motor1.com/images/mgl/OoZo3L/s5/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
+        "https://cdn.motor1.com/images/mgl/1ZPZ4W/s5/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
+        "https://cdn.motor1.com/images/mgl/0epe73/s5/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
+        "https://cdn.motor1.com/images/mgl/W8b8og/s5/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-09-08T06:09:06+00:00"
+    },
+    {
+      "id": "438d8e90524e9d8c",
+      "title": "Nieuwe BMW 3-serie: met vier- én zescilinders en veel Neue Klasse",
+      "summary": "Er is een fonkelnieuwe elektrische BMW i3. Daarnaast verschijnt een zo mogelijk nog nieuwere BMW 3-serie met verbrandingsmotoren. Die krijgt vier- én zescilindermotoren en wordt gelardeerd met invloeden van de Neue Klasse.",
       "url": "https://www.autoweek.nl/autonieuws/artikel/nieuwe-bmw-3-serie-met-vier-en-zescilinders-en-neue-klasse-invloed/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
       "image": "https://images.autoweek.nl/277531560/width/800/277531560",
       "images": [
@@ -130,7 +228,7 @@
         "https://www.carscoops.com/wp-content/uploads/2026/09/2028-AMG-C-class-Electric-00004-2048x1365.jpg",
         "https://www.carscoops.com/wp-content/uploads/2026/09/2028-AMG-C-class-Electric-00005-1-2048x1365.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Mercedes",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-08T01:42:00+00:00"
     },
@@ -198,12 +296,7 @@
       "url": "https://www.autoexpress.co.uk/bmw/3-series/370388/new-bmw-3-series-prototype-review-thrilling-exec-modern-era",
       "image": "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
       "images": [
-        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/f_auto,t_primary-image-mobile@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
-        "https://www.autoexpress.co.uk/bmw/3-series/370388/t_primary-image-desktop@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
-        "https://www.autoexpress.co.uk/bmw/3-series/370388/t_primary-image-mobile@1/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg",
-        "https://media.autoexpress.co.uk/image/private/s--4SNG0fFy--/f_auto,t_content-image-full-mobile@1/v1788795639/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-5.jpg",
-        "https://www.autoexpress.co.uk/bmw/3-series/370388/t_content-image-full-desktop@1/v1788795639/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-5.jpg"
+        "https://media.autoexpress.co.uk/image/private/s--dptGyiQK--/t_rss_image_w_845/v1788795636/autoexpress/2026/09/BMW%20M350%20xDrive%20prototype%202026-4.jpg"
       ],
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
@@ -280,7 +373,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651513_highres.jpg?itok=XAM5g6dL",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90651515_highres.jpg?itok=afA--GPj"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-07T22:01:00+00:00"
     },
@@ -296,19 +389,6 @@
       "source": "5koleso RU",
       "source_url": "https://5koleso.ru",
       "published": "2026-09-07T19:18:23+00:00"
-    },
-    {
-      "id": "0ce4ce2cf75337b7",
-      "title": "10 Sleeper Sedans To Buy Instead Of A New BMW 3 Series",
-      "summary": "BMW's sporty 3 Series is a popular gearhead choice, but these cheap sleepers blow it out of the water.",
-      "url": "https://www.hotcars.com/ten-sleeper-sedans-buy-instead-of-new-bmw-3-series/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/08/2017-audi-s8-plus-bring-a-trailer.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-09-07T18:27:54+00:00"
     },
     {
       "id": "759d96814ebe582c",
@@ -374,12 +454,7 @@
       "url": "https://motoringworld.in/news/bmw-i5-long-wheelbase-launched-in-india-with-669-km-range/",
       "image": "http://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-505x336.png",
       "images": [
-        "http://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-505x336.png",
-        "https://motoringworld.in/wp-content/uploads/2026/09/1-2-768x512.jpg",
-        "https://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-2-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-3-768x512.png",
-        "https://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-9-768x512.png"
+        "http://motoringworld.in/wp-content/uploads/2026/09/BMW-I5-LWB-505x336.png"
       ],
       "source": "Motoring World IN",
       "source_url": "https://www.motoringworld.in",
@@ -436,19 +511,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-07T09:00:24+00:00"
-    },
-    {
-      "id": "69f54b5ac7caa78a",
-      "title": "BMW i5 LWB India Launch Price Rs 79.60 Lakh – 669 Km Range",
-      "summary": "BMW India's first locally assembled electric sedan is in eDrive35L M Sport specification. At 5,175 mm long, 2,156 mm wide and 1,520 mm tall, i5 LWB has a wheelbase of 3,105 mm The post BMW i5 LWB India Launch Price Rs 79.60 Lakh – 669 Km Range appeared first on RushLane .",
-      "url": "https://www.rushlane.com/bmw-i5-lwb-india-launch-price-rs-79-60-lakh-669-km-range-12555278.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/09/new-bmw-i5-india-launch-price-1.jpg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/09/new-bmw-i5-india-launch-price-1.jpg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-09-07T08:51:57+00:00"
     },
     {
       "id": "65a95af928f823a5",
@@ -527,19 +589,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-06T16:06:40+00:00"
-    },
-    {
-      "id": "981abf0cecc193c5",
-      "title": "Llega el nuevo Mercedes Clase C 2027 de gasolina y diésel, así quedan los precios del rival del BMW Serie 3",
-      "summary": "Precios y gama del nuevo Mercedes Clase C 2027 en España. El nuevo Mercedes Clase C 2027 con motores de gasolina y diésel ya tiene precios en España. La Clase C térmica de Mercedes se pone al día con una importantísima actualización. Estrena diseño, tecnología y motores mejorados para desafiar al BMW Serie 3. Está disponible en carrocería Sedán y Estate. Ha pasado menos de un mes desde que el nuevo Mercedes Clase C con motores de gasolina y diésel irrumpió en escena. La llegada del Mercedes Clase C eléctrico no supone la despedida de las variantes térmicas. Todo lo contrario. Mercedes…",
-      "url": "https://www.motor.es/noticias/mercedes-clase-c-2027-venta-espana-2026116247.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/mercedes-clase-c-2027-venta-espana-2026116247-1788707849_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/mercedes-clase-c-2027-venta-espana-2026116247-1788707849_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-06T16:00:00+00:00"
     },
     {
       "id": "e2c253c576bbe738",
@@ -672,7 +721,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche-cayenne-triple-test-2026-001.jpg?itok=7gke-QTX"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-05T07:00:00+00:00"
     },
@@ -787,12 +836,7 @@
       "url": "https://www.motor1.com/news/807093/half-bmw-m2-sold-america-manual/",
       "image": "https://cdn.motor1.com/images/mgl/NGMyvM/s3/2026-bmw-m2-turbo-design-edition.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/NGMyvM/s3/2026-bmw-m2-turbo-design-edition.jpg",
-        "https://cdn.motor1.com/images/mgl/wl8XWV/s5/2027-bmw-m3-cs-handschalter.jpg",
-        "https://cdn.motor1.com/images/mgl/9m838v/s5/2027-bmw-m3-cs-handschalter.jpg",
-        "https://cdn.motor1.com/images/mgl/G3QrQb/s5/2027-bmw-m3-cs-handschalter.jpg",
-        "https://cdn.motor1.com/images/mgl/jlWAWR/s5/2027-bmw-m3-cs-handschalter.jpg",
-        "https://cdn.motor1.com/images/mgl/L3yVMQ/s5/2027-bmw-m3-cs-handschalter.jpg"
+        "https://cdn.motor1.com/images/mgl/NGMyvM/s3/2026-bmw-m2-turbo-design-edition.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -820,7 +864,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/04/2026-bmw-i3-plant-munich-01-830x554.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-03T13:17:59+00:00"
     },
@@ -1245,9 +1289,9 @@
       "title": "BMW explains why it’s not interested in F1 entry",
       "summary": "BMW has cited a lack of opportunities for technology transfer as the key reason why it is not interested in joining Mercedes and Audi in Formula 1. The Munich-based manufacturer has remained absent from F1 since it sold its majority stake in Sauber in 2009, despite the series’ growing popularity making it more attractive to carmakers than ever before. The same Sauber team that BMW ... Keep reading",
       "url": "https://www.motorsport.com/f1/news/bmw-explains-why-its-not-interested-in-f1-entry-wec-and-imsa-are-better-for-us/10850004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg",
       "images": [
-        "https://cdn-3.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
+        "https://cdn-7.motorsport.com/images/amp/254139k0/s6/robert-kubica-bmw-sauber-f1-09.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2135,26 +2179,13 @@
       "published": "2026-08-16T12:59:51+00:00"
     },
     {
-      "id": "781c8160778e5b73",
-      "title": "BMW’s ascent from an also-ran to WEC title contender",
-      "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
-      "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-      "images": [
-        "https://cdn-4.motorsport.com/images/amp/0o5PrQlY/s6/20-bmw-m-team-wrt-bmw-m-hybrid.jpg"
-      ],
-      "source": "Motorsport WEC",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-08-16T09:56:29+00:00"
-    },
-    {
       "id": "49aafed369cee64f",
       "title": "The changes that thrust BMW into title contention in WEC",
       "summary": "BMW has emerged as a serious World Endurance Championship contender in the third year of its Hypercar programme. Robin Frijns and Rene Rast lead the Hypercar standings at the halfway point of the season, while BMW itself sits second in the manufacturers’ standings, behind only Toyota. It’s a major turnaround from where the German brand was just last season in the WEC, when it ended up ... Keep reading",
       "url": "https://www.autosport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
+        "https://cdn-9.motorsport.com/images/amp/YvKBQo76/s6/15-bmw-m-team-wrt-bmw-m-hybrid-2.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -2629,19 +2660,6 @@
       "published": "2026-08-03T12:45:54+00:00"
     },
     {
-      "id": "c83d6af8b73fbec4",
-      "title": "BMW’s Next M3 Touring Gets A Codename And A Possible US Passport",
-      "summary": "Munich's do-it-all car is taking shape.",
-      "url": "https://www.motor1.com/news/803496/bmw-m3-touring-g88-us-possible/",
-      "image": "https://cdn.motor1.com/images/mgl/qkqX9v/s3/2025-bmw-m3-touring-review.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/qkqX9v/s3/2025-bmw-m3-touring-review.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-08-03T06:50:03+00:00"
-    },
-    {
       "id": "db4cbd64c0fa0744",
       "title": "New BMW X5 (G65) Design Breakdown: What Changed",
       "summary": "The video below is a full design breakdown of the all-new X5, generation by generation and panel by panel. We go front to back and inside, comparing the new car directly against the outgoing G05... First published by https://www.bmwblog.com",
@@ -2692,19 +2710,6 @@
       "source": "BimmerFile",
       "source_url": "https://bimmerfile.com",
       "published": "2026-08-02T01:38:00+00:00"
-    },
-    {
-      "id": "f5e57e271f382183",
-      "title": "All 20 BMW Art Cars Are Finally Together In One Place",
-      "summary": "And the best part: admission to BMW Welt in Munich is completely free.",
-      "url": "https://www.motor1.com/news/803420/bmw-art-cars-welt/",
-      "image": "https://cdn.motor1.com/images/mgl/bgPrNw/s3/sonderausstellung-bmw-art-cars---20-artists-50-years-of-innovation.-reunited-at-bmw-welt.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/bgPrNw/s3/sonderausstellung-bmw-art-cars---20-artists-50-years-of-innovation.-reunited-at-bmw-welt.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-08-01T13:00:00+00:00"
     },
     {
       "id": "7f3b8c1a0107f1e7",
@@ -2910,7 +2915,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/07/best-bmw-electric-car-2026-00-830x623.jpg"
       ],
-      "source": "BMW Blog iX3 tag",
+      "source": "BMW Blog iX1 tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-21T20:31:24+00:00"
     },
@@ -3192,9 +3197,9 @@
       "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
       "summary": "BMW recovered from a late error to pip Ferrari to victory in the World Endurance Championship’s Six Hours of Sao Paulo and boost its prospects in the Hypercar title fight. Kevin Magnussen, Raffaele Marciello and Dries Vanthoor led much of the race in the #15 BMW M Hybrid, only losing the net lead in the penultimate hour when Vanthoor ran wide and handed the advantage to the #51 Ferrari 499P ... Keep reading",
       "url": "https://www.autosport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-8.motorsport.com/images/amp/63Qmb5E2/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3404,7 +3409,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog 1",
+      "source": "BMW Blog M",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
@@ -3485,6 +3490,19 @@
       "source": "BMW Blog 5",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-26T12:31:13+00:00"
+    },
+    {
+      "id": "5431cf0fa3324665",
+      "title": "Searching For Orcas In A BMW M5 Touring",
+      "summary": "I’m well aware that the jokes could write themselves on this one. There’s been plenty...",
+      "url": "https://www.hooniverse.com/searching-for-orcas-in-a-bmw-m5-touring/",
+      "image": "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/media-cloud-hooniverse.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/06/25164734/DSC01180-1920x1080.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Hooniverse",
+      "source_url": "https://hooniverse.com",
+      "published": "2026-06-26T00:41:13+00:00"
     },
     {
       "id": "4cf9754c14aa24bd",
@@ -3686,9 +3704,9 @@
       "title": "Le Mans 24h: Toyota beats BMW and Cadillac for first win in four years",
       "summary": "Toyota outgunned LMDh rivals BMW and Cadillac with its radically overhauled TR010 Hybrid to score an emphatic victory in the Le Mans 24 Hours. Nyck de Vries, Kamui Kobayashi and Mike Conway claimed the top spot in the #7 Toyota at the end of a tense if low-drama race, with the sister car driven by Brendon Hartley, Ryo Hirakawa and Sebastien Buemi finishing third. The two Toyotas were ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-toyota-beats-bmw-cadillac-for-first-win-in-four-years/10830258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-7.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg",
       "images": [
-        "https://cdn-7.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
+        "https://cdn-6.motorsport.com/images/amp/2y7ANzp6/s6/7-toyota-racing-winners-7-toyo-3.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
@@ -3699,9 +3717,9 @@
       "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
       "summary": "BMW held the overall lead in the Le Mans 24 Hours at the start of the 19th hour, as a crash for a Porsche GT3 car brought out the safety car. Suffering from a likely steering wheel issue, reigning DTM champion Ayhancan Guven went straight into the barriers at the exit of the first Mulsanne chicane as he struggled to turn the car. The #91 Manthey Porsche 911 GT3 suffered terminal damage as it ... Keep reading",
       "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-1.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
+        "https://cdn-4.motorsport.com/images/amp/01Qdexq0/s6/91-manthey-dk-engineering-pors.jpg"
       ],
       "source": "Autosport WEC",
       "source_url": "https://www.autosport.com",
