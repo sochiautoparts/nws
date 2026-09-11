@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-11T00:04:38.968556+00:00",
-  "generated_at_human": "2026-09-11 00:04 UTC",
+  "generated_at": "2026-09-11T04:34:32.826278+00:00",
+  "generated_at_human": "2026-09-11 04:34 UTC",
   "total_items": 279,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "Auto Esporte BR",
     "AutoExpress",
+    "AutoWeek News",
     "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
@@ -51,6 +52,8 @@
     "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
+    "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -61,7 +64,6 @@
     "Hagerty News",
     "Hagerty People",
     "Hooniverse",
-    "HotCars",
     "Kolesa RU",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -70,12 +72,42 @@
     "MotorBeam IN",
     "Motoring World IN",
     "Motorsport WEC",
-    "Paul Tan",
     "TopSpeed"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 11,
+  "sources_count": 69,
+  "multi_photo_items": 12,
   "items": [
+    {
+      "id": "607bbcb951490ae2",
+      "title": "523 HP, Twin-Turbo V8, A Kia Telluride Price Tag: The Ultimate Used BWM Performance SUV Bargain",
+      "summary": "The BMW X5 M50i has crashed to Palisade and Telluride money. Here's the depreciation data, fuel costs, and JD Power scores to help you decide.",
+      "url": "https://carbuzz.com/bmw-x5-just-crashed-to-kia-telluride-money/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/bmw-x5-m50i-1.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/bmw-x5-m50i-1.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2020-bmw-x5-m50i-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/24393-2027-kia-telluride-hev-sxp.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2020-bmw-x5-m50i-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2020-bmw-x5-m50i-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2022-bmw-x5-m50i-6.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-11T01:06:11+00:00"
+    },
+    {
+      "id": "beb63951bb049f71",
+      "title": "The ADV Bike With BMW GS Comfort And Italian Character",
+      "summary": "Despite being more powerful and loaded in its base trim, this Italian ADV undercuts the R 1300 GS comfortably",
+      "url": "https://www.topspeed.com/adv-bike-bmw-gs-comfort-italian-character/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2025-ducati-multistrada-v4-base-top-view-in-studio.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2025-ducati-multistrada-v4-base-top-view-in-studio.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-11T01:01:14+00:00"
+    },
     {
       "id": "aece50aedc890165",
       "title": "Euro S50B32-Powered 1988 BMW M3 Race Car",
@@ -103,19 +135,6 @@
       "published": "2026-09-10T22:13:13+00:00"
     },
     {
-      "id": "0ccd5149f1551b3c",
-      "title": "The BMW Adventure Bike That Quietly Does Everything Well",
-      "summary": "Whether it's commuting, light trails, or highway tours, this sub-$11,000 midweight GS will happily do it all",
-      "url": "https://www.topspeed.com/bmw-adventure-bike-quietly-does-everything-well/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2026-bmw-f-800-gs-sport-coloroway-fairing-closeup.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2026-bmw-f-800-gs-sport-coloroway-fairing-closeup.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-09-10T21:00:15+00:00"
-    },
-    {
       "id": "247796926d26e5b1",
       "title": "Bovensiepen Spider: BMW Z4 G29 erhält exklusive Krönung mit 435 PS",
       "summary": "So mancher Sportler packt erst auf der Zielgeraden sein volles Potenzial aus, im Fall des BMW Z4 Roadster der Generation G29 könnte man mehrere Monate...",
@@ -137,7 +156,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/Bovensiepen-spider-bmw-z4-photos-01-830x467.jpg"
       ],
-      "source": "BMW Blog Z4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-10T19:44:11+00:00"
     },
@@ -192,19 +211,6 @@
       "source": "Kolesa RU",
       "source_url": "https://www.kolesa.ru",
       "published": "2026-09-10T17:41:20+00:00"
-    },
-    {
-      "id": "237425fa93518570",
-      "title": "BMW M2 Manual Take Rate: 50% of US Buyers Choose the Stick",
-      "summary": "BMW M CEO Frank van Meel says half of all U.S. M2 buyers choose the six-speed manual over a free, faster automatic — the data point driving BMW's 2027 manual strategy.",
-      "url": "https://www.hotcars.com/bmw-m2-manual-transmission-sales-data/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/10/2026-bmw-m2-turbo-design-edition_1-13.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/10/2026-bmw-m2-turbo-design-edition_1-13.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-09-10T16:00:12+00:00"
     },
     {
       "id": "8fc575ce36e65478",
@@ -267,7 +273,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-6-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-10T12:08:31+00:00"
     },
@@ -342,32 +348,6 @@
       "published": "2026-09-10T07:00:26+00:00"
     },
     {
-      "id": "d1c073a2df5bd52c",
-      "title": "Great deals from Auto Selection Kita Malaysia in Ara Damansara, Sept 11-13 – win a BMW Motorrad F450 GS!",
-      "summary": "As the nation celebrates independence with the approaching Malaysia Day this month, there are few better expressions of said independence than with mobility, such as that afforded by one’s own automobile. To that end, Sime […] The post Great deals from Auto Selection Kita Malaysia in Ara Damansara, Sept 11-13 – win a BMW Motorrad F450 GS! appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/09/10/great-deals-from-auto-selection-kita-malaysia-in-ara-damansara-sept-11-13-win-a-bmw-motorrad-f450-gs/",
-      "image": "https://paultan.org/image/2026/09/Sime-Auto-Selection-Ad-KITA-MALAYSIA-1200X628.jpg_Driven-630x330.jpeg",
-      "images": [
-        "https://paultan.org/image/2026/09/Sime-Auto-Selection-Ad-KITA-MALAYSIA-1200X628.jpg_Driven-630x330.jpeg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-09-10T06:18:47+00:00"
-    },
-    {
-      "id": "24516606b126848a",
-      "title": "Auto Bavaria KitaMalaysia Celebration – special pricing, rebates and more with BMW, MINI and BMW Motorrad",
-      "summary": "This is a special month for Malaysia because it was on the 16th of September in 1963 that our beloved country was formed, over six years after The Federation of Malaya achieved independence on August […] The post Auto Bavaria KitaMalaysia Celebration – special pricing, rebates and more with BMW, MINI and BMW Motorrad appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/09/10/auto-bavaria-kitamalaysia-celebration/",
-      "image": "https://paultan.org/image/2026/09/Auto-Bavaria-KitaMalaysia-Celebration-1-1-630x330.jpeg",
-      "images": [
-        "https://paultan.org/image/2026/09/Auto-Bavaria-KitaMalaysia-Celebration-1-1-630x330.jpeg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-09-10T04:48:10+00:00"
-    },
-    {
       "id": "039b4eaa637a5321",
       "title": "The New BMW M350 Just Out-Torqued an F80 M3 Competition",
       "summary": "The new BMW M350 xDrive makes more torque than an F80 M3 ever did, Competition Package included. Not just the base car’s 406 lb-ft. The Competition Package’s torque figure too, unchanged from the standard car,... First published by https://www.bmwblog.com",
@@ -376,7 +356,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/bmw-m350-vs-f80-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-09T22:54:35+00:00"
     },
@@ -389,7 +369,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/EDO-ROADSTER-Pebble-Beach-Concept-Speedster-10-830x553.jpg"
       ],
-      "source": "BMW Blog Z4",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-09T21:09:04+00:00"
     },
@@ -441,7 +421,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-bmw-m350-review-10-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-09T13:37:51+00:00"
     },
@@ -467,7 +447,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-bmw-m350-review-19-830x553.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-09T12:10:02+00:00"
     },
@@ -633,7 +613,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/2027-BMW-3-Series-interior-2-830x467.jpg"
       ],
-      "source": "BMW Blog 3",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-08T12:16:04+00:00"
     },
@@ -715,7 +695,7 @@
       "image": "https://cdn-9.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
       "images": [
         "https://cdn-9.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
-        "https://cdn-5.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
+        "https://cdn-3.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
         "https://cdn-1.motorsport.com/images/amp/6zoDAek0/s1000/8-toyota-gazoo-racing-toyota-t.webp",
         "https://cdn.motorsport.com/images/amp/0rVPM3q0/s2/50-ferrari-af-corse-ferrari-49-2.jpg",
         "https://cdn.motorsport.com/images/mgl/YK15vMb0/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
@@ -843,6 +823,19 @@
       "source": "BimmerToday DE",
       "source_url": "https://www.bimmertoday.de",
       "published": "2026-09-07T22:01:15+00:00"
+    },
+    {
+      "id": "36ca385929036cdf",
+      "title": "2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas",
+      "summary": "The upcoming not-quite-M3 model treads closer than ever to full M status.",
+      "url": "https://www.caranddriver.com/reviews/a73584051/2027-bmw-m350-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-09-07T22:01:00+00:00"
     },
     {
       "id": "4d9be88c2e907ff5",
@@ -1742,6 +1735,19 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T00:13:59+00:00"
+    },
+    {
+      "id": "61d6f4ebefdace52",
+      "title": "Waymo Is Taking Its Robotaxis into BMW’s Backyard",
+      "summary": "The autonomous-driving company will begin testing in Munich within weeks ahead of a potential fully driverless service in late 2027.",
+      "url": "https://www.autoweek.com/news/a73524631/waymo-robotaxis-to-munich-germany/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-25T20:00:58+00:00"
     },
     {
       "id": "0d5c5f7d30f23a2d",
