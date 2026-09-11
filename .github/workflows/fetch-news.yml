@@ -1,11 +1,16 @@
 name: Fetch Automotive News
 
-# Runs every hour to keep data/bmw-news.json and data/auto-news.json fresh.
+# Two-mode refresh so bots can post news as it arrives:
+#   - tier1 (every 10 min): fast lane over ~45 high-volume feeds, merged into
+#     existing JSON — fresh stories appear in data/*.json within ~10-15 min.
+#   - full (hourly): complete parse of ALL sources, regenerates the files.
 on:
   schedule:
-    # Every hour at minute 5 (a bit off the top of the hour to avoid GitHub cron load spikes)
-    - cron: "5 * * * *"
-  workflow_dispatch:    # Manual trigger from Actions tab
+    # Fast lane: every 10 minutes (offset from full runs)
+    - cron: "*/10 * * * *"
+    # Full parse: hourly at minute 37
+    - cron: "37 * * * *"
+  workflow_dispatch:    # Manual trigger from Actions tab (runs FULL by default)
   push:
     branches: [main]
     paths:
@@ -14,8 +19,8 @@ on:
       - ".github/workflows/fetch-news.yml"
 
 # Push trigger only fires on code changes (not on JSON-only commits), so we
-# don't get an infinite loop. The hourly schedule + manual dispatch cover
-# the normal cadence.
+# don't get an infinite loop. Tier1 runs skip commits entirely when no new
+# items were found, so the repo doesn't get commit spam.
 
 permissions:
   contents: write       # Required to commit JSON files back to repo
@@ -29,7 +34,10 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
+    env:
+      # full → hourly cron (37 * * * *) or manual dispatch; tier1 → 10-min cron
+      NWS_MODE: ${{ (github.event.schedule == '37 * * * *' || github.event_name == 'workflow_dispatch') && 'full' || 'tier1' }}
 
     steps:
       - name: Checkout repository
@@ -52,9 +60,11 @@ jobs:
 
       - name: Run news parser
         run: |
+          echo "NWS_MODE=${NWS_MODE}"
           python fetch_news.py
 
       - name: Show summary
+        if: env.NWS_MODE == 'full'
         run: |
           echo "=== BMW news ==="
           python -c "import json;d=json.load(open('data/bmw-news.json'));print(f'items: {d[\"total_items\"]}, sources: {d[\"sources_count\"]}')"
@@ -78,7 +88,7 @@ jobs:
           TIMESTAMP="$(date -u '+%Y-%m-%d %H:%M UTC')"
           BMW_COUNT="$(python -c "import json;print(json.load(open('data/bmw-news.json'))['total_items'])")"
           AUTO_COUNT="$(python -c "import json;print(json.load(open('data/auto-news.json'))['total_items'])")"
-          git commit -m "chore(news): hourly refresh @ ${TIMESTAMP}
+          git commit -m "chore(news): ${NWS_MODE:-full} refresh @ ${TIMESTAMP}
 
           - BMW news: ${BMW_COUNT} items
           - Auto news: ${AUTO_COUNT} items"

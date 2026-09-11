@@ -3,7 +3,12 @@
 Automotive news parser — fetches RSS feeds, classifies BMW vs general auto,
 and writes two JSON files: data/bmw-news.json and data/auto-news.json.
 
-Runs hourly via GitHub Actions.
+Runs via GitHub Actions in two modes:
+  - NWS_MODE=tier1 (every 10 min): fetch only ~45 high-volume feeds and MERGE
+    new items into the existing JSON → bots can post news within minutes of
+    publication. Files are rewritten only when new items appear.
+  - NWS_MODE=full (hourly): classic full parse of all sources, files are
+    regenerated from scratch.
 
 Sources were hand-tested for:
   - Working RSS endpoint (HTTP 200 with valid feed)
@@ -516,6 +521,41 @@ BMW_STRONG_KEYWORDS: list[str] = [
     "ring taxi",
     "bimmercode", "ista",
 ]
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Fast-lane (tier1) sources — polled every 10 min by the scheduled run.
+#
+# The workflow runs in two modes:
+#   NWS_MODE=tier1 (cron */10) — only these ~45 high-volume news feeds are
+#     fetched, results are MERGED into the existing JSON files (old items are
+#     kept until they age out), so fresh stories land in the feeds within
+#     ~10-15 minutes of publication. If nothing new is found the files are
+#     not rewritten (no commit noise).
+#   NWS_MODE=full  (cron 37 * * * *) — classic full parse of ALL sources,
+#     files are regenerated from scratch (also re-enriches galleries).
+# ─────────────────────────────────────────────────────────────────────────────
+FAST_SOURCE_NAMES: set[str] = {
+    # BMW feeds (used by @bmw_mpower_club via bmw-news.json)
+    "BMW Blog", "BMW Blog M", "BMW Blog i", "BMW Blog X",
+    "Car and Driver BMW", "CarScoops BMW", "Autocar BMW", "Autocar BMW M",
+    "Autocar BMW i", "Motor1 BMW",
+    # High-volume general auto news (used by @sochiautoparts via auto-news.json)
+    "CarScoops", "Carscoops News", "Car and Driver", "Car and Driver News",
+    "Autocar", "AutoExpress", "Jalopnik", "CarBuzz", "Motor1", "Motor1 News",
+    "HotCars", "TopSpeed", "TopSpeed main", "AutoWeek News", "Hagerty Media",
+    # Top brand feeds — most-engaged topics for the auto channel
+    "CarScoops Tesla", "CarScoops Mercedes", "CarScoops Porsche",
+    "CarScoops Toyota", "CarScoops Honda", "CarScoops Ford", "CarScoops VW",
+    "CarScoops Hyundai", "CarScoops Kia", "CarScoops Ferrari",
+    "Car and Driver Audi", "Car and Driver Porsche", "Car and Driver Toyota",
+    "Car and Driver Hyundai", "Car and Driver Chevrolet",
+    "Autocar Mercedes", "Autocar Audi", "Autocar Tesla", "Autocar Toyota",
+}
+
+for _s in SOURCES:
+    if _s.get("name") in FAST_SOURCE_NAMES:
+        _s["fast"] = True
+
 
 BMW_MODEL_PATTERNS: list[re.Pattern] = [
     re.compile(r"(?<![A-Za-z0-9])M(?:Power|Performance|Division)(?![A-Za-z0-9])", re.I),
@@ -1060,18 +1100,120 @@ def write_json(path: Path, data: dict[str, Any]) -> None:
 # ─────────────────────────────────────────────────────────────────────────────
 # Main
 # ─────────────────────────────────────────────────────────────────────────────
+def load_existing(path: Path) -> dict[str, Any] | None:
+    """Load an existing news JSON file (None if missing/corrupt)."""
+    try:
+        if path.exists():
+            with path.open("r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict) and isinstance(data.get("items"), list):
+                return data
+    except Exception as e:
+        log.warning("Failed to load existing %s: %s", path.name, e)
+    return None
+
+
+def merge_items(existing: dict[str, Any], fresh_items: list[dict[str, Any]],
+                max_age_days: int) -> tuple[list[dict[str, Any]], int]:
+    """Merge fresh items into existing item list by id.
+
+    Keeps old items (until they age out) so tier1 runs never shrink the file;
+    a fresh variant replaces the stored one only when it has more photos or a
+    longer summary (full runs re-enrich galleries this way).
+    Returns (merged_items, truly_new_count).
+    """
+    by_id: dict[str, dict[str, Any]] = {}
+    for it in existing.get("items", []):
+        iid = it.get("id", "")
+        if iid:
+            by_id[iid] = it
+    new_count = 0
+    for it in fresh_items:
+        iid = it.get("id", "")
+        if not iid:
+            continue
+        old = by_id.get(iid)
+        if old is None:
+            new_count += 1
+            by_id[iid] = it
+        elif (len(it.get("images", [])) > len(old.get("images", [])) or
+              len(it.get("summary", "")) > len(old.get("summary", ""))):
+            by_id[iid] = it
+    merged = [it for it in by_id.values() if is_recent(it.get("published", ""), max_age_days)]
+    return merged, new_count
+
+
+def run_tier1(data_dir: Path) -> int:
+    """Fast lane: fetch only high-volume feeds, merge into existing JSON.
+    Writes files ONLY when truly new items were found (no commit noise)."""
+    tier_sources = [s for s in SOURCES if s.get("fast")]
+    if not tier_sources:
+        tier_sources = SOURCES
+    log.info("TIER1 fast lane: %d/%d sources", len(tier_sources), len(SOURCES))
+
+    existing_bmw = load_existing(data_dir / "bmw-news.json")
+    existing_auto = load_existing(data_dir / "auto-news.json")
+    if existing_bmw is None or existing_auto is None:
+        log.warning("Existing JSON missing/corrupt — falling back to FULL parse")
+        return -1
+
+    raw = fetch_all(tier_sources)
+    log.info("Tier1 raw items fetched: %d", len(raw))
+    deduped = dedup(raw)
+    log.info("After dedup: %d items", len(deduped))
+
+    fresh_bmw = [it for it in deduped if it["is_bmw"]]
+    fresh_auto = [it for it in deduped if it["category"] != "bmw"]
+
+    def image_first_key(it: dict[str, Any]) -> tuple[int, int, str]:
+        n_imgs = len(it.get("images", []))
+        return (0 if n_imgs > 0 else 1, -n_imgs, "")
+
+    bmw_merged, bmw_new = merge_items(existing_bmw, fresh_bmw, BMW_MAX_AGE_DAYS)
+    auto_merged, auto_new = merge_items(existing_auto, fresh_auto, AUTO_MAX_AGE_DAYS)
+    log.info("Merged: BMW=%d (+%d new), Auto=%d (+%d new)",
+             len(bmw_merged), bmw_new, len(auto_merged), auto_new)
+
+    if bmw_new == 0 and auto_new == 0:
+        log.info("No truly new items — files not rewritten (skip commit)")
+        return 0
+
+    bmw_sorted = sort_newest_first(sorted(bmw_merged, key=image_first_key))[:BMW_OUTPUT_CAP]
+    auto_sorted = sort_newest_first(sorted(auto_merged, key=image_first_key))[:AUTO_OUTPUT_CAP]
+
+    def clean(it: dict[str, Any]) -> dict[str, Any]:
+        return {
+            "id": it["id"], "title": it["title"], "summary": it["summary"],
+            "url": it["url"], "image": it["image"], "images": it.get("images", []),
+            "source": it["source"], "source_url": it["source_url"],
+            "published": it["published"],
+        }
+
+    write_json(data_dir / "bmw-news.json", build_output([clean(it) for it in bmw_sorted], "bmw"))
+    write_json(data_dir / "auto-news.json", build_output([clean(it) for it in auto_sorted], "auto"))
+    log.info("Tier1 complete. BMW=+%d, Auto=+%d new items", bmw_new, auto_new)
+    return 0
+
+
 def main() -> int:
+    mode = os.getenv("NWS_MODE", "full").strip().lower()
+    repo_root = Path(__file__).resolve().parent
+    data_dir = repo_root / "data"
+
+    if mode == "tier1":
+        rc = run_tier1(data_dir)
+        if rc == 0:
+            return 0
+        log.info("Continuing with FULL parse (tier1 unavailable)")
+
     log.info("=" * 70)
-    log.info("Automotive news parser — starting run")
+    log.info("Automotive news parser — starting FULL run")
     log.info("Sources: %d total (%d BMW + %d auto, %d with gallery scraping)",
              len(SOURCES),
              sum(1 for s in SOURCES if s["category"] == "bmw"),
              sum(1 for s in SOURCES if s["category"] == "auto"),
              sum(1 for s in SOURCES if s.get("scrape_gallery")))
     log.info("=" * 70)
-
-    repo_root = Path(__file__).resolve().parent
-    data_dir = repo_root / "data"
 
     raw = fetch_all(SOURCES)
     log.info("Total raw items fetched: %d", len(raw))
