@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-12T23:19:24.066906+00:00",
-  "generated_at_human": "2026-09-12 23:19 UTC",
-  "total_items": 300,
+  "generated_at": "2026-09-13T00:58:37.546319+00:00",
+  "generated_at_human": "2026-09-13 00:58 UTC",
+  "total_items": 302,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -53,6 +53,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -79,9 +80,45 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 15,
+  "sources_count": 75,
+  "multi_photo_items": 17,
   "items": [
+    {
+      "id": "5996250a6e80cb96",
+      "title": "The Adventure Bike That Feels Right At Home On Any Road",
+      "summary": "The BMW R 1300 GS packs 145 hp, radar safety tech, and optional auto gearbox into a 523-lb adventure bike starting at $20,395.",
+      "url": "https://www.topspeed.com/adventure-bike-feels-at-home-on-any-road/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/p90530038_highres_bmw-r-1300-gs-gs-tro.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/p90530038_highres_bmw-r-1300-gs-gs-tro.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/2026-ktm-1390-super-adventure-r-sliding.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/front-quarter-beauty-shot-of-a-bmw-r-1300-gs.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/bmw-r-1300-gs-engine.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/bmw-r-1300-gs-asa.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/5.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T00:45:14+00:00"
+    },
+    {
+      "id": "9f08000395bf87fd",
+      "title": "40 Years, 7 Generations, 1 Unstoppable Icon - The BMW M3 Remains A Performance Benchmark",
+      "summary": "One of BMW's most important products has four decades of history, and the next big chapter is about to begin.",
+      "url": "https://carbuzz.com/bmw-m3-40th-anniversary-monterey-august-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/40-years-of-bmw-m3.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/40-years-of-bmw-m3.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/p90236608_highres_the-bmw-m3-csl-e46-0.jpg?q=49&fit=contain&w=5568&h=3712&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/bmw-m3-monterey-motorsports-reunion-track-day-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/bmw-m3-monterey-motorsports-reunion-track-day-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/bmw-m3-monterey-motorsports-reunion-track-day-3.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/bmw-m-concept-neue-klasse-north-american-debut-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-13T00:23:11+00:00"
+    },
     {
       "id": "14030fb4d8052871",
       "title": "1968 BMW R60US",
