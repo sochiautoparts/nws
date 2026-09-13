@@ -1,14 +1,16 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-13T12:50:15.758590+00:00",
-  "generated_at_human": "2026-09-13 12:50 UTC",
-  "total_items": 292,
+  "generated_at": "2026-09-13T15:06:24.777746+00:00",
+  "generated_at_human": "2026-09-13 15:06 UTC",
+  "total_items": 296,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
+    "Autocar BMW",
     "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
@@ -62,6 +64,7 @@
     "Electrek BMW",
     "Hagerty Media",
     "Hagerty People",
+    "HotCars",
     "Kolesa RU",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -76,9 +79,43 @@
     "RACER",
     "RushLane IN"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 13,
+  "sources_count": 74,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "c43b4fd0a826962c",
+      "title": "BMW G74: The G-Class Rival That Never Was",
+      "summary": "BMW's G74 was a $150,000+ off-roader planned for 2029 to rival the Mercedes G-Class — until it was cancelled before final approval.",
+      "url": "https://www.hotcars.com/the-bmw-g-wagen-rival-that-munich-quietly-killed-before-approval/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-xm-rear-detail.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-xm-rear-detail.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-x3-off-road-in-south-africa.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/mercedes-benz-g580.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/08/bmw-x3-cutting-its-way-through-sand.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/2026-ktm-690-enduro-r.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/aston-martin-amb-002-roadster-6.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-13T15:00:12+00:00"
+    },
+    {
+      "id": "2947475a505b4f07",
+      "title": "Mega-mileage cars are better value - and tell better stories",
+      "summary": "Scared of a leggy second-hander? Maybe a 240k-mile BMW M5 could reassure you I need to come clean at the start: I don't practise what I'm about to preach. It was my pain after buying an 80,000-mile Fiat Panda 100HP with bigger chasms in its bodywork than Cheddar Gorge that pushed me to sell it and finance a nearly new Mazda MX-5 instead. So I'm not a proprietor of high-milers, but I love them nonetheless. High mileage is a sweet attribute that makes a desirable model normally priced beyond your reach look affordable. For instance, searching for a first car for my brother, we found a 2015…",
+      "url": "https://www.autocar.co.uk/opinion/used-cars/mega-mileage-cars-are-better-value-and-tell-better-stories",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/high_miles_17_0.jpg?itok=nJpvWW0q",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/high_miles_17_0.jpg?itok=nJpvWW0q",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/high_miles_17_0.jpg?itok=nF_uzkY1",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/charlie-martin-autocar.jpg?itok=7c2HuvZw"
+      ],
+      "source": "Autocar BMW",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-09-13T15:00:00+00:00"
+    },
     {
       "id": "92c08f807cbe00d4",
       "title": "Tiene un diseño perfecto y sólo un problema, pero este BMW Z8 de 2026 sería todo un acierto como deportivo de Alpina",
@@ -295,6 +332,24 @@
       "source": "RushLane IN",
       "source_url": "https://rushlane.com",
       "published": "2026-09-12T05:15:09+00:00"
+    },
+    {
+      "id": "70c738c51edd65e9",
+      "title": "BMW Takes iX5 Hydrogen One Step Closer to Production",
+      "summary": "The automaker has begun real-world testing of its next-generation hydrogen SUV while preparing its fuel-cell system for series production in Europe.",
+      "url": "https://www.autoweek.com/news/a73691091/bmw-ix5-hydrogen-one-step-closer-to-production/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/e4fa2cc7-d979-453d-a342-fe56042def36.jpg?crop=1xw:0.844xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/65a177a8-426d-4258-8ac0-e42498e7d5b5.jpg?crop=1xw:0.844xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg?crop=0.667xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/3020da05-7905-464a-8149-399b62a4201b.jpeg?crop=0.667555555556xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/73376991-0b9a-4ae4-b62b-3997be110a5d.jpg?crop=0.566xw:1.00xh;0.0881xw,0&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-11T21:15:14+00:00"
     },
     {
       "id": "74c2bc929e9cd9f6",
@@ -2014,6 +2069,19 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T00:13:59+00:00"
+    },
+    {
+      "id": "61d6f4ebefdace52",
+      "title": "Waymo Is Taking Its Robotaxis into BMW’s Backyard",
+      "summary": "The autonomous-driving company will begin testing in Munich within weeks ahead of a potential fully driverless service in late 2027.",
+      "url": "https://www.autoweek.com/news/a73524631/waymo-robotaxis-to-munich-germany/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-08-25T20:00:58+00:00"
     },
     {
       "id": "0d5c5f7d30f23a2d",
