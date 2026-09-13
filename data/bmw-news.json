@@ -1,16 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-13T11:41:11.899718+00:00",
-  "generated_at_human": "2026-09-13 11:41 UTC",
-  "total_items": 297,
+  "generated_at": "2026-09-13T12:50:15.758590+00:00",
+  "generated_at_human": "2026-09-13 12:50 UTC",
+  "total_items": 292,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
-    "AutoWeek News",
-    "Autocar BMW",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -50,14 +49,13 @@
     "BimmerFile",
     "BimmerToday DE",
     "Bring a Trailer",
+    "Car and Driver",
     "Car and Driver BMW",
-    "Car and Driver News",
-    "Car and Driver Reviews",
-    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
+    "CarScoops Volvo",
     "CarWale IN",
     "Diariomotor",
     "Electrek",
@@ -65,22 +63,48 @@
     "Hagerty Media",
     "Hagerty People",
     "Kolesa RU",
-    "Motor.es",
     "Motor1 BMW",
     "Motor1 Genesis",
     "Motor1 Land Rover",
     "Motor1 Volvo",
     "MotorBeam IN",
+    "Motoring Research",
     "Motoring World IN",
     "Motorious",
     "Motorsport WEC",
     "Paul Tan",
     "RACER",
-    "TopSpeed"
+    "RushLane IN"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 14,
+  "sources_count": 71,
+  "multi_photo_items": 13,
   "items": [
+    {
+      "id": "92c08f807cbe00d4",
+      "title": "Tiene un diseño perfecto y sólo un problema, pero este BMW Z8 de 2026 sería todo un acierto como deportivo de Alpina",
+      "summary": "Es cierto que la situación que se encuentra atravesando el sector de la automoción deja poco margen a los fabricantes para lanzar coches que se alejan de todo lo que no sea eficiente pero, al mismo tiempo, es precisamente la parte más exclusiva del mercado la que, euro por euro, sigue ofreciendo a las empresas más grandes de la industria un nicho fácilmente explotable desde el punto de vista económico: la de los modelos limitados o tiradas producción muy cortas . Y es ahí donde parece que BMW quiere acercarse con la adquisición de Alpina , hasta hace poco preparadora independiente de la…",
+      "url": "https://www.diariomotor.com/noticia/bmw-z8-simolude-recreaciones/",
+      "image": "https://www.diariomotor.com/imagenes/2026/09/BMW-Z8-Simolude-2-6aa421d0c9b00.jpg?class=XL",
+      "images": [
+        "https://www.diariomotor.com/imagenes/2026/09/BMW-Z8-Simolude-2-6aa421d0c9b00.jpg?class=XL"
+      ],
+      "source": "Diariomotor",
+      "source_url": "https://www.diariomotor.com",
+      "published": "2026-09-13T12:00:39+00:00"
+    },
+    {
+      "id": "d83e04994e8df082",
+      "title": "New BMW 3 Series ICE will get four and six-cylinder petrol engines",
+      "summary": "BMW has moved the internal combustion engine-powered version of the next-gen 3 Series into the final phase of development.",
+      "url": "https://www.carwale.com/news/new-bmw-3-series-ice-will-get-four-and-six-cylinder-petrol-engines/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
+      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/227362/exterior-left-front-three-quarter.jpeg?isig=0",
+      "images": [
+        "https://imgd.aeplcdn.com/600x337/n/cw/ec/227362/exterior-left-front-three-quarter.jpeg?isig=0"
+      ],
+      "source": "CarWale IN",
+      "source_url": "https://www.carwale.com",
+      "published": "2026-09-13T11:40:55+00:00"
+    },
     {
       "id": "74c1afc6c7b34d72",
       "title": "2027 BMW i3 Walkaround Video Previews The Next 3 Series",
@@ -119,32 +143,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-13T04:40:29+00:00"
-    },
-    {
-      "id": "5996250a6e80cb96",
-      "title": "The Adventure Bike That Feels Right At Home On Any Road",
-      "summary": "The BMW R 1300 GS packs 145 hp, radar safety tech, and optional auto gearbox into a 523-lb adventure bike starting at $20,395.",
-      "url": "https://www.topspeed.com/adventure-bike-feels-at-home-on-any-road/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/p90530038_highres_bmw-r-1300-gs-gs-tro.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/p90530038_highres_bmw-r-1300-gs-gs-tro.jpg"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-09-13T00:45:14+00:00"
-    },
-    {
-      "id": "9f08000395bf87fd",
-      "title": "40 Years, 7 Generations, 1 Unstoppable Icon - The BMW M3 Remains A Performance Benchmark",
-      "summary": "One of BMW's most important products has four decades of history, and the next big chapter is about to begin.",
-      "url": "https://carbuzz.com/bmw-m3-40th-anniversary-monterey-august-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/40-years-of-bmw-m3.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/40-years-of-bmw-m3.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-09-13T00:23:11+00:00"
     },
     {
       "id": "1d4125bc54258d6c",
@@ -199,32 +197,6 @@
       "published": "2026-09-12T17:50:37+00:00"
     },
     {
-      "id": "dde5dcfdd0d5a144",
-      "title": "Primeras imágenes de la BMW R20, la moto con el motor bóxer más grande de BMW que el mercado quiere en 2026",
-      "summary": "Si hay una moto cuya llegada a las calles suscita un interés especial dentro del catálogo de productos adelantado por BMW Motorrad, la división de motocicletas del fabricante alemán, esa es, sin duda, la BMW R20 . Este modelo será el encargado de llevar un paso más allá las posibilidades del motor bóxer dentro de la marca y ahora tenemos nuevas noticias sobre él. Y es que la marca ha publicado las primeras imágenes (no con demasiada calidad o detalle, honestamente) de la que, a tenor de los detalles que se aprecian, parece ser una versión próxima a producción de la BMW R20, si es que no es…",
-      "url": "https://www.diariomotor.com/noticia/primeras-imagenes-movimiento-bmw-r20/",
-      "image": "https://www.diariomotor.com/imagenes/2026/09/BMW-R20-primeras-imagenes-en-movimiento-7-6aa2dccd0b900.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/09/BMW-R20-primeras-imagenes-en-movimiento-7-6aa2dccd0b900.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-09-12T16:00:03+00:00"
-    },
-    {
-      "id": "2eda1d4889274169",
-      "title": "El BMW Z4 vuelve después de su adiós, Bovensiepen lo convierte en un deportivo de 435 CV y más de 110.000 euros",
-      "summary": "No hay BMW Z4 más exclusivo en el mundo que el de esta firma alemana, y sólo existirán 99. Bovensiepen Bovensiepen, los herederos de Alpina, han rescatado el BMW Z4 descatalogado para convertirlo en un roadster muy exclusivo. Limitado a 99 unidades y con un precio que roza los 116.000 euros, esta es la última oportunidad de comprar este modelo basado con casi 450 CV. Hubo unos años de auténtica pasión por los descapotables. A mediados de los años 90, las tres grandes marcas alemanas - BMW , Mercedes y Porsche- se metieron en una guerra con los roadster como protagonistas, que no son más…",
-      "url": "https://www.motor.es/noticias/bmw-z4-bovensiepen-spider-2026116362.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/bmw-z4-bovensiepen-spider-2026116362-1789129654_3.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/bmw-z4-bovensiepen-spider-2026116362-1789129654_3.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-12T13:04:16+00:00"
-    },
-    {
       "id": "1a28690a2f04b62b",
       "title": "1986 Cadillac Cimarron: Improvements Implemented",
       "summary": "Oh, the Cimarron, what a loaded name. Armchair experts have forever yelled and screamed and disdained the nameplate. That initial small Cadillac was meant to compete with yuppie bait cars from the likes of BMW, Volvo, and the ‘baby Benz’ 190E. But by just the second model year, the car was improving. And in typical […]",
@@ -260,21 +232,8 @@
       "published": "2026-09-12T12:29:25+00:00"
     },
     {
-      "id": "8641a50917195b37",
-      "title": "El BMW Z4 resucita como Bovensiepen Spider y junto a una receta aún más apetecible",
-      "summary": "BMW ya no fabrica roadsters, algo que a muchos aún nos cuesta asimilar. Hace apenas unos meses el BMW Z4 nos dijo adiós para siempre , sin embargo un grupo de petrolheads en Alemania se niega a aceptar esta realidad y por eso ha creado una serie limitada que permitirá a 99 afortunados llevarse a casa el mejor Z4 fabricado en esta generación . Bovensiepen Spider , ese es el nombre del mejor BMW Z4 creado sobre la tercera generación del modelo. Y puede que no te suene de nada el nombre de Bovensiepen, pero si te decimos que detrás está firma está la Alpina original , es muy probable que la…",
-      "url": "https://www.diariomotor.com/noticia/bmw-z4-bovensiepen-spider/",
-      "image": "https://www.diariomotor.com/imagenes/2026/09/bovensiepen-spider-bmw-z4-01-6aa3e4c3a91f4.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/09/bovensiepen-spider-bmw-z4-01-6aa3e4c3a91f4.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-09-12T12:00:22+00:00"
-    },
-    {
-      "id": "5c432bbd53983380",
-      "title": "Dean Huijsen, jugador del Real Madrid, deja el BMW que tiene por contrato en el garaje para estrenar su nuevo Clase G personalizado al que le ha quitado la estrella de Mercedes para poner sus iniciales",
+      "id": "6ce8fe52dbde0f58",
+      "title": "Dean Huijsen, jugador del Real Madrid, deja el BMW que tiene por contrato con el club en el garaje para estrenar su nuevo Clase G personalizado al que le ha quitado la estrella de Mercedes para poner sus iniciales",
       "summary": "El defensa merengue se compra un Mercedes-AMG G63 totalmente personalizado con una potencia de 585 CV.",
       "url": "https://www.autobild.es/deportes/dean-huijsen-jugador-real-madrid-deja-bmw-que-tiene-por-contrato-con-club-garaje-para-estrenar-su-nuevo-clase-g-personalizado-que-le-ha-quitado-estrella-mercedes-para-poner-sus-iniciales_7034039_0.html",
       "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/09/08/6a9fd55ace4760-72966355.jpeg",
@@ -318,34 +277,24 @@
       "url": "https://www.autocar.co.uk/car-review/audi/rs5",
       "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/audi-rs5-review-2026-117.jpg?itok=uCaPOKnv",
       "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/audi-rs5-review-2026-117.jpg?itok=uCaPOKnv",
-        "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/ipso_regulated.png",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/illya-verpraet-mug-1.jpg?itok=Uu02JECO",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/audi-rs5-review-2026-117.jpg?itok=91eqHt7P",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/audi-rs5-review-2026-118.jpg?itok=anib-Ufg",
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/audi-rs5-review-2026-119.jpg?itok=1KsL0CED"
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/audi-rs5-review-2026-117.jpg?itok=uCaPOKnv"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-12T07:00:00+00:00"
     },
     {
-      "id": "70c738c51edd65e9",
-      "title": "BMW Takes iX5 Hydrogen One Step Closer to Production",
-      "summary": "The automaker has begun real-world testing of its next-generation hydrogen SUV while preparing its fuel-cell system for series production in Europe.",
-      "url": "https://www.autoweek.com/news/a73691091/bmw-ix5-hydrogen-one-step-closer-to-production/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg",
+      "id": "2545831626c82991",
+      "title": "BMW F 450 GS Prices Hiked In India By Up To Rs 30k",
+      "summary": "In addition to the Indian market, BMW F 450 GS is also witnessing strong demand across export markets such as Europe The post BMW F 450 GS Prices Hiked In India By Up To Rs 30k appeared first on RushLane .",
+      "url": "https://www.rushlane.com/bmw-f-450-gs-prices-hiked-in-india-by-up-to-rs-30k-12555705.html",
+      "image": "https://www.rushlane.com/wp-content/uploads/2026/04/bmw-f-450-gs-exclusive-mid-spec-variant-18.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/e4fa2cc7-d979-453d-a342-fe56042def36.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/65a177a8-426d-4258-8ac0-e42498e7d5b5.jpg?crop=1xw:0.844xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/228c823a-7c6b-43f4-b319-649aaedd1db5.jpg?crop=0.667xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/3020da05-7905-464a-8149-399b62a4201b.jpeg?crop=0.667555555556xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/73376991-0b9a-4ae4-b62b-3997be110a5d.jpg?crop=0.566xw:1.00xh;0.0881xw,0&resize=360:*"
+        "https://www.rushlane.com/wp-content/uploads/2026/04/bmw-f-450-gs-exclusive-mid-spec-variant-18.jpg"
       ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-09-11T21:15:14+00:00"
+      "source": "RushLane IN",
+      "source_url": "https://rushlane.com",
+      "published": "2026-09-12T05:15:09+00:00"
     },
     {
       "id": "74c2bc929e9cd9f6",
@@ -395,7 +344,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/8df6317a-ea47-4ae1-8fd6-0f334e4ac405.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-09-11T15:36:06+00:00"
     },
@@ -455,6 +404,24 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-11T13:15:06+00:00"
+    },
+    {
+      "id": "903824863a308804",
+      "title": "Volvo’s Decade-Old XC40 Refuses To Die, Gains Design And Tech Updates",
+      "summary": "The XC40, EX40, and EC40 benefit from a styling, tech, and safety makeover to carry on against the rival BMW X1, Mercedes GLA, and Audi Q3",
+      "url": "https://www.carscoops.com/2026/09/volvos-decade-old-xc40-refuses-to-die-gains-design-and-tech-updates/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-40-Series-facelift-3s-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-40-Series-facelift-3s-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-32-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-31-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-33-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-36-2048x1536.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-35-2048x1536.jpg"
+      ],
+      "source": "CarScoops Volvo",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-11T13:05:00+00:00"
     },
     {
       "id": "444ae020a2fc51cf",
@@ -522,6 +489,19 @@
       "published": "2026-09-11T10:03:10+00:00"
     },
     {
+      "id": "ba566abda227beca",
+      "title": "Best family SUVs to buy in 2026",
+      "summary": "SUVs are hugely popular family cars. We round up the best ones to buy in 2026, including the BMW iX3, Skoda Kodiaq and Renault Scenic E-Tech The post Best family SUVs to buy in 2026 appeared first on Motoring Research .",
+      "url": "https://www.motoringresearch.com/best-cars/best-family-suvs/",
+      "image": "https://www.motoringresearch.com/wp-content/uploads/2026/03/021-Best-Family-SUVs.jpg",
+      "images": [
+        "https://www.motoringresearch.com/wp-content/uploads/2026/03/021-Best-Family-SUVs.jpg"
+      ],
+      "source": "Motoring Research",
+      "source_url": "https://www.motoringresearch.com",
+      "published": "2026-09-11T09:17:00+00:00"
+    },
+    {
       "id": "9b6bda1db597394f",
       "title": "BMW Celebrates Nürburgring Centenary With Six Limited-Edition M Cars",
       "summary": "Limited-run versions of everything from the M2 to the M5 Touring mark 100 years of the Green Hell.",
@@ -561,7 +541,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen_spider_07.jpg?itok=W1yQFTbE"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-11T07:45:48+00:00"
     },
@@ -709,7 +689,7 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/d5fddaf5-b1e8-4584-a240-54c234c7c727.jpg"
       ],
-      "source": "Car and Driver News",
+      "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-09-10T17:55:00+00:00"
     },
@@ -740,19 +720,6 @@
       "published": "2026-09-10T14:13:54+00:00"
     },
     {
-      "id": "f4c27f364dfc32d5",
-      "title": "BMW 7 Series Range to Launch in India Tomorrow",
-      "summary": "The prices of the entire revamped range of BMW 7 Series will be announced tomorrow.",
-      "url": "https://www.carwale.com/news/bmw-7-series-range-to-launch-in-india-tomorrow/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/227282/7-series-facelift-exterior-front-view.jpeg?isig=0",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/227282/7-series-facelift-exterior-front-view.jpeg?isig=0"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-09-10T13:06:11+00:00"
-    },
-    {
       "id": "512dcaefb42261b8",
       "title": "New i3 Electric Sedan Filmed At BMW Welt With M Sport Package",
       "summary": "This week in the BMW world, it’s all about the new 3 Series and its M350 six-cylinder sibling. But let’s not forget: its electric cousin entered series production over a month ago. The i3 sedan... First published by https://www.bmwblog.com",
@@ -761,7 +728,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-16-830x554.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-10T13:00:18+00:00"
     },
@@ -774,7 +741,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2026-BMW-i3-First-Edition-6-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-10T12:08:31+00:00"
     },
@@ -787,7 +754,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/mazda-cx-6e-review-2026-051.jpg?itok=CDybUQSr"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-10T09:22:34+00:00"
     },
@@ -813,7 +780,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/bmw-m350-vs-f80-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M3",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-09T22:54:35+00:00"
     },
@@ -1181,19 +1148,6 @@
       "published": "2026-09-07T22:01:15+00:00"
     },
     {
-      "id": "36ca385929036cdf",
-      "title": "2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas",
-      "summary": "The upcoming not-quite-M3 model treads closer than ever to full M status.",
-      "url": "https://www.caranddriver.com/reviews/a73584051/2027-bmw-m350-prototype-drive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-09-07T22:01:00+00:00"
-    },
-    {
       "id": "4d9be88c2e907ff5",
       "title": "BMW 3 Series M350 brings 437bhp straight six – and drift mode",
       "summary": "Replacement for the M340i keeps its 3.0-litre straight six but puts out 50bhp and 30lb ft more The range-topping M350 derivative of the next-generation BMW 3 Series will be significantly more powerful than its M340i predecessor – and it will offer a drift mode for the first time. Aside from the M3 , it will be the only derivative of the 3 Series available with the signature turbocharged 3.0-litre in-line six-cylinder engine, BMW said. It will put out 437bhp and 428lb ft, increases of 50bhp and 30lb ft respectively. Drive will be sent to all four wheels via the familiar eight-speed…",
@@ -1202,7 +1156,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651553_highres.jpg?itok=RyGW7cPr"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-07T22:01:00+00:00"
     },
@@ -2005,7 +1959,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/08/bmw-ix-xDrive50-review-02-830x467.jpg"
       ],
-      "source": "BMW Blog i",
+      "source": "BMW Blog iX tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T18:32:45+00:00"
     },
@@ -2060,19 +2014,6 @@
       "source": "BMW Blog X7",
       "source_url": "https://bmwblog.com",
       "published": "2026-08-26T00:13:59+00:00"
-    },
-    {
-      "id": "61d6f4ebefdace52",
-      "title": "Waymo Is Taking Its Robotaxis into BMW’s Backyard",
-      "summary": "The autonomous-driving company will begin testing in Munich within weeks ahead of a potential fully driverless service in late 2027.",
-      "url": "https://www.autoweek.com/news/a73524631/waymo-robotaxis-to-munich-germany/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/8c5d3367-d4a9-4930-a75f-bd98b074c829.jpeg"
-      ],
-      "source": "AutoWeek News",
-      "source_url": "https://www.autoweek.com",
-      "published": "2026-08-25T20:00:58+00:00"
     },
     {
       "id": "0d5c5f7d30f23a2d",
@@ -3256,19 +3197,6 @@
       "source": "Motor1 Genesis",
       "source_url": "https://www.motor1.com",
       "published": "2026-07-27T14:00:00+00:00"
-    },
-    {
-      "id": "ce3f06d7de8a53ec",
-      "title": "New BMW X5 Long Wheelbase Stretches Out In China",
-      "summary": "It’s only been about a month since BMW introduced the fifth-generation X5, and it has already given the luxury SUV the long-wheelbase treatment. While the global model carries the G65 codename, its bigger brother is... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/07/27/2027-bmw-x5-long-wheelbase-debut-china/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-Long-Wheelbase-6-830x467.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/2027-BMW-X5-Long-Wheelbase-6-830x467.jpg"
-      ],
-      "source": "BMW Blog X5",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-07-27T07:05:10+00:00"
     },
     {
       "id": "27f04a46093ce7f8",
