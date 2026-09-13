@@ -1,7 +1,7 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-13T15:06:24.777746+00:00",
-  "generated_at_human": "2026-09-13 15:06 UTC",
+  "generated_at": "2026-09-13T17:03:11.823665+00:00",
+  "generated_at_human": "2026-09-13 17:03 UTC",
   "total_items": 296,
   "sources_used": [
     "5koleso RU",
@@ -11,7 +11,6 @@
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar BMW",
-    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -53,16 +52,18 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
-    "CarScoops Volvo",
     "CarWale IN",
     "Diariomotor",
     "Electrek",
     "Electrek BMW",
     "Hagerty Media",
+    "Hagerty News",
     "Hagerty People",
     "HotCars",
     "Kolesa RU",
@@ -79,9 +80,49 @@
     "RACER",
     "RushLane IN"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 16,
+  "sources_count": 75,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "d7d0486fc75caa92",
+      "title": "You're Not Imagining It: Car Grilles Are Getting Bigger",
+      "summary": "From BMW to Lexus, car grilles keep getting bigger. Here's why automakers are making their front ends impossible to ignore.",
+      "url": "https://www.motor1.com/features/807909/why-car-grilles-are-getting-bigger/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOKmW/s3/why-are-car-grilles-getting-bigger.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/AkOKmW/s3/why-are-car-grilles-getting-bigger.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/FlkpKVNL02I/s3/thumb.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-09-13T16:00:00+00:00"
+    },
+    {
+      "id": "dba4761b91320ea5",
+      "title": "1989 BMW 325i Convertible 5-Speed",
+      "summary": "This 1989 BMW 325i convertible was purchased in 2024 by the seller, who subsequently installed an Ireland Engineering exhaust system, a short shifter kit, a Z3-specification steering rack, H&R lowering springs, and Koni dampers. Powered by a 2.5-liter inline-six linked to a five-speed manual transmission, it is finished in Salmon Silver Metallic over black leather upholstery. Equipment includes 14\" bottle cap alloy wheels, a removable hardtop, four-wheel anti-lock disc brakes, integrated fog lights, front sport seats, a Continental stereo, cruise control, power windows and locks, an…",
+      "url": "https://bringatrailer.com/listing/1989-bmw-325i-226/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/12274-copy-2026-09-09-nt5-91258.jpg?w=940",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/08/12274-copy-2026-09-09-nt5-91258.jpg?w=940"
+      ],
+      "source": "Bring a Trailer",
+      "source_url": "https://bringatrailer.com",
+      "published": "2026-09-13T15:30:14+00:00"
+    },
+    {
+      "id": "9ebff64bcf782d7a",
+      "title": "BMW Ditched The Two-Piece Tailgate, But Genesis Could Bring It Back",
+      "summary": "Is Genesis about to adopt this much-loved feature BMW just dropped?",
+      "url": "https://carbuzz.com/genesis-patent-two-piece-tailgate-september-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026-genesis-gv80-6423.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2026-genesis-gv80-6423.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-13T15:30:11+00:00"
+    },
     {
       "id": "c43b4fd0a826962c",
       "title": "BMW G74: The G-Class Rival That Never Was",
@@ -115,6 +156,19 @@
       "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-13T15:00:00+00:00"
+    },
+    {
+      "id": "eaa770fdfab4c5b0",
+      "title": "BMW iX5 in Grey Pine: Video liefert mehr Eindrücke vom Elektro-X5 G65",
+      "summary": "Der neue BMW iX5 (G65) zeigt, wie schnell die Entwicklung bei den Elektro-SUV voranschreitet: Noch vor wenigen Monaten war der BMW iX xDrive60 mit bis...",
+      "url": "https://www.bimmertoday.de/2026/09/13/bmw-ix5-in-grey-pine-video-liefert-mehr-eindrucke-vom-elektro-x5-g65/",
+      "image": "https://vg09.met.vgwort.de/na/997789e03b8348979ad200523018f160",
+      "images": [
+        "https://vg09.met.vgwort.de/na/997789e03b8348979ad200523018f160"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-09-13T14:39:12+00:00"
     },
     {
       "id": "92c08f807cbe00d4",
@@ -151,7 +205,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-54-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-13T08:33:39+00:00"
     },
@@ -180,32 +234,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-13T04:40:29+00:00"
-    },
-    {
-      "id": "1d4125bc54258d6c",
-      "title": "2023 BMW X5 M50i M Sport",
-      "summary": "This 2023 BMW X5 M50i was initially delivered to United BMW in Alpharetta, Georgia, and is finished in Ametrin Metallic over Black Sensafin upholstery. The truck was optioned with the Executive and Climate Comfort Packages, which added Icon adaptive LED headlights with Laserlight, heated and ventilated front seats, heated front seat armrests, heated rear seats, and glass controls. Power is provided by a twin-turbocharged 4.4-liter V8 that drives all four wheels through an eight-speed automatic transmission, an M Sport rear differential, and an xDrive all-wheel-drive system. Additional…",
-      "url": "https://bringatrailer.com/listing/2023-bmw-x5-m50i-3/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/DSC00468-54864-1-copy-2026-09-08-z8p-98100.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/DSC00468-54864-1-copy-2026-09-08-z8p-98100.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-09-12T23:10:06+00:00"
-    },
-    {
-      "id": "14030fb4d8052871",
-      "title": "1968 BMW R60US",
-      "summary": "This 1968 BMW R60US was registered in California before it was purchased by the seller and imported to Canada in 2024. Finished in black with white pinstriping, the motorcycle is powered by an air-cooled 594cc opposed-twin paired with a four-speed transmission. It also has an enclosed driveshaft, a kick starter, aftermarket exhaust mufflers, a leading-axle telescopic fork, shrouded rear shocks, drum brakes, and wire-spoke wheels with alloy rims as well as a black Pagusa rider saddle, a passenger pillion, headlight-mounted mirrors, bar-end turn signals, black rubber knee grips, engine…",
-      "url": "https://bringatrailer.com/listing/1968-bmw-r60us-7/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3975-scaled-copy-2026-09-08-bsz-00355.jpeg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3975-scaled-copy-2026-09-08-bsz-00355.jpeg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-09-12T22:50:16+00:00"
     },
     {
       "id": "a59b8e21773f3923",
@@ -316,7 +344,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/audi-rs5-review-2026-117.jpg?itok=uCaPOKnv"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-12T07:00:00+00:00"
     },
@@ -461,24 +489,6 @@
       "published": "2026-09-11T13:15:06+00:00"
     },
     {
-      "id": "903824863a308804",
-      "title": "Volvo’s Decade-Old XC40 Refuses To Die, Gains Design And Tech Updates",
-      "summary": "The XC40, EX40, and EC40 benefit from a styling, tech, and safety makeover to carry on against the rival BMW X1, Mercedes GLA, and Audi Q3",
-      "url": "https://www.carscoops.com/2026/09/volvos-decade-old-xc40-refuses-to-die-gains-design-and-tech-updates/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-40-Series-facelift-3s-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-40-Series-facelift-3s-1024x576.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-32-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-31-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-33-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-36-2048x1536.jpg",
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Volvo-XC40-Facelift-35-2048x1536.jpg"
-      ],
-      "source": "CarScoops Volvo",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-09-11T13:05:00+00:00"
-    },
-    {
       "id": "444ae020a2fc51cf",
       "title": "We Tested Launch Control In The New BMW M350 xDrive",
       "summary": "BMW hasn’t taken the camouflage off the 3 Series, but it allowed journalists to get a taste of its performance. We were on that exclusive list, having been invited to sample the “G50” at the... First published by https://www.bmwblog.com",
@@ -596,7 +606,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bovensiepen_spider_07.jpg?itok=W1yQFTbE"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-11T07:45:48+00:00"
     },
@@ -620,12 +630,7 @@
       "url": "https://www.motor1.com/news/807914/bovensiepen-spider-bmw-z4-m40i/",
       "image": "https://cdn.motor1.com/images/mgl/ko8ABR/s3/bovensiepen-spider-2026.jpg",
       "images": [
-        "https://cdn.motor1.com/images/mgl/ko8ABR/s3/bovensiepen-spider-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/9mW9Nv/s5/bovensiepen-spider-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/7Z1emA/s5/bovensiepen-spider-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/BX1AQR/s5/bovensiepen-spider-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/OoZ13B/s5/bovensiepen-spider-2026.jpg",
-        "https://cdn.motor1.com/images/mgl/ko8ABR/s5/bovensiepen-spider-2026.jpg"
+        "https://cdn.motor1.com/images/mgl/ko8ABR/s3/bovensiepen-spider-2026.jpg"
       ],
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
@@ -783,7 +788,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-bmw-i3-photos-16-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-10T13:00:18+00:00"
     },
@@ -809,7 +814,7 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/mazda-cx-6e-review-2026-051.jpg?itok=CDybUQSr"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-09-10T09:22:34+00:00"
     },
@@ -835,7 +840,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/09/bmw-m350-vs-f80-bmw-m3-00-830x623.jpg"
       ],
-      "source": "BMW Blog M3",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-09T22:54:35+00:00"
     },
@@ -1066,7 +1071,7 @@
       "images": [
         "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/P90651524_highRes_the-new-bmw-3-series-scaled.jpg"
       ],
-      "source": "Hagerty Media",
+      "source": "Hagerty News",
       "source_url": "https://www.hagerty.com",
       "published": "2026-09-08T12:00:00+00:00"
     },
@@ -1078,11 +1083,11 @@
       "image": "https://cdn-4.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
       "images": [
         "https://cdn-4.motorsport.com/images/amp/6zoDAek0/s6/8-toyota-gazoo-racing-toyota-t.jpg",
+        "https://cdn-8.motorsport.com/images/amp/YXyKgBK6/s300/gettyimages-2294963432-1080x72.webp",
         "https://cdn-1.motorsport.com/images/usa/K6OwDN6a/s2/img1610267195-2-2.jpg",
         "https://cdn-2.motorsport.com/images/amp/6zoDAek0/s1000/8-toyota-gazoo-racing-toyota-t.webp",
         "https://cdn.motorsport.com/images/amp/0rVPM3q0/s2/50-ferrari-af-corse-ferrari-49-2.jpg",
-        "https://cdn.motorsport.com/images/mgl/YK15vMb0/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
-        "https://cdn.motorsport.com/images/mgl/0rVP1V50/s1000/51-ferrari-af-corse-ferrari-49.jpg"
+        "https://cdn.motorsport.com/images/mgl/YK15vMb0/s1000/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1211,8 +1216,21 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90651553_highres.jpg?itok=RyGW7cPr"
       ],
-      "source": "Autocar BMW i",
+      "source": "Autocar BMW",
       "source_url": "https://www.autocar.co.uk",
+      "published": "2026-09-07T22:01:00+00:00"
+    },
+    {
+      "id": "36ca385929036cdf",
+      "title": "2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas",
+      "summary": "The upcoming not-quite-M3 model treads closer than ever to full M status.",
+      "url": "https://www.caranddriver.com/reviews/a73584051/2027-bmw-m350-prototype-drive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/32e06795-afd3-46ca-9bc7-2053ce3feea7.jpg"
+      ],
+      "source": "Car and Driver Reviews",
+      "source_url": "https://www.caranddriver.com",
       "published": "2026-09-07T22:01:00+00:00"
     },
     {
@@ -1422,19 +1440,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-04T08:38:06+00:00"
-    },
-    {
-      "id": "09891d4c75555cd6",
-      "title": "BMW Werk Regensburg: ‘Speicher-Hochzeit’ für die Neue Klasse",
-      "summary": "Hochzeiten sind im BMW Werk Regensburg an sich nichts Neues, seit Jahrzehnten werden täglich hunderte Karosserien mit ihren Antriebseinheiten verheiratet. Dennoch gibt es nun eine...",
-      "url": "https://www.bimmertoday.de/2026/09/04/bmw-werk-regensburg-speicher-hochzeit-fur-die-neue-klasse/",
-      "image": "https://vg09.met.vgwort.de/na/52552304c2c143adab48ffb87a52c5ef",
-      "images": [
-        "https://vg09.met.vgwort.de/na/52552304c2c143adab48ffb87a52c5ef"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-09-04T07:35:24+00:00"
     },
     {
       "id": "a040e53501e2c2ba",
@@ -2420,19 +2425,6 @@
       "source": "Motor1 BMW",
       "source_url": "https://www.motor1.com",
       "published": "2026-08-20T07:13:33+00:00"
-    },
-    {
-      "id": "3d97a2c225d6fe41",
-      "title": "The BMW XM Is Reportedly Facing The Chopping Block",
-      "summary": "Munich’s eccentric SUV is struggling, and its future looks increasingly uncertain.",
-      "url": "https://www.motor1.com/news/805528/bmw-xm-successor-unlikely-report/",
-      "image": "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-08-20T05:52:09+00:00"
     },
     {
       "id": "f1c5fc288e405021",
@@ -3756,7 +3748,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/06/bmw-1m-hatchback-02-830x623.jpg"
       ],
-      "source": "BMW Blog M",
+      "source": "BMW Blog 1",
       "source_url": "https://bmwblog.com",
       "published": "2026-06-29T21:30:19+00:00"
     },
