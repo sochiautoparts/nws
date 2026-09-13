@@ -6,11 +6,22 @@ name: Fetch Automotive News
 #   - full (hourly): complete parse of ALL sources, regenerates the files.
 on:
   schedule:
+    # Fallback only — GitHub throttles free-account schedules to 1-2h.
+    # The real 10-min cadence comes from self-perpetuation (see last step).
     # Fast lane: every 10 minutes (offset from full runs)
     - cron: "*/10 * * * *"
     # Full parse: hourly at minute 37
     - cron: "37 * * * *"
-  workflow_dispatch:    # Manual trigger from Actions tab (runs FULL by default)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Refresh mode: tier1 (fast, ~45 feeds) or full (all feeds)"
+        required: false
+        default: "full"
+        type: choice
+        options:
+          - tier1
+          - full
   push:
     branches: [main]
     paths:
@@ -24,6 +35,7 @@ on:
 
 permissions:
   contents: write       # Required to commit JSON files back to repo
+  actions: write        # Required to self-dispatch the next run (self-perpetuation)
 
 concurrency:
   group: fetch-news
@@ -34,12 +46,23 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 25
     env:
-      # full → hourly cron (37 * * * *) or manual dispatch; tier1 → 10-min cron
-      NWS_MODE: ${{ (github.event.schedule == '37 * * * *' || github.event_name == 'workflow_dispatch') && 'full' || 'tier1' }}
+      # dispatch → use inputs.mode; hourly cron (37) → full; everything else → tier1
+      NWS_MODE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode || (github.event.schedule == '37 * * * *' && 'full' || 'tier1') }}
 
     steps:
+      # Очередь не копится: если другой ран активен/в очереди — выходим сразу.
+      # Цепочку продолжает активный ран (он сам вызовет следующий dispatch).
+      - name: Skip if another run is active or queued (no queue buildup)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          ACTIVE=$(curl -s -H "Authorization: token $GH_TOKEN"
+          "https://api.github.com/repos/${{ github.repository }}/actions/runs?per_page=15"
+          | python3 -c "import sys,json;current=int(sys.argv[1]);d=json.load(sys.stdin);others=[r for r in d.get('workflow_runs',[]) if r['id']!=current and r['path']=='.github/workflows/fetch-news.yml' and r['status'] in ('in_progress','queued','waiting','pending')];print(len(others))" ${{ github.run_id }});
+          if [ "$ACTIVE" -gt 0 ]; then echo "Another fetch-news run is active/queued ($ACTIVE) — skipping."; exit 0; else echo "No other runs — proceeding."; fi
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -114,3 +137,30 @@ jobs:
           done
           echo "✗ Failed to push after 3 attempts — another run will refresh soon."
           exit 1
+
+      # ─── Self-perpetuation: GitHub троттлит schedule (реально 1-2ч вместо 10мин).
+      # Поэтому ран сам вызывает следующий tier1 через dispatch API — диспетч-
+      # запуски не троттлятся. Цикл: parse+commit (~2-4 мин) → пауза → dispatch.
+      # Цепь падает? Cron-фоллбеки выше пересеют её. Пуш в main тоже пересеет.
+      - name: Self-perpetuate next tier1 run (bypasses schedule throttling)
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${NWS_MODE}" = "tier1" ]; then
+            echo "tier1 done — pausing 4 min to keep ~10-min cadence..."
+            sleep 240
+          else
+            echo "full done — continuing tier1 chain immediately"
+            sleep 30
+          fi
+          for i in 1 2 3; do
+            HTTP=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/fetch-news.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"mode":"tier1"}}')
+            if [ "$HTTP" = "204" ]; then echo "✅ Next tier1 run dispatched (attempt $i)"; exit 0; fi
+            echo "⚠️ Dispatch attempt $i failed (HTTP $HTTP), retrying..."; sleep 15
+          done
+          echo "⚠️ Self-dispatch failed — cron fallback will re-seed the chain."
