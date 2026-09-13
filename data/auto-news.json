@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-13T06:43:53.817995+00:00",
-  "generated_at_human": "2026-09-13 06:43 UTC",
+  "generated_at": "2026-09-13T11:41:11.904431+00:00",
+  "generated_at_human": "2026-09-13 11:41 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -24,8 +24,10 @@
     "CarBuzz",
     "CarExpert",
     "CarScoops",
+    "CarScoops Honda",
     "CarScoops Porsche",
     "CarScoops Tesla",
+    "CarScoops Toyota",
     "CarWale IN",
     "ClassicCars Journal",
     "Crash.net",
@@ -60,9 +62,350 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 88,
+  "sources_count": 57,
+  "multi_photo_items": 103,
   "items": [
+    {
+      "id": "8061778d4d307de0",
+      "title": "The Honda Motorcycle Owners Rarely Regret Buying",
+      "summary": "The Honda Rebel 1100 is a versatile, Africa Twin-derived cruiser starting at $9,699 with DCT and 87 hp—built to last 100,000 miles.",
+      "url": "https://www.topspeed.com/honda-motorcycle-owners-rarely-regret/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/500520_25ym_honda_cmx1100_rebel.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/500520_25ym_honda_cmx1100_rebel.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/harley-davidson-cvo-street-glide1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/500524_25ym_honda_cmx1100_rebel.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/500432_25ym_honda_cmx1100_rebel.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2025-honda-rebel-1100-dct-engine-close-up-detail.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/02/421250_23ym_cmx1100t_rebel-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T11:30:16+00:00"
+    },
+    {
+      "id": "0d092536a07b44c2",
+      "title": "Toyota Invades Laguna Seca With A Pair Of GR GTs, And The V8 Music Is Glorious",
+      "summary": "We can't wait to get the final details on the car",
+      "url": "https://carbuzz.com/toyota-gr-gt-gt3-sound-great-laguna-seca-september-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/toyota-gr-gt-34.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/toyota-gr-gt-34.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-toyota-gr-gt-gr-gt3-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/img_4318_cropped_processed_by_imagy.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/08/chrysler-pacifica-hybrid-diagram.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/08/2026-chevrolet-corvette-z06-exterior-4-1.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2026-mustang-dark-horse-sc-track-pack-13-36.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-13T11:30:11+00:00"
+    },
+    {
+      "id": "3daca9ecd86f258c",
+      "title": "1974 Corvette Comes With 78,000 Miles, And It's Packing A 4-Speed And Final-Year 454 Big Block",
+      "summary": "Apparently one of only 528 in existence, this big-block unicorn popped up for sale in Texas with a price tag that makes it an absolute bargain.",
+      "url": "https://www.jalopnik.com/2256731/1974-corvette-78000-miles-4-speed-manual-454-big-block-v8/",
+      "image": "https://www.jalopnik.com/img/gallery/1974-corvette-comes-with-78000-miles-and-its-packing-a-4-speed-and-final-year-454-big-block/l-intro-1789236890.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/1974-corvette-comes-with-78000-miles-and-its-packing-a-4-speed-and-final-year-454-big-block/l-intro-1789236890.jpg",
+        "https://www.jalopnik.com/img/gallery/1974-corvette-comes-with-78000-miles-and-its-packing-a-4-speed-and-final-year-454-big-block/intro-1789236890.jpg",
+        "https://www.jalopnik.com/img/gallery/1974-corvette-comes-with-78000-miles-and-its-packing-a-4-speed-and-final-year-454-big-block/what-makes-this-1974-c3-so-special-1789236891.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-09-13T11:05:00+00:00"
+    },
+    {
+      "id": "b977573ec41e38dc",
+      "title": "How Much A 10-Year-Old Lexus Hybrid Battery Could Cost To Replace",
+      "summary": "This is how much you can expect to spend on a decade-old Lexus hybrid battery replacement.",
+      "url": "https://www.topspeed.com/10-year-old-lexus-hybrid-battery-cost/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/2016-lexus-es-300h-driving-front-three-quarter.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/2016-lexus-es-300h-driving-front-three-quarter.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/2016-lexus-rx-hybrid-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/08/dfuns-2026-03-17-1111289df49b3aa52c.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/04/2022-03-07-lexus-ct-gallery-08.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/2016-lexus-es-300h-front-three-quarter-red.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/06/2016-lexus-rx-hybrid-driving.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T11:00:15+00:00"
+    },
+    {
+      "id": "03320f40f2c92806",
+      "title": "Nelson Racing Outlaw 427: 1,200 HP Crate Engine on Pump Gas",
+      "summary": "Nelson Racing's Intercooled Outlaw 427 is a 427.7-cu-in LS twin-turbo V8 making 1,200 hp on 91-octane pump gas and up to 1,500 hp on race fuel, starting at $41,999.",
+      "url": "https://www.hotcars.com/nelson-racing-outlaw-427-pump-gas-crate-engine/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/nelson-outlaw-v8-1.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/nelson-outlaw-v8-1.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/nelson-outlaw-v8-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/nelson-outlaw-v8-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/nelson-outlaw-v8-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/9500-craigslist-corvette-for-sale.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/v-spec-front.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-13T11:00:12+00:00"
+    },
+    {
+      "id": "ca6c0d183b9ad7ff",
+      "title": "The KTM Bike Worth Every Extra Dollar",
+      "summary": "This naked bike not only has class-leading torque ensuring power wheelies in every gear, but you also get top-drawer underpinnings as standard",
+      "url": "https://www.topspeed.com/ktm-bike-worth-every-extra-dollar/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/01/2024-ktm-1390-super-duke-r-action-shot-2.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/01/2024-ktm-1390-super-duke-r-action-shot-2.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/11/my25_streetfighter_v4s_dyn-_2__uc731726_high.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/p90572533_lowres_the-new-bmw-m-1000-r.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/04/ktm-1390-super-duke-r-evo-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/04/ktm-1390-super-duke-r-evo-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/01/2024-ktm-1390-super-duke-r-evo.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T10:45:15+00:00"
+    },
+    {
+      "id": "9d0850aae1018d09",
+      "title": "Toyota GR GT US Allocation Capped at 250 Units, Already Sold Out",
+      "summary": "Toyota's GR GT gets a 200–250-unit US cap, putting it in Ferrari and Porsche scarcity territory. Here's the collector math, powertrain details, and what buyers need to know.",
+      "url": "https://www.hotcars.com/toyota-gr-gt-us-allocation-250-units/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2026/01/tokyo-auto-salon-2026_toyota-gr-gt_15.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2026/01/tokyo-auto-salon-2026_toyota-gr-gt_15.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2026/01/tokyo-auto-salon-2026_toyota-gr-gt_11.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2026/01/tokyo-auto-salon-2026_toyota-gr-gt_12.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/9500-craigslist-corvette-for-sale.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/top-10-best-new-cars-coming-in-2026.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/v-spec-front.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-13T10:31:12+00:00"
+    },
+    {
+      "id": "b1e4b4d548fb88ba",
+      "title": "10 Two-Year-Old Powerful Cruisers Under $15,000",
+      "summary": "Although most American cruisers breach the $15,000 mark, it's still enough to take home some heavy-hitters if you're okay with used models.",
+      "url": "https://www.topspeed.com/used-powerful-cruisers-under-15000/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/06/2024-indian-chief-bobber-dark-horse-10.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/06/2024-indian-chief-bobber-dark-horse-10.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T10:30:14+00:00"
+    },
+    {
+      "id": "eb686a0ac64babb2",
+      "title": "Fire, Flaws, And Mid-Engine Heartbreak: The Tragic Story Of The Pontiac Fiero",
+      "summary": "One of the most joked-about sports cars of the '80s may not deserve all the trash talk after all.",
+      "url": "https://carbuzz.com/the-pontiac-fiero-two-seater-mid-engine-sports-car-bad-reputation/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/pontiac-fiero-mian.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/pontiac-fiero-mian.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/pontiac-fiero-front-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/pontiac-fiero-rear-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/pontiac-fiero-side-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/pontiac-fiero-interior-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/pontiac-fiero-seats-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-13T10:10:10+00:00"
+    },
+    {
+      "id": "3dcd28ba23d93968",
+      "title": "The Used Luxury Sedan That's Actually Worth Buying",
+      "summary": "The 2023 Genesis G90 has already taken its worst depreciation hit, which means it's now a legitimate flagship-luxury bargain.",
+      "url": "https://www.topspeed.com/used-luxury-sedan-worth-buying/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/01/resize_3256-2023genesisg90-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/01/resize_3256-2023genesisg90-1.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T10:01:14+00:00"
+    },
+    {
+      "id": "b4c2a30e98bb1919",
+      "title": "Cadillac EV Pivot Could Extend Gas Performance Lineup Life",
+      "summary": "Cadillac's retreat from its all-EV strategy by 2030 may give gas-powered models like the CT5-V Blackwing a longer future — here's what the reversal means.",
+      "url": "https://www.hotcars.com/cadillac-ev-pivot-gas-performance-reprieve/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/my26_cadillac_ct5_blackwing_curated_hero.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/my26_cadillac_ct5_blackwing_curated_hero.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2025/09/2026-cadillac-escalade-iq-10.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/01/my25-ct5-v-gallery-exterior-modal-front-passenger-side_converted.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/11/the-last-true-american-v8-2024-cadillac-ct5-v-blackwing-front-three-quarter-rolling-shot.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/top-10-best-new-cars-coming-in-2026.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/v-spec-front.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-13T10:01:12+00:00"
+    },
+    {
+      "id": "43c69485a845b30c",
+      "title": "The Forgotten Buick 400 That Made The GS Brutal Before The 455 Buried It",
+      "summary": "Learn about the brutal big-block V8 that gave Buick real American muscle, and turned its reputation for making grandpa cars on its head!",
+      "url": "https://www.hotcars.com/the-forgotten-buick-400-that-made-the-gs-brutal-before-the-455-buried-it/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/1967-buick-gs-400-engine-hemmings.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/1967-buick-gs-400-engine-hemmings.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-13T10:01:12+00:00"
+    },
+    {
+      "id": "c00a81196fa858bd",
+      "title": "The Motorcycle That Makes Bigger Cruisers Feel Unnecessary",
+      "summary": "The Harley-Davidson Nightster Special weighs 483 lbs and starts at $12,499, offering Showa suspension and Brembo brakes without the bulk.",
+      "url": "https://www.topspeed.com/motorcycle-makes-bigger-cruisers-feel-unnecessary/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/2026-harley-davidson-nightster-special-headlight.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/2026-harley-davidson-nightster-special-headlight.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T09:30:14+00:00"
+    },
+    {
+      "id": "2a94fd03278c7d21",
+      "title": "Ford Maverick Vs. Honda Ridgeline: How The Compact Truck Stacks Up To A Mid-Size Pickup",
+      "summary": "The Ford Maverick and Honda Ridgeline may not be the most natural rivals, but both popular trucks have their place. Here's where they differ and compete.",
+      "url": "https://www.jalopnik.com/2252666/ford-maverick-vs-honda-ridgeline-trucks-compare/",
+      "image": "https://www.jalopnik.com/img/gallery/ford-maverick-vs-honda-ridgeline-how-the-compact-truck-stacks-up-to-a-mid-size-pickup/l-intro-1788866975.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/ford-maverick-vs-honda-ridgeline-how-the-compact-truck-stacks-up-to-a-mid-size-pickup/l-intro-1788866975.jpg",
+        "https://www.jalopnik.com/img/gallery/ford-maverick-vs-honda-ridgeline-how-the-compact-truck-stacks-up-to-a-mid-size-pickup/intro-1788866975.jpg",
+        "https://www.jalopnik.com/img/gallery/ford-maverick-vs-honda-ridgeline-how-the-compact-truck-stacks-up-to-a-mid-size-pickup/price-and-size-comparisons-1788866976.jpg",
+        "https://www.jalopnik.com/img/gallery/ford-maverick-vs-honda-ridgeline-how-the-compact-truck-stacks-up-to-a-mid-size-pickup/performance-and-fuel-economy-1788866977.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-09-13T09:25:00+00:00"
+    },
+    {
+      "id": "ee83abf63ddd8a33",
+      "title": "The American Adventure Bike That Quietly Outperformed Its Rivals",
+      "summary": "Harley-Davidson packed 150 horsepower and dynamic ride-height tech into the Pan America 1250, creating a formidable yet heavy open-road tourer.",
+      "url": "https://www.topspeed.com/american-adventure-bike-quietly-outperformed-rivals/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2021-harley-davidson-pan-america-1250-special-6.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/2021-harley-davidson-pan-america-1250-special-6.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T09:15:14+00:00"
+    },
+    {
+      "id": "1ac43bff0e6aa1b5",
+      "title": "The Mona Lisa On Wheels: The $142 Million Mercedes-Benz Sports Car That Shattered World Records",
+      "summary": "The 300 SLR Uhlenhaut Coupe is one of Mercedes-Benz's rarest cars, with only two examples in existence. Here's why it commands such a price tag.",
+      "url": "https://carbuzz.com/mercedes-benz-coupe-worth-142-million/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-5.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-5.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-stuttgart-museum-alexander-migl-wc.jpg?q=49&fit=contain&w=5195&h=2908&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-4.jpg?q=49&fit=contain&w=2560&h=1440&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-sketch.jpg?q=49&fit=contain&w=2545&h=1431&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-6.jpg?q=49&fit=contain&w=2533&h=1425&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/mercedes-benz-300-slr-uhlenhaut-coupe-2.jpg?q=49&fit=contain&w=2524&h=1419&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-13T09:09:10+00:00"
+    },
+    {
+      "id": "de62bf2ec3769b31",
+      "title": "Rising prices are forcing us into older cars, don't tax them as well",
+      "summary": "Mike Rutherford argues that the tougher emissions rules must reflect that millions of Brits rely on older cars every day",
+      "url": "https://www.autoexpress.co.uk/opinion/370418/rising-prices-are-forcing-us-older-cars-dont-tax-them-well",
+      "image": "https://media.autoexpress.co.uk/image/private/s--U_XwYhUd--/t_rss_image_w_845/v1789119745/autoexpress/2026/09/Opinion%20-%20Rutherford%20don%27t%20tax%20older%20cars_cje4hh.jpg",
+      "images": [
+        "https://media.autoexpress.co.uk/image/private/s--U_XwYhUd--/t_rss_image_w_845/v1789119745/autoexpress/2026/09/Opinion%20-%20Rutherford%20don%27t%20tax%20older%20cars_cje4hh.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--5T1Xxlrn--/f_auto,t_author-mobile@1/v1570211854/autoexpress/img_0592-1.jpg",
+        "https://www.autoexpress.co.uk/opinion/370418/t_author-desktop@1/v1570211854/autoexpress/img_0592-1.jpg",
+        "https://www.autoexpress.co.uk/opinion/370418/t_author-mobile@1/v1570211854/autoexpress/img_0592-1.jpg",
+        "https://media.autoexpress.co.uk/image/private/s--U_XwYhUd--/f_auto,t_primary-image-mobile@1/v1789119745/autoexpress/2026/09/Opinion%20-%20Rutherford%20don%27t%20tax%20older%20cars_cje4hh.jpg",
+        "https://www.autoexpress.co.uk/opinion/370418/t_primary-image-desktop@1/v1789119745/autoexpress/2026/09/Opinion%20-%20Rutherford%20don%27t%20tax%20older%20cars_cje4hh.jpg"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-09-13T09:05:25+00:00"
+    },
+    {
+      "id": "5cb50e8d45a42b32",
+      "title": "The Used Adventure Bike Built To Last A Lifetime",
+      "summary": "Discover why the used Honda Africa Twin is the ultimate reliable adventure bike, offering durability, dependability, and value for motorcycle enthusiasts seeking a long-lasting companion on and off the road.",
+      "url": "https://www.topspeed.com/used-adventure-bike-last-a-lifetime/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2016-honda-crf1000l-africa-twin.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2016-honda-crf1000l-africa-twin.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T09:01:15+00:00"
+    },
+    {
+      "id": "d72bd0ffb7a71769",
+      "title": "The Performance SUV That Balances Speed, Comfort, And Daily Usability",
+      "summary": "The 2026 Porsche Macan S starts at $78,900, offers a 4.6-sec 0-60, 161-mph top speed, and 53.1 cu ft of cargo space.",
+      "url": "https://www.topspeed.com/performance-suv-balances-speed-comfort-daily-usability/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/todayo1v231e6.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/todayo1v231e6.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T08:30:14+00:00"
+    },
+    {
+      "id": "27d9d9ea5b917bd6",
+      "title": "Why Pay New Wrangler Prices? These Affordable Jeeps Are Total Trail Monsters",
+      "summary": "There are lots of rugged Jeeps, including the iconic CJ series, Cherokee, and original Wagoneer. These 10 are worth checking out.",
+      "url": "https://carbuzz.com/affordable-jeeps-built-adventure-seekers/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/1979-jeep-cj-7-renegade-hood-and-grille.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/1979-jeep-cj-7-renegade-hood-and-grille.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-13T08:09:10+00:00"
+    },
+    {
+      "id": "8b9447240681b6c8",
+      "title": "The $40K Ducati Superbike Surviving Emissions Rules That Are Killing Its Rivals",
+      "summary": "Ducati is finally giving us a new SP trim of the seventh-generation Panigale V4.",
+      "url": "https://www.topspeed.com/40k-ducati-superbike-surviving-emissions-rules-killing-rivals/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/2025-ducati-panigale-v4-carbon-packs-1.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/2025-ducati-panigale-v4-carbon-packs-1.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-13T08:01:14+00:00"
+    },
+    {
+      "id": "64a925472ebc08b5",
+      "title": "The One-Year Corvette Big-Block That Killed The $538 Fuelie 327",
+      "summary": "The 1965 L78 396 big-block V8 produced 425 hp and cost just $292.70 — far less than the $538 Fuelie 327 — reshaping Corvette's engine philosophy.",
+      "url": "https://www.hotcars.com/one-year-corvette-big-block-killed-538-fuelie-327/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/10/1965-chevy-corvette-sting-ray-badge.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/10/1965-chevy-corvette-sting-ray-badge.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-13T08:01:12+00:00"
+    },
     {
       "id": "9586f900cf1d9af6",
       "title": "Con un interior hecho a mano en madera de roble e incluso \"piedra\", esta camper todoterreno es perfecta como casa portátil",
@@ -5580,9 +5923,14 @@
       "url": "https://www.carscoops.com/2026/09/toyota-c-hr-recall/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/2026-Toyota-CH-R-1024x578.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2026-Toyota-CH-R-1024x578.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026-Toyota-CH-R-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-C-HR-911-6-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2024-Toyota-Tacoma-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026-Toyota-4Runner-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Ford-Bronco-Basecamp-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Last-GR-Supra-Final-Edition-2048x1155.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Toyota",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-11T21:35:00+00:00"
     },
@@ -6094,9 +6442,14 @@
       "url": "https://www.carscoops.com/2026/09/the-cheapest-toyota-track-toy-is-here-and-its-also-the-sharpest-of-them-all/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-new-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-new-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-new-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-Japan-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-Japan-1-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-Japan-2-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-Japan-5-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-GR-Kart-Japan-6-2048x1366.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Toyota",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-11T18:31:00+00:00"
     },
@@ -6671,9 +7024,14 @@
       "url": "https://www.carscoops.com/2026/09/new-more-masculine-honda-passport-trailsport-begs-the-question-do-you-really-need-a-ladder-frame-suv/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-10-copy-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-10-copy-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-10-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-8-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-10-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-1-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Passport-TrailSport-5-2048x1366.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Honda",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-11T16:34:00+00:00"
     },
@@ -6694,292 +7052,6 @@
       "source": "Motor1 Genesis",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-11T16:30:00+00:00"
-    },
-    {
-      "id": "5d60638e9c3b0f3e",
-      "title": "«Cuando Alonso evita el contacto visual, sé que tenemos problemas»: De la Rosa y los nervios en el debut del Aston Martin AMR26B",
-      "summary": "Pedro de la Rosa y Fernando Alonso se abrazan en el paddock de la Fórmula 1 El embajador de Aston Martin confiesa los nervios de cada uno de los miembros del equipo durante el debut del AMR26B en Hungría. Pedro de la Rosa cuenta cómo reaccionó Fernando Alonso tras el primer contacto en pista y la importancia de aquel momento tras meses de sufrimiento. El debut de una evolución importante en la Fórmula 1 siempre se vive con el pulso acelerado dentro del garaje. Sin embargo, la llegada del paquete AMR26B de Aston Martin al Gran Premio de Hungría elevó la tensión a un nivel superior. No en…",
-      "url": "https://www.motor.es/formula-1/alonso-contacto-visual-problemas-de-la-rosa-nervios-debut-aston-martin-amr26b-2026116365.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/alonso-contacto-visual-problemas-de-la-rosa-nervios-debut-aston-martin-amr26b-2026116365-1789138873_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/alonso-contacto-visual-problemas-de-la-rosa-nervios-debut-aston-martin-amr26b-2026116365-1789138873_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-11T16:30:00+00:00"
-    },
-    {
-      "id": "1567d99f1ebcaeb4",
-      "title": "Flagra: Volkswagen Tukan cabine simples aparece em versão mais equipada",
-      "summary": "A Volkswagen Tukan já foi oficialmente apresentada durante a Festa do Peão de Barretos 2026, mas a fabricante ainda não mostrou todas as configurações que vão formar a gama da nova picape. Agora, um novo flagra revela uma configuração cabine simples com acabamento mais sofisticado que o da Robust, versão de entrada já exibida pela marca. A unidade vista rodando em testes pelo perfil @sucata.midia chama atenção principalmente pelas rodas de liga leve, em contraste com as rodas de aço sem calotas da Tukan Robust — nome da versão adiantada com exclusividade pela Autoesporte. O modelo também…",
-      "url": "https://autoesporte.globo.com/carros/segredos-e-flagras/noticia/2026/09/flagra-volkswagen-tukan-cabine-simples-mais-equipada.ghtml",
-      "image": "https://s2-autoesporte.glbimg.com/8c78AzGQn0x7iA756g6HCMQ0pjU=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/m/W/0qGBBZSPeeFyinjBYbeA/volkswagen-tukan-cabine-simples-flagra-traseiro.jpg",
-      "images": [
-        "https://s2-autoesporte.glbimg.com/8c78AzGQn0x7iA756g6HCMQ0pjU=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/m/W/0qGBBZSPeeFyinjBYbeA/volkswagen-tukan-cabine-simples-flagra-traseiro.jpg"
-      ],
-      "source": "Auto Esporte BR",
-      "source_url": "https://autoesporte.globo.com",
-      "published": "2026-09-11T16:28:19+00:00"
-    },
-    {
-      "id": "e4618f29bd1ed7a0",
-      "title": "De zwaarste en grootste Tesla ooit komt naar Europa met een 548 kWh accu",
-      "summary": "Tesla's zijn efficiënt, maar de grootste Tesla ooit heeft naar auto-begrippen een gigantisch hoog verbruik. We hebben het dan natuurlijk over de Tesla Semi, een lel van een vrachtwagen met bijna buitenaardse specificaties.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/de-zwaarste-en-grootste-tesla-ooit-komt-naar-europa-en-heeft-548-kwh-accu/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/277670807/width/800/277670807",
-      "images": [
-        "https://images.autoweek.nl/277670807/width/800/277670807"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-09-11T16:15:33+00:00"
-    },
-    {
-      "id": "18489fdcadcf3016",
-      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "summary": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed. Antonelli set the fastest lap around the halfway mark in the second one-hour session as drivers and teams kept chipping away at their set-ups on the extremely difficult circuit in Madrid. The 5.4km track ... Keep reading",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-9.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "images": [
-        "https://cdn-9.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg"
-      ],
-      "source": "Autosport All",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-09-11T16:14:44+00:00"
-    },
-    {
-      "id": "72982140ec08f7b6",
-      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "summary": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed. Antonelli set the fastest lap around the halfway mark in the second one-hour session as drivers and teams kept chipping away at their set-ups on the extremely difficult circuit in Madrid. The 5.4km track ... Keep reading",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image": "https://cdn-4.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "images": [
-        "https://cdn-4.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg"
-      ],
-      "source": "Autosport F1",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-09-11T16:14:44+00:00"
-    },
-    {
-      "id": "a052df2eb658e1ba",
-      "title": "Он вам не Haval: новый внедорожник GWM H7 представили в Европе",
-      "summary": "Дебют нового GWM H7 вызывает определенные вопросы. Компания Haval в Китае продает кроссовер с тем же индексом H7. Он не имеет ничего общего с представленным внедорожником, ни по платформе, ни по оснащению. GWM H7 – это адаптированная под европейский рынок модель Raptor, которой незначительно доработали кузов. Компания Haval не могла использовать данное название, так как оно […]",
-      "url": "https://5koleso.ru/articles/novosti/on-vam-ne-haval-novyj-vnedorozhnik-gwm-h7-predstavili-v-evrope/",
-      "image": "https://5koleso.ru/wp-content/uploads/2026/09/gwm-h7-2026-2-1024x576.webp",
-      "images": [
-        "https://5koleso.ru/wp-content/uploads/2026/09/gwm-h7-2026-2-1024x576.webp"
-      ],
-      "source": "5koleso RU",
-      "source_url": "https://5koleso.ru",
-      "published": "2026-09-11T16:03:53+00:00"
-    },
-    {
-      "id": "e6431bc0647f6699",
-      "title": "Nissan undercuts Kia to retake the crown as Canada’s most affordable EV",
-      "summary": "The Kia EV3 is no longer Canada’s most affordable electric vehicle with the new 2027 Nissan Leaf S starting at under CA$35,000. more…",
-      "url": "https://electrek.co/2026/09/11/nissan-undercuts-kia-retake-title-canadas-most-affordable-ev/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Nissan-Canadas-most-affordable-EV.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/09/Nissan-Canadas-most-affordable-EV.jpeg?quality=82&#038;strip=all&#038;w=1400"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-09-11T16:03:20+00:00"
-    },
-    {
-      "id": "b7e04a7b09d22bf9",
-      "title": "Antonelli mantiene a Mercedes delante en el duelo con Ferrari; primer accidente en el Madring y problemas para Alonso",
-      "summary": "0 En una primera jornada marcada por la superioridad de Mercedes y Ferrari, Kimi Antonelli se ha hecho con el mejor tiempo del día por poco más de una décima sobre Charles Leclerc y Lewis Hamilton. Problemas mecánicos para Fernando Alonso y primer accidente a cargo de Arvid Lindblad. Tras una primera sesión carente de incidentes y con un asfalto más limpio de lo inicialmente esperado, los pilotos de la Fórmula 1 afrontaban los segundos entrenamientos libres con la firme intención de seguir trabajando en el conocimiento del nuevo circuito de Madrid , así como en la puesta a punto de los…",
-      "url": "https://www.motor.es/formula-1/cronica-f1-gp-espana-fp1-2026116360.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/cronica-f1-gp-espana-fp1-2026116360-1789139620_2.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/cronica-f1-gp-espana-fp1-2026116360-1789139620_2.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-11T16:02:33+00:00"
-    },
-    {
-      "id": "db3b2004354fdf31",
-      "title": "Carlos Sainz y Alex Albon, de tapas antes del GP de España de Fórmula 1: tortilla y callos a la madrileña, y el español se mofa de la forma en la que lo dice el tailandés",
-      "summary": "Williams se está sumergiendo en la cultura madrileña, y el piloto español se siente como en casa, pero su compañero está teniendo ciertos problemas.",
-      "url": "https://www.autobild.es/motor/carlos-sainz-alex-albon-tapas-antes-gp-espana-formula-1-tortilla-callos-madrilena-espanol-se-mofa-forma-que-dice-tailandes_7035498_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/09/11/6aa3b0c60309d4-35163066.jpeg",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/09/11/6aa3b0c60309d4-35163066.jpeg"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-09-11T16:00:00+00:00"
-    },
-    {
-      "id": "c406f2f8dc52d997",
-      "title": "Kabinet trekt 750 miljoen euro extra uit om pijn aan de pomp iets te verzachten",
-      "summary": "De Prinsjesdagplannen zijn gelekt. Voor de automobilist zit daar ook nog nieuws bij. Het was al bekend dat de accijnzen op brandstof minder snel gaan stijgen dan werd gevreesd. Daarbovenop kwam vandaag bij het lekken van de plannen naar boven dat het kabinet de pijn aan de pomp wil verzachten. Het trekt daarvoor 750 miljoen euro uit.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/kabinet-trekt-750-miljoen-euro-extra-uit-om-pijn-aan-de-pomp-iets-te-verzachten/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/271622331/width/800/271622331",
-      "images": [
-        "https://images.autoweek.nl/271622331/width/800/271622331"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-09-11T15:47:15+00:00"
-    },
-    {
-      "id": "5b6e41f7b51eb4a2",
-      "title": "China Has Already Exported More Cars Than Last Year",
-      "summary": "Growing global sales of EV and PHEV models have pushed China's export numbers to their highs, despite shrinking sales at home.",
-      "url": "https://insideevs.com/news/807996/china-sales-export-numbers-best/",
-      "image": "https://cdn.motor1.com/images/mgl/9YR9G/s3/2021-byd-tang-export-to-norway.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/9YR9G/s3/2021-byd-tang-export-to-norway.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-09-11T15:44:34+00:00"
-    },
-    {
-      "id": "134aeaee816b5aea",
-      "title": "Tesla reveals European Semi specs: 550 km range, 800 kW charging",
-      "summary": "Tesla revealed the European specs for its Semi electric truck, and they don’t match the version already in production in the US. The truck will offer up to 550 km (342 miles) of range at 40 tonnes fully loaded. Tesla Europe posted the numbers today, days before the company plans to formally launch the Semi in Europe at the IAA Transportation show in Hannover. more…",
-      "url": "https://electrek.co/2026/09/11/tesla-european-semi-specs-550-km-800-kw/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Tesla-Semi-electric-truck-Europe.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/09/Tesla-Semi-electric-truck-Europe.jpeg?quality=82&#038;strip=all&#038;w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-09-11T15:43:33+00:00"
-    },
-    {
-      "id": "52f60049cb35e1f4",
-      "title": "Novos radares com IA geram 2,3 mil multas em apenas um mês em SP",
-      "summary": "Os radares com inteligência artificial instalados na Rodovia Raposo Tavares, entre os km 17 e 18, no acesso à cidade de São Paulo (SP), começaram a operar no dia 3 de agosto e já geraram mais de 2,3 mil multas neste período. As câmeras detectam o uso de celular ou fones ao volante e a falta do uso do cinto de segurança. De acordo com a concessionária Ecovias, foram aplicadas 2.316 multas no trecho entre os dias 3 de agosto e 3 de setembro, sendo 1.386 ocorrências relacionadas à não utilização do cinto de segurança (59,84%). Dos flagrantes, 779 infratores são condutores e os outros 607 são…",
-      "url": "https://autoesporte.globo.com/servicos/noticia/2026/09/novos-radares-ia-multas-sp-inteligencia-artificial.ghtml",
-      "image": "https://s2-autoesporte.glbimg.com/EookcFavpgjlp2kLRX7uBcIxt1Y=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/N/o/e8dpsaRYyLu5lTfPgqaA/motorista-usa-celular-ao-volante.jpeg",
-      "images": [
-        "https://s2-autoesporte.glbimg.com/EookcFavpgjlp2kLRX7uBcIxt1Y=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/N/o/e8dpsaRYyLu5lTfPgqaA/motorista-usa-celular-ao-volante.jpeg"
-      ],
-      "source": "Auto Esporte BR",
-      "source_url": "https://autoesporte.globo.com",
-      "published": "2026-09-11T15:40:01+00:00"
-    },
-    {
-      "id": "a18c1b10c7ef445a",
-      "title": "GM Announces $250,000 Grant To College For Creative Studies In Detroit",
-      "summary": "Giving students from all backgrounds the chance to explore careers in design.",
-      "url": "https://gmauthority.com/blog/2026/09/gm-announces-250000-grant-to-college-for-creative-studies-in-detroit/",
-      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/09/art-cars_hero-scaled.jpg",
-      "images": [
-        "https://gmauthority.com/blog/wp-content/uploads/2026/09/art-cars_hero-scaled.jpg"
-      ],
-      "source": "GM Authority",
-      "source_url": "https://gmauthority.com",
-      "published": "2026-09-11T15:39:52+00:00"
-    },
-    {
-      "id": "73d856b62e55f92e",
-      "title": "People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It’s Fake",
-      "summary": "Don't get too worked up over this supposed four-door Chevy Camaro test mule. It's as fake as it gets. The post People Are Going Crazy Over This Chevy Camaro Sedan Spy Shot. Too Bad It’s Fake appeared first on The Drive .",
-      "url": "https://www.thedrive.com/news/that-viral-four-door-chevy-camaro-prototype-pic-is-a-fake",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/09/camaro-sedan-rumor.jpg?quality=85",
-      "images": [
-        "https://www.thedrive.com/wp-content/uploads/2026/09/camaro-sedan-rumor.jpg?quality=85"
-      ],
-      "source": "The Drive",
-      "source_url": "https://www.thedrive.com",
-      "published": "2026-09-11T15:36:42+00:00"
-    },
-    {
-      "id": "c184417736728bdf",
-      "title": "The Bovensiepen Spider Is What a BMW Alpina Z4 Would’ve Been",
-      "summary": "From the family that founded the Alpina brand comes a tuned version of the BMW Z4 that gets an extra 47 horsepower and more refined styling.",
-      "url": "https://www.caranddriver.com/news/a73686837/bovensiepen-spider-bmw-z4-revealed/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/8df6317a-ea47-4ae1-8fd6-0f334e4ac405.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/8df6317a-ea47-4ae1-8fd6-0f334e4ac405.jpg"
-      ],
-      "source": "Car and Driver News",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-09-11T15:36:06+00:00"
-    },
-    {
-      "id": "6e5063262deb785d",
-      "title": "Renault’s Sensible New Truck Says It Rides Like An SUV",
-      "summary": "The Niagara enters the Latin American market with style to spare and bold claims in comfort",
-      "url": "https://www.carscoops.com/2026/09/renaults-sensible-new-truck-says-it-rides-like-an-suv/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Renault-Niagara-Latin-America-1aa-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Renault-Niagara-Latin-America-1aa-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-09-11T15:33:00+00:00"
-    },
-    {
-      "id": "9ef62807c5192e61",
-      "title": "WRC Chile: Solberg leads Evans as overnight rain provides curveball",
-      "summary": "Oliver Solberg claimed an 2.3-second lead at Rally Chile after trading times with World Rally Championship leader Elfyn Evans, as overnight rain created tricky conditions. The Toyota duo made the most of the mud, having hoped for rain to reduce the cleaning effect of opening the gravel roads. Solberg kicked off the rally by winning the opening stage by 1.4s from Evans, only for the latter to ... Keep reading",
-      "url": "https://www.autosport.com/wrc/news/wrc-chile-oliver-solberg-leads-elfyn-evans-as-overnight-rain-provides-curveball/10854589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/0mXy7Xz6/s6/oliver-solberg-elliott-edmonds-2.jpg",
-      "images": [
-        "https://cdn-5.motorsport.com/images/amp/0mXy7Xz6/s6/oliver-solberg-elliott-edmonds-2.jpg"
-      ],
-      "source": "Autosport All",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-09-11T15:27:27+00:00"
-    },
-    {
-      "id": "80889d3912948796",
-      "title": "WRC Chile: Solberg leads Evans as overnight rain provides curveball",
-      "summary": "Oliver Solberg claimed an 2.3-second lead at Rally Chile after trading times with World Rally Championship leader Elfyn Evans, as overnight rain created tricky conditions. The Toyota duo made the most of the mud, having hoped for rain to reduce the cleaning effect of opening the gravel roads. Solberg kicked off the rally by winning the opening stage by 1.4s from Evans, only for the latter to ... Keep reading",
-      "url": "https://www.autosport.com/wrc/news/wrc-chile-oliver-solberg-leads-elfyn-evans-as-overnight-rain-provides-curveball/10854589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WRC&utm_term=News&utm_content=uk",
-      "image": "https://cdn-5.motorsport.com/images/amp/0mXy7Xz6/s6/oliver-solberg-elliott-edmonds-2.jpg",
-      "images": [
-        "https://cdn-5.motorsport.com/images/amp/0mXy7Xz6/s6/oliver-solberg-elliott-edmonds-2.jpg"
-      ],
-      "source": "Autosport WRC",
-      "source_url": "https://www.autosport.com",
-      "published": "2026-09-11T15:27:27+00:00"
-    },
-    {
-      "id": "541a8ae57cb93544",
-      "title": "У трёхдверного хэтчбека Mini Cooper появилась спецверсия 1998 GT",
-      "summary": "Особенное исполнение британского хэтча с ДВС предназначено для американского рынка, цена уже известна – 36 875 долларов.",
-      "url": "https://www.kolesa.ru/news/u-trexdvernogo-xetcbeka-mini-cooper-poiavilas-specversiia-1998-gt",
-      "image": "https://kolesa-uploads.ru/-/f2216794-bd91-4d4a-856a-aecc4daa22dc/mini-1998gt-meet-desktoppngminiusaimglarge.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/f2216794-bd91-4d4a-856a-aecc4daa22dc/mini-1998gt-meet-desktoppngminiusaimglarge.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-09-11T15:24:29+00:00"
-    },
-    {
-      "id": "53bd2fd32d65468a",
-      "title": "WRC Chile: Oliver Solberg leads Elfyn Evans as overnight rain provides curveball",
-      "summary": "Oliver Solberg claimed an early 2.3-second lead at Rally Chile after trading times with World Rally Championship leader Elfyn Evans, as overnight rain created tricky conditions. The Toyota duo made the most of the mud, having hoped for rain to reduce the cleaning effect of opening the gravel roads. Solberg kicked off the rally by winning the opening stage by 1.4s from Evans, only for the ... Keep reading",
-      "url": "https://www.motorsport.com/wrc/news/wrc-chile-oliver-solberg-leads-as-elfyn-evans-as-overnight-rain-provides-curveball/10854586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WRC&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/YN7vr7V6/s6/oliver-solberg-elliott-edmonds.jpg",
-      "images": [
-        "https://cdn-3.motorsport.com/images/amp/YN7vr7V6/s6/oliver-solberg-elliott-edmonds.jpg"
-      ],
-      "source": "Motorsport WRC",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-11T15:21:55+00:00"
-    },
-    {
-      "id": "06ebb2421e0446bb",
-      "title": "Первый человекоподобный робот Xpeng Iron сошёл с конвейера. Буквально. Ногами",
-      "summary": "Китайская компания Xpeng на этой неделе объявила о том, что запустила на специализированном заводе в Гуанчжоу производственную линию для человекоподобных роботов Xpeng Iron. Сейчас эта линия работает в пуско-наладочном режиме, полноценное серийное производство Xpeng Iron должно начаться в конце этого года. В 2027 году Xpeng намерена начать коммерческие продажи роботов Iron.",
-      "url": "https://www.kolesa.ru/news/pervyi-celovekopodobnyi-robot-xpeng-iron-sosel-s-konveiera-bukvalno-nogami",
-      "image": "https://kolesa-uploads.ru/-/b340db85-325c-48d5-adc8-baa7244d7a35/0-0.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/b340db85-325c-48d5-adc8-baa7244d7a35/0-0.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-09-11T15:20:37+00:00"
     }
   ]
 }
