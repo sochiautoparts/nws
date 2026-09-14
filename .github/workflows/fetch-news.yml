@@ -54,22 +54,28 @@ jobs:
     steps:
       # Очередь не копится: если другой ран активен/в очереди — выходим сразу.
       # Цепочку продолжает активный ран (он сам вызовет следующий dispatch).
+      # NOTE: exit 0 alone does NOT stop the job (it just marks this step as
+      # success and all later steps run anyway). We export skip=true and gate
+      # every following step on steps.check_active.outputs.skip != 'true'.
       - name: Skip if another run is active or queued (no queue buildup)
+        id: check_active
         env:
           GH_TOKEN: ${{ github.token }}
         run: >
           ACTIVE=$(curl -s -H "Authorization: token $GH_TOKEN"
           "https://api.github.com/repos/${{ github.repository }}/actions/runs?per_page=15"
           | python3 -c "import sys,json;current=int(sys.argv[1]);d=json.load(sys.stdin);others=[r for r in d.get('workflow_runs',[]) if r['id']!=current and r['path']=='.github/workflows/fetch-news.yml' and r['status'] in ('in_progress','queued','waiting','pending')];print(len(others))" ${{ github.run_id }});
-          if [ "$ACTIVE" -gt 0 ]; then echo "Another fetch-news run is active/queued ($ACTIVE) — skipping."; exit 0; else echo "No other runs — proceeding."; fi
+          if [ "$ACTIVE" -gt 0 ]; then echo "Another fetch-news run is active/queued ($ACTIVE) — skipping."; echo "skip=true" >> "$GITHUB_OUTPUT"; exit 0; else echo "No other runs — proceeding."; fi
 
       - name: Checkout repository
+        if: steps.check_active.outputs.skip != 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
+        if: steps.check_active.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -77,17 +83,19 @@ jobs:
           cache-dependency-path: requirements.txt
 
       - name: Install dependencies
+        if: steps.check_active.outputs.skip != 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run news parser
+        if: steps.check_active.outputs.skip != 'true'
         run: |
           echo "NWS_MODE=${NWS_MODE}"
           python fetch_news.py
 
       - name: Show summary
-        if: env.NWS_MODE == 'full'
+        if: steps.check_active.outputs.skip != 'true' && env.NWS_MODE == 'full'
         run: |
           echo "=== BMW news ==="
           python -c "import json;d=json.load(open('data/bmw-news.json'));print(f'items: {d[\"total_items\"]}, sources: {d[\"sources_count\"]}')"
@@ -95,6 +103,7 @@ jobs:
           python -c "import json;d=json.load(open('data/auto-news.json'));print(f'items: {d[\"total_items\"]}, sources: {d[\"sources_count\"]}')"
 
       - name: Commit & push JSON files
+        if: steps.check_active.outputs.skip != 'true'
         run: |
           set -e
           git config user.name  "github-actions[bot]"
@@ -143,7 +152,9 @@ jobs:
       # запуски не троттлятся. Цикл: parse+commit (~2-4 мин) → пауза → dispatch.
       # Цепь падает? Cron-фоллбеки выше пересеют её. Пуш в main тоже пересеет.
       - name: Self-perpetuate next tier1 run (bypasses schedule throttling)
-        if: success()
+        # NOTE: must check skip too — success() alone stays true when earlier
+        # steps were merely skipped, which would re-seed a parallel chain.
+        if: steps.check_active.outputs.skip != 'true' && success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

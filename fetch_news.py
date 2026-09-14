@@ -49,6 +49,14 @@ from urllib.parse import urljoin, urlparse, parse_qs
 import feedparser
 import requests
 
+# feedparser 6.x no longer exposes feedparser._parse_date at the top level
+# (it moved to feedparser.datetimes). Import it defensively so the string-
+# date fallback in parse_date() keeps working across feedparser versions.
+try:
+    from feedparser.datetimes import _parse_date as _fp_parse_date
+except Exception:  # pragma: no cover - very old/new feedparser without the module
+    _fp_parse_date = None
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Logging
 # ─────────────────────────────────────────────────────────────────────────────
@@ -544,17 +552,26 @@ FAST_SOURCE_NAMES: set[str] = {
     "Autocar", "AutoExpress", "Jalopnik", "CarBuzz", "Motor1", "Motor1 News",
     "HotCars", "TopSpeed", "TopSpeed main", "AutoWeek News", "Hagerty Media",
     # Top brand feeds — most-engaged topics for the auto channel
+    # (NOTE: the "Car and Driver <brand>" tier1 feeds — Audi/Porsche/Toyota/
+    #  Hyundai/Chevrolet — were removed from SOURCES, so they are absent here;
+    #  see the drift guard below the marking loop.)
     "CarScoops Tesla", "CarScoops Mercedes", "CarScoops Porsche",
     "CarScoops Toyota", "CarScoops Honda", "CarScoops Ford", "CarScoops VW",
     "CarScoops Hyundai", "CarScoops Kia", "CarScoops Ferrari",
-    "Car and Driver Audi", "Car and Driver Porsche", "Car and Driver Toyota",
-    "Car and Driver Hyundai", "Car and Driver Chevrolet",
     "Autocar Mercedes", "Autocar Audi", "Autocar Tesla", "Autocar Toyota",
 }
 
 for _s in SOURCES:
     if _s.get("name") in FAST_SOURCE_NAMES:
         _s["fast"] = True
+
+# Drift guard: tier1 sources are built from SOURCES, so a FAST_SOURCE_NAMES
+# entry whose feed was deleted from SOURCES silently does nothing. Surface
+# such dead references in the log instead of letting them rot unnoticed.
+_unknown_fast = FAST_SOURCE_NAMES.difference(_s["name"] for _s in SOURCES)
+if _unknown_fast:
+    log.warning("FAST_SOURCE_NAMES references unknown sources (ignored): %s",
+                ", ".join(sorted(_unknown_fast)))
 
 
 BMW_MODEL_PATTERNS: list[re.Pattern] = [
@@ -595,6 +612,21 @@ BLOCKLIST: list[str] = [
     "трактор", "комбайн",
     "porn", "casino", "viagra",
 ]
+
+# Precompiled word-boundary patterns: a blocked word only matches as a whole
+# word (Cyrillic/Latin letters around it), so "газ" no longer kills "газета"
+# and "лада" no longer kills "баллада". Digits/hyphens still count as boundaries
+# (e.g. "газ3110", "уаз-469" stay blocked).
+BLOCKLIST_PATTERNS: list[re.Pattern] = [
+    re.compile(r"(?<![а-яёa-z])" + re.escape(bl) + r"(?![а-яёa-z])", re.IGNORECASE)
+    for bl in BLOCKLIST
+]
+
+
+def is_blocked(title: str, summary: str) -> bool:
+    """True when title+summary contain any blocklisted word as a whole word."""
+    combined = f"{title} {summary}"
+    return any(p.search(combined) for p in BLOCKLIST_PATTERNS)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -757,8 +789,12 @@ def fetch_url(url: str, want_html: bool = False) -> tuple[int | None, bytes | No
         return None, None, str(e)
 
 
-def extract_image(entry: Any) -> str | None:
-    """Try every standard RSS image location. Returns None if no image found."""
+def extract_image(entry: Any, base_url: str = "") -> str | None:
+    """Try every standard RSS image location. Returns None if no image found.
+
+    base_url (scheme + host of the feed URL) is used to resolve relative
+    <img src> paths embedded in the entry HTML (e.g. src="/img/foo.jpg").
+    """
     candidates: list[str] = []
 
     for enc in getattr(entry, "enclosures", []) or []:
@@ -782,7 +818,10 @@ def extract_image(entry: Any) -> str | None:
         if isinstance(val, list) and val:
             val = val[0].get("value", "")
         for m in re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']', str(val)):
-            candidates.append(m.group(1))
+            src = m.group(1)
+            if base_url:
+                src = urljoin(base_url, src)
+            candidates.append(src)
 
     # Return the first NON-garbage candidate; fall back to first candidate
     # only if all are garbage (caller decides whether to drop the item).
@@ -814,7 +853,9 @@ def parse_date(entry: Any) -> str:
         val = getattr(entry, field, "")
         if val:
             try:
-                t = feedparser._parse_date(val)
+                # feedparser 6.x: _parse_date lives in feedparser.datetimes
+                # (see the defensive import at the top of this file).
+                t = _fp_parse_date(val) if _fp_parse_date is not None else None
                 if t:
                     dt = datetime(*t[:6], tzinfo=timezone.utc)
                     return dt.isoformat()
@@ -963,11 +1004,10 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
             summary = summary[:597].rsplit(" ", 1)[0] + "…"
 
         link = getattr(entry, "link", "") or ""
-        image = extract_image(entry)
+        image = extract_image(entry, base_url)
         published = parse_date(entry)
 
-        combined = f"{title} {summary}".lower()
-        if any(bl in combined for bl in BLOCKLIST):
+        if is_blocked(title, summary):
             continue
 
         # ── Photo-quality guard ─────────────────────────────────────────────
