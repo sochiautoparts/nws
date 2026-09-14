@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-14T20:45:22.499674+00:00",
-  "generated_at_human": "2026-09-14 20:45 UTC",
+  "generated_at": "2026-09-14T20:49:52.499546+00:00",
+  "generated_at_human": "2026-09-14 20:49 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -36,7 +36,6 @@
     "HotCars",
     "InsideEVs",
     "Jalopnik",
-    "Kolesa RU",
     "Motor.es",
     "Motor1",
     "Motorsport All",
@@ -53,9 +52,22 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 48,
+  "sources_count": 47,
   "multi_photo_items": 245,
   "items": [
+    {
+      "id": "2a3b229d2bc41e85",
+      "title": "Why More Cars Are Ditching Traditional Badges For Their Full Names",
+      "summary": "Automakers are moving beyond traditional badges and using lettering as an increasingly important part of their visual identity.",
+      "url": "https://www.motor1.com/news/808254/cars-removing-logos-for-brand-names-design/",
+      "image": "https://cdn.motor1.com/images/mgl/W8b9V1/s3/mazda-cx-5-rear-script-text.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/W8b9V1/s3/mazda-cx-5-rear-script-text.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-09-14T20:45:36+00:00"
+    },
     {
       "id": "963ec33e4ffb6d93",
       "title": "Hyundai Might Save Our Souls With A New Convertible Sports Car",
@@ -7688,19 +7700,6 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-09-13T03:00:03+00:00"
-    },
-    {
-      "id": "7b82b4c851c702df",
-      "title": "Он же Гога, он же Гоша, он же Юрий, он же Гора: одинаковые машины с разными именами",
-      "summary": "Автомобили иногда напоминают творческих людей, берущих себе не просто псевдонимы, а целиком меняющие имя и фамилию. Например, выходец из бедной нижегородской семьи Алексей Пешков превратился в известного русского и советского писателя Максима Горького. А его коллега по писательскому цеху Артём Веселый большую часть своей недолгой жизни прожил как Николай Кочкуров. Точно так же бывает и с некоторыми автомобилями. Давайте вспомним наиболее яркие примеры машин, которые носили несколько имён.",
-      "url": "https://www.kolesa.ru/article/on-ze-goga-on-ze-gosa-on-ze-iurii-on-ze-gora-odinakovye-masiny-s-raznymi-imenami",
-      "image": "https://kolesa-uploads.ru/-/6052d225-4e1b-4aac-bde1-a38902159687/1789131205092-01a09087-06db-7e72-a977-9463de5cb55c.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/6052d225-4e1b-4aac-bde1-a38902159687/1789131205092-01a09087-06db-7e72-a977-9463de5cb55c.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-09-13T03:00:00+00:00"
     }
   ]
 }
