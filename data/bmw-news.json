@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-14T21:03:05.976463+00:00",
-  "generated_at_human": "2026-09-14 21:03 UTC",
-  "total_items": 306,
+  "generated_at": "2026-09-14T21:07:33.480125+00:00",
+  "generated_at_human": "2026-09-14 21:07 UTC",
+  "total_items": 307,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -50,6 +50,7 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
@@ -82,9 +83,27 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 77,
-  "multi_photo_items": 24,
+  "sources_count": 78,
+  "multi_photo_items": 25,
   "items": [
+    {
+      "id": "390285a9c8df78c6",
+      "title": "Audi A6, BMW 540i, Genesis G80, and Mercedes-Benz E450: Four Aspirational Four-Doors Comparison Test",
+      "summary": "These cars prove that sedans still have so much luxe to give.",
+      "url": "https://www.caranddriver.com/reviews/comparison-test/a73569758/2026-audi-bmw-genesis-mercedes-benz-luxury-sedan-comparison-test/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a9ff3e04-7c22-4a30-ad18-d98a8faa1462.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/a9ff3e04-7c22-4a30-ad18-d98a8faa1462.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/5515b30c-238b-4444-931d-f62380a3d626.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/9df42152-9479-47eb-95fb-2d6a79314c71.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/1ae6f469-f356-4267-b943-792490eec989.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/3c784ba6-89c0-4ec2-be56-ca6debd5df74.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/1c01bb67-211c-444e-a1ec-e617251ceac1.jpg?crop=1xw:1xh;center"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-09-14T21:06:13+00:00"
+    },
     {
       "id": "5cf8d2b52907b4b7",
       "title": "2026 BMW i4 IIHS Side Crash Test: Good Rating, But No Top Award",
