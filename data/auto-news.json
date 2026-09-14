@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-14T19:43:30.828789+00:00",
-  "generated_at_human": "2026-09-14 19:43 UTC",
+  "generated_at": "2026-09-14T19:48:02.762150+00:00",
+  "generated_at_human": "2026-09-14 19:48 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -11,6 +11,7 @@
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autocar",
     "Autosport All",
     "Autosport F1",
@@ -52,9 +53,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 47,
-  "multi_photo_items": 235,
+  "sources_count": 48,
+  "multi_photo_items": 236,
   "items": [
+    {
+      "id": "53e43f1ba71e8e6d",
+      "title": "Volkswagen Builds Its Most Efficient Electric Vehicle Ever",
+      "summary": "The VW Mission Efficiency concept uses production-ready technology to deliver record-setting energy efficiency, demonstrating how smarter design can add range without a larger battery.",
+      "url": "https://www.autoweek.com/news/a73727370/volkswagen-most-efficient-ev-ever/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/13ff132c-aff2-4cbe-964d-5c123df624ce.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/13ff132c-aff2-4cbe-964d-5c123df624ce.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/5a08193d-ab4a-4731-8d1f-1eb246f7ed47.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/d62265ca-3d71-455f-b629-cc9f28f0ed75.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/6bddc68d-cd1e-4a62-b5bb-d60957afb937.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg?crop=0.666666666667xw:1.000000000000xh;0.207666666667xw,0.000000000000xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/ec58f410-c1c1-4718-8fb2-787947c6fbd2.jpg?crop=0.667xw:1xh;0.301xw,0xh&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-14T19:47:06+00:00"
+    },
     {
       "id": "04e37753f98e0f08",
       "title": "V8-Powered Genesis Supercars Call Out Ferrari, Lamborghini On Their Home Turf",
@@ -7637,19 +7656,6 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-09-13T01:00:03+00:00"
-    },
-    {
-      "id": "69c0b97ae280a08a",
-      "title": "スズキ『GSX-8T/TT』や『Vストローム800』のクラッチ操作を20％軽く！ デイトナ「レリーズアーム」発売",
-      "summary": "オートバイアフターパーツメーカーのデイトナは、スズキ『GSX-8R』『GSX-8S』『GSX-8T』『GSX-8TT』および『Vストローム800』『Vストローム800DE』向けの「ライトクラッチレリーズアーム」を発売した。",
-      "url": "https://response.jp/article/2026/09/13/416508.html",
-      "image": "https://response.jp/imgs/rss/2242506.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2242506.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-09-13T00:30:02+00:00"
     }
   ]
 }
