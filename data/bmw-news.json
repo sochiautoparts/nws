@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-23T14:23:22.312249+00:00",
-  "generated_at_human": "2026-09-23 14:23 UTC",
-  "total_items": 303,
+  "generated_at": "2026-09-23T17:05:23.168661+00:00",
+  "generated_at_human": "2026-09-23 17:05 UTC",
+  "total_items": 306,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -65,6 +65,7 @@
     "Electric Cars Report",
     "Hagerty News",
     "Hagerty People",
+    "HotCars",
     "InsideEVs",
     "Jalopnik",
     "Motor.es",
@@ -79,9 +80,63 @@
     "Response JP",
     "TopSpeed"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 16,
+  "sources_count": 75,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "a7bf12ee8bfbf2ba",
+      "title": "Mazda CX-90: BMW X5 Rival With 340-HP Inline-Six",
+      "summary": "The Mazda CX-90 pairs a 340-hp inline-six with BMW X5-style longitudinal packaging, starting at $39,300 for three-row seating.",
+      "url": "https://www.hotcars.com/the-mainstream-three-row-suv-with-bmw-x5-bones-and-a-340-hp-inline-six/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2026/02/2026-mazda-cx-90-02.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2026/02/2026-mazda-cx-90-02.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/2025-hyundai-venue.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/2027-bmw-x5-on-the-road.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2025/03/amanda-cline-mazda-cx90-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/wm/2025/03/amanda-cline-mazda-cx90-9.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/cx-90-mazda-engine-pic.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-23T17:00:13+00:00"
+    },
+    {
+      "id": "ca9a69ac6a887ad6",
+      "title": "One Badge, Five Personalities: How Porsche, BMW M, And AMG Redefined The Sports Car Lineup",
+      "summary": "Automakers are throwing everything they know in order to differentiate various grades from one another, without switching up the nameplate.",
+      "url": "https://carbuzz.com/sports-car-variety-within-same-nameplate/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/24c0119_018.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/24c0119_018.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/cropped-280307_6000x4008.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/24c0119_016.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/288074-1920x1281-side.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/2025-bmw-m4-exterior-4-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2025-2026-porsche-911-carrera-wheel-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-23T16:03:11+00:00"
+    },
+    {
+      "id": "954a6fba8f2f8866",
+      "title": "BMW X5 Used Buying Guide: Best And Worst Years",
+      "summary": "Not every used BMW X5 is a bargain. This guide covers the best and worst model years, engines, and what to inspect before buying.",
+      "url": "https://www.topspeed.com/bmw-x5-years-worth-buying-and-the-ones-to-avoid/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/2025-bmw-x5-m-competition-feat.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/2025-bmw-x5-m-competition-feat.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/editedp90543796_highres_the-bmw-x5-protectio.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-1212.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2005-bmw-x5-bring-a-trailer.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/sharedimages/2025/05/12-25-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2009-bmw-x5.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-23T16:00:19+00:00"
+    },
     {
       "id": "14a9ba4455c78681",
       "title": "2027 BMW 7 Series And iX3 Hit The Golf Course In Czechia",
