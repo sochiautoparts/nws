@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-24T05:22:42.308217+00:00",
-  "generated_at_human": "2026-09-24 05:22 UTC",
+  "generated_at": "2026-09-24T05:27:18.098851+00:00",
+  "generated_at_human": "2026-09-24 05:27 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -11,6 +11,7 @@
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autosport All",
     "Autosport F1",
     "Autosport MotoGP",
@@ -74,8 +75,8 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 101,
+  "sources_count": 70,
+  "multi_photo_items": 103,
   "items": [
     {
       "id": "acdd3819ffa463fa",
@@ -2036,6 +2037,24 @@
       "source": "The Drive",
       "source_url": "https://www.thedrive.com",
       "published": "2026-09-23T20:34:19+00:00"
+    },
+    {
+      "id": "e0232bd1b3cc45f8",
+      "title": "Nissan Z Kaze Concept Brings Back Glorious ‘90s T-Tops",
+      "summary": "Will it hit production? Nissan isn’t saying, but we can dream.",
+      "url": "https://www.autoweek.com/news/a73850347/nissan-z-kaze-concept-reveal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2a4940a8-18ca-42a6-ac88-0a81c8bad126.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2a4940a8-18ca-42a6-ac88-0a81c8bad126.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/8758c5cc-7f0a-453a-8a1d-f3b05bf9ffcf.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/1bd19472-093b-4f82-acff-c15ca1d29169.jpg?crop=1xw:0.667xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/1f81790d-36b4-4c93-94a3-370a11ab01ea.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/9c76f704-6d5b-435b-913c-be788be9fe6e.jpg?crop=0.666420664207xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/d196f2e4-a2c2-4fcd-94fe-8ae6f59b3b82.jpg?crop=0.75xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-23T20:28:24+00:00"
     },
     {
       "id": "d26ba3ce684b1686",
@@ -5209,6 +5228,24 @@
       "published": "2026-09-23T12:00:03+00:00"
     },
     {
+      "id": "608221aadbcb0263",
+      "title": "Should Kids Learn to Drive Earlier? UK Survey Says Yes",
+      "summary": "Most British driving instructors surveyed believe teens develop stronger driving skills by starting younger, though the findings stop short of proving it makes safer drivers.",
+      "url": "https://www.autoweek.com/news/a73851407/uk-survey-says-kids-should-learn-to-drive-earlier/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f322b753-b1f5-408a-90e3-0da16f87fbbc.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/f322b753-b1f5-408a-90e3-0da16f87fbbc.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/4b80abd1-3c40-4d6d-81d6-a77ddced2a0c.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/9c1ace4a-68b7-4ae4-a2ae-5049844d93f3.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/2a4940a8-18ca-42a6-ac88-0a81c8bad126.jpg?crop=0.666xw:1xh;0.131xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/80229bda-90c9-451c-9b67-a8ece27fffa9.png?crop=0.556xw:1xh;0.073xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/8bbcfed6-0c49-44c2-bcb5-f9bce9d5ae79.jpeg?crop=0.75xw:1xh;0.073xw,0xh&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-23T12:00:00+00:00"
+    },
+    {
       "id": "01c6b6717679173c",
       "title": "McLaren Automotive Touts New Logo, Teases SUV",
       "summary": "New logo, same commitment to speed",
@@ -7040,32 +7077,6 @@
       "source": "Motor1 Subaru",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-23T06:05:00+00:00"
-    },
-    {
-      "id": "8955c9585bceed59",
-      "title": "Bakú, la última carta de Williams: por qué la gran actualización ya no basta para 2026, pero es crucial para 2027",
-      "summary": "El Williams FW48 recibirá una importante actualización en Bakú. Williams estrena en Azerbaiyán la gran actualización del FW48 que lleva meses preparando, tras un sobrepeso inicial y una sequía de puntos desde Mónaco. Albon, Sainz y Vowles coinciden en algo: llega tarde y ya no basta para cambiar el rumbo de la temporada. Hace apenas un año, Carlos Sainz salía segundo y acababa tercero en el Gran Premio de Azerbaiyán con un Williams que competía de tú a tú con la zona alta de la parrilla. Aquel resultado marcó el techo de lo que el equipo de Grove prometía para 2026: dar el salto definitivo…",
-      "url": "https://www.motor.es/formula-1/baku-ultima-carta-williams-gran-actualizacion-basta-crucial-2026116578.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/09/baku-ultima-carta-williams-gran-actualizacion-basta-crucial-2026116578-1790092151_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/09/baku-ultima-carta-williams-gran-actualizacion-basta-crucial-2026116578-1790092151_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-23T06:00:00+00:00"
-    },
-    {
-      "id": "d6a9571c76df27ec",
-      "title": "Nieuwe Peugeot 208: altijd elektrisch en naast de oude",
-      "summary": "2027 wordt bij Peugeot het jaar van de nieuwe 208. De nieuwe Peugeot 208 komt op een splinternieuw en voor Stellantis uiterst belangrijk nieuw platform te staan, maar hij duwt het huidige model lang niet overal direct uit de showroom.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/nieuwe-peugeot-208-enkel-elektrisch-en-naast-de-oude/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/265052577/width/800/265052577",
-      "images": [
-        "https://images.autoweek.nl/265052577/width/800/265052577"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-09-23T05:44:44+00:00"
     }
   ]
 }

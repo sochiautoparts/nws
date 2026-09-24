@@ -1,14 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-24T05:22:42.301487+00:00",
-  "generated_at_human": "2026-09-24 05:22 UTC",
-  "total_items": 295,
+  "generated_at": "2026-09-24T05:27:18.093715+00:00",
+  "generated_at_human": "2026-09-24 05:27 UTC",
+  "total_items": 297,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "Auto Esporte Carros",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -77,8 +78,8 @@
     "Motorsport WEC",
     "TopSpeed"
   ],
-  "sources_count": 72,
-  "multi_photo_items": 16,
+  "sources_count": 73,
+  "multi_photo_items": 17,
   "items": [
     {
       "id": "4b1fc02cd48488bc",
@@ -457,6 +458,24 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-23T01:34:22+00:00"
+    },
+    {
+      "id": "7c14861b12c46e51",
+      "title": "Saudi Arabia’s First Car Is an 838-HP Electric Exotic",
+      "summary": "Oil-rich Saudi Arabia is entering the auto industry with dramatic new Ceer EVs featuring BMW-derived technology, Foxconn engineering, and styling by a former McLaren designer.",
+      "url": "https://www.autoweek.com/news/a73841829/ceer-exobot-electric-supercar-from-saudi-arabia-reveal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/80229bda-90c9-451c-9b67-a8ece27fffa9.png",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/80229bda-90c9-451c-9b67-a8ece27fffa9.png",
+        "https://hips.hearstapps.com/hmg-prod/images/12f33420-b58d-4deb-bba2-e141e1e1ba8d.png?crop=1xw:0.696xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f73e8d85-9223-408f-8a0b-2dfe8a2c838e.png?crop=1xw:0.651xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/7baae9b5-af8d-46a7-9cc0-e5d50542c335.png?crop=1xw:0.744xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/soc-inarticlesignup-1619211033.png?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/670fb012-be45-406d-9bbe-939c9eb68d40.jpg?crop=0.667xw:1xh;0.19xw,0xh&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-22T23:56:48+00:00"
     },
     {
       "id": "a406938c1f03280c",
@@ -1497,6 +1516,19 @@
       "source": "MotorBeam IN",
       "source_url": "https://motorbeam.com",
       "published": "2026-09-12T12:29:25+00:00"
+    },
+    {
+      "id": "70c738c51edd65e9",
+      "title": "BMW Takes iX5 Hydrogen One Step Closer to Production",
+      "summary": "The automaker has begun real-world testing of its next-generation hydrogen SUV while preparing its fuel-cell system for series production in Europe.",
+      "url": "https://www.autoweek.com/news/a73691091/bmw-ix5-hydrogen-one-step-closer-to-production/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/f1dc3aee-5998-4e2d-8bbb-7ef813566ab9.jpg"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-11T21:15:14+00:00"
     },
     {
       "id": "74c2bc929e9cd9f6",
