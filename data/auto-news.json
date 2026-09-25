@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-25T20:40:02.900782+00:00",
-  "generated_at_human": "2026-09-25 20:40 UTC",
+  "generated_at": "2026-09-25T20:44:29.904429+00:00",
+  "generated_at_human": "2026-09-25 20:44 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -13,7 +13,6 @@
     "AutoWeek News",
     "Autocar",
     "BarnFinds",
-    "Bike EXIF",
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver News",
@@ -50,9 +49,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 45,
-  "multi_photo_items": 343,
+  "sources_count": 44,
+  "multi_photo_items": 344,
   "items": [
+    {
+      "id": "32e9cf9ef30679ce",
+      "title": "Rivian Recalls 100,000 Vehicles For The Weirdest Camera Problem Ever",
+      "summary": "A strange set of circumstances could cause rear visibility issues.",
+      "url": "https://carbuzz.com/rivian-r1s-r1t-r2-camera-recall-26v597/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/exterior1-2.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/exterior1-2.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2022-2026-rivian-r1s-suv-42.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-rivian-r2-hero-shot-june-26.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/2027-rivian-r2-exterior-june-26-26.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/lexus-mschf-twistedcar-04.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2025-volkswagen-id-buzz-front-end-closeup.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-25T20:40:11+00:00"
+    },
     {
       "id": "251af09c5b038c1c",
       "title": "TechArt GTclassic: 374-HP 964 Restomod Takes On Singer",
@@ -8175,19 +8192,6 @@
       ],
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
-      "published": "2026-09-23T18:00:00+00:00"
-    },
-    {
-      "id": "d5f496d9c1fc18a1",
-      "title": "Second wind: A Yamaha DT175 reconfigured for the road",
-      "summary": "Whether you're a new reader or just missed it the first time around, we’re diggi...",
-      "url": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
-      "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
-      "images": [
-        "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
       "published": "2026-09-23T18:00:00+00:00"
     }
   ]
