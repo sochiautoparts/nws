@@ -1,6 +1,6 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-25T22:45:01.892952+00:00",
+  "generated_at": "2026-09-25T22:45:57.265208+00:00",
   "generated_at_human": "2026-09-25 22:45 UTC",
   "total_items": 500,
   "sources_used": [
@@ -22,10 +22,12 @@
     "CarBuzz",
     "CarExpert",
     "CarScoops",
+    "CarScoops Honda",
     "CarScoops McLaren",
     "CarScoops Mercedes",
     "CarScoops Rolls",
     "CarScoops Tesla",
+    "CarScoops Toyota",
     "CarThrottle",
     "CarWale IN",
     "ClassicCars Journal",
@@ -68,8 +70,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 63,
-  "multi_photo_items": 88,
+  "sources_count": 65,
+  "multi_photo_items": 90,
   "items": [
     {
       "id": "fcabc5d8de154b49",
@@ -4030,9 +4032,14 @@
       "url": "https://www.carscoops.com/2026/09/2028-toyota-corolla-rumors/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-1024x578.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-1024x578.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-924-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-924-5-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-924-1-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-924-2-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-924-3-2048x1366.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Toyota",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-25T13:10:00+00:00"
     },
@@ -5977,6 +5984,24 @@
       "published": "2026-09-25T07:15:03+00:00"
     },
     {
+      "id": "57dea1a42ee4968d",
+      "title": "Honda Wants To Build A $2.5 Billion Hybrid Vehicle Plant In Ohio",
+      "summary": "Construction of the plant could begin as soon as 2027 and kick off production in 2030",
+      "url": "https://www.carscoops.com/2026/09/honda-ohio-factory-hybrids-suv/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Honda-USA-plant-report-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Honda-USA-plant-report-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/18-2026-Accord-Production-scaled-1-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Mercedes-AMG-SUV-X591-Scoop-Baldauf-24-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026-Honda-Pilot-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2024/05/02_2025-Acura-MDX-Type-S-1-2048x1152.jpg"
+      ],
+      "source": "CarScoops Honda",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-25T07:14:30+00:00"
+    },
+    {
       "id": "622f25cf1a54a68e",
       "title": "The Volkswagen ID.4 Just Got Up to $12,500 Cheaper in America",
       "summary": "The current-generation ID.4 is on its last legs in the U.S., and Volkswagen is doing everything it can to clear dealer lots.",
@@ -6986,19 +7011,6 @@
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
       "published": "2026-09-24T23:26:00+00:00"
-    },
-    {
-      "id": "2a8fe84a638000d0",
-      "title": "2005 Chevy SSR For Sale With 4,300 Miles May Seem Goofy And Expensive, But Counterpoint: Factory LS2 And 6-Speed Manual",
-      "summary": "This 2005 Chevrolet SSR isn't exactly a bargain, but it sure seems like a worthy investment if you're the kind of enthusiast who loves a true oddball.",
-      "url": "https://www.jalopnik.com/2265290/4300-mile-2005-chevy-ssr-for-sale-ls2-v8-6-speed-manual/",
-      "image": "https://www.jalopnik.com/img/gallery/2005-chevy-ssr-for-sale-with-4300-miles-may-seem-goofy-and-expensive-but-counterpoint-factory-ls2-and-6-speed-manual/l-intro-1790088864.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/2005-chevy-ssr-for-sale-with-4300-miles-may-seem-goofy-and-expensive-but-counterpoint-factory-ls2-and-6-speed-manual/l-intro-1790088864.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-09-24T23:25:00+00:00"
     }
   ]
 }
