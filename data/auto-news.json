@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-26T02:38:31.379985+00:00",
-  "generated_at_human": "2026-09-26 02:38 UTC",
+  "generated_at": "2026-09-26T02:42:55.925448+00:00",
+  "generated_at_human": "2026-09-26 02:42 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -10,6 +10,7 @@
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autocar",
     "Autosport All",
     "Autosport F1",
@@ -71,9 +72,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 113,
+  "sources_count": 67,
+  "multi_photo_items": 114,
   "items": [
+    {
+      "id": "8bb86f7af2ed2339",
+      "title": "Tesla’s Nine-Year Wait for the Semi Is Finally Over",
+      "summary": "Customer deliveries of the electric Class 8 truck are underway, with Tesla eyeing production of 50,000 units annually at its Nevada factory.",
+      "url": "https://www.autoweek.com/news/a73896569/tesla-semi-production-launch/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2ad16fff-9084-447e-b6d7-3ddbffe28df9.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2ad16fff-9084-447e-b6d7-3ddbffe28df9.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/9273b52e-cb23-4faf-bc7e-8b7b65d10049.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/f41b6ae2-80e1-4644-b011-784bc2b52b12.jpg?crop=0.66650390625xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png?crop=0.622xw:1xh;0.079xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/1673525f-4738-4c99-8d15-1a9f4698e54e.jpg?crop=0.75xw:1xh;0.099xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/1de5111c-d4cd-46d4-b38e-989e0d71ba58.jpg?crop=0.667xw:1xh;0.21xw,0xh&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-09-26T02:41:37+00:00"
+    },
     {
       "id": "39704f9591bf0ed8",
       "title": "Honda S2000 Shifter Set The Bar For Porsche's 911 GT3 S/C Manual",
@@ -7111,19 +7130,6 @@
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
       "published": "2026-09-25T04:00:00+00:00"
-    },
-    {
-      "id": "7baf38446cf8e0e6",
-      "title": "No Reserve: 1965 Ford Mustang",
-      "summary": "This 1965 Ford Mustang doesn’t make a positive first impression. From its tired paint to the acres of surface corrosion, it’s easy to dismiss it as a potential project. However, a closer look at the seller’s photos suggests it... Read More »",
-      "url": "https://barnfinds.com/no-reserve-1965-ford-mustang-2/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/09/1965-Ford-Mustang-1-e1790297042704-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/09/1965-Ford-Mustang-1-e1790297042704-630x390.jpg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-09-25T03:49:41+00:00"
     }
   ]
 }
