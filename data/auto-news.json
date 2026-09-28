@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-28T18:13:53.285582+00:00",
-  "generated_at_human": "2026-09-28 18:13 UTC",
+  "generated_at": "2026-09-28T18:18:19.265113+00:00",
+  "generated_at_human": "2026-09-28 18:18 UTC",
   "total_items": 500,
   "sources_used": [
     "Auto Esporte BR",
@@ -17,7 +17,6 @@
     "CarExpert",
     "CarScoops",
     "Carscoops News",
-    "Crash.net",
     "Diariomotor",
     "Electrek",
     "GM Authority",
@@ -39,9 +38,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 34,
+  "sources_count": 33,
   "multi_photo_items": 418,
   "items": [
+    {
+      "id": "04ac966ecdbce2c0",
+      "title": "NHTSA Is Probing An Aftermarket Self-Driving Device After Three Deaths",
+      "summary": "Comma's self-driving technologies are used by more than 30,000 drivers",
+      "url": "https://www.carscoops.com/2026/09/nhtsa-is-probing-an-aftermarket-self-driving-device-after-three-deaths/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-investigation-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-investigation-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-Four-2_result22-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-Four-3_result22-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-Four-4_result22-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-Four-1_result22-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Tata-Aeris-India-main-2048x1153.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-28T18:15:00+00:00"
+    },
     {
       "id": "5c38d34282650a21",
       "title": "The Sedan That Gives You Sports-Car Performance Without Sports-Car Sacrifice",
@@ -8489,24 +8506,6 @@
       "source": "Bike EXIF",
       "source_url": "https://www.bikeexif.com",
       "published": "2026-09-25T18:00:00+00:00"
-    },
-    {
-      "id": "9577fcac63d9ec98",
-      "title": "Nicolo Bulega left “angry” by dual Italian WorldSBK practice crashes",
-      "summary": "Nicolo Bulega says he’s “angry” after crashing twice in practice at the Italian WorldSBK.",
-      "url": "https://www.crash.net/wsbk/news/1105505/1/nicolo-bulega-left-angry-dual-italian-worldsbk-practice-crashes",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347421_hires.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-09/gng_1347421_hires.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/pictures/picture-alex-w.jpg",
-        "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-09/gng_1341429_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-09/gng_1341294_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-09/gng_1341481_hires.jpg?aspect_ratio=1:1"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-09-25T17:56:58+00:00"
     }
   ]
 }
