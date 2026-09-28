@@ -1,7 +1,7 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-28T14:57:18.974776+00:00",
-  "generated_at_human": "2026-09-28 14:57 UTC",
+  "generated_at": "2026-09-28T15:01:43.309071+00:00",
+  "generated_at_human": "2026-09-28 15:01 UTC",
   "total_items": 315,
   "sources_used": [
     "Auto Esporte BR",
@@ -65,6 +65,7 @@
     "Electrek BMW",
     "Electrek Porsche",
     "Gaadiwaadi IN",
+    "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
     "HotCars",
@@ -82,9 +83,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 77,
-  "multi_photo_items": 24,
+  "sources_count": 78,
+  "multi_photo_items": 25,
   "items": [
+    {
+      "id": "b43cf184ee46d734",
+      "title": "Taking the Long View of the M Coupe’s Departure",
+      "summary": "I am going to beg forgiveness for writing yet a third piece about the sale of my 1999 BMW M Coupe (the “clown shoe”). No, I’m not phoning it in. No, the well of Hack inspiration hasn’t run dry. I owned the car for 20 years. There were thoughts to be thunk, and things to […]",
+      "url": "https://www.hagerty.com/media/opinion/taking-the-long-view-of-the-m-coupes-departure/",
+      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/Hack-Mechanic-Clown-Shoe-Gone-lede.jpg",
+      "images": [
+        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/Hack-Mechanic-Clown-Shoe-Gone-lede.jpg",
+        "https://hagerty-media-prod.imgix.net/2026/09/Hack-Mechanic-Clown-Shoe-Gone-lede.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&max-h=481&max-w=640",
+        "https://hagerty-media-prod.imgix.net/2026/09/film-still-2.png?auto=format%2Ccompress&ixlib=php-3.3.0",
+        "https://hagerty-media-prod.imgix.net/2026/09/Kinardi-Line-8-lede.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
+        "https://hagerty-media-prod.imgix.net/2026/09/FPS-1987-Volvo-turbo-wagon-lede.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
+        "https://hagerty-media-prod.imgix.net/2026/09/IMG_6566-scaled.jpg?auto=format%2Ccompress&fit=crop&h=768&ixlib=php-3.3.0&w=1024"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-09-28T15:00:00+00:00"
+    },
     {
       "id": "ea5bac25ecb792a4",
       "title": "Here’s Every BMW Coming To The 2026 Athens Auto Show",
@@ -4282,19 +4301,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-06-30T16:50:54+00:00"
-    },
-    {
-      "id": "aee33530c5618ca6",
-      "title": "Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade",
-      "summary": "BMW built its reputation on the 3 Series. It built its balance sheet on the X5. That distinction matters more than it might seem.... The post Meet the 2027 BMW X5 and iX5: BMW’s Most Consequential Launch in a Decade appeared first on BimmerFile .",
-      "url": "https://www.bimmerfile.com/2026/06/30/meet-the-2027-bmw-x5-and-ix5-bmws-most-consequential-launch-in-a-decade/",
-      "image": "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg",
-      "images": [
-        "https://s3.amazonaws.com/s3.bimmerfile.com/wp-content/uploads/2026/06/29163325/G65_X5-40-021-1600x1066.jpg"
-      ],
-      "source": "BimmerFile",
-      "source_url": "https://bimmerfile.com",
-      "published": "2026-06-30T15:01:00+00:00"
     }
   ]
 }
