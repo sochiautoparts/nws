@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-29T21:27:52.201511+00:00",
-  "generated_at_human": "2026-09-29 21:27 UTC",
-  "total_items": 287,
+  "generated_at": "2026-09-29T21:32:19.373483+00:00",
+  "generated_at_human": "2026-09-29 21:32 UTC",
+  "total_items": 288,
   "sources_used": [
     "AutoWeek NL",
     "AutoWeek News",
@@ -52,6 +52,7 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver BMW",
+    "CarBuzz",
     "CarScoops Audi",
     "CarScoops BMW",
     "CarScoops Mercedes",
@@ -74,9 +75,27 @@
     "Quatro Rodas BR",
     "TopSpeed"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 10,
+  "sources_count": 70,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "71fd8a3d910f0a66",
+      "title": "Audi Q5 vs BMW X3: The $1,500 Difference That Might Not Even Matter",
+      "summary": "Read as we compare the Audi Q5 and BMW X3",
+      "url": "https://carbuzz.com/audi-q5-vs-bmw-x3-september-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/cropped-img_1489.JPG",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/cropped-img_1489.JPG",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/bmw-x3-2025-1280-e059a4bcb4ecff3bc4ed3e4411a0e0fccb.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2026_audi_q5_2.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/2025-2026-audi-q5-sportback-interior-12.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/bmw-x3-2025-1280-46dc24baa5eb4162beb61161d6c04d3031.jpg?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2025-bmw-x31.jpg?q=49&fit=crop&w=875&h=540&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-29T21:32:11+00:00"
+    },
     {
       "id": "0ca5602027fd8a16",
       "title": "2027 BMW M 1000 RR Limited Edition Isle of Man TT: First Look",
