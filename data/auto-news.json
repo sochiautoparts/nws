@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-29T13:01:46.308724+00:00",
-  "generated_at_human": "2026-09-29 13:01 UTC",
+  "generated_at": "2026-09-29T13:06:08.015218+00:00",
+  "generated_at_human": "2026-09-29 13:06 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -15,6 +15,7 @@
     "Autocar Audi",
     "Autocar Mercedes",
     "Autocar Tesla",
+    "Autocar Toyota",
     "Autosport All",
     "Autosport F1",
     "Autosport IndyCar",
@@ -75,8 +76,8 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 164,
+  "sources_count": 71,
+  "multi_photo_items": 165,
   "items": [
     {
       "id": "33f1dc08e59eb738",
@@ -162,6 +163,22 @@
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "id": "a6f13ec4d041428b",
+      "title": "Fife-cylinder frenzy: Epic Scottish road trip in Cupra's five-pot Formentor",
+      "summary": "1800-mile trip to some of Scotland's best roads provides the perfect opportunity to test my VZ5's mettle Everyone loves a road trip, and I think I might just love them more than most. So when an email flew into my inbox from our sister magazine Classic & Sports Car telling me to pack my bags and head for Scotland, I was ecstatic. My quest to snap some wonderful classics would see me take in pretty much everywhere from Glasgow to Inverness and most places in between. My weapon of choice? The Cupra Formentor VZ5 , obviously. The 330-mile motorway slog north revealed the Cupra's surprising…",
+      "url": "https://www.autocar.co.uk/car-news/features/fife-cylinder-frenzy-epic-scottish-road-trip-cupras-five-pot-formentor",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7025.jpg?itok=9b3lQN1F",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7025.jpg?itok=9b3lQN1F",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/img_7025.jpg?itok=ARJrIhSu",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/jack_harrison.jpg?itok=m4b-9brd"
+      ],
+      "source": "Autocar Toyota",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-09-29T12:55:26+00:00"
     },
     {
       "id": "e18a684ce484b064",
@@ -7351,19 +7368,6 @@
       "source": "Crash.net",
       "source_url": "https://www.crash.net",
       "published": "2026-09-28T08:50:48+00:00"
-    },
-    {
-      "id": "ef1bf29005cc6f5c",
-      "title": "Минивэну Honda Odyssey улучшили салон",
-      "summary": "Компания Honda освежила вэн Odyssey, предназначенный для китайского рынка. Внешность менять не стали, зато доработали интерьер. Так, базовый минивэн обрел крупный планшет мультимедиа, а за доплату стало доступно новое оборудование.",
-      "url": "https://www.kolesa.ru/news/minivenu-honda-odyssey-ulucsili-salon",
-      "image": "https://kolesa-uploads.ru/-/d1f09a50-2027-4fdf-ac89-ce5b8f7fc9dd/pre-honda-5.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/d1f09a50-2027-4fdf-ac89-ce5b8f7fc9dd/pre-honda-5.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-09-28T08:36:07+00:00"
     }
   ]
 }
