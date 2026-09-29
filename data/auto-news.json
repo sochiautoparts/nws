@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-29T21:00:23.753515+00:00",
-  "generated_at_human": "2026-09-29 21:00 UTC",
+  "generated_at": "2026-09-29T21:01:20.615170+00:00",
+  "generated_at_human": "2026-09-29 21:01 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -27,8 +27,12 @@
     "CarScoops Audi",
     "CarScoops Corvette",
     "CarScoops Ferrari",
+    "CarScoops Ford",
+    "CarScoops Honda",
+    "CarScoops Hyundai",
     "CarScoops Lamborghini",
     "CarWale IN",
+    "Carscoops News",
     "ClassicCars Journal",
     "Crash.net",
     "Diariomotor",
@@ -76,8 +80,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 94,
+  "sources_count": 75,
+  "multi_photo_items": 99,
   "items": [
     {
       "id": "424c6b6c83cc8a08",
@@ -91,6 +95,24 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-09-29T22:33:34+00:00"
+    },
+    {
+      "id": "ff25d641efd69613",
+      "title": "D2 Audi S8: V8 Sleeper Under $20,000",
+      "summary": "The D2 Audi S8 packs a 360-hp V8, quattro AWD, and 155-mph speed in an aluminum sedan now selling for under $20,000.",
+      "url": "https://www.hotcars.com/the-aluminum-german-v8-sleeper-that-embarrasses-supercars-for-under-20000/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/hero-final.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/hero-final.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/h2-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/h2-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/h2-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/h2-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1995-ford-thunderbird-sc-door-callout.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-29T21:00:13+00:00"
     },
     {
       "id": "f4407d038f3101c1",
@@ -122,6 +144,24 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-09-29T21:00:03+00:00"
+    },
+    {
+      "id": "ced76744401e510e",
+      "title": "Suzuki Confirms Light Range Extender Setup Alongside More Efficient Hybrids",
+      "summary": "Suzuki announced 24-month development cycles, modular e-Axles, plug-in range extenders, weight cuts, and more efficient turbo engines",
+      "url": "https://www.carscoops.com/2026/09/suzuki-strategy/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/suzuki_strategy_hybrid_main-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/suzuki_strategy_hybrid_main-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2023/12/Suzuki_Swift_04-2048x1318.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Suzuki-10-Year-Plan-Presentation-1-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Suzuki-10-Year-Plan-Presentation-2-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Suzuki-10-Year-Plan-Presentation-3-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Suzuki-10-Year-Plan-Presentation-4-2048x1153.jpg"
+      ],
+      "source": "Carscoops News",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-29T21:00:00+00:00"
     },
     {
       "id": "dd0a2d089e5d54d4",
@@ -1179,9 +1219,14 @@
       "url": "https://www.carscoops.com/2026/09/hondas-prelude-limited-edition-gets-a-european-debut-but-what-about-the-us/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Prelude-Sep29262-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Prelude-Sep29262-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Prelude-Sep29262-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/27YM_Prelude_Wheel_Limited_Edition_side-stu_01-1-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/587838_HONDA_ANNOUNCES_EXCLUSIVE_PRELUDE_2027_LIMITED_EDITION_FOR_EUROPE-1-2048x1222.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-Corolla-Concept-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Citroen-Berlingo-First-main-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/27YM_Prelude_LIMITED_EDITION_EU_Red_R_578M_dash-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Honda",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-29T18:15:00+00:00"
     },
@@ -3023,9 +3068,14 @@
       "url": "https://www.carscoops.com/2026/09/hyundai-isnt-done-making-its-performance-evs-fun-to-drive/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-6-N-Review-70patent-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-6-N-Review-70patent-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-6-N-Review-70patent-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Hyundai-Ioniq-6-N-Review-84-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Genesis-GV60-Magma-Review-Australia-New-2-32-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-131927-2048x1172.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/St-Louis-car-thefts-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Dacia-Hipster-Concept-59-copyaaa-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Hyundai",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-29T13:45:00+00:00"
     },
@@ -6323,6 +6373,24 @@
       "published": "2026-09-29T01:08:00+00:00"
     },
     {
+      "id": "3ca7607a8c99d59e",
+      "title": "Ford Racing Is Two Years Older Than Ford, And This Mustang GT3 Proves It",
+      "summary": "The modern race car wears a retro livery mirroring the colors of Henry Ford's Sweepstakes from 1901",
+      "url": "https://www.carscoops.com/2026/09/ford-racing-is-two-years-older-than-ford-and-this-mustang-gt3-proves-it/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-1-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-1-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-8-2048x1638.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-7-2048x1638.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-9-2048x1638.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-4-2048x1638.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-6-2048x1366.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-29T01:00:00+00:00"
+    },
+    {
       "id": "c5af19da4b870047",
       "title": "BYD Sealion 5 slapped with three-star safety rating",
       "summary": "The plug-in hybrid medium SUV is the first BYD to miss out on a five-star ANCAP rating, as another scores highly under tougher 2026 testing protocols.",
@@ -6986,45 +7054,6 @@
       "source": "Kolesa RU",
       "source_url": "https://www.kolesa.ru",
       "published": "2026-09-28T19:26:02+00:00"
-    },
-    {
-      "id": "429c9bf1a5256e33",
-      "title": "Is This The 2028 Chevy Trailblazer’s New Front Fascia?",
-      "summary": "New GM design patents may reveal the crossover's next face.",
-      "url": "https://gmauthority.com/blog/2026/09/is-this-the-2028-chevy-trailblazer-new-front-fascia/",
-      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/09/GM-USPTO-Patent-FIling-Vehicle-Front-Upper-Fascia-Lower-Fascia-Vehicle-Grille-September-2026-002.jpg",
-      "images": [
-        "https://gmauthority.com/blog/wp-content/uploads/2026/09/GM-USPTO-Patent-FIling-Vehicle-Front-Upper-Fascia-Lower-Fascia-Vehicle-Grille-September-2026-002.jpg"
-      ],
-      "source": "GM Authority",
-      "source_url": "https://gmauthority.com",
-      "published": "2026-09-28T19:25:54+00:00"
-    },
-    {
-      "id": "22948f9eb3b1f799",
-      "title": "EIA: 83 GW of renewables and storage coming in 12 months as fossil fuel capacity to fall",
-      "summary": "Renewables and battery storage are projected to add about 82.7 gigawatts (GW) of new generating capacity in the US in the next 12 months, while total fossil fuel and nuclear power capacity will fall by more than 1.4 GW, according to new data released by the US Energy Information Administration (EIA), and reviewed by the SUN DAY Campaign. more…",
-      "url": "https://electrek.co/2026/09/28/eia-83-gw-of-renewables-and-storage-coming-in-12-months-as-fossil-fuel-capacity-to-fall/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/OLD-300-COD-1.jpg?quality=82&#038;strip=all&#038;w=1440",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/09/OLD-300-COD-1.jpg?quality=82&#038;strip=all&#038;w=1440"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-09-28T19:25:33+00:00"
-    },
-    {
-      "id": "70391067c3d5f136",
-      "title": "Tesla delays Roadster demo two weeks to October 15, blames weather",
-      "summary": "Tesla has officially pushed its Roadster demo from October 1 to October 15, blaming “severe conditions” in the forecast for central Texas. It’s the latest in a long line of delays for the next-gen Roadster, and this one moves the event back two full weeks for what Tesla describes as a weather problem. more…",
-      "url": "https://electrek.co/2026/09/28/tesla-roadster-demo-delayed-october-15-weather/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-new-Roadster-concept-based-on-trademark-silhoutte.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-new-Roadster-concept-based-on-trademark-silhoutte.jpg?quality=82&#038;strip=all&#038;w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-09-28T19:22:58+00:00"
     }
   ]
 }
