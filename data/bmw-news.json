@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-09-30T14:11:45.339111+00:00",
-  "generated_at_human": "2026-09-30 14:11 UTC",
-  "total_items": 321,
+  "generated_at": "2026-09-30T14:12:40.000865+00:00",
+  "generated_at_human": "2026-09-30 14:12 UTC",
+  "total_items": 323,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
@@ -59,6 +59,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -88,9 +89,10 @@
     "Quatro Rodas BR",
     "Response JP",
     "RushLane IN",
-    "The Verge Transp"
+    "The Verge Transp",
+    "TopSpeed"
   ],
-  "sources_count": 85,
+  "sources_count": 87,
   "multi_photo_items": 14,
   "items": [
     {
@@ -234,6 +236,19 @@
       "published": "2026-09-30T12:10:00+00:00"
     },
     {
+      "id": "5420c647fadbdccb",
+      "title": "The Lexus Sedan That Can Make A Used BMW 5 Series Look Risky",
+      "summary": "The Lexus GS 350 outlasts the BMW 5 Series—165,888 miles vs 109,383—making it a smarter, more reliable used luxury sedan choice.",
+      "url": "https://www.topspeed.com/lexus-sedan-can-make-used-bmw-5-series-look-risky/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-5366.jpeg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-5366.jpeg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T12:00:16+00:00"
+    },
+    {
       "id": "c2efd0423b2e9091",
       "title": "La salvación de AC Schnitzer viene de Países Bajos: «Hemos encontrado al socio perfecto»",
       "summary": "AC Schnitzer no va a desaparecer después de todo, se une a AM Group a tiempo para su 40º aniversario. El famoso preparador de BMW y MINI pasa de manos del grupo KOHL a formar parte de AM Group a partir de noviembre de 2026, justo en el momento en el que están a punto de cumplir 40 años de historia. ¡ AC Schnitzer se salva ! El preparador con sede en Aquisgrán ha encontrado un camino para sobrevivir en un momento donde la industria está sufriendo más que nunca, y especialmente la industria del automóvil en Alemania. Después de casi 40 años de historia, cambiará de manos de manera que del…",
@@ -258,6 +273,19 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-30T11:55:31+00:00"
+    },
+    {
+      "id": "4b44b26bf4fc8ee9",
+      "title": "UPDATE: Audi Wants To Be A Tech Innovator, But BMW And Mercedes Are Dominating",
+      "summary": "Patent data shows that Audi is not the tech powerhouse it wants to be",
+      "url": "https://carbuzz.com/audi-tech-patent-scorecard/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/original-17239-a263847-large.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/original-17239-a263847-large.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T11:32:11+00:00"
     },
     {
       "id": "4042979fe3289b74",

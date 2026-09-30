@@ -1,11 +1,10 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-30T14:11:45.344304+00:00",
-  "generated_at_human": "2026-09-30 14:11 UTC",
+  "generated_at": "2026-09-30T14:12:40.005339+00:00",
+  "generated_at_human": "2026-09-30 14:12 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
-    "Acura News",
     "Auto Bild ES",
     "Auto Esporte BR",
     "AutoExpress",
@@ -22,11 +21,15 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver News",
+    "CarBuzz",
     "CarExpert",
     "CarScoops",
     "CarScoops Ferrari",
+    "CarScoops Honda",
+    "CarScoops Hyundai",
     "CarScoops Porsche",
     "CarScoops Tesla",
+    "CarScoops Toyota",
     "CarWale IN",
     "ClassicCars Journal",
     "Crash.net",
@@ -37,7 +40,7 @@
     "Gaadiwaadi IN",
     "Hagerty Media",
     "Hagerty News",
-    "Honda News",
+    "HotCars",
     "InsideEVs",
     "Jalopnik",
     "Kolesa RU",
@@ -66,10 +69,11 @@
     "RushLane IN",
     "Sports Car Digest",
     "The Drive",
-    "The Verge Transp"
+    "The Verge Transp",
+    "TopSpeed"
   ],
-  "sources_count": 63,
-  "multi_photo_items": 87,
+  "sources_count": 67,
+  "multi_photo_items": 98,
   "items": [
     {
       "id": "24b8d5cd588784f3",
@@ -155,6 +159,24 @@
       "published": "2026-09-30T14:00:23+00:00"
     },
     {
+      "id": "2e832432d473849d",
+      "title": "The Science Behind Honda’s Solid-State Battery Breakthrough",
+      "summary": "Honda may become the first car company to get an all-solid-state battery into an actual car. Here is how they're doing it.",
+      "url": "https://www.topspeed.com/science-behind-honda-solid-state-battery-breakthrough/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/12/honda-0-series-concept-model-saloon.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/12/honda-0-series-concept-model-saloon.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/cropped-c241121_001h.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/12/2024-honda-prologue.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/12/2020-honda-clarity.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/honda-ssb-factory-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/honda-ssb-factory-3.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T14:00:15+00:00"
+    },
+    {
       "id": "fd1c470c52d1ca24",
       "title": "Drag Racing Builds: What Goes Into a Quarter-Mile Machine",
       "summary": "A dedicated drag car looks nothing like the street cars it's often based on once the build is finished, even if the body panels tell a familiar story. Every choice, from the engine internals to the smallest suspension bushing, gets made with a single number in mind: elapsed",
@@ -166,6 +188,24 @@
       "source": "Motorious",
       "source_url": "https://motorious.com",
       "published": "2026-09-30T14:00:15+00:00"
+    },
+    {
+      "id": "f0de58a82c552247",
+      "title": "2027 Jeep Cherokee Trailhawk Is Here To Show Subaru Wilderness What A Real Off-Roader Looks Like",
+      "summary": "Affordable, efficient, and highly capable, the new Jeep Cherokee Trailhawk won't take the badge lightly.",
+      "url": "https://carbuzz.com/2027-jeep-cherokee-trailhawk-reveal-september-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/jp027_ch003-1-2.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/jp027_ch003-1-2.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-jeep-cherokee-trailhawk-engineering-mule-off-road-5.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-jeep-cherokee-trailhawk-engineering-mule-off-road-4.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-jeep-cherokee-trailhawk-engineering-mule-off-road-3.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2027-jeep-cherokee-trailhawk-engineering-mule.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/jp027_ch003-1-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T14:00:11+00:00"
     },
     {
       "id": "ea68639fb505dcce",
@@ -426,6 +466,24 @@
       "published": "2026-09-30T13:31:52+00:00"
     },
     {
+      "id": "aa1745c03e9f4254",
+      "title": "The Motorcycle That Gets Better Once The New-Bike Excitement Wears Off",
+      "summary": "This American motorcycle combines powerful V-twin performance, premium suspension, long-distance comfort, and modern technology for lasting appeal.",
+      "url": "https://www.topspeed.com/motorcycle-gets-better-once-new-bike-excitement-wears-off/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-harley-davidson-cvo-road-glide-st.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-harley-davidson-cvo-road-glide-st.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2026-indian-sport-chief-rt-cornering-action.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/fb_w.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/harley-davidson-cvo-street-glide1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2026-low-rider-st-beauty-ls-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/2026-harley-davidson-cvo-road-glide-st-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T13:31:15+00:00"
+    },
+    {
       "id": "c542dd2b6f64465a",
       "title": "Lei Seca: saiba quais são as punições para quem dirige alcoolizado",
       "summary": "Nova resolução mudou os procedimentos da abordagem, mas manteve as multas e a suspensão previstas no Código de Trânsito",
@@ -488,6 +546,24 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-09-30T13:25:00+00:00"
+    },
+    {
+      "id": "1066b95cf62b50bc",
+      "title": "Genesis GV70 vs GV80: The $9,500 Upcharge You Won't Regret Spending",
+      "summary": "Which of these Genesis SUVs suits you the best? The difference at entry level is $9,500 - but here's why that doesn't really matter.",
+      "url": "https://carbuzz.com/genesis-gv70-vs-gv80-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/original-5323-gv70htx655-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/original-5323-gv70htx655-1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/2026-genesis-electrified-gv705.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/2026-genesis-electrified-gv702.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/genesis-gv70-redesign-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/genesis-gv70-la69-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/genesis-gv70-redesign-5.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T13:23:35+00:00"
     },
     {
       "id": "3a481b68498f8ad9",
@@ -636,6 +712,24 @@
       "published": "2026-09-30T13:00:48+00:00"
     },
     {
+      "id": "dfdb27f867399e46",
+      "title": "The Toyota That Changed What Americans Expected From Japanese Cars",
+      "summary": "The Japanese brand transformed the budget car game with this historic nameplate.",
+      "url": "https://www.topspeed.com/toyota-changed-americans-expected-japanese-cars/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-toyota-camry-headlight.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/2026-toyota-camry-headlight.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/09/history-of-toyota-01.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/05/1958-toyopet-crown-toyota-usa.jpg?q=70&fit=crop&w=825&dpr=1",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/chevrolet-malibu-2016-wallpaper.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/07/1983-toyota-camry.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/1998001_1986_camry_color.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T13:00:16+00:00"
+    },
+    {
       "id": "257dca5b8a8b3041",
       "title": "36k-Mile 2020 Toyota Land Cruiser URJ200 Heritage Edition",
       "summary": "This 2020 Toyota Land Cruiser is one of 1,200 Heritage Edition examples produced for the model year and was purchased new by the seller. Over $31k in overlanding equipment was added and includes a Dissent roof rack and bumpers, Rigid accessory lighting, a rear swing-out, a ComeUp front winch, 18\" Black Rhino wheels, and Old Man Emu BP-51 suspension. Finished in Midnight Black Metallic over bronze-stitched black leather, the truck is powered by a 5.7-liter V8 linked with an eight-speed automatic transmission and a dual-range transfer case. It also has a Torsen locking center differential,…",
@@ -647,6 +741,24 @@
       "source": "Bring a Trailer",
       "source_url": "https://bringatrailer.com",
       "published": "2026-09-30T13:00:12+00:00"
+    },
+    {
+      "id": "98297cd21bd0db54",
+      "title": "The Toyota Sedan That Gets You 50 MPG For Under $30k",
+      "summary": "There is a reason the Camry is a top seller. So which trim is the best if you want the most mileage out of a single tank?",
+      "url": "https://carbuzz.com/toyota-camry-mpg-2026-best-trims/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/2026-camry-xse-awd-heavymetalblackroof-040.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/2026-camry-xse-awd-heavymetalblackroof-040.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/2026-camry-xse-awd-heavymetalblackroof-003.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2026-toyota-camry-nightshade-lead.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2026-camry-se-awd-supersonicred-002.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026_camry_xse_awd_heavymetalblackroof_044-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2026_toyota-camry_group-shot_hero.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T13:00:11+00:00"
     },
     {
       "id": "0e6a41b5e825fabf",
@@ -798,6 +910,24 @@
       "published": "2026-09-30T12:50:08+00:00"
     },
     {
+      "id": "e39a3548e02aa4f6",
+      "title": "Corvette Z06 Torture Test Bends Frame Rails, Engine Survives",
+      "summary": "WhistlinDiesel's Z06 durability test reveals what breaks and what doesn't: frunk hinge and frame rails fail, but the LT6 and electronics survive extreme abuse.",
+      "url": "https://www.hotcars.com/z06-whistlindiesel-torture-test-failures/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/z06-durability-4.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/z06-durability-4.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/z06-durability.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/z06-durability-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/09/mustang-dark-horse.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/c7ad7f06-0dd2-4a1e-88fc-8a15387732e2.jpeg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/04/2015-dodge-viper-srt-gts_4.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T12:49:20+00:00"
+    },
+    {
       "id": "01d9a22b4c651087",
       "title": "Mercedes braced for tougher strategy calls as George Russell closes on Kimi Antonelli",
       "summary": "Mercedes will have to thread the needle keeping its strategy calls fair to both drivers amid George Russell's title resurgence, team boss Toto Wolff has acknowledged. After having to adapt his driving style to the new cars for 2026, Russell has been edging back towards his best form in recent races, accentuated by a dominant pole-to-flag victory in Baku. His win cut team-mate Kimi ... Keep reading",
@@ -840,6 +970,19 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-09-30T12:45:48+00:00"
+    },
+    {
+      "id": "f71d1708003e5f64",
+      "title": "Hyundai's Massive $26 Billion US Investment Will Make It More American Than Ever",
+      "summary": "Hyundai is investing heavily in Alabama as part of its big push to dominate US car sales.",
+      "url": "https://carbuzz.com/hyundai-26-billion-investment-sends-500-million-one-state/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/jose-munoz-hyundai-investor-day-2026-2.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/jose-munoz-hyundai-investor-day-2026-2.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T12:43:52+00:00"
     },
     {
       "id": "1b237aaaaf04ad7e",
@@ -897,6 +1040,19 @@
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
       "published": "2026-09-30T12:36:51+00:00"
+    },
+    {
+      "id": "d3b6d117e921c7eb",
+      "title": "The Adventure Bike That Makes 500-Mile Days Feel Effortless",
+      "summary": "A DCT, massive saddle, tractable parallel-twin, and endless dealer support help this ADV make your life easier on those difficult 500-mile days",
+      "url": "https://www.topspeed.com/adventure-bike-makes-500-mile-days-effortless/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-honda-africa-twin-adventure-sports-top-view-studio-shot.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-honda-africa-twin-adventure-sports-top-view-studio-shot.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T12:31:15+00:00"
     },
     {
       "id": "0369b20c0c41a875",
@@ -1099,6 +1255,37 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-09-30T12:00:47+00:00"
+    },
+    {
+      "id": "5420c647fadbdccb",
+      "title": "The Lexus Sedan That Can Make A Used BMW 5 Series Look Risky",
+      "summary": "The Lexus GS 350 outlasts the BMW 5 Series—165,888 miles vs 109,383—making it a smarter, more reliable used luxury sedan choice.",
+      "url": "https://www.topspeed.com/lexus-sedan-can-make-used-bmw-5-series-look-risky/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-5366.jpeg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/image-5366.jpeg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T12:00:16+00:00"
+    },
+    {
+      "id": "2c04481793933dcd",
+      "title": "10 Coolest Replica and Tribute Movie Cars Ever Built",
+      "summary": "From the DeLorean Time Machine to the Batmobile Tumbler, these 10 replica and tribute movie cars are the best ever built.",
+      "url": "https://www.hotcars.com/coolest-replica-and-tribute-cars-ever-built/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-09-05-pm-8453.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-09-05-pm-8453.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-09-03-pm-1358.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-08-56-pm-4754.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-09-08-pm-1988.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-08-47-pm-464.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-24-sep-2026-08-43-pm-1242.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T12:00:12+00:00"
     },
     {
       "id": "7949825692510c6b",
@@ -1336,6 +1523,32 @@
       "published": "2026-09-30T11:34:12+00:00"
     },
     {
+      "id": "4b44b26bf4fc8ee9",
+      "title": "UPDATE: Audi Wants To Be A Tech Innovator, But BMW And Mercedes Are Dominating",
+      "summary": "Patent data shows that Audi is not the tech powerhouse it wants to be",
+      "url": "https://carbuzz.com/audi-tech-patent-scorecard/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/original-17239-a263847-large.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/original-17239-a263847-large.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T11:32:11+00:00"
+    },
+    {
+      "id": "30cd3dc37b55601a",
+      "title": "The Cruiser That Could Make Harley Loyalists Rethink Their Next Bike",
+      "summary": "This Indian Chief has sporty suspension and a big-displacement V-twin to lure Harley fans into taking it home",
+      "url": "https://www.topspeed.com/cruiser-could-make-harley-loyalists-rethink-next-bike/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2026-indian-sport-chief-rt-headlight-detail.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/2026-indian-sport-chief-rt-headlight-detail.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T11:31:16+00:00"
+    },
+    {
       "id": "0aa54a746ecc72bd",
       "title": "The Tons of Gas Collection: European Tuner Cars of the ’80s and ’90s",
       "summary": "Welcome to the Tons of Gas Collection from the TonsOfGasAutoCollection shop in North Carolina. This collection features a host of tuned and modified European cars from the '80s and '90s totaling 17 cars in all. Stylistically, Giugiaro looms large over the collection, with additional contributions from the likes of Bruno Sacco, Claus Luthe, Strosek, Rieger, and others. Many feature exotic and desirable equipment from companies like Zender, BBS, and AC Schnitzer, and the heart of the collection is a group of obscure German and Italian Callaway turbo conversions. Your inner boy racer will be…",
@@ -1519,6 +1732,32 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-09-30T11:00:20+00:00"
+    },
+    {
+      "id": "5c81122ebff92404",
+      "title": "2026 Harley-Davidson Super Glide First Look: A Modern Factory Custom",
+      "summary": "The 2026 Harley-Davidson Super Glide returns with a 117 V-twin, modern Softail chassis, and production limited to 2,500 units.",
+      "url": "https://www.topspeed.com/2026-harley-davidson-super-glide-first-look/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/harley-davidson-super-glide-studio-image-front-right-quarter.jpeg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/09/harley-davidson-super-glide-studio-image-front-right-quarter.jpeg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T11:00:16+00:00"
+    },
+    {
+      "id": "04d94436ce8a227f",
+      "title": "Slate's Tiny Pickup Gets Some Serious Big Truck Energy",
+      "summary": "New special edition color schemes bring iconic monster truck energy to the tiny, affordable EV.",
+      "url": "https://carbuzz.com/slate-truck-monster-jam-special-edition-package/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/front_3_4_mj_grave_digger_2-large.jpeg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/front_3_4_mj_grave_digger_2-large.jpeg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T11:00:11+00:00"
     },
     {
       "id": "55027287e8520a28",
@@ -1738,6 +1977,19 @@
       "published": "2026-09-30T10:42:23+00:00"
     },
     {
+      "id": "eea7b09997af59e4",
+      "title": "5 Luxury SUVs That Depreciate Like Falling Rocks But Run Like Tanks",
+      "summary": "Who wouldn't want an affordable luxury car that doesn't break down?",
+      "url": "https://carbuzz.com/the-depreciated-reliable-luxury-suvs/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/genesis-gv80-close-up-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/genesis-gv80-close-up-main.png"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T10:30:11+00:00"
+    },
+    {
       "id": "71bafec738bf9692",
       "title": "ブリッツ、『クラウンクロスオーバー/スポーツ』『アル/ヴェル』向けボディ補強パーツ「B-MCB」を発売",
       "summary": "チューニングパーツメーカー・BLITZ（ブリッツ）が販売中のボディ補強パーツ「B-MCB（ビー・エムシービー）」に、トヨタ『クラウンクロスオーバー』『クラウンスポーツ』『アルファード/ヴェルファイア』の適合が追加された。",
@@ -1868,6 +2120,50 @@
       "published": "2026-09-30T10:00:22+00:00"
     },
     {
+      "id": "ff4c3e9d29863c2c",
+      "title": "The Japanese Hybrid SUV That Barely Needs A Gas Station",
+      "summary": "Toyota's efficient powertrain technology means you won't be spending much time refueling this SUV.",
+      "url": "https://www.topspeed.com/japanese-hybrid-suv-barely-needs-gas/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/09/2026-toyota-corolla-cross-hybrid-blue-02.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2025/09/2026-toyota-corolla-cross-hybrid-blue-02.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T10:00:16+00:00"
+    },
+    {
+      "id": "954bfcd9d3b4b6fc",
+      "title": "1970 AMC Rebel Machine: The Rarest Muscle Car",
+      "summary": "The 1970 AMC Rebel Machine made 340 hp and ran the quarter mile in 14.4 sec. Only 600 survive — and prices still beat a Chevelle SS.",
+      "url": "https://www.hotcars.com/the-one-year-340-hp-amc-muscle-car-with-fewer-than-600-survivors-left/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_2bffcdea-bd20-4c42-a153-0a0f3b6b40b5-cyl9sd-66506-66507-scaled.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_2bffcdea-bd20-4c42-a153-0a0f3b6b40b5-cyl9sd-66506-66507-scaled.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_8bac91e8-5809-4689-9564-30bbfbbe0dd4-tjmnzg-67089-67090-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_4c7e9dd2-67ea-4955-ad28-9299c3205649-jdgpir-65480-65481-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_123b20d8-186e-44d8-a2c2-fa1f3817c8a9-09jx6y-66460-66461-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_a2f4619c-b8c7-4f1f-8ab4-b12df2f6fb3c-peytvq-67287-67288-scaled.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1970_amc_rebel-machine_1970_amc_rebel-machine_898975ea-e225-4515-b538-09af778d6257-hcmy54-66453-66453-scaled.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T10:00:13+00:00"
+    },
+    {
+      "id": "906fbaa8ce3170ce",
+      "title": "Subaru's Forester Costs More To Maintain Than A RAV4 Or CR-V Hybrid, But Beats Both On Reliability",
+      "summary": "Having fewer problems might not mean much when your car costs more to fix in the first place.",
+      "url": "https://carbuzz.com/subaru-forester-toyota-rav4-honda-cr-v-maintenance-reliability-compared/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/forester-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/forester-main.png"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T10:00:11+00:00"
+    },
+    {
       "id": "79520b62e79b44d3",
       "title": "Mazda se empeña en nadar contracorriente y quiere revivir el rotativo como más nos gusta, como motor principal de sus coches",
       "summary": "Cuesta mucho creer que, en estos tiempos que corren, haya tiempo - y dinero - para que una marca como Mazda siga nadando contracorriente y apostando por una tecnología que nos encanta a los que nos gustan los coches, y a todo aquel que ame la ingeniería . Una tecnología que, por otro lado, solo puede ser un quebradero de cabeza enorme para sus departamentos financieros. Pero de nuevo surgen informaciones que nos hacen soñar , en esta ocasión desde Reino Unido, donde ya se están interpretando las declaraciones de los responsables de Mazda Motor Europe que apuntan a un regreso del motor…",
@@ -1972,6 +2268,19 @@
       "source": "Motor1 Land Rover",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-30T09:59:57+00:00"
+    },
+    {
+      "id": "16a640a50cf5496c",
+      "title": "2027 Honda Passport TrailSport Is A Massive Bargain Despite Big Upgrades",
+      "summary": "The 2027 Honda Passport TrailSport gets some big upgrades, but only a small price increase.",
+      "url": "https://carbuzz.com/2027-honda-passport-trailsport-price/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/07-2027-honda-passport-trailsport.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/07-2027-honda-passport-trailsport.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T09:57:47+00:00"
     },
     {
       "id": "43deb67f15af0b2e",
@@ -2107,6 +2416,32 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-09-30T09:30:33+00:00"
+    },
+    {
+      "id": "9c3a51a015469c5a",
+      "title": "Toyota's Most Reliable Truck That Regularly Hits 400,000 Miles",
+      "summary": "This legendary pickup is almost guaranteed to go the distance thanks to pure engineering excellence.",
+      "url": "https://www.topspeed.com/the-toyota-truck-regularly-hits-400k-miles/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/today3ts5lyzh.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/today3ts5lyzh.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T09:30:16+00:00"
+    },
+    {
+      "id": "84a8a69bcc61a9c0",
+      "title": "The Most Special Honda Prelude Of All Is Breaking Out Of Japan",
+      "summary": "It just won't come to our shores",
+      "url": "https://carbuzz.com/honda-prelude-special-edition-headed-to-europe-september-2026/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/587838_honda_announces_exclusive_prelude_2027_limited_edition_for_europe-1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/587838_honda_announces_exclusive_prelude_2027_limited_edition_for_europe-1.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-09-30T09:30:11+00:00"
     },
     {
       "id": "347e6358a57ab0d0",
@@ -2299,6 +2634,19 @@
       "published": "2026-09-30T09:00:50+00:00"
     },
     {
+      "id": "109c2d31ecb58b50",
+      "title": "Here's How Much A 2020 Corvette C8 Stingray Costs Today",
+      "summary": "The C8 Corvette is now in its fifth year in production, and 2020 models are starting to look like great deals.",
+      "url": "https://www.hotcars.com/the-heres-how-much-2020-corvette-c8-stingray-costs-today/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2023/12/2024-chevrolet-c8-corvette-12.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2023/12/2024-chevrolet-c8-corvette-12.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T09:00:13+00:00"
+    },
+    {
       "id": "cc91c299fc5972da",
       "title": "車内で映像系コンテンツを楽しむための“裏ワザ”を公開！［イン・カー・リスニング学…メインユニット編］",
       "summary": "車内におけるオーディオ＆ビジュアル環境の整え方を、横断的に解説している当連載。現在は「メインユニット編」をお届けしている。今回は、「メインユニット」に外部機器を繋いで映像系コンテンツを楽しもうとするときの“裏ワザ”を紹介していく。",
@@ -2401,9 +2749,14 @@
       "url": "https://www.carscoops.com/2026/09/toyota-celica-wrc-scoop/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Gazoo-Racing-Camouflage-main-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Gazoo-Racing-Camouflage-main-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Gazoo-Racing-Camouflage-main-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Mercedes-AMG-GT-Black-Series-Fire-Scoop-Baldauf-main-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Lancia-Gamma-HF-Integrale-main-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026-Corvette-Z06-Passenger-POVaaa-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2026_ford_mustang_gt3_petit_lemans_livery-1-copy-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Comma-AI-investigation-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Toyota",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-30T08:46:13+00:00"
     },
@@ -2507,6 +2860,19 @@
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
       "published": "2026-09-30T08:31:17+00:00"
+    },
+    {
+      "id": "e9d7300885516a98",
+      "title": "The Motorcycle That Makes Every Corner Feel Like The Reason You Ride",
+      "summary": "Discover what makes this Italian superbike so thrilling, from its V4 engine and sharp chassis to its advanced cornering technology.",
+      "url": "https://www.topspeed.com/motorcycle-makes-every-corner-feel-like-reason-you-ride/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/r5z-7430.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/08/r5z-7430.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-09-30T08:31:16+00:00"
     },
     {
       "id": "04d726486975317c",
@@ -2676,6 +3042,19 @@
       "source": "5koleso RU",
       "source_url": "https://5koleso.ru",
       "published": "2026-09-30T08:13:30+00:00"
+    },
+    {
+      "id": "ba8951426a5509ed",
+      "title": "A New York Shop Is Giving The Ford Maverick What Ford Never Would",
+      "summary": "The last time this shop built a Maverick, Ford took notes, and its newest build is wilder.",
+      "url": "https://www.hotcars.com/twin-turbo-v8-ford-maverick-sema/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/tucci-ford-maverick-wide-body-from-sema-2.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/tucci-ford-maverick-wide-body-from-sema-2.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T08:13:14+00:00"
     },
     {
       "id": "9b9345006a3ad130",
@@ -3103,6 +3482,19 @@
       "published": "2026-09-30T07:10:19+00:00"
     },
     {
+      "id": "a87e7a65c6304a41",
+      "title": "Toyota's Pixar Tribute Hides An Incredible Detail Only True Cars Fans Will Spot",
+      "summary": "A real Le Mans-winning Toyota just starred in a Pixar Cars tribute, and the attention to detail is ridiculously cool.",
+      "url": "https://www.hotcars.com/toyota-pixar-cars-tribute/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/fia-wec-tribute-to-cars-by-pixar-with-toyota-s-lemans-winnter-returns-to-fuji-4.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/fia-wec-tribute-to-cars-by-pixar-with-toyota-s-lemans-winnter-returns-to-fuji-4.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T07:08:15+00:00"
+    },
+    {
       "id": "6596ad524f0e9553",
       "title": "Cadillac Escalade IQ Discount, Lease, Finance Deals For September 2026",
       "summary": "The luxury battery-electric full-size SUV has a starting MSRP of $130,300.",
@@ -3127,6 +3519,19 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-09-30T07:00:53+00:00"
+    },
+    {
+      "id": "5fec3a77238f9dee",
+      "title": "10 Cheap '80s Classic Cars You Can Buy Right Now",
+      "summary": "From the Camaro IROC-Z to the Honda CRX Si, these 10 iconic '80s rides can be yours for surprisingly low prices.",
+      "url": "https://www.hotcars.com/totally-bitchin-80s-rides-owners-are-practically-giving-away/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-21-sep-2026-09-00-pm-4752.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-21-sep-2026-09-00-pm-4752.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T07:00:12+00:00"
     },
     {
       "id": "5d0e6310c5dd7b93",
@@ -3950,9 +4355,14 @@
       "url": "https://www.carscoops.com/2026/09/lawsuit-claims-faulty-honda-seatbelt-killed-teenager-in-nj-crash/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Honda-Civic-seat-belt-lawsuit-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/Honda-Civic-seat-belt-lawsuit-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Honda-Civic-seat-belt-lawsuit-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Chevrolet-Camaro-CHP-Police-1-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/BMW-3-Series-2027-new-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-main-1-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/St-Louis-car-thefts-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/HMkYhEZXgAAn2ad-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Honda",
       "source_url": "https://www.carscoops.com",
       "published": "2026-09-30T02:00:00+00:00"
     },
@@ -4059,6 +4469,19 @@
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
       "published": "2026-09-30T01:38:04+00:00"
+    },
+    {
+      "id": "1fc0a5b9f7b6ba19",
+      "title": "1970 Jeep XJ001: The Concept That Invented the Side-By-Side",
+      "summary": "The 1970 Jeep XJ001 concept featured a 360 V8, 2,100-lb curb weight, and Quadritrac 4WD — and nearly invented the sporty UTV market decades early.",
+      "url": "https://www.hotcars.com/the-1970-jeep-concept-that-invented-the-side-by-side-two-decades-early/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/jeep-xj001-close-up.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/jeep-xj001-close-up.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-30T01:00:13+00:00"
     },
     {
       "id": "d42d28280d9f214c",
@@ -4335,6 +4758,19 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-09-29T23:01:00+00:00"
+    },
+    {
+      "id": "75ae14dbfe01b67d",
+      "title": "Dodge Daytona IROC R/T: Chrysler's Rarest Turbo Coupe",
+      "summary": "Chrysler built a turbocharged flagship that quietly outran two American icons, then vanished so completely that most enthusiasts have never heard of it.",
+      "url": "https://www.hotcars.com/chryslers-turbo-flagship-rarer-than-spirit-rt-quicker-than-a-50/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1992-dodge-daytona-iroc-rt-11.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/1992-dodge-daytona-iroc-rt-11.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-29T23:00:13+00:00"
     },
     {
       "id": "c894b52af8b5fa10",
@@ -4737,6 +5173,19 @@
       "source": "GM Authority",
       "source_url": "https://gmauthority.com",
       "published": "2026-09-29T21:22:32+00:00"
+    },
+    {
+      "id": "ff25d641efd69613",
+      "title": "D2 Audi S8: V8 Sleeper Under $20,000",
+      "summary": "The D2 Audi S8 packs a 360-hp V8, quattro AWD, and 155-mph speed in an aluminum sedan now selling for under $20,000.",
+      "url": "https://www.hotcars.com/the-aluminum-german-v8-sleeper-that-embarrasses-supercars-for-under-20000/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/hero-final.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/09/hero-final.jpg"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-09-29T21:00:13+00:00"
     },
     {
       "id": "f4407d038f3101c1",
@@ -5236,6 +5685,42 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-09-29T18:25:00+00:00"
+    },
+    {
+      "id": "edb3f8ac328de26b",
+      "title": "Honda’s Prelude Limited Edition Gets A European Debut, But What About The US?",
+      "summary": "Prelude 2027 Limited Edition was first revealed in Japan in June, but comes to Europe this fall",
+      "url": "https://www.carscoops.com/2026/09/hondas-prelude-limited-edition-gets-a-european-debut-but-what-about-the-us/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Prelude-Sep29262-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Prelude-Sep29262-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/27YM_Prelude_Wheel_Limited_Edition_side-stu_01-1-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/587838_HONDA_ANNOUNCES_EXCLUSIVE_PRELUDE_2027_LIMITED_EDITION_FOR_EUROPE-1-2048x1222.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Opel-STX-Concept-Teaser-4-2048x1158.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Dodge-Charger-Sixpack-2s-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Citroen-Berlingo-First-main-2048x1153.jpg"
+      ],
+      "source": "CarScoops Honda",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-29T18:15:00+00:00"
+    },
+    {
+      "id": "5cdf6b25b95bddea",
+      "title": "13-Year-Old Honda Odyssey Gains New Screen, Massage Seats, And A Much Lower Price",
+      "summary": "Interestingly, the base trim has a larger infotainment compared to mid-spec and flagship variants",
+      "url": "https://www.carscoops.com/2026/09/honda-odyssey-china/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-main-1-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-main-1-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-17-2048x1727.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-23-2048x1727.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Opel-STX-Concept-Teaser-4-2048x1158.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-6-copy-2048x1153.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Honda-Odyssey-China-5-copy-2048x1152.jpg"
+      ],
+      "source": "CarScoops Honda",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-29T18:15:00+00:00"
     },
     {
       "id": "2b6739a6c2e02867",
@@ -6527,448 +7012,22 @@
       "published": "2026-09-29T13:52:46+00:00"
     },
     {
-      "id": "16c1d37e58cabaac",
-      "title": "How Pedro Acosta's unique riding style is making the difference at KTM",
-      "summary": "Pedro Acosta is the fastest KTM rider and the benchmark for the Austrian marque. His first MotoGP victory at the brand’s home race in Spielberg was the high point so far. In the 2026 season, the Spaniard is the only KTM rider who can regularly mix it at the front, as at the season opener in Thailand, he won the sprint and finished second in the grand prix. In Austin, Acosta finished third ... Keep reading",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-unique-riding-style/10860064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/YvKBLmE6/s6/pedro-acosta-red-bull-ktm-fact-3.jpg",
+      "id": "e3a9538500dec3ba",
+      "title": "Hyundai Isn’t Done Making Its Performance EVs Fun To Drive",
+      "summary": "Hyundai may have another trick up its sleeve to bring added driving engagement to its sporty N-brand EVs",
+      "url": "https://www.carscoops.com/2026/09/hyundai-isnt-done-making-its-performance-evs-fun-to-drive/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-6-N-Review-70patent-1024x576.jpg",
       "images": [
-        "https://cdn-4.motorsport.com/images/amp/YvKBLmE6/s6/pedro-acosta-red-bull-ktm-fact-3.jpg",
-        "https://cdn-3.motorsport.com/images/amp/6D1ykgD0/s200/sho-tsuboi-vantelin-team-tom-s.webp",
-        "https://cdn-4.motorsport.com/images/amp/6b8Zv1p2/s200/chip-ganassi-racing-owner-chip.webp",
-        "https://cdn-9.motorsport.com/images/amp/0Ld5LDa0/s200/drivers-group-photo.webp",
-        "https://cdn-9.motorsport.com/images/amp/YXyKvOo6/s200/andrea-kimi-antonelli-mercedes.webp",
-        "https://cdn-2.motorsport.com/images/amp/6x7Zy44Y/s200/pedro-acosta-red-bull-ktm-fact.webp"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-6-N-Review-70patent-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/05/Hyundai-Ioniq-6-N-Review-84-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/07/Genesis-GV60-Magma-Review-Australia-New-2-32-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Opel-STX-Concept-Teaser-4-2048x1158.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Lancia-Gamma-HF-Integrale-main-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Chevrolet-Camaro-CHP-Police-1-2048x1152.jpg"
       ],
-      "source": "Motorsport MotoGP",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:32:37+00:00"
-    },
-    {
-      "id": "da23a089ba219381",
-      "title": "How Pedro Acosta's unique riding style is making the difference at KTM",
-      "summary": "Pedro Acosta is the fastest KTM rider and the benchmark for the Austrian marque. His first MotoGP victory at the brand’s home race in Spielberg was the high point so far. In the 2026 season, the Spaniard is the only KTM rider who can regularly mix it at the front, as at the season opener in Thailand, he won the sprint and finished second in the grand prix. In Austin, Acosta finished third ... Keep reading",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-unique-riding-style/10860064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/YvKBLmE6/s6/pedro-acosta-red-bull-ktm-fact-3.jpg",
-      "images": [
-        "https://cdn-1.motorsport.com/images/amp/YvKBLmE6/s6/pedro-acosta-red-bull-ktm-fact-3.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:32:37+00:00"
-    },
-    {
-      "id": "bdbec22feced2ab6",
-      "title": "Car Deal of the Day: Vauxhall Astra Sports Tourer is loads better at just £206 a month",
-      "summary": "The Vauxhall Astra Sports Tourer is a proper load-lugger at a very affordable price. It’s our Deal of the Day for 29 September",
-      "url": "https://www.autoexpress.co.uk/vauxhall/astra/370542/car-deal-day-vauxhall-astra-sports-tourer-loads-better-just-ps206-month",
-      "image": "https://media.autoexpress.co.uk/image/private/s--_ijR_aJw--/t_rss_image_w_845/v1790688220/autoexpress/2026/09/Vauxhall%20Astra%20Sports%20Tourer%20-%20front%203_4_mc1rrn.jpg",
-      "images": [
-        "https://media.autoexpress.co.uk/image/private/s--_ijR_aJw--/t_rss_image_w_845/v1790688220/autoexpress/2026/09/Vauxhall%20Astra%20Sports%20Tourer%20-%20front%203_4_mc1rrn.jpg"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-09-29T13:29:09+00:00"
-    },
-    {
-      "id": "c8dc98c1a13ae84d",
-      "title": "What's The Most Beautiful Car Film?",
-      "summary": "It's time to wheel out your inner art critic.",
-      "url": "https://www.jalopnik.com/2271724/most-beautiful-car-film-reader-question/",
-      "image": "https://www.jalopnik.com/img/gallery/whats-the-most-beautiful-car-film/l-intro-1790683833.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/whats-the-most-beautiful-car-film/l-intro-1790683833.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-09-29T13:25:00+00:00"
-    },
-    {
-      "id": "7f09816930a2f6ae",
-      "title": "KTM “completely against” single-bike MotoGP rule, backs F1-style cost cap",
-      "summary": "KTM CEO Gottfried Neumeister strongly opposed the doomed single-bike proposal in MotoGP but believes an F1-style cost cap could be a “good thing”.",
-      "url": "https://www.crash.net/motogp/news/1105892/1/ktm-completely-against-single-bike-motogp-rule-backs-f1-style-cost-cap",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346577_hires_1600x900.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-09/gng_1346577_hires_1600x900.jpg?width=1200"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-09-29T13:18:05+00:00"
-    },
-    {
-      "id": "cecc33729d9d7da7",
-      "title": "Lamborghini Revuelto Facelift Might Be Losing Two Of Its Most Distinctive Features",
-      "summary": "This camouflaged prototype has larger air intakes and other styling tweaks, and it could be testing a sportier S model.",
-      "url": "https://www.jalopnik.com/2271808/lamborghini-revuelto-facelift-spy-shots-losing-distinctive-features/",
-      "image": "https://www.jalopnik.com/img/gallery/lamborghini-revuelto-facelift-spy-shots-losing-distinctive-features/l-intro-1790688355.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/lamborghini-revuelto-facelift-spy-shots-losing-distinctive-features/l-intro-1790688355.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-09-29T13:12:08+00:00"
-    },
-    {
-      "id": "fed547a971052473",
-      "title": "Summit Futuro da Mobilidade 2026 discute impactos das novas tecnologias no setor automotivo",
-      "summary": "O Summit Futuro da Mobilidade 2026, uma parceria de Autoesporte com o Valor Econômico, aconteceu nesta terça-feira (29), na Casa Traffô, em São Paulo (SP). O tema da terceira edição foi \"As novas tecnologias que estão transformando os carros, a indústria, a mobilidade e todo o ecossistema automotivo brasileiro\". Na edição 2026, o Summit Futuro da Mobilidade teve cinco painéis sobre diferentes aspectos da transformação tecnológica no setor automotivo. A programação abordou como a disrupção digital e a inteligência artificial estão mudando as demandas do consumidor. Também debateu a…",
-      "url": "https://autoesporte.globo.com/setor-automotivo/inovacao-e-tecnologia-em-automoveis/noticia/2026/09/summit-futuro-da-mobilidade-2026-discute-impactos-novas-tecnologias-setor-automotivo.ghtml",
-      "image": "https://s2-autoesporte.glbimg.com/Y1547_i8FAKnlzkqQnQbRtNqgMA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/y/X/rikqbBQH6bYxAt5LfRkw/summit-2026-painel-3-4-.jpg",
-      "images": [
-        "https://s2-autoesporte.glbimg.com/Y1547_i8FAKnlzkqQnQbRtNqgMA=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/y/X/rikqbBQH6bYxAt5LfRkw/summit-2026-painel-3-4-.jpg"
-      ],
-      "source": "Auto Esporte BR",
-      "source_url": "https://autoesporte.globo.com",
-      "published": "2026-09-29T13:06:43+00:00"
-    },
-    {
-      "id": "952ae0aeb2134d2c",
-      "title": "McLaren Racing and Edward Jones join forces in multi-year F1 and IndyCar partnership",
-      "summary": "In a joint announcement, McLaren Racing and Edward Jones revealed a new multi-year partnership designating the St. Louis–based firm as the Official Private Wealth Management Partner across both Formula 1 and IndyCar. The agreement establishes a long-term, year-round presence across two of global motorsport's premier racing platforms. The activation begins during the 2026 Formula 1 season with ... Keep reading",
-      "url": "https://www.motorsport.com/indycar/news/mclaren-racing-and-edward-jones-join-forces-in-multi-year-f1-and-indycar-pa/10859933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/0R7BJPE2/s6/ej-x-mcl-announcement-1920x108.jpg",
-      "images": [
-        "https://cdn-2.motorsport.com/images/amp/0R7BJPE2/s6/ej-x-mcl-announcement-1920x108.jpg",
-        "https://cdn-9.motorsport.com/images/amp/0R7BJPE2/s1000/ej-x-mcl-announcement-1920x108.webp",
-        "https://cdn-9.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
-        "https://cdn.motorsport.com/images/amp/2jEAlXP0/s2/lando-norris-mclaren.jpg",
-        "https://cdn.motorsport.com/images/amp/6DGgjA4Y/s2/gordon-johncock-after-second-i.jpg",
-        "https://cdn-9.motorsport.com/images/usa/10R75r27/s100/img138404304-1.webp"
-      ],
-      "source": "Motorsport IndyCar",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:03:26+00:00"
-    },
-    {
-      "id": "7e29ba5a7d9a3ae3",
-      "title": "McLaren Racing and Edward Jones join forces in multi-year F1 and IndyCar partnership",
-      "summary": "In a joint announcement, McLaren Racing and Edward Jones revealed a new multi-year partnership designating the St. Louis–based firm as the Official Private Wealth Management Partner across both Formula 1 and IndyCar. The agreement establishes a long-term, year-round presence across two of global motorsport's premier racing platforms. The activation begins during the 2026 Formula 1 season with ... Keep reading",
-      "url": "https://www.motorsport.com/indycar/news/mclaren-racing-and-edward-jones-join-forces-in-multi-year-f1-and-indycar-pa/10859933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/0R7BJPE2/s6/ej-x-mcl-announcement-1920x108.jpg",
-      "images": [
-        "https://cdn-2.motorsport.com/images/amp/0R7BJPE2/s6/ej-x-mcl-announcement-1920x108.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:03:26+00:00"
-    },
-    {
-      "id": "ecf111e8db450adc",
-      "title": "McLaren Racing and Edward Jones join forces in multi-year F1 and IndyCar partnership",
-      "summary": "In a joint announcement, McLaren Racing and Edward Jones revealed a new multi-year partnership designating the St. Louis–based firm as the Official Private Wealth Management Partner across both Formula 1 and IndyCar. The agreement establishes a long-term, year-round presence across two of global motorsport's premier racing platforms. The activation begins during the 2026 Formula 1 season with ... Keep reading",
-      "url": "https://www.motorsport.com/indycar/news/mclaren-racing-and-edward-jones-join-forces-in-multi-year-f1-and-indycar-pa/10859933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/0R7BJPE2/s6/ej-x-mcl-announcement-1920x108.jpg",
-      "images": [
-        "https://cdn-1.motorsport.com/images/amp/0R7BJPE2/s6/ej-x-mcl-announcement-1920x108.jpg"
-      ],
-      "source": "Motorsport F1",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:03:26+00:00"
-    },
-    {
-      "id": "20734b0de028e7a4",
-      "title": "Haval начал продажи кроссовера Dargo с другими дизайном и начинкой",
-      "summary": "Бренд Haval вывел на домашний рынок гибридную версию брутального паркетника Dargo/Big Dog. Как и чисто бензиновый кроссовер, HEV-вариант предложен с передним или полным приводом. Новая модификация также отличается дизайном экстерьера.",
-      "url": "https://www.kolesa.ru/news/haval-nacal-prodazi-krossovera-dargo-s-drugimi-dizainom-i-nacinkoi",
-      "image": "https://kolesa-uploads.ru/-/03d45b8f-d663-48dd-bfc9-adb8bba73eeb/pre-haval-2.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/03d45b8f-d663-48dd-bfc9-adb8bba73eeb/pre-haval-2.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-09-29T13:02:59+00:00"
-    },
-    {
-      "id": "29bd48d05672fe1c",
-      "title": "Renault’s Hybrid Blitz: 3 New SUVs Coming By 2027",
-      "summary": "GaadiWaadi - Duster Hybrid arrives this October, while the upcoming Bigster and Bridger are also expected to get strong-hybrid powertrains Renault is preparing to add three new hybrid SUVs to its Indian line-up by 2027, giving the French carmaker a much broader powertrain strategy in one of the world’s fastest-growing SUV markets. The first will be the […] The post Renault’s Hybrid Blitz: 3 New SUVs Coming By 2027 appeared first on Gaadiwaadi.com - Latest Car & Bike News by Team GaadiWaadi .",
-      "url": "https://gaadiwaadi.com/renaults-hybrid-blitz-3-new-suvs-coming-by-2027/",
-      "image": "https://gaadiwaadi.com/wp-content/uploads/2026/03/renault-bridger-7.jpg",
-      "images": [
-        "https://gaadiwaadi.com/wp-content/uploads/2026/03/renault-bridger-7.jpg"
-      ],
-      "source": "Gaadiwaadi IN",
-      "source_url": "https://gaadiwaadi.com",
-      "published": "2026-09-29T13:00:40+00:00"
-    },
-    {
-      "id": "d54f18fd3e04412f",
-      "title": "Chip Ganassi Racing signs Christian Lundgaard for 2027 in multi-year IndyCar deal",
-      "summary": "Chip Ganassi Racing (CGR) has signed Danish driver Christian Lundgaard to a multi-year contract to drive the #9 PNC Bank Honda starting in the 2027 season in the IndyCar Series. Lundgaard will join recently-crowned five-time IndyCar champion Alex Palou and Kyffin Simpson as part of the driver roster for the winningest team in series history. The 25-year-old Dane is coming off a standout 2026 ... Keep reading",
-      "url": "https://www.motorsport.com/indycar/news/chip-ganassi-racing-signs-christian-lundgaard-to-multi-year-indycar-deal-beg/10859921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "image": "https://cdn-8.motorsport.com/images/amp/0Zq8vPd6/s6/gettyimages-2264252559.jpg",
-      "images": [
-        "https://cdn-8.motorsport.com/images/amp/0Zq8vPd6/s6/gettyimages-2264252559.jpg",
-        "https://cdn-1.motorsport.com/images/amp/0R7BJPE2/s300/ej-x-mcl-announcement-1920x108.webp",
-        "https://cdn-7.motorsport.com/images/usa/10R75r27/s2/img138404304-1.jpg",
-        "https://cdn-1.motorsport.com/images/amp/0Zq8vPd6/s1000/gettyimages-2264252559.webp",
-        "https://cdn.motorsport.com/images/mgl/Y9lLyqL2/s1000/christian-lundgaard-arrow-mcla.jpg",
-        "https://cdn.motorsport.com/images/amp/Y9lNXmZ2/s2/gordon-johncock-on-the-borg-wa.jpg"
-      ],
-      "source": "Motorsport IndyCar",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:00:02+00:00"
-    },
-    {
-      "id": "0304e5d380844b0f",
-      "title": "Chip Ganassi Racing signs Christian Lundgaard for 2027 in multi-year IndyCar deal",
-      "summary": "Chip Ganassi Racing (CGR) has signed Danish driver Christian Lundgaard to a multi-year contract to drive the #9 PNC Bank Honda starting in the 2027 season in the IndyCar Series. Lundgaard will join recently-crowned five-time IndyCar champion Alex Palou and Kyffin Simpson as part of the driver roster for the winningest team in series history. The 25-year-old Dane is coming off a standout 2026 ... Keep reading",
-      "url": "https://www.motorsport.com/indycar/news/chip-ganassi-racing-signs-christian-lundgaard-to-multi-year-indycar-deal-beg/10859921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-3.motorsport.com/images/amp/0Zq8vPd6/s6/gettyimages-2264252559.jpg",
-      "images": [
-        "https://cdn-3.motorsport.com/images/amp/0Zq8vPd6/s6/gettyimages-2264252559.jpg"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T13:00:02+00:00"
-    },
-    {
-      "id": "e2ab3dad1c548ebf",
-      "title": "Two-Tone Paint Is Making a Comeback on Trucks Thanks to Ford: TDS",
-      "summary": "The nostalgia from the 1970s, '80s, and '90s is making a comeback in 2026. The post Two-Tone Paint Is Making a Comeback on Trucks Thanks to Ford: TDS appeared first on The Drive .",
-      "url": "https://www.thedrive.com/news/two-tone-paint-is-making-a-comeback-on-trucks-thanks-to-ford-tds",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/09/f150.jpeg?quality=85",
-      "images": [
-        "https://www.thedrive.com/wp-content/uploads/2026/09/f150.jpeg?quality=85"
-      ],
-      "source": "The Drive",
-      "source_url": "https://www.thedrive.com",
-      "published": "2026-09-29T13:00:00+00:00"
-    },
-    {
-      "id": "305cd3662fbab321",
-      "title": "A Used Mercedes-AMG S65 Doesn't Make Sense. Here's Why You Should Buy One Anyway",
-      "summary": "The Mercedes-AMG S65 once cost over $200,000. Now, the 612-hp V12 super sedan is dangerously tempting.",
-      "url": "https://www.motor1.com/reviews/809896/used-mercedes-amg-s65-buying-guide/",
-      "image": "https://cdn.motor1.com/images/mgl/ME9zY/s3/2018-mercedes-amg-s65-review.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/ME9zY/s3/2018-mercedes-amg-s65-review.jpg"
-      ],
-      "source": "Motor1",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-09-29T13:00:00+00:00"
-    },
-    {
-      "id": "711d4d9b3b24b429",
-      "title": "Refreshed 2027 Honda Passport TrailSport Starting to Arrive at Dealerships Now",
-      "summary": "The enhanced 2027 Honda Passport begins arriving at Honda dealerships today with TrailSport models gaining on-road and off-road performance, bolder styling and feature enhancements.",
-      "url": "http://hondanews.com/en-US/releases/refreshed-2027-honda-passport-trailsport-starting-to-arrive-at-dealerships-now",
-      "image": "https://wieck-honda-production.s3.amazonaws.com/photos/62d447de97361f77a5dab8bc93d9fb0af1e4a771/thumbnail-364x204.jpg",
-      "images": [
-        "https://wieck-honda-production.s3.amazonaws.com/photos/62d447de97361f77a5dab8bc93d9fb0af1e4a771/thumbnail-364x204.jpg"
-      ],
-      "source": "Honda News",
-      "source_url": "https://hondanews.com",
-      "published": "2026-09-29T13:00:00+00:00"
-    },
-    {
-      "id": "f56eaa89a745f584",
-      "title": "Final Parking Space: 1948 Kaiser Special",
-      "summary": "Once the challenge of crushing the Axis was over, what was the mighty industrialist Henry J. Kaiser going to do to keep busy? Build cars, of course, and that’s just what he did once the war ended. Today’s Final Parking Space subject is one of the early products of the Kaiser-Frazer Corporation, now residing in […]",
-      "url": "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1948-kaiser-special/",
-      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/FPS-1948-Kaiser-Special.jpg",
-      "images": [
-        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/FPS-1948-Kaiser-Special.jpg"
-      ],
-      "source": "Hagerty Media",
-      "source_url": "https://www.hagerty.com",
-      "published": "2026-09-29T13:00:00+00:00"
-    },
-    {
-      "id": "a4d0c475566f1061",
-      "title": "How to Pick the Right Car Trailer",
-      "summary": "Planning to tow? Not all trailers are a good fit for every type of classic car or truck. Whether it’s a fender position failure, too much tongue weight, an incompatible brake-and-hitch system, or a trailer that’s simply too bulky for the job (or too lightweight for the load), there are numerous considerations to make when […]",
-      "url": "https://www.hagerty.com/media/advice/picking-the-right-car-trailer-for-transporting-your-classic/",
-      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/1987-Jeep-Grand-Wagoneer-Datsun-Towing-Photo-Benjamin-Hunting-Hagerty-Hunting-Trailer-Lede.jpg",
-      "images": [
-        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/09/1987-Jeep-Grand-Wagoneer-Datsun-Towing-Photo-Benjamin-Hunting-Hagerty-Hunting-Trailer-Lede.jpg"
-      ],
-      "source": "Hagerty Media",
-      "source_url": "https://www.hagerty.com",
-      "published": "2026-09-29T13:00:00+00:00"
-    },
-    {
-      "id": "d867499d1831a03a",
-      "title": "Mazda pone precios al nuevo MX-5 2027, así queda la renovada gama del roadster más vendido del mundo",
-      "summary": "Precios y gama del nuevo Mazda MX-5 2027 en España. El nuevo Mazda MX-5 2027 ya tiene precios en España y está listo para asaltar los concesionarios. Llega la renovada gama del roadster más vendido del mundo. El motor más potente desaparece y se incorpora la edición especial Yakudo. Está disponible en versiones Soft Top y Retractable Fastback. Han pasado varios meses desde que Mazda anunció la renovada gama de su popular roadster. El nuevo Mazda MX-5 irrumpía en escena con cambios importantes que van más allá de la estructura de la oferta. Mientras el futuro Mazda MX-5 NE se retrasa y se…",
-      "url": "https://www.motor.es/noticias/mazda-mx-5-2027-venta-espana-2026114724.html",
-      "image": "https://static.motor.es/fotos-noticias/2026/06/precio-mazda-mx-5-2027-2026114724-1781279183_1.jpg",
-      "images": [
-        "https://static.motor.es/fotos-noticias/2026/06/precio-mazda-mx-5-2027-2026114724-1781279183_1.jpg"
-      ],
-      "source": "Motor.es",
-      "source_url": "https://www.motor.es",
-      "published": "2026-09-29T13:00:00+00:00"
-    },
-    {
-      "id": "1ae5cefeed43c987",
-      "title": "Sebastian Vettel provides future F1 role update",
-      "summary": "Sebastian Vettel says he is open to a role in the Formula 1 paddock",
-      "url": "https://www.crash.net/f1/news/1105891/1/sebastian-vettel-provides-future-f1-role-update",
-      "image": "https://www.crash.net/sites/default/files/2026-09/xpb_1434789_hires.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-09/xpb_1434789_hires.jpg?width=1200"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-09-29T12:59:06+00:00"
-    },
-    {
-      "id": "eb5dcd5b3916008a",
-      "title": "MG Hector Tomahawk EV First Batch Of 50 Owners Take Delivery In Surat",
-      "summary": "The delivery milestone comes as MG’s August sales grew 14.42% YoY, with the Tomahawk EV and PHEV expanding its electrified lineup The post MG Hector Tomahawk EV First Batch Of 50 Owners Take Delivery In Surat appeared first on RushLane .",
-      "url": "https://www.rushlane.com/mg-hector-tomahawk-ev-first-batch-of-50-owners-take-delivery-in-surat-12557047.html",
-      "image": "https://www.rushlane.com/wp-content/uploads/2026/09/mg-hector-ev-sales-start-first-tomahawk-india.jpg",
-      "images": [
-        "https://www.rushlane.com/wp-content/uploads/2026/09/mg-hector-ev-sales-start-first-tomahawk-india.jpg"
-      ],
-      "source": "RushLane IN",
-      "source_url": "https://rushlane.com",
-      "published": "2026-09-29T12:57:15+00:00"
-    },
-    {
-      "id": "a6f13ec4d041428b",
-      "title": "Fife-cylinder frenzy: Epic Scottish road trip in Cupra's five-pot Formentor",
-      "summary": "1800-mile trip to some of Scotland's best roads provides the perfect opportunity to test my VZ5's mettle Everyone loves a road trip, and I think I might just love them more than most. So when an email flew into my inbox from our sister magazine Classic & Sports Car telling me to pack my bags and head for Scotland, I was ecstatic. My quest to snap some wonderful classics would see me take in pretty much everywhere from Glasgow to Inverness and most places in between. My weapon of choice? The Cupra Formentor VZ5 , obviously. The 330-mile motorway slog north revealed the Cupra's surprising…",
-      "url": "https://www.autocar.co.uk/car-news/features/fife-cylinder-frenzy-epic-scottish-road-trip-cupras-five-pot-formentor",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7025.jpg?itok=9b3lQN1F",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/img_7025.jpg?itok=9b3lQN1F"
-      ],
-      "source": "Autocar",
-      "source_url": "https://www.autocar.co.uk",
-      "published": "2026-09-29T12:55:26+00:00"
-    },
-    {
-      "id": "ffee805401591dc5",
-      "title": "Tata Aeris Base Smart Variant Detailed",
-      "summary": "The prices of this Maruti Dzire and Hyundai Aura rival start at Rs. 5.29 lakh.",
-      "url": "https://www.carwale.com/news/tata-aeris-base-smart-variant-detailed/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/228252/aeris-exterior-right-front-three-quarter.jpeg?isig=0&wm=1",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/228252/aeris-exterior-right-front-three-quarter.jpeg?isig=0&wm=1"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-09-29T12:43:28+00:00"
-    },
-    {
-      "id": "75e35c512fb443cf",
-      "title": "“I fear something bad is going to happen soon” – 2026 F1 cars are “too dangerous”, Sergio Perez warns",
-      "summary": "Sergio Perez says he fears “something bad” might happen due to the speed differential between cars with Formula 1’s new machinery. This was a major topic early in the 2026 season, especially after Oliver Bearman had a mammoth crash in the Japanese Grand Prix. The Haas driver lost control of his car after taking avoiding action when he encountered a slower Franco Colapinto on track during ... Keep reading",
-      "url": "https://www.motorsport.com/f1/news/i-fear-something-bad-is-going-to-happen-soon-2026-f1-cars-are-too-dangerous-sergio-perez-warns/10859878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/2dEoDj3Y/s6/oscar-piastri-mclaren-sergio-p.jpg",
-      "images": [
-        "https://cdn-2.motorsport.com/images/amp/2dEoDj3Y/s6/oscar-piastri-mclaren-sergio-p.jpg"
-      ],
-      "source": "Motorsport F1",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-09-29T12:39:15+00:00"
-    },
-    {
-      "id": "692fab9ed2dbc5a7",
-      "title": "Next-gen Tata Nexon Spotted Again: New Visuals",
-      "summary": "This time around, its front end has been spotted, and there is also a loud, visible change.",
-      "url": "https://www.carwale.com/news/next-gen-tata-nexon-spotted-again-new-visuals/?utm_source=yahoo&utm_medium=sponsorship&utm_content=article_link&utm_campaign=allaboutcars",
-      "image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/228276/nexon-exterior-right-front-three-quarter.jpeg?isig=0",
-      "images": [
-        "https://imgd.aeplcdn.com/600x337/n/cw/ec/228276/nexon-exterior-right-front-three-quarter.jpeg?isig=0"
-      ],
-      "source": "CarWale IN",
-      "source_url": "https://www.carwale.com",
-      "published": "2026-09-29T12:33:46+00:00"
-    },
-    {
-      "id": "e82f4603df800669",
-      "title": "Audi Q3 usado: veja 3 boas versões do SUV de luxo a partir de R$ 120 mil",
-      "summary": "O Audi Q3 teve papel importante na história recente da marca no Brasil. A primeira geração do SUV desembarcou inicialmente importada, mas depois passou a ser produzida em São José dos Pinhais (PR), tornando-se um dos modelos responsáveis pela retomada da fabricação nacional da Audi. E agora, Autoesporte seleciona três boas versões usadas a partir de R$ 120 mil. O Q3 nacional entrou em cena posteriormente, e ampliou essa nova fase da fábrica brasileira. Essa trajetória também faz com que existam Audi Q3 usados bastante diferentes entre si. Na primeira geração, é possível encontrar desde…",
-      "url": "https://autoesporte.globo.com/carros/usados-e-seminovos/noticia/2026/09/audi-q3-usado-3-boas-versoes-suv-lux-partir-r-120-mil.ghtml",
-      "image": "https://s2-autoesporte.glbimg.com/257UXp4YTWUe-xDLFDW8fUx8Tmw=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/K/lQRsiaSqG6gPNmNCMZ5Q/audi-q3-1.4-tfsi-flex-1.jpeg",
-      "images": [
-        "https://s2-autoesporte.glbimg.com/257UXp4YTWUe-xDLFDW8fUx8Tmw=/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/B/K/lQRsiaSqG6gPNmNCMZ5Q/audi-q3-1.4-tfsi-flex-1.jpeg"
-      ],
-      "source": "Auto Esporte BR",
-      "source_url": "https://autoesporte.globo.com",
-      "published": "2026-09-29T12:18:00+00:00"
-    },
-    {
-      "id": "f0cc52305da1bf45",
-      "title": "AC Schnitzer komt in Nederlandse handen",
-      "summary": "De Duitse tuner AC Schnitzer komt in Nederlandse handen. AM Group neemt het bedrijf over.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/ac-schnitzer-komt-in-nederlandse-handen/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/261138017/width/800/261138017",
-      "images": [
-        "https://images.autoweek.nl/261138017/width/800/261138017"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-09-29T12:09:22+00:00"
-    },
-    {
-      "id": "8ad4193c4036cfc1",
-      "title": "EVgo Is Supercharging Its Network With 750 kW EV Chargers",
-      "summary": "The new stalls will support dynamic power sharing, and the company wants its new stations to feature more NACS ports.",
-      "url": "https://insideevs.com/news/810017/evgo-new-750-kw-ev-charger/",
-      "image": "https://cdn.motor1.com/images/mgl/E6X6ez/s3/evgo-regency.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/E6X6ez/s3/evgo-regency.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-09-29T12:08:24+00:00"
-    },
-    {
-      "id": "6bb5ba16d43e1cb9",
-      "title": "Speciale Honda Prelude in gelimiteerde oplage voor Nederland",
-      "summary": "De Honda Prelude is niet in grote aantallen in Nederland op de weg te vinden en daar gaat de nieuwste versie geen verandering in brengen. Die komt namelijk in een gelimiteerde oplage onze kant op.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/speciale-honda-prelude-in-gelimiteerde-oplage-voor-nederland/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/278348567/width/800/278348567",
-      "images": [
-        "https://images.autoweek.nl/278348567/width/800/278348567"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-09-29T12:07:46+00:00"
-    },
-    {
-      "id": "0ab5c8006df3f219",
-      "title": "Lexus Now Builds Helicopters and Yachts?",
-      "summary": "A Lexus for land, sea, and air",
-      "url": "https://journal.classiccars.com/2026/09/29/lexus-makes-yachts-now-and-helicopters/",
-      "image": "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/09/2027-lexus-ly680-bow.jpg",
-      "images": [
-        "https://ccnjournalprodsa.blob.core.windows.net/journalprod/2026/09/2027-lexus-ly680-bow.jpg"
-      ],
-      "source": "ClassicCars Journal",
-      "source_url": "https://journal.classiccars.com",
-      "published": "2026-09-29T12:00:00+00:00"
-    },
-    {
-      "id": "68927d42b16442b0",
-      "title": "Petit Le Mans Acura Message Points",
-      "summary": "Petit Le Mans is the final race of the 2026 IMSA WeatherTech SportsCar Championship, as well as the final event for the Acura ARX-06 GTP car before the program pauses.",
-      "url": "http://hondanews.com/en-US/releases/petit-le-mans-acura-message-points",
-      "image": "https://wieck-honda-production.s3.amazonaws.com/photos/94fb171e0480c79c3608f643c03436cda74b490e/thumbnail-364x204.jpg",
-      "images": [
-        "https://wieck-honda-production.s3.amazonaws.com/photos/94fb171e0480c79c3608f643c03436cda74b490e/thumbnail-364x204.jpg"
-      ],
-      "source": "Honda News",
-      "source_url": "https://hondanews.com",
-      "published": "2026-09-29T12:00:00+00:00"
-    },
-    {
-      "id": "94b5b4d003f53c47",
-      "title": "Petit Le Mans Acura Message Points",
-      "summary": "Petit Le Mans is the final race of the 2026 IMSA WeatherTech SportsCar Championship, as well as the final event for the Acura ARX-06 GTP car before the program pauses.",
-      "url": "http://acuranews.com/en-US/releases/petit-le-mans-acura-message-points",
-      "image": "https://wieck-honda-production.s3.amazonaws.com/photos/94fb171e0480c79c3608f643c03436cda74b490e/thumbnail-364x204.jpg",
-      "images": [
-        "https://wieck-honda-production.s3.amazonaws.com/photos/94fb171e0480c79c3608f643c03436cda74b490e/thumbnail-364x204.jpg"
-      ],
-      "source": "Acura News",
-      "source_url": "https://acuranews.com",
-      "published": "2026-09-29T12:00:00+00:00"
+      "source": "CarScoops Hyundai",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-29T13:45:00+00:00"
     }
   ]
 }
