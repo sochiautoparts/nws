@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-09-30T15:11:17.870670+00:00",
-  "generated_at_human": "2026-09-30 15:11 UTC",
+  "generated_at": "2026-09-30T15:15:41.935686+00:00",
+  "generated_at_human": "2026-09-30 15:15 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -30,6 +30,7 @@
     "CarScoops Tesla",
     "CarScoops Toyota",
     "CarWale IN",
+    "Carscoops News",
     "ClassicCars Journal",
     "Crash.net",
     "Diariomotor",
@@ -71,8 +72,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 66,
-  "multi_photo_items": 108,
+  "sources_count": 67,
+  "multi_photo_items": 109,
   "items": [
     {
       "id": "24b8d5cd588784f3",
@@ -86,6 +87,24 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-09-30T16:00:06+00:00"
+    },
+    {
+      "id": "38ef4c3822ca1e4a",
+      "title": "EVgo Set To Introduce Fastest Charger In America",
+      "summary": "The 750 kW charger will debut next year and recharge EVs in around ten minutes",
+      "url": "https://www.carscoops.com/2026/09/evgo-750-kw-charger/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/EVgo-1024x578.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/EVgo-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/EVgo-929-4-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Opel-STX-Concept-Teaser-4-2048x1158.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/2027-Lexus-TZ-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Lancia-Gamma-HF-Integrale-main-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Range-Rover-Sport-Electric-27MY-Front-34-300927aaa-2048x1152.jpg"
+      ],
+      "source": "Carscoops News",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-09-30T15:15:00+00:00"
     },
     {
       "id": "8c978572f2869ec9",
@@ -7056,19 +7075,6 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-09-29T14:05:33+00:00"
-    },
-    {
-      "id": "6829ebf9b45ae1d5",
-      "title": "Unseen Baku scare reignites F1 safety concerns: ‘Something bad will happen’",
-      "summary": "An unseen moment during the Azerbaijan GP has raised safety fears with the current rules",
-      "url": "https://www.crash.net/f1/news/1105893/1/unseen-baku-scare-reignites-f1-safety-concerns-something-bad-will-happen",
-      "image": "https://www.crash.net/sites/default/files/2026-09/xpb_1439647_hires.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-09/xpb_1439647_hires.jpg?width=1200"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-09-29T14:02:38+00:00"
     }
   ]
 }
