@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-01T08:59:37.897519+00:00",
-  "generated_at_human": "2026-10-01 08:59 UTC",
+  "generated_at": "2026-10-01T09:04:01.341155+00:00",
+  "generated_at_human": "2026-10-01 09:04 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -64,13 +64,26 @@
     "RushLane IN",
     "Sports Car Digest",
     "The Drive",
-    "The Verge Transp",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 63,
-  "multi_photo_items": 224,
+  "sources_count": 62,
+  "multi_photo_items": 225,
   "items": [
+    {
+      "id": "a8618205647a2a82",
+      "title": "How Does Your Car Know The Weather?",
+      "summary": "Your car is not checking the weather app, but it can measure the temperature, detect rain, and even learn about road conditions from other vehicles.",
+      "url": "https://www.motor1.com/features/810290/how-your-car-knows-the-weather/",
+      "image": "https://cdn.motor1.com/images/mgl/3WB48R/s3/how-does-your-car-know-the-weather.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/3WB48R/s3/how-does-your-car-know-the-weather.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/HNk5T-tbWWE/s3/thumb.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-01T09:00:00+00:00"
+    },
     {
       "id": "19a3c178e8c81054",
       "title": "Subaru Made The All-Wheel Drive WRX Cheap Enough To Compete With The Front-Wheel Drive Civic Si",
@@ -7609,19 +7622,6 @@
       ],
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
-      "published": "2026-09-29T22:01:00+00:00"
-    },
-    {
-      "id": "02511ac447665c0d",
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says […]",
-      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "images": [
-        "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      ],
-      "source": "The Verge Transp",
-      "source_url": "https://www.theverge.com",
       "published": "2026-09-29T22:01:00+00:00"
     }
   ]
