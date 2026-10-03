@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-03T01:07:00.154374+00:00",
-  "generated_at_human": "2026-10-03 01:07 UTC",
+  "generated_at": "2026-10-03T01:11:20.313993+00:00",
+  "generated_at_human": "2026-10-03 01:11 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -22,14 +22,31 @@
     "HotCars",
     "Jalopnik",
     "Motor1",
-    "Motorious",
     "PlanetF1",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 22,
-  "multi_photo_items": 466,
+  "sources_count": 21,
+  "multi_photo_items": 467,
   "items": [
+    {
+      "id": "9b9410744cbd363c",
+      "title": "Hyundai's 10-Year Powertrain Warranty Is Still One Of The Best Reasons To Buy One",
+      "summary": "Hyundai's 10-year/100,000-mile powertrain warranty beats Toyota, Honda, and Ford — here's what it covers and who qualifies.",
+      "url": "https://carbuzz.com/hyundai-10-year-powertrain-warranty-great-reason-to-buy-one/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/img_6891.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/img_6891.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/66576-large622162025elantrahybrid-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/veloster-jsn-highlights-gallery-03.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/large-4071-2003hyundaiaccent.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/12/2026-hyundai-venue-engine.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2026-hyundai-palisade-hybrid-calligraphy-exterior-8.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-03T01:08:11+00:00"
+    },
     {
       "id": "106766a6b80a2c2c",
       "title": "The Motorcycle That Can Make A Cross-Country Trip Feel Like An Adventure",
@@ -8726,19 +8743,6 @@
       ],
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
-      "published": "2026-09-30T14:00:15+00:00"
-    },
-    {
-      "id": "fd1c470c52d1ca24",
-      "title": "Drag Racing Builds: What Goes Into a Quarter-Mile Machine",
-      "summary": "A dedicated drag car looks nothing like the street cars it's often based on once the build is finished, even if the body panels tell a familiar story. Every choice, from the engine internals to the smallest suspension bushing, gets made with a single number in mind: elapsed",
-      "url": "https://www.motorious.com/articles/features-3/drag-racing-builds-what-goes-into-a-quarter-mile-machine/",
-      "image": "https://images.unsplash.com/photo-1552167065-f9d57ffdeb9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGRyYWclMjByYWNpbmclMjBjYXIlMjBidXJub3V0fGVufDB8fHx8MTc4MzUzNDkxM3ww&ixlib=rb-4.1.0&q=80&w=2000",
-      "images": [
-        "https://images.unsplash.com/photo-1552167065-f9d57ffdeb9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGRyYWclMjByYWNpbmclMjBjYXIlMjBidXJub3V0fGVufDB8fHx8MTc4MzUzNDkxM3ww&ixlib=rb-4.1.0&q=80&w=2000"
-      ],
-      "source": "Motorious",
-      "source_url": "https://motorious.com",
       "published": "2026-09-30T14:00:15+00:00"
     }
   ]
