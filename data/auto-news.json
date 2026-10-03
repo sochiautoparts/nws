@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-03T02:04:00.380439+00:00",
-  "generated_at_human": "2026-10-03 02:04 UTC",
+  "generated_at": "2026-10-03T02:08:23.332567+00:00",
+  "generated_at_human": "2026-10-03 02:08 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -20,13 +20,30 @@
     "HotCars",
     "Jalopnik",
     "Motor1",
-    "PlanetF1",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 19,
+  "sources_count": 18,
   "multi_photo_items": 470,
   "items": [
+    {
+      "id": "0a7bf87f3cdf2e9a",
+      "title": "Lamborghini's 1,050-HP Revuelto SV Hybrid V12 Killed The Manual Supercar For Good",
+      "summary": "Electrons are the enemy of manuals. Lamborghini admits they can't do both in one",
+      "url": "https://carbuzz.com/lamborghini-confirms-hybrid-v12-killed-manual-supercar/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/murci-manual.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/murci-manual.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/2028-mclaren-mcl-6gt-exterior-3.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/08/hennessey-blackbird-exterior-front-three-quarter-low-angle-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2026-porsche-911-gt3-bergsport-exterior-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/12/2009-lamborghini-murcielago-lp670-sv-rm-sothebys-7.png?q=49&fit=crop&w=875&h=540&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/lamborghini-gallardo_lp570-4_squadra_corse-2014-1.jpg?q=49&fit=crop&w=875&h=540&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-03T02:04:11+00:00"
+    },
     {
       "id": "710e5c5845b58f58",
       "title": "We Bet You’ve Never Seen A Lincoln Town Car Like This Before",
@@ -8739,24 +8756,6 @@
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-09-30T14:16:34+00:00"
-    },
-    {
-      "id": "c2db24a87a88eae0",
-      "title": "Bottas responds as Cadillac F1 relocation plans branded ‘suboptimal’",
-      "summary": "Valtteri Bottas: \"There's a reason why the team is doing that...\"",
-      "url": "https://www.planetf1.com/news/cadillac-f1-relocation-valtteri-bottas",
-      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/09/23164540/valtteri-bottas-cadillac-behind-monza-2026-planetf1-120x120.jpg",
-      "images": [
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/09/23164540/valtteri-bottas-cadillac-behind-monza-2026-planetf1-120x120.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/09/28120913/valtteri-bottas-cadillac-f1-2026-canadian-grand-prix-638x358.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/09/24124815/valtteri-bottas-cadillac-mac-26-f1-2026-azerbaijan-grand-prix-baku-fp1-638x358.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/09/12175903/carlos-sainz-williams-f1-2026-spanish-grand-prix-madrid-638x358.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/08/31140111/valtteri-bottas-cadillac-zandvoort-2026-planetf1-638x358.jpg",
-        "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/09/30141312/lance-stroll-aston-martin-salary-638x358.jpg"
-      ],
-      "source": "PlanetF1",
-      "source_url": "https://www.planetf1.com",
-      "published": "2026-09-30T14:10:15+00:00"
     }
   ]
 }
