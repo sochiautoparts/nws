@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-03T11:04:45.637793+00:00",
-  "generated_at_human": "2026-10-03 11:04 UTC",
+  "generated_at": "2026-10-03T11:09:07.868094+00:00",
+  "generated_at_human": "2026-10-03 11:09 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -14,7 +14,6 @@
     "CarScoops",
     "CarScoops Porsche",
     "Carscoops News",
-    "Diariomotor",
     "Hagerty Media",
     "HotCars",
     "Jalopnik",
@@ -22,9 +21,25 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 17,
-  "multi_photo_items": 473,
+  "sources_count": 16,
+  "multi_photo_items": 474,
   "items": [
+    {
+      "id": "2d6620dd7fa126f4",
+      "title": "One Brand Rules Consumer Reports' Cheap, Reliable Luxury Car List (It's Not Even Close)",
+      "summary": "You can argue about what makes a luxury car cheap and reliable, but there's no doubt that one brand is the king of affordable, dependable second-hand autos.",
+      "url": "https://www.jalopnik.com/2271406/consumer-reports-most-reliable-used-luxury-cars-under-15k-lexus-gs-es-hybrid/",
+      "image": "https://www.jalopnik.com/img/gallery/one-brand-rules-consumer-reports-cheap-reliable-luxury-car-list-its-not-even-close/l-intro-1790630458.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/one-brand-rules-consumer-reports-cheap-reliable-luxury-car-list-its-not-even-close/l-intro-1790630458.jpg",
+        "https://www.jalopnik.com/img/gallery/one-brand-rules-consumer-reports-cheap-reliable-luxury-car-list-its-not-even-close/intro-1790630458.jpg",
+        "https://www.jalopnik.com/img/gallery/one-brand-rules-consumer-reports-cheap-reliable-luxury-car-list-its-not-even-close/consumer-reports-most-reliable-cheap-luxury-cars-1790630459.jpg",
+        "https://www.jalopnik.com/img/gallery/one-brand-rules-consumer-reports-cheap-reliable-luxury-car-list-its-not-even-close/other-used-lexus-models-and-competing-ones-that-rank-for-reliability-1790630459.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-10-03T11:05:00+00:00"
+    },
     {
       "id": "685487589731de3f",
       "title": "2026 Kia Sportage: Hybrid Vs PHEV Vs Gas Cost Breakdown",
@@ -8759,19 +8774,6 @@
       "source": "TopSpeed main",
       "source_url": "https://www.topspeed.com",
       "published": "2026-09-30T16:00:16+00:00"
-    },
-    {
-      "id": "24b8d5cd588784f3",
-      "title": "El Smart de \"Hacendado\" llega a Europa, un urbano a precio de moto y cero emisiones perfecto para ciudad",
-      "summary": "Los cuadriciclos están ganando terreno en Europa con una oferta cada vez más amplia, tanto entre los ligeros como en las alternativas más prestacionales. Su tamaño contenido los convierte en una solución muy práctica para el tráfico urbano y ahora llega una propuesta de apenas tres metros de longitud que recuerda en cierto modo al desaparecido Smart ForTwo, pero apostando por una receta mucho más sencilla y, sobre todo, económica. Interior con cuatro plazas Diseño exótico Consumo ajustado Etiqueta CERO El Bentu BTE05 ya lleva unos meses a la venta en varios mercados europeos con una receta…",
-      "url": "https://www.diariomotor.com/noticia/bentu-bte-05-sept/",
-      "image": "https://www.diariomotor.com/imagenes/2026/06/Bontu-BTE052-6a301eaa0d54e.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/06/Bontu-BTE052-6a301eaa0d54e.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-09-30T16:00:06+00:00"
     }
   ]
 }
