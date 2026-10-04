@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-04T03:05:57.628457+00:00",
-  "generated_at_human": "2026-10-04 03:05 UTC",
-  "total_items": 340,
+  "generated_at": "2026-10-04T03:10:19.591796+00:00",
+  "generated_at_human": "2026-10-04 03:10 UTC",
+  "total_items": 341,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -58,6 +58,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -93,9 +94,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 88,
-  "multi_photo_items": 13,
+  "sources_count": 89,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "cce82e48b111bc72",
+      "title": "BMW Teases Electric M3 To Celebrate One Million M Vehicles",
+      "summary": "We've seen it in spy shots before, but none of those gave us such a great look at the next M3 as BMW's recent teaser.",
+      "url": "https://carbuzz.com/bmw-electric-m3-teaser-millionth-m-vehicle/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658849_highres_one-million-times-th.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658849_highres_one-million-times-th.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658849_highres_one-million-times-th0.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658850_highres_one-million-times-th.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658840_highres_one-million-times-th.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/untitled-1-10.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/03/mazda-cx5-main.png?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-04T03:05:44+00:00"
+    },
     {
       "id": "0a2f895226feab08",
       "title": "Every Toyota Supra Generation Ranked By 0-60",
