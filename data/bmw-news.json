@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-05T19:53:22.193113+00:00",
-  "generated_at_human": "2026-10-05 19:53 UTC",
-  "total_items": 325,
+  "generated_at": "2026-10-05T21:32:40.154607+00:00",
+  "generated_at_human": "2026-10-05 21:32 UTC",
+  "total_items": 327,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -57,6 +57,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops Audi",
     "CarScoops BMW",
@@ -85,9 +86,45 @@
     "Sports Car Digest",
     "The Verge Transp"
   ],
-  "sources_count": 80,
-  "multi_photo_items": 8,
+  "sources_count": 81,
+  "multi_photo_items": 10,
   "items": [
+    {
+      "id": "a907c9777b6179c0",
+      "title": "A BMW Z4 In Disguise: Was The 5th Generation Toyota Supra A Sales Loss, Or A Lesson Worth Learning?",
+      "summary": "The GR Supra sold just 40,000 units and was overshadowed by the Z4, but its role in reviving Toyota's enthusiast image made it worth building.",
+      "url": "https://carbuzz.com/did-the-5th-generation-toyota-supra-fail-or-succeed/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/supra-drift.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/supra-drift.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/01/toyota-supra_2-0l_turbo-2020-1280-9236b33f5df0f389ff0567a102859f83eb-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/06/2020-toyota-supra-rear-three-quarter-large.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/2022-bmw-z4-main.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2025-toyota-gr-corolla-4.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/05/2023-toyota-ft-se-concept-render-3.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-05T21:05:11+00:00"
+    },
+    {
+      "id": "4df3e55735019a86",
+      "title": "Black Trim, Big Wheels, More Power: New BMW X3 Scares Audi Q5 Into Submission",
+      "summary": "BMW has recently shared some interesting details about the 2027 X3 M50 – extra ponies and a stealthy Black Package are inbound.",
+      "url": "https://carbuzz.com/new-bmw-x3-m50-with-black-package/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658755_highres_bmw-x3-m50-xdrive-bl.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658755_highres_bmw-x3-m50-xdrive-bl.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90653388_highres_bmw-x3-m50-xdrive-bl.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658760_highres_bmw-x3-m50-xdrive-bl.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658727_highres_bmw-x3-m50-xdrive-bl.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658762_highres_bmw-x3-m50-xdrive-bl.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90658759_highres_bmw-x3-m50-xdrive-bl.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-05T20:30:11+00:00"
+    },
     {
       "id": "3df14aa0ab3b2319",
       "title": "NSW Police Is Putting The New BMW 540d xDrive Through A Three-Week Trial As A Highway Patrol Car",
