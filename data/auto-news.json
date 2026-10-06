@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-06T07:03:41.033987+00:00",
-  "generated_at_human": "2026-10-06 07:03 UTC",
+  "generated_at": "2026-10-06T07:08:07.816548+00:00",
+  "generated_at_human": "2026-10-06 07:08 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -9,6 +9,7 @@
     "Auto Esporte BR",
     "AutoExpress",
     "AutoWeek NL",
+    "Autocar",
     "Autosport All",
     "Autosport F1",
     "Autosport MotoGP",
@@ -69,8 +70,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 103,
+  "sources_count": 65,
+  "multi_photo_items": 104,
   "items": [
     {
       "id": "e0de45e2c6876b11",
@@ -107,6 +108,23 @@
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-10-06T07:00:13+00:00"
+    },
+    {
+      "id": "0e1e41ed5de02bb3",
+      "title": "New Alpine 'PS1' concept to be revealed at Paris motor show",
+      "summary": "Projet Spécial 1 will sit outside the remit of Alpine's existing sporting models; could preview supercar or GT Alpine will reveal the new Projet Spécial 1 – or PS1 – at next week’s Paris motor show . It said the PS1 codename reflects that the concept sits outside its “everyday” cars – the A290 and A390 – as well as its flagship, the A110 . A teaser image showcases its narrow headlight, illuminated in the colours of the French flag. This is distinct from the next-generation A110, whose design has been hinted at in the form of a sculpture that will also be displayed in Paris. It's possible…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-alpine-ps1-concept-be-revealed-paris-motor-show",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/teaser_-ps1-16-9.jpg?itok=tJv8KDz5",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/teaser_-ps1-16-9.jpg?itok=tJv8KDz5",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/teaser_-ps1-16-9.jpg?itok=4eM-Z5sd",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/charlie-martin-autocar.jpg?itok=7c2HuvZw",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/charlie-martin-autocar.jpg"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-06T07:00:00+00:00"
     },
     {
       "id": "f3ee06b36949a359",
@@ -7051,19 +7069,6 @@
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
       "published": "2026-10-05T02:09:15+00:00"
-    },
-    {
-      "id": "11ee37181c7a4f3c",
-      "title": "First Nismo Performance Centre opens in Australia",
-      "summary": "The first factory-backed Nismo Performance Centre outside Japan has opened in Melbourne, with more to roll out across Australia and New Zealand.",
-      "url": "https://www.carexpert.com.au/car-news/first-nismo-performance-centre-opens-in-australia",
-      "image": "https://images.carexpert.com.au/cms/v1/media/nissan_nismoperformancecentre_055.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/nissan_nismoperformancecentre_055.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-10-05T01:54:00+00:00"
     }
   ]
 }
