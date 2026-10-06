@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-06T03:18:32.772689+00:00",
-  "generated_at_human": "2026-10-06 03:18 UTC",
+  "generated_at": "2026-10-06T03:19:26.250621+00:00",
+  "generated_at_human": "2026-10-06 03:19 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -23,6 +23,9 @@
     "CarScoops",
     "CarScoops Corvette",
     "CarScoops Ferrari",
+    "CarScoops Ford",
+    "CarScoops Hyundai",
+    "CarScoops Kia",
     "CarScoops McLaren",
     "CarScoops Mercedes",
     "CarScoops Toyota",
@@ -66,8 +69,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 61,
-  "multi_photo_items": 92,
+  "sources_count": 64,
+  "multi_photo_items": 97,
   "items": [
     {
       "id": "ae73bf0285874120",
@@ -1416,9 +1419,14 @@
       "url": "https://www.carscoops.com/2026/10/kias-new-sportage-takes-shape-with-dramatic-new-design/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-Sportage-spy-shots-new-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-Sportage-spy-shots-new-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-Sportage-spy-shots-new-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-EV3-Markup-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Lexus-GX550-Novel-1ccc-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Vinfast-usa-plans-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Lexus-RX-New-av-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Deepal-S07-review-Aus-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Kia",
       "source_url": "https://www.carscoops.com",
       "published": "2026-10-05T22:18:49+00:00"
     },
@@ -1885,6 +1893,24 @@
       "published": "2026-10-05T21:00:03+00:00"
     },
     {
+      "id": "67e918b4b2721f53",
+      "title": "Roush Gives The 2027 Ford Super Duty A $21K Off-Road Makeover",
+      "summary": "The 2027 Roush Super Duty gets new wheels, improved clearance, and plenty of visual pizzazz, but it misses one key upgrade",
+      "url": "https://www.carscoops.com/2026/10/2027-ford-super-duty-roush-makeover/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/10/DSC04981-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/10/DSC04981-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/MC4487Medium-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/unnamed-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/gyukgyku-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/unnamed2-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/rt67u56ruerhsdb-2048x1365.jpg"
+      ],
+      "source": "CarScoops Ford",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-10-05T21:00:00+00:00"
+    },
+    {
       "id": "71c08dd1f19f45eb",
       "title": "Nissan teases first PHEV for Australia, expected to be BYD Shark 6 rival",
       "summary": "Nissan is expected to finally reveal it's bringing a plug-in hybrid ute to Australia, almost a year after it previewed it to dealers.",
@@ -1895,19 +1921,6 @@
       ],
       "source": "CarExpert",
       "source_url": "https://carexpert.com.au",
-      "published": "2026-10-05T21:00:00+00:00"
-    },
-    {
-      "id": "67e918b4b2721f53",
-      "title": "Roush Gives The 2027 Ford Super Duty A $21K Off-Road Makeover",
-      "summary": "The 2027 Roush Super Duty gets new wheels, improved clearance, and plenty of visual pizzazz, but it misses one key upgrade",
-      "url": "https://www.carscoops.com/2026/10/2027-ford-super-duty-roush-makeover/",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/10/DSC04981-1024x576.jpg",
-      "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/10/DSC04981-1024x576.jpg"
-      ],
-      "source": "CarScoops",
-      "source_url": "https://www.carscoops.com",
       "published": "2026-10-05T21:00:00+00:00"
     },
     {
@@ -3845,9 +3858,14 @@
       "url": "https://www.carscoops.com/2026/10/kia-ev3-dealer-markups/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-EV3-Markup-1024x578.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-EV3-Markup-1024x578.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-EV3-Markup-1024x578.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Mercedes-EQE-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/BMW-M3-EV-Teaser-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Mazda-BT-50-EV-Rendering-main-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-Sportage-spy-shots-new-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/UK-Chinese-car-tariffs-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Kia",
       "source_url": "https://www.carscoops.com",
       "published": "2026-10-05T14:30:00+00:00"
     },
@@ -4403,9 +4421,14 @@
       "url": "https://www.carscoops.com/2026/10/gm-boss-made-almost-50-million-last-year-three-times-ford-ceo/",
       "image": "https://www.carscoops.com/wp-content/uploads/2026/09/GM-CEO-Mary-Barra-0-1024x576.jpg",
       "images": [
-        "https://www.carscoops.com/wp-content/uploads/2026/09/GM-CEO-Mary-Barra-0-1024x576.jpg"
+        "https://www.carscoops.com/wp-content/uploads/2026/09/GM-CEO-Mary-Barra-0-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2025/07/Stellantis-Dealership-Repair-QOTD-707-1-2048x1365.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Mercedes-EQE-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Mazda-BT-50-EV-Rendering-main-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Vinfast-usa-plans-2048x1152.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Stellantis-quality-improvements-2048x1152.jpg"
       ],
-      "source": "CarScoops",
+      "source": "CarScoops Ford",
       "source_url": "https://www.carscoops.com",
       "published": "2026-10-05T13:00:00+00:00"
     },
@@ -5549,6 +5572,24 @@
       ],
       "source": "Auto Bild ES",
       "source_url": "https://www.autobild.es",
+      "published": "2026-10-05T10:00:00+00:00"
+    },
+    {
+      "id": "18beade6ce5e9f60",
+      "title": "British Traffic Officers Testing Hyundai Ioniq 9 EV For Highway Duty",
+      "summary": "Hyundai and the UK's National Highways are evaluating the 385-mile all-electric Ioniq 9s for frontline service",
+      "url": "https://www.carscoops.com/2026/10/british-traffic-officers-testing-ioniq-9-ev/",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-09-UK-Highways-Agency-copy-1024x576.jpg",
+      "images": [
+        "https://www.carscoops.com/wp-content/uploads/2026/09/Hyundai-Ioniq-09-UK-Highways-Agency-copy-1024x576.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/04/2027-Hyundai-Ioniq-9-Performance-Calligraphy-Black-Ink-427-31-2048x1366.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Mercedes-EQE-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Kia-EV3-Markup-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/BMW-M3-EV-Teaser-2048x1155.jpg",
+        "https://www.carscoops.com/wp-content/uploads/2026/10/Mazda-BT-50-EV-Rendering-main-2048x1152.jpg"
+      ],
+      "source": "CarScoops Hyundai",
+      "source_url": "https://www.carscoops.com",
       "published": "2026-10-05T10:00:00+00:00"
     },
     {
@@ -6995,19 +7036,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-10-04T22:25:00+00:00"
-    },
-    {
-      "id": "3e0d75f178ae2378",
-      "title": "Corvette Racing Helps Chevy Repeat As GTD Pro Champion",
-      "summary": "Another feather in the cap for GM.",
-      "url": "https://gmauthority.com/blog/2026/10/corvette-racing-helps-chevy-repeat-as-gtd-pro-champion/",
-      "image": "https://gmauthority.com/blog/wp-content/uploads/2026/10/Corvette-Racing-Z06-GT3.R-Petit-Le-Mans-October-2026-002-No.-74.jpeg",
-      "images": [
-        "https://gmauthority.com/blog/wp-content/uploads/2026/10/Corvette-Racing-Z06-GT3.R-Petit-Le-Mans-October-2026-002-No.-74.jpeg"
-      ],
-      "source": "GM Authority",
-      "source_url": "https://gmauthority.com",
-      "published": "2026-10-04T21:34:53+00:00"
     }
   ]
 }
