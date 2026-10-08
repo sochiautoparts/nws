@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-08T19:11:48.549475+00:00",
-  "generated_at_human": "2026-10-08 19:11 UTC",
-  "total_items": 384,
+  "generated_at": "2026-10-08T19:16:15.262223+00:00",
+  "generated_at_human": "2026-10-08 19:16 UTC",
+  "total_items": 385,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -94,7 +94,7 @@
     "TopSpeed"
   ],
   "sources_count": 88,
-  "multi_photo_items": 42,
+  "multi_photo_items": 43,
   "items": [
     {
       "id": "d1dc404d54dfe12f",
@@ -654,6 +654,24 @@
       ],
       "source": "Autocar BMW M",
       "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-07T22:01:00+00:00"
+    },
+    {
+      "id": "b337518ab960edfe",
+      "title": "2027 BMW iX4",
+      "summary": "What We Know So Far",
+      "url": "https://www.caranddriver.com/bmw/ix4",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/3b42b70c-6397-4268-8dac-f64f29111bec.jpg?crop=1xw:0.843xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/47afe243-54c6-4067-a1b5-33f91c687bab.jpg?crop=0.81xw:0.683xh;0.097xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-2-series-gran-coupe-143-670eb6c2ab24e.jpg?crop=0.803xw:0.678xh;0.103xw,0.132xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg?crop=0.784xw:0.661xh;0.0897xw,0.252xh&resize=700:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-touring-321-690a724cb396d.jpg?crop=0.670xw:0.565xh;0.242xw,0.320xh&resize=700:*"
+      ],
+      "source": "Car and Driver BMW",
+      "source_url": "https://www.caranddriver.com",
       "published": "2026-10-07T22:01:00+00:00"
     },
     {
