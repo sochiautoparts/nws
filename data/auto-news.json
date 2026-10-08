@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-08T10:31:25.559475+00:00",
-  "generated_at_human": "2026-10-08 10:31 UTC",
+  "generated_at": "2026-10-08T10:35:46.225270+00:00",
+  "generated_at_human": "2026-10-08 10:35 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -11,7 +11,6 @@
     "Car and Driver",
     "Car and Driver News",
     "CarBuzz",
-    "CarExpert",
     "CarScoops",
     "CarScoops Tesla",
     "Carscoops News",
@@ -27,9 +26,22 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 22,
+  "sources_count": 21,
   "multi_photo_items": 420,
   "items": [
+    {
+      "id": "d0bef73cd8e326a6",
+      "title": "Honda Delays Redesigned CR-V To Spring 2027: Report",
+      "summary": "CR-V production now targets spring 2027 while Indiana loses the next Civic sedan, reshaping how Honda supplies North American compact buyers.",
+      "url": "https://www.motor1.com/news/811170/honda-cr-v-redesign-delayed/",
+      "image": "https://cdn.motor1.com/images/mgl/G3QMMZ/s3/2026-honda-cr-v-sport-touring-hybrid.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/G3QMMZ/s3/2026-honda-cr-v-sport-touring-hybrid.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-08T10:32:28+00:00"
+    },
     {
       "id": "6b3349e4bf621139",
       "title": "2027 Corvette & Mustang: The Last Naturally Aspirated V8s",
@@ -8500,19 +8512,6 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-10-06T01:30:04+00:00"
-    },
-    {
-      "id": "14c328fbbe320c91",
-      "title": "Australian EV lobby group blasts \"fragmented, paywalled\" new-vehicle sales data",
-      "summary": "The Electric Vehicle Council has called for transparent, freely available sales results to prevent Australia \"flying blind\" on EV adoption.",
-      "url": "https://www.carexpert.com.au/car-news/australian-ev-lobby-group-blasts-fragmented-paywalled-new-vehicle-sales-data",
-      "image": "https://images.carexpert.com.au/cms/v1/media/2027-mitsubishi-asx-vr-e-8.jpg",
-      "images": [
-        "https://images.carexpert.com.au/cms/v1/media/2027-mitsubishi-asx-vr-e-8.jpg"
-      ],
-      "source": "CarExpert",
-      "source_url": "https://carexpert.com.au",
-      "published": "2026-10-06T01:25:00+00:00"
     }
   ]
 }
