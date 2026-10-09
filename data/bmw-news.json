@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-09T06:00:39.949043+00:00",
-  "generated_at_human": "2026-10-09 06:00 UTC",
-  "total_items": 386,
+  "generated_at": "2026-10-09T06:05:00.471060+00:00",
+  "generated_at_human": "2026-10-09 06:05 UTC",
+  "total_items": 387,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -12,6 +12,7 @@
     "AutoWeek News",
     "Autocar BMW",
     "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -93,9 +94,25 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 88,
-  "multi_photo_items": 45,
+  "sources_count": 89,
+  "multi_photo_items": 46,
   "items": [
+    {
+      "id": "4ce8523204424d09",
+      "title": "New BMW 3 Series is a straight-six survivor – with no real rival",
+      "summary": "The new six-cylinder 3 Series is a joyous surprise in a market absent of rivals Current global headlineds are pretty grim, but news that the non-M six-cylinder BMW 3 Series lives on offers a sliver of relief. If that sounds facetious, know that I really am delighted - and not a little excited - by the arrival of the M350 version of the latest 3er. The successor to the 323i, 325i, 328i, 335i and monumentally capable M340i of the outgoing G20 era is a car that we might have lost for good in these turbulent times. When the Vision Neue Klasse concept was revealed in 2023, with its…",
+      "url": "https://www.autocar.co.uk/opinion/new-cars/new-bmw-3-series-straight-six-survivor-%E2%80%93%C2%A0-no-real-rival",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90657797_highres.jpg?itok=bQyvcCpl",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90657797_highres.jpg?itok=bQyvcCpl",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/p90657797_highres.jpg?itok=oDnJQ-T9",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/luc_bbdc_2021_0191_1.jpg?itok=NLojxMzB"
+      ],
+      "source": "Autocar BMW i",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-09T06:00:00+00:00"
+    },
     {
       "id": "feb2fdeb5fc65ee1",
       "title": "V12, 640-HP, 186 MPH: The First BMW M8 Shared An Engine With The McLaren F1",
