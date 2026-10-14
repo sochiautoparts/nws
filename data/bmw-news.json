@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-14T02:34:45.208936+00:00",
-  "generated_at_human": "2026-10-14 02:34 UTC",
-  "total_items": 295,
+  "generated_at": "2026-10-14T02:39:08.541813+00:00",
+  "generated_at_human": "2026-10-14 02:39 UTC",
+  "total_items": 296,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -53,6 +53,7 @@
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "Car and Driver News",
     "CarBuzz",
     "CarWale IN",
     "Diariomotor",
@@ -74,9 +75,27 @@
     "Sports Car Digest",
     "The Verge Transp"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 6,
+  "sources_count": 70,
+  "multi_photo_items": 7,
   "items": [
+    {
+      "id": "31af57527a00d3c5",
+      "title": "2027 BMW M760 Brings the V-8 Back to the Brand’s Big Luxury Sedan",
+      "summary": "Replacing the 760i, this new M Performance version of the 7-series will pack around 570 horsepower.",
+      "url": "https://www.caranddriver.com/news/a74126337/2027-bmw-m760-xdrive-v8-revealed/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6c9678f7-6a51-4700-86f8-dc246125432b.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/6c9678f7-6a51-4700-86f8-dc246125432b.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/5db1c458-730f-4c8c-8a45-7543e5eb57bc.jpeg?crop=0.734xw:0.55xh;0.097xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8faeeac7-9a19-4284-806a-8f7f5a0ff04f.jpeg?crop=1xw:0.75xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/5aa633c7-d76a-4ca1-b987-69678e1b7fe7.jpg?crop=0.562380952381xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/b5b29c18-6870-4528-a187-8026df0be4fa.jpg?crop=0.632xw:0.949xh;0.238xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/13d2b706-f259-4d15-a121-bd2cebfc397b.png?crop=0.558xw:1xh;0.412xw,0xh&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-14T02:35:00+00:00"
+    },
     {
       "id": "0adec828b2d76e91",
       "title": "2013 BMW 135is Coupe 6-Speed",
