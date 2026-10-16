@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-16T17:07:39.212002+00:00",
-  "generated_at_human": "2026-10-16 17:07 UTC",
+  "generated_at": "2026-10-16T17:11:58.187552+00:00",
+  "generated_at_human": "2026-10-16 17:11 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -9,7 +9,6 @@
     "Autocar",
     "Autocar Mercedes",
     "Autocar Tesla",
-    "Bring a Trailer",
     "Car and Driver",
     "Car and Driver News",
     "CarBuzz",
@@ -24,9 +23,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 19,
-  "multi_photo_items": 466,
+  "sources_count": 18,
+  "multi_photo_items": 467,
   "items": [
+    {
+      "id": "c870aa148099e389",
+      "title": "This Time, Tesla’s Electrifying Roadster Feels Like the Real Deal",
+      "summary": "Whether the SpaceX-supplied thrusters make the cut is another story.",
+      "url": "https://www.caranddriver.com/news/a74159909/new-tesla-roadster-production-expectations/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f428611b-77d7-4346-a27e-75dd4447c215.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/f428611b-77d7-4346-a27e-75dd4447c215.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/f9390ee1-df6f-4ff8-98ad-a1f532302562.jpg?crop=1xw:0.75xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8dc84695-0ab9-4cbc-a055-a02a2c68ffc9.jpg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/78dc799d-9346-446a-bb3d-95ecabb993dd.jpg?crop=0.889xw:1xh;0.111xw",
+        "https://hips.hearstapps.com/hmg-prod/images/a9c6e39d-4caa-4766-ac0e-246de58a388a.jpg?crop=1xw:0.964xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/4751e3c5-1303-487a-8661-a0987a088a64.jpg?crop=0.666666666667xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-16T17:07:34+00:00"
+    },
     {
       "id": "06d346975cd46860",
       "title": "Under the Hood of Dodge’s Rumored Return to the NASCAR Cup Series",
@@ -8632,19 +8649,6 @@
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-10-13T23:22:48+00:00"
-    },
-    {
-      "id": "1799739067a20596",
-      "title": "1968 Ford Torino GT Fastback S-Code 390",
-      "summary": "This 1968 Ford Torino GT fastback was purchased in 2026 by its current owner from a family friend who had owned it for more than 25 years. It has been modified from its factory configuration with a four-speed manual transmission, a Holley carburetor, MSD ignition, bucket seats, a modern stereo, extra gauges, and a center console with a Hurst shifter. The car was originally specified in Royal Maroon with a black interior, power-assisted front disc brakes, and an S-code 390ci V8, and it is further equipped with a rear spoiler, 14\" styled wheels, a hood scoop, and power windows. This Torino…",
-      "url": "https://bringatrailer.com/listing/1968-ford-torino-9/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/1968_ford_torino_image-29039-scaled-1-copy-2026-10-08-3r0-93138.jpg?w=940",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/09/1968_ford_torino_image-29039-scaled-1-copy-2026-10-08-3r0-93138.jpg?w=940"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-10-13T23:22:01+00:00"
     }
   ]
 }
