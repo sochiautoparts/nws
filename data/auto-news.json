@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-16T14:55:56.086744+00:00",
-  "generated_at_human": "2026-10-16 14:55 UTC",
+  "generated_at": "2026-10-16T15:00:21.314799+00:00",
+  "generated_at_human": "2026-10-16 15:00 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -9,7 +9,6 @@
     "Autocar",
     "Autocar Mercedes",
     "Autocar Tesla",
-    "BarnFinds",
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver News",
@@ -28,9 +27,22 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 23,
-  "multi_photo_items": 450,
+  "sources_count": 22,
+  "multi_photo_items": 449,
   "items": [
+    {
+      "id": "12bc7645ef629219",
+      "title": "The Porsche Macan Once Cost $80,000. Now It's A Used-Car Bargain: Why Buy?",
+      "summary": "The first-generation Macan offers sports-car handling for affordable used prices. Just be prepared for Porsche-sized maintenance bills.",
+      "url": "https://www.motor1.com/reviews/811250/used-porsche-macan-buying-guide/",
+      "image": "https://cdn.motor1.com/images/mgl/E7w7q/s3/2018-porsche-macan-turbo-review.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/E7w7q/s3/2018-porsche-macan-turbo-review.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-16T15:00:00+00:00"
+    },
     {
       "id": "011c633cd609c946",
       "title": "Subaru’s New Hollow-Camshaft Patent Describes a Better Way to Lock Down Vibration",
@@ -8559,24 +8571,6 @@
       "source": "Response JP",
       "source_url": "https://response.jp",
       "published": "2026-10-13T23:00:03+00:00"
-    },
-    {
-      "id": "08fa8e6edeb8fcea",
-      "title": "Bush Whacker: 1972 Plymouth Road Runner",
-      "summary": "The Road Runner began in 1968 as Plymouth’s budget-minded mid-size muscle car. It caught on fast but peaked in sales in 1969 (84,420 copies). Shortly thereafter, insurance premiums on autos like this spiked and led to a downhill slide.... Read More »",
-      "url": "https://barnfinds.com/bush-whacker-1972-plymouth-road-runner/",
-      "image": "https://barnfinds.com/wp-content/uploads/2026/10/1972-Plymouth-Road-Runner-e1791852218768-630x390.jpg",
-      "images": [
-        "https://barnfinds.com/wp-content/uploads/2026/10/1972-Plymouth-Road-Runner-e1791852218768-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/10/1972-Road-Runner-Plymouth-e1791852245652-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/10/1972-Road-Runner-Interior-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/10/1972-Road-Runner-Trunk-630x390.jpg",
-        "https://barnfinds.com/wp-content/uploads/2021/05/Russ-Dixon-120x120.jpg",
-        "https://barnfinds.com/wp-content/uploads/2026/09/1968-Pontiac-Firebird-Convertible-1-e1789747274530-120x120.jpeg"
-      ],
-      "source": "BarnFinds",
-      "source_url": "https://barnfinds.com",
-      "published": "2026-10-13T23:00:00+00:00"
     }
   ]
 }
