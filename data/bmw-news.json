@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-17T19:03:28.299758+00:00",
-  "generated_at_human": "2026-10-17 19:03 UTC",
-  "total_items": 339,
+  "generated_at": "2026-10-17T19:07:49.543851+00:00",
+  "generated_at_human": "2026-10-17 19:07 UTC",
+  "total_items": 340,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -64,6 +64,7 @@
     "Hagerty News",
     "Hagerty People",
     "HotCars",
+    "Jalopnik",
     "Motor1",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -78,9 +79,24 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 33,
+  "sources_count": 74,
+  "multi_photo_items": 34,
   "items": [
+    {
+      "id": "0702e4704e31610d",
+      "title": "BMW F 450 RR Adds Race-Ready Looks To Entry-Level Power",
+      "summary": "For beginners that want to feel like a racer, it doesn't get much better than this.",
+      "url": "https://www.jalopnik.com/2289077/bmw-f450rr-race-ready-looks-entry-level-power-reveal/",
+      "image": "https://www.jalopnik.com/img/gallery/bmw-f-450-rr-adds-race-ready-looks-to-entry-level-power/l-intro-1792174650.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/bmw-f-450-rr-adds-race-ready-looks-to-entry-level-power/l-intro-1792174650.jpg",
+        "https://www.jalopnik.com/img/gallery/bmw-f-450-rr-adds-race-ready-looks-to-entry-level-power/intro-1792174650.jpg",
+        "https://www.jalopnik.com/img/gallery/bmw-f-450-rr-adds-race-ready-looks-to-entry-level-power/the-best-looking-beginner-sportbike-hands-down-1792174652.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-10-17T19:05:00+00:00"
+    },
     {
       "id": "a7d69d728950c90c",
       "title": "BMW’s $124,700 i7 60 xDrive Rides Closer To A Rolls-Royce Than Any 7 Series Before It",
