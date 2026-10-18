@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-18T09:57:27.532141+00:00",
-  "generated_at_human": "2026-10-18 09:57 UTC",
+  "generated_at": "2026-10-18T10:01:48.334813+00:00",
+  "generated_at_human": "2026-10-18 10:01 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -62,11 +62,30 @@
     "Sports Car Digest",
     "The Drive",
     "The Verge Transp",
-    "TopSpeed"
+    "TopSpeed",
+    "TopSpeed main"
   ],
-  "sources_count": 59,
-  "multi_photo_items": 111,
+  "sources_count": 60,
+  "multi_photo_items": 112,
   "items": [
+    {
+      "id": "e5a35bb13a6fdaf1",
+      "title": "American SUVs That Give Japanese Rivals A Run For Their Money",
+      "summary": "These American born and made SUVs prove you don't have to sacrifice when buying local.",
+      "url": "https://www.topspeed.com/american-suvs-japanese-rivals-run-for-their-money/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/2026-chevrolet-tahoe.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/01/2026-chevrolet-tahoe.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/wm/2026/05/chevrolet-equinox-ev-exterior-front-3-25-view.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/10/2025-mustang-mach-e-premium-sport-appearance-package_14.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-49.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/image1-8.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/05/image-56-5.jpeg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed main",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-10-18T10:00:17+00:00"
+    },
     {
       "id": "e300b87be1fae559",
       "title": "This 1971 Oldsmobile Held Onto High-Compression Muscle While Chevy and Mopar Detuned",
@@ -7074,19 +7093,6 @@
       "source": "Electrek",
       "source_url": "https://electrek.co",
       "published": "2026-10-16T12:07:37+00:00"
-    },
-    {
-      "id": "b0557541c74a8448",
-      "title": "Lynk & Co 900 обновлён через год после премьеры: проще оптика, ещё больше, теперь семь мест",
-      "summary": "Марка Lynk & Co готовится вывести на рынок модернизированную версию кроссовера с индексом 900. Модели переделали переднюю часть. Кроме того, она подросла и получила салон на семерых.",
-      "url": "https://www.kolesa.ru/news/lynk-co-900-obnovlen-cerez-god-posle-premery-proshhe-optika-eshhe-bolse-teper-sem-mest",
-      "image": "https://kolesa-uploads.ru/-/53162a58-0664-4bc9-b9cc-98fdd377eed7/pre-lynk.jpg",
-      "images": [
-        "https://kolesa-uploads.ru/-/53162a58-0664-4bc9-b9cc-98fdd377eed7/pre-lynk.jpg"
-      ],
-      "source": "Kolesa RU",
-      "source_url": "https://www.kolesa.ru",
-      "published": "2026-10-16T12:04:59+00:00"
     }
   ]
 }
