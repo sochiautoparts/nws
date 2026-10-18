@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-18T21:36:19.934258+00:00",
-  "generated_at_human": "2026-10-18 21:36 UTC",
+  "generated_at": "2026-10-18T21:40:41.562618+00:00",
+  "generated_at_human": "2026-10-18 21:40 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -12,6 +12,7 @@
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autocar",
     "Autosport All",
     "Autosport F1",
@@ -62,9 +63,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 186,
+  "sources_count": 58,
+  "multi_photo_items": 187,
   "items": [
+    {
+      "id": "0f57430c8fd58329",
+      "title": "2028 Mercedes-AMG GT SUV Packs 1,153 HP and 2.4-Second Acceleration",
+      "summary": "The all-electric performance SUV is AMG’s first full-size model developed entirely in Affalterbach.",
+      "url": "https://www.autoweek.com/news/a74171509/2028-mercedes-amg-gt-suv-reveal/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/64b61149-90c4-447d-b2fa-f8a1073d7156.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/64b61149-90c4-447d-b2fa-f8a1073d7156.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/e4a81faf-97ac-4e60-b2a5-aa6b47516041.jpg?crop=1xw:0.845xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/6e13fba2-07d5-4f95-a401-732f9aae1ec6.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png?crop=0.622xw:1xh;0.079xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/9946a96a-60e2-48bf-a85c-ace7128eafbd.jpg?crop=0.666666666667xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/6061c9b0-1171-4749-bd79-5fe53c505f21.jpg?crop=0.666779546224xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-10-18T21:37:55+00:00"
+    },
     {
       "id": "708697d128ff5983",
       "title": "The Motorcycle Ergonomics Trade-Off Riders Often Discover Too Late",
@@ -7403,19 +7422,6 @@
       ],
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
-      "published": "2026-10-16T18:00:00+00:00"
-    },
-    {
-      "id": "cd6fc3478cea2be0",
-      "title": "Welcome to the Hagerty Movies and Cars Celebration",
-      "summary": "In 1989, the boutique German car manufacturer RUF released a 20-minute movie to promote a 200-mph version of the Porsche 911 Turbo called the CTR. The car world knew the machine by its nickname: Yellowbird. The film, called Faszination on the Nürburgring, was the first of its kind, showcasing driver Stefan Roser hooning the Yellowbird […]",
-      "url": "https://www.hagerty.com/media/magazine-features/welcome-to-the-hagerty-movies-and-cars-celebration/",
-      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/10/Movies-Cars-HDC-LW-Opener.jpg",
-      "images": [
-        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/10/Movies-Cars-HDC-LW-Opener.jpg"
-      ],
-      "source": "Hagerty Media",
-      "source_url": "https://www.hagerty.com",
       "published": "2026-10-16T18:00:00+00:00"
     }
   ]
