@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-19T07:52:20.232001+00:00",
-  "generated_at_human": "2026-10-19 07:52 UTC",
+  "generated_at": "2026-10-19T07:56:45.786785+00:00",
+  "generated_at_human": "2026-10-19 07:56 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -27,7 +27,6 @@
     "CarScoops Kia",
     "CarThrottle",
     "CarWale IN",
-    "Carscoops News",
     "ClassicCars Journal",
     "Crash.net",
     "Diariomotor",
@@ -61,9 +60,22 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 220,
+  "sources_count": 55,
+  "multi_photo_items": 219,
   "items": [
+    {
+      "id": "f856d3b135ed7657",
+      "title": "Rivian Begins Invite-Only Rollout Of Its New Self-Driving Tech",
+      "summary": "Early Rivian Point to Point access targets Gen 2 R1 and R2 owners in two states, with strict eligibility, data sharing, and usage rules.",
+      "url": "https://www.motor1.com/news/812384/rivian-point-autonomy-early-access/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8vmk/s3/2027-rivian-r2-first-drive-review.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/6Z8vmk/s3/2027-rivian-r2-first-drive-review.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-19T07:53:25+00:00"
+    },
     {
       "id": "43a73243c6b2337e",
       "title": "The Factory Inline-Six Hot Rods Mercedes-Benz Created 16 Years Before AMG Even Existed",
@@ -7561,22 +7573,6 @@
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
       "published": "2026-10-16T21:21:49+00:00"
-    },
-    {
-      "id": "462ed22ad6be6a1c",
-      "title": "Renault's Wild 8 Gordini Concept May Hit The Production Line",
-      "summary": "Renault debuted its retro electric rally concept in Paris, but here is how this radical show car could actually become a production reality.",
-      "url": "https://www.carscoops.com/2289339/renault-8-gordini-concept-production-version-may-happen/",
-      "image": "https://www.carscoops.com/img/gallery/renaults-wild-8-gordini-concept-may-hit-the-production-line/l-intro-1792182081.jpg",
-      "images": [
-        "https://www.carscoops.com/img/gallery/renaults-wild-8-gordini-concept-may-hit-the-production-line/l-intro-1792182081.jpg",
-        "https://www.carscoops.com/img/uploads/embed/it-oOtJu5-1792028879.jpg",
-        "https://www.carscoops.com/img/gallery/renaults-wild-8-gordini-concept-may-hit-the-production-line/intro-1792182081.jpg",
-        "https://www.carscoops.com/img/gallery/renaults-wild-8-gordini-concept-may-hit-the-production-line/a-new-gordini-could-be-the-perfect-sports-car-for-renault-1792182082.jpg"
-      ],
-      "source": "Carscoops News",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-10-16T21:07:07+00:00"
     }
   ]
 }
