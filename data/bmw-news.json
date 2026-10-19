@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-19T11:26:53.782840+00:00",
-  "generated_at_human": "2026-10-19 11:26 UTC",
-  "total_items": 319,
+  "generated_at": "2026-10-19T11:31:19.088522+00:00",
+  "generated_at_human": "2026-10-19 11:31 UTC",
+  "total_items": 320,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
     "AutoWeek NL",
     "AutoWeek News",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 3",
@@ -75,8 +76,8 @@
     "Quatro Rodas BR",
     "TopSpeed"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 16,
+  "sources_count": 71,
+  "multi_photo_items": 17,
   "items": [
     {
       "id": "dc58c6efac4c2c1e",
@@ -90,6 +91,24 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-19T11:19:26+00:00"
+    },
+    {
+      "id": "fff1106dd1dbe07c",
+      "title": "BMW i7 driven: new tech, same luxury saloon brilliance",
+      "summary": "Benchmark electric limo gets a major software upgrade, sharper battery tech, and an ultra-plush cabin The BMW 7 Series is by a margin the most impressive luxury saloon of the moment, so the fact that it has just undergone the most significant mid-life facelift in BMW history isn't hugely encouraging for its competitors.The list of enhancements is therefore a long one, albeit many of them involve operating systems and lines of code rather than oily parts – but that’s probably fine, because it was the ride and handling that were the real standout bits of the existing car.",
+      "url": "https://www.autocar.co.uk/car-review/bmw/i7",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-i7-review-2026-029.jpg?itok=iIanimST",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-i7-review-2026-029.jpg?itok=iIanimST",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/prior_mug.jpg?itok=a2QcNwL8",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/bmw-i7-review-2026-029.jpg?itok=KfsSfwHG&loggedIn=true",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/bmw-i7-review-2026-030.jpg?itok=WVNJp3qR&loggedIn=true",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/bmw-i7-review-2026-031.jpg?itok=UTaoTGMC&loggedIn=true"
+      ],
+      "source": "Autocar BMW i",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-19T11:15:53+00:00"
     },
     {
       "id": "5dd5246da448c2f2",
