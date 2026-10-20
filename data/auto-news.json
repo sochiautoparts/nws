@@ -1,11 +1,10 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-20T14:55:30.545191+00:00",
-  "generated_at_human": "2026-10-20 14:55 UTC",
+  "generated_at": "2026-10-20T14:59:54.794295+00:00",
+  "generated_at_human": "2026-10-20 14:59 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
-    "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
     "Autocar Audi",
@@ -39,9 +38,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 34,
-  "multi_photo_items": 387,
+  "sources_count": 33,
+  "multi_photo_items": 388,
   "items": [
+    {
+      "id": "e7c397b9b890ef3f",
+      "title": "2027 Mercedes-Benz GLC-Class EV",
+      "summary": "Review, Pricing, and Specs",
+      "url": "https://www.caranddriver.com/mercedes-benz/glc-class-ev",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2027-mercedes-benz-glc-class-ev-120-68bb31226a3c1.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2027-mercedes-benz-glc-class-ev-120-68bb31226a3c1.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/46dd2d0d-aaa1-40b8-bccc-9c7136d2b60e.jpg?crop=1xw:0.844xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2e6633d8-bcc6-4536-b13d-499d04295ce0.jpg?crop=0.658xw:0.555xh;0.116xw",
+        "https://hips.hearstapps.com/hmg-prod/images/9f997b29-60fd-451e-9fe1-c35b531d6bd5.jpg?crop=0.677xw:0.571xh;0.141xw,0.277xh&resize=1200:*",
+        "https://hips.hearstapps.com/hmg-prod/images/fd6090a5-c20c-4838-a168-2683f009927a.jpg?crop=0.687xw:0.515xh;0.171xw,0.276xh&resize=300:*",
+        "https://hips.hearstapps.com/hmg-prod/images/loving-car-driver-under-pressure-6761cc7dc7272.jpg?crop=0.968xw:0.605xh;0.0176xw,0.311xh&resize=300:*"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-20T14:59:43+00:00"
+    },
     {
       "id": "18dd66582a564a5e",
       "title": "Clarkson-Grown Flax Was Used To Build This Custom Jaguar",
@@ -8298,19 +8315,6 @@
       "source": "PlanetF1",
       "source_url": "https://www.planetf1.com",
       "published": "2026-10-17T17:02:20+00:00"
-    },
-    {
-      "id": "ba6b606b92f5bd65",
-      "title": "Mercedes-AMG GT SUV: elektrische hyper-SUV van AMG dreunt met V8-sound",
-      "summary": "AMG heeft zijn eerste stand-alone SUV gemaakt, die heel origineel AMG GT SUV heet. En hij is elektrisch, maar je kan toch lekker ‘revven’. De specificaties zijn gelijk aan die van de lage GT Fourdoor, dus tot 1.169 pk en een accu van 128 kWh.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/hyper-suv-van-amg-dreunt-met-v8-sound-ook-al-is-het-een-ev/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/279108781/width/800/279108781",
-      "images": [
-        "https://images.autoweek.nl/279108781/width/800/279108781"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-10-17T17:00:23+00:00"
     }
   ]
 }
