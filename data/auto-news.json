@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T07:55:30.766592+00:00",
-  "generated_at_human": "2026-10-21 07:55 UTC",
+  "generated_at": "2026-10-21T07:59:53.222633+00:00",
+  "generated_at_human": "2026-10-21 07:59 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -22,13 +22,30 @@
     "HotCars",
     "Jalopnik",
     "Motor1",
-    "Response JP",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 21,
+  "sources_count": 20,
   "multi_photo_items": 468,
   "items": [
+    {
+      "id": "0f5d0f768872d54f",
+      "title": "Hyundai Ruined Chevrolet’s Day By Building A Quicker, Cheaper, And More Advanced 600-HP Crossover",
+      "summary": "The 2026 Hyundai Ioniq 5 N is the cheapest 600-hp crossover in the US at $59,900, beating the Chevy Blazer EV SS by just $800.",
+      "url": "https://carbuzz.com/ioniq-5-n-the-cheapest-600-hp-crossover/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/ioniq-5-n-main.png",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/ioniq-5-n-main.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/sidebar-car.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/ioniq-5-n-essential-track.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/ioniq-5-n-rear-track.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/ioniq-5-n-essential-rear-quarter-track.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/09/ioniq-5-n-essential-front-quarter.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-21T07:58:11+00:00"
+    },
     {
       "id": "ee956f1389e6a24e",
       "title": "Forget The Sedan: This Alfa Romeo Giulia Quadrifoglio Is A Two-Seat Convertible",
@@ -8640,24 +8657,6 @@
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-10-18T05:00:15+00:00"
-    },
-    {
-      "id": "7c277aa1d19c4695",
-      "title": "ロイヤルエンフィールド『125周年記念エディション ハイパーシフト クラシック650』発表、日本35台限定",
-      "summary": "ロイヤルエンフィールドが、ブランド創業125周年を祝う記念モデル『125周年記念エディション・ハイパーシフト・クラシック650』を発表、10月16日より抽選購入の申し込み受け付けが開始された。日本国内での販売台数は35台。",
-      "url": "https://response.jp/article/2026/10/18/417927.html",
-      "image": "https://response.jp/imgs/rss/2252152.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2252152.jpg",
-        "https://response.jp/base/images/google-source-banner.png",
-        "https://response.jp/base/images/ico-jpx-iid.png",
-        "https://response.jp/base/images/ico-privacy-iid.png",
-        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2252152.jpg",
-        "https://response.jp/imgs/sq_m_l1/2252152.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-10-18T05:00:03+00:00"
     }
   ]
 }
