@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T16:49:18.874202+00:00",
-  "generated_at_human": "2026-10-21 16:49 UTC",
+  "generated_at": "2026-10-21T16:53:46.001897+00:00",
+  "generated_at_human": "2026-10-21 16:53 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -25,6 +25,7 @@
     "CarExpert",
     "CarScoops",
     "CarScoops Ferrari",
+    "CarScoops Kia",
     "CarScoops Lamborghini",
     "CarWale IN",
     "Carscoops News",
@@ -69,7 +70,7 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 64,
+  "sources_count": 65,
   "multi_photo_items": 111,
   "items": [
     {
@@ -84,6 +85,21 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-10-21T17:00:31+00:00"
+    },
+    {
+      "id": "b2875c90da253a04",
+      "title": "This Town Removed Every Flock Camera And Replaced Them With 54 Other Plate Readers",
+      "summary": "Flock isn't the only ALPR brand in town. See which New England community officially pulled its Flock cameras only to switch to a rival system.",
+      "url": "https://www.carscoops.com/2293173/fairfield-ct-removes-flock-cameras-adds-new-alpr/",
+      "image": "https://www.carscoops.com/img/gallery/this-town-removed-every-flock-camera-and-replaced-them-with-54-other-plate-readers/l-intro-1792601202.jpg",
+      "images": [
+        "https://www.carscoops.com/img/gallery/this-town-removed-every-flock-camera-and-replaced-them-with-54-other-plate-readers/l-intro-1792601202.jpg",
+        "https://www.carscoops.com/img/gallery/this-town-removed-every-flock-camera-and-replaced-them-with-54-other-plate-readers/intro-1792601202.jpg",
+        "https://www.carscoops.com/img/gallery/this-town-removed-every-flock-camera-and-replaced-them-with-54-other-plate-readers/same-questions-different-cameras-1792601204.jpg"
+      ],
+      "source": "CarScoops Kia",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-10-21T16:52:18+00:00"
     },
     {
       "id": "56de9526894727f3",
@@ -7058,21 +7074,6 @@
       "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-10-20T15:23:00+00:00"
-    },
-    {
-      "id": "f5d39f11714d57f5",
-      "title": "Luz verde de la Comunidad de Madrid a Google: su servicio de coche autónomo, Waymo, inician sus pruebas",
-      "summary": "Tanto la Comunidad de Madrid como la Dirección General de Tráfico han autorizado a Waymo, la empresa de coches autónomos de Google, a realizar pruebas con sus robotaxis en España.",
-      "url": "https://www.autobild.es/tecnologia/luz-verde-comunidad-madrid-google-su-servicio-coche-autonomo-waymo-inician-sus-pruebas_7051156_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad7871e1702d9-62277966.jpeg",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad7871e1702d9-62277966.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/10/20/6ad7871e1702d9-62277966.jpeg",
-        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2026/06/01/6a1d8edd669445-65887169.jpeg"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-10-20T15:22:15+00:00"
     }
   ]
 }
