@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T08:17:25.444046+00:00",
-  "generated_at_human": "2026-10-21 08:17 UTC",
+  "generated_at": "2026-10-21T08:21:49.032946+00:00",
+  "generated_at_human": "2026-10-21 08:21 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -17,7 +17,6 @@
     "CarScoops Ferrari",
     "CarScoops Kia",
     "Carscoops News",
-    "Diariomotor",
     "Hagerty Media",
     "HotCars",
     "Jalopnik",
@@ -25,9 +24,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 20,
-  "multi_photo_items": 468,
+  "sources_count": 19,
+  "multi_photo_items": 469,
   "items": [
+    {
+      "id": "7db23c34c7afb35d",
+      "title": "Fiat's Weird Multipla Revival Could Actually Reach Production",
+      "summary": "The new Multipla-inspired concept could become a production family car in the next 2-3 years.",
+      "url": "https://www.motor1.com/news/812703/fiat-multipla-production-considered/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Y7k/s3/fiat-multiplay-concept.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/2N9Y7k/s3/fiat-multiplay-concept.jpg",
+        "https://cdn.motor1.com/images/mgl/wlk8NN/s5/fiat-multiplay-concept.jpg",
+        "https://cdn.motor1.com/images/mgl/JO6Nmg/s5/fiat-multiplay-concept.jpg",
+        "https://cdn.motor1.com/images/mgl/nA8l3E/s5/fiat-multiplay-concept.jpg",
+        "https://cdn.motor1.com/images/mgl/eoW708/s5/fiat-multiplay-concept.jpg",
+        "https://cdn.motor1.com/images/mgl/qk8YJ1/s5/fiat-multiplay-concept.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-21T08:18:56+00:00"
+    },
     {
       "id": "75d223f226382943",
       "title": "Mercedes Confirms Little G-Class Will Target Different Buyers, Arrives Within 24 Months",
@@ -8640,19 +8657,6 @@
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-10-18T06:01:15+00:00"
-    },
-    {
-      "id": "fc37532927d96f26",
-      "title": "El Tesla Model 3 de 2027, con el diseño del Tesla Roadster, es la mejor idea que puede salir de Tesla para tener el coche más vendido del mundo",
-      "summary": "Seguimos intentando asimilar lo del Tesla Roadster . Días después de su presentación, demostración de capacidad de \"vuelo\" incluída , las secuencias grabada por los allí presentes siguen dando vueltas al mundo en redes sociales . Más allá de lo espectacular de sus capacidades, lo cierto es que el Roadster lleva una confirmación implícita en el diseño que ha mostrado , que vimos foto a foto en este artículo dedicado a ello . Y es que el lenguaje de diseño que dio comienzo con la Cybertruck y continuó con el Cybercab, es la pauta a seguir , lo que nos hace pensar en qué tal le sentaría al…",
-      "url": "https://www.diariomotor.com/noticia/tesla-model-3-2027-diseno-tesla-roadster-recreaciones/",
-      "image": "https://www.diariomotor.com/imagenes/2026/10/Tesla-Model-3-2027-recreaciones-10-6ad208797d412.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/10/Tesla-Model-3-2027-recreaciones-10-6ad208797d412.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-10-18T06:00:59+00:00"
     }
   ]
 }
