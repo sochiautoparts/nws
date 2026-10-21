@@ -1,13 +1,14 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T02:57:12.587639+00:00",
-  "generated_at_human": "2026-10-21 02:57 UTC",
+  "generated_at": "2026-10-21T03:01:31.887670+00:00",
+  "generated_at_human": "2026-10-21 03:01 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
     "AutoWeek News",
     "Autocar",
     "Autocar Audi",
+    "Autocar Mercedes",
     "Autocar Tesla",
     "BarnFinds",
     "Car and Driver",
@@ -31,9 +32,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 26,
-  "multi_photo_items": 461,
+  "sources_count": 27,
+  "multi_photo_items": 462,
   "items": [
+    {
+      "id": "d08750184950081f",
+      "title": "Pontiac's Forgotten Luxury Coupe Makes the Ferrari 250 GTO Look Common",
+      "summary": "Only 16 were ever built: the 1962 Pontiac Grand Prix SD with a 421 Super Duty V8 is rarer than a Ferrari 250 GTO and still undervalued.",
+      "url": "https://www.hotcars.com/pontiac-luxury-coupe-rarer-than-ferrari-250-gto/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/1962-pontiac-gran-prix-421-sd-grille.avif",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/1962-pontiac-gran-prix-421-sd-grille.avif",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/ferrari-250-gto-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/1962-pontiac-grand-prix-sd-rear.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/1962-pontiac-grand-prix-sd-v8.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/img_4243.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/hemi-cuda-16-yo00006-1.png?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-10-21T03:00:14+00:00"
+    },
     {
       "id": "3b1ba875b982a69a",
       "title": "GM Posts Record $50 Billion Quarter as EV Strategy Evolves",
@@ -279,6 +298,24 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/range-rover-electric-review-2026-092.jpg?itok=3yxV_c84"
       ],
       "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-20T23:01:00+00:00"
+    },
+    {
+      "id": "8147efb09b20c5c4",
+      "title": "Government removes planning requirement for EV charging gullies",
+      "summary": "Cutting of \"unnecessary red tape\" means drivers no longer need planning permission to install cross-pavement cable British EV drivers no longer need planning permission to install a cross-pavement charging gully . The gullies allow for a cable to be run from a home wallbox to a car parked at the kerbside without obstructing the pavement. Installing one requires carving out a section of the paved surface so that it's deep enough to run the cable through without creating a trip hazard, and such work previously required planning permission. Buses and local transport minister Simon Lightwood…",
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/government-removes-planning-requirement-ev-charging-gullies",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ev-charging-gully_1.jpg?itok=A8N4N5kI",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ev-charging-gully_1.jpg?itok=A8N4N5kI",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/ev-charging-gully_1.jpg?itok=IsgMMwUA",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_desktop_v1.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_autocarelectric_sponsoredunit_mobile_v1-01.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/charlie-martin-autocar.jpg?itok=7c2HuvZw"
+      ],
+      "source": "Autocar Mercedes",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-10-20T23:01:00+00:00"
     },
@@ -8600,37 +8637,6 @@
       "source": "Motorsport All",
       "source_url": "https://www.motorsport.com",
       "published": "2026-10-18T02:25:49+00:00"
-    },
-    {
-      "id": "00f4901f86687128",
-      "title": "Chevrolet's Forgotten All-Aluminum Big Block That Puts The LS6 To Shame",
-      "summary": "The 1969 Chevy ZL1 427 shed 200+ lbs vs the iron big block, making 430 hp in an all-aluminum package. Only 69 COPO Camaros were ever built.",
-      "url": "https://www.hotcars.com/chevrolets-forgotten-all-aluminum-big-block-that-puts-the-ls6-to-shame/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/2-5.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/2-5.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/mixcollage-05-oct-2026-10-45-pm-1012.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/imgi_1_2271393_40.jpeg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/mixcollage-21-jul-2026-03-48-pm-6637.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/03/427-zl1-powered-camaro.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/01/img_3996.jpeg?q=49&fit=crop&w=825&dpr=2"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-10-18T02:00:27+00:00"
-    },
-    {
-      "id": "9fb31cb2bfb46405",
-      "title": "Ford Kept This 638-Unit Trans-Am Cougar In The Mustang's Shadow On Purpose",
-      "summary": "Mercury built only 638 Boss 302 Cougar Eliminators, with just 323 pairing that engine with the close-ratio four-speed—and a Trans-Am story behind it.",
-      "url": "https://www.hotcars.com/ford-kept-this-638-unit-trans-am-cougar-in-mustangs-shadow/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/1970-mercury-cougar-eliminator-grille-closeup.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/1970-mercury-cougar-eliminator-grille-closeup.jpg"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-10-18T02:00:27+00:00"
     }
   ]
 }
