@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T16:05:09.436618+00:00",
-  "generated_at_human": "2026-10-21 16:05 UTC",
+  "generated_at": "2026-10-21T16:09:33.578146+00:00",
+  "generated_at_human": "2026-10-21 16:09 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -46,7 +46,6 @@
     "Motor1 Alfa Romeo",
     "Motor1 Cadillac",
     "Motor1 Fiat",
-    "Motor1 Ford",
     "Motor1 Lamborghini",
     "Motor1 Lexus",
     "Motor1 Mercedes",
@@ -70,8 +69,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 104,
+  "sources_count": 64,
+  "multi_photo_items": 105,
   "items": [
     {
       "id": "04aeb023f299871d",
@@ -98,6 +97,24 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-10-21T16:17:33+00:00"
+    },
+    {
+      "id": "2ea2d29d2bb92f06",
+      "title": "Ineos Grenadier Helmsman Edition Adds a Lifestyle Twist",
+      "summary": "The special edition brings nautical styling and added equipment to the rugged Grenadier for 2027.",
+      "url": "https://www.caranddriver.com/news/a74206170/ineos-grenadier-helmsman-edition-revealed/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f16e0a39-a9c5-4628-abd3-b413f459e5f8.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/f16e0a39-a9c5-4628-abd3-b413f459e5f8.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/4ba376aa-241d-4f24-906e-886dcb5a0325.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/c6745c80-6a97-4a5b-b1ca-176249ba1a44.jpg?crop=1xw:0.444xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/e9098a18-e6c1-486e-ade5-49aa64968238.jpg?crop=0.563xw:1xh;0.239xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/6cd35407-6877-447c-8067-51cba1bcf1b1.jpg?crop=0.424xw:0.678xh;0.302xw,0.182xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/next-generation-acura-rdx-hybrid-6966a975cb979.jpg?crop=0.563xw:1xh;0.014xw,0xh&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-21T16:06:20+00:00"
     },
     {
       "id": "1a75dafc313bc8dc",
@@ -7030,19 +7047,6 @@
       ],
       "source": "Hagerty Media",
       "source_url": "https://www.hagerty.com",
-      "published": "2026-10-20T15:00:00+00:00"
-    },
-    {
-      "id": "c90bc55306b3e549",
-      "title": "The Ford Ranger Is Getting A Bigger V6 For 2027: Report",
-      "summary": "Ford will replace the Ranger's 2.7-liter V6 with a detuned version of the Raptor’s twin-turbo 3.0-liter engine.",
-      "url": "https://www.motor1.com/news/812615/2027-ford-ranger-larger-v6-engine/",
-      "image": "https://cdn.motor1.com/images/mgl/lE4Okw/s3/ford-ranger.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/lE4Okw/s3/ford-ranger.jpg"
-      ],
-      "source": "Motor1 Ford",
-      "source_url": "https://www.motor1.com",
       "published": "2026-10-20T15:00:00+00:00"
     }
   ]
