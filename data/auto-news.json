@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T05:57:11.847176+00:00",
-  "generated_at_human": "2026-10-21 05:57 UTC",
+  "generated_at": "2026-10-21T06:01:36.688581+00:00",
+  "generated_at_human": "2026-10-21 06:01 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -24,14 +24,31 @@
     "HotCars",
     "Jalopnik",
     "Motor1",
-    "RACER",
     "Response JP",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 24,
-  "multi_photo_items": 466,
+  "sources_count": 23,
+  "multi_photo_items": 467,
   "items": [
+    {
+      "id": "3b3e04be34510fb4",
+      "title": "Yamaha's Two-Year Muscle Cruiser Was Forgotten Before The VMAX Ever Arrived",
+      "summary": "A wild Yamaha prototype hid turbocharged 1.1-liter fury and space-age gauges while dealers never saw the finished bike.",
+      "url": "https://www.hotcars.com/yamahas-two-year-muscle-cruiser-was-forgotten-before-the-vmax-ever-arrived/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/yamaha-xj-1100-maxim.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/yamaha-xj-1100-maxim.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/06/1981-harley-davidson-fxb-sturgis-10.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/yamaha-xj-1100-maxim-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/yamaha-xj-1100-maxim-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/yamaha-xj-1100-turbo.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/1985-yamaha-vmax.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-10-21T06:00:13+00:00"
+    },
     {
       "id": "13f4506a40405a1b",
       "title": "Norton's Wankel Superbike Cost More Than The RC30 For About 94 HP",
@@ -8636,19 +8653,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-10-18T03:25:00+00:00"
-    },
-    {
-      "id": "7f67daa4a6fecd1b",
-      "title": "Love takes charge in O'Reilly Chase with win at Phoenix",
-      "summary": "Last November at Phoenix Raceway, Jesse Love won the NASCAR O’Reilly Series championship. On Saturday, at the same one-mile track, he may have done it again with a victory in the Timberland PRO 200.",
-      "url": "https://racer.com/2026/10/17/love-takes-charge-in-o-reilly-chase-with-win-at-phoenix",
-      "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt421d1e5fba0eafbd/6ad439a00179ea7f542e5b68/GettyImages-2300735536.jpg?environment=live",
-      "images": [
-        "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt421d1e5fba0eafbd/6ad439a00179ea7f542e5b68/GettyImages-2300735536.jpg?environment=live"
-      ],
-      "source": "RACER",
-      "source_url": "https://www.racer.com",
-      "published": "2026-10-18T03:12:33+00:00"
     }
   ]
 }
