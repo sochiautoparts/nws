@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-21T10:07:41.260946+00:00",
-  "generated_at_human": "2026-10-21 10:07 UTC",
-  "total_items": 357,
+  "generated_at": "2026-10-21T10:12:02.487283+00:00",
+  "generated_at_human": "2026-10-21 10:12 UTC",
+  "total_items": 358,
   "sources_used": [
     "5koleso RU",
     "Auto Bild ES",
@@ -67,6 +67,7 @@
     "InsideEVs",
     "Jalopnik",
     "Motor.es",
+    "Motor1",
     "Motor1 Audi",
     "Motor1 BMW",
     "Motor1 Genesis",
@@ -79,9 +80,23 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 42,
+  "sources_count": 75,
+  "multi_photo_items": 43,
   "items": [
+    {
+      "id": "172eb12f617a83fc",
+      "title": "BMW's First Electric 3 Series Wagon Spied Looking Nearly Ready For Production",
+      "summary": "And our exclusive rendering tries to predict what the camouflage is hiding.",
+      "url": "https://www.motor1.com/news/812722/2028-bmw-i3-touring-spy-video/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8xOP/s3/bmw-i3-touring-2027-il-render-di-motor1.com.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/pb8xOP/s3/bmw-i3-touring-2027-il-render-di-motor1.com.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/XLDP9KBCMoc/s3/thumb.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-21T10:11:13+00:00"
+    },
     {
       "id": "c0ee1e3b1b40e15c",
       "title": "For $56,000, Is This Iconic BMW Coupe A Steal Or A Rip-Off?",
