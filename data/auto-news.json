@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-21T20:12:14.413101+00:00",
-  "generated_at_human": "2026-10-21 20:12 UTC",
+  "generated_at": "2026-10-21T20:17:01.494050+00:00",
+  "generated_at_human": "2026-10-21 20:17 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -15,7 +15,6 @@
     "Autosport All",
     "Autosport F1",
     "BarnFinds",
-    "Bike EXIF",
     "Bring a Trailer",
     "C&D Lexus",
     "Car and Driver",
@@ -69,9 +68,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 145,
+  "sources_count": 63,
+  "multi_photo_items": 146,
   "items": [
+    {
+      "id": "531878baaaa2430c",
+      "title": "Ferrari Announces Luce Pricing, and It’s Less than Initially Expected",
+      "summary": "Ferrari’s first electric car will cost about $80k less than initially expected, but it’s still by far the most expensive five-seater production car on the market.",
+      "url": "https://www.caranddriver.com/news/a74208561/2027-ferrari-luce-pricing/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/49b4cefb-f99d-4c4b-a95c-774fd2b732a7.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/49b4cefb-f99d-4c4b-a95c-774fd2b732a7.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/2eeec2bf-8830-411f-9c41-a8a6579d3d51.jpg?crop=0.512xw:0.512xh;0.23xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8caf6a82-370f-42d3-8d19-b398b09f4b59.jpg?crop=0.433xw:0.805xh;0.161xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/84faf76c-2bcd-4498-ab0b-380200df083d.jpeg?crop=0.571xw:0.761xh;0.196xw,0.144xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/b355a0ca-dea6-43f6-8685-51dbe45f290e.jpg?crop=0.5625xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/f16e0a39-a9c5-4628-abd3-b413f459e5f8.jpg?crop=0.666750000000xw:1.000000000000xh;0.168750000000xw,0.000000000000xh&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-21T20:11:43+00:00"
+    },
     {
       "id": "77e9262ff6f92aa8",
       "title": "Donut Lab Puts Its EV Battery Through a –22 Degree F Cold Test",
@@ -7212,19 +7229,6 @@
       ],
       "source": "Hagerty News",
       "source_url": "https://www.hagerty.com",
-      "published": "2026-10-20T17:00:00+00:00"
-    },
-    {
-      "id": "e7d112f11c1fb566",
-      "title": "Midnight in the Mojave: An Old-School Triumph Sled from 1984SC",
-      "summary": "Restoring classic off-road motorcycles is fiddly work. In addition to the standa...",
-      "url": "https://www.bikeexif.com/1984sc-triumph-t120r-desert-sled",
-      "image": "https://images.bikeexif.com/2026/10/_1200x675_crop_center-center_82_line/triumph-1984sc-9.jpg?v=1792185785",
-      "images": [
-        "https://images.bikeexif.com/2026/10/_1200x675_crop_center-center_82_line/triumph-1984sc-9.jpg?v=1792185785"
-      ],
-      "source": "Bike EXIF",
-      "source_url": "https://www.bikeexif.com",
       "published": "2026-10-20T17:00:00+00:00"
     }
   ]
