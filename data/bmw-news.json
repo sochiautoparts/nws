@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-22T14:04:02.093210+00:00",
-  "generated_at_human": "2026-10-22 14:04 UTC",
-  "total_items": 304,
+  "generated_at": "2026-10-22T17:35:05.652439+00:00",
+  "generated_at_human": "2026-10-22 17:35 UTC",
+  "total_items": 308,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek News",
@@ -48,6 +48,7 @@
     "BimmerToday DE",
     "Bring a Trailer",
     "Car and Driver BMW",
+    "CarBuzz",
     "CarScoops",
     "Carscoops News",
     "Electrek BMW",
@@ -71,9 +72,74 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 66,
+  "sources_count": 67,
   "multi_photo_items": 9,
   "items": [
+    {
+      "id": "c6621c37d1b9169a",
+      "title": "Audi vs BMW vs Mercedes: The Real Difference Isn't Reliability",
+      "summary": "Germany's Teutonic Trio pride themselves on engineering excellence, but there are differences in how they go about achieving perfection.",
+      "url": "https://carbuzz.com/audi-vs-bmw-vs-mercedes/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/250-hp-german-sedan-picsart-aiimageenhancer.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/250-hp-german-sedan-picsart-aiimageenhancer.jpg"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-22T15:26:15+00:00"
+    },
+    {
+      "id": "72156f30390f9360",
+      "title": "By the Numbers: The E39 M5 and Z8 Share 394 HP, but Little Else",
+      "summary": "BMW didn’t need two different V8s to build two very different 394-horsepower (400 PS) cars. The E39 M5 and E52 Z8 share the same 4.9-liter S62 V8, sending and identical 369 lb-ft (500 Nm) of... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/10/22/e39-m5-z8-same-394-hp-different-bmws/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/10/e39-m5-v-Z8-Hero-830x467.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/10/e39-m5-v-Z8-Hero-830x467.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-10-22T15:21:12+00:00"
+    },
+    {
+      "id": "d1ff60a2e9d66e14",
+      "title": "Polestar Claims Its Next EV Will Be Better To Drive Than The BMW i3",
+      "summary": "BMW doesn’t have to worry about Polestar in the United States, where new regulations have effectively barred the Swedish brand from selling new cars starting with the 2027 model year. However, Polestar remains a worthy... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/10/22/polestar-claims-next-ev-better-drive-than-bmw-i3/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/10/Next-gen-Polestar-2-teaser-1-830x830.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/10/Next-gen-Polestar-2-teaser-1-830x830.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-10-22T15:00:32+00:00"
+    },
+    {
+      "id": "6e26fe6fb3ebee8d",
+      "title": "For Around $40,000, You Can Buy BMW's Sports Car Of The Future",
+      "summary": "BMW's futuristic plug-in hybrid once cost more than $160,000. Today, you can buy one for around $40,000. But should you?",
+      "url": "https://www.motor1.com/reviews/812809/used-bmw-i8-buying-guide/",
+      "image": "https://cdn.motor1.com/images/mgl/Q23P7/s3/2019-bmw-i8-roadster-review.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Q23P7/s3/2019-bmw-i8-roadster-review.jpg"
+      ],
+      "source": "Motor1 BMW",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-22T15:00:00+00:00"
+    },
+    {
+      "id": "2c14df29bcb27d63",
+      "title": "How To Get Yamaha Reliability And Gold Wing-Level Comfort In A Sexy Touring Package",
+      "summary": "The BMW K 1600 B is a surprising contender for a combination of reliability and comfort like a Japanese tourer",
+      "url": "https://www.topspeed.com/bmw-k-1600b-yamaha-reliability-gold-wing-level-comfort/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/bmw-k-1600-b-headlamp.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/04/bmw-k-1600-b-headlamp.jpg"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-10-22T14:30:18+00:00"
+    },
     {
       "id": "e6783a7f86e47e94",
       "title": "BMW M135 And M235 Apex Edition Debut As Japan-Only Specials",
@@ -4049,19 +4115,6 @@
       "source": "BMW Blog Alpina tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-26T16:54:56+00:00"
-    },
-    {
-      "id": "52bad06591fcd573",
-      "title": "2028 BMW M3 EV",
-      "summary": "What We Know So Far",
-      "url": "https://www.caranddriver.com/bmw/m3-ev",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg"
-      ],
-      "source": "Car and Driver BMW",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-07-24T16:49:00+00:00"
     }
   ]
 }
