@@ -1,10 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-22T19:03:53.706352+00:00",
-  "generated_at_human": "2026-10-22 19:03 UTC",
-  "total_items": 320,
+  "generated_at": "2026-10-22T19:08:14.735248+00:00",
+  "generated_at_human": "2026-10-22 19:08 UTC",
+  "total_items": 323,
   "sources_used": [
     "Auto Bild ES",
+    "AutoExpress",
     "AutoWeek News",
     "Autocar BMW M",
     "Autosport WEC",
@@ -55,6 +56,7 @@
     "Electrek BMW",
     "Electrek Porsche",
     "Electric Cars Report",
+    "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
     "InsideEVs",
@@ -74,8 +76,8 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 69,
-  "multi_photo_items": 14,
+  "sources_count": 71,
+  "multi_photo_items": 17,
   "items": [
     {
       "id": "f023028c7319b61f",
@@ -89,6 +91,42 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-22T19:02:01+00:00"
+    },
+    {
+      "id": "9434f16e2f9d6090",
+      "title": "BMW iX5 review",
+      "summary": "The BMW iX5 blends everything we love about the iX3 with some useful extra space – but it’ll cost you",
+      "url": "https://www.autoexpress.co.uk/bmw/370730/bmw-ix5-review",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-8.jpg?w=845&fit=scale&auto=format,compress",
+      "images": [
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-8.jpg?w=845&fit=scale&auto=format,compress",
+        "https://www.autoexpress.co.uk/google_preferred_source_badge_light.png",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-10.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-30.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-6.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-17.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-10-22T19:01:55+00:00"
+    },
+    {
+      "id": "2ce9194d4723bcb5",
+      "title": "New BMW iX5 2026 - pictures",
+      "summary": "Pictures of the new BMW iX5",
+      "url": "https://www.autoexpress.co.uk/bmw/x5/370728/new-bmw-ix5-2026-pictures",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-8.jpg?w=845&fit=scale&auto=format,compress",
+      "images": [
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-8.jpg?w=845&fit=scale&auto=format,compress",
+        "https://www.autoexpress.co.uk/google_preferred_source_badge_light.png",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-9.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-30.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-17.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-7.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-10-22T19:01:42+00:00"
     },
     {
       "id": "67706eaef2a729d8",
@@ -257,6 +295,24 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-22T19:00:17+00:00"
+    },
+    {
+      "id": "7c8b85e5e2951eb9",
+      "title": "BMW’s First M5 Was a Sleeper Sports Sedan",
+      "summary": "After building the audacious M1 in 1978, BMW’s move to performance sedans was a lot more subdued. While the later E30 M3 of 1986 would feature stylish fender flares and a sizable rear wing, both the M535i, which debuted in 1980, and the brand’s first M5, launched in 1985, kept their increased performance under wraps. […]",
+      "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/bmws-first-m5-was-a-sleeper-sports-sedan/",
+      "image": "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/10/D6Q5HLZjyKw2EC1Sz93-hg.jpg",
+      "images": [
+        "https://media.media-web-prod.hagerty.com/media/wp-content/uploads/2026/10/D6Q5HLZjyKw2EC1Sz93-hg.jpg",
+        "https://hagerty-media-prod.imgix.net/2026/10/D6Q5HLZjyKw2EC1Sz93-hg.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&max-h=427&max-w=640",
+        "https://hagerty-media-prod.imgix.net/2026/10/1994-Pontiac-Firebird-SLP-Firehawk-Coupe-lede.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
+        "https://hagerty-media-prod.imgix.net/2026/10/ewclrpnFFbGcfp9MsrVqqQ.jpg?auto=format%2Ccompress&fit=crop&ixlib=php-3.3.0&w=1600",
+        "https://hagerty-media-prod.imgix.net/2026/10/edRTl2VnDfjW8U_DeR_3Hg.jpg?auto=format%2Ccompress&fit=crop&h=682&ixlib=php-3.3.0&w=1024",
+        "https://hagerty-media-prod.imgix.net/2026/10/fRVfHkIZm5gKa1osgeorDA.jpg?auto=format%2Ccompress&fit=crop&h=682&ixlib=php-3.3.0&w=1024"
+      ],
+      "source": "Hagerty Media",
+      "source_url": "https://www.hagerty.com",
+      "published": "2026-10-22T19:00:00+00:00"
     },
     {
       "id": "c6621c37d1b9169a",
