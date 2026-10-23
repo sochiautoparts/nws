@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-23T07:58:43.087598+00:00",
-  "generated_at_human": "2026-10-23 07:58 UTC",
-  "total_items": 328,
+  "generated_at": "2026-10-23T08:03:06.820841+00:00",
+  "generated_at_human": "2026-10-23 08:03 UTC",
+  "total_items": 329,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
@@ -60,6 +60,7 @@
     "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
+    "HotCars",
     "InsideEVs",
     "Jalopnik",
     "Kolesa RU",
@@ -78,9 +79,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 20,
+  "sources_count": 74,
+  "multi_photo_items": 21,
   "items": [
+    {
+      "id": "b090c10008171837",
+      "title": "BMW's New 2,000cc Boxer Could Give Harley-Davidson A Serious Headache",
+      "summary": "This stunning 2028 BMW R 20 render shows just how badass the finished motorcycle might look.",
+      "url": "https://www.hotcars.com/2028-bmw-r20-2000cc-boxer-design/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/bmw-r20-production-model-1-2028.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/bmw-r20-production-model-1-2028.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/2028-mw-r20-production-model-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/2028-bmw-r20-production-model-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/2028-bmw-r20-production-model-5.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/2028-bmw-r20-production-model-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/2026-honda-cbr500r-four-1.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-10-23T08:00:16+00:00"
+    },
     {
       "id": "8c6e53fc9fdf9bf9",
       "title": "Next-Gen BMW X7 Spied Looking Big And Blocky In Electric iX7 And V8-Powered M60 Forms",
