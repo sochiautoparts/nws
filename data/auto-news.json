@@ -1,13 +1,12 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-25T06:31:52.634203+00:00",
-  "generated_at_human": "2026-10-25 06:31 UTC",
+  "generated_at": "2026-10-25T06:36:18.664185+00:00",
+  "generated_at_human": "2026-10-25 06:36 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
     "Auto Esporte BR",
     "AutoExpress",
-    "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
     "BarnFinds",
@@ -41,9 +40,22 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 36,
+  "sources_count": 35,
   "multi_photo_items": 422,
   "items": [
+    {
+      "id": "fef419d1434a4df3",
+      "title": "Audi Is Spending $4 Billion On A New US Factory For Big SUVs",
+      "summary": "The Georgia site will create 4,500 jobs and kick off production in the early 2030s.",
+      "url": "https://www.motor1.com/news/813154/audi-new-factory-georgia-usa/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZO1yl/s3/audi-usa.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/6ZO1yl/s3/audi-usa.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-25T06:35:04+00:00"
+    },
     {
       "id": "c3eb82bcc6093cac",
       "title": "Rivian Is Practically Begging You To Buy An R1 With This 1.99% APR Financing Deal",
@@ -8455,19 +8467,6 @@
       "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-10-22T13:00:00+00:00"
-    },
-    {
-      "id": "cef129d3184e417a",
-      "title": "Letterlijk alle opties: zo duur kan de nieuwe Mercedes-Benz GLA zijn",
-      "summary": "In ‘Back to basics’ duiken we wekelijks in de standaarduitrusting en prijs van de goedkoopste versie van een bepaald model. Wat er gebeurt als je juist voor de duurste versie gaat, mag de nieuwe Mercedes-Benz GLA vandaag bewijzen.",
-      "url": "https://www.autoweek.nl/autonieuws/artikel/letterlijk-alle-opties-zo-duur-kan-de-nieuwe-mercedes-benz-gla-zijn/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/279333195/width/800/279333195",
-      "images": [
-        "https://images.autoweek.nl/279333195/width/800/279333195"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-10-22T12:58:57+00:00"
     }
   ]
 }
