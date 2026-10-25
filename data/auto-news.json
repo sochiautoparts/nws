@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-25T20:21:47.968148+00:00",
-  "generated_at_human": "2026-10-25 20:21 UTC",
+  "generated_at": "2026-10-25T20:26:13.486499+00:00",
+  "generated_at_human": "2026-10-25 20:26 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -14,7 +14,6 @@
     "CarScoops Ferrari",
     "CarScoops Kia",
     "Carscoops News",
-    "Diariomotor",
     "Hagerty Media",
     "HotCars",
     "Jalopnik",
@@ -22,9 +21,24 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 17,
-  "multi_photo_items": 469,
+  "sources_count": 16,
+  "multi_photo_items": 470,
   "items": [
+    {
+      "id": "6660ac3345f94145",
+      "title": "1970 Chevelle SS 396 For Sale With 24,100 Miles Shown Kept Its Original L34 In Huge Restoration",
+      "summary": "A frame-off restoration job brought this 396 Chevelle back to near-mint condition. It still has its numbers-matching L34 V8, and it's looking for a new owner.",
+      "url": "https://www.jalopnik.com/2296005/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/",
+      "image": "https://www.jalopnik.com/img/gallery/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/l-intro-1792792753.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/l-intro-1792792753.jpg",
+        "https://www.jalopnik.com/img/gallery/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/intro-1792792753.jpg",
+        "https://www.jalopnik.com/img/gallery/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/this-chevelles-status-and-condition-come-at-a-price-1792792754.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-10-25T20:05:00+00:00"
+    },
     {
       "id": "34eaba1d2cf47819",
       "title": "I Caught The Car Dealer Trick That Almost Added Thousands To The Price, Twice in One Year",
@@ -8646,19 +8660,6 @@
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-10-22T15:48:15+00:00"
-    },
-    {
-      "id": "e1b61e87a009bc50",
-      "title": "La FIA prohíbe distintos diseños de llantas para un mismo gran premio a partir de 2027",
-      "summary": "Si bien este año se permitió libertad en el diseño de las llantas, o ruedas, en la Fórmula 1, tras varias temporadas utilizando un modelo estándar, resulta que la FIA advirtió que los equipos están utilizando varios diseños durante un mismo gran premio, lo que lleva a pensar que los ingenieros han encontrado otra área de desarrollo en el uso de la llanta, más allá de servir para instalar los neumáticos. Desde el pasado Gran Premio de Barcelona iniciaron las especulaciones en torno a que Ferrari, y su proveedor BBS Japón, emplearon llantas diseñadas para manipular la temperatura de los…",
-      "url": "https://www.diariomotor.com/competicion/noticia/la-fia-prohibe-disenos-de-llantas-2027/",
-      "image": "https://www.diariomotor.com/imagenes/2026/10/Llantas_McLaren_Formula-1_FIA_2026_2_26-6ada0616bcbf7.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/10/Llantas_McLaren_Formula-1_FIA_2026_2_26-6ada0616bcbf7.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-10-22T15:47:18+00:00"
     }
   ]
 }
