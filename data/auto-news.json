@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-25T15:14:09.048674+00:00",
-  "generated_at_human": "2026-10-25 15:14 UTC",
+  "generated_at": "2026-10-25T15:18:29.254559+00:00",
+  "generated_at_human": "2026-10-25 15:18 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -16,7 +16,6 @@
     "CarScoops Kia",
     "Carscoops News",
     "Diariomotor",
-    "Electrek",
     "Hagerty Media",
     "HotCars",
     "Jalopnik",
@@ -24,9 +23,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 19,
-  "multi_photo_items": 451,
+  "sources_count": 18,
+  "multi_photo_items": 452,
   "items": [
+    {
+      "id": "e0eb89aaddbb79c0",
+      "title": "The Do-It-All Honda That Makes A One-Bike Garage Insanely Affordable",
+      "summary": "This sub-$7k adventure bike has the makings of the perfect do-it-all companion for all kinds of riders",
+      "url": "https://www.topspeed.com/honda-nx-500-tailor-made-riders-who-want-one-bike/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/05/2024-honda-nx500-suspension.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/05/2024-honda-nx500-suspension.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/03/rider-on-a-2025-yamaha-mt-03.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/04/2026-rebel-300-expanding-gallery-01-2560x2101.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/rider-on-a-2025-honda-nx500-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/07/2025-honda-nx500-engine-close-up-detail-right.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/06/458523_24ym_nx500.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-10-25T15:15:20+00:00"
+    },
     {
       "id": "c62b1331372a1da0",
       "title": "The Muscle Cruiser That Balances Torque, Stability, And Comfort",
@@ -8570,19 +8587,6 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-10-22T14:00:05+00:00"
-    },
-    {
-      "id": "efb696d26d82a8f6",
-      "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B",
-      "summary": "Tesla has lowered its 2026 capital spending forecast. In its Q3 10-Q, the company now says it expects capital expenditures “to be in excess of $20 billion in 2026,” down from the “more than $25 billion” it had guided since April. The change was in the 10-Q Tesla filed Wednesday, not in the shareholder letter it released the same day. And it lands in a quarter where Tesla reported $1.53 billion of positive free cash flow, a number that depends a lot on timing. more…",
-      "url": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-10-22T14:00:01+00:00"
     }
   ]
 }
