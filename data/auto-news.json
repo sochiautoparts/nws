@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-26T14:31:37.588202+00:00",
-  "generated_at_human": "2026-10-26 14:31 UTC",
+  "generated_at": "2026-10-26T14:32:34.096507+00:00",
+  "generated_at_human": "2026-10-26 14:32 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -58,10 +58,11 @@
     "Response JP",
     "RushLane IN",
     "The Drive",
-    "TopSpeed"
+    "TopSpeed",
+    "TopSpeed main"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 82,
+  "sources_count": 56,
+  "multi_photo_items": 83,
   "items": [
     {
       "id": "10d726019fdda5d7",
@@ -88,6 +89,24 @@
       "source": "Diariomotor",
       "source_url": "https://www.diariomotor.com",
       "published": "2026-10-26T15:00:43+00:00"
+    },
+    {
+      "id": "5d8202d2284571cf",
+      "title": "We Asked AI To Build An All-New Motorcycle, And We Can't Believe The Result",
+      "summary": "Instead of giving us an unrealistic airplane-like motorcycle, AI actually gave us a very realistic bike that will turn heads in the real world",
+      "url": "https://www.topspeed.com/we-asked-ai-to-build-a-motorcycle-and-we-cant-believe-result/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-3.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-3.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-7.jpg?q=49&fit=contain&w=2752&h=1536&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-5.jpg?q=49&fit=contain&w=2752&h=1536&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-4.jpg?q=49&fit=contain&w=2752&h=1536&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-8.jpg?q=49&fit=contain&w=2752&h=1536&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/valnet-custom-naked-bike-rendering-2.jpg?q=49&fit=contain&w=2752&h=1536&dpr=2"
+      ],
+      "source": "TopSpeed main",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-10-26T14:31:21+00:00"
     },
     {
       "id": "30946e28fdf258b3",
@@ -6940,19 +6959,6 @@
       "source": "Autosport All",
       "source_url": "https://www.autosport.com",
       "published": "2026-10-24T23:58:33+00:00"
-    },
-    {
-      "id": "e557300cf75ebaf5",
-      "title": "Jorge Martin planning MotoGP return at Malaysian GP",
-      "summary": "Jorge Martin is planning to return to MotoGP action at next weekend’s Malaysian Grand Prix after a crash ruled him out of Sunday’s contest in Australia. The Aprilia rider crashed on lap eight of the Phillip Island sprint while engaged in a fierce battle for the lead with title rival Marc Marquez. Martin slid across the gravel in the fall and suffered a fracture to the radius in his ... Keep reading",
-      "url": "https://www.motorsport.com/motogp/news/jorge-martin-planning-motogp-return-at-malaysian-gp/10868043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/0Zq8d846/s6/jorge-martin-aprilia-racing-te.jpg",
-      "images": [
-        "https://cdn-9.motorsport.com/images/amp/0Zq8d846/s6/jorge-martin-aprilia-racing-te.jpg"
-      ],
-      "source": "Motorsport MotoGP",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-10-24T23:30:43+00:00"
     }
   ]
 }
