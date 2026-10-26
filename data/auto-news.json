@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-10-26T15:26:12.384873+00:00",
-  "generated_at_human": "2026-10-26 15:26 UTC",
+  "generated_at": "2026-10-26T15:30:31.898766+00:00",
+  "generated_at_human": "2026-10-26 15:30 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -18,6 +18,7 @@
     "BarnFinds",
     "Bring a Trailer",
     "Car and Driver",
+    "Car and Driver News",
     "CarBuzz",
     "CarExpert",
     "CarScoops",
@@ -61,9 +62,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 90,
+  "sources_count": 57,
+  "multi_photo_items": 91,
   "items": [
+    {
+      "id": "fed7702f0b2ec521",
+      "title": "Audi Will Invest $4 Billion into Its First U.S. Factory in Georgia",
+      "summary": "The factory will produce SUVs designed for the U.S. market, likely including the Q7, Q8, and Q9.",
+      "url": "https://www.caranddriver.com/news/a74248877/audi-us-factory-georgia-announced/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9ab3c2d2-02cb-4ef0-93b6-1b2295e13920.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/9ab3c2d2-02cb-4ef0-93b6-1b2295e13920.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/e6459205-c683-4ba4-bd05-c5b9d575d5d4.jpg?crop=0.813xw:0.686xh;0.173xw",
+        "https://hips.hearstapps.com/hmg-prod/images/7b6fc2c6-1fa6-40b6-8222-e57f3692da03.jpg?crop=0.663xw:0.884xh;0.144xw,0.08xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/5e917a99-00ef-430f-b0a3-79fc0207cbb1.png?crop=0.634285714286xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/f281b69e-f2df-4034-b1a7-546568cb07ba.jpg?crop=0.433xw:0.77xh;0.298xw,0.163xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/ff79b21c-5ea6-40cc-a27a-9c5d2caf607d.jpg?crop=0.5xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-26T15:27:59+00:00"
+    },
     {
       "id": "8d478547d9bd6476",
       "title": "GMC Once Made A Muscle Car And Nobody Remembers It",
@@ -6978,19 +6997,6 @@
       "source": "GM Authority",
       "source_url": "https://gmauthority.com",
       "published": "2026-10-25T05:05:07+00:00"
-    },
-    {
-      "id": "955ada8ca1298467",
-      "title": "MotoGP's final Australian GP at Phillip Island cancelled due to poor weather",
-      "summary": "The Australian Grand Prix has been cancelled following multiple delays due to poor weather at Phillip Island. The last-ever MotoGP race at the iconic Phillip Island circuit was due to kick off at 2pm local time before being pushed back to 4:30pm to allow the weather to improve. However, 25 minutes before pitlane was due to open, the championship announced that the race had been called ... Keep reading",
-      "url": "https://www.motorsport.com/motogp/news/motogps-australian-gp-cancelled-bad-weather/10868096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/6O7zD1J6/s6/motogp-riders-take-part-in-a-f-3.jpg",
-      "images": [
-        "https://cdn-1.motorsport.com/images/amp/6O7zD1J6/s6/motogp-riders-take-part-in-a-f-3.jpg"
-      ],
-      "source": "Motorsport MotoGP",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-10-25T04:44:59+00:00"
     }
   ]
 }
