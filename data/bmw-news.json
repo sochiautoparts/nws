@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-27T13:21:59.667561+00:00",
-  "generated_at_human": "2026-10-27 13:21 UTC",
-  "total_items": 321,
+  "generated_at": "2026-10-27T15:52:18.454773+00:00",
+  "generated_at_human": "2026-10-27 15:52 UTC",
+  "total_items": 323,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
@@ -74,11 +74,43 @@
     "Motorsport WEC",
     "Motorsport WRC",
     "Quatro Rodas BR",
-    "Response JP"
+    "Response JP",
+    "TopSpeed"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 16,
+  "sources_count": 72,
+  "multi_photo_items": 17,
   "items": [
+    {
+      "id": "ec82c9e528a4705c",
+      "title": "Rimac Beats Chinese Rivals To Become BMW's Battery Supplier",
+      "summary": "Hypercar maker Rimac won BMW's i7 battery contract over larger Chinese suppliers, with two more BMW projects reportedly in the pipeline.",
+      "url": "https://www.topspeed.com/bmw-i7-rimac-battery-partnership-gen6-technology/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_4lue4ttk.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/09/batch_4lue4ttk.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2022/12/p90458360_lowres_the-new-bmw-7-series.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/05/bmw-i7-m70-xdrive.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/05/bmw-i7-solid-state-battery-mule.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/07/image1-21.jpeg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2026-toyota-corolla-cross-front-end.jpg?q=49&fit=crop&w=292&h=384&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-10-27T15:15:20+00:00"
+    },
+    {
+      "id": "5bf8dfbfcaffa5c9",
+      "title": "BMW’s First Electric X5 M Spied On The Move: Video",
+      "summary": "The new X5 M60e is just the beginning of a much bigger performance-SUV offensive from Munich. A V8-powered X5 M60 is coming in 2027, potentially joined by an electric iX5 M70 M Performance model. Then,... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/10/27/2028-bmw-x5-m-electric-spy-video/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/07/g95-bmw-x5-m-electric-13-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/07/g95-bmw-x5-m-electric-13-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-10-27T14:08:05+00:00"
+    },
     {
       "id": "9e270cb1fb86d384",
       "title": "BMW Has A “Nose Team” To Make Sure Its Cars Smell Right",
