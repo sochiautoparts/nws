@@ -1,15 +1,12 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-27T16:45:29.479226+00:00",
-  "generated_at_human": "2026-10-27 16:45 UTC",
-  "total_items": 323,
+  "generated_at": "2026-10-27T16:50:41.161010+00:00",
+  "generated_at_human": "2026-10-27 16:50 UTC",
+  "total_items": 304,
   "sources_used": [
     "Auto Bild ES",
-    "AutoExpress",
-    "AutoWeek NL",
     "AutoWeek News",
-    "Autocar BMW",
-    "Autocar BMW M",
+    "Autocar BMW i",
     "Autosport WEC",
     "BMW Blog",
     "BMW Blog 1",
@@ -48,16 +45,13 @@
     "BMW Blog i5",
     "BMW Blog iX tag",
     "BMW Blog iX3 tag",
+    "BarnFinds",
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
-    "Bring a Trailer",
-    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
-    "CarBuzz",
     "CarScoops",
-    "Diariomotor",
     "Electrek BMW",
     "Electrek Porsche",
     "Hagerty Media",
@@ -65,20 +59,21 @@
     "Hagerty People",
     "HotCars",
     "InsideEVs",
-    "Motor1 Audi",
+    "Motor1 Aston Martin",
     "Motor1 BMW",
     "Motor1 VW",
     "MotorBeam IN",
     "Motorious",
     "Motorious Classic",
+    "Motorsport All",
     "Motorsport WEC",
     "Motorsport WRC",
-    "Quatro Rodas BR",
-    "Response JP",
+    "Paul Tan",
+    "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 72,
-  "multi_photo_items": 17,
+  "sources_count": 67,
+  "multi_photo_items": 8,
   "items": [
     {
       "id": "ec82c9e528a4705c",
@@ -97,6 +92,19 @@
       "source": "TopSpeed",
       "source_url": "https://www.topspeed.com",
       "published": "2026-10-27T15:15:20+00:00"
+    },
+    {
+      "id": "cec9b33d754ddfa1",
+      "title": "This Alpine White E36 M3 Sedan Has a BMW Individual Interior, and BaT Is Arguing About It",
+      "summary": "A manual 1997 BMW E36 M3 sedan in Alpine White over Individual Natural Modena leather is live on Bring a Trailer through Thursday, and bidders are debating just how rare the spec really is.",
+      "url": "https://www.motorious.com/articles/vehicle-year-49/this-alpine-white-e36-m3-sedan-has-a-bmw-individual-interior-and-bat-is-arguing-about-it/",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/10/DSC_3042-scaled-45756.jpg",
+      "images": [
+        "https://bringatrailer.com/wp-content/uploads/2026/10/DSC_3042-scaled-45756.jpg"
+      ],
+      "source": "Motorious",
+      "source_url": "https://motorious.com",
+      "published": "2026-10-27T14:30:00+00:00"
     },
     {
       "id": "5bf8dfbfcaffa5c9",
@@ -125,6 +133,19 @@
       "published": "2026-10-27T13:15:07+00:00"
     },
     {
+      "id": "558f5eb1a63d8612",
+      "title": "2027 Audi Q9 First-Drive Review: Audi’s Biggest SUV Beats BMW and Mercedes on Family-Friendliness",
+      "summary": "Audi is finally ready to compete for American families with the all-new Q9 three-row SUV, and its rivals should take notice. The post 2027 Audi Q9 First-Drive Review: Audi’s Biggest SUV Beats BMW and Mercedes on Family-Friendliness appeared first on The Drive .",
+      "url": "https://www.thedrive.com/car-reviews/2027-audi-q9-first-drive-review",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/untitled-0447_6afce2-e1793028067850-copy.jpg?quality=85",
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2026/10/untitled-0447_6afce2-e1793028067850-copy.jpg?quality=85"
+      ],
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-10-27T13:00:00+00:00"
+    },
+    {
       "id": "567e0bc50c94bb0b",
       "title": "BMW Has Already Moved 1 Million Cars Inside Its Factories Without Drivers",
       "summary": "BMW’s factories are getting better at moving cars around without anyone behind the wheel. The automaker has now surpassed one million driverless vehicle movements using its Automated Driving In-Plant (AFW) technology, which is already operating... First published by https://www.bmwblog.com",
@@ -144,16 +165,29 @@
       "url": "https://www.hotcars.com/infinitis-forgotten-rear-drive-coupe-got-lost-between-the-370z-and-bmw-335is/",
       "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/infiniti-g37-teaser-shot.JPG",
       "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/infiniti-g37-teaser-shot.JPG",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/infiniti-g20.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/01/infiniti-g35-s-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/cropped-z33_p017.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/06/z33_p009-source.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/01/infiniti-g37-s-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/infiniti-g37-teaser-shot.JPG"
       ],
       "source": "HotCars",
       "source_url": "https://www.hotcars.com",
       "published": "2026-10-27T11:00:14+00:00"
+    },
+    {
+      "id": "5502b7ecfce2e083",
+      "title": "ACE 2026: See the BMW Motorrad R 1300 GS ASA, F 450 GS ERC and R 1300 RT at SCCC, October 31-November 1",
+      "summary": "It’s happening this weekend! the paultan.org Auto Car Expo (ACE), powered by Petronas Primax is taking place from October 31 to November 1 at the Setia City Convention Centre (SCCC), and this is where you […] The post ACE 2026: See the BMW Motorrad R 1300 GS ASA, F 450 GS ERC and R 1300 RT at SCCC, October 31-November 1 appeared first on Paul Tan's Automotive News .",
+      "url": "https://paultan.org/2026/10/27/ace-2026-see-the-bmw-motorrad-r-1300-gs-asa-f-450-gs-erc-and-r-1300-rt-at-sccc-october-31-november-1/",
+      "image": "https://paultan.org/image/2026/10/PT_ACE26-SMCar_1200x628_WEB-BMWMotorrad-630x330.png",
+      "images": [
+        "https://paultan.org/image/2026/10/PT_ACE26-SMCar_1200x628_WEB-BMWMotorrad-630x330.png",
+        "https://paultan.org/image/2026/09/ace-2026-sponsors-brands-kuzig-1260x986.png",
+        "https://paultan.org/image/2026/10/TNB-Electron-EV-charger-charging-station-1260x945.png",
+        "https://paultan.org/image/2026/10/PT_ACE26-SMCar_1200x628_WEB-iCaurV23-400x300.png",
+        "https://paultan.org/image/2026/10/PT_ACE26-SMCar_1200x628_WEB-JetourVT9-Dashing-400x300.jpg",
+        "https://paultan.org/image/2026/10/PT_ACE26-SMCar_1200x628_WEB-PeroduaTraz-400x300.png"
+      ],
+      "source": "Paul Tan",
+      "source_url": "https://paultan.org",
+      "published": "2026-10-27T10:58:45+00:00"
     },
     {
       "id": "efd1ef8dfe451b1f",
@@ -162,11 +196,7 @@
       "url": "https://www.carscoops.com/2297964/bmw-x5-m-scoop-ev/",
       "image": "https://www.carscoops.com/img/gallery/next-bmw-x5-m-spied-looking-aggressive-even-in-electric-form/l-intro-1793097358.jpg",
       "images": [
-        "https://www.carscoops.com/img/gallery/next-bmw-x5-m-spied-looking-aggressive-even-in-electric-form/l-intro-1793097358.jpg",
-        "https://www.carscoops.com/img/uploads/embed/it-zpfFBz-1793096978.jpg",
-        "https://www.carscoops.com/img/gallery/next-bmw-x5-m-spied-looking-aggressive-even-in-electric-form/intro-1793097358.jpg",
-        "https://www.carscoops.com/img/gallery/next-bmw-x5-m-spied-looking-aggressive-even-in-electric-form/more-aggressive-stance-improved-performance-1793097360.jpg",
-        "https://www.carscoops.com/img/gallery/next-bmw-x5-m-spied-looking-aggressive-even-in-electric-form/performance-and-chassis-upgrades-1793097362.jpg"
+        "https://www.carscoops.com/img/gallery/next-bmw-x5-m-spied-looking-aggressive-even-in-electric-form/l-intro-1793097358.jpg"
       ],
       "source": "CarScoops",
       "source_url": "https://www.carscoops.com",
@@ -186,7 +216,7 @@
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/polestar_4_suv_dual_motor_-_aurora_005.jpg?itok=R55haQmW",
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/polestar_4_suv_dual_motor_-_aurora_001.jpg?itok=vibgWkV1"
       ],
-      "source": "Autocar BMW M",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
       "published": "2026-10-27T08:00:56+00:00"
     },
@@ -204,22 +234,56 @@
       "published": "2026-10-27T06:09:40+00:00"
     },
     {
-      "id": "8809a95bd0119486",
-      "title": "BMW Had To Make Massive Engineering Sacrifices To Fit A V8 Engine To The Best M5 Ever Made",
-      "summary": "BMW's E39 V8 was so large it forced engineers to use recirculating-ball steering — a compromise even the M5 couldn't escape.",
-      "url": "https://carbuzz.com/best-bmw-5-series-engines-too-big-for-engine-bay/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/bmw-m5-v8-engine.png",
+      "id": "89d5a96a267705a3",
+      "title": "V12 On A Budget? 1990 BMW 850i",
+      "summary": "This tip came to us under a title that I swiped and used above. One thing that I have learned about a BMW 850i is that no part of it is ever on a budget! Limited production, fantastic looks,... Read More »",
+      "url": "https://barnfinds.com/v-12-on-a-budget-1990-bmw-850i/",
+      "image": "https://barnfinds.com/wp-content/uploads/2026/10/1990-BMW-850i.jpeg",
       "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/bmw-m5-v8-engine.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/sidebar-car.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/original-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/original-1-1.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/bmw-5-series-1996-1280-38f89b6631a16c3f3f46c287d0a3190ba0.jpg?q=49&fit=crop&w=825&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/p90053043_highres_engine-of-the-bmw-m5-1.jpg?q=49&fit=crop&w=825&dpr=2"
+        "https://barnfinds.com/wp-content/uploads/2026/10/1990-BMW-850i.jpeg"
       ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-10-27T01:09:11+00:00"
+      "source": "BarnFinds",
+      "source_url": "https://barnfinds.com",
+      "published": "2026-10-27T03:00:00+00:00"
+    },
+    {
+      "id": "2e5fa8df8d95f930",
+      "title": "BMW i3 Pickup: Umbau-Projekt bringt offene Ladefläche & mehr",
+      "summary": "Wenn derzeit vom BMW i3 die Rede ist, geht es eigentlich immer um die Neue Klasse. Wenn es aber nicht um maximale Reichweite, sondern um...",
+      "url": "https://www.bimmertoday.de/2026/10/27/bmw-i3-pickup-umbau-projekt-bringt-offene-ladeflache-mehr/",
+      "image": "https://vg09.met.vgwort.de/na/fb02edbfa78f46fbb8d5bfc9addadfd7",
+      "images": [
+        "https://vg09.met.vgwort.de/na/fb02edbfa78f46fbb8d5bfc9addadfd7"
+      ],
+      "source": "BimmerToday DE",
+      "source_url": "https://www.bimmertoday.de",
+      "published": "2026-10-26T23:20:04+00:00"
+    },
+    {
+      "id": "8c44c9f250093498",
+      "title": "How a philosophy shift brought BMW to new heights in 2026",
+      "summary": "Heading into the 2026 season, BMW was under immense pressure. After three years of limited success, the update package for the M Hybrid V8 really needed to deliver. In IMSA, the challenge was compounded by a late-notice team switch from RLL to WRT. Now, after a full season with the updated LMDh car, it is clear that the hard work has paid off. With the revised Evo package, BMW deliberately ... Keep reading",
+      "url": "https://www.motorsport.com/imsa/news/driveability-over-qualifying-pace-bmws-philosophy-shift-pays-off/10868728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+      "image": "https://cdn-7.motorsport.com/images/amp/0R7B4bA2/s6/25-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "images": [
+        "https://cdn-7.motorsport.com/images/amp/0R7B4bA2/s6/25-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+      ],
+      "source": "Motorsport All",
+      "source_url": "https://www.motorsport.com",
+      "published": "2026-10-26T21:40:57+00:00"
+    },
+    {
+      "id": "98db5b414ae55a12",
+      "title": "BMW’s new iX5 looks like a big upgrade next to the old X5 [Images]",
+      "summary": "BMW’s new iX5 is hard to miss with its distinct Double-X headlights. Here’s how it stacks up against the outgoing X5, side by side. more…",
+      "url": "https://electrek.co/2026/10/26/bmws-new-ix5-looks-like-big-upgrade-next-to-old-x5-images/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX5-compared-to-X5.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "images": [
+        "https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX5-compared-to-X5.jpeg?quality=82&#038;strip=all&#038;w=1400"
+      ],
+      "source": "Electrek BMW",
+      "source_url": "https://electrek.co",
+      "published": "2026-10-26T19:49:55+00:00"
     },
     {
       "id": "e54b551dc67c13e0",
@@ -238,6 +302,19 @@
       "source": "Car and Driver BMW",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-10-26T19:18:20+00:00"
+    },
+    {
+      "id": "67f7b675c5a029be",
+      "title": "Master Builder Made a BMW i3 Pickup Truck to Shame the Slate",
+      "summary": "Electric pickups are just too expensive. So an engineer decided to make one himself out of the weirdest little BMW that ever existed. The post Master Builder Made a BMW i3 Pickup Truck to Shame the Slate appeared first on The Drive .",
+      "url": "https://www.thedrive.com/news/master-builder-made-a-bmw-i3-pickup-truck-to-shame-the-slate",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-141608.jpg?quality=85&w=2048",
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-141608.jpg?quality=85&w=2048"
+      ],
+      "source": "The Drive",
+      "source_url": "https://www.thedrive.com",
+      "published": "2026-10-26T18:38:26+00:00"
     },
     {
       "id": "849ba2a0598a93cb",
@@ -275,27 +352,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/03/2026-BMW-iX3-16-2-830x554.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-26T15:15:25+00:00"
-    },
-    {
-      "id": "ea18eb6850efbc1a",
-      "title": "Bugatti CEO Confirms More BMWs Are Coming With Rimac Hypercar Technology",
-      "summary": "The Croatian technology company currently builds the i7's batteries, but more Bimmer-shaped projects are on the horizon.",
-      "url": "https://carbuzz.com/bmw-rimac-two-additional-projects-october-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2027-bmw-i7-exterior-details-1.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2027-bmw-i7-exterior-details-1.jpg",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/sidebar-car.png",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2027-bmw-i7-exterior-10.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2027-bmw-i7-exterior-16.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2027-bmw-i7-exterior-21.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/04/2027-bmw-i7-exterior-22.jpg?q=49&fit=crop&w=360&h=240&dpr=2"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-10-26T14:40:12+00:00"
     },
     {
       "id": "83a4a17cd65b9090",
@@ -309,19 +368,6 @@
       "source": "BMW Blog",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-26T14:39:31+00:00"
-    },
-    {
-      "id": "a6b10112c559ca7b",
-      "title": "El BMW M Hybrid V8 deberá esperar hasta el 2028 para disponer de otras actualizaciones Evo",
-      "summary": "Andreas Roos, jefe de BMW M Motorsport, descartó que su división esté planificando utilizar más Evo Joker en los prototipos M Hybrid V8 para el año que viene, dejando la posibilidad abierta de invertir los dos comodines que le restan para la temporada 2028. Explicó que una vez que culmine el Campeonato Mundial de Resistencia el departamento técnico de BMW se reunirá con los representantes de W Racing Team para sacar conclusiones de lo que ha sido la temporada no solamente en el WEC sino también en el Campeonato IMSA SportsCar, allí el fabricante alemán culminó en el penúltimo lugar entre…",
-      "url": "https://www.diariomotor.com/competicion/noticia/el-bmw-m-hybrid-v8-debera-esperar-hasta-el-2028-para-disponer-de-otras-actualizaciones-evo/",
-      "image": "https://www.diariomotor.com/imagenes/2026/10/BMW_M_Hybrid_V8_2026_WRT_NE2_26-6adf4a989af4a.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/10/BMW_M_Hybrid_V8_2026_WRT_NE2_26-6adf4a989af4a.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-10-26T14:24:38+00:00"
     },
     {
       "id": "7fd0856dff8e1aff",
@@ -355,37 +401,6 @@
       "published": "2026-10-26T14:01:47+00:00"
     },
     {
-      "id": "32e8455b6af4eeda",
-      "title": "BMW Concept 7 Protection é um blindado discreto repleto de dispositivos secretos",
-      "summary": "Protótipo tem proteção contra armas de calibre .44 Magnum e detalhes de proteção camuflados para garantir segurança sem chamar atenção",
-      "url": "https://quatrorodas.abril.com.br/noticias/bmw-concept-7-protection-sedan-blindado/",
-      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_01.jpg",
-      "images": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_01.jpg",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_02.jpg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_05.jpg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_04.jpg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_06.jpg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/BMW_08.jpg?resize=2048"
-      ],
-      "source": "Quatro Rodas BR",
-      "source_url": "https://quatrorodas.abril.com.br",
-      "published": "2026-10-26T12:00:35+00:00"
-    },
-    {
-      "id": "e2ea96a3952faf97",
-      "title": "199 BaT Auctions Closing Today",
-      "summary": "RUF CTR-Specification 1981 Porsche 911 Carrera Widebody 1989 Porsche 911 Speedster 1936 Packard Super Eight Series 1404 Phaeton 1986 Porsche 911 Turbo Coupe 2k-Mile 2023 Ferrari 812 GTS 13k-Kilometer 2001 Lamborghini Diablo VT 6.0 SE 157-Mile 2020 McLaren Speedtail 6k-Mile 2004 Lamborghini Gallardo 6-Speed No Reserve: 1981 Action Park Battle Action Tank 19k-Mile 2006 Mitsubishi Lancer Evolution IX MR No Reserve: Original-Owner 2001 BMW 525i Sport No Reserve: 38k-Mile 2005 Mercedes-Benz ML500 Special Edition 4,600-Mile 2017 Ferrari 488 Spider No Reserve: 1969 Chevrolet Camaro Z/28 4-Speed…",
-      "url": "https://bringatrailer.com/auctions/",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/036A1798-scaled-10510.jpg?w=310&#38;h=210&#38;crop=1",
-      "images": [
-        "https://bringatrailer.com/wp-content/uploads/2026/09/036A1798-scaled-10510.jpg?w=310&#38;h=210&#38;crop=1"
-      ],
-      "source": "Bring a Trailer",
-      "source_url": "https://bringatrailer.com",
-      "published": "2026-10-26T12:00:00+00:00"
-    },
-    {
       "id": "3bed5bedf4340ccf",
       "title": "The BMW iX3 Destroyed The Rivian R2 In A Highway Range Test",
       "summary": "The BMW went roughly 60% farther at 70 mph, thanks mostly to its huge battery.",
@@ -397,63 +412,6 @@
       "source": "InsideEVs",
       "source_url": "https://insideevs.com",
       "published": "2026-10-26T10:38:47+00:00"
-    },
-    {
-      "id": "2ad94b96ba427e83",
-      "title": "Corren y molan mucho, por poco dinero, 3 motos por las que merece la pena esperar a 2027",
-      "summary": "China se está zampando el mercado europeo y prácticamente la mitad de las motos que se venden en España ya están fabricándose en China. Uno podría pensar que las marcas tradicionales lo tienen todo perdido. Pero, como veremos a continuación, lo que está sucediendo es precisamente lo contrario, que marcas japonesas, como Honda, y alemanas, como BMW, se están reforzando para que el argumento del precio pese algo menos en el proceso de decisión de compra de una moto. Cuatro cilindros para todos los públicos… y para todos los bolsillos Honda quiere recuperar una de las fórmulas más deseadas…",
-      "url": "https://www.diariomotor.com/noticia/motos-deportivas-merece-pena-esperar-2027/",
-      "image": "https://www.diariomotor.com/imagenes/2026/10/honda-cbr500r-four-2027-exterior-11-6ad824db1760a.jpg?class=XL",
-      "images": [
-        "https://www.diariomotor.com/imagenes/2026/10/honda-cbr500r-four-2027-exterior-11-6ad824db1760a.jpg?class=XL"
-      ],
-      "source": "Diariomotor",
-      "source_url": "https://www.diariomotor.com",
-      "published": "2026-10-26T10:00:11+00:00"
-    },
-    {
-      "id": "7178563649238574",
-      "title": "BMW Mキャラバン2026、仙台で10月31日・11月1日開催…今年最後のイベントに6車種展示",
-      "summary": "ビー・エム・ダブリューは、2026年10月31日および11月1日の2日間、仙台市の夢メッセみやぎにおいて、「BMW Mキャラバン2026 in仙台」を開催する。",
-      "url": "https://response.jp/article/2026/10/26/418232.html",
-      "image": "https://response.jp/imgs/rss/2254865.jpg",
-      "images": [
-        "https://response.jp/imgs/rss/2254865.jpg",
-        "https://response.jp/base/images/google-source-banner.png",
-        "https://response.jp/base/images/ico-jpx-iid.png",
-        "https://response.jp/base/images/ico-privacy-iid.png",
-        "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2254865.jpg",
-        "https://response.jp/imgs/sq_m_l1/2254865.jpg"
-      ],
-      "source": "Response JP",
-      "source_url": "https://response.jp",
-      "published": "2026-10-26T10:00:03+00:00"
-    },
-    {
-      "id": "0216a93ec1c8e95f",
-      "title": "250-HP, 6 Nappa Leather Seats, Amazing Lease Deals - Volvo Is Lashing Out At BMW And Mercedes-Benz",
-      "summary": "Volvo XC90 lease deals start at $599/mo for 36 months on a 2026 B5 AWD, or finance at 4.99% APR for up to 72 months.",
-      "url": "https://carbuzz.com/volvo-xc90-lease-deals-october-2026/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/volvo-xc90.png",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/volvo-xc90.png"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-10-26T09:33:14+00:00"
-    },
-    {
-      "id": "3a600bb743dfbdeb",
-      "title": "BMW's Rear-Wheel-Drive Hot Hatch With Turbo Inline-6",
-      "summary": "BMW's rear-wheel-drive hot hatches delivered rare six-cylinder thrills – a performance combination that's likely never to be offered again.",
-      "url": "https://carbuzz.com/the-1-series-bmw-6-cylinder-hot-hatch-rwd/",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2012-bmw-m13i-hatchback-001.jpg",
-      "images": [
-        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/11/2012-bmw-m13i-hatchback-001.jpg"
-      ],
-      "source": "CarBuzz",
-      "source_url": "https://carbuzz.com",
-      "published": "2026-10-26T09:01:15+00:00"
     },
     {
       "id": "ae2ba7d1e4ac4974",
@@ -521,24 +479,6 @@
       "published": "2026-10-25T08:19:18+00:00"
     },
     {
-      "id": "12fe451c74d2e39b",
-      "title": "Enfrentamos al Audi RS 5 Avant vs BMW M3 Competition Touring, y nos ha quedado muy claro: más potencia no siempre es más rápido y deportivo",
-      "summary": "El nuevo Audi RS 5 Avant combina una inteligente tecnología híbrida con unas prestaciones de infarto. Solo un BMW M3 Touring es capaz de plantarle cara. La comparativa de AUTO BILD desvela cuál de los dos coches familiares deportivos es más rápido y fascinante.",
-      "url": "https://www.autobild.es/motor/enfrentamos-audi-rs-5-avant-vs-bmw-m3-competition-touring-nos-ha-quedado-muy-claro-mas-potencia-no-siempre-es-mas-rapido-deportivo_7053037_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6addad8f2dedb8-46946066.jpeg",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6addad8f2dedb8-46946066.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/10/25/6addad8f2dedb8-46946066.jpeg",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/10/25/6addac04d96cf1-00180911.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/10/23/6adb34e1aa0cb1-75081569.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/09/26/6ab7c8e6b11202-98549501.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2024/07/19/68c95a68af568.jpeg"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-10-25T08:00:00+00:00"
-    },
-    {
       "id": "c8308c292bf00354",
       "title": "'I’ll be buried with it': My classic BMW 7 Series is too good to sell",
       "summary": "This cherished \"museum piece\" 728i is officially one of the best of its kind George Manning’s 1997 E38-generation BMW 728i is a superb example of the breed – and that’s official. At the recent BMW 7 Event – a popular showcase for 7 Series of all generations organised by All Things Bavarian and held at The Hill, a Caffeine & Machine outpost in Warwickshire – it bagged the Best Overall award, voted for by visitors. More remarkable still is that up to 150 7 Series of all ages were present, with awards also given for Best Restored, Best Modified and Best Kept. Why did George’s car merit Best…",
@@ -547,8 +487,21 @@
       "images": [
         "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_7_series_lead.jpg?itok=6IPhI2sI"
       ],
-      "source": "Autocar BMW",
+      "source": "Autocar BMW i",
       "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-25T08:00:00+00:00"
+    },
+    {
+      "id": "12fe451c74d2e39b",
+      "title": "Enfrentamos al Audi RS 5 Avant vs BMW M3 Competition Touring, y nos ha quedado muy claro: más potencia no siempre es más rápido y deportivo",
+      "summary": "El nuevo Audi RS 5 Avant combina una inteligente tecnología híbrida con unas prestaciones de infarto. Solo un BMW M3 Touring es capaz de plantarle cara. La comparativa de AUTO BILD desvela cuál de los dos coches familiares deportivos es más rápido y fascinante.",
+      "url": "https://www.autobild.es/motor/enfrentamos-audi-rs-5-avant-vs-bmw-m3-competition-touring-nos-ha-quedado-muy-claro-mas-potencia-no-siempre-es-mas-rapido-deportivo_7053037_0.html",
+      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6addad8f2dedb8-46946066.jpeg",
+      "images": [
+        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6addad8f2dedb8-46946066.jpeg"
+      ],
+      "source": "Auto Bild ES",
+      "source_url": "https://www.autobild.es",
       "published": "2026-10-25T08:00:00+00:00"
     },
     {
@@ -591,19 +544,6 @@
       "published": "2026-10-24T20:10:53+00:00"
     },
     {
-      "id": "7ccb4af86212ec94",
-      "title": "Zoek je een klassieke zescilinder dan gaat er niets boven een BMW, maar deze Rover doet aardig mee",
-      "summary": "Begin jaren 90 waren BMW en Rover nog geen zustermerken, maar concurrenten. De met behulp van Honda ontwikkelde 827 had echter weinig kans tegen de 5-serie van het latere moederconcern. Welke auto zorgt anno 2026 als oudere youngtimer voor de grootste glimlach op je gezicht?",
-      "url": "https://www.autoweek.nl/autotests/artikel/zoek-je-een-klassieke-zescilinder-dan-gaat-er-niets-boven-een-bmw-maar-de-rover-doet-aardig-mee/?utm_source=rss&utm_medium=rssdefault&utm_campaign=rss",
-      "image": "https://images.autoweek.nl/279119973/width/800/279119973",
-      "images": [
-        "https://images.autoweek.nl/279119973/width/800/279119973"
-      ],
-      "source": "AutoWeek NL",
-      "source_url": "https://www.autoweek.nl",
-      "published": "2026-10-24T13:30:58+00:00"
-    },
-    {
       "id": "d9f59e60a60a0a94",
       "title": "BMW Closes Severance Program Early After Thousands Sign Up",
       "summary": "BMW is moving faster than expected with its plans to cut jobs in Germany. The automaker closed its voluntary severance program ahead of schedule after thousands of employees expressed interest in leaving, suggesting the generous... First published by https://www.bmwblog.com",
@@ -630,44 +570,13 @@
       "published": "2026-10-24T06:35:36+00:00"
     },
     {
-      "id": "b2d4f95000b47667",
-      "title": "View Interior Photos of the 2027 BMW 7-Series",
-      "summary": "See the interior of the 2027 BMW 7-series from every angle.",
-      "url": "https://www.caranddriver.com/photos/a74203883/2027-bmw-7-series-drive-interior-gallery/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/613bcfb2-ea98-42a8-a3ac-e44663b1bed0.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/613bcfb2-ea98-42a8-a3ac-e44663b1bed0.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-10-23T22:37:01+00:00"
-    },
-    {
-      "id": "07a830fecdcd74b9",
-      "title": "View Exterior Photos of the 2027 BMW 7-Series",
-      "summary": "See the exterior of the 2027 BMW 7-series from every angle.",
-      "url": "https://www.caranddriver.com/photos/a74196211/2027-bmw-7-series-drive-exterior-gallery/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6eb78657-98a8-4f16-b22d-e32d3b51a341.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/6eb78657-98a8-4f16-b22d-e32d3b51a341.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-10-23T22:36:58+00:00"
-    },
-    {
       "id": "f101936da4ba9f76",
       "title": "The 2027 BMW 7-Series Embraces Luxurious Maximalism",
       "summary": "The latest 7 has an imposing presence, sparkly details, and a plethora of gas and electric powertrains.",
       "url": "https://www.caranddriver.com/reviews/a74181769/2027-bmw-7-series-drive/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/bfa26b79-4018-4378-9342-6c4cbaf4b686.jpg?crop=0.706xw:0.706xh;0.163xw",
-        "https://hips.hearstapps.com/hmg-prod/images/cdca5c21-530d-49d3-a9df-3e0c765e90f1.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/fbac6b7f-c40d-4276-878b-92dbd4ae3256.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/cfcb4244-b2cd-4da2-b40b-4bbe456fa7e3.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/e1b8c65c-bc3f-4486-ba5c-09b7ec2d9f55.jpg?crop=0.657xw:0.657xh;0.059xw"
+        "https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg"
       ],
       "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
@@ -726,19 +635,6 @@
       "published": "2026-10-23T16:27:37+00:00"
     },
     {
-      "id": "97a0b93a0dfabee5",
-      "title": "BMW Might Want Your Door Handle To Be A Screen That Reads Fingerprints",
-      "summary": "A BMW patent application filed in Germany in April 2025, and published this month, describes a glass-covered MicroLED door handle that could unlock the car with a fingerprint. While future tech is constantly evaluated at... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/10/23/bmw-door-handle-patent-screen-fingerprint-unlock/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-153-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-153-830x553.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-10-23T16:07:11+00:00"
-    },
-    {
       "id": "ad4a8bfd568f26da",
       "title": "More Than One In Five F90 BMW M5s Wore Black Sapphire, As Many As Every Individual Color Combined",
       "summary": "Black Sapphire Metallic is the most popular color on the F90 BMW M5 by a wide margin. MDataWorks, which compiles BMW M production data, counts 7,051 F90s in the black metallic, or 21 percent of... First published by https://www.bmwblog.com",
@@ -747,7 +643,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2019/05/BMW-M5-Edition-35-Years-4-of-11-830x664.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog M5",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-23T15:53:34+00:00"
     },
@@ -758,55 +654,11 @@
       "url": "https://www.caranddriver.com/reviews/a74184219/2027-bmw-ix3-test/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/f471fd2d-56ba-4f77-a87d-1a9860dcf34a.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/f471fd2d-56ba-4f77-a87d-1a9860dcf34a.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/5392160f-1231-4c70-924e-f8841e34472e.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/2a1c706a-8fb0-4c9c-96c2-972ea9838d00.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/c0b0bfd4-da4c-4fc0-90bb-40a66e49b7f1.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/a2a959cd-627d-493a-a03a-3d71edfb95ce.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/c4e12030-6ad7-4186-b3d1-5c7d4b2ef44c.jpg?crop=1xw:1xh;center"
+        "https://hips.hearstapps.com/hmg-prod/images/f471fd2d-56ba-4f77-a87d-1a9860dcf34a.jpg"
       ],
       "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "id": "8614e3ed2cba7095",
-      "title": "View Exterior Photos of the 2027 BMW iX3",
-      "summary": "See the exterior of the 2027 BMW iX3 from every angle.",
-      "url": "https://www.caranddriver.com/photos/a74081553/2027-bmw-ix3-test-exterior-gallery/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "id": "cf6b0c94cab18e79",
-      "title": "View Interior Photos of the 2027 BMW iX3",
-      "summary": "See the interior of the 2027 BMW iX3 from every angle.",
-      "url": "https://www.caranddriver.com/photos/a74081654/2027-bmw-ix3-test-interior-gallery/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/2a1c706a-8fb0-4c9c-96c2-972ea9838d00.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/2a1c706a-8fb0-4c9c-96c2-972ea9838d00.jpg"
-      ],
-      "source": "Car and Driver",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "id": "6eae00bef4189ec7",
-      "title": "Should BMW Fake A Manual Gearbox Like Ferrari?",
-      "summary": "BMW has made it clear that keeping the manual gearbox alive is becoming increasingly difficult. Demand remains strong in the United States, but a shrinking pool of suppliers, increasingly complex driver-assistance systems, and the spread... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/10/23/should-bmw-fake-manual-gearbox-like-ferrari/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/02/2025-bmw-m2-manual-review-java-green-13-830x554.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/02/2025-bmw-m2-manual-review-java-green-13-830x554.jpg"
-      ],
-      "source": "BMW Blog",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-10-23T13:28:04+00:00"
     },
     {
       "id": "df78653f4db6564d",
@@ -817,7 +669,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/10/bmw-ix5-review-frozen-space-silver-46-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-23T12:38:17+00:00"
     },
@@ -833,19 +685,6 @@
       "source": "BMW Blog i",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-23T11:31:40+00:00"
-    },
-    {
-      "id": "3c08becb3da304c4",
-      "title": "Ya he probado el Mazda CX-60 e-Skyactiv D 254 tras el lavado de cara: mejora mucho el chasis, pero no al nivel de un BMW X3",
-      "summary": "El Mazda CX-60 estrena una puesta a punto revisada y perfeccionada del chasis. AUTO BILD prueba la versión actualizada con motor diésel de seis cilindros y tracción total.",
-      "url": "https://www.autobild.es/motor/ya-he-probado-mazda-cx-60-skyactiv-d-254-tras-lavado-cara-mejora-mucho-chasis-pero-no-nivel-un-bmw-x3_7052245_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/22/6ada32788ba472-81559752.jpeg",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/10/22/6ada32788ba472-81559752.jpeg"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-10-23T08:36:00+00:00"
     },
     {
       "id": "01c857cca1c95369",
@@ -887,7 +726,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/10/Gas-G50-3-Series-configurator-Hero-830x467.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-22T21:44:17+00:00"
     },
@@ -944,22 +783,9 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2026/10/bmw-x5-40-vancouver-green-45-830x553.jpg"
       ],
-      "source": "BMW Blog",
+      "source": "BMW Blog X5",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-22T19:02:01+00:00"
-    },
-    {
-      "id": "5da27455925e3f2e",
-      "title": "BMW iX5 review",
-      "summary": "The BMW iX5 blends everything we love about the iX3 with some useful extra space – but it’ll cost you",
-      "url": "https://www.autoexpress.co.uk/bmw/ix5",
-      "image": "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-8.jpg?w=845&fit=scale&auto=format,compress",
-      "images": [
-        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20iX5%202026-8.jpg?w=845&fit=scale&auto=format,compress"
-      ],
-      "source": "AutoExpress",
-      "source_url": "https://www.autoexpress.co.uk",
-      "published": "2026-10-22T19:01:55+00:00"
     },
     {
       "id": "67706eaef2a729d8",
@@ -988,6 +814,19 @@
       "published": "2026-10-22T19:01:20+00:00"
     },
     {
+      "id": "50fc788135efa072",
+      "title": "BMW iX5 review: Can 2.8-tonne EV still put the 'S' in SUV?",
+      "summary": "Long-running X5 SUV is electrified with Neue Klasse design and tech – plus a truly enormous battery It seems that with the new X5, BMW is going for the record for most power sources available in one car. It will at some point be available with mild-hybrid petrol, mild-hybrid diesel, plug-in hybrid, battery-electric and even hydrogen fuel cell drivetrains.At a time when EV mandates and subsidies come and go and consumers can’t decide whether diesel really is the devil’s work, BMW isn't taking any chances and is just giving us everything as part of it being powertrain-agnostic, it says.The…",
+      "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg?itok=o_LcLIZj",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg?itok=o_LcLIZj"
+      ],
+      "source": "Autocar BMW i",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-22T19:01:00+00:00"
+    },
+    {
       "id": "cc7ad88d617bbd2d",
       "title": "2027 BMW iX5 Driven: Part of the Family",
       "summary": "BMW’s mid-size electric SUV now looks just like its gas-powered stablemate, but does it improve upon its strange but compelling iX predecessor?",
@@ -1011,32 +850,6 @@
       ],
       "source": "Car and Driver Reviews",
       "source_url": "https://www.caranddriver.com",
-      "published": "2026-10-22T19:01:00+00:00"
-    },
-    {
-      "id": "d7293260e451e2f7",
-      "title": "I Drove The Electric BMW X5. It Makes The Gas Version A Tough Sell.",
-      "summary": "For the first time ever, the X5 is going electric. I drove the iX5 to see if it's compelling enough to get BMW buyers into an EV.",
-      "url": "https://insideevs.com/reviews/812963/bmw-ix5-electric-x5-first-drive-review-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9BrE/s3/bmw-ix5-first-drive.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/2N9BrE/s3/bmw-ix5-first-drive.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-10-22T19:01:00+00:00"
-    },
-    {
-      "id": "50fc788135efa072",
-      "title": "BMW iX5 review: Can 2.8-tonne EV still put the 'S' in SUV?",
-      "summary": "Long-running X5 SUV is electrified with Neue Klasse design and tech – plus a truly enormous battery It seems that with the new X5, BMW is going for the record for most power sources available in one car. It will at some point be available with mild-hybrid petrol, mild-hybrid diesel, plug-in hybrid, battery-electric and even hydrogen fuel cell drivetrains.At a time when EV mandates and subsidies come and go and consumers can’t decide whether diesel really is the devil’s work, BMW isn't taking any chances and is just giving us everything as part of it being powertrain-agnostic, it says.The…",
-      "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg?itok=o_LcLIZj",
-      "images": [
-        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg?itok=o_LcLIZj"
-      ],
-      "source": "Autocar BMW",
-      "source_url": "https://www.autocar.co.uk",
       "published": "2026-10-22T19:01:00+00:00"
     },
     {
@@ -1129,19 +942,6 @@
       "source": "BMW Blog 3",
       "source_url": "https://bmwblog.com",
       "published": "2026-10-22T13:04:37+00:00"
-    },
-    {
-      "id": "082098a4fd55db8c",
-      "title": "BMW’s Electric M3 Had To First Win Over One Of Its Own",
-      "summary": "Winning over a skeptical test driver takes more than horsepower.",
-      "url": "https://insideevs.com/news/812906/bmw-m3-documentary-track-testing/",
-      "image": "https://cdn.motor1.com/images/mgl/0epPgn/s3/bmw-m3-ev.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/0epPgn/s3/bmw-m3-ev.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-10-22T12:49:54+00:00"
     },
     {
       "id": "48292adbbddf7011",
@@ -1252,9 +1052,9 @@
       "title": "Philipp Eng and BMW to part ways after 11 years",
       "summary": "BMW M Motorsport and Philipp Eng will part ways following the conclusion of the 2026 season, ending a successful 11-year partnership between the Austrian driver and the German manufacturer. Both parties have mutually agreed not to extend Eng's factory contract beyond its current term, allowing the 36-year-old to pursue new opportunities in his racing career starting in 2027. Eng leaves the ... Keep reading",
       "url": "https://www.motorsport.com/imsa/news/philipp-eng-to-leave-bmw-after-11-years-as-factory-driver/10866719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-2.motorsport.com/images/amp/b6n4mWR2/s6/philipp-eng-verlaesst-bmw-nach-elf-jahren-als-werksfahrer-26102101.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/b6n4mWR2/s6/philipp-eng-verlaesst-bmw-nach-elf-jahren-als-werksfahrer-26102101.jpg",
       "images": [
-        "https://cdn-2.motorsport.com/images/amp/b6n4mWR2/s6/philipp-eng-verlaesst-bmw-nach-elf-jahren-als-werksfahrer-26102101.jpg"
+        "https://cdn-8.motorsport.com/images/amp/b6n4mWR2/s6/philipp-eng-verlaesst-bmw-nach-elf-jahren-als-werksfahrer-26102101.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -1352,19 +1152,6 @@
       "published": "2026-10-20T21:54:58+00:00"
     },
     {
-      "id": "4383b9b293aa9189",
-      "title": "BMW beendet Abfindungsprogramm aufgrund hoher Nachfrage",
-      "summary": "Der Andrang auf das Programm zur Abfindung verdienter Mitarbeiter ist scheinbar größer als erwartet ausgefallen: Nach kurzer Zeit beendet BMW sein freiwilliges Abfindungsprogramm in Deutschland,...",
-      "url": "https://www.bimmertoday.de/2026/10/20/bmw-beendet-abfindungsprogramm-aufgrund-hoher-nachfrage/",
-      "image": "https://vg09.met.vgwort.de/na/3b14b37210d143f298251983d118aae2",
-      "images": [
-        "https://vg09.met.vgwort.de/na/3b14b37210d143f298251983d118aae2"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-10-20T21:11:57+00:00"
-    },
-    {
       "id": "02edc614469b4bb3",
       "title": "BMW iX5 hits up to 460 kW during first public fast-charging demo",
       "summary": "With up to 460 kW DC fast charging, the new BMW iX5 can add up to 170 miles in just 10 minutes. BMW proved it during a live public event for the first time. more…",
@@ -1376,19 +1163,6 @@
       "source": "Electrek BMW",
       "source_url": "https://electrek.co",
       "published": "2026-10-20T20:05:56+00:00"
-    },
-    {
-      "id": "22443a3d0d2b0da3",
-      "title": "BMW M 1000 RR 2027: Rennsport-Rahmen spart 1,3 Kilogramm Gewicht",
-      "summary": "“Rennsporttechnik für die Straße” zählt zu den häufigsten Versprechen der Werbebranche, aber auch zu den am häufigsten gebrochenen. Im Fall eines neuen Rahmens für die...",
-      "url": "https://www.bimmertoday.de/2026/10/20/bmw-m-1000-rr-2027-rennsport-rahmen-spart-13-kilogramm-gewicht/",
-      "image": "https://vg09.met.vgwort.de/na/62517167bf54414d9090f2af36165fde",
-      "images": [
-        "https://vg09.met.vgwort.de/na/62517167bf54414d9090f2af36165fde"
-      ],
-      "source": "BimmerToday DE",
-      "source_url": "https://www.bimmertoday.de",
-      "published": "2026-10-20T17:01:20+00:00"
     },
     {
       "id": "fd3a9d931d7efe3f",
@@ -1473,9 +1247,9 @@
       "title": "WRC star Thierry Neuville makes successful historic circuit racing debut",
       "summary": "World Rally Championship driver Thierry Neuville took victory on his historic circuit racing debut at the Imola Classic. The 2024 WRC champion swapped rally machinery for a Ford Escort RS1600 and his own BMW M3 E30, competing in the Heritage Touring Car Cup category at the Le Mans Classic Series event at the Emilia-Romagna circuit. The field also included the likes of former British Touring ... Keep reading",
       "url": "https://www.motorsport.com/wrc/news/wrc-star-thierry-neuville-makes-successful-historic-circuit-racing-debut/10866477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WRC&utm_term=News&utm_content=www",
-      "image": "https://cdn-5.motorsport.com/images/amp/6n7Ayxl0/s6/thierry-neuville-hyundai-world.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/6n7Ayxl0/s6/thierry-neuville-hyundai-world.jpg",
       "images": [
-        "https://cdn-5.motorsport.com/images/amp/6n7Ayxl0/s6/thierry-neuville-hyundai-world.jpg"
+        "https://cdn-2.motorsport.com/images/amp/6n7Ayxl0/s6/thierry-neuville-hyundai-world.jpg"
       ],
       "source": "Motorsport WRC",
       "source_url": "https://www.motorsport.com",
@@ -1876,9 +1650,9 @@
       "title": "Toyota: BMW has advantage in Barcelona WEC after private test",
       "summary": "Toyota expects BMW to have a “performance advantage” on the World Endurance Championship’s first visit to Barcelona after the German manufacturer conducted a private test at the venue in the build-up to the race. The 2026 WEC will end with a pair of six-hour races in Europe after the originally planned events in Qatar and Bahrain had to be cancelled due to the war in West ... Keep reading",
       "url": "https://www.motorsport.com/wec/news/toyota-bmw-has-advantage-in-barcelona-wec-after-private-test/10864700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "image": "https://cdn-1.motorsport.com/images/amp/63QapJ82/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/63QapJ82/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg",
       "images": [
-        "https://cdn-1.motorsport.com/images/amp/63QapJ82/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
+        "https://cdn-7.motorsport.com/images/amp/63QapJ82/s6/15-bmw-m-team-wrt-bmw-m-hybrid.jpg"
       ],
       "source": "Motorsport WEC",
       "source_url": "https://www.motorsport.com",
@@ -2145,24 +1919,6 @@
       "published": "2026-10-07T23:00:45+00:00"
     },
     {
-      "id": "b337518ab960edfe",
-      "title": "2027 BMW iX4",
-      "summary": "What We Know So Far",
-      "url": "https://www.caranddriver.com/bmw/ix4",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/3b42b70c-6397-4268-8dac-f64f29111bec.jpg?crop=1xw:0.843xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/47afe243-54c6-4067-a1b5-33f91c687bab.jpg?crop=0.81xw:0.683xh;0.097xw",
-        "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg?crop=0.784xw:0.661xh;0.0897xw,0.252xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-2-series-gran-coupe-143-670eb6c2ab24e.jpg?crop=0.803xw:0.678xh;0.103xw,0.132xh&resize=700:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2026-bmw-ix3-108-68ae1496623a1.jpg?crop=0.702xw:0.592xh;0.117xw,0.293xh&resize=700:*"
-      ],
-      "source": "Car and Driver BMW",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-10-07T22:01:00+00:00"
-    },
-    {
       "id": "f06f9d4bfbbf9f06",
       "title": "BMW's New iX4 Combines Swoopy Styling With Up To 603 HP",
       "summary": "BMW’s latest Neue Klasse EV combines coupe-like styling with up to 428 miles of range on the entry-level iX4 50 xDrive.",
@@ -2189,17 +1945,17 @@
       "published": "2026-10-07T22:01:00+00:00"
     },
     {
-      "id": "27dc33bb6ebdb43a",
-      "title": "BMW iX3 M60 Takes M Performance Into The Neue Klasse Era",
-      "summary": "As expected, BMW has wasted little time giving the second-generation iX3 the M Performance treatment. The first hot derivative among the modern Neue Klasse wave of EVs brings some seriously impressive numbers to the table,... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/10/07/2027-bmw-ix3-m60-details-photos/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/10/bmw-ix3-m60-56-830x553.jpg",
+      "id": "b337518ab960edfe",
+      "title": "2027 BMW iX4",
+      "summary": "What We Know So Far",
+      "url": "https://www.caranddriver.com/bmw/ix4",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg",
       "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2026/10/bmw-ix3-m60-56-830x553.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/c4a26c76-055c-4b97-985a-bd005506df42.jpg"
       ],
-      "source": "BMW Blog i",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-10-07T22:00:45+00:00"
+      "source": "Car and Driver BMW",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-07T22:01:00+00:00"
     },
     {
       "id": "9878343a5c882345",
@@ -2501,19 +2257,6 @@
       "published": "2026-10-01T11:42:22+00:00"
     },
     {
-      "id": "c09d3d4f807df2a6",
-      "title": "BMW X3 M50 xDrive Now Makes 437 HP And Gets Black Wheels, Carbon Interior",
-      "summary": "BMW X3 M50 xDrive climbs to 437 horsepower and gains a darker Black Package treatment that stays strictly cosmetic for the powertrain.",
-      "url": "https://www.motor1.com/news/810409/bmw-x3-m50-xdrive-power/",
-      "image": "https://cdn.motor1.com/images/mgl/wlkqNV/s3/bmw-x3-m50-xdrive-black-package-2026.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/wlkqNV/s3/bmw-x3-m50-xdrive-black-package-2026.jpg"
-      ],
-      "source": "Motor1 BMW",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-10-01T08:21:22+00:00"
-    },
-    {
       "id": "8945fa9ba6b15a77",
       "title": "New BMW i3 Configurator Goes Live, Tops Out at $78,650",
       "summary": "BMW’s new i3 is now on the U.S. Build Your Own website, which means we can finally put a price on our preferred combination of paint, wheels, and technology. Naturally, we went straight for the... First published by https://www.bmwblog.com",
@@ -2800,19 +2543,6 @@
       "published": "2026-09-25T17:15:22+00:00"
     },
     {
-      "id": "92755bf187fbf707",
-      "title": "BMW M3 CS Production Numbers: 1,727 G80 Automatics Built",
-      "summary": "BMW built 1,727 G80 M3 CS sedans with the automatic gearbox, according to VIN-level production data compiled by MDataWorks, an independent tracker with no connection to BMW. That number isn’t the final count for the... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/09/25/bmw-g80-m3-cs-production-numbers-colors-markets/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/11/BMW-M3-CS-18-830x623.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2023/11/BMW-M3-CS-18-830x623.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-09-25T17:08:11+00:00"
-    },
-    {
       "id": "20b872866a4cc115",
       "title": "BMW M4 CSL Production: 1,036 Built, By Color and Market",
       "summary": "The G82 BMW M4 CSL production run ended at 1,036 cars. That comes from VIN-level production data compiled by MDataWorks, an independent tracker with no connection to BMW. The total is 36 more than the... First published by https://www.bmwblog.com",
@@ -2865,19 +2595,6 @@
       "published": "2026-09-24T13:00:16+00:00"
     },
     {
-      "id": "3e91c1af652503e4",
-      "title": "BMW M3 Electric Loves To Throw Its Tail Out In New Spy Video",
-      "summary": "The first-ever electric M3 is getting closer to production, and the latest Nürburgring footage reminds us that BMW isn’t developing a four-motor monster just to make a quick EV. One camouflaged ZA0 prototype was caught... First published by https://www.bmwblog.com",
-      "url": "https://www.bmwblog.com/2026/09/24/bmw-m3-electric-throws-tail-new-spy-video/",
-      "image": "https://cdn.bmwblog.com/wp-content/uploads/2025/12/2027-bmw-m3-za0-electric-prototype-03-830x553.jpg",
-      "images": [
-        "https://cdn.bmwblog.com/wp-content/uploads/2025/12/2027-bmw-m3-za0-electric-prototype-03-830x553.jpg"
-      ],
-      "source": "BMW Blog M3",
-      "source_url": "https://bmwblog.com",
-      "published": "2026-09-24T12:25:22+00:00"
-    },
-    {
       "id": "66bb747bab593d49",
       "title": "ALPINA’s Biggest Missed Opportunity Was Hiding In Plain Sight: The X5",
       "summary": "In 2001, BMW wanted a faster X5 and didn’t have one, so it borrowed ALPINA’s. The 4.6-liter V8 in the E53 X5 4.6is started life as the engine ALPINA developed for the E39 B10 V8,... First published by https://www.bmwblog.com",
@@ -2886,7 +2603,7 @@
       "images": [
         "https://cdn.bmwblog.com/wp-content/uploads/2024/10/bmw-x5-4.6is_E53-08-830x553.jpg"
       ],
-      "source": "BMW Blog X5",
+      "source": "BMW Blog Alpina tag",
       "source_url": "https://bmwblog.com",
       "published": "2026-09-24T04:37:33+00:00"
     },
@@ -3211,7 +2928,7 @@
       "images": [
         "https://cdn.motor1.com/images/mgl/AkOKmW/s3/why-are-car-grilles-getting-bigger.jpg"
       ],
-      "source": "Motor1 Audi",
+      "source": "Motor1 Aston Martin",
       "source_url": "https://www.motor1.com",
       "published": "2026-09-13T16:00:00+00:00"
     },
@@ -4345,19 +4062,6 @@
       "source": "BMW Blog X1",
       "source_url": "https://bmwblog.com",
       "published": "2026-07-30T19:53:49+00:00"
-    },
-    {
-      "id": "f606231098e6f423",
-      "title": "BMW opens i3 orders months early as buyers rush in",
-      "summary": "The new i3 is here sooner than expected. Although it wasn’t expected to go on sale until this fall, BMW has already opened orders in several markets after “high levels” of early interest. more…",
-      "url": "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-EV-orders-open.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-EV-orders-open.jpeg?quality=82&#038;strip=all&#038;w=1400"
-      ],
-      "source": "Electrek BMW",
-      "source_url": "https://electrek.co",
-      "published": "2026-07-30T17:29:25+00:00"
     }
   ]
 }
