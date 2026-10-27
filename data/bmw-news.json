@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-27T22:17:38.494846+00:00",
-  "generated_at_human": "2026-10-27 22:17 UTC",
-  "total_items": 307,
+  "generated_at": "2026-10-27T22:22:01.773093+00:00",
+  "generated_at_human": "2026-10-27 22:22 UTC",
+  "total_items": 308,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek News",
@@ -60,6 +60,7 @@
     "Hagerty People",
     "HotCars",
     "InsideEVs",
+    "Jalopnik",
     "Motor1 Aston Martin",
     "Motor1 BMW",
     "Motor1 VW",
@@ -73,9 +74,24 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 68,
-  "multi_photo_items": 10,
+  "sources_count": 69,
+  "multi_photo_items": 11,
   "items": [
+    {
+      "id": "60f823f6cd53e591",
+      "title": "2027 Triumph Tiger 1200 Aims For The BMW GS's Do-Everything Crown",
+      "summary": "More power, more features, and a wide range of capable trim levels to choose from. The Triumph Tiger is looking to take BMW's lunch money.",
+      "url": "https://www.jalopnik.com/2299087/2027-triumph-tiger-1200-debuts-aims-for-bmw-gs-crown/",
+      "image": "https://www.jalopnik.com/img/gallery/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/l-intro-1793138870.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/l-intro-1793138870.jpg",
+        "https://www.jalopnik.com/img/gallery/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/intro-1793138870.jpg",
+        "https://www.jalopnik.com/img/gallery/2027-triumph-tiger-1200-aims-for-the-bmw-gss-do-everything-crown/new-bikes-new-appeal-1793138872.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-10-27T22:15:27+00:00"
+    },
     {
       "id": "43600fbec5c99284",
       "title": "BMW's Next X5 M Could Hunt AMGs With A Familiar Face And V8 Power",
