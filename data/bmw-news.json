@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-28T16:20:38.226458+00:00",
-  "generated_at_human": "2026-10-28 16:20 UTC",
-  "total_items": 323,
+  "generated_at": "2026-10-28T16:25:00.889997+00:00",
+  "generated_at_human": "2026-10-28 16:25 UTC",
+  "total_items": 325,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
@@ -52,6 +52,7 @@
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
@@ -77,9 +78,40 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 72,
-  "multi_photo_items": 20,
+  "sources_count": 73,
+  "multi_photo_items": 21,
   "items": [
+    {
+      "id": "7182a1cc2d6257e6",
+      "title": "The Bestselling Luxury Vehicles of 2026",
+      "summary": "Which models from the likes of BMW, Mercedes, and Lexus are the biggest hitters on the sales charts? We've gathered the numbers and ranked the top 10 sellers.",
+      "url": "https://www.caranddriver.com/news/g71039041/bestselling-luxury-cars-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/da2ad3aa-75dd-4fe8-a435-5a6ebe218d35.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/12e4ce91-1782-4e29-a3d8-40aa525550e8.jpg?crop=0.695xw:0.586xh;0.184xw,0.347xh",
+        "https://hips.hearstapps.com/hmg-prod/images/2f3031a4-a3ee-41ee-88f1-82a8dc8a4515.jpg?crop=0.839xw:0.708xh;0.132xw,0.172xh",
+        "https://hips.hearstapps.com/hmg-prod/images/87d640a3-527d-4c00-8e29-a53bb137d73c.jpg?crop=0.694xw:0.585xh;0.149xw,0.307xh",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-x3-xdrive30-104-687fec9f2a8aa.jpg?crop=0.680xw:0.682xh;0.271xw,0.287xh",
+        "https://hips.hearstapps.com/hmg-prod/images/2024-mercedes-benz-glc-350e-phev-423-671a63b2b649a.jpg?crop=0.628xw:0.628xh;0.292xw,0.314xh"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-28T16:23:51+00:00"
+    },
+    {
+      "id": "9b6c26690ed91aaa",
+      "title": "The 2027 BMW X5 Is New From the Ground Up. Here’s What Matters",
+      "summary": "While the electric G65 X5 might attract the most attention, being the first of its kind, that’s not to say that the more familiar gas-powered version should go completely overlooked. The 2027 BMW X5, like... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/10/28/2027-bmw-x5-buyers-guide/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-127-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2026/06/2027-bmw-x5-g65-127-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-10-28T16:21:54+00:00"
+    },
     {
       "id": "f4aa96ee6c0e2997",
       "title": "Comparison Test: 2027 BMW iX3 vs. Mercedes-Benz GLC400",
