@@ -1,10 +1,11 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-28T15:14:22.024469+00:00",
-  "generated_at_human": "2026-10-28 15:14 UTC",
-  "total_items": 318,
+  "generated_at": "2026-10-28T15:18:49.009011+00:00",
+  "generated_at_human": "2026-10-28 15:18 UTC",
+  "total_items": 320,
   "sources_used": [
     "Auto Bild ES",
+    "AutoExpress",
     "AutoWeek News",
     "Autocar BMW i",
     "Autosport WEC",
@@ -75,9 +76,45 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 70,
-  "multi_photo_items": 16,
+  "sources_count": 71,
+  "multi_photo_items": 18,
   "items": [
+    {
+      "id": "57a039ff34af9bdc",
+      "title": "BMW X2 review",
+      "summary": "The X2 is great to drive and feels suitably premium, but there are practicality compromises over the related X1",
+      "url": "https://www.autoexpress.co.uk/bmw/x2/370777/bmw-x2-review",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-4.jpg?w=845&fit=scale&auto=format,compress",
+      "images": [
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-4.jpg?w=845&fit=scale&auto=format,compress",
+        "https://www.autoexpress.co.uk/google_preferred_source_badge_light.png",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-10.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-12.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-16.jpg?w=1920&h=1080&fit=crop&q=75&auto=format%2Ccompress&dpr=1"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-10-28T15:15:10+00:00"
+    },
+    {
+      "id": "074c2f3fe9c76524",
+      "title": "BMW X2 2026 UK - pictures",
+      "summary": "Pictures of the BMW X2 being tested on UK roads. Pictures taken by Auto Express senior photographer, Pete Gibson.",
+      "url": "https://www.autoexpress.co.uk/bmw/x2/370776/bmw-x2-2026-uk-pictures",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-4.jpg?w=845&fit=scale&auto=format,compress",
+      "images": [
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-4.jpg?w=845&fit=scale&auto=format,compress",
+        "https://www.autoexpress.co.uk/google_preferred_source_badge_light.png",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-3.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-12.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-10.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/10/BMW%20X2-9.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-10-28T15:14:22+00:00"
+    },
     {
       "id": "0aec2a5999d48846",
       "title": "2028 BMW iX1 Spied Hiding A Neue Look During Testing: Video",
