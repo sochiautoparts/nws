@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-28T15:58:25.104771+00:00",
-  "generated_at_human": "2026-10-28 15:58 UTC",
-  "total_items": 321,
+  "generated_at": "2026-10-28T16:02:56.316023+00:00",
+  "generated_at_human": "2026-10-28 16:02 UTC",
+  "total_items": 322,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
@@ -50,6 +50,7 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
     "CarBuzz",
@@ -76,9 +77,27 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 18,
+  "sources_count": 72,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "45945abc695c0171",
+      "title": "2027 BMW X3 M50 Adds Horsepower and a Sinister Appearance Package",
+      "summary": "BMW urged a further 44 horsepower from the X3 M50’s twin-turbocharged 3.0-liter inline-six, bringing output to a cool 437 ponies.",
+      "url": "https://www.caranddriver.com/news/a74272007/2027-bmw-x3-m50-power-appearance-package/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b9cd41df-90dd-46d1-8245-b49349a0a63f.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b9cd41df-90dd-46d1-8245-b49349a0a63f.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/219eed11-94cf-43a1-be91-28984c4ed9ff.jpg?crop=0.75xw:1xh;0.25xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8252116d-681c-4f31-8ef2-716b6305abff.jpg?crop=0.693xw:0.924xh;0.164xw",
+        "https://hips.hearstapps.com/hmg-prod/images/8e7feb37-fa81-4f0d-bbb5-79a460a1b936.jpg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/f1ffa015-f44a-486c-b4b0-b66f54a264f0.jpg?crop=0.594xw:0.891xh;0.195xw,0.109xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/7d4b3c8a-7b12-483d-9360-cd334edb7b58.jpg?crop=0.667xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-10-28T16:00:00+00:00"
+    },
     {
       "id": "eb450787c6c41175",
       "title": "BMW Built Four Pre-Production 1M Prototypes. Three Were Crushed, But This One Survived: Video",
