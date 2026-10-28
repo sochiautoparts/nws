@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-28T10:10:24.767207+00:00",
-  "generated_at_human": "2026-10-28 10:10 UTC",
-  "total_items": 311,
+  "generated_at": "2026-10-28T10:14:52.141499+00:00",
+  "generated_at_human": "2026-10-28 10:14 UTC",
+  "total_items": 312,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek News",
@@ -61,6 +61,7 @@
     "HotCars",
     "InsideEVs",
     "Jalopnik",
+    "Motor1",
     "Motor1 Aston Martin",
     "Motor1 BMW",
     "Motor1 VW",
@@ -74,9 +75,22 @@
     "The Drive",
     "TopSpeed"
   ],
-  "sources_count": 69,
+  "sources_count": 70,
   "multi_photo_items": 13,
   "items": [
+    {
+      "id": "f3d7dfac477dff31",
+      "title": "BMW Moved 1 Million Cars Inside Plants Without Drivers",
+      "summary": "Automated Driving In-Plant now runs at four BMW Group factories, logging about 3,500 driverless vehicle moves every day inside production areas.",
+      "url": "https://www.motor1.com/news/813535/bmw-automated-driving-plant-hits/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VQxA/s3/mini-plant-oxford-automated-driving-during-production.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/P3VQxA/s3/mini-plant-oxford-automated-driving-during-production.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-10-28T10:10:57+00:00"
+    },
     {
       "id": "b8bfef168e366479",
       "title": "We Photographed The BMW iX4 50 xDrive And iX4 M60. The Eucalyptus Green One Lists For €86,660",
