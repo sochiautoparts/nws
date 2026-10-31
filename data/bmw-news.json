@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-10-31T02:03:23.417318+00:00",
-  "generated_at_human": "2026-10-31 02:03 UTC",
-  "total_items": 332,
+  "generated_at": "2026-10-31T02:07:41.655511+00:00",
+  "generated_at_human": "2026-10-31 02:07 UTC",
+  "total_items": 333,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -56,6 +56,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarExpert",
     "CarScoops",
     "Electrek BMW",
@@ -76,9 +77,27 @@
     "Response JP",
     "TopSpeed"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 18,
+  "sources_count": 72,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "9639a5268a3cf296",
+      "title": "BMW M Has Only Produced Two Standalone Cars, And One Of Them Is A Depreciation Pit",
+      "summary": "BMW's M Division doesn't build standalone cars from the ground up often, but in the case of its XM SUV, that doesn't guarantee it'll be collectible.",
+      "url": "https://carbuzz.com/bmw-m-two-standalone-cars-one-depreciation-pit/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/p90498037_highres_the-first-ever-bmw-x.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/p90498037_highres_the-first-ever-bmw-x.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/sidebar-car.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-08-13-52-44-1.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/07/p90499801_highres_the-bmw-xm-label-red-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/03/p90498074_highres_the-first-ever-bmw-x.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/08/bmw-m1-1979-1280-54af654a45214f6700816be79205cb7461.jpeg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-10-31T02:06:11+00:00"
+    },
     {
       "id": "fe4e7eed8957f4af",
       "title": "Forget The 160-HP KTM And Ducati, BMW's 125-HP Underdog Beat Them Both",
