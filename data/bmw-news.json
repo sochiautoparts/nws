@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-02T13:56:54.476385+00:00",
-  "generated_at_human": "2026-11-02 13:56 UTC",
-  "total_items": 348,
+  "generated_at": "2026-11-02T14:01:17.460131+00:00",
+  "generated_at_human": "2026-11-02 14:01 UTC",
+  "total_items": 349,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -67,6 +67,7 @@
     "HotCars",
     "Jalopnik",
     "Motor.es",
+    "Motor1",
     "Motor1 Aston Martin",
     "Motor1 BMW",
     "MotorBeam IN",
@@ -78,9 +79,22 @@
     "Response JP",
     "TopSpeed"
   ],
-  "sources_count": 73,
+  "sources_count": 74,
   "multi_photo_items": 27,
   "items": [
+    {
+      "id": "9599d259cffd4d43",
+      "title": "BMW's Electric 3 Series Makes Gas Hard To Justify: Driven",
+      "summary": "With nearly 470 miles of range, rapid charging, and a plush ride, BMW’s new i3 makes it easy to go electric.",
+      "url": "https://www.motor1.com/reviews/813994/2027-bmw-i3-first-drive-review/",
+      "image": "https://cdn.motor1.com/images/mgl/L36Lv3/s3/2027-bmw-i3-first-drive-review.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/L36Lv3/s3/2027-bmw-i3-first-drive-review.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-02T14:00:05+00:00"
+    },
     {
       "id": "b41d0739f8750fa2",
       "title": "BMW Is Bringing Partially Automated Driving To Cities",
