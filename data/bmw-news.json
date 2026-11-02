@@ -1,14 +1,15 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-02T09:17:24.403620+00:00",
-  "generated_at_human": "2026-11-02 09:17 UTC",
-  "total_items": 344,
+  "generated_at": "2026-11-02T09:21:47.089228+00:00",
+  "generated_at_human": "2026-11-02 09:21 UTC",
+  "total_items": 346,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
     "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
+    "Autocar",
     "Autocar BMW",
     "Autosport WEC",
     "BMW Blog",
@@ -77,7 +78,7 @@
     "Response JP",
     "TopSpeed"
   ],
-  "sources_count": 72,
+  "sources_count": 73,
   "multi_photo_items": 26,
   "items": [
     {
@@ -816,6 +817,32 @@
       ],
       "source": "Hagerty Media",
       "source_url": "https://www.hagerty.com",
+      "published": "2026-10-29T23:01:00+00:00"
+    },
+    {
+      "id": "664b0bfe89115aad",
+      "title": "BMW i3",
+      "summary": "BMW launches an all-electric 3 Series, with strong performance and a long range BMW has launched its new ICE 3 Series and electric i3 together, because presenting a united front is important. This EV is ostensibly an excellent new car – probably the best way to have electric motoring in a compact executive saloon package, even if in terms of driving dynamics and fun it’s outshone by its ICE sibling.But the i3 will have to convince most people not to buy a 3.0-litre straight six but something else with no engine. As you'll read, it will tread those paths much more easily.",
+      "url": "https://www.autocar.co.uk/car-review/bmw/i3",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/i5-50-hero-lead.jpg?itok=DWL9IFXN",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/i5-50-hero-lead.jpg?itok=DWL9IFXN"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-10-29T23:01:00+00:00"
+    },
+    {
+      "id": "df6d4e17349331a0",
+      "title": "BMW 3 Series",
+      "summary": "BMW's 3 Series gets Neue Klasse looks but retains its previous architecture and old-school petrol performance This new BMW 3 Series looks like one of those Neue Klasse BMWs, but it isn’t really. It has been developed from the architecture of the previous generation but given a look for the age that mimics the new i3 EV.Don’t be fooled: this is very much a combustion-led car, of a size at which it’s hard to share a platform that makes the most of an EV’s and an ICE car’s fundamentals, hence the powertrains are split between two different monocoques.They do look similar though, don’t they?…",
+      "url": "https://www.autocar.co.uk/car-review/bmw/3-series",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/011_bmw_m350_xdrive.jpg?itok=6_nrt2q8",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/011_bmw_m350_xdrive.jpg?itok=6_nrt2q8"
+      ],
+      "source": "Autocar",
+      "source_url": "https://www.autocar.co.uk",
       "published": "2026-10-29T23:01:00+00:00"
     },
     {
