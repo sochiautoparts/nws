@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-03T09:44:14.314997+00:00",
-  "generated_at_human": "2026-11-03 09:44 UTC",
+  "generated_at": "2026-11-03T09:48:37.463836+00:00",
+  "generated_at_human": "2026-11-03 09:48 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -23,13 +23,30 @@
     "Jalopnik",
     "Motor1",
     "Motorious",
-    "Motorsport All",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 22,
+  "sources_count": 21,
   "multi_photo_items": 474,
   "items": [
+    {
+      "id": "7fce13e194aaf4f4",
+      "title": "Acura Revives The First-Gen NSX With More Than 3,000 Factory Parts",
+      "summary": "New Honda Heritage Parts support covers powertrain, chassis, electrical, exterior, and interior systems for the first-generation Acura NSX.",
+      "url": "https://www.motor1.com/news/814191/acura-brings-back-more-3/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6LZp/s3/2002-2005-acura-nsx.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Mk6LZp/s3/2002-2005-acura-nsx.jpg",
+        "https://cdn.motor1.com/images/mgl/407pzM/s1/1991-2001-acura-nsx.jpg",
+        "https://cdn.motor1.com/images/mgl/2N4pOp/s5/1991-acura-nsx.jpg",
+        "https://cdn.motor1.com/images/mgl/W8K911/s5/1991-acura-nsx.jpg",
+        "https://cdn.motor1.com/images/mgl/Ak3KB2/s5/1991-acura-nsx.jpg",
+        "https://cdn.motor1.com/images/mgl/mMzxAP/s5/1991-acura-nsx.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-03T09:41:23+00:00"
+    },
     {
       "id": "d859be34dfa95dcb",
       "title": "Tesla Could Soon Start Taking Orders For Its Humanoid Robot",
@@ -8586,24 +8603,6 @@
       "source": "Motorious",
       "source_url": "https://motorious.com",
       "published": "2026-10-30T18:30:00+00:00"
-    },
-    {
-      "id": "4325a1bb4de117f8",
-      "title": "What Fernando Alonso is getting wrong about F1 driving standards",
-      "summary": "When Fernando Alonso declared \"the quality of the drivers in the lower third of the grid is very low\" in the aftermath of last weekend's United States Grand Prix in Austin, he inadvertently poked a hornets' nest. While Alonso doubled down on his criticism this week in Mexico, singling out Alex Albon, many other drivers have spoken up in the Williams driver's defence. Albon himself said, \"We ... Keep reading",
-      "url": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-      "image": "https://cdn-9.motorsport.com/images/amp/6x7LvB5Y/s6/fernando-alonso-aston-martin-r.jpg",
-      "images": [
-        "https://cdn-9.motorsport.com/images/amp/6x7LvB5Y/s6/fernando-alonso-aston-martin-r.jpg",
-        "https://cdn-2.motorsport.com/images/amp/6x7LvB5Y/s200/fernando-alonso-aston-martin-r.webp",
-        "https://cdn-9.motorsport.com/images/amp/YE9E4AKY/s200/franco-colapinto-alpine.webp",
-        "https://cdn-6.motorsport.com/images/amp/6O7zDgJ6/s200/sergio-perez-cadillac-racing.webp",
-        "https://cdn-7.motorsport.com/images/amp/YvKBmn16/s200/lewis-hamilton-ferrari.webp",
-        "https://cdn-2.motorsport.com/images/amp/2y7Q4e96/s200/isack-hadjar-red-bull-racing.webp"
-      ],
-      "source": "Motorsport All",
-      "source_url": "https://www.motorsport.com",
-      "published": "2026-10-30T18:28:52+00:00"
     }
   ]
 }
