@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-03T11:16:45.778859+00:00",
-  "generated_at_human": "2026-11-03 11:16 UTC",
+  "generated_at": "2026-11-03T11:21:05.978613+00:00",
+  "generated_at_human": "2026-11-03 11:21 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -16,7 +16,6 @@
     "CarScoops Ferrari",
     "CarScoops Kia",
     "Carscoops News",
-    "Crash.net",
     "Hagerty Media",
     "HotCars",
     "Jalopnik",
@@ -24,9 +23,27 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 19,
+  "sources_count": 18,
   "multi_photo_items": 482,
   "items": [
+    {
+      "id": "e7e9352d3452ceb0",
+      "title": "New Royal Enfield Continental GT 750 Unveiled At EICMA, Gets A Bigger Engine And Sporty Design",
+      "summary": "New 743cc engine promises to be Royal Enfield's most powerful road-going motor yet",
+      "url": "https://www.hotcars.com/new-royal-enfield-continental-gt-750-unveiled-at-eicma/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/11/01m6gbaxx0jq46h1yv11enfhsm-medium.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/11/01m6gbaxx0jq46h1yv11enfhsm-medium.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/11/billie-ringbrothers-1965-gto.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/10/2005-ford-gt-headlight.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/11/revealed-ym-honda-v3r-900-e-compressor-planned-production-model.jpg?q=49&fit=crop&w=292&h=384&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-01-at-3-02-00-pm.png?q=49&fit=crop&w=268&h=402&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-01-at-2-36-29-pm.png?q=49&fit=crop&w=268&h=402&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-11-03T11:16:45+00:00"
+    },
     {
       "id": "8aec0aadfc869908",
       "title": "Alpina's First Car In The BMW Era Hits 186 MPH During High-Speed Testing",
@@ -8623,24 +8640,6 @@
       "source": "BarnFinds",
       "source_url": "https://barnfinds.com",
       "published": "2026-10-30T18:45:00+00:00"
-    },
-    {
-      "id": "e9e88ee8b182b450",
-      "title": "Lewis Hamilton Ferrari experiments for Mexico GP FP1 revealed after ‘test races’ remark",
-      "summary": "Lewis Hamilton is conducting experiments in his Ferrari during FP1 in Mexico City.",
-      "url": "https://www.crash.net/f1/news/1108752/1/lewis-hamilton-ferrari-experiments-mexico-gp-fp1-revealed-after-test-races-remark",
-      "image": "https://www.crash.net/sites/default/files/2026-10/xpb_1446736_hires.jpg?width=1200",
-      "images": [
-        "https://www.crash.net/sites/default/files/2026-10/xpb_1446736_hires.jpg?width=1200",
-        "https://www.crash.net/sites/default/files/2026-10/xpb_1448301_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/pictures/1bc46a82-ac76-40ea-9cf5-d309b802b0ef_1.jpeg",
-        "https://www.crash.net/sites/default/files/2026-10/xpb_1382579_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-10/xpb_1401780_hires.jpg?aspect_ratio=1:1",
-        "https://www.crash.net/sites/default/files/2026-10/xpb_1426806_hires.jpg?aspect_ratio=1:1"
-      ],
-      "source": "Crash.net",
-      "source_url": "https://www.crash.net",
-      "published": "2026-10-30T18:43:15+00:00"
     }
   ]
 }
