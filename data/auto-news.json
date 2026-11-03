@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-03T09:00:03.075182+00:00",
-  "generated_at_human": "2026-11-03 09:00 UTC",
+  "generated_at": "2026-11-03T09:04:29.568703+00:00",
+  "generated_at_human": "2026-11-03 09:04 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -25,13 +25,26 @@
     "Motorious",
     "Motorsport All",
     "Motorsport F1",
-    "Quatro Rodas BR",
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 24,
+  "sources_count": 23,
   "multi_photo_items": 475,
   "items": [
+    {
+      "id": "860ac8019540775e",
+      "title": "Watch Mercedes-AMG's Ultimate CLE Lap The Nürburgring: Video",
+      "summary": "The flat-plane V8 sounds great, and the prototype looks menacing.",
+      "url": "https://www.motor1.com/news/814180/mercedes-amg-ultimate-cle-video/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6338/s3/mercedes-amg-cle-646-spezialanfertigung.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/Mk6338/s3/mercedes-amg-cle-646-spezialanfertigung.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/xw15FrGkU0A/s3/thumb.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-03T08:59:42+00:00"
+    },
     {
       "id": "50271b3f838a0bdd",
       "title": "2027 Royal Enfield Himalayan 750 First Look: Twin Peaks",
@@ -8597,24 +8610,6 @@
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
       "published": "2026-10-30T18:28:52+00:00"
-    },
-    {
-      "id": "c38c20323e8110e5",
-      "title": "Caoa Changan CS55 PHEV flex já está nas concessionárias, mas prazo de entrega pode assustar",
-      "summary": "Versão híbrida é importada da China e já está nas lojas, mas test-drive ainda está proibido",
-      "url": "https://quatrorodas.abril.com.br/noticias/caoa-changan-cs55-phev-flex-ja-esta-nas-concessionarias-mas-prazo-de-entrega-pode-assustar/",
-      "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/Caoa_chagan_cs55-15-e1793374906551.jpeg",
-      "images": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/Caoa_chagan_cs55-15-e1793374906551.jpeg",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/IMG_1725.JPG.jpeg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/Caoa_chagan_cs55-14.jpeg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/Caoa_chagan_cs55-16.jpeg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/Caoa_chagan_cs55-19.jpeg?resize=2048",
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2026/10/Caoa_chagan_cs55-11.jpeg?resize=2048"
-      ],
-      "source": "Quatro Rodas BR",
-      "source_url": "https://quatrorodas.abril.com.br",
-      "published": "2026-10-30T18:25:38+00:00"
     }
   ]
 }
