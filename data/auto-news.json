@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-05T08:31:33.778592+00:00",
-  "generated_at_human": "2026-11-05 08:31 UTC",
+  "generated_at": "2026-11-05T08:35:54.287697+00:00",
+  "generated_at_human": "2026-11-05 08:35 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -57,7 +57,6 @@
     "Motorsport MotoGP",
     "Motorsport WEC",
     "Motorsport WRC",
-    "Nissan News",
     "Paul Tan",
     "PlanetF1",
     "Quatro Rodas BR",
@@ -69,9 +68,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 64,
-  "multi_photo_items": 117,
+  "sources_count": 63,
+  "multi_photo_items": 118,
   "items": [
+    {
+      "id": "bbcbe76932eb5562",
+      "title": "Forget The Sprinter. Someone Made A Cute New Kia Electric Camper Van",
+      "summary": "Kia's electric van morphs into a compact camper with a double bed, an induction cooktop, and all-terrain tires.",
+      "url": "https://www.motor1.com/news/814476/kia-pv5-weekender-camper-van/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VNBK/s3/kia-pv5-weekender-camper-van-by-kombi-life.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/P3VNBK/s3/kia-pv5-weekender-camper-van-by-kombi-life.jpg",
+        "https://cdn.motor1.com/images/mgl/pb8gJv/s5/kia-pv5-weekender-camper-van-by-kombi-life.jpg",
+        "https://cdn.motor1.com/images/mgl/lE4xGN/s5/kia-pv5-weekender-camper-van-by-kombi-life.jpg",
+        "https://cdn.motor1.com/images/mgl/P3VNBK/s5/kia-pv5-weekender-camper-van-by-kombi-life.jpg",
+        "https://cdn.motor1.com/images/mgl/9mW381/s5/kia-pv5-weekender-camper-van-by-kombi-life.jpg",
+        "https://cdn.motor1.com/images/mgl/BX14ZM/s5/kia-pv5-weekender-camper-van-by-kombi-life.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-05T08:30:51+00:00"
+    },
     {
       "id": "40b14976fb5fe90d",
       "title": "Can Anything Stop This Giant-Tired Sherp Off-Roader? These YouTubers Find Out",
@@ -7092,19 +7109,6 @@
       "source": "Paul Tan",
       "source_url": "https://paultan.org",
       "published": "2026-11-04T03:26:15+00:00"
-    },
-    {
-      "id": "0d4b8aaf16f60851",
-      "title": "Nissan Elgrand wins the 2026-2027 Japan Automotive Hall of Fame Car of the Year",
-      "summary": "Nissan Motor Co., Ltd. announced today that the all-new Elgrand has won the 2026-2027 Japan Automotive Hall of Fame (JAHFA) Car of the Year. The Nissan LEAF was named JAHFA Car Design of the Year, while the Nissan Skyline GT‑R (BNR32) was designated a JAHFA Historic Car in recognition of its legacy in automotive history.",
-      "url": "http://global.nissannews.com/en/releases/261104-01-e",
-      "image": "https://wieck-nissanao-production.s3.us-west-1.amazonaws.com/releaseInlineImages/591bc3ac213ad20d5e84d1489d479b4a81bf47f0",
-      "images": [
-        "https://wieck-nissanao-production.s3.us-west-1.amazonaws.com/releaseInlineImages/591bc3ac213ad20d5e84d1489d479b4a81bf47f0"
-      ],
-      "source": "Nissan News",
-      "source_url": "https://global.nissannews.com",
-      "published": "2026-11-04T03:00:00+00:00"
     }
   ]
 }
