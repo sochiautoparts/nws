@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-05T07:03:46.621369+00:00",
-  "generated_at_human": "2026-11-05 07:03 UTC",
-  "total_items": 323,
+  "generated_at": "2026-11-05T07:08:20.973654+00:00",
+  "generated_at_human": "2026-11-05 07:08 UTC",
+  "total_items": 324,
   "sources_used": [
     "Auto Bild ES",
     "AutoExpress",
@@ -67,6 +67,7 @@
     "Jalopnik",
     "Kolesa RU",
     "Motor.es",
+    "Motor1",
     "Motor1 Aston Martin",
     "Motor1 BMW",
     "Motor1 Design",
@@ -81,9 +82,27 @@
     "RACER",
     "The Verge Transp"
   ],
-  "sources_count": 76,
-  "multi_photo_items": 14,
+  "sources_count": 77,
+  "multi_photo_items": 15,
   "items": [
+    {
+      "id": "007697103c8eed5b",
+      "title": "The Toyota Supra And BMW Z4 Have Officially Sold Out",
+      "summary": "BMW has no intention of replacing the Z4 anytime soon, while Toyota has said the Supra will return.",
+      "url": "https://www.motor1.com/news/814461/toyota-supra-bmw-z4-sold-out/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KRAj/s3/2026-toyota-supra-final-edition-review.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/W8KRAj/s3/2026-toyota-supra-final-edition-review.jpg",
+        "https://cdn.motor1.com/images/mgl/0egZPk/s5/2026-toyota-supra-final-edition-review.jpg",
+        "https://cdn.motor1.com/images/mgl/Oo9Y7A/s5/2026-toyota-supra-final-edition-review.jpg",
+        "https://cdn.motor1.com/images/mgl/W8KRAj/s5/2026-toyota-supra-final-edition-review.jpg",
+        "https://cdn.motor1.com/images/mgl/KbgqvG/s5/2026-toyota-supra-final-edition-review.jpg",
+        "https://cdn.motor1.com/images/mgl/2N4RBn/s5/2026-toyota-supra-final-edition-review.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-05T06:59:48+00:00"
+    },
     {
       "id": "20194660e45cc150",
       "title": "BMW Has Built Roughly 67 Million Cars Since 1928",
