@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-06T20:05:51.016281+00:00",
-  "generated_at_human": "2026-11-06 20:05 UTC",
-  "total_items": 320,
+  "generated_at": "2026-11-06T20:10:14.906207+00:00",
+  "generated_at_human": "2026-11-06 20:10 UTC",
+  "total_items": 321,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
@@ -51,6 +51,7 @@
     "Car and Driver BMW",
     "Car and Driver News",
     "Car and Driver Reviews",
+    "CarBuzz",
     "CarScoops",
     "Carscoops News",
     "Diariomotor",
@@ -78,9 +79,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 15,
+  "sources_count": 74,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "a312f58189cf4222",
+      "title": "The Big BMW Upset: How The All-New M350 Beats M3 Performance For Thousands Less",
+      "summary": "The BMW M350 offers 437 hp, standard AWD, and a subtle design for just under $66k — undercutting the $80k base M3 on value.",
+      "url": "https://carbuzz.com/comparison-bmw-350-and-base-bmwm3/",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/2027_bmw_m350_xdrive_full_frontal1.jpg",
+      "images": [
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/2027_bmw_m350_xdrive_full_frontal1.jpg",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/sidebar-car.png",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2027-bmw-m340-exterior-studio-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2027-bmw-m340-exterior-studio-3.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/09/2027-bmw-m340-interior-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+        "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/cropped-p90551006_highres_the-new-bmw-m3-sedan.jpg?q=49&fit=crop&w=875&h=540&dpr=2"
+      ],
+      "source": "CarBuzz",
+      "source_url": "https://carbuzz.com",
+      "published": "2026-11-06T20:09:11+00:00"
+    },
     {
       "id": "ee326c1068728250",
       "title": "2027 BMW i5, i7 And iX3 Buyers Get $500 In Charging Credits And 25% Off At IONNA, But Only For A Year",
