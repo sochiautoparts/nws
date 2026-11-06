@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-06T17:23:57.864686+00:00",
-  "generated_at_human": "2026-11-06 17:23 UTC",
+  "generated_at": "2026-11-06T17:28:16.262230+00:00",
+  "generated_at_human": "2026-11-06 17:28 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -11,6 +11,7 @@
     "Auto.Mail.RU",
     "AutoExpress",
     "AutoWeek NL",
+    "AutoWeek News",
     "Autocar",
     "Autocar Toyota",
     "Autosport All",
@@ -65,9 +66,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 60,
-  "multi_photo_items": 243,
+  "sources_count": 61,
+  "multi_photo_items": 244,
   "items": [
+    {
+      "id": "c05aa8f0fae526a4",
+      "title": "Yangwang U9 Xtreme Sets 312.65-MPH Production EV Speed Record",
+      "summary": "The BYD electric hypercar reached 503.17 km/h in Abu Dhabi, becoming the first production EV to break the 500-km/h barrier in a single-direction run.",
+      "url": "https://www.autoweek.com/news/a74360059/yangwang-u9-xtreme-sets-production-ev-speed-record/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/71aea463-9dac-487c-bf52-ce67ebe2052b.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/71aea463-9dac-487c-bf52-ce67ebe2052b.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/59e0254e-bd24-4d0b-94dd-2e4a0151bb8b.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/c727bc64-6c82-4bcf-912e-589125ae2bad.jpg?crop=0.666992187500xw:1.000000000000xh;0.243164062500xw,0.000000000000xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2cd9315d-5373-4e6b-8508-852e98e1a6f1.jpg?crop=0.6666xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/400c079a-7e21-4411-9576-fa650110da33.png?crop=0.558105468750xw:1.000000000000xh;0.227539062500xw,0.000000000000xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/350231c8-6fca-4eb6-8c30-812995619d82.jpg?crop=0.667000000000xw:1.000000000000xh;0.161200000000xw,0.000000000000xh&resize=360:*"
+      ],
+      "source": "AutoWeek News",
+      "source_url": "https://www.autoweek.com",
+      "published": "2026-11-06T17:26:03+00:00"
+    },
     {
       "id": "f277cda6891d1ec1",
       "title": "Think The Last VW Beetle Was Retro Enough? Hurtan Didn't, So They Built This",
@@ -7650,19 +7669,6 @@
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
       "published": "2026-11-05T09:34:45+00:00"
-    },
-    {
-      "id": "dba22ebe8686daca",
-      "title": "Insurance companies should not use court proceedings to prolong claims, force lower compensation – judge",
-      "summary": "A magistrate’s court has warned that insurance companies should not use court proceedings to prolong road accident claims, or pressure accident victims into accepting lower compensation, New Straits Times has reported. Sessions Court judge Saifullah Bhatti said that courts must prevent the judicial process from being abused, especially when defendants […] The post Insurance companies should not use court proceedings to prolong claims, force lower compensation – judge appeared first on Paul Tan's Automotive News .",
-      "url": "https://paultan.org/2026/11/05/insurance-companies-should-not-use-court-proceedings-to-prolong-claims-force-lower-compensation-judge/",
-      "image": "https://paultan.org/image/2024/02/Cement-lorry-crash-Tapah-July-2022-e1658551394361-630x330.jpeg",
-      "images": [
-        "https://paultan.org/image/2024/02/Cement-lorry-crash-Tapah-July-2022-e1658551394361-630x330.jpeg"
-      ],
-      "source": "Paul Tan",
-      "source_url": "https://paultan.org",
-      "published": "2026-11-05T09:32:06+00:00"
     }
   ]
 }
