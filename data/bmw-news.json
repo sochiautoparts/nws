@@ -1,12 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-06T07:15:43.019806+00:00",
-  "generated_at_human": "2026-11-06 07:15 UTC",
-  "total_items": 312,
+  "generated_at": "2026-11-06T07:20:05.754819+00:00",
+  "generated_at_human": "2026-11-06 07:20 UTC",
+  "total_items": 314,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
     "AutoWeek News",
+    "Autocar BMW i",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -61,6 +62,7 @@
     "Hagerty People",
     "Jalopnik",
     "Kolesa RU",
+    "Motor1",
     "Motor1 Aston Martin",
     "Motor1 BMW",
     "Motor1 Design",
@@ -76,9 +78,43 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 71,
-  "multi_photo_items": 12,
+  "sources_count": 73,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "71a4aa757e4e4642",
+      "title": "BMW’s Next Electric Wagon Spied Ahead Of 2027 Reveal: Video",
+      "summary": "Car paparazzi have caught the i3 Touring racking up miles during testing at the Nürburgring.",
+      "url": "https://www.motor1.com/news/814605/bmw-3-series-electric-wagon-spied/",
+      "image": "https://cdn.motor1.com/images/mgl/wlkXLQ/s3/2027-bmw-i3-touring-screenshot-from-spy-video.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/wlkXLQ/s3/2027-bmw-i3-touring-screenshot-from-spy-video.jpg",
+        "https://cdn.motor1.com/images/video-thumbs/youtube/FGJTQX-nCtM/s3/thumb.jpg",
+        "https://cdn.motor1.com/images/mgl/wlkboN/s5/2027-bmw-i3-first-drive-review.jpg",
+        "https://cdn.motor1.com/images/mgl/L36LYl/s5/2027-bmw-i3-first-drive-review.jpg",
+        "https://cdn.motor1.com/images/mgl/NG6nZX/s5/2027-bmw-i3-first-drive-review.jpg",
+        "https://cdn.motor1.com/images/mgl/eoW3Y8/s5/2027-bmw-i3-first-drive-review.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-06T07:14:36+00:00"
+    },
+    {
+      "id": "a74d1b44faf1913f",
+      "title": "Classic cars can do the everyday: 2500 miles in my E30 BMW 325i",
+      "summary": "All eyes are on BMW's Neue Klasse era, but touring in my Touring shows the Old Klasse still shines How did you celebrate 50 years of the BMW 3 Series ? I may have taken it a bit far by buying this E30-generation 325i Touring from 1990. Ever since selling my Porsche 944 four years ago, I've had a hankering to own an old car again. Something simple, light, moderately interesting and, above all, fun. The E30 ticked the boxes of being a relatively compact car (it's narrower than a current Mini Cooper C ) with an interesting engine, rear-wheel drive and a manual gearbox. It strikes that balance…",
+      "url": "https://www.autocar.co.uk/car-news/features/classic-cars-can-do-everyday-2500-miles-my-e30-bmw-325i",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ferrari-amalfi-action-2025-jh-25_1_1_0.jpg?itok=sDedfYiX",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ferrari-amalfi-action-2025-jh-25_1_1_0.jpg?itok=sDedfYiX",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/ferrari-amalfi-action-2025-jh-25_1_1_0.jpg?itok=lEHrpbdq",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/illya-verpraet-mug-1.jpg?itok=Uu02JECO"
+      ],
+      "source": "Autocar BMW i",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-11-06T07:00:00+00:00"
+    },
     {
       "id": "2ee038b5d410d205",
       "title": "BMW's Smallest SUV Getting Neue Klasse Treatment As 2028 iX2",
