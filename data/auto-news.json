@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-07T22:11:43.250906+00:00",
-  "generated_at_human": "2026-11-07 22:11 UTC",
+  "generated_at": "2026-11-07T22:16:04.747927+00:00",
+  "generated_at_human": "2026-11-07 22:16 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -22,7 +22,6 @@
     "Bring a Trailer",
     "Car and Driver",
     "Car and Driver News",
-    "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
     "CarScoops Ferrari",
@@ -58,9 +57,24 @@
     "TopSpeed",
     "TopSpeed main"
   ],
-  "sources_count": 53,
+  "sources_count": 52,
   "multi_photo_items": 366,
   "items": [
+    {
+      "id": "0ce2712fe7c76054",
+      "title": "FAA Finally Ditching Floppy Disks From Air Traffic Control",
+      "summary": "Over 400 locations are set to get the upgrade from the FAA's old system to a new, digitized system, but the cost keeps rising.",
+      "url": "https://www.jalopnik.com/2309930/faa-finally-ditching-floppy-discs-for-air-traffic-control/",
+      "image": "https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/l-intro-1794003528.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/l-intro-1794003528.jpg",
+        "https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/intro-1794003528.jpg",
+        "https://www.jalopnik.com/img/gallery/faa-finally-ditching-floppy-disks-from-air-traffic-control/air-traffic-control-infrastructure-is-in-dire-need-of-total-overhaul-1794003529.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-11-07T22:05:00+00:00"
+    },
     {
       "id": "b109f98431b13dc2",
       "title": "The Best Harley Tourer For Shorter Riders Isn't The Street Glide",
@@ -8162,24 +8176,6 @@
       "source": "CarBuzz",
       "source_url": "https://carbuzz.com",
       "published": "2026-11-05T14:00:11+00:00"
-    },
-    {
-      "id": "c0fc77037cf5d56b",
-      "title": "2027 Chevrolet Silverado 1500 Test: Capability, Comfort, and Style",
-      "summary": "With two new small-block V-8s, a new interior, and a wide-ranging trim lineup, the Silverado covers pickup needs from towing to dune jumps.",
-      "url": "https://www.caranddriver.com/reviews/a74312589/2027-chevrolet-silverado-1500-trail-boss-test/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c1602858-3fcc-4f45-96e5-e5c4b3bad73d.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/c1602858-3fcc-4f45-96e5-e5c4b3bad73d.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/848b3c11-eb4a-46ab-8e18-ad69a12e605b.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/7c2adb3f-7918-423e-a9c5-360220fd22dc.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/1a4f1d91-88bd-4880-9352-dad56a19077e.jpg?crop=0.576xw:0.576xh;0.085xw",
-        "https://hips.hearstapps.com/hmg-prod/images/cedb9057-76e8-4a29-84fc-f21a4a31f7b5.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/256c607e-b36b-42c7-8e09-72238074f400.jpg?crop=1xw:1xh;center"
-      ],
-      "source": "Car and Driver Reviews",
-      "source_url": "https://www.caranddriver.com",
-      "published": "2026-11-05T14:00:00+00:00"
     }
   ]
 }
