@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-07T05:04:11.717336+00:00",
-  "generated_at_human": "2026-11-07 05:04 UTC",
+  "generated_at": "2026-11-07T05:08:35.667673+00:00",
+  "generated_at_human": "2026-11-07 05:08 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -13,6 +13,7 @@
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
+    "Autocar Mercedes",
     "Autocar Toyota",
     "Autosport All",
     "Autosport F1",
@@ -61,9 +62,25 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 288,
+  "sources_count": 57,
+  "multi_photo_items": 289,
   "items": [
+    {
+      "id": "555cc999b29e5bbe",
+      "title": "Only diesel will do: 2000 miles in six days with Mercedes E450D",
+      "summary": "When a flight isn't available, only a big diesel will do - and they don't get much better than this How often do any of us use our cars for the exact purpose they were designed for? I'd wager the answer is 'not very'. As I creep off LeShuttle and into the French daylight, I think about the death of the big diesel estate. Audi and BMW have dropped their mile-munching load luggers from sale in the UK, and you can sort of understand why. Great Britain isn't a large island, after all, so who really needs the ability to haul a wardrobe from Plymouth to Inverness on one tank? Well, I do - but…",
+      "url": "https://www.autocar.co.uk/car-news/features/only-diesel-will-do-2000-miles-six-days-mercedes-e450d",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/e450d_europe_feature_untitled-1.jpg?itok=O05Su-69",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/e450d_europe_feature_untitled-1.jpg?itok=O05Su-69",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/e450d_europe_feature_untitled-1.jpg?itok=fEqOUZlY",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/jack_harrison.jpg?itok=m4b-9brd"
+      ],
+      "source": "Autocar Mercedes",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-11-07T05:00:00+00:00"
+    },
     {
       "id": "8bab89d46535b33f",
       "title": "Chevy's $4,160 Engine Option Made A 1969 Camaro Cost More Than An L88 Corvette",
@@ -7824,19 +7841,6 @@
       "source": "AutoWeek NL",
       "source_url": "https://www.autoweek.nl",
       "published": "2026-11-05T11:25:24+00:00"
-    },
-    {
-      "id": "88ef14eda6bf198c",
-      "title": "Aniioki A9 Pro Max review: Basically an electric motorcycle that you can pedal",
-      "summary": "There are electric bikes, there are electric motorcycles, and then there are machines like the Aniioki A9 Pro Max that plant a flag somewhere in the increasingly large no-man’s-land between the two. more…",
-      "url": "https://electrek.co/2026/11/05/aniioki-a9-pro-max-review-basically-an-electric-motorcycle-that-you-can-pedal/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/annioki-a9-pro-max-e-bike-e-moto-header-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "images": [
-        "https://electrek.co/wp-content/uploads/sites/3/2026/11/annioki-a9-pro-max-e-bike-e-moto-header-1.jpg?quality=82&#038;strip=all&#038;w=1600"
-      ],
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "published": "2026-11-05T11:25:13+00:00"
     }
   ]
 }

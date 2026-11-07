@@ -1,13 +1,14 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-07T05:04:11.712836+00:00",
-  "generated_at_human": "2026-11-07 05:04 UTC",
-  "total_items": 324,
+  "generated_at": "2026-11-07T05:08:35.657302+00:00",
+  "generated_at_human": "2026-11-07 05:08 UTC",
+  "total_items": 325,
   "sources_used": [
     "Auto Bild ES",
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar BMW i",
+    "Autocar Mercedes",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -80,9 +81,25 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 75,
-  "multi_photo_items": 18,
+  "sources_count": 76,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "555cc999b29e5bbe",
+      "title": "Only diesel will do: 2000 miles in six days with Mercedes E450D",
+      "summary": "When a flight isn't available, only a big diesel will do - and they don't get much better than this How often do any of us use our cars for the exact purpose they were designed for? I'd wager the answer is 'not very'. As I creep off LeShuttle and into the French daylight, I think about the death of the big diesel estate. Audi and BMW have dropped their mile-munching load luggers from sale in the UK, and you can sort of understand why. Great Britain isn't a large island, after all, so who really needs the ability to haul a wardrobe from Plymouth to Inverness on one tank? Well, I do - but…",
+      "url": "https://www.autocar.co.uk/car-news/features/only-diesel-will-do-2000-miles-six-days-mercedes-e450d",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/e450d_europe_feature_untitled-1.jpg?itok=O05Su-69",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/e450d_europe_feature_untitled-1.jpg?itok=O05Su-69",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/e450d_europe_feature_untitled-1.jpg?itok=fEqOUZlY",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/jack_harrison.jpg?itok=m4b-9brd"
+      ],
+      "source": "Autocar Mercedes",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-11-07T05:00:00+00:00"
+    },
     {
       "id": "5855c3cbb19be94a",
       "title": "Bimmer vs Beemer vs Beamer: The Real Reason BMW Has Three Different Names",
