@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-09T20:57:50.645121+00:00",
-  "generated_at_human": "2026-11-09 20:57 UTC",
+  "generated_at": "2026-11-09T21:02:13.246278+00:00",
+  "generated_at_human": "2026-11-09 21:02 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -46,7 +46,6 @@
     "Motor1 Kia",
     "Motor1 Lamborghini",
     "Motor1 Land Rover",
-    "Motor1 Maserati",
     "Motor1 Mercedes",
     "Motor1 Nissan",
     "Motoring Research",
@@ -70,9 +69,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 65,
-  "multi_photo_items": 95,
+  "sources_count": 64,
+  "multi_photo_items": 96,
   "items": [
+    {
+      "id": "65c980fc834348a9",
+      "title": "The Sport Tourer That Combines Supersport Performance With Long-Distance Comfort",
+      "summary": "BMW's flagship XR has a superbike engine, topped with tall underpinnings and oodles of comfort",
+      "url": "https://www.topspeed.com/bmw-m-1000-xr-with-supersport-performance-long-distance-comfort/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/2025-bmw-m-1000-xr-cornering-silhouette.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2025/12/2025-bmw-m-1000-xr-cornering-silhouette.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/gsx-s1000gt_m2_action_62-qt8-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/02/bmw-m-1000-xr.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/2026-bmw-m-1000-xr-sprinting-on-a-race-track.png?q=70&fit=crop&w=825&dpr=1",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/11/p90528822_highres_the-new-bmw-m-1000-x.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/11/p90527434_highres_the-new-bmw-m-1000-x.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-11-09T21:01:21+00:00"
+    },
     {
       "id": "75edb1fc1daf7fbd",
       "title": "Ford Allegedly Building Mustang GT350 Successor, But It Won’t Be A Shelby",
@@ -7005,19 +7022,6 @@
       "source": "Motorsport F1",
       "source_url": "https://www.motorsport.com",
       "published": "2026-11-08T19:39:51+00:00"
-    },
-    {
-      "id": "216875cba267188c",
-      "title": "Maserati Might Revive Two Familiar Names In December: Report",
-      "summary": "Maserati is reportedly prepping two concepts for a December 10 preview: the next Levante SUV and a radically new Quattroporte.",
-      "url": "https://www.motor1.com/news/814775/maserati-levante-quattroporte-concepts-rumored-december-debut/",
-      "image": "https://cdn.motor1.com/images/mgl/pb8g6r/s3/new-maserati-quattroporte-rumored.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/pb8g6r/s3/new-maserati-quattroporte-rumored.jpg"
-      ],
-      "source": "Motor1 Maserati",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-11-08T19:39:27+00:00"
     }
   ]
 }
