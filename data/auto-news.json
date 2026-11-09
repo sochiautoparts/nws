@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-09T20:48:56.746665+00:00",
-  "generated_at_human": "2026-11-09 20:48 UTC",
+  "generated_at": "2026-11-09T20:53:25.593711+00:00",
+  "generated_at_human": "2026-11-09 20:53 UTC",
   "total_items": 500,
   "sources_used": [
     "5koleso RU",
@@ -17,6 +17,7 @@
     "BarnFinds",
     "Bring a Trailer",
     "Car and Driver",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarExpert",
@@ -69,9 +70,27 @@
     "The Verge Transp",
     "TopSpeed"
   ],
-  "sources_count": 64,
+  "sources_count": 65,
   "multi_photo_items": 94,
   "items": [
+    {
+      "id": "09fb664023430934",
+      "title": "Audi Has Officially Ended Production of the A8 Flagship Sedan",
+      "summary": "After more than thirty years, Audi presses pause on its biggest sedan.",
+      "url": "https://www.caranddriver.com/news/a74378869/audi-a8-sedan-production-ended/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/a218144-medium-1635867803.jpg?crop=0.809xw:0.683xh;0.055xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-audi-s8-fd-129-1649645162.jpg?crop=1xw:0.843xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/a239116c-796f-4932-8699-88be0a1d79c4.jpg?crop=0.553xw:0.829xh;0.212xw,0.171xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg?crop=0.509xw:0.904xh;0.261xw,0.096xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg?crop=0.456xw:0.683xh;0.377xw,0xh&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-11-09T20:53:15+00:00"
+    },
     {
       "id": "5f64376066932068",
       "title": "The Rarest Pontiac Trans Am Ever Made",
@@ -6994,24 +7013,6 @@
       "source": "Auto Esporte BR",
       "source_url": "https://autoesporte.globo.com",
       "published": "2026-11-08T19:23:18+00:00"
-    },
-    {
-      "id": "c8df9bf9701deb5c",
-      "title": "Juan Carlos Toribio, ex guardia civil, sobre la V16: \"Lamento que la DGT haya abandonado la ciencia para tomar decisiones caprichosas con carga impositiva para los ciudadanos\"",
-      "summary": "El experto en seguridad vial carga contra la baliza V16 y asegura que los cuatro intermitentes o el propio vehículo se ven antes que la luz de emergencia.",
-      "url": "https://www.autobild.es/motor/juan-carlos-toribio-ex-guardia-civil-sobre-v16-lamento-que-dgt-haya-abandonado-ciencia-para-tomar-decisiones-caprichosas-con-carga-impositiva-para-los-ciudadanos_7058245_0.html",
-      "image": "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aedf1999099a0-35601746.png",
-      "images": [
-        "https://imagenes.autobild.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aedf1999099a0-35601746.png",
-        "https://imagenes.autobild.es/files/image_640_360/uploads/imagenes/2026/11/06/6aedf1999099a0-35601746.png",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/10/30/6ae49237161e48-84367399.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/10/23/6adb412ec62418-58284231.jpeg",
-        "https://imagenes.autobild.es/files/image_320_180/uploads/imagenes/2026/10/20/6ad725819cc7a6-14410955.jpeg",
-        "https://imagenes.autobild.es/files/image_120_120/uploads/imagenes/2026/01/14/69675f1453c7a5-57806593.png"
-      ],
-      "source": "Auto Bild ES",
-      "source_url": "https://www.autobild.es",
-      "published": "2026-11-08T19:00:00+00:00"
     }
   ]
 }
