@@ -1,12 +1,13 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-10T00:02:01.043247+00:00",
-  "generated_at_human": "2026-11-10 00:02 UTC",
-  "total_items": 309,
+  "generated_at": "2026-11-10T00:06:23.016880+00:00",
+  "generated_at_human": "2026-11-10 00:06 UTC",
+  "total_items": 311,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
     "Auto Esporte Carros",
+    "AutoExpress",
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
@@ -78,9 +79,45 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 73,
-  "multi_photo_items": 12,
+  "sources_count": 74,
+  "multi_photo_items": 14,
   "items": [
+    {
+      "id": "b8bb21e7dc5826ee",
+      "title": "BMW i3 vs Mercedes C-Class Electric vs Hyundai Ioniq 6: big test for the 3 Series EV",
+      "summary": "The new electric BMW 3 Series takes on Mercedes’ latest C-Class and the updated Hyundai Ioniq 6 in a premium EV showdown",
+      "url": "https://www.autoexpress.co.uk/bmw/i3/370862/bmw-i3-vs-mercedes-c-class-electric-vs-hyundai-ioniq-6-big-test-3-series-ev",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1235.jpg?w=845&fit=scale&auto=format,compress",
+      "images": [
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1235.jpg?w=845&fit=scale&auto=format,compress",
+        "https://www.autoexpress.co.uk/google_preferred_source_badge_light.png",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1577.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1447.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1468.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1326.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-11-10T00:02:07+00:00"
+    },
+    {
+      "id": "f9050e1169d785d4",
+      "title": "BMW i3 vs Mercedes C-Class Electric vs Hyundai Ioniq 6 - pictures",
+      "summary": "Pictures of the BMW i3, Mercedes C-Class Electric and Hyundai Ioniq 6. Photographer: Otis Clay",
+      "url": "https://www.autoexpress.co.uk/bmw/i3/370861/bmw-i3-vs-mercedes-c-class-electric-vs-hyundai-ioniq-6-pictures",
+      "image": "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1235.jpg?w=845&fit=scale&auto=format,compress",
+      "images": [
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1235.jpg?w=845&fit=scale&auto=format,compress",
+        "https://www.autoexpress.co.uk/google_preferred_source_badge_light.png",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1326.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_2226.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1011.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1",
+        "https://images.autoexpress.co.uk/autoexpress/2026/11/DSC_1056.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress&dpr=1"
+      ],
+      "source": "AutoExpress",
+      "source_url": "https://www.autoexpress.co.uk",
+      "published": "2026-11-10T00:01:51+00:00"
+    },
     {
       "id": "c74dee3e16dfffa0",
       "title": "The Premium ADV That Costs Less Than A Base-Level German Rival",
