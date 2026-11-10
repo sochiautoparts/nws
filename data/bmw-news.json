@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-10T10:57:30.239348+00:00",
-  "generated_at_human": "2026-11-10 10:57 UTC",
-  "total_items": 309,
+  "generated_at": "2026-11-10T11:01:51.238270+00:00",
+  "generated_at_human": "2026-11-10 11:01 UTC",
+  "total_items": 310,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -63,6 +63,7 @@
     "Hagerty Media",
     "Hagerty News",
     "Hagerty People",
+    "HotCars",
     "InsideEVs",
     "Jalopnik",
     "Motor.es",
@@ -79,9 +80,27 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 15,
+  "sources_count": 75,
+  "multi_photo_items": 16,
   "items": [
+    {
+      "id": "07cfa581807851eb",
+      "title": "Group A Homologation Specials: The Legends Explained",
+      "summary": "Group A replaced the banned Group B rally class and spawned legendary homologation specials from BMW, Ford, Subaru, Mitsubishi, Lancia, and Nissan.",
+      "url": "https://www.hotcars.com/how-group-bs-safer-successor-created-legendary-homologation-specials/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/1998-subaru-impreza-22b-sti-engine-bay.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/1998-subaru-impreza-22b-sti-engine-bay.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/04/1986-ford-rs200-evo-1.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/04/1998-subaru-impreza-22b-sti-front-three-quarter.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/05/1987-ford-sierra-rs-cosworth-front.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/2-16.png?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/06/subaru-impreza-wrx-22b-sti-1.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-11-10T11:00:14+00:00"
+    },
     {
       "id": "a20842d76dac3149",
       "title": "Polestar’s future revealed: Radical coupé shows sporting ambitions",
