@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-10T00:10:45.882251+00:00",
-  "generated_at_human": "2026-11-10 00:10 UTC",
-  "total_items": 311,
+  "generated_at": "2026-11-10T00:15:10.296790+00:00",
+  "generated_at_human": "2026-11-10 00:15 UTC",
+  "total_items": 312,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -11,6 +11,7 @@
     "AutoWeek NL",
     "AutoWeek News",
     "Autocar",
+    "Autocar BMW",
     "BMW Blog",
     "BMW Blog 1",
     "BMW Blog 3",
@@ -79,8 +80,8 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 14,
+  "sources_count": 75,
+  "multi_photo_items": 15,
   "items": [
     {
       "id": "b8bb21e7dc5826ee",
@@ -117,6 +118,24 @@
       "source": "AutoExpress",
       "source_url": "https://www.autoexpress.co.uk",
       "published": "2026-11-10T00:01:51+00:00"
+    },
+    {
+      "id": "28b2eeeb46ae5929",
+      "title": "New BMW i3 rated: EV goes straight to the top of the class",
+      "summary": "Super new electric 3 Series meets Britain’s shocking old roads We already know plenty about the eighth-generation BMW 3 Series - even the seminal EV tested here, confusingly called the i3 - because Matt Prior reviewed both petrol and electric versions last week. However, what he wasn't able to tell you was how the i3 performs on British roads, which the world's best suspension engineers (an unusually large proportion of whom reside in Europe) constantly tell us are quite different in width, surface, layout and quality from those in the other major global markets. This, indeed, is why BMW…",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-bmw-i3-rated-ev-goes-straight-top-class",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_i3_lead.jpg?itok=bK-lF1eP",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_i3_lead.jpg?itok=bK-lF1eP",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmw_i3_lead.jpg?itok=4EnWNIrL",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/steve-cropley-autocar.jpg?itok=leX3Z6_X",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/bmw_i3_uk_rear.jpg?itok=wsgcUETG",
+        "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/bmw_i3_uk_interior.jpg?itok=_Xs6gN9j"
+      ],
+      "source": "Autocar BMW",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-11-10T00:00:01+00:00"
     },
     {
       "id": "c74dee3e16dfffa0",
