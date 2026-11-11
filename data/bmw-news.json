@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-11T20:13:13.080083+00:00",
-  "generated_at_human": "2026-11-11 20:13 UTC",
-  "total_items": 314,
+  "generated_at": "2026-11-11T21:23:01.380036+00:00",
+  "generated_at_human": "2026-11-11 21:23 UTC",
+  "total_items": 316,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -48,6 +48,7 @@
     "Bike EXIF",
     "BimmerFile",
     "BimmerToday DE",
+    "Car and Driver",
     "Car and Driver BMW",
     "Car and Driver Reviews",
     "CarBuzz",
@@ -79,9 +80,40 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 74,
-  "multi_photo_items": 18,
+  "sources_count": 75,
+  "multi_photo_items": 19,
   "items": [
+    {
+      "id": "684f12dc485d9aaa",
+      "title": "The BMW G30 5 Series Looks Like a Bargain in 2026. Is It?",
+      "summary": "To many, BMW’s G30 5 Series represented a return to form. It lost weight relative to its F10 predecessor, thanks to widespread use of aluminum and other alloys. Exterior design updates were relatively tame, keeping... First published by https://www.bmwblog.com",
+      "url": "https://www.bmwblog.com/2026/11/11/bmw-g30-5-series-used-buying-guide-2026/",
+      "image": "https://cdn.bmwblog.com/wp-content/uploads/2020/09/The-new-BMW-545e-xDrive-Sedan-G30-LCI-2-830x553.jpg",
+      "images": [
+        "https://cdn.bmwblog.com/wp-content/uploads/2020/09/The-new-BMW-545e-xDrive-Sedan-G30-LCI-2-830x553.jpg"
+      ],
+      "source": "BMW Blog",
+      "source_url": "https://bmwblog.com",
+      "published": "2026-11-11T20:34:57+00:00"
+    },
+    {
+      "id": "9b6f4b8c44ad3a7a",
+      "title": "Our Long-Term Ram 1500 Taught Us to Love Hurricanes",
+      "summary": "Over 40,000 miles of towing, hauling, and road tripping, our six-cylinder Ram acted more like a BMW wearing Carhartt.",
+      "url": "https://www.caranddriver.com/reviews/a64034818/2025-ram-1500-big-horn-reliability-maintenance/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bad2b1a5-1e30-4556-8eda-7a26a24a28eb.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/bad2b1a5-1e30-4556-8eda-7a26a24a28eb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/5c7d5c91-3a26-4bd8-813c-129c40cced55.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/376e3c02-25a3-44ce-95a2-a0d6d1fad5f9.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/f1a91ab0-87fa-4357-a192-e72b52a2d19e.jpg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/cd3b1a39-4bc7-4028-b12d-46cbceeff198.jpg?crop=0.906xw:0.805xh;0.094xw",
+        "https://hips.hearstapps.com/hmg-prod/images/841bd4e3-bcb4-4398-8cf6-2bbe87073155.jpg?crop=1xw:1xh;center"
+      ],
+      "source": "Car and Driver",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-11-11T20:21:00+00:00"
+    },
     {
       "id": "f19b0ac852ed351c",
       "title": "The Only V10, Manual, 4-Seat Drop Top Ever Built Is Worth Less Than BMW's Cheapest New Car",
