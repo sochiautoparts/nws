@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-12T14:09:13.600618+00:00",
-  "generated_at_human": "2026-11-12 14:09 UTC",
+  "generated_at": "2026-11-12T14:13:37.802826+00:00",
+  "generated_at_human": "2026-11-12 14:13 UTC",
   "total_items": 500,
   "sources_used": [
     "Auto Esporte BR",
@@ -27,7 +27,6 @@
     "Hagerty Media",
     "Hooniverse",
     "HotCars",
-    "InsideEVs",
     "Jalopnik",
     "Motor1",
     "Motorious",
@@ -40,9 +39,23 @@
     "Sports Car Digest",
     "TopSpeed"
   ],
-  "sources_count": 35,
-  "multi_photo_items": 396,
+  "sources_count": 34,
+  "multi_photo_items": 397,
   "items": [
+    {
+      "id": "6c49cacdf6fc095e",
+      "title": "Aston Martin Goes From James Bond To Darth Vader With New Star Wars Collab",
+      "summary": "Aston Martin has never appeared in a Star Wars film, so why is it teaming up with Disney and Lucasfilm? Here's what we know about the deal so far.",
+      "url": "https://www.carscoops.com/2314522/aston-martin-star-wars-partnership/",
+      "image": "https://www.carscoops.com/img/gallery/aston-martin-goes-from-james-bond-to-darth-vader-with-new-star-wars-collab/l-intro-1794483436.jpg",
+      "images": [
+        "https://www.carscoops.com/img/gallery/aston-martin-goes-from-james-bond-to-darth-vader-with-new-star-wars-collab/l-intro-1794483436.jpg",
+        "https://www.carscoops.com/img/gallery/aston-martin-goes-from-james-bond-to-darth-vader-with-new-star-wars-collab/intro-1794483436.jpg"
+      ],
+      "source": "CarScoops",
+      "source_url": "https://www.carscoops.com",
+      "published": "2026-11-12T14:06:00+00:00"
+    },
     {
       "id": "e5b7f0c6a49353f1",
       "title": "2028 Honda CR-V Goes 100% Hybrid: New Platform, Powertrain",
@@ -8303,19 +8316,6 @@
       "source": "GM Authority",
       "source_url": "https://gmauthority.com",
       "published": "2026-11-09T21:38:05+00:00"
-    },
-    {
-      "id": "f90283de8047b579",
-      "title": "Land Rover Is Going After BYD Over This Alleged Defender Lookalike: Report",
-      "summary": "Jaguar Land Rover is challenging BYD over its Defender-like SUV. The dispute has already prompted raids on BYD's Dutch offices.",
-      "url": "https://insideevs.com/news/814898/byd-raided-jlr-netherlands-legal/",
-      "image": "https://cdn.motor1.com/images/mgl/P3Vw34/s3/jlr-defender-110-byd-ti7-hero.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/P3Vw34/s3/jlr-defender-110-byd-ti7-hero.jpg"
-      ],
-      "source": "InsideEVs",
-      "source_url": "https://insideevs.com",
-      "published": "2026-11-09T21:37:03+00:00"
     }
   ]
 }
