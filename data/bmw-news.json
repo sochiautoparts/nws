@@ -1,8 +1,8 @@
 {
   "kind": "bmw",
-  "generated_at": "2026-11-17T17:53:49.748698+00:00",
-  "generated_at_human": "2026-11-17 17:53 UTC",
-  "total_items": 389,
+  "generated_at": "2026-11-17T17:58:10.387983+00:00",
+  "generated_at_human": "2026-11-17 17:58 UTC",
+  "total_items": 390,
   "sources_used": [
     "Auto Bild ES",
     "Auto Esporte BR",
@@ -50,6 +50,7 @@
     "BimmerToday DE",
     "Car and Driver",
     "Car and Driver BMW",
+    "Car and Driver News",
     "Car and Driver Reviews",
     "CarBuzz",
     "CarScoops",
@@ -81,9 +82,27 @@
     "RushLane IN",
     "TopSpeed"
   ],
-  "sources_count": 76,
-  "multi_photo_items": 65,
+  "sources_count": 77,
+  "multi_photo_items": 66,
   "items": [
+    {
+      "id": "47604be8b470b0b5",
+      "title": "BMW Issues ‘Park Outside’ Warning for 720,796 Vehicles That Could Catch Fire",
+      "summary": "A short circuit in the water pump’s electrical connector could create a fire.",
+      "url": "https://www.caranddriver.com/news/a74453916/bmw-park-outside-water-pump-fire-risk-recall/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2018-bmw-x5-111-1528395665.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2018-bmw-x5-111-1528395665.jpg",
+        "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/11/2017-BMW-X4-M40i-101.jpg?crop=1xw:0.92xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/2026-honda-passport-trailsport-101-6995e6340274d.jpg?crop=0.397xw:0.595xh;0.286xw,0.25xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2025-lincoln-navigator-122-67ffe61dc1490.jpg?crop=0.507xw:0.761xh;0.163xw,0.113xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2022-hyundai-veloster-n-2-1639072883.jpg?crop=0.57xw:0.855xh;0.187xw,0.145xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2023-honda-pilot-elite-awd-109-64d10d848472c.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=360:*"
+      ],
+      "source": "Car and Driver News",
+      "source_url": "https://www.caranddriver.com",
+      "published": "2026-11-17T17:53:50+00:00"
+    },
     {
       "id": "52bad06591fcd573",
       "title": "2028 BMW M3 EV",
