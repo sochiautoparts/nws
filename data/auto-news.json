@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-17T18:15:33.252308+00:00",
-  "generated_at_human": "2026-11-17 18:15 UTC",
+  "generated_at": "2026-11-17T18:20:06.591917+00:00",
+  "generated_at_human": "2026-11-17 18:20 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -13,16 +13,31 @@
     "CarScoops",
     "CarScoops Ferrari",
     "CarScoops Kia",
-    "Carscoops News",
     "Hagerty Media",
     "HotCars",
     "Jalopnik",
     "Motor1",
     "TopSpeed"
   ],
-  "sources_count": 15,
+  "sources_count": 14,
   "multi_photo_items": 465,
   "items": [
+    {
+      "id": "2bf03198ef50bf32",
+      "title": "Aston Martin Reveals Fernando Alonso's Dakar Challenger Inspired By A 'Call Of Duty' Tie-In",
+      "summary": "The two-time F1 world champion won't be heading out into the desert alone.",
+      "url": "https://www.jalopnik.com/2319485/aston-martin-fernando-alonso-dakar-challenger/",
+      "image": "https://www.jalopnik.com/img/gallery/aston-martin-reveals-fernando-alonsos-dakar-challenger-inspired-by-a-call-of-duty-tie-in/l-intro-1794938534.jpg",
+      "images": [
+        "https://www.jalopnik.com/img/gallery/aston-martin-reveals-fernando-alonsos-dakar-challenger-inspired-by-a-call-of-duty-tie-in/l-intro-1794938534.jpg",
+        "https://www.jalopnik.com/img/uploads/embed/it-HsYBtH-1794935870.jpg",
+        "https://www.jalopnik.com/img/gallery/aston-martin-reveals-fernando-alonsos-dakar-challenger-inspired-by-a-call-of-duty-tie-in/intro-1794938534.jpg",
+        "https://www.jalopnik.com/img/gallery/aston-martin-reveals-fernando-alonsos-dakar-challenger-inspired-by-a-call-of-duty-tie-in/the-dreadnought-may-be-a-dakar-winner-on-debut-1794938535.jpg"
+      ],
+      "source": "Jalopnik",
+      "source_url": "https://jalopnik.com",
+      "published": "2026-11-17T18:07:42+00:00"
+    },
     {
       "id": "a01bffb0618d56fb",
       "title": "Toyota's 2.4L Turbo Four Is Outclassing The V6 That's Wrecking Tundra's Reputation",
@@ -8527,23 +8542,6 @@
       "source": "Motor1",
       "source_url": "https://www.motor1.com",
       "published": "2026-11-13T22:00:00+00:00"
-    },
-    {
-      "id": "516fbb4428b3f698",
-      "title": "Next-Gen Lotus Esprit Packs A 986+ HP Twin-Turbo V8 Hybrid Punch",
-      "summary": "A lightweight twin-turbo V8 paired with a hybrid drive and lightning-fast transmission should give the new Lotus Esprit serious Ferrari-rivaling ambition.",
-      "url": "https://www.carscoops.com/2316638/next-gen-lotus-esprit-twin-turbo-v8-hybrid-engine/",
-      "image": "https://www.carscoops.com/img/gallery/heres-the-v8-thatll-power-the-986-hp-lotus-esprit/l-intro-1794606807.jpg",
-      "images": [
-        "https://www.carscoops.com/img/gallery/heres-the-v8-thatll-power-the-986-hp-lotus-esprit/l-intro-1794606807.jpg",
-        "https://www.carscoops.com/img/uploads/embed/it-SqgTu6-1794313156.jpg",
-        "https://www.carscoops.com/img/uploads/embed/it-hxhSCI-1794313462.jpg",
-        "https://www.carscoops.com/img/gallery/heres-the-v8-thatll-power-the-986-hp-lotus-esprit/intro-1794606807.jpg",
-        "https://www.carscoops.com/img/gallery/heres-the-v8-thatll-power-the-986-hp-lotus-esprit/base-cars-get-a-hybrid-v6-1794606808.jpg"
-      ],
-      "source": "Carscoops News",
-      "source_url": "https://www.carscoops.com",
-      "published": "2026-11-13T21:53:50+00:00"
     }
   ]
 }
