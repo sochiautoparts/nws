@@ -1,7 +1,7 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-18T09:56:28.181543+00:00",
-  "generated_at_human": "2026-11-18 09:56 UTC",
+  "generated_at": "2026-11-18T10:00:52.721743+00:00",
+  "generated_at_human": "2026-11-18 10:00 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
@@ -18,11 +18,61 @@
     "HotCars",
     "Jalopnik",
     "Motor1",
-    "TopSpeed"
+    "TopSpeed",
+    "TopSpeed main"
   ],
-  "sources_count": 15,
-  "multi_photo_items": 461,
+  "sources_count": 16,
+  "multi_photo_items": 460,
   "items": [
+    {
+      "id": "a8772da84a67942b",
+      "title": "Inside The Lexus LFA's V10 Engine Toyota Perfected Only Once",
+      "summary": "The Lexus LFA's 4.8-liter V10 made 552 hp, hit 9,000 rpm in 0.6 seconds, and was built just 500 times. Here's why it was never repeated.",
+      "url": "https://www.topspeed.com/lexus-lfa-v10-engine-perfected/",
+      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2022/11/2011-Lexus-LFA-Race-Track.jpg",
+      "images": [
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2022/11/2011-Lexus-LFA-Race-Track.jpg",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2023/01/gallardo-3.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/image-31.jpeg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/2012-lexus-lfa.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/03/2012-lexus-lfa-1-2.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/02/image-12-1.jpeg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "TopSpeed main",
+      "source_url": "https://www.topspeed.com",
+      "published": "2026-11-18T10:00:19+00:00"
+    },
+    {
+      "id": "7f3fd71ed0a83ce9",
+      "title": "The Botched Test That Made Plymouth's $2,547 Giant-Killer Look Like Just Another Compact",
+      "summary": "Learn about the cut-price small-block Plymouth muscle car that was a giant-killer, but got an underwhelming reputation.",
+      "url": "https://www.hotcars.com/botched-test-that-made-plymouths-giant-killer-look-like-just-another-compact/",
+      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-1.jpg",
+      "images": [
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-1.jpg",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-12.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-14.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-10.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-7.jpg?q=49&fit=crop&w=825&dpr=2",
+        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2026/07/1972-plymouth-duster-340-6.jpg?q=49&fit=crop&w=825&dpr=2"
+      ],
+      "source": "HotCars",
+      "source_url": "https://www.hotcars.com",
+      "published": "2026-11-18T10:00:14+00:00"
+    },
+    {
+      "id": "b82f7ffb9089c147",
+      "title": "Mercedes-Benz Faces US Scrutiny Over Chinese Ownership And Technology Partnerships",
+      "summary": "Bipartisan House China Committee questions Mercedes-Benz on ownership, technology sharing, data security, and Chinese-made parts in vehicles sold in the US.",
+      "url": "https://www.motor1.com/news/815841/mercedes-benz-us-china-scrutiny/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZA9l/s3/mercedes-amg-gt-suv.jpg",
+      "images": [
+        "https://cdn.motor1.com/images/mgl/OoZA9l/s3/mercedes-amg-gt-suv.jpg"
+      ],
+      "source": "Motor1",
+      "source_url": "https://www.motor1.com",
+      "published": "2026-11-18T09:54:43+00:00"
+    },
     {
       "id": "4b4827c02a7beef3",
       "title": "New Hongqi EHS4 could be the next unknown Chinese SUV to land in the UK",
@@ -8471,54 +8521,6 @@
       "source": "Car and Driver",
       "source_url": "https://www.caranddriver.com",
       "published": "2026-11-14T16:00:00+00:00"
-    },
-    {
-      "id": "64b6126e9c187d38",
-      "title": "Before Putting Your Child In The Front Seat, There's Something You Need To Know",
-      "summary": "A simple seating decision could have serious consequences. Here's when it's safe to put a child in the front.",
-      "url": "https://www.motor1.com/features/814961/child-seat-front-passenger-seat-safety/",
-      "image": "https://cdn.motor1.com/images/mgl/Oozl7X/s3/babyark-child-seat-designed-by-frank-stephenson.jpg",
-      "images": [
-        "https://cdn.motor1.com/images/mgl/Oozl7X/s3/babyark-child-seat-designed-by-frank-stephenson.jpg",
-        "https://cdn.motor1.com/images/video-thumbs/youtube/D0EqvBDUoh8/s3/thumb.jpg"
-      ],
-      "source": "Motor1",
-      "source_url": "https://www.motor1.com",
-      "published": "2026-11-14T16:00:00+00:00"
-    },
-    {
-      "id": "4ad42cc915015e90",
-      "title": "The Most Powerful Muscle Car In The World In The '90s Was British",
-      "summary": "The most powerful muscle car in the '90s wasn't an American drag strip hero; it was a British hand-built masterpiece",
-      "url": "https://www.hotcars.com/most-powerful-muscle-car-the-world-in-the-90s-was-british/",
-      "image": "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-6.jpg",
-      "images": [
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-6.jpg",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-1.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-7.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-3.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-2.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/12/aston-vantage-le-mans-v600-4.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
-      ],
-      "source": "HotCars",
-      "source_url": "https://www.hotcars.com",
-      "published": "2026-11-14T15:15:15+00:00"
-    },
-    {
-      "id": "65a6c1a7d017ef30",
-      "title": "This Tractor Supply Mini-Excavator May Not Be The Smallest, But It Is One Of The Cutest",
-      "summary": "If you ever played with construction toys as a kid, this mini-excavator may ring some bells with you. It just looks like it would turn work into fun.",
-      "url": "https://www.jalopnik.com/2316493/tractor-supply-mini-excavator-not-smallest-still-cutest/",
-      "image": "https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/l-intro-1794600593.jpg",
-      "images": [
-        "https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/l-intro-1794600593.jpg",
-        "https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/intro-1794600593.jpg",
-        "https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/yardmaxs-contender-for-the-smallest-excavator-is-part-workhorse-part-sandbox-throwback-1794600594.jpg",
-        "https://www.jalopnik.com/img/gallery/this-tractor-supply-mini-excavator-may-not-be-the-smallest-but-it-is-one-of-the-cutest/the-yardmax-mini-excavator-isnt-even-the-smallest-one-around-1794600594.jpg"
-      ],
-      "source": "Jalopnik",
-      "source_url": "https://jalopnik.com",
-      "published": "2026-11-14T15:05:00+00:00"
     }
   ]
 }
