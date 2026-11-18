@@ -1,12 +1,13 @@
 {
   "kind": "auto",
-  "generated_at": "2026-11-18T06:56:58.531999+00:00",
-  "generated_at_human": "2026-11-18 06:56 UTC",
+  "generated_at": "2026-11-18T07:01:20.548191+00:00",
+  "generated_at_human": "2026-11-18 07:01 UTC",
   "total_items": 500,
   "sources_used": [
     "AutoExpress",
     "AutoWeek News",
     "Autocar",
+    "Autocar Tesla",
     "Car and Driver",
     "Car and Driver News",
     "CarBuzz",
@@ -19,9 +20,25 @@
     "Motor1",
     "TopSpeed"
   ],
-  "sources_count": 14,
+  "sources_count": 15,
   "multi_photo_items": 462,
   "items": [
+    {
+      "id": "649d01c627b39d7a",
+      "title": "Should you worry about repair and parts delays on a Chinese car?",
+      "summary": "Fast-growing Chinese firms are racing to support booming sales with slick parts and maintenance operations Four years after the current wave of Chinese brands began to take the UK car market by storm, stories and rumours about long vehicle repair times continue to circulate, despite claims by the companies that they have substantially improved their aftersales support. This September, the Jaecoo 7 topped the UK sales chart when almost 11,000 examples were sold, which moved it into the number two spot for 2026 behind the Ford Puma . For the year to date, Chinese brands have achieved an 18%…",
+      "url": "https://www.autocar.co.uk/car-news/consumer/should-you-worry-about-repair-and-parts-delays-chinese-car",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/lead_2_5.jpg?itok=3fkqY8Um",
+      "images": [
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/lead_2_5.jpg?itok=3fkqY8Um",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/lead_2_5.jpg?itok=7JnAC2Gd",
+        "https://www.autocar.co.uk/sites/default/themes/custom/autocar/images/ipso_regulated.png",
+        "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/square_43x43/public/john-evans_1.jpg?itok=t63gtI6r"
+      ],
+      "source": "Autocar Tesla",
+      "source_url": "https://www.autocar.co.uk",
+      "published": "2026-11-18T07:00:00+00:00"
+    },
     {
       "id": "dbbf5738c1834325",
       "title": "Mercedes Is Auctioning A Rare C 111 Supercar With A Rotary Engine",
@@ -8507,24 +8524,6 @@
       "source": "Jalopnik",
       "source_url": "https://jalopnik.com",
       "published": "2026-11-14T13:05:00+00:00"
-    },
-    {
-      "id": "2b349c6691f7acd6",
-      "title": "The Cadillac XT5 Could Be A More Sensible Used Luxury SUV Than Buyers Expect",
-      "summary": "A used XT5 starts at less than half its German rivals, while offering competitive cabin refinement and solid reliability.",
-      "url": "https://www.topspeed.com/used-cadillac-xt5-more-sensible-than-buyers-expect/",
-      "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today339862.jpg",
-      "images": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today339862.jpg",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today339847.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today466827.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today466828.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today339887.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/11/today339850.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2"
-      ],
-      "source": "TopSpeed",
-      "source_url": "https://www.topspeed.com",
-      "published": "2026-11-14T13:00:19+00:00"
     }
   ]
 }
